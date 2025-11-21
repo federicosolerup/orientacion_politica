@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "20.000 pesos para los funcionarios, mientras mi esposo, con cáncer, necesita 8.600.000 pesos para sus medicamentos, y el PAMI no se los proporciona.",
+      "entidades_detectadas": [
+        "pami"
+      ]
+    },
+    {
+      "frase": "El Estado se niega a entregarles alimentos y recurre a la justicia para evitarlo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Argentina no es un país pobre, es un país injusto.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

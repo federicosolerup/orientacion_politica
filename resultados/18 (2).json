@@ -1,0 +1,426 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Quisiera hablar, Jorge Rial, te saluda.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "¿Cómo andas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por la invitación a participar en tu programa en un día clave para nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Algo me contaron?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero me interesa que me lo cuentes vos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mucha gente no sabe que, una vez presentada la lista, hay una etapa de oficialización.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Esa oficialización la otorga la Junta Electoral de la Provincia de Buenos Aires, compuesta por Leonardo Nardini, Daniela Vilar, Margarita Recalde, Mariana Moretti (representante de Fernanda Raverta en la quinta sección), Mariano Cascallares y María Teresa García.",
+      "entidades_detectadas": [
+        "Fernanda Raverta",
+        "Leonardo Nardini",
+        "María Teresa García",
+        "Margarita Recalde",
+        "Junta Electoral de la Provincia de Buenos Aires",
+        "Mariana Moretti",
+        "Daniela Vilar",
+        "Mariano Cascallares"
+      ]
+    },
+    {
+      "frase": "Debemos sumar al diputado Juan Pablo de Jesús, exintendente de La Costa e hijo del candidato, el Dr.",
+      "entidades_detectadas": [
+        "Juan Pablo de Jesús",
+        "La Costa"
+      ]
+    },
+    {
+      "frase": "Juan de Jesús.",
+      "entidades_detectadas": [
+        "Juan de Jesús"
+      ]
+    },
+    {
+      "frase": "También están Ramiro Gutiérrez y Rubén Sleiman.",
+      "entidades_detectadas": [
+        "Rubén Sleiman",
+        "Ramiro Gutiérrez"
+      ]
+    },
+    {
+      "frase": "Ellos deben certificar que las tres listas presentadas por Unión por la Patria puedan participar en las PASO, como ha ocurrido en muchos municipios bonaerenses.",
+      "entidades_detectadas": [
+        "Unión",
+        "Patria"
+      ]
+    },
+    {
+      "frase": "Sin embargo, podría haber objeciones, y queremos anticiparnos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perfecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, se define hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es bueno, Jorge, porque sé que muchos dirigentes, tanto del país como del interior de la provincia de Buenos Aires, ven sus listas descartadas sin mayores explicaciones.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Al trabajar en los medios y ser periodistas, tenemos la posibilidad de explicarlo antes; algo que muchos dirigentes, cuyas listas son rechazadas sin explicaciones, no pueden hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Queremos competir, hemos armado una lista, hemos militado y tenemos el derecho que nos otorga la democracia argentina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "¿Y por qué te presentaste como candidato?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Cuando regresé, sentía que, por edad, ya no tenía ganas de trabajar todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te habrá pasado a vos también, esos siete días a la semana, tarde y noche.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que volví a casa, acomodé las cosas en el canal (que afortunadamente me dio la oportunidad de programar fines de semana) y, al regresar, me encontré con que el lugar no era el que había dejado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Había cambiado.",
+      "entidades_detectadas": [
+        "Había"
+      ]
+    },
+    {
+      "frase": "Es cierto que hubo crecimiento, pero no desarrollo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al escuchar a mis vecinos y amigos, a la gente que había dejado aquí, sufrí al ver las situaciones que atraviesan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Considero que el Partido de la Costa, por sus recursos y por ser visitado por tres millones de personas, merece un futuro mejor.",
+      "entidades_detectadas": [
+        "Partido de la Costa"
+      ]
+    },
+    {
+      "frase": "Por eso me involucré; siempre me interesó y creí que era el momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo estás, Mauro?",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "(Mauro saluda) ¿Cómo estás, Mauro?",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Bien, querido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siguiendo la rosca de estos días, entiendo que hay sectores en disputa; es lógico, lícito y legítimo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Perteneces al espacio del precandidato presidencial?",
+      "entidades_detectadas": [
+        "¿Perteneces"
+      ]
+    },
+    {
+      "frase": "Sí, claramente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el Partido de la Costa somos el Frente Renovador que lidera Sergio Massa, dentro de Unión por la Patria.",
+      "entidades_detectadas": [
+        "Frente Renovador",
+        "Sergio Massa",
+        "Partido de la Costa",
+        "Unión",
+        "Patria"
+      ]
+    },
+    {
+      "frase": "Tenemos derecho a participar en la elección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se habló mucho del poder de la lapicera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién la ejerce de forma más o menos discrecional?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Hay cosas que el público desconoce y que es bueno contar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie debería pedir permiso para militar o participar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no pides permiso o no haces esas llamadas, aunque tengas mucho apoyo y cumplas con la ley, no alcanza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la quinta sección electoral, el poder lo ejercen Fernando Raverta y Juan Pablo de Jesús.",
+      "entidades_detectadas": [
+        "Juan Pablo de Jesús",
+        "Fernando Raverta"
+      ]
+    },
+    {
+      "frase": "Casualmente, Juan Pablo de Jesús fue intendente tres veces del Partido de la Costa, al igual que su padre, y Cristian Cardozo pertenece a su mismo armado.",
+      "entidades_detectadas": [
+        "Juan Pablo de Jesús",
+        "Partido de la Costa",
+        "Cristian Cardozo"
+      ]
+    },
+    {
+      "frase": "Llevan 40 años controlando el Partido Justicialista del Partido de la Costa.",
+      "entidades_detectadas": [
+        "Partido de la Costa",
+        "Partido Justicialista"
+      ]
+    },
+    {
+      "frase": "No niego su trayectoria, pero tampoco el peso de la quinta sección, a pesar de que en las últimas elecciones quedó pintada de amarillo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, y Raverta, como dijiste, es de La Cámpora, y tiene mucho peso en la quinta sección.",
+      "entidades_detectadas": [
+        "Raverta",
+        "Claro",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Insistimos, queremos competir y anticiparnos a posibles situaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tenemos información, pero no queremos que nos pase como a otros compañeros cuyos listas fueron rechazadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Existe el “artículo sexto”, que no es un artículo legal, sino que se refiere a las listas descartadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Leí una nota de Bruno Blázar en Data Clave sobre la sexta sección electoral, donde, de 22 distritos, ocho intendentes de Unión por la Patria están molestos por la conformación de las nóminas en la región sudeste de la provincia de Buenos Aires.",
+      "entidades_detectadas": [
+        "Leí",
+        "Unión",
+        "Data Clave",
+        "provincia de Buenos Aires",
+        "Bruno Blázar"
+      ]
+    },
+    {
+      "frase": "Se les ofreció una lista única a cambio de ceder representantes en el parlamento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Parece que se olvidaron de un factor determinante: lo que pide el pueblo bonaerense.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo que quieren votar: caras nuevas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entendemos que tenemos derecho a participar, incluso en municipios gobernados por intendentes históricos de Unión por la Patria.",
+      "entidades_detectadas": [
+        "Unión",
+        "Patria"
+      ]
+    },
+    {
+      "frase": "En La Costa, ni siquiera competimos con el intendente, ya que Cristian Cardozo fue desplazado por el Dr.",
+      "entidades_detectadas": [
+        "La Costa",
+        "Cristian Cardozo"
+      ]
+    },
+    {
+      "frase": "Juan de Jesús (83 años).",
+      "entidades_detectadas": [
+        "Juan de Jesús"
+      ]
+    },
+    {
+      "frase": "Entiendo que intentarán detener a nuestra lista, pero si el puesto de intendente está vacante, tenemos derecho a postularnos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es un cambio de vida interesante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dije que estaba cansado, volví a La Costa… y terminé involucrado.",
+      "entidades_detectadas": [
+        "La Costa"
+      ]
+    },
+    {
+      "frase": "Lo bueno es cuando la gente te acompaña y sientes que es útil para la sociedad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dejé algo importante (el periodismo) para hacer algo trascendente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Y lo estamos logrando!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a estar cerca de esto, te mando un abrazo grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abrazo grande, y esperemos que esto llegue a buen puerto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "No vamos a mover cielo y tierra para votar, pero sí haremos lo necesario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "Hasta luego.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Fernanda Raverta",
+    "Mariana Moretti",
+    "Fernando Raverta",
+    "Leí",
+    "Vamos",
+    "Daniela Vilar",
+    "Partido Justicialista",
+    "Había",
+    "La Cámpora",
+    "Jorge Rial",
+    "Juan Pablo de Jesús",
+    "Leonardo Nardini",
+    "regresé",
+    "Mauro",
+    "Junta Electoral de la Provincia de Buenos Aires",
+    "Ramiro Gutiérrez",
+    "Llevan",
+    "Rubén Sleiman",
+    "Entiendo",
+    "Patria",
+    "Claro",
+    "También están",
+    "María Teresa García",
+    "Cristian Cardozo",
+    "Margarita Recalde",
+    "Sergio Massa",
+    "Raverta",
+    "¿Quién",
+    "Partido de la Costa",
+    "Insistimos",
+    "Unión",
+    "Bien",
+    "provincia de Buenos Aires",
+    "Data Clave",
+    "Bruno Blázar",
+    "Dr. Juan de Jesús",
+    "Frente Renovador",
+    "¿",
+    "¿Perteneces",
+    "La Costa",
+    "Jorge",
+    "Vamos!",
+    "Así",
+    "Mariano Cascallares"
+  ]
+}

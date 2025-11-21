@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 11
+    },
+    "score_promedio": 0.534,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Esto que usted está escuchando, y a lo mejor no todo el mundo entiende, porque a veces cuando aparecen cosas que tienen que ver con situaciones legales muy particulares, que sí, que sí hablan, que sí no hablan, que la cláusula de protección y no, el ciudadano dice: \"me perdí\".",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces es importante mantener el eje de las cosas para darnos cuenta de qué es lo que se trata y fundamentalmente, de la importancia que tiene que en la Argentina este caso avance, como tantos otros.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay tres obras principales: una que tiene que ver con obras de AySA, un gasoducto y el tema del soterramiento del Sarmiento, aquello que Cristina [Fernández de] Kirchner anunciaba y se anunciaban también juntos, dos o tres, cuatro veces durante su gobierno, y nada ocurría.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y [era] Cristina Fernández de Kirchner, no hay otra.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, puede que, a lo mejor, usted sabe, estaba ahí la empresa IECSA de Ángelo Calcaterra, el primo de Macri, puede que esté tocada, pero en esas obras, las obras nacionales, la corrupción era nacional.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo punto, en cuanto a lo que hoy es la investigación y yo lo quiero marcar como elemento relevante, decisivo, determinante, como desafío de la Argentina: ¿cómo se va a investigar esto aquí?",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comparamos con Brasil; con todo respeto hacia Brasil, como si en Brasil dijeran: \"Esto de la Argentina no representa, a Brasil, ningún paradigma, ningún parámetro de lo que es la honestidad pública, el funcionamiento judicial y demás\", como no representa la Argentina.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, Brasil ha demostrado tener algunos jueces.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene por los corruptos, pero aquellos jueces decentes han tenido una decisión y un concepto republicano que hace que le saquemos el sombrero.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El juez que allanó el Congreso terminó con la carrera política de quien podía ser el próximo presidente, un corrupto.",
+      "score": 0.833,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de Odebrecht está preso, Marcelo Odebrecht, 18 años, y va a seguir preso.",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Hay un juez que hoy podría allanar el Congreso, la Casa de Gobierno?",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le doy un detalle: [Lázaro] Báez está confiado que va a zafar.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo dice, se lo dice, una clase de soberbia, se lo dice, una vez le dijo a alguien: \"No me van a agarrar, ninguna que vayan a encontrar mis firmas\".",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo lo que dice Báez, lo cual no significa que sea inocente.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Marco para, marco para ahondar sobre este problema que tiene en Argentina de la justicia, que no ocurre en tiempo real, entonces no sirve para combatir la corrupción.",
+      "score": 0.469,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Brasil está en juego la presidencia como consecuencia de esta investigación de corrupción.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, antes, no todos estos hechos que se conocen de Cristina Fernández de Kirchner de corrupción se conocían desde antes, ningún juez tuvo lo que usted llama gallas.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Efectivamente, para avanzar y es más, el otro día apareció Cristina que tiene posibilidades electorales, algunos jueces que están, van por tomar decisiones negativas para el sector del kirchnerismo, han levantado el acelerador, diciendo: \"Y si vuelve\", esto es lo que pasa con la Argentina.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem fue juzgado por el tema de armas, 20 años después, ¿sirvió?",
+      "score": 0.434,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta justicia argentina es un estímulo para la corrupción.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

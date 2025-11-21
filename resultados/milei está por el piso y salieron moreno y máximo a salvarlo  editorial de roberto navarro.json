@@ -1,0 +1,290 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El ministro de Economía, Luis Caputo, debió salir a calmar los mercados luego de ocho días de fuertes intervenciones del Banco Central.",
+      "entidades_detectadas": [
+        "Luis Caputo",
+        "ministro de Economía",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Ayer fue el peor día, pues a pesar del importante gasto del Banco Central, el dólar siguió subiendo.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "La situación se agravó por la declaración de Carlos Melconian, un influyente consultor de grandes empresas argentinas.",
+      "entidades_detectadas": [
+        "Carlos Melconian"
+      ]
+    },
+    {
+      "frase": "Sus declaraciones, con un pronóstico económico muy negativo, presionaron a Caputo a realizar su intervención.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Escuchemos lo que dijo Melconian para contextualizar la situación.",
+      "entidades_detectadas": [
+        "Melconian"
+      ]
+    },
+    {
+      "frase": "Melconian señaló que el régimen fiscal se mostraba favorable, aunque el monetario era más bien preocupante.",
+      "entidades_detectadas": [
+        "Melconian"
+      ]
+    },
+    {
+      "frase": "Criticó las declaraciones grandilocuentes sobre la base monetaria —que no se emitía desde hacía siete meses— como irrelevantes.",
+      "entidades_detectadas": [
+        "Criticó"
+      ]
+    },
+    {
+      "frase": "Afirmó que el verdadero problema residía en el régimen cambiario, que está en rojo.",
+      "entidades_detectadas": [
+        "Afirmó"
+      ]
+    },
+    {
+      "frase": "El ingenioso esquema cambiario implementado al comienzo del gobierno, que permitió acumular reservas al evitar el pago de importaciones durante el primer semestre del año pasado, tenía fecha de vencimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, el blanqueo de capitales también contribuyó a la situación actual.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Todas estas medidas —la modificación del régimen cambiario, el apuro, la brecha cambiaria y su persistencia, etc.— estaban planeadas para el segundo semestre del año pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El acuerdo con el FMI, según Melconian, implicaba que el Banco Central debía dejar de vender dólares que no le pertenecen, pues sus reservas están agotadas.",
+      "entidades_detectadas": [
+        "FMI",
+        "Banco Central",
+        "Melconian"
+      ]
+    },
+    {
+      "frase": "El Banco Central ha estado vendiendo los dólares depositados por la población, lo cual es gravísimo.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "En línea con esta crítica, el periodista Eduardo Rossi, de la Nación, también emitió un discurso contundente sobre la situación cambiaria.",
+      "entidades_detectadas": [
+        "Nación",
+        "Eduardo Rossi"
+      ]
+    },
+    {
+      "frase": "Parece que el gobierno se aproxima al momento de mostrar otras alternativas, poniendo a prueba la teoría económica que algunos han denominado \"Milei-Caputo-Kirchner\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto podría implicar una modificación de la política cambiaria, incluso una flexibilización del cepo cambiario, aunque no se sabe en qué medida ni cuándo ocurrirá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La idea de una devaluación programada (\"crawling peg\") tendría que cambiar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Nación incluso insinuó una próxima devaluación.",
+      "entidades_detectadas": [
+        "Nación"
+      ]
+    },
+    {
+      "frase": "Melconian, en otra declaración en el canal TIDO 29,  agravó la situación al generar incertidumbre en el mercado.",
+      "entidades_detectadas": [
+        "Melconian"
+      ]
+    },
+    {
+      "frase": "Se habló de una posible entrada masiva de fondos, pero Melconian señaló que una refinanciación del FMI sería preferible, ya que un ingreso de dinero que no se puede utilizar adecuadamente crearía expectativas falsas, generando un problema mayor que la solución en caso de no cumplirse.",
+      "entidades_detectadas": [
+        "FMI",
+        "Melconian"
+      ]
+    },
+    {
+      "frase": "Sobre la declaración de Caputo, me contactó un consultor que opina que las medidas anunciadas son insuficientes.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "El acuerdo con el FMI, según Caputo, implica un desembolso de 20.000 millones de dólares, superior a las cifras que circulaban.",
+      "entidades_detectadas": [
+        "FMI",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Sin embargo, considerando la deuda argentina de 14.000 millones de dólares,  el ingreso neto sería de solo 6.000 millones, una cifra muy baja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, las reservas del Banco Central están disminuyendo rápidamente, según datos de Buteler.",
+      "entidades_detectadas": [
+        "Banco Central están",
+        "Además",
+        "Buteler"
+      ]
+    },
+    {
+      "frase": "Caputo argumentó que, sumando el financiamiento del FMI, el BID, el Banco Mundial y la CAF, Argentina alcanzaría cerca de 50.000 millones de dólares en reservas brutas.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Caputo",
+        "CAF",
+        "Banco Mundial",
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Comparando esta cifra con la base monetaria en dólares (aproximadamente 25.000 millones al tipo de cambio oficial y 20.000 millones al tipo de cambio libre),  se observa un nivel de respaldo superior al existente incluso en la época de la convertibilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso considerando la base monetaria amplia, el respaldo sigue siendo elevado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi consultor, sin embargo, considera que los 6.000 millones de dólares adicionales son insuficientes, especialmente considerando el vencimiento de 14.000 millones de dólares en deuda con el FMI en los próximos cuatro años.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Además, critica que Caputo haya omitido mencionar la posibilidad de una flotación cambiaria en su conferencia de prensa.",
+      "entidades_detectadas": [
+        "Además",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "La situación económica empeora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, las cadenas de supermercados están importando asado de Brasil a un precio significativamente menor que el del asado argentino.",
+      "entidades_detectadas": [
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Esto refleja la ineficacia del tipo de cambio actual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El economista Carlos Rodríguez también criticó la falta de una política económica coherente, señalando la creciente salida de argentinos al exterior y la disminución de los ingresos de divisas.",
+      "entidades_detectadas": [
+        "Carlos Rodríguez"
+      ]
+    },
+    {
+      "frase": "El índice de confianza del consumidor y del empresario también ha bajado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para empeorar aún más la situación, el gobierno respondió reprimiendo las protestas de jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las protestas de los jubilados evidencian la grave situación social y económica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su situación de precariedad refleja la crisis, y también ha habido denuncias de represión policial, incluyendo el uso de gas pimienta contra manifestantes pacíficos, incluso niños.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto se suma a la preocupación por el retroceso democrático en Argentina, reflejado en índices internacionales que indican un riesgo de autocratización.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "La crisis también genera incertidumbre política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La oposición se muestra dividida, con ejemplos como la decisión de Leandro Santoro de ofrecer un lugar en la lista a Juan Grabois, pese a las diferencias ideológicas.",
+      "entidades_detectadas": [
+        "Leandro Santoro",
+        "Juan Grabois"
+      ]
+    },
+    {
+      "frase": "Otro punto crítico es la estrategia electoral del oficialismo, con maniobras como el intento de desdoblamiento de las elecciones en la provincia de Buenos Aires por parte de Axel Kicilloff, que generó disputas internas con la Cámpora y generó una crisis política.",
+      "entidades_detectadas": [
+        "Cámpora",
+        "generó",
+        "Axel Kicilloff",
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "La división interna del peronismo, con figuras como Máximo Kirchner, Sergio Massa y Axel Kicilloff, dificulta la respuesta a la crisis.",
+      "entidades_detectadas": [
+        "Axel Kicilloff",
+        "Sergio Massa",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, los medios de comunicación opositores intensifican la crítica al gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Caputo",
+    "Banco Central",
+    "Eduardo Rossi",
+    "Otro",
+    "Melconian",
+    "Afirmó",
+    "Cámpora",
+    "Parece",
+    "Máximo Kirchner",
+    "Carlos Rodríguez",
+    "Banco Central están",
+    "Además",
+    "Carlos Melconian",
+    "Juan Grabois",
+    "Axel Kicilloff",
+    "Nación",
+    "Leandro Santoro",
+    "Argentina",
+    "Sergio Massa",
+    "CAF",
+    "Ayer",
+    "Banco Mundial",
+    "ministro de Economía",
+    "Luis Caputo",
+    "FMI",
+    "provincia de Buenos Aires",
+    "Brasil",
+    "generó",
+    "Comparando",
+    "La Nación",
+    "Buteler",
+    "Criticó"
+  ]
+}

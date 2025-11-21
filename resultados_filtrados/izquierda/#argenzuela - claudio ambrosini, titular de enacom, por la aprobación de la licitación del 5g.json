@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La conversación comenzó con una breve referencia al estado de salud de Ambrosini, quien se mostró recuperado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ambrosini indicó que las principales empresas de telecomunicaciones de Argentina (Telecom y Claro, entre otras) serían las participantes más probables en la licitación.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Se espera que el Estado recaude mil millones de dólares con esta licitación, un ingreso importante en la compleja situación económica del país.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La entrevista abordó también la situación del Ministro de Economía, Sergio Massa, candidato presidencial, y la posible incompatibilidad de ambos roles.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Ambrosini, amigo personal de Massa,  expresó su opinión sobre la  decisión de Massa de mantener ambos cargos, afirmando que la toma en soledad y que la continuidad de Massa como Ministro era importante para la economía argentina en ese momento.",
+      "entidades_detectadas": [
+        "argentina",
+        "massa"
+      ]
+    }
+  ]
+}

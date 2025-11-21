@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Es algo que salta a la vista.",
+      "entidades_detectadas": [
+        "salta"
+      ]
+    },
+    {
+      "frase": "Que dice directamente que va a quitar el Estado, es decir, a los jubilados, porque el 60% del gasto del Estado es para los jubilados, para darle a los empresarios.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Que son capaces de decir, mientras muestran en cámara cómo golpean a los ancianos, que fueron incidentes y que los que atacaron fueron la policía.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    }
+  ]
+}

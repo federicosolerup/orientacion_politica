@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El otro dato, que aparentemente no guarda relación, es un anuncio de Goldman Sachs, uno de los mayores fondos de inversión del mundo, con un historial de inversiones en Argentina, particularmente una importante en el Grupo Clarín (hasta 2012, cuando se desinvirtió).",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Goldman Sachs declaró en Bloomberg, que Argentina y otros mercados emergentes no se han devaluado lo suficiente, especialmente el peso argentino y la libra egipcia.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Considero que sí, ya que evitó que Clarín cayera en manos de un megafondo internacional, evitando que conflictos se resolvieran en tribunales norteamericanos.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Debemos discutir sobre Milagro Sala y los fondos internacionales que ven en Argentina un negocio rentable, buscando una devaluación para maximizar sus ganancias.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

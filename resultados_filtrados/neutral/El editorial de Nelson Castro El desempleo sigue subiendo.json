@@ -1,0 +1,25 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "El INDEC, al cual todos hoy le creemos, y es un mérito del gobierno haber logrado un INDEC absolutamente creíble, dice exactamente lo contrario.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Me parece que el gobierno, y en especial el Presidente de la República, debe abordar esta situación con seriedad y gran atención para darse cuenta de que hay una realidad que no concuerda con su discurso actual.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y debe hacerlo de cara al futuro, porque efectivamente lo que el INDEC ha demostrado y comunicado es que todo este discurso, insisto, tanto del Presidente como de sus funcionarios, de que el empleo en Argentina está aumentando, no es verdad.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente",
+        "indec"
+      ]
+    }
+  ]
+}

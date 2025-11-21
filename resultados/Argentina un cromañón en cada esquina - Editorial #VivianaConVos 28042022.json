@@ -1,0 +1,3096 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Buenas noches, ¿cómo están?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bienvenidos a **Viviana con Vos**.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Fuerte ver estas imágenes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les voy a contar un poco por qué esta editorial se llama \"Argentina, un Cromañón en cada esquina\".",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Anoche, cuando terminamos ese programa...",
+      "entidades_detectadas": [
+        "Anoche"
+      ]
+    },
+    {
+      "frase": "Córtame la música ahora, **José**, por favor, después te la pido de nuevo.",
+      "entidades_detectadas": [
+        "Córtame",
+        "José"
+      ]
+    },
+    {
+      "frase": "Cuando terminamos un programa tan intenso como el de ayer, con todo lo que contaba **el Pollo Sobrero** en este programa, hicimos llamados; el ministro de Transporte no nos respondió ni al **Pollo**, ni a mí, ni a nadie.",
+      "entidades_detectadas": [
+        "Transporte",
+        "Pollo Sobrero",
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "Nos quedamos conversando con el equipo, cuando se fueron los invitados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me quedé charlando con **Jorge** y **Jacobo**, mi amigo.",
+      "entidades_detectadas": [
+        "Jacobo",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Y **Jacobo** me dijo en un momento: \"¿Sabés qué pasa, negra?\".",
+      "entidades_detectadas": [
+        "Jacobo"
+      ]
+    },
+    {
+      "frase": "Porque yo me quedé sentada y diciendo: \"Puta madre, ¿cómo puede ser que el **Pollo** venga a denunciar acá?",
+      "entidades_detectadas": [
+        "Puta",
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "En ese tren, en esos trenes, viajan tantos argentinos por día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que evitar otra tragedia y a nadie le importa un carajo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A nadie, me refiero a los políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al ministro de Transporte, voy a dedicar unas palabras después, porque hoy lo llamé y, una vez más, no me contestó.",
+      "entidades_detectadas": [
+        "Transporte"
+      ]
+    },
+    {
+      "frase": "Y él me dice: \"Negra, lo que pasa es que la Argentina es un Cromañón en cada esquina\".",
+      "entidades_detectadas": [
+        "Cromañón",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Y cuando me fui, le dije a **Jorge**, como a las once y media de la noche: \"Jorge, tomo esto que me decís y mi editorial de mañana va a llamarse así\".",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Antes de empezar a hablar de que Argentina es un Cromañón en cada esquina, quiero compartir con ustedes estas imágenes tremendas de ese 30 de diciembre, hace ya unos cuantos años.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Yo recuerdo que estaba haciendo esa noche, ustedes seguramente también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo estaba en mi cuarto, ordenando cosas porque me iba de viaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y empecé a mirar la tele y a hacer zapping.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y recuerdo que me quedé mirando Crónica, que no paraba de pasar las imágenes.",
+      "entidades_detectadas": [
+        "Crónica"
+      ]
+    },
+    {
+      "frase": "Y yo, ¿qué es esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No entiendo nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahí empecé a llorar porque empecé a entender lo que sucedía.",
+      "entidades_detectadas": [
+        "sucedía"
+      ]
+    },
+    {
+      "frase": "Ponerle el \"slash\" (en referencia a la transmisión en vivo).",
+      "entidades_detectadas": [
+        "Ponerle"
+      ]
+    },
+    {
+      "frase": "Y ponerme lo que pasaba en Cromañón.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Mírenlo.",
+      "entidades_detectadas": [
+        "Mírenlo"
+      ]
+    },
+    {
+      "frase": "Decía que Argentina es un Cromañón en cada esquina, porque en Argentina está todo atado con alambre.",
+      "entidades_detectadas": [
+        "Decía",
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "En Argentina, todo es trucho.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina, todo es sin presupuesto para las cosas verdaderamente importantes.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Las bengalas arden y desprenden chispas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Argentina arde y desprende chispas.",
+      "entidades_detectadas": [
+        "La Argentina"
+      ]
+    },
+    {
+      "frase": "Tenemos en cada esquina un Cromañón.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Se prende fuego todo, y de a poco, en la Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Las bengalas son cotillón y la Argentina es cotillón.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Las bengalas crean humo, como la mayoría de los políticos en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Miren lo que pasaba en Cromañón.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Todo esto puede volver a suceder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A nuestro gobierno no le importa nada este rebaño de pelotudos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mírenlo y recuérdenlo.",
+      "entidades_detectadas": [
+        "Mírenlo"
+      ]
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por dónde?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por dónde?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por dónde?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no hay nada de mi madre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero está mi papá ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cromañón se llevó puesto a **Aníbal** y **Barra**.",
+      "entidades_detectadas": [
+        "Cromañón",
+        "Aníbal",
+        "Barra"
+      ]
+    },
+    {
+      "frase": "Ahí lo ven.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ex cuñado de **Alberto Fernández**.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Cromañón nos avisó que la corrupción mata, pero no le dimos bola.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Los políticos no le dieron bola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se la siguieron choreando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se siguieron cagando en el rebaño de pelotudos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y llegó la tragedia de Once.",
+      "entidades_detectadas": [
+        "llegó"
+      ]
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Mirad.",
+      "entidades_detectadas": [
+        "Mirad"
+      ]
+    },
+    {
+      "frase": "Habría varias personas muertas.",
+      "entidades_detectadas": [
+        "Habría"
+      ]
+    },
+    {
+      "frase": "Es realmente impresionante la imagen que se está viendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Las dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se están registrando gritos, corridas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tensión y nerviosismo son los que se viven aquí en la estación de Once, luego de este tráfico.",
+      "entidades_detectadas": [
+        "Once",
+        "Tensión"
+      ]
+    },
+    {
+      "frase": "Esa noche, yo estaba ahí, cubriendo para C5N.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recuerdo que en el canal no querían mandar a nadie a cubrir y yo dije: \"No, no, no, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo quiero ir a cubrir\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí estaba muerto en un vagón el hijo de **María Luján Rey** y nadie lo sabía todavía.",
+      "entidades_detectadas": [
+        "María Luján Rey"
+      ]
+    },
+    {
+      "frase": "Estas tragedias se pueden evitar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer estuvo acá **el Pollo Sobrero**.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Me llamó para decirme que quería hacer una denuncia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo estaba llamando y la gente del gobierno, el ministro de Transporte, no le respondía.",
+      "entidades_detectadas": [
+        "Transporte"
+      ]
+    },
+    {
+      "frase": "Hizo una denuncia fuerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mostró que los usuarios de trenes están todos en peligro y nadie le respondió.",
+      "entidades_detectadas": [
+        "Mostró"
+      ]
+    },
+    {
+      "frase": "Lo tiene todo documentado, lo mostramos y nadie le respondió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podíamos creer, y no podemos creer, la cantidad de trenes que descarrilan por día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo menos dos por día descarrilan.",
+      "entidades_detectadas": [
+        "día descarrilan"
+      ]
+    },
+    {
+      "frase": "No puedo dejar de pensar, cuando estas cosas me indignan, que en esos trenes podés estar vos o podés estar toda tu familia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá este tape.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Trenes que descarrilan en la Argentina y el gobierno no hace nada.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie hace nada, nadie te cuida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El **Pollo** vino ayer y nos contó cómo están descarrilando los trenes.",
+      "entidades_detectadas": [
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Al **Pollo** no lo atienden, al **Pollo** no le dan bola.",
+      "entidades_detectadas": [
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "Está defendiendo que vos te subas a un tren y estés seguro, tranquilo.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Vos y toda tu familia.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "No le da bola al gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vino acá para que lo escuchemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ministro de Transporte, **Alexis Guerrera**, sigue sin recibirlo.",
+      "entidades_detectadas": [
+        "Transporte",
+        "Alexis Guerrera"
+      ]
+    },
+    {
+      "frase": "Recordemos lo que ayer decía en este programa de televisión, **el Pollo Sobrero**.",
+      "entidades_detectadas": [
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "El 31 de mayo tuvimos tres episodios muy graves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estuvimos a punto de chocar tres veces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tres veces, no tres trenes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tres veces estuvimos a punto de chocar en el mismo día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tres veces a punto de chocar en el mismo día, entre **Aedo** y **Morón**, por fallas en el sistema de señales, que es de 1931.",
+      "entidades_detectadas": [
+        "Morón",
+        "Aedo"
+      ]
+    },
+    {
+      "frase": "Yo mandé algunas fotos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé si llega a ver la pantalla acá abajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto, con la forma que estamos trabajando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y esto por qué está pasando?",
+      "entidades_detectadas": [
+        "¿",
+        "qué está"
+      ]
+    },
+    {
+      "frase": "Principalmente, por falta de mantenimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos hablando después de la tragedia de Once, que fue una locura con tantos muertos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En fin, ya sabemos todo de qué se trata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Descarrilamientos.",
+      "entidades_detectadas": [
+        "Descarrilamientos"
+      ]
+    },
+    {
+      "frase": "En marzo, estuvimos a punto de chocar tres veces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabés cuánto descarriló el año pasado?",
+      "entidades_detectadas": [
+        "Sabés"
+      ]
+    },
+    {
+      "frase": "435.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo sé que me están mirando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los tengo todos documentados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno por uno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te voy a dejar la carpeta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "435.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se estaban notando 435 descarrilamientos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabés la cantidad de gente que está ahí arriba con 435 descarrilamientos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabés la cantidad de gente que está ahí arriba con 435 descarrilamientos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo vi preocupado al **Pollo**.",
+      "entidades_detectadas": [
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "Hoy lo llamé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le digo: \"¿Te llamó alguien, **Pollo**?\".",
+      "entidades_detectadas": [
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "Nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a mostrar después el mensaje que le dijo el ministro de Transporte, que no me contestó.",
+      "entidades_detectadas": [
+        "Transporte"
+      ]
+    },
+    {
+      "frase": "El **Pollo** sabe que en cualquier momento vamos a tener que lamentar muertos.",
+      "entidades_detectadas": [
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "Y lo vino a avisar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estas son muertes evitables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al gobierno no le importa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La diputada **María Luján Rey**, que perdió a su hijo en la tragedia de Once, estaba viendo este programa.",
+      "entidades_detectadas": [
+        "María Luján Rey"
+      ]
+    },
+    {
+      "frase": "La estaba escuchando porque esa mujer tuvo la pérdida más grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdió a su hijo por la corrupción, señores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empática y solidaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escribió: \"Recordemos que su hijo murió en la masacre de Once.",
+      "entidades_detectadas": [
+        "Escribió"
+      ]
+    },
+    {
+      "frase": "Estamos cerca de que pueda suceder lo mismo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La denuncia que está haciendo el **Pollo Sobrero** en **Viviana Canosa**, es gravísima.",
+      "entidades_detectadas": [
+        "Viviana Canosa",
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Mañana presentaré un pedido de informe.",
+      "entidades_detectadas": [
+        "Mañana"
+      ]
+    },
+    {
+      "frase": "\"Esto ya pasó\", dice la madre de una víctima de la tragedia de Once.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los ferroviarios hicieron muchas denuncias que no fueron escuchadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Anoche también se comunicó conmigo, y le pasé el teléfono del **Pollo Sobrero** a **Claudia Rucci**, que también hizo un pedido de informes en la provincia de Buenos Aires y, en **Somalia Granata**, hoy.",
+      "entidades_detectadas": [
+        "Claudia Rucci",
+        "Pollo Sobrero",
+        "Anoche",
+        "Somalia Granata",
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Yo estaba escribiendo en un bar y me llamó para pasarme otro pedido de informes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y también lo hizo **Randazzo**.",
+      "entidades_detectadas": [
+        "Randazzo"
+      ]
+    },
+    {
+      "frase": "Estas tres personas empáticas que ayer se comunicaron porque nos estaban viendo, ya movieron el culo y están haciendo algo para que no te maten en un tren ni a vos ni a tu familia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero todavía nadie...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A las 21:12 se comunicaron con el **Pollo Sobrero**.",
+      "entidades_detectadas": [
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Corrupción no es solo cuando te llevás una coima.",
+      "entidades_detectadas": [
+        "Corrupción"
+      ]
+    },
+    {
+      "frase": "Corrupción es lo que están haciendo ahora.",
+      "entidades_detectadas": [
+        "Corrupción"
+      ]
+    },
+    {
+      "frase": "No atender al **Pollo** sabiendo que hay por lo menos 435 descarrilamientos y no les importa un carajo.",
+      "entidades_detectadas": [
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "También, la corrupción es estar en un cargo, en un puesto, y no estar a la altura, ministro.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "No dar respuestas, ministro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También es corrupción.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "¿Lo sabía?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ministro, ¿se acuerda que le dejé un mensaje cuando estábamos en vivo?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y le dije lo siguiente: \"Quiero dejarle un mensaje en vivo al ministro **Alexis Guerrera**.",
+      "entidades_detectadas": [
+        "Alexis Guerrera"
+      ]
+    },
+    {
+      "frase": "Ministro, buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo le va, **Viviana Canosa**?",
+      "entidades_detectadas": [
+        "Viviana Canosa"
+      ]
+    },
+    {
+      "frase": "Estamos en vivo con el **Pollo Sobrero**, son las 22:08.",
+      "entidades_detectadas": [
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Está contando los descarrilamientos en el Sarmiento.",
+      "entidades_detectadas": [
+        "Está",
+        "Sarmiento"
+      ]
+    },
+    {
+      "frase": "Está contando lo que está pasando con los trenes y está acá para pedir, por lo menos públicamente, que no tengamos otra u otras tragedias de Once.",
+      "entidades_detectadas": [
+        "Once",
+        "Está"
+      ]
+    },
+    {
+      "frase": "Antes de las 11 de la noche, por lo menos, si pueden atender al **Pollo Sobrero** que está en este programa en vivo\".",
+      "entidades_detectadas": [
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Yo le dejaba ese mensaje, obviamente estaba en línea, no me lo contestó, y hoy le puse a las 12:30.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le puse: \"Buen día, ¿alguna novedad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá, mirá, no me respondió nada.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "\"Buen día, ¿alguna novedad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias, **Alexis Guerrera**, ministro de Transporte\".",
+      "entidades_detectadas": [
+        "Transporte",
+        "Alexis Guerrera"
+      ]
+    },
+    {
+      "frase": "No me contestó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mutis por el foro.",
+      "entidades_detectadas": [
+        "Mutis"
+      ]
+    },
+    {
+      "frase": "Al ministro **Guerrera** le comieron la lengua los ratones, me parece.",
+      "entidades_detectadas": [
+        "Guerrera"
+      ]
+    },
+    {
+      "frase": "¡Qué vergüenza, ministro!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Por ministros como este, tenemos un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Le estamos advirtiendo al ministro que puede haber otra tragedia de Once y al ministro no le importa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tiene cinco minutos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ministro, cinco, dos minutos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me pone: \"Buen día, Viviana\", o \"Buen día\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Ya lo llamo al **Pollo Sobrero**\".",
+      "entidades_detectadas": [
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuche la denuncia del **Pollo Sobrero**, ministro, que no sea tarde.",
+      "entidades_detectadas": [
+        "Escuche",
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Es un sindicalista el **Pollo Sobrero**, ministro, por si no lo conoce, que representa a cientos de miles de trabajadores que ustedes dicen importarles.",
+      "entidades_detectadas": [
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Ministro, ¿por qué no recibe al **Pollo Sobrero**?",
+      "entidades_detectadas": [
+        "¿",
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Ministro, usted es nuestro empleado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted, ministro, es nuestro empleado y no nos atiende.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Renuncie antes de que sea demasiado tarde, ministro!",
+      "entidades_detectadas": [
+        "Renuncie"
+      ]
+    },
+    {
+      "frase": "Ministro, mirá este tuit que encontré porque la gente es simpática y solidaria en Twitter: \"El tren es el mejor medio de transporte, tanto para mercaderías como para personas.",
+      "entidades_detectadas": [
+        "encontré",
+        "mirá"
+      ]
+    },
+    {
+      "frase": "Según el **Pollo Sobrero**, en lo de **Viviana Canosa**, se descarrilan más de 400 formaciones por año, pero el Estado decide gastar en ministerios que no deberían existir y en empresas que habría que privatizar\".",
+      "entidades_detectadas": [
+        "Viviana Canosa",
+        "Según",
+        "Estado",
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Hace unos días les contaba la cantidad de guita que gastan en el Ministerio de la Mujer, que a esta altura ya sé que no sirve para nada.",
+      "entidades_detectadas": [
+        "Ministerio de la Mujer"
+      ]
+    },
+    {
+      "frase": "Cierren el Ministerio de la Mujer y pongan esa guita para la gente que labura en los ferrocarriles y los frenos funcionan, hijos de puta.",
+      "entidades_detectadas": [
+        "Cierren",
+        "Ministerio de la Mujer"
+      ]
+    },
+    {
+      "frase": "No estamos para estos despilfarros, pero sí pongan la guita en los trenes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es infinita la cantidad de gente que se mueve en trenes: los obreros, la gente de bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes son nuestros empleados, carajo.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "¡Qué basuras!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Hoy los trabajadores ferroviarios, a quienes les mando un beso enorme, estuvieron hablando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero que veas primero el tape de los trenes y después la palabra de los trabajadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que a estos tipos no los conmueven.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá cómo están y cómo funcionan los trenes en la República Argentina.",
+      "entidades_detectadas": [
+        "República Argentina"
+      ]
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Aquí estamos, ministro!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le voy a dejar otro mensaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le voy a dejar otro mensaje al ministro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo voy a molestar sin parar, ministro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sabe, ministro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se acaba de comprar un quilombo gigante conmigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo voy a llamar todos los días de mi vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Alexis Guerrera**.",
+      "entidades_detectadas": [
+        "Alexis Guerrera"
+      ]
+    },
+    {
+      "frase": "Le voy a dejar otro...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Buenas noches, ministro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo le va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá, **Viviana Canosa**, en vivo.",
+      "entidades_detectadas": [
+        "Viviana Canosa",
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Son las 9 y 17.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le dejé un mensaje anoche, en vivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le dejé un mensaje hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A las 12:30 le dejo uno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A las 20:18, exactamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos haciendo mi editorial 'Argentina, un Cromañón en cada esquina'.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Está en línea, míralo.",
+      "entidades_detectadas": [
+        "Está",
+        "míralo"
+      ]
+    },
+    {
+      "frase": "Como está en línea, le quiero preguntar si lo va a recibir al **Pollo Sobrero** o si no le da un poco de pena la gente que viaja en el tren con tantos descarrilamientos.",
+      "entidades_detectadas": [
+        "Pollo Sobrero"
+      ]
+    },
+    {
+      "frase": "Ministro, ¿qué va a hacer?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Evite una tragedia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias, ministro\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Enviado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Enviado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy fueron a quejarse los trabajadores ferroviarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les mando un beso enorme.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Unos luchadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la policía los reprimió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La policía no reprime un acampe cuando le joden la vida a todo el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando podrían hacer el acampe en otro lugar para no molestar, hacia sus reclamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, a la gente que labura, la reprimen y la tratan como a delincuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Míralo.",
+      "entidades_detectadas": [
+        "Míralo"
+      ]
+    },
+    {
+      "frase": "Parece que no van a deponer su actitud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se los ve listos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se los ve listos para irse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahí vemos cómo se empiezan a producir los primeros choques en este momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuerpo a cuerpo, frente a frente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vuelan algunas botellas, algunas piedras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuerpo a cuerpo están los manifestantes con la policía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La intransigencia de los manifestantes es total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación es muy tensa, muy tensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vuelan piedras, vuela gas pimienta en este momento, tiran piedras, tiran piedras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gases lacrimógenos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros fuimos alcanzados por los efectos de los gases pimienta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación es tensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vemos cómo los manifestantes empiezan a irse por un agujero que se había abierto en el alambrado por el que habían entrado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "la situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El desalojo parece haberse consumado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora van a escuchar la palabra de un laburante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad es que, ¿saben lo que me sorprende también?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "En que los medios de comunicación se hacen los pelotudos y no levantan lo que dijo hacer el **Pollo**.",
+      "entidades_detectadas": [
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "¿Cuáles son los arreglos o la pauta que tienen para que no les importe tres pitos la gente común, normal, que toma el tren?",
+      "entidades_detectadas": [
+        "¿Cuáles"
+      ]
+    },
+    {
+      "frase": "¿Ustedes, porque tienen autos blindados, polarizados?",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "¿Les chupa un huevo, no?",
+      "entidades_detectadas": [
+        "¿Les"
+      ]
+    },
+    {
+      "frase": "A mí no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad es que me hubiera encantado que todos los medios levantaran esto, porque a las redes sociales explotó el tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente está padeciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente lo pasa mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ustedes no lo ven.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo sí los veo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los miro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque miro la realidad de este país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque Argentina es un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Mirá este laburante hablando como si fuera un delincuente porque la policía lo reprime.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Escúchenlo, por favor: \"Agotamos todas las instancias que tuvimos, las instancias legales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso tienen que investigar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escúchenme, el fraude laboral que hay detrás de la tercerización y la precarización que hay en Trenes Argentinos.",
+      "entidades_detectadas": [
+        "Escúchenme"
+      ]
+    },
+    {
+      "frase": "Eso es lo que tienen que investigar y hablar ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que hablan de los trabajadores que apenas les alcanza para llevar el plato de comida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No somos ninguno delincuentes nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los empresarios se llenan los bolsillos en este país y precarizan al trabajador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos casi llegando al 2023 y somos casi esclavos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Mamita!\".",
+      "entidades_detectadas": [
+        "Mamita!"
+      ]
+    },
+    {
+      "frase": "Ponémelo.",
+      "entidades_detectadas": [
+        "Ponémelo"
+      ]
+    },
+    {
+      "frase": "Ahí está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá este hombre.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Este hombre trabaja, señores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un laburante ferroviario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo defiende ningún medio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie sale a hablar por él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ministro de Transporte no atiende al **Pollo**, sobre lo que está peleando por la vida, no solo de estos laburantes, sino de tu familia, de tus hijos, de tus amigos, de tus hermanos, de tu marido, de tu mujer.",
+      "entidades_detectadas": [
+        "Transporte",
+        "Pollo"
+      ]
+    },
+    {
+      "frase": "Cuando yo cubrí la tragedia de Once...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo lo cuento siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mujeres embarazadas que tenían a sus maridos muertos ahí adentro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y este tipo diciendo: \"Yo no soy un delincuente, soy un laburante\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tienen empatía, no pueden ver a esta gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esas personas viven un infierno cada día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nunca se ponen en el lugar del otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta gente viaja en el tren con los huevos en la garganta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes no apuestan a nosotros.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Ustedes no arriesgan por nosotros.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Ministro de Transporte, yo, **Viviana Canosa**, DNI 22.216.31, arriesgo mi pellejo todas las noches en este escritorio.",
+      "entidades_detectadas": [
+        "Viviana Canosa",
+        "Ministro de Transporte"
+      ]
+    },
+    {
+      "frase": "Arriesgo mi pellejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le pongo la voz a los que no la tienen y usted no me atiende.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mí me importan estas personas, me importa ese laburante que hoy reprimieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ustedes, solo les importa la guita y el poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No pensaron en usar el poder para mejorar la vida de las personas?",
+      "entidades_detectadas": [
+        "¿No"
+      ]
+    },
+    {
+      "frase": "El poder para que la gente sea feliz y viva mejor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso Argentina es un Cromañón, en que los que no tienen poder, no tienen poder.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "¿Para que la gente sea feliz y viva mejor?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Por eso Argentina es un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Ayer, mientras hacíamos este programa y también me llamó la atención, y por eso el nombre, se prendía fuego un geriátrico, Pegüén, en el barrio de Villa Urquiza.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Pegüén",
+        "Villa Urquiza"
+      ]
+    },
+    {
+      "frase": "Mirá las imágenes.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "La residencia de ancianos fue devorada por las llamas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estuvieron atrapados por el fuego siete abuelos y tres abuelos se murieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie dijo nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá el video.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "¡Bajen a las personas!",
+      "entidades_detectadas": [
+        "Bajen"
+      ]
+    },
+    {
+      "frase": "¿Hay alguien ahí?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡No podemos vivir con que no ponen personas ahí!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, por eso no hay nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay ninguna persona arriba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Sí, allá la muero!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que pasa es que no tienen que seguir trabajando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Vosotros cuídense?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ya llamaste a los bomberos oficiales?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ya llamaste a los bomberos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Sí, todo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ya llamaste a los bomberos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquí el número.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquí el número.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ahora!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está en cada esquina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "La muerte de estos abuelos también se podría haber evitado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De siete abuelos, se murieron tres abuelos calcinados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué falló?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fallaron los controles, la inoperancia, las coimas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La corrupción te mata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado ¿dónde está?",
+      "entidades_detectadas": [
+        "Estado ¿"
+      ]
+    },
+    {
+      "frase": "Está ausente.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "El Estado está escondido.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El Estado...",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "La corrupción mata a Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Un Cromañón en cada esquina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto silencio, ministro de Transporte?",
+      "entidades_detectadas": [
+        "¿Cuánto",
+        "Transporte?"
+      ]
+    },
+    {
+      "frase": "¿Cuánto silencio?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "¿Qué silencio ensordecedor?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por gente como usted, ministro, Argentina es un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "La impunidad de **Cristina** sería otro Cromañón, porque la reina de Tolosa, a la que no le importa la gente de los trenes, por eso hizo el chiste de mal gusto, ¿no?",
+      "entidades_detectadas": [
+        "Cromañón",
+        "¿",
+        "Cristina",
+        "Tolosa"
+      ]
+    },
+    {
+      "frase": "Cuando hizo ese famoso video riéndose de la tragedia ajena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiere que la Corte Suprema tenga 16 miembros, de 5 a 16.",
+      "entidades_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Esto es un Cromañón en cada esquina, **Cristina**.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Todo su plan para no ir en cana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cada jugada inesperada de **Cristina** muestra que tiene el culo sucio, como el ministro de Transporte.",
+      "entidades_detectadas": [
+        "Transporte",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Argentina es un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "**Cristina** no sabe qué hacer para no ir presa.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Un Cromañón en cada esquina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un juez para **Cristina**.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Trató de hipócritas a los senadores, lujo y juez.",
+      "entidades_detectadas": [
+        "Trató"
+      ]
+    },
+    {
+      "frase": "Lo escuchamos: \"Hace una semana nosotros destruimos todos los compromisos y todos los acuerdos que habíamos suscripto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No pasó una semana y queremos modificar la Corte.",
+      "entidades_detectadas": [
+        "Corte"
+      ]
+    },
+    {
+      "frase": "Nos convocamos para discutir la modificación de la Corte Suprema de Justicia en este honorable Senado de la Nación, a una semana de haber destruido todos los acuerdos entre nosotros.",
+      "entidades_detectadas": [
+        "Corte Suprema de Justicia",
+        "Senado de la Nación"
+      ]
+    },
+    {
+      "frase": "Personas todas honorables\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No pudimos sostener tres meses el acuerdo que hubo suscripto en su momento en la sesión preparatoria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y queremos buscar un consenso para cambiar el funcionamiento de la Corte.",
+      "entidades_detectadas": [
+        "Corte"
+      ]
+    },
+    {
+      "frase": "Buscamos palabras y decimos que esto, si uno lo expresa en otro lugar, esto es una chicana y esta no es una cuestión de oportunismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo lo digo, tengo la necesidad porque tengo un montón de defectos, pero el que no oculta es el que no tiene la necesidad de ser honesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo tengo un montón de defectos, pero el que no cultivo es la hipocresía y el cinismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En serio, presidente, que estamos en condiciones nosotros de llevar adelante semejante discusión, en la que me encantaría, en un nivel de respeto y de consideración y de valoración de la palabra del que piensa distinto, poder ser escuchado, porque tengo un montón de cosas que opinar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Soy un tipo que litiga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me encantaría.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora estamos en condiciones, en serio, presidente, en serio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a sentarnos acá a discutir qué corte queremos y nos vamos a llevar a la boca hablando de federalismo y diciendo un montón de cosas que las puedo suscribir al pie de la letra, cuando no hemos podido sostener nuestros propios compromisos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le vamos a contar a la gente que hoy se reunió el Senado para discutir qué corte le vamos a dar a los argentinos, cuando nosotros todavía no sabemos cómo vamos a funcionar en la próxima sesión.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Yo tengo que decirle con toda sinceridad, presidente, y no lo tome de ninguna manera como un acto de provocación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece un acto de hipocresía absolutamente insostenible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no puedo estar sentado acá escuchando semejantes cuestiones y no decirles de corazón, se lo digo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y créame que no lo planteo desde el punto de vista de haberme sentido, el Senado le ha afectado por la ruptura de los compromisos asumidos.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Lo digo en el sentido del compromiso de la palabra, lo que significa darnos la palabra entre nosotros y cumplirla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y encaramos en un tema tan delicado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hemos podido cubrir la vacante de **Highton de la Olasco**.",
+      "entidades_detectadas": [
+        "Highton"
+      ]
+    },
+    {
+      "frase": "Estamos hablando de cómo vamos a construir la próxima corte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo que decirle, presidente, que por lo menos téngalo como una consideración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece absolutamente inoportuno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece absolutamente inoportuno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No porque no es una consideración, sino porque no es una consideración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo creo que es una consideración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo creo que es una consideración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece absolutamente inoportuno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No porque no tengamos que discutir estos temas, pero me parece absolutamente inoportuno que este Senado de la Nación, a una semana de haber dinamitado la palabra empeñada, nosotros le querramos hacer creer a los argentinos que estamos en condiciones de no cumplir la palabra que nos damos, pero sí estamos en condiciones de darle a los argentinos la corte que se merecen.",
+      "entidades_detectadas": [
+        "Senado de la Nación"
+      ]
+    },
+    {
+      "frase": "Sinceramente, me parece y lo tengo que decir, y así lo digo para que quede absoluta constancia y no aparezca diciendo, bueno, sí, por ahí lo dicen en algún programa de televisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo digo acá en esta comisión, en este Senado, del que ya también he sido parte, ante un montón de senadores que no piensan como yo, pero que tengo terrible respeto.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Me parece absolutamente inoportuno y un acto de hipocresía absolutamente manifiesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nada más\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hace veces que a **Juan Lechol**, era un supuesto del Consejo de la Magistratura, dividieron el bloque de senadores en el frente de todos contra todos, solo para conseguir una silla más para un juez que le caiga bien a **Cristina**.",
+      "entidades_detectadas": [
+        "Juan Lechol",
+        "Cristina",
+        "Consejo de la Magistratura"
+      ]
+    },
+    {
+      "frase": "El juez está muy caliente y tiene toda la razón del mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escucha cómo sale a cruzarlo ahora a **Parrili**.",
+      "entidades_detectadas": [
+        "Parrili"
+      ]
+    },
+    {
+      "frase": "Como diría **Cristina**, un pelotudo, plural.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "\"Yo, interpelado por esta postura y quiero responder, en primer lugar, decir que acá no se ha roto ninguna palabra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo menos nosotros no hemos cumplido ninguna palabra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno podrá estar de acuerdo o no con las actividades que hace un bloque, que hace otro loco, pero si vamos a comenzar a decir no cumplen la palabra, bueno, podemos remontarnos a lo mejor a 1860, como decía el senador, para aquí de las palabras que se pueden o no haber cumplido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De manera que descarto totalmente esa imputación que el senador hace.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en segundo lugar, quiero decirle también, que usted dice: \"No soy el presidente de la República, yo, ustedes son hipócritas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece que se ha excedido en eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no digo que ustedes sean hipócritas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo opiniones diferentes y distintas de las que ustedes tienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo tampoco soy hipócrita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no creo que ninguno de mis compañeros sea hipócrita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo tanto, simplemente le ruego que retire esa expresión de que somos hipócritas y que en aras de la política, de la política, de la política, y que en aras del buen funcionamiento, en aras del respeto que nos debemos, en todo caso, digamos, no coincidimos, estamos en discusión, tenemos otra opinión, pero me parece un poco exagerado el decirnos a nosotros hipócritas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted dijo: \"La palabra nos dijo nosotros\".",
+      "entidades_detectadas": [
+        "Usted"
+      ]
+    },
+    {
+      "frase": "Sí, sí, usted dijo, usted dijo...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, no, quiere que lo...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no soy, he dicho...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo, como el último en mi postre de esto crucial que no cultivo la hipocresía, yo sigo hipócrita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y nos dijo nosotros hipócritas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo, sus tíquidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, a ver, le pregunto...",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Se está haciendo el vivo, se está haciendo el vivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quiere que le repitan lo que dijo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está grabado, está grabado lo que dijo.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Por eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Primero?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, sí, sí, senador, termine el presente y le doy la palabra, no tengo anotado más oradores, así que si termino...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos una pregunta que le dirija la república.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Parrili**, ay, por favor, qué pedo, tú lo diría **Cristina**.",
+      "entidades_detectadas": [
+        "qué pedo",
+        "Parrili",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Ustedes están **Parrili**, nosotros estamos republicanos.",
+      "entidades_detectadas": [
+        "Ustedes están",
+        "Parrili"
+      ]
+    },
+    {
+      "frase": "Así estamos, porque discuten sobre su ego, sus ombligos, sobre la tragedia de Once, la de Cromañón y las que tenemos por delante.",
+      "entidades_detectadas": [
+        "Así",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Otro Cromañón que vemos todos los días, nosotros, pero ellos no, es la pobreza, el hambre, los planes.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "El gobierno organizó todo para que sea muy jodido que la gente se pueda inscribir y acceder a la plata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solo se puede acceder por la web, y saben que la gente más humilde no puede.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, claro, como colapsa todo el sistema, es una buena excusa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te conectás, no te doy la guita que te corresponde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ante eso, **Belliboni** se calentó y, como siempre, **Belliboni** tiene una sola idea.",
+      "entidades_detectadas": [
+        "Belliboni"
+      ]
+    },
+    {
+      "frase": "Cortar las calles, mírenlo.",
+      "entidades_detectadas": [
+        "mírenlo"
+      ]
+    },
+    {
+      "frase": "\"Solamente se puede hacer vía virtual, no en las oficinas de acción del mar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay, y no hay ningún dispositivo armado, especialmente para entre 13 y 15 billones de personas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la realidad social en la Argentina, pero ni siquiera es ayuda, es muy mínima, tenemos posibilidad de que la gente acceda, porque hay un sistema de acción que se puede acceder a la gente.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Hay un obstáculo que aparece con un filtro, finalmente, para que mucha gente no pueda ingresar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Solamente se puede hacer vía virtual, no en las oficinas de acción del mar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay, y no hay ningún dispositivo armado, especialmente para entre 13 y 15 billones de personas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la realidad social en la Argentina, pero ni siquiera es ayuda, es muy mínima, tenemos posibilidad de que la gente acceda, porque hay un obstáculo que aparece con un filtro, finalmente, para que mucha gente no pueda ingresar.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Algo de razón tiene **Belliboni**, y tenemos millones, toneladas de empleos públicos que algunos se bajan la caja, y la gente que quiere ir a la caja lo cobre por caja, en ventanilla.",
+      "entidades_detectadas": [
+        "Belliboni"
+      ]
+    },
+    {
+      "frase": "Lo hacen también para joder más a los pobres y que los pobres tampoco puedan cobrar esa guita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué hijos de puta!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Menos inscriptos, menos guita que sale de las cajas, más para ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese es el razonamiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos siempre en el chiquitaje, en la rascadita, en la mediocridad, en la trampa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué no ponen energía para que la gente pueda volver a trabajar y tener un sueldo digno?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual **Belliboni** siempre piensa lo mismo, ¿no?",
+      "entidades_detectadas": [
+        "Belliboni",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Cómo joder a la gente?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me tienen harta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gana River, pierde River, a la calle, cortan.",
+      "entidades_detectadas": [
+        "River"
+      ]
+    },
+    {
+      "frase": "Gana Boca, a la calle.",
+      "entidades_detectadas": [
+        "Gana Boca"
+      ]
+    },
+    {
+      "frase": "Todo es en la calle, todo te joden la vida, ese rebaño de pelotes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo se puede hacer?",
+      "entidades_detectadas": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "frase": "¿Cómo se puede hacer?",
+      "entidades_detectadas": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "frase": "¿Cómo se puede hacer?",
+      "entidades_detectadas": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "frase": "Todo es en la calle, todo te joden la vida, ese rebaño de pelotes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras tanto, ellos no laburan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El fraude y la mafia de la política también es un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "La oposición se unifica detrás de la boleta única de papel y lleva al Congreso un debate incómodo para el oficialismo.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Claro, todo lo que sea transparencia incomoda al oficialismo.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Transparencia, transparencia y se mueren de miedo.",
+      "entidades_detectadas": [
+        "Transparencia"
+      ]
+    },
+    {
+      "frase": "La boleta única de papel es imprescindible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver si empezamos a liberarnos de las mafias de la política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ojalá tenga apoyo y salga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es difícil que los chanchos vuelen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "La inseguridad también es un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Mirá lo que dijo **Berni**.",
+      "entidades_detectadas": [
+        "Berni",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Ante la falta de personal, convocó a personal civil para manejar patrulleros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Personal civil para manejar patrulleros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los vehículos son blindados y también van a llevar chalecos antibalas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Imaginate un pibe de 20 años con chaleco antibalas manejando un patrullero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué cagazo que me da esto!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Salvo que pongan a los delincuentes que salieron en pandemia, que están sin laburo y que están por la calle sueltos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Parece que no alcanzó el PBI que le sacaron a la ciudad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se acuerdan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En plena pandemia, nos robaron a los porteños un punto del PBI, ¿dónde está esa guita?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No tengo la más remota idea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se acuerdan que la policía oranense estaba en llamas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le pusimos el 1% de nuestro PBI.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También es un Cromañón en cada esquina el Intendente de **Morón**.",
+      "entidades_detectadas": [
+        "También",
+        "Cromañón",
+        "Morón"
+      ]
+    },
+    {
+      "frase": "Él, el que promueve el consumo de drogas, \"toma poquita cocaína\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá este video que encontré en las redes donde se imagina lo que realmente piensa el Intendente **Ghi**.",
+      "entidades_detectadas": [
+        "encontré",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Es gracioso y, a la vez, es trágico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mírenlo.",
+      "entidades_detectadas": [
+        "Mírenlo"
+      ]
+    },
+    {
+      "frase": "\"Viendo bien, señores drogados, sigo vendiendo cocaína, marihuana, vendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vendo Paco, vendo, señores.",
+      "entidades_detectadas": [
+        "Vendo Paco"
+      ]
+    },
+    {
+      "frase": "Vendo pasta base, vendo chichas, señores drogados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para todos los fisuras, vendo chichas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquí andan bien, señores drogados, sigo vendiendo cocaína, marihuana, vendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vendo Paco, vendo, señores.",
+      "entidades_detectadas": [
+        "Vendo Paco"
+      ]
+    },
+    {
+      "frase": "Vendo pasta base, vendo chichas, señores drogados\", **Lucas Ghi**.",
+      "entidades_detectadas": [
+        "Lucas Ghi"
+      ]
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "Nunca faltan los redondos, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiene que estar preso este señor, renunciar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Atenta contra nuestros hijos, que los quiere drogados, que tomen poca cocaína.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Encontré este cartel que me pareció muy original: \"A un mes de la guerra contra la inflación, lo bueno es que no hubo bajas\".",
+      "entidades_detectadas": [
+        "Encontré"
+      ]
+    },
+    {
+      "frase": "Venden la guerra contra la inflación y suben todos los precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo nos miente el presidente **Alberto Fernández**?",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¿Cómo se burlan de nosotros, este rebaño de pelotudos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este meme sobre el hombre más rico del mundo me causó gracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El dueño de Twitter enloqueció, ahora dice que va a comprar un costillero en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "¿Sabés que no creo que lo alcance?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La guita está carísima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va a tener que pedir un crédito más, me parece.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La que habló de economía es la portavoz del gobierno, **Gabriela Cerruti**.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "\"En el mes de abril, la inflación debería ser un poco más baja\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La inflación de marzo fue la más alta en los últimos 20 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué payasa!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "La inflación de marzo fue la más alta en los últimos 20 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué payasa!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Que baje un poco, igual no es ningún mérito, es lo que corresponde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te llevaste economía a marzo, **Cerruti**.",
+      "entidades_detectadas": [
+        "Cerruti"
+      ]
+    },
+    {
+      "frase": "La que tiene guita es **Ofelia Fernández**.",
+      "entidades_detectadas": [
+        "Ofelia Fernández"
+      ]
+    },
+    {
+      "frase": "Mirá los datos sobre mi montongo.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Sueldo de **Ofelia**, 330.000.",
+      "entidades_detectadas": [
+        "Ofelia"
+      ]
+    },
+    {
+      "frase": "Asesores, 15.000.",
+      "entidades_detectadas": [
+        "Asesores"
+      ]
+    },
+    {
+      "frase": "Sueldo, 70.000.",
+      "entidades_detectadas": [
+        "Sueldo"
+      ]
+    },
+    {
+      "frase": "En total, ella y sus asesores le cuestan al Estado 1.300.000 pesos.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "A mí me parece un montón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y a vos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Otro que nos sale muy caro es **Máximo Kirchner**.",
+      "entidades_detectadas": [
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "PJ Bonerense.",
+      "entidades_detectadas": [
+        "PJ Bonerense"
+      ]
+    },
+    {
+      "frase": "**Máximo Kirchner** en cabeza.",
+      "entidades_detectadas": [
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "Un plenario por el día del trabajador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Parece joda, pero no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabaja de hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabaja de heredero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vi de herencia recibida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los **Kirchner** son como una especie de monarquía mezclada con los Sopranos.",
+      "entidades_detectadas": [
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "Hablando de la realeza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá a **Máxima Zorreguieta** bailando con su familia.",
+      "entidades_detectadas": [
+        "Máxima Zorreguieta",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Todo lo bueno se va de acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros estamos **Máxima**, ustedes están **Kirchner**.",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Máxima"
+      ]
+    },
+    {
+      "frase": "Mirá.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Mirá a **Máxima Zorreguieta** bailando con su familia.",
+      "entidades_detectadas": [
+        "Máxima Zorreguieta",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Todo lo bueno se va de acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros estamos **Máxima**, ustedes están **Kirchner**.",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Máxima"
+      ]
+    },
+    {
+      "frase": "Mirá la **Máxima Zorreguieta** bailando con su familia.",
+      "entidades_detectadas": [
+        "Máxima Zorreguieta",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Todo lo bueno se va de acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros estamos **Máxima**, ustedes están **Kirchner**.",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Máxima"
+      ]
+    },
+    {
+      "frase": "Mirá la **Máxima Zorreguieta** bailando con su familia.",
+      "entidades_detectadas": [
+        "Máxima Zorreguieta",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Todo lo bueno se va de acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros estamos **Máxima**, ustedes están **Kirchner**.",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Máxima"
+      ]
+    },
+    {
+      "frase": "Mirá la **Máxima Zorreguieta** bailando con su familia.",
+      "entidades_detectadas": [
+        "Máxima Zorreguieta",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Por más **Máximas** y menos **Máximos**, están **Julio Bárbaro** y **Maximiliano Guerra** para conversar con nosotros.",
+      "entidades_detectadas": [
+        "Máximas",
+        "Julio Bárbaro",
+        "Máximos",
+        "Maximiliano Guerra"
+      ]
+    },
+    {
+      "frase": "La vida de **Máxima Zorreguieta** es como un cuento de hadas, como la Cenicienta, ponele.",
+      "entidades_detectadas": [
+        "Cenicienta",
+        "Máxima Zorreguieta"
+      ]
+    },
+    {
+      "frase": "En un baile conoce al príncipe, se enamoran, fueron felices, tuvieron hijas y comieron perdices.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lamentablemente, **Máxima**, te fuiste y nos dejaste a los **Kirchner**.",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Máxima"
+      ]
+    },
+    {
+      "frase": "A la madrastra y a las hermanas, te dejaste a los **Kirchner**.",
+      "entidades_detectadas": [
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "A la madrastra y a las hermanas, te dejaste a los **Kirchner**.",
+      "entidades_detectadas": [
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "A la madrastra y a las hermanas tras esas locas que están en el Ministerio de la Mujer Verde.",
+      "entidades_detectadas": [
+        "Ministerio de la Mujer Verde"
+      ]
+    },
+    {
+      "frase": "Todo lo bueno que tenemos se va.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué no podemos tener una mina como **Máxima Zorreguieta** acá, Dios?",
+      "entidades_detectadas": [
+        "Dios",
+        "Máxima Zorreguieta"
+      ]
+    },
+    {
+      "frase": "Acá tenemos a los K.",
+      "entidades_detectadas": [
+        "Acá",
+        "K."
+      ]
+    },
+    {
+      "frase": "Argentina, un Cromañón en cada esquina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cromañón"
+      ]
+    },
+    {
+      "frase": "Esta semana, los que se están pareciendo mucho al \"Frente de todos contra todos\" son ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tema **Milei** le puso los pelos de punta a todos.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Un poco la conozco, **Patricia Bullrich**, tiene una calentura.",
+      "entidades_detectadas": [
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "Mírenla: \"Lo que se habla es que queremos dejar de hablar de **Javier Milei**, porque él haya planteado claramente que no quiere estar junto con nosotros.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "No tiene sentido seguir hablando, viniendo y yendo sobre...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted lo quería, usted lo quería, usted lo quería, **Milei**.",
+      "entidades_detectadas": [
+        "Milei",
+        "Usted"
+      ]
+    },
+    {
+      "frase": "Pero cuando dos no quieren, las cosas no salen\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, **Patricia**, la que no lo quiere es **Milei**, ni un poquito.",
+      "entidades_detectadas": [
+        "Milei",
+        "Patricia"
+      ]
+    },
+    {
+      "frase": "**Merugeène Avidal** acusa a **Milei** de querer romper \"Juntos por el Cambio\" y fue un paso",
+      "entidades_detectadas": [
+        "Milei",
+        "Merugeène Avidal",
+        "Cambio"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cuerpo",
+    "recuérdenlo",
+    "mirá",
+    "Recuerdo",
+    "encontré",
+    "Trató",
+    "Randazzo",
+    "Transporte",
+    "Tensión",
+    "Qué",
+    "Morón",
+    "Nada",
+    "Fuerte",
+    "Asesores",
+    "Máximo Kirchner",
+    "Patricia Bullrich",
+    "habían entrado",
+    "Habría",
+    "Vendo Paco",
+    "Miren",
+    "Escúchenme",
+    "La Argentina",
+    "República Argentina",
+    "Pollo",
+    "Encontré",
+    "Sueldo",
+    "Once... Yo",
+    "Usted",
+    "Un Cromañón",
+    "Mirad",
+    "provincia de Buenos Aires",
+    "Cambio",
+    "Corte Suprema",
+    "Máxima Zorreguieta",
+    "¿Cuánto",
+    "Belliboni",
+    "Somalia Granata",
+    "Guerrera",
+    "Jorge",
+    "! Ministro",
+    "Así",
+    "Congreso",
+    "Gracias",
+    "Vendo",
+    "Escribió",
+    "Alberto Fernández",
+    "Gana River",
+    "Merugeène Avidal",
+    "Vamos",
+    "Corrupción",
+    "llegó",
+    "Según",
+    "Transparencia",
+    "Maximiliano Guerra",
+    "Sarmiento.",
+    "Ofelia",
+    "River",
+    "Highton",
+    "Vos",
+    "Ministro",
+    "Cenicienta",
+    "Argentina",
+    "Pollo Sobrero",
+    "Aedo",
+    "Barra",
+    "Ministro de Transporte",
+    "Ayer",
+    "Senado de la Nación",
+    "Cristina",
+    "Ustedes",
+    "Viviana Canosa",
+    "Míralo",
+    "Solo",
+    "Lamentablemente",
+    "Empática",
+    "Mañana",
+    "Corte",
+    "Bienvenidos",
+    "Once",
+    "¿",
+    "Anoche",
+    "Jacobo",
+    "Renuncie",
+    "Escuche",
+    "Dios",
+    "Cromañón",
+    "Lucas Ghi",
+    "Senado",
+    "Tenemos",
+    "Al ministro",
+    "qué está",
+    "Igual",
+    "¿Vosotros cuídense?",
+    "Máximas",
+    "Ponerle",
+    "Pegüén",
+    "Villa Urquiza",
+    "Vamos! ¡Vamos! ¡Vamos! ¡Vamos! ¡Aquí",
+    "Perdió",
+    "Kirchner",
+    "¿Cómo",
+    "Julio Bárbaro",
+    "Antes",
+    "Vino",
+    "Aníbal",
+    "Consejo de la Magistratura",
+    "Acá",
+    "Puta",
+    "Berni",
+    "Gana Boca",
+    "Bajen",
+    "¿Cuáles",
+    "Mostró",
+    "El Estado",
+    "Principalmente",
+    "Tolosa",
+    "Ofelia Fernández",
+    "Parrili",
+    "Gabriela Cerruti",
+    "Me",
+    "Ministerio de la Mujer",
+    "Imaginate",
+    "Máxima",
+    "Trabaja",
+    "También",
+    "Cerruti",
+    "Máximos",
+    "Cómo",
+    "qué pedo",
+    "Juan Lechol",
+    "Quiere",
+    "Enviado",
+    "PJ Bonerense",
+    "Córtame",
+    "Javier Milei",
+    "¿Sabés",
+    "¿Ustedes",
+    "Claudia Rucci",
+    "Estado",
+    "Corte Suprema de Justicia",
+    "Mirá",
+    "El Estado... La corrupción mata",
+    "Transporte?",
+    "Está",
+    "José",
+    "Mírenlo",
+    "Mutis",
+    "Patricia",
+    "Mamita!",
+    "Quiero",
+    "Decía",
+    "Ministerio de la Mujer Verde",
+    "Ojalá",
+    "¿Les",
+    "Trenes",
+    "la Argentina",
+    "Crónica",
+    "María Luján Rey",
+    "Alexis Guerrera",
+    "Milei",
+    "Cierren"
+  ]
+}

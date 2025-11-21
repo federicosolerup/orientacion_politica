@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 3
+    },
+    "score_promedio": 0.279,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La tesis de esta apertura de hoy es que **Javier Milei** descubre que necesita algo que le falta, que tiene que ver con lo inmaterial, no lo material, no la teoría económica, sino un apoyo moral religioso que no lo encuentra claramente en la religión mayoritaria de la Argentina, porque tenemos un Papa al que él critica, y que observa en el caso de Brasil la importancia que tuvieron para el presidente **Bolsonaro** los religiosos brasileños, lo mismo que en el caso de **Trump**, y que él puede encontrar un punto de contacto entre su teoría económica y el conservadurismo judío, el jasidismo.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él fue, como contamos, a la tumba de un rabino muy importante, el rabino Menachem Mendel Schneerson, conocido como el Rebe de Lubavitch, que fue un rabino ortodoxo de influencia global que nació en 1902 en Rusia y murió en 1994 en Estados Unidos.",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El matrimonio vivió en Europa hasta 1940, cuando se exiliaron a Norteamérica por la ocupación de París por Hitler.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí nos están viendo, además de estar escuchando, el momento en que un católico se acerca al Rebe y le dice que él quiere convertirse en judío y poder enseñar a los católicos de dónde vienen.",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la tesis es que hay un punto de contacto, podríamos decir, entre el judaísmo ortodoxo y el liberalismo, o el libertarismo, perdón; una lectura que se podría realizar específicamente de la Torá que permitiría conectar, podríamos decir, el judaísmo jasídico con el libertarismo.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su fundador fue un místico llamado Israel Ben Eliezer, un rabino que enseñó que la adoración a Dios debe ser gozosa.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar ahora al propio **Milei** hablando de su relación con la Torá y luego al autor del libro más leído de este momento, \"El Loco\", hablar sobre la relación entre la religión judía y el propio Javier Milei.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirá, vos sabés que Moisés, o Moshé, era un gran líder pero no era bueno divulgando, entonces Dios le mandó a Aarón para que, digamos, divulgue.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar ahora a Milei contar de su viaje y habla de la Torá en Egipto: \"El pescado no era gratis\".",
+      "score": 0.272,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, me fui a pasar el Shabat a Miami con amigos.",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él me decía ayer, es además muy religioso, un judío muy religioso, él me decía ayer, hacía muchas referencias sobre el Talmud y la economía, la teoría de los juegos es fundamental en la explicación de la teoría económica.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él decía que, además del futuro, es decir, que en la teoría de los juegos uno anticipa el futuro en la relación que va a tener con el intercambio con esa persona, es también muy importante la amenaza del castigo, juega un rol muy importante en la teoría de los juegos.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y luego dice, la ética no mueve la cooperación en la teoría de los juegos, sino el egoísmo.",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "ustedes recordarán, cuando era la alianza, se decía la pata peronista, que le falta, o que percibe Milei que le falta, así como le faltaba una pareja, le faltaba un sustento metafísico, no solamente material.",
+      "score": 0.436,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de Nombres y Apellidos:**\n    *   Javier Milei (en vez de Millay o otros errores)\n    *   Menachem Mendel Schneerson (en vez de Nelson o errores de ortografía)\n    *   Chaya Mushka Schneerson (en vez de Chayamuska Iza de Joffer Schichat-Scherson o errores de ortografía)\n    *   Bolsonaro (en vez de errores de ortografía)\n    *   Donald Trump (en vez de errores de ortografía)\n    *   Schneur Zalman de Liadi (en vez de Jenner Salman del Laidí)\n    *   Moshé (en vez de Moisés)\n    *   Aarón (en vez de Orón)\n    *   Israel Ben Eliezer (en vez de Leiser)\n    *   Robert Aumann (en vez de errores de ortografía)\n*   **Corrección de Ortografía:** Se corrigieron errores de ortografía en palabras individuales, como \"inmaterial\" en vez de \"lo inmaterial\".",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

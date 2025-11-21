@@ -1,0 +1,361 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 56,
+      "derecha": 13
+    },
+    "score_promedio": 0.252,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es Navidad para todos, día de intensidad fuerte, política ideal para saludar ya a **Carlos Pagni**, a quien tenemos de viaje y le vamos a dar la bienvenida.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque pareció que el presidente daba un giro y después como que queda corto, incompleto.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo primero que llama la atención con toda esta cuestión de la disputa entre la Nación y la Ciudad de Buenos Aires, que tiene una dimensión institucional muy relevante.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toda disputa judicial, sobre todo cuando la encarna nada menos que el Estado nacional contra un poder público como es la Ciudad de Buenos Aires y viceversa, es un ajedrez donde se supone que los que juegan conocen las posibilidades, las jugadas posibles, las distintas configuraciones que puede ir adquiriendo el tablero y, por lo tanto, tiene una respuesta jurídica y política pensada para lo que puede sobrevenir.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que el presidente y todo su entorno, el gobierno en general, lo tomó por sorpresa, lo que casi no tomó por sorpresa a nadie.",
+      "score": 0.616,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo novedoso es un concepto difícil de asimilar, evidentemente, por la dirigencia política y, sobre todo, por ese gobierno, y ese concepto es una gran innovación que introduce la Constitución en su reforma del '94, y es la que está cifrada en este fallo que dicta la Corte, como en otros fallos anteriores de la Corte: es el concepto de autonomía de la Ciudad de Buenos Aires.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa idea era la de un distrito precisamente federal, que le había sido arrancado a la provincia de Buenos Aires en 1880, cuando se federalizó la ciudad y la ciudad era una especie de cancha de juego, de plaza de maniobras del gobierno nacional, que tenía hasta la autoridad para delegar el poder en su intendente.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto fue cambiado con la lógica de la Constitución del '94, de la reforma del '94, que consistió en darle más poder al presidente, pero más tiempo al presidente, con la reelección, **Menem**, pero menos poder: esa fue la lógica última de **Alfonsín** en la negociación del Pacto de Olivos y ese menos poder al presidente supuso la elección directa del intendente de la Ciudad de Buenos Aires, pero supuso más, supuso quitarle poder al Estado nacional sobre los porteños y habilitar algo que no es lo que era antes la capital federal, al arbitrio del Poder Ejecutivo Nacional, pero tampoco una provincia.",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como una provincia y la Constitución y este fallo le reconoce esa autonomía.",
+      "score": 0.174,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "es como si fuera una provincia, por lo que es importante entender esto, porque no estamos hablando de recursos que graciosamente el Estado nacional le puede dar o quitar a la Ciudad de Buenos Aires.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La innovación de la autonomía es que la ciudad tiene un derecho sobre esos recursos que le corresponden.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digamos, claro, a ver, si el Estado nacional...",
+      "score": 0.295,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, bueno, de hecho cuando, cuando la Corte acepta este tema, igual que aceptó otros temas relativos a conflictos de la Ciudad de Buenos Aires, por ejemplo concordatos, y dice: \"Esto es mi competencia\", está diciendo: \"Esto es un estado autónomo, es como si fuera una provincia\".",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, uno también se pregunta ahí, cuando dice: \"No, no le puedo dar los fondos porque se lo estoy dando a las provincias\".",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que, sabiendo que está diciendo una falacia, dice: \"Es plata que le pertenece a las provincias porque yo la gasto en las provincias\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y en qué lugar la podría gastar que no fuera una provincia?",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay forma de que el Estado nacional no gaste en algún lugar que, además, es una provincia.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero es dinero nacional que el Estado nacional se apropió de la provincia, de la Ciudad de Buenos Aires, que es una ciudad autónoma, sabiendo...",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo no se va a dar cuenta de que cuando dice: \"Es plata que le pertenece a los gobernadores\", eso es falso, porque es plata del Estado nacional que si la gastan en la provincia, si la gasta en la Ciudad de Buenos Aires, porque hace una ruta nacional en la Ciudad de Buenos Aires?",
+      "score": 0.5,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digamos, los recursos que el Estado nacional gasta en la Ciudad de Buenos Aires no son de la Ciudad de Buenos Aires, son del Estado nacional y benefician a la ciudad, benefician a los porteños, como pueden beneficiar a los correntinos, pero eso no hace que el Estado correntino o el Estado porteño se tenga que apropiar de esos recursos.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le está contestando a las distintas reuniones que los gobernadores hicieron metiéndose en el tema.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llama la atención que tuviera tan poco pensado este problema el presidente, cuando era un problema que le iba a sobrevenir.",
+      "score": 0.386,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, acá tuvieron influencia algunas personas alrededor de Alberto Fernández.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que la más decisiva fue **Vilma Ibarra**, que es la que custodia la firma del presidente, la que tiene que evitar que el presidente tenga que ir a dar explicaciones a la justicia por sus actos, ahora o más adelante.",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y puede no haber estado en la decisión inicial.",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Vilma** presente, yo supongo que estuvo, que sabía de todo el proceso y que no le debe haber gustado la idea de decir abiertamente \"no cumplimos con un fallo de la Corte\".",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le podés preguntar después a **Bernardo Saravia** de esto, porque estoy seguro de que la conoce, donde este juez de la Corte Americana dice algo muy interesante: dice, \"Los fallos de la Corte deben cumplirse, mucho más cuando nos parecen equivocados, porque es ahí donde se ratifica la norma, el imperio de la ley, aún cuando nos...",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, me parece que hubo alrededor del presidente la posición de, desde el punto de vista jurídico, y la posición de **Massa** desde el punto de vista económico.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el goteo de coparticipación del Banco Nación, es decir, todos los días hay una cuenta del Banco Nación que gira a la Ciudad de Buenos Aires lo que le corresponde por coparticipación, o sea que no es una alternativa lo de los bonos, ¿estás diciendo?",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "esa cuenta del Banco Nación tendría que haber aumentado desde el jueves pasado y no aumentó\".",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En segundo lugar, el presidente aduce que se ampara en una ley, que es una vieja ley de consolidación de deuda, la 23.982.",
+      "score": 0.181,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "recordemos, no es responsable, le llama **Silvina Batakis**, presidente del Banco Nación, presidente del Banco Nación, que es la que inmediatamente es responsable, porque la Corte le dice al Banco Nación: \"Usted, paguele\".",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que cuando empiece a verse el problema penal que hay detrás de este problema fiscal y federal, probablemente estos funcionarios le van a hacer decir, le van a decir a **Alberto Fernández**, así como ahora le dijeron acaté el fallo, y el vacata, bueno, paguen efectivo y te lo que de acá a febrero todo puede seguir cambiando.",
+      "score": 0.52,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después viene otra discusión, que es la discusión de fondo, que si el monto que tiene que pagar la Nación a la ciudad por la policía, porque esa es la discusión de fondo, el origen.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, el origen es que cada vez que el Estado nacional le transfiere un servicio a una provincia, y esto está en una cláusula de la Constitución, le tiene que pagar los recursos correspondientes.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo un convenio entre la Nación con **Macri** y la Ciudad de Buenos Aires con **Larreta**.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, lo que dice el gobierno nacional es que en aquel momento **Macri** le pasó mucha plata de **Massa** a **Larreta**.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, le dio la ordenación de decir: \"Mientras yo resuelvo eso, le tenés que pagar tanto\", que es un porcentaje de 2.95 de la coparticipación general de los recursos nacionales de coparticipación y el Estado se resiste a pagarle eso y ahora lo quiere pagar con un bono.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se excede ese monto, por ejemplo, para pagar un aumento de sueldo, la Corte recurre de nuevo al Poder Ejecutivo para que hace una reasignación de partidas, que la tiene que hacer el Jefe de Gabinete, en este caso, el que se encargó de esta negociación por esa renegociación de las partidas es **Juan Manuel Olmos**, hombre de gabinete, que aparentemente estuvo bastante duro con la Corte, tanto que le negó parte del aumento.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno le había **Estina Kirchner**, por ejemplo, que, como todos sabemos, tiene un concepto, yo diría antiliberal, de la vida pública y del Estado y vive en el borde externo de lo que sería la institucionalidad republicana, siempre al borde de caerse y en situaciones de ruptura, para que...",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Convocó a no pagarle a los *holdouts*, para reformar el sistema financiero internacional con países que la apoyaban, Naciones Unidas, para esa saga, en ese caso, ella, a sus feligreses, a sus seguidores, le dice lo que se le atribuye a **Maquiavelo**: \"El fin justifica los medios\".",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es el fin que justificaría esos medios?",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a hablar de los gobernadores, pero no me cabe duda de que este conflicto de la Corte con el gobierno, que es presentado como un conflicto de la Corte con el peronismo, le viene muy bien para lo que es en general su presentación de las cosas.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, después está el, los gobernadores, muchos de los cuales quieren esta plata porque el Estado la destina a sus distritos, no porque les pertenezca esta plata, como dijimos al comienzo, pero si se gasta en sus provincias y otros...",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, por lo pronto, al **Mollan**, aparte del **Mollanismo**, le gustaba mucho **Capitanich** hasta hace un poco, hasta hace dos años, ponele.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, mirá si yo creo que a gente de La Cámpora no le gusta **Capitanich**, más allá de que **De Pedro** es de La Cámpora, que lo ven como un gobernador afín y no te olvides que fue vicejefe de gabinete de **Cristina**, perdón, jefe de gabinete de **Cristina**, perdón, jefe de gabinete de **Cristina**, que ahora se pelea con la Corte y que hizo algo muy valioso para la cultura de este grupo: rompió un diario *Clarín* delante de las cámaras de televisión y se jacta de una conferencia de prensa y lo recuerda cada tanto, casi que tiene todas las medallas en el pecho que se pueden pedir en el Instituto Patria para esta carrera.",
+      "score": 0.673,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro actor es **Larreta**, que obviamente está convencido de que se le conviene, tiene un triunfo con esto, un triunfo institucional, un triunfo jurídico, es un triunfo importante.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "te acordás, que también claro, una discusión jurídica con el Estado nacional, abril del 2021, más o menos, ¿no?",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira, me encantaría preguntarle sobre esto y le dejamos la pregunta a **Bernardo Saravia**, como no, para que desarrolle esta idea, pero yo quiero ir a la picardía de **Larreta**, no, al concepto de **Larreta**.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, él tiene que ir a las provincias y no quiere que cuando llegue a un aeropuerto le pregunten: \"Por qué entonces llevás la plata nuestra, **Larreta**, que es como se entiende simplemente la cosa, devolvé la plata\".",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, a ver, La Cámpora porteña y el PJ porteño, que está dirigido por alguien de La Cámpora, que es **Mariano Recalde**, está en el peor de los mundos, que tienen que defender y no lo hacen, porque fijate que están en un silencio sepulcral, tanto silencio como **Massa**.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen que defender que su gobierno le saca recursos a aquellos a los que le tienen que ir a pedir el voto.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, en el fondo de todo, Pancho, hay un problema, sí, y habiendo un problema que es un problema de carácter general, ideológico y tiene que ver con una concepción del poder.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El régimen en el que vivimos, le guste o no le guste a **Alberto Fernández**, a **Cristina Kirchner**, etcétera, es un régimen constitucional republicano, que en alguna medida hunde sus raíces en la Constitución americana de los Estados Unidos.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese régimen supone que el poder es sospechoso, que del poder hay que cuidarse y que por lo que y del poder del Estado hay que cuidarse.",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad no debe ser organizada por el Estado, la sociedad debe tener el menor Estado posible para garantizar la libertad de las personas.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente tiene poder, pero en determinado, en determinada jurisdicción, hay cosas que no las puede hacer.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, en el fondo de todo esto no hay solamente un desconocimiento del poder de la Corte, es una especie de desborde de poder en dos sentidos, por un lado, del Poder Ejecutivo respecto de la Corte, a la que quiso desobedecer y sigue desobedeciendo, no es que quiso desobedecer, porque pagar con bonos es desobedecer ese fallo, pero también una especie de desborde de poder respecto de la jurisdicción de la Ciudad de Buenos Aires, es una provincia.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, esto es lo que pone en peligro una determinada cultura pública, probablemente, no sé si lo pensará de esta manera, lo puede formular de esta manera, pero en el fondo, **Massa** está alerta frente a todo esto, se da cuenta de, claro, es decir, el presidente tiene menos poder, como para hacer política, para decisiones arbitrarias, no en este caso, con este sistema, tiene menos poder porque hay otros poderes que lo limitan, como la Corte, cuya función es que los demás poderes cumplan con la Constitución, porque supone el sistema que el Congreso puede violar la Constitución y que el presidente puede violar la Constitución, por eso hay una Corte que es la que dice cuándo el gol es gol, no es como lo vemos nosotros, si entró la pelota o no.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, y le deben haber dicho a **Massa**: \"Que escuchame, con este criterio, que no se cumplen los fallos de la Corte, tampoco van a pagar los bonos\", ¿cuánto va a ser el riesgo país de un país que no cumple con los fallos de la Corte?",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si un día vos podés decir: \"No la pago\", como no le pagué a Buenos...",
+      "score": 0.476,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjate lo que acaba de pasar esta semana, y lo denunció solamente la Coalición Cívica, **Juan Manuel López**, el presidente del bloque de diputados de la Coalición Cívica, la empresa **Mirgor**, que es una de las empresas que ensambla electrónicos importados en Tierra del Fuego, anuncia que va a haber un arancel más caro para los que importen computadoras personales, para que esa la empresa **Mirgor** pueda fabricar las computadoras que le vamos a tener que comprar casi obligatoriamente, porque comprar una de afuera va a ser más caro.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el Estado, en este caso, **Sergio Massa** le regala un mercado a la empresa **Mirgor**.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá quiero hacer un reconocimiento, Pancho, y no porque hoy sea el cumpleaños de **Carrió**, pero creo que hay una distinción por parte de la Coalición Cívica respecto de estos problemas, en cuyo fondo está el financiamiento de la política.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "para que los empresarios que se benefician con esos negocios, después lo financien a ellos.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esta es una práctica que se da en la Argentina y, lamentablemente, en toda América Latina.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A quién se le ocurre poner el tema al final de su programa en La Nación de la hora?",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, a ver, que también tiene que ver en el fondo con la Coalición Cívica.",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Faltó ese día justo cuando había que determinar aquello por lo cual él estaba constituyendo parte del jurado, un día antes de que esto sucediera, la Corte le había rechazado a **Escapolán** un recurso por",
+      "score": 0.427,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 69
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,62 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Bien, aquí tienes el texto corregido, intentando mantener el tono original pero mejorando la precisión y la claridad:\n\nBueno, mientras Pettovello, la ministra de Capital Humano, tenía más de 5 millones de kilos de comida sin repartir –comida que todavía no repartió, que todavía no ha anunciado cómo va a distribuir de forma correcta, que es a los comedores y merenderos de todo el país–, dijo que lo iban a mandar a escuelas, escuelas a las cuales el ministro Caputo no les envía los fondos para los comedores.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "O sea, mientras no hay comida, no hay fideos, no hay polenta, no hay hierba, no hay arroz, no hay lentejas, no hay garbanzos, para más de 10 millones de personas que necesitan de eso y que el Estado es responsable de alimentar, sí hay comida, sí hay dinero, perdón, para que los jefes militares que puso Milei como jefes militares coman salmón rosado, coman bife de chorizo, coman asado, coman una amplia variedad de quesos y fiambres, picaditas, dulces de todo tipo, e incluso se compraron papas noisette.",
+      "entidades_detectadas": [
+        "estado",
+        "milei"
+      ]
+    },
+    {
+      "frase": "El brigadier general Xavier Julián Isaac es el jefe del Estado Mayor Conjunto, promovido por Milei a ese lugar, por Milei y por Petri, y algunos dicen que por Macri también.",
+      "entidades_detectadas": [
+        "macri",
+        "estado",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Eso es lo que figura en la compra del Estado Mayor Conjunto.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y es muy interesante esto porque el ministro Petri, que obviamente cumplió con la orden del jefe militar del país –que es Javier Milei– de salir a defender a Sandra Pettovello y dijo que es una gran ministra que está peleando contra las mafias, dijo además que el gobierno no estaba comprando y no estaba haciendo licitaciones de comida.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Que lo explique el brigadier Isaac, que es el que firma esta compra, un hombre de la Fuerza Aérea que el gobierno puso como jefe del Estado Mayor Conjunto.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y que lo explique Javier Milei, de por qué comen salmón rosado en un país donde no reparten la comida a los comedores.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "*   \"comprar.co.ar\" se corrigió a \"comprar.gob.ar\" (la dirección correcta del portal de compras del estado argentino).",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "*   \"lucas\" se dejó como está (si bien no es formal, en Argentina se usa como jerga para referirse a \"mil pesos\").",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

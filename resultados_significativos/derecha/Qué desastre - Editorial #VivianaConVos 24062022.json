@@ -1,0 +1,376 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 57
+    },
+    "score_promedio": 0.694,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Por sus ambiciones personales, por el poder, por la plata, han dejado a la Argentina en ruinas.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La embestida de **Cristina Fernández de Kirchner** por los planes sociales expuso la falta de apoyo de **Alberto Fernández**, gobernadores e intendentes.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente resiste.",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente ya casi no tiene personas de confianza en el gobierno, no tiene ninguna.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y con esta movida, Cristina le sacó, de alguna manera, el apoyo de los movimientos sociales.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora hasta las piqueteras se le animan a Cristina.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto puede ser clave para el futuro del gobierno de **Alberto Fernández** y **Cristina Fernández de Kirchner**.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la segunda vez que el presidente **Alberto Fernández** le renuncia a **Cristina Fernández de Kirchner**.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la segunda vez que el presidente **Alberto Fernández** le renuncia a **Cristina Fernández de Kirchner**.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** le renunció dos veces a **Cristina Fernández de Kirchner**.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto la amenaza a Cristina diciéndole que si sigue criticándolo en público y tirándole piedras, él se va, pero si él se va, abre la boca, prende el ventilador y se pudre todo.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dice algo así como: \"Si yo me voy, vos también te vas y se van a ir todos los tuyos.",
+      "score": 0.564,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se soportan, no se hablan, él le renuncia, ella lo putea en público, basta.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De otra manera no se puede entender que nos diga semejante cosa la vocera del presidente **Alberto Fernández**.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están gastando fortunas en la campaña de 2023, mientras la gente en la Argentina come, ni siquiera de la basura, de un basural.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay gente que hace décadas en la Argentina come de un basural, ¡qué desastre!, miralo.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando esta gente come de un basural, con esto le dan de comer a sus hijos.",
+      "score": 0.673,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero esto es mucho peor, esto es grave, no una puteada que no le hace mal a nadie.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le avisan a los pacientes que atentar contra los médicos está prohibido por la ley.",
+      "score": 0.443,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Desde cuándo en este país le tenés que poner un cartel a la gente diciéndole que está mal atentar contra un médico?",
+      "score": 0.689,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le avisan a los pacientes que está prohibido tratar mal o pegar o voltear a un médico.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la sociedad que tenemos: la gente come de la basura, a los políticos no les importa, a nadie le importa.",
+      "score": 0.789,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La maestra, viendo que estaba con el celular en la clase, le dijo, no sé, **Suárez**, **Riquelme**, fijate, no está bueno que esté con el teléfono.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él le dijo: \"¿Qué hace, vieja ridícula?\".",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes le había dicho: \"¿Qué hace, vieja chota?\".",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo vamos a ver ahora, pero el tema es que, en un momento, muchos de los compañeros de este chico, que le dijo: \"¿Qué hace, vieja chota o vieja ridícula?\", querían que la pelea siguiera entre un alumno y una profesora con queja… con queja esta maestra, esta docente puede seguir dando clases cuando los pibes le decían: \"¡Pegale!\", ¡Qué desastre!",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, los pibes le dicen: \"¡Pegale, pegale!\" a la vieja chota ridícula de la profesora, con queja esta mina va al colegio al día siguiente si no la respeta nadie en la clase.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La feliz propuesta de **Ulises Bueno**, el hermano de **Rodrigo**, a la municipalidad de Córdoba para festejar su cumple, quiere brindar un show gratuito para la gente, pero que el costo de la técnica lo afronte el municipio.",
+      "score": 0.574,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A **Rodrigo Bueno** y a la gente que come del basural, porque esos 43 millones de pesos, no sé, mándenlos en comida, algún lugar pobre.",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la Argentina delirante.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo, cuando pido comer a gente a mi casa, no le pido que traigan ni el postre, boludo, ni un vino.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quienes no trabajaran en el feriado del lunes 27 de junio, se viene un nuevo fin de semana largo en la Argentina que permitirá descansar a los trabajadores de la administración pública.",
+      "score": 0.278,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, ¿cuántos feriados más vamos a tener en esta Argentina decadente?",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si vos le pagás, te deja pasar.",
+      "score": 0.566,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí saca sus cosas, vos le das plata y él te deja pasar.",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no le das plata, te hace esperar.",
+      "score": 0.603,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo bueno de Argentina es que siempre hay uno que trata de hacer guita o unos mangos con la desgracia del otro.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para no demorarnos, para no llegar tarde, le decimos al tipo: \"Te tiro unos mangos y voy\".",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella, así como sonriente, te dice: \"Vamos a hablar de los fallidos del presidente **Alberto Fernández**, de sus fallidos\".",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comentó la confusión del presidente con **Garganta Profunda** y que se dio como si fuera algo gracioso.",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todas las semanas, todos los días, el presidente **Alberto Fernández** tiene un fallido.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le pasa eso?",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, también le pagamos para que el presidente pida un fallido, garganta profunda.",
+      "score": 0.779,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, nos enteramos que tenía esta semana el presidente en la cabeza.",
+      "score": 0.769,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** en los **BRICS** condenó la invasión ilegal de Rusia a Ucrania y elogió al régimen chino.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero le ofreció a Rusia que Argentina sea la puerta de entrada a Latinoamérica.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No condenó la invasión a Ucrania y aprovechó para elogiar a los chinos.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y bueno, hace unos días, ¿se acuerdan que se babeaba con Mayde, le mostraba las fotos del hijo del olivos gay?",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No tenemos muy claro qué le mostraba, ¿no?",
+      "score": 0.249,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué se le va a hacer?",
+      "score": 0.64,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Winston, Alberto en la cumbre de los **BRICS** ofreciéndole al mundo energía y alimentos de un país con las rutas y las calles cortadas por la falta de energía y de alimentos.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Increíble, esta es la Argentina que le gusta a **Alberto Fernández**.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la Argentina que lo que… ¡Qué desastre!",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Oye, música medio pedorra, súper misógina, ellos que son Les Verdes… Pus, escuchaste las canciones de **Eligente**: \"Ven y que te la pongo, ponete en cuatro, son miseria, poneme ese traste…\" Así son, las escuché todas.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El documento abarca el período entre el 1 de mayo de 2021 y el 30 de abril de 2022 y se centra en acontecimientos relacionados con los derechos económicos, sociales, culturales y ambientales del Estado de Derecho y el espacio cívico.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá están, los amigos de Venezuela y de **Maduro**.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos al presidente **Alberto Fernández**, el defensor de los derechos humanos en la cumbre de las Américas, defendiéndolo a su amigo **Nicolás Maduro**.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuba soporta un bloqueo de más de seis décadas impuesto en los años de la Guerra Fría.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Venezuela tolera otro, mientras que una pandemia que asola a la humanidad arrastra consigo millones de vidas.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de algo serio, le vuelvo a agradecer al Dr.",
+      "score": 0.542,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero antes, quiero decirte que, de verdad, ayer se lo decía a Villa **Campolongo** y a los chicos, más allá de la repercusión con este gran hombre, **Alberto Crescenti**, el titular del SAME, realmente todo lo que contó.",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El amor que le pone a su trabajo, a la gente, la empatía, la solidaridad, el amor.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Es entre Córdoba y Paraguay?",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por favor… Por supuesto que necesitamos más de esos tipos, esos bomberos, más patriotas, más Crescentis.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le mando un beso.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La llamo a diario a la mamá y le pregunto cómo está, la semana que viene, si Dios quiere.",
+      "score": 0.688,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ya le dijo que sí.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Papá también le contaste?",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo le dijiste?",
+      "score": 0.488,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le dijiste?",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dejo mensajes de amor y me devuelve un amor impresionante.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poné un poquito lo que decía esa noche sola.",
+      "score": 0.547,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 72
+  },
+  "etiqueta_original": "neutral"
+}

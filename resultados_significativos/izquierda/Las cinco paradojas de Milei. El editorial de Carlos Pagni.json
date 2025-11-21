@@ -1,0 +1,441 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 58,
+      "derecha": 27
+    },
+    "score_promedio": 0.328,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Henry Kissinger decía que la fascinación del intelectual vale también para el periodismo, y la fascinación del periodismo es el drama del político, algo muy molesto para este último.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El político tiene que tomar decisiones, tiene que ver blanco o negro; no le conviene ver las contradicciones, los matices, las perplejidades que hay en los fenómenos, en los hechos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La función del periodismo, en ese empeño, en ese trabajo, es que no nos vendan, no le vendan a la opinión pública gato por liebre, algo a lo que el poder siempre tiende, ya que en el ejercicio del poder, que busca convencer, hay algo de engaño.",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei estuvo en Mar-a-Lago, en el *country* de Donald Trump en Palm Beach, y fue la estrella de este festejo por muchas razones, pero la más importante de todas era que era el único presidente y el único jefe de Estado presente en esa celebración, que fue la celebración del triunfo de Trump combinada con una reunión, una concentración de una organización de ultraderecha que se refleja en Trump y en otros movimientos similares, entre ellos, La Libertad Avanza.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, cuando uno mira la propuesta económica de Trump, uno tendría que pensar que hay una relación Milei *versus* Trump o Trump *versus* Milei, porque estamos hablando de un presidente electo de los Estados Unidos que, repitiéndose a sí mismo, repitiendo lo que hizo en su primera presidencia, pretende acelerar y agudizar una tendencia en el manejo de la economía proteccionista, cuya clave está en el aumento de los aranceles, es decir, de las barreras que pone el Estado para proteger el trabajo nacional, para proteger a las empresas nacionales frente al intento de invadir ese mercado con productos importados, básicamente chinos.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump viene con una política proteccionista que se parece muchísimo más a la que podría predicar un líder peronista, más a la que podría predicar un líder kirchnerista.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Seguramente **Cristina Fernández de Kirchner** y quienes la rodean están fascinados con que en los Estados Unidos se defienda una política proteccionista.",
+      "score": 0.519,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque ese proteccionismo puede llevar a una especie de rebrote inflacionario en los Estados Unidos, que induzca, que convenza a la Reserva Federal de la ventaja de subir la tasa de interés y produce una gran aspiración, como poner una gran aspiradora de dólares en el mundo, que afectaría enormemente a la economía argentina y plantearía un problema enorme para la política cambiaria, porque muy probablemente dispararía el dólar libre y ampliaría la brecha.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, como sabemos todos, de lo que trata el gobierno de Milei es de cerrar la brecha para poder contener la inflación por la vía cambiaria y eventualmente levantar el cepo, sin lo cual se hace muy difícil reactivar la economía.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos en un mundo lleno de curiosidades en este sentido, porque el presidente de Estados Unidos defiende la intervención del Estado para proteger la industria y las actividades nacionales, mientras China defiende el libre comercio y defiende instituciones destinadas a proteger el libre comercio como la OMC.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, uno podría decir: \"Sí, defienden el libre comercio porque hacen trampa en el libre comercio\", que esta es la raíz del discurso de Trump.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es el segundo del Departamento de Estado encargado de mirar el mundo de la inversión con ojos geopolíticos.",
+      "score": 0.312,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque tienen una capacidad tan grande, respaldada por el Estado, de vender a precios muy bajos lo que fabrican en China y lo que pueden fabricar en otros países, que nosotros no le podemos pedir a nuestras empresas que compitan con esos precios.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ni el Estado tiene en los Estados Unidos la capacidad de subsidiar a esas empresas para que le puedan ganar a las inversiones y a la producción china.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto es lo que explica esta especie de nueva guerra fría, muy distinta de la primera, donde el eje central de la política de Trump es enfrentar a China con políticas proteccionistas que seguramente le deben hacer ruido a Milei.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viene ahora un gobierno que está en contra, el gobierno de Donald Trump, y el gobierno de la Argentina también.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, como **Bolsonaro** en Brasil, Milei está en contra de esa agenda y coincide con Trump.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá coinciden Milei y Trump.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Coinciden tanto, y vamos a ver qué pasa mañana, que Milei llegó a Brasil a la reunión del G-20 casi como una especie de emisario de Donald Trump.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vamos a ver qué hace la Argentina mañana con el documento final de la cumbre, si lo suscribe con objeciones o no lo suscribe, lo cual es todo un problema, porque en esas cumbres el pronunciamiento final se supone que es por consenso absoluto, que no hay disidencias.",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la mujer de Lula da Silva, lo conoció en la cárcel, una socióloga muy militante de izquierda, que influye muchísimo en el presidente de Brasil, y habló delante de la multitud.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y dijo algo más: \"Fokiu, Elon Musk\", esto lo dijo la primera dama de Brasil el sábado.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, como todos sabemos, Elon Musk va a ser ministro de Trump en un ministerio de reforma del Estado.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está orgulloso de que Musk, que es fan de Milei, se habló con **Federico Sturzenegger** para inspirarse en algunas desregulaciones del gobierno de Milei para llevar adelante en los Estados Unidos.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo peor que se le puede decir a un político, lo peor: \"Van a perder las próximas elecciones\".",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando del PT, que está diciendo que va a ganar la derecha, probablemente la de Bolsonaro, que es el aliado de Trump y todo lo que lo rodea en Estados Unidos.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto pasa también en la Argentina, es la fascinación de Milei por empresarios tecnológicos.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La semana pasada estuvimos con **Pierpaolo Barbieri**, que venía de recibir a Milei en Ingualá, una *fintech*.",
+      "score": 0.587,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La fascinación de Milei por **Demian Reidel**, que es su jefe de gabinete de asesores, y Silicon Valley.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esto ocurrió durante décadas enteras en la Argentina y en toda América Latina.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí está Elon Musk y una gran red social, que fue suspendida en Brasil por 39 días por promover noticias falsas, por instigar al odio.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero por ahora hay algunos movimientos de Elon Musk que llaman la atención y que no tienen solamente que ver con el destino que le da Trump para reformar el Estado, el Estado norteamericano.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, se pregunta el columnista del Financial Times: \"¿No será Musk un amortiguador de la relación entre China y Estados Unidos?",
+      "score": 0.694,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es nada menos que el representante de Irán en Naciones Unidas.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de un Irán sometido prácticamente a una guerra abierta con Israel.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice: \"No vamos a hablar de encuentros privados, pero sí voy a decir\", dice la vocera de Trump, \"que Trump viene a pacificar el mundo\".",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paradojas también del mundo Trump, paradojas de la relación entre Milei y ese mundo.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya dijimos, Milei llega a Brasil enarbolando las consignas propias, pero también de Trump.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno brasileño, *off the record*, en la interpretación que filtra la prensa, dice: \"Están muy aislados los argentinos en esta cumbre\", y Milei puede contestar felizmente aislados, si lo que queremos es demostrar nuestro aislamiento, porque somos parte del mundo que viene, que es el mundo que va a empezar a gobernar Estados Unidos a partir del 20 de enero.",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo recibió Lula con su mujer al lado, con Janja.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei fue con su hermana, como siempre, que hace las veces de primera dama, Karina.",
+      "score": 0.409,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Formal, cordial, hasta ahí no más, ni una sonrisa por parte de Lula, pero es la primera vez que se ven físicamente, que se tocan en público, después de haberse dicho de todo, uno al otro, sobre todo Milei dijo de Lula que era un comunista corrupto.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, el ministro de Economía, **Luis Caputo**, firmó con **Alessandro Silveira**, que es el ministro de Minas y Energías de Brasil, un acuerdo para empezar a formar un grupo de trabajo binacional que desarrolle la infraestructura que le permita a la Argentina vender gas de Vaca Muerta al mercado industrial brasileño.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se tenderá un gasoducto hacia Brasil, continuación del Néstor Kirchner, que se hizo el año pasado.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También está el trabajo de la diplomacia, porque detrás de esto que se firmó hoy está **Julio Vitobello**, el embajador de Brasil en Buenos Aires, con una extraordinaria, dirían los brasileños de Itamaraty, paciencia estratégica para ir tejiendo una relación bilateral entre la Argentina y Brasil a pesar de la tirria que se tienen los dos presidentes.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei firmó, otro éxito de Lula y de la diplomacia de Brasil en esta cumbre del G-20, un documento para una iniciativa de Lula, que quiere que sea el sello de esta cumbre del G-20, de la cual es el anfitrión, la alianza contra el hambre, una alianza internacional para combatir el hambre.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí está Biden, ahí está Lula, que, en contra de Trump y en contra de Bolsonaro, levanta más la bandera del clima.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para Brasil es todo un tema por la Amazonia.",
+      "score": 0.178,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos si Milei va a firmar o no, esto se está negociando, y no es el único problema, porque aparecen otros problemas en esta declaración final que no tienen que ver con la Argentina, tienen que ver con Rusia.",
+      "score": 0.349,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rusia forma parte del G-20, los últimos ataques de Rusia a Ucrania y la autorización de Biden, que se quiere ir del gobierno levantando la bandera anti-rusa, la autorización de Biden para que Ucrania pueda usar misiles de largo alcance norteamericanos que agredan e impacten en suelo ruso.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo mismo que el ataque terrorista deja más contra Israel la defensa de Israel frente a los miembros musulmanes del G-20, no solo árabes, sino de religión musulmana, a la cabeza de todos los árabes, de Arabia Saudita.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso dificulta mucho el pronunciamiento de mañana y, probablemente, la disidencia de Milei pase inadvertida o pase menos visible.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es el gran objetivo de Milei en esta visita, en esta participación en la cumbre del G-20 en Río de Janeiro?",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, con Xi Jinping, con el líder de la China comunista, que hasta hace poco tiempo era una China criminal por comunista.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero desde que otro embajador muy habilidoso, el embajador chino en Buenos Aires, se va con Milei hasta el borde del abismo.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y un día le devolvió la respiración firmando, renovando el *swap* de moneda, sin el cual el Banco Central estaría quebrado y hubiéramos entrado en *default* con el Fondo Monetario.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, China le salvó la vida a Milei en el último minuto y a partir de ahí Milei dice: \"Bueno, los chinos responden, los chinos me traen soluciones, probablemente más que los demócratas de Estados Unidos, que hasta ahora no me ayudaron en el Fondo\".",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se lo dijo a un grupo de legisladores demócratas el presidente Milei.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De golpe, China cambia de temperatura frente al argentino y se vuelve un amigo.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver: \"La agrupación Fuerza del Cielo, que está formando hoy aquí entre nosotros, es el brazo armado de La Libertad Avanza, la guardia pretoriana del presidente Javier Milei\".",
+      "score": 0.722,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto está instalado con ideas de derecha anticomunistas, al lado de este Milei que busca la ayuda de Xi Jinping.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, este acto con esa estética un poco fascistoide, con los estandartes que recuerdan actos de la Europa de los años 20 y 30 del siglo pasado, la pregunta que habría que hacer es: ¿y dónde le ponemos a Xi Jinping acá?",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto nos lleva a otra paradoja, que es la paradoja de la relación con Cristina Fernández de Kirchner y el kirchnerismo.",
+      "score": 0.723,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, acá se habla de los zurdos hijos de puta, que no sabemos si incluyen o no a los interlocutores del propio gobierno, mientras tanto negocian con Cristina, intentan negociar con la gente que les envía Cristina para esa negociación y le quitan la jubilación.",
+      "score": 0.442,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema de la jubilación de Cristina Fernández de Kirchner, bueno, hay un debate que se saldaría mejor si la decisión la hubiera tomado la justicia, porque son derechos que debe resolver la justicia, le guste a uno o no.",
+      "score": 0.489,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una medida agresiva, no sé si en el caso de Cristina, pero en general para muchísimos políticos que le quiten la jubilación de privilegio es agresivo, porque le quitan lo único que tienen en blanco.",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero pone sobre el tapete otro problema del que se habla poco, y es un problema mucho más importante que la jubilación de Cristina, que tiene una sanción político-moral, digamos, después de que la condenó o ratificó la condena del Tribunal Oral, la Cámara de Casación.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no le puedo quitar la jubilación a alguien que se la di.",
+      "score": 0.647,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Años 2006-2007, si usted mira la historia fiscal de la Argentina, se dispara el gasto cuando se incluyen estas moratorias y se incorporan masas enormes de gente al sistema previsional sin ver cómo se financia esto.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay cantidad, más de 50, entre ellos, el tipo de jubilación y de pensión que le quitaron a Cristina.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que la Argentina tiene la ventaja de ser un país con una población joven, pero los problemas previsionales de un país con una población envejecida.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es mucho más atractivo pelear por la jubilación de Cristina Fernández de Kirchner.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obviamente, Cristina, desde que le sacaron la jubilación, está enojada.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el gobernador que ha llevado con mayor nitidez lo que para Cristina es la función pública y las políticas deseables del Estado en Santiago del Estero.",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos que Zamora firmó los acuerdos de mayo, los pactos de mayo de Milei, que son pactos con una melodía absolutamente contraria a la que puede defender Cristina Fernández de Kirchner.",
+      "score": 0.723,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la semana pasada, el bloque de diputados peronistas, junto con el bloque que dirige **Miguel Ángel Pichetto**, digamos, una cantidad de bloques parlamentarios del parte del radicalismo, necesitaba más de 129 votos para poder votar una nueva reglamentación de los decretos de necesidad y urgencia que le quite la lapicera o que dificulte la emisión de decretos de necesidad y urgencia por parte de Milei.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Cristina Fernández de Kirchner, en la vereda enfrente de Milei, festeja el Día del Militante con el militante José Luis Gioja, que es el que le permitió a Milei seguir firmando decretos de necesidad y urgencia.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿La llevaron, Guadalupe Godoy y Neder, hasta acuerdos con el gobierno, y después le quitaron la jubilación?",
+      "score": 0.319,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Puede ser que alguien tan sagaz como Cristina Fernández de Kirchner haya entrado en esa trampa?",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a terminar mirando una encuesta muy interesante, una encuesta que muestra el buen momento en que está el oficialismo, por eso también la celebración eufórica del triunfo de Trump, porque desde esos actos de Las Fuerzas del Cielo se perciben como que todos los planetas están alineados hoy con Milei, una encuesta de Mide, la consultora que lidera **Gonzalo de Nevares**.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo anterior a cómo le va a ir al país.",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es cómo le va a ir a cada uno.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, tenemos la línea verde turquesa: \"Me va a ir mejor\", 35%, y cae la idea de los que creen (colorado) que le va a ir peor, 21%, es decir, expectativas positivas.",
+      "score": 0.272,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este sí es un gráfico, un cuadro muy importante, porque tenemos que recordar que lo que lleva centralmente a Milei al poder, lo que produce el derrumbe de la política tradicional como la conocíamos, era un estado de ánimo, de desazón, de pérdida del sentido, de \"esto ya no es vida\".",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora tenemos 29% de gente que dice que vive con esperanza, 20% con incertidumbre, pero después reaparece 15% con confianza, es prácticamente 44%, bronca 15, desilusión 10, miedo 7, pero estas dos barras son muy importantes y explican por qué Milei se sostiene en las encuestas, a pesar (igual, me interesa esto que lo hablemos con Joaquín de la Torre) a pesar del ajuste que se está viviendo, de las dificultades que aparecen.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 85
+  },
+  "etiqueta_original": "neutral"
+}

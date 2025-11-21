@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Cuando se designó a Patricia Bullrich en Seguridad, quedó claro que habría violencia.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Es la misma Patricia Bullrich responsable del fusilamiento por la espalda de Rafael Nahuel.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Es la misma Patricia Bullrich que, cuando Formosa llevaba un año de pandemia con un solo muerto —uno de los lugares con mejor gestión de la pandemia a nivel mundial—,  fue a Formosa dos veces, organizó dos marchas, y en 60 días hubo 700 muertos.",
+      "entidades_detectadas": [
+        "bullrich",
+        "formosa"
+      ]
+    },
+    {
+      "frase": "Por eso, cuando escucho hablar de 2025, no puedo creerlo, porque mucha gente morirá en Argentina antes de esa fecha.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

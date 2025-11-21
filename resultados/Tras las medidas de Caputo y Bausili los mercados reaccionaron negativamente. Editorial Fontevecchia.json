@@ -1,0 +1,838 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Buenos días, martes 2 de julio.",
+      "entidades_detectadas": [
+        "Buenos"
+      ]
+    },
+    {
+      "frase": "Después de la aprobación de la ley de bases, a pesar de los anuncios que dio a última hora el gobierno y el equipo económico, los mercados reaccionaron a la inversa de lo deseado por el Gobierno Nacional y por el presidente Javier Milei.",
+      "entidades_detectadas": [
+        "Gobierno Nacional",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Así que, para la apertura de hoy y analizar este \"lunes negro\", escuchamos \"Crisis\" de Joaquín Sabina y titulamos nuestra apertura de hoy, día 205: \"El mercado no la ve\".",
+      "entidades_detectadas": [
+        "Joaquín Sabina"
+      ]
+    },
+    {
+      "frase": "Ayer, luego de la última conferencia de prensa el viernes pasado de Luis Caputo y Santiago Bausili, presidente del Banco Central, la brecha entre el dólar oficial y el paralelo superó el 50% y el riesgo país pasó los 1500 puntos.",
+      "entidades_detectadas": [
+        "Luis Caputo",
+        "Ayer",
+        "Banco Central",
+        "Santiago Bausili"
+      ]
+    },
+    {
+      "frase": "El dólar blue estuvo en torno a los 1400 pesos, incluso llegó a 1405.",
+      "entidades_detectadas": [
+        "llegó"
+      ]
+    },
+    {
+      "frase": "En varios momentos de la campaña, Javier Milei dijo que \"no se puede esperar algo distinto con los mismos de siempre\", refiriéndose continuamente al tema de \"la casta\".",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "En otros momentos, citó, en el mismo sentido, la clásica definición de la locura que daba Albert Einstein, que planteaba que \"loco era aquel que esperaba resultados distintos haciendo lo mismo de siempre\".",
+      "entidades_detectadas": [
+        "Albert Einstein"
+      ]
+    },
+    {
+      "frase": "Probablemente ese Javier de la campaña vería a este Javier Milei presidente que gobierna con las mismas personas, por ejemplo, que él mismo dijo que habían fracasado en el caso específico de Caputo, a quien él mismo acusó de haber generado, textualmente, \"una fuga de divisas fenomenal\", o a Patricia Bullrich, que estuvo también en los fallidos gobiernos de De la Rúa y de Mauricio Macri.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "De la Rúa",
+        "Caputo",
+        "Javier Milei",
+        "Javier",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Pero no es solo una cuestión de personalidades: las medidas de su \"fase dos\", que plantean que el Banco Central deja de financiar los bonos y será el Tesoro quien asuma la deuda, son las mismas que siguieron luego de la renuncia de Caputo tras la corrida cambiaria más fuerte del macrismo en el año 2018, cuando empezaba a tambalear la gestión económica de Macri.",
+      "entidades_detectadas": [
+        "Macri",
+        "Banco Central",
+        "Tesoro",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Se pretende \"hacer lo mismo con el mismo\", en este caso Caputo, y esperar un resultado distinto, que sería, desde la perspectiva de aquel Milei que repetía la frase de Einstein.",
+      "entidades_detectadas": [
+        "Milei",
+        "Einstein",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Esto sucede en un contexto de otras turbulencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, Milei profundiza el conflicto con el principal socio comercial argentino, Brasil, en un cruce con el presidente Lula da Silva, a quien le dijo que el mandatario argentino tiene que pedirle disculpas por haberlo tratado de \"comunista\" y otros improperios.",
+      "entidades_detectadas": [
+        "Milei",
+        "Lula da Silva",
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Milei, lejos de poner paños fríos, redobló la apuesta y ahora sigue con el conflicto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por otro lado, la Casa Rosada dijo que cree falso el intento de golpe de Estado en Bolivia, por lo que el presidente Luis Arce llamó a consultas a su embajadora en Buenos Aires.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Casa Rosada",
+        "golpe de Estado",
+        "Bolivia",
+        "Luis Arce"
+      ]
+    },
+    {
+      "frase": "Con Bolivia comercializamos gas; Brasil es fundamental para cerrar las cuentas comerciales.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "Hace poco, el gobierno \"comunista\" (entre comillas) de China, con el que Milei dijo que no comercializaría, alejó la posibilidad de default al renovar el swap, a pesar de los errores no forzados diplomáticos de este gobierno que cometió con el país asiático.",
+      "entidades_detectadas": [
+        "Milei",
+        "China"
+      ]
+    },
+    {
+      "frase": "Cabe preguntarse si la biología, en algún caso, deja de serlo y se transforma en un síntoma o un símbolo de lo que es una personalidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recordemos, primero, lo que dijo el presidente Lula acerca de la necesidad de un período de disculpas por parte de Milei.",
+      "entidades_detectadas": [
+        "Lula",
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo: *\"Lo siento, quiero Argentina, es un país que me gusta mucho, es un país muy importante para Brasil.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Escuchémoslo",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Brasil es muy importante para Argentina.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "No es un presidente de la República que va a crear una cesárea entre Brasil y Argentina.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El pueblo argentino, el pueblo brasileño, es mayor que los presidentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ellos quieren vivir bien, quieren vivir en paz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, si el presidente de la República de Argentina gobierna Argentina, ya está bien, no tiene que gobernar el mundo.\"* Además, el presidente Milei dijo que no iba a ir a la reunión del Mercosur para no cruzarse con Lula y redobló la apuesta, anunciando que va a ir a Brasil a reunirse con Bolsonaro.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula",
+        "Argentina",
+        "Bolsonaro",
+        "Además",
+        "Milei",
+        "Mercosur"
+      ]
+    },
+    {
+      "frase": "En este momento tan crítico, aparece una dura crítica a la gestión del presidente de un aliado de la Fundación Pensar, el CELSAN del PRO, que produjo un informe que lleva la firma de Mauricio Macri, en el que se afirma que el gobierno de Milei tuvo el peor arranque legislativo de la historia.",
+      "entidades_detectadas": [
+        "Milei",
+        "PRO",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Además, genera más dudas que certezas.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Además, resalta los malos indicadores en materia de caída de actividad económica y de aumento del desempleo.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "El informe también señala que la mayoría de la gente tiene esperanzas con el gobierno, pero se pregunta hasta cuándo va a soportar el ajuste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este informe llena de dudas el futuro del gobierno de Milei, viniendo de un aliado, y lo debilita frente a los mercados y también al Fondo Monetario Internacional.",
+      "entidades_detectadas": [
+        "Milei",
+        "Fondo Monetario Internacional"
+      ]
+    },
+    {
+      "frase": "¿Cuál es la intención de Macri en este informe?",
+      "entidades_detectadas": [
+        "¿Cuál",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "¿Tendrá que ver con aquellas reuniones que se rumoreaban entre Macri y la vicepresidenta Victoria Villarruel?",
+      "entidades_detectadas": [
+        "Macri",
+        "¿Tendrá"
+      ]
+    },
+    {
+      "frase": "Preguntas que, por lo pronto, no tienen respuesta, pero es seguro que no fue solo el ansia de conocimiento lo que motivó al PRO a presentar el informe, evaluando el desempeño del gobierno, que supone que apoyan y que, por momentos, le brindaron algunos de sus cuadros.",
+      "entidades_detectadas": [
+        "PRO"
+      ]
+    },
+    {
+      "frase": "La idea de diferenciarse del gobierno no es nueva para el expresidente, y lógicamente resulta necesaria y estratégica para que el PRO mantenga su identidad, que ve una suerte de conflicto de intereses entre su partido y el oficialismo actual, mientras Karina Milei lleva adelante la apertura del partido, de La Libertad Avanza, en todos los lugares donde no estaba funcionando, entre ellos, el conurbano bonaerense, y se plantea una competencia en 2025 con el PRO.",
+      "entidades_detectadas": [
+        "Karina Milei",
+        "PRO",
+        "La Libertad Avanza"
+      ]
+    },
+    {
+      "frase": "Compartamos lo que decía hace unos pocos meses sobre el derrotero de este gobierno Mauricio Macri, el 29 de octubre de 2023: *\"Tenemos que sanar este conflicto sobre quién representa el cambio.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Los jóvenes mayoritariamente eligieron a Javier Milei.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Ahora lo que quiero decirles a todos, si me permitís, es que tenemos que sanar este conflicto que se ha dado en nuestras casas, entre una generación y la otra, acerca de quién representaba el cambio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo tenemos que sanar, tenemos que entender que bueno que los jóvenes tuvieron más convicción, más ímpetu, y tenemos que reunirnos todos alrededor del cambio, sabiendo que tenemos nuestras diferencias y que las vamos a manifestar en el Congreso.\"* Como le dice Javier, una cantidad de cosas que vos decís, las veo como extremas y no estoy de acuerdo, y no las vamos a aceptar.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Javier"
+      ]
+    },
+    {
+      "frase": "La buena noticia, un anticipo, es que en esa reunión de reconciliación entre Patricia Bullrich y él, Patricia le llevó una hoja que es la misma que presentó en la conferencia de prensa el día siguiente, y él la leyó educadamente, atentamente, se tomó su minuto y dijo: \"Yo me siento cómodo con estas cosas que ustedes dicen, no siento que no vayamos a poder convivir.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Patricia"
+      ]
+    },
+    {
+      "frase": "Son cosas que se pueden reconsiderar.\" Así que yo veo un buen espíritu frente a la Argentina que está muy lastimada, muy dañada.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Pues, hasta allí es absolutamente coherente por parte de Macri, que ahí decía que había cuestiones extremas en las que no compartía, porque había parte de las ideas que planteaba Milei que eran coincidentes con las ideas de cambio del programa.",
+      "entidades_detectadas": [
+        "Milei",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Ahora vamos a escuchar a otro aliado de Milei en otros tiempos, que fue su mentor y quien escribió gran parte de sus libros junto con él, que es Diego Giacomini, con un audio que nos envió a la producción, casualmente por este \"lunes negro\".",
+      "entidades_detectadas": [
+        "Milei",
+        "Diego Giacomini"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Diego Giacomini: *\"La conferencia de prensa del ministro Caputo y del presidente del Banco Central, Bausili, fue una conferencia muy nociva.",
+      "entidades_detectadas": [
+        "Bausili",
+        "Banco Central",
+        "Diego Giacomini",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque fue una conferencia que le dio, en forma completa, la espalda a la realidad del mercado, que al gobierno le está diciendo que sin cambios profundos de por medio, ya no le están creyendo y que cada vez le creerán menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay cuatro indicadores en el último mes: no se distribuyeron casi exportaciones, no se acumularon reservas, los tipos de cambio subieron nominalmente hasta valores récord, el riesgo país en los últimos dos meses tiene tendencia alcista y, como si fuera poco, en los últimos dos meses el Merval, medido en dólar contado con liqui, cayó en mayo y todavía cayó más en junio.\"*\n\nVamos a compartir también otro audio en el que Diego Giacomini señala las implicancias que tiene esta medida para la relación con el Fondo Monetario Internacional.",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional",
+        "Vamos",
+        "liqui",
+        "Diego Giacomini"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo: *\"Y en este contexto, el Poder Ejecutivo Nacional le mandó al dúo de burócratas a hacer una conferencia en la cual, en forma solapada, ante ese escenario que ameritaba cambios profundos, se dijo que se seguiría haciendo lo que ya hace varias semanas el presidente dijo que iba a hacer.",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "O sea, déficit cero consolidado, que es una mentira; emisión monetaria cero, que es un error intelectual y otra mentira, también desmentida totalmente por el crecimiento de la base monetaria del 41.4% de los billetes y monedas, del 30%, y de M2 del 25.8%.",
+      "entidades_detectadas": [
+        "M2"
+      ]
+    },
+    {
+      "frase": "Y, como si todo esto no fuera poco, la conferencia es muy nociva porque el Poder Ejecutivo solapadamente usó la conferencia para decirle al FMI: \"No vamos a devaluar como ustedes quieren y se seguirá con el crawling peg del 2% mensual\", aunque sea inconsistente en términos dinámicos.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Y, a su vez, tampoco vamos a abrir el cepo como ustedes quieren.\"*\n\nOtro periodista que advirtió la similitud que había entre lo que se estaba anunciando ahora Caputo y lo que había sucedido en el macrismo fue Alejandro Berkovich, y me recordó la conferencia de prensa del 26 de septiembre de 2018 de Guido Sandleris presentando algo parecido.",
+      "entidades_detectadas": [
+        "Alejandro Berkovich",
+        "Guido Sandleris",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo: *\"...cesarias para que la base monetaria crezca 0% en términos nominales de acá a junio del año que viene.",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "Ese es nuestro compromiso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Elegimos la base monetaria porque es de los distintos agregados monetarios existentes el que está más claramente bajo el control del Banco Central.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "La mejora de las cuentas fiscales ha permitido que el Ministerio de Hacienda y el Banco Central hayan en conjunto tomado el compromiso de que ya no habrá financiamiento monetario al Tesoro.",
+      "entidades_detectadas": [
+        "Ministerio de Hacienda",
+        "Banco Central",
+        "Tesoro"
+      ]
+    },
+    {
+      "frase": "El carácter antiinflacionario de ir a cero crecimiento de la base monetaria es indudable, pero su efecto sobre la inflación no es instantáneo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puede tomar algunos meses para que comencemos a ver cómo la inflación disminuye y el actual contexto de incertidumbre se resuelve.\"*\n\nBueno, luego Guido Sandleris salió a contestar y produjo un interesante intercambio por X.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Guido Sandleris"
+      ]
+    },
+    {
+      "frase": "Creo que lo podemos poner en la pantalla a aquellos que nos están viendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice que con el ajuste fiscal y la emisión cero la inflación venía bajando y el dólar CINSEP estuvo relativamente calmo desde el fin de septiembre de 2018 hasta el espacio de 2019, cuando la sorpresa del triunfo de Alberto y Cristina generó pánico en los mercados.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cristina generó pánico"
+      ]
+    },
+    {
+      "frase": "Pero la gestión económica del macrismo tuvo otro punto de inflexión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a compartir fragmentos de la conferencia de prensa del 28 de diciembre del año 2017.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nada menos que el día de los inocentes, en que Marcos Peña, Nicolás Dujovne, Caputo y Sturzenegger anunciaban medidas similares a las dispuestas el viernes nuevamente por Caputo y Santiago Bausili.",
+      "entidades_detectadas": [
+        "Caputo",
+        "Marcos Peña",
+        "Nicolás Dujovne",
+        "Santiago Bausili",
+        "Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Escuchemos aquella conferencia del 28 de diciembre de 2017, allí Marcos Peña: *\"¿Se han cumplido los objetivos en materia económica?",
+      "entidades_detectadas": [
+        "allí Marcos Peña"
+      ]
+    },
+    {
+      "frase": "Se han cumplido los objetivos para este año 2017 en materia económica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Centralmente, el dato más importante para nosotros es que la economía argentina volvió a crecer, tal como hablábamos hace un año y que muchos tenían genuinas dudas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Veníamos saliendo de un año de recesión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no solo que la economía argentina está creciendo, sino que está creciendo de forma sustentable, de forma sana, de forma que nos permite ratificar, como después vamos a ver en las presentaciones los que me acompañan hoy, que vamos a tener otro año de crecimiento el año próximo y que podemos augurar un sendero de crecimiento para los próximos años.\"*\n\nBueno, allí, al lado del jefe de gabinete Marcos Peña estaba el ministro de Economía Nicolás Dujovne, estaba el presidente del Banco Central, Sturzenegger, y estaba el ministro de Finanzas, Luis Caputo.",
+      "entidades_detectadas": [
+        "Luis Caputo",
+        "Finanzas",
+        "Banco Central",
+        "Economía Nicolás Dujovne",
+        "Marcos Peña",
+        "Bueno",
+        "Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Vamos ahora a lo que dijo en esa conferencia de prensa Nicolás Dujovne: *\"Hemos decidido recalibrar nuestras metas de inflación.\"* Con lo que mencionaba Marcos, tal vez el principal anuncio que tenemos para hacer en esta ocasión es que hemos decidido recalibrar nuestras metas de inflación vigentes para los años subsiguientes, donde, en definitiva, lo que hemos hecho es demorar un año la llegada a nuestro objetivo último de inflación, que es el 5%, desde el año 2019 al año 2020.",
+      "entidades_detectadas": [
+        "Nicolás Dujovne"
+      ]
+    },
+    {
+      "frase": "Como ustedes recordarán, hasta ahora nuestras metas de inflación planteaban una inflación del 5% en el año 2019, y ese objetivo ha sido trasladado al año 2020, así como el objetivo del 10% ha sido trasladado al año 2019.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar ahora, en esa misma conferencia de prensa, la palabra de Federico Sturzenegger.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Estaba a la derecha del jefe de gabinete Federico Sturzenegger, a la izquierda del jefe de gabinete, al lado del entonces ministro de Economía Nicolás Dujovne, el ministro Caputo.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger",
+        "ministro de Economía Nicolás Dujovne",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Sturzenegger: *\"Hoy Argentina tiene un tipo de cambio más competitivo previo a la salida del cepo.",
+      "entidades_detectadas": [
+        "Sturzenegger",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Esta estabilidad que se la mostraba en la placa anterior respecto de junio del año 2016, acá la muestro desde el momento de la unificación del mercado cambiario y la salida del cepo, para ver cómo estamos respecto a ese momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre estoy hablando del tipo de cambio relativo a los precios, no sería como esa medida que a veces usamos de competitividad o que se usa con ese sentido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy Argentina tiene un tipo de cambio que está un 23% más competitivo, podríamos decirlo, previo a la salida del cepo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Esa es la línea azul oscura y la línea verde es con Brasil, puntualmente, que es un socio comercial para nosotros muy importante.",
+      "entidades_detectadas": [
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Estamos un 42% más competitivos de lo que estábamos previo a la salida del cepo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esos números se han mantenido relativamente estables, con esas fluctuaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esas fluctuaciones, creo que son parte del sistema a la cual nos tenemos que acostumbrar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que con el tiempo la gente se va a dar cuenta de que eso sube, que eso baja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y eso también es un elemento, un incentivo para, finalmente, lograr aquello que todos creemos que es la desdolarización de la economía argentina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que los argentinos se den cuenta de que viven en Argentina, compran en Argentina, cobran en Argentina y que tendrían que pensar en pesos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y eso se va a lograr a partir de que este tipo de cambio pueda tener este juego que es muy bueno para la macroeconomía a su vez.\"*\n\nBueno, ahora vamos a quienes, además de que nos están escuchando por ahí o nos ven por televisión, era clarísimo, ¿no?",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "De un lado Caputo, del otro lado Sturzenegger.",
+      "entidades_detectadas": [
+        "Sturzenegger",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Ahora vamos al fragmento de aquella conferencia de prensa del propio Luis Caputo diciendo: \"vamos a profundizar la reducción del financiamiento del Banco Central\".",
+      "entidades_detectadas": [
+        "Luis Caputo",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Ya Marcos, derrotar la inflación es un objetivo primordial y, como también dijo Nicolás, para ello estamos decididos a redoblar esfuerzos.",
+      "entidades_detectadas": [
+        "Nicolás"
+      ]
+    },
+    {
+      "frase": "Y en ese sentido, entonces, vamos a continuar y vamos a profundizar la reducción del financiamiento del Banco Central hacia la Tesorería, llevándola a 140.000 millones de pesos en el 2018 o su equivalente en porcentaje de producto 1.1 y a 70.000 millones de pesos en el 2019 o 0.5 puntos de producto.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Bueno, vamos a viajar en el tiempo, ¿no?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Estábamos en aquel momento en el año 2018.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora vamos a venir a junio de 2024, o sea, el viernes pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Allí, la conferencia de prensa de Luis \"Toto\" Caputo diciendo: \"La segunda etapa de este plan de estabilización consiste en cerrar la segunda canilla de la emisión\".",
+      "entidades_detectadas": [
+        "Allí",
+        "Luis \"Toto\" Caputo"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo: *\"¿Por qué?",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "Estamos ya en lo que nosotros consideramos lo que sería la segunda etapa de este plan de estabilización, que consiste esencialmente en ir a emisión, no voy a ser serio, después el presidente del Banco Central lo va a explicar bien, a cerrar la segunda canilla de emisión.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Recuerden que tenemos tres canillas de emisión monetaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una es el déficit fiscal, la segunda son los intereses que el Banco Central paga por esos famosos pasivos remunerados, levax, lelix, pases.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Y el tercero es cuando el Banco Central compra dólares.\"*\n\nBueno, aquel Luis \"Toto\" Caputo habló de terminar con el financiamiento del Banco Central y este Caputo habla de reducir los niveles de emisión y que el Banco Central no financie más los pasivos remunerados.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Banco Central",
+        "Caputo",
+        "Luis \"Toto\" Caputo"
+      ]
+    },
+    {
+      "frase": "Exactamente lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recuerden que cuando hablamos de pasivos remunerados hablamos de los bonos que emite el Estado argentino y que luego se pagaron hasta el 75% de interés mensual.",
+      "entidades_detectadas": [
+        "Estado argentino"
+      ]
+    },
+    {
+      "frase": "Bonos que generaron una deuda fenomenal y que el propio Caputo ayudó a montar una maquinaria, esta maquinaria de endeudamiento, algo que el propio Milei había denunciado más de una vez en televisión.",
+      "entidades_detectadas": [
+        "Milei",
+        "Bonos",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Algo interesante en la relación de aquel día de los inocentes, de fines de 2017, y este, de quienes lo marcan como el principio del fin del gobierno de Macri, se vería en el episodio aquel de las 14 toneladas de piedra de protesta contra la reforma previsional y los problemas económicos que empezaban a hacerse notorios.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "O sea, después de su mejor momento, del cenit de haber ganado las elecciones, comenzó el desbarranco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La reducción del déficit de sal pudo concretarse, la deuda de bonos en bonos creció, luego se tuvo que recurrir al Fondo Monetario para financiar la deuda con más deuda y también hay quienes dicen que aquel 28 de diciembre fue el principal punto de inflexión en el fin de la gestión económica, una burma que terminara de explotar con la corrida cambiaria de agosto y septiembre del año 2018.",
+      "entidades_detectadas": [
+        "Fondo Monetario"
+      ]
+    },
+    {
+      "frase": "Ayer, el inefable José Luis Espert planteó cómo se ve desde el oficialismo el rumbo de la gestión económica.",
+      "entidades_detectadas": [
+        "Ayer",
+        "José Luis Espert"
+      ]
+    },
+    {
+      "frase": "Vamos ahora a compartir la visión de Espert y que podría ser la misma visión de Milei.",
+      "entidades_detectadas": [
+        "Espert",
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo: *\"A la reforma económica que el liberalismo liderado por el presidente Milei está haciendo hay que verlo como infinidad de ladrillitos construyendo un camino, un edificio completamente diferente de la Argentina.",
+      "entidades_detectadas": [
+        "Milei",
+        "Escuchémoslo",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "El quillerismo es el que hemos visto en los últimos 100 años, de una Argentina que terminó por haber abrazado al populismo en una gigantesca y bella miseria.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Incluso, el quillerismo no ha sido el único culpable de que Argentina haya sido una bella miseria, porque lo es ya.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Si no fue la frutilla del postre, fue la etapa final de esa Argentina miserable.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y salir de la Argentina miserable, de transformar a este país en un país razonable, desde ser una bella miseria, insisto con esto, bueno, es un proceso largo, con mucho esfuerzo, con infinidad de reformas.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Entonces tenés un ladrillo sobre el ladrillo, sobre el ladrillo, así hay que ver a la ley de bases y al paquete fiscal que acaba de ser estacionado por el Congreso.\"*\n\nLas críticas, vos me nombras como dos familias de críticas: una, Cristina Kirchner, y el resto.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Bueno, como decía el informe del CENSAN del PRO que lleva la firma de Mauricio Macri, habrá que ver cuánto tiempo la sociedad tiene la capacidad de espera aquí.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Espert nos decía que esto va a llevar mucho, mucho tiempo salir de la bella miseria que nos dejó el quillerismo.",
+      "entidades_detectadas": [
+        "Espert"
+      ]
+    },
+    {
+      "frase": "Para la psicología, el déjà vu, o lo que se llama paramnesia, es una reacción psicológica que produce que el cerebro le transmita a la persona que ha estado en el lugar en el que se encuentra, sin quizás haber estado nunca, o que conoce a alguien, aunque jamás lo haya visto antes, o inclusive que se sienta algo que no se sintió en otra oportunidad.",
+      "entidades_detectadas": [
+        "jamás"
+      ]
+    },
+    {
+      "frase": "En síntesis, es la experiencia de percibirse como testigo anterior de una situación nueva, pero que en realidad nunca ocurrió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros vimos una suerte de anti-déjà vu.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los argentinos pueden percibir que algunas de las cosas que están pasando ya se vivieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Teniendo en cuenta, como dice Giacomini, que el gobierno está haciendo todo lo que el FMI desaconsejó, y partiendo de lo que venimos diciendo de que estas medidas ya fracasaron en el pasado, podemos preguntarles si este será el principio del fin de Caputo, como fue el principio del fin aquella conferencia de prensa del 28 de diciembre del año 2017, o una experiencia libertaria que termina repitiendo vicios del pasado por parte de Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Giacomini",
+        "FMI",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "\"Hacer lo mismo de siempre, con los mismos de siempre\", una enseñanza que nos dio el propio Javier Milei en otros tiempos.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Carlos Menem decía: \"Estamos mal, pero vamos bien\".",
+      "entidades_detectadas": [
+        "Carlos Menem"
+      ]
+    },
+    {
+      "frase": "Todos sabemos que estamos mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que no hay certeza es si el rumbo que nos lleva la economía es que estamos mal, pero vamos peor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En principio, dado el precio del dólar, la brecha, el riesgo país, podemos decir que los mercados no la están viendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así fue como titulamos nuestra apertura de hoy, día 205: \"El mercado no la ve\".",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    },
+    {
+      "frase": "Nos despedimos con la canción con la que abrimos la apertura de Joaquín Sabina, que lleva como título \"Crisis\".",
+      "entidades_detectadas": [
+        "Joaquín Sabina"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "De la Rúa",
+    "Estado argentino",
+    "¿Tendrá",
+    "Diego Giacomini",
+    "Buenos",
+    "Patricia Bullrich",
+    "Bonos",
+    "Además",
+    "Alberto",
+    "Alejandro Berkovich",
+    "Compartamos",
+    "Carlos Menem",
+    "Einstein",
+    "Luis Caputo",
+    "Finanzas",
+    "José Luis Espert",
+    "Bausili",
+    "Fondo Monetario",
+    "Así",
+    "Congreso",
+    "Esa",
+    "Vamos",
+    "Cristina generó pánico",
+    "Nicolás",
+    "Tesoro",
+    "llegó",
+    "Lula da Silva",
+    "jamás",
+    "Santiago Bausili",
+    "Javier",
+    "ministro de Economía Nicolás Dujovne",
+    "Argentina",
+    "Albert Einstein",
+    "Ayer",
+    "Después",
+    "¿",
+    "liqui",
+    "Nicolás Dujovne",
+    "Luis Arce",
+    "Gobierno Nacional",
+    "Mercosur",
+    "Caputo",
+    "Marcos Peña",
+    "Centralmente",
+    "Ministerio de Hacienda",
+    "Lula",
+    "Sturzenegger",
+    "China",
+    "Cristina Kirchner",
+    "Luis \"Toto\" Caputo",
+    "¿Cuál",
+    "Joaquín Sabina",
+    "Bolsonaro",
+    "FMI",
+    "Mauricio Macri",
+    "Brasil",
+    "Espert",
+    "Macri",
+    "Fondo Monetario Internacional",
+    "Banco Central",
+    "Economía Nicolás Dujovne",
+    "Guido Sandleris",
+    "Javier Milei",
+    "Federico Sturzenegger",
+    "Karina Milei",
+    "PRO",
+    "allí Marcos Peña",
+    "Patricia",
+    "Casa Rosada",
+    "La Libertad Avanza",
+    "Giacomini",
+    "Escuchémoslo",
+    "Allí",
+    "M2",
+    "Bueno",
+    "Buenos Aires",
+    "la Argentina",
+    "golpe de Estado",
+    "Bolivia",
+    "Milei"
+  ]
+}

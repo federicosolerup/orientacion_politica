@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Durante tres días, \"Repartan la comida\" fue tendencia, con el mismo impacto que si hubiese estado en primera plana durante ese tiempo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Finalmente, Javier Millet afirmó que la comida se estaba repartiendo y que la gente no era tonta, que no se moriría de hambre.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "La distribución es necesaria, pero luego habrá que asegurar la compra de nuevos alimentos, pues el Estado tiene la responsabilidad de garantizar el derecho a la alimentación.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La afirmación de Javier Millet de que el Estado no debe intervenir es errónea.",
+      "entidades_detectadas": [
+        "javier",
+        "estado"
+      ]
+    }
+  ]
+}

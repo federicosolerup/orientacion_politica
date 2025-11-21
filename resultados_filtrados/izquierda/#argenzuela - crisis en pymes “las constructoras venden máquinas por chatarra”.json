@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buenos días, Andrés Lerno le saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Escuché al ministro de Economía, Luis Caputo, en la convención anual de la Cámara Argentina de la Construcción (CAMARCO), decir que este año no habrá obra pública, y que esa inversión estatal no se dará más.",
+      "entidades_detectadas": [
+        "argentina",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Andrés tocó el tema de la construcción, pero la recesión afecta transversalmente a todos los sectores.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Julián Moreno, presidente de la PYME, dice que la situación es dramática.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días, viernes 31 de enero, último día de la semana, último día del mes y titulamos la columna de hoy, día 422, El Primo También Juega.",
+      "entidades_detectadas": [
+        "El Primo También Juega"
+      ]
+    },
+    {
+      "frase": "Porque **Jorge Macri** es un dirigente político que nadie vio venir.",
+      "entidades_detectadas": [
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "Conocido al principio por ser el primo del expresidente **Mauricio Macri**, empezó a hacer política y rápidamente se ubicó entre las principales figuras del PRO.",
+      "entidades_detectadas": [
+        "PRO",
+        "empezó",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Actualmente gobierna nada menos que la ciudad de Buenos Aires y, si logra separar al PRO de **La Libertad Avanza**, lo que parece ser a todas luces su objetivo, podría contribuir a propiciar una dura derrota al gobierno libertario.",
+      "entidades_detectadas": [
+        "PRO",
+        "ciudad de",
+        "La Libertad Avanza"
+      ]
+    },
+    {
+      "frase": "Para analizar esta jugada y las aspiraciones de Jorge Macri, decidimos comenzar esta columna de hoy con la música de siempre, con un poco de humor, con una canción de **Juan Luis Guerra** que lleva como título \"El Primo\".",
+      "entidades_detectadas": [
+        "El Primo",
+        "Jorge Macri",
+        "Juan Luis Guerra"
+      ]
+    },
+    {
+      "frase": "A mediados del siglo XX, **Franco Macri** y su hermano **Antonio Macri** llegaron a la Argentina.",
+      "entidades_detectadas": [
+        "Antonio Macri",
+        "Franco Macri",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Franco tiene 17 años y su hermano Antonio 13.",
+      "entidades_detectadas": [
+        "Franco",
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "Ambos crecen, tienen muchos negocios en el rubro de la construcción, fundan otras empresas y se vuelven millonarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mandan a sus hijos a colegios de primer nivel donde son discriminados por ser nuevos ricos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al hijo de Franco le decían \"el tanito\", y el hijo de Antonio es gordito, no tan esbelto como muchos de los jovencitos de la clase alta porteña.",
+      "entidades_detectadas": [
+        "Franco",
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "En un momento, Franco y Antonio tienen diferencias.",
+      "entidades_detectadas": [
+        "Franco",
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "Franco vivía para su trabajo, para hacer dinero, para sus empresas, y Antonio quería dedicarse a la colonia italiana de Buenos Aires y a la comunidad.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Franco",
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "En estas peleas, Antonio tiene un paro cardíaco, esto hace que separen los negocios y siga cada uno por su lado su camino.",
+      "entidades_detectadas": [
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "Vienen vidas distintas, tienen relaciones con sus hijos muy distintas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Franco fue muy duro con su hijo en todo momento y siempre tuvo declaraciones despectivas con él, inclusive frente a la prensa.",
+      "entidades_detectadas": [
+        "Franco"
+      ]
+    },
+    {
+      "frase": "Al revés, Antonio, antes de morir, le pide a su hijo que se acerque y le dice \"me cagaste\".",
+      "entidades_detectadas": [
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "Cuando el joven lo mira estupefacto, completa: \"Ahora cocinás mejor que yo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estas dos formas de ser Macri, estas dos historias de dos hermanos que criaron a sus hijos con todas las comodidades de la clase alta, pero con una concepción de la vida muy distinta, podrán manifestarse en este momento en la política nacional, en la que el hijo de Franco, Mauricio, y el hijo de Antonio, Jorge, son nombres de primer nivel en la política argentina.",
+      "entidades_detectadas": [
+        "Franco",
+        "Jorge",
+        "Mauricio",
+        "Macri",
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "En la historia hay numerosos ejemplos de delegados, delfines elegidos por dirigentes para ocupar un lugar de poder que luego se rebelan, tienen un perfil propio y sus propias aspiraciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pasó en la historia argentina con **Juárez Celman**, que era el cuñado de **Roca** y luego terminó creando una facción del **Partido Autonomista Nacional** personalista y concentrando todo el poder en sus manos, el fenómeno que se conoció históricamente como el Unicato.",
+      "entidades_detectadas": [
+        "Unicato",
+        "Roca",
+        "Juárez Celman",
+        "Pasó",
+        "Partido Autonomista Nacional"
+      ]
+    },
+    {
+      "frase": "En la historia reciente pasó entre **Néstor Kirchner** y **Eduardo Duhalde**.",
+      "entidades_detectadas": [
+        "Eduardo Duhalde",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "El referente histórico del peronismo pensó que podía dirigir a Kirchner y luego el santacruceño terminó copando el peronismo electoralmente en las elecciones de 2005, cuando **Cristina Fernández de Kirchner** venció a Duhalde en las legislativas de aquel momento.",
+      "entidades_detectadas": [
+        "Duhalde",
+        "Cristina Fernández de Kirchner",
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "El primer ministro de Francia del siglo XVII y eclesiástico, el célebre cardenal **Richelieu**, dijo que \"la política es traición, y la traición es sólo una cuestión de fechas\", es decir, que lo que puede ser visto como una traición en un momento, tiempo después es percibido como un acto de valentía o como una acción correcta.",
+      "entidades_detectadas": [
+        "Richelieu",
+        "Francia"
+      ]
+    },
+    {
+      "frase": "¿Tiene juego propio Jorge Macri, o es una unidad indivisible con su primo, una suerte de delegado o soldado del expresidente?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "Ya metiéndonos en el perfil de Jorge Macri, viene construyendo una suerte de \"arretismo sin la Reta\", es decir, una imagen de política de gestión económicamente derecha pero culturalmente progresista.",
+      "entidades_detectadas": [
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "El \"Macri negro\", como le dicen los que lo quieren encumbrar, o como él mismo se divierte llamándose así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a ir a un fragmento en el que hace mención a esta particularidad de gobierno, vamos a recorrer algunos momentos de la vida de Jorge Macri ya como jefe de gobierno de la ciudad.",
+      "entidades_detectadas": [
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "Primero, este testimonio en Urbana Play en 2023, donde Jorge Macri dice: \"Algunos se divierten diciendo que soy el 'black Macri' porque soy el primo más oscurito.",
+      "entidades_detectadas": [
+        "Urbana Play",
+        "más oscurito",
+        "black Macri",
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "Yo estoy orgulloso del apellido que llevo, la gente sabe quién soy, algunos se divierten diciendo que soy 'black' o que soy el primo negro, el primo más oscurito y está todo bien, me divierto un rato.",
+      "entidades_detectadas": [
+        "más oscurito"
+      ]
+    },
+    {
+      "frase": "Yo ya llevo 20 años haciendo mi aporte en la vereda de enfrente del kirchnerismo, tengo 10 años de gestión ejecutiva en Vicente López, ya dos acá en la ciudad, creo que tengo atributos propios más allá del apellido que cada uno de los otros porta.",
+      "entidades_detectadas": [
+        "Vicente López"
+      ]
+    },
+    {
+      "frase": "Todos somos portadores de algunos apellidos que tienen su historia, el mío es mucho y pronto, pero nada, lo llevo bien, no es un problema para mí\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ahora vamos a un spot muy gracioso del año 2019 que trata de marcar una diferencia con su primo.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Esto es de 2019, dice: \"Más Jorge que Macri\".",
+      "entidades_detectadas": [
+        "Más Jorge",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Macri gobernó bien, por eso la gente quiere que siga gobernando.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Macri prioriza la salud y la educación pública, Macri, más Jorge que Macri.",
+      "entidades_detectadas": [
+        "Macri",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Parece una contra cara de aquello de \"Mauricio es Macri\" y, en este caso, \"más Jorge que Macri\".",
+      "entidades_detectadas": [
+        "Mauricio",
+        "Macri",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Ahora escuchemos a Jorge Macri hablar del bullying.",
+      "entidades_detectadas": [
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "Esto fue en 2022, donde él cuenta la experiencia que tuvo en el programa de militaridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por otro lado, en materia de educación, realizó un cambio bastante trascendental en los colegios porteños.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En primer lugar, volvió a las fuentes en materia de cómo se aprende a leer y escribir, es decir, muchas de las personas que miran este programa y yo mismo aprendimos con las técnicas de la memoria fonológica, algo así como la M con la MA, la B con la VA, de esa manera vamos internalizando las letras y cómo sonaban para luego pasarlas a entenderlas abstractamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En un momento, esa forma de enseñanza se cambió por la constructivista, basada en las ideas de Piaget, en las que se establece que se aprende a leer como se aprende a hablar, entonces el docente simplemente debe generar un entorno propicio para que esto suceda.",
+      "entidades_detectadas": [
+        "Piaget"
+      ]
+    },
+    {
+      "frase": "Es la gestión de Jorge Macri y de la ministra de educación porteña, **Mercedes Miguel**, y se le atribuye este cambio, en gran parte, a los problemas de lectoescritura y lectocomprensión que tienen los jóvenes.",
+      "entidades_detectadas": [
+        "Jorge Macri",
+        "Mercedes Miguel"
+      ]
+    },
+    {
+      "frase": "De esa manera, se volvió a la forma original, además de otros cambios en el currículum con más presencia de lengua y más presencia de matemática.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la educación secundaria también hizo cambios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a un fragmento en el que lo anuncia, dice así: \"Presentó el nuevo sistema de aprendizaje para la escuela secundaria en CABA\".",
+      "entidades_detectadas": [
+        "CABA"
+      ]
+    },
+    {
+      "frase": "Esto fue el 26 de septiembre, donde dice: \"El sistema actual no funciona, tenemos que hacer cosas para cambiar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros queremos comenzar a impulsar un cambio fundamental para los estudiantes y para el futuro de nuestra ciudad y, dentro de lo posible, contagiar de manera positiva al país y les pido que, por favor, escuchen este anuncio con dos premisas: sin miedo y sin prejuicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin miedo porque vamos a ir recorriendo este camino de aprendizaje de manera conjunta, empezando con escuelas que han aceptado sumarse a este cambio, que son alrededor del 5 o 6 por ciento de las escuelas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sin prejuicio, porque lo que está claro es que el sistema actual no funciona, entonces tenemos que hacer cosas para cambiar, y a veces el cambio genera mucho miedo y genera que pensemos que vamos a romper lo que anda, y la verdad es que tenemos un problema grave, que es que el sistema educativo, sobre todo en secundario, no está funcionando\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en materia de educación, Jorge Macri tuvo otra decisión que se dio con buenos ojos y tuvo bastante impacto en la opinión pública, que fue la regulación del uso de celulares en las escuelas porteñas.",
+      "entidades_detectadas": [
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "Vamos a un fragmento cuando lo anuncia el 8 de agosto: \"Vamos a regular el uso de los celulares en las escuelas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuchémoslo.",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "\"El objetivo de estar en el aula es aprender, vamos a regular el uso de los celulares en las escuelas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hemos naturalizado cosas que son poco razonables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Alguien se imagina un jugador de fútbol corriendo por la cancha con un celu, o perdiéndose el cabezazo a un centro porque le entró un mensaje de mamá o de papá?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, no funcionan así las cosas\".",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Este perfil de gestión con pinceladas progresistas de Jorge Macri tiene una mancha, una declaración bastante desafortunada sobre las personas en situación de calle.",
+      "entidades_detectadas": [
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "Esto fue el 31 de mayo de 2023, donde dijo: \"Los cajeros automáticos se han transformado en un monoambiente de algunos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuchémoslo.",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "\"Una realidad económica, pero cruzada también con un problema de desaliento y adicciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Necesitamos un abordaje distinto para muchas de las problemáticas de adicción y desaliento en la calle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alrededor de 3.000 personas en situación de calle en la ciudad de Buenos Aires, un tercio de ellos estadísticamente tienen problemas de adicción o desaliento, ahí tenemos que intervenir, son un riesgo para ellos o para terceros, está todo el tema de ofrecerle a esa gente ir a los paradores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No la puedo obligar, no la puedo obligar, pero tampoco puedo aceptar que sean dueños del espacio público.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy los cajeros automáticos se han transformado en el monoambiente de algunos, se apropian de algunos sectores de la ciudad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que tenemos, y ya lo estamos haciendo, que levantar un poco la vara y recuperar ese afuera para el vecino porque tal vez no te pase nada, pero mucha gente se siente insegura frente a esa realidad, a veces son agresivos verbalmente\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Actualmente, la ciudad de Buenos Aires es una postal muy triste del crecimiento del número de personas que viven en la calle, una foto del diario *Página 12* utilizó una de las tapas, fue muy impactante, allí se veía personas en una librería ubicada en la intersección entre Callao y Corrientes y seguramente Jorge Macri haya reconsiderado su declaración en la época de campaña y es cierto que tiene una actitud distinta de otros dirigentes del PRO, como el caso de Mar del Plata y **Guillermo Montenegro**, que es fanático de sacar a las personas en situación de calle con violencia, y eso no lo ha hecho por el momento Jorge Macri, que viene diferenciándose del Gobierno Nacional con un perfil distinto, más conciliador, más humanista, por decirlo de algún modo.",
+      "entidades_detectadas": [
+        "Corrientes",
+        "Mar del Plata",
+        "Callao",
+        "Guillermo Montenegro",
+        "PRO",
+        "Jorge Macri",
+        "Gobierno Nacional",
+        "ciudad de"
+      ]
+    },
+    {
+      "frase": "Estas fueron las declaraciones de Jorge Macri luego del discurso de Milei en Davos.",
+      "entidades_detectadas": [
+        "Davos",
+        "discurso de Milei",
+        "Jorge Macri"
+      ]
+    },
+    {
+      "frase": "\"Me gustaría ver un presidente que abogue más por la unidad de los argentinos que por perseguir e instalar nuevas divisiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una ciudad y yo lo dije, mira, en el debate por la Jefatura de Gobierno de la ciudad, yo dije que yo amo la diversidad que representa la ciudad de Buenos Aires y amo todas las diversidades, eso es patrimonio nuestro y no lo van a romper y yo voy a estar defendiéndolo, yo creo en eso y creo en la libertad.",
+      "entidades_detectadas": [
+        "ciudad de",
+        "Jefatura de Gobierno"
+      ]
+    },
+    {
+      "frase": "Primero tomar un caso y de eso plantear que todos son iguales, eso me parece una injusticia brutal, porque hay que proteger a los niños, no tengo ninguna duda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, agarrar un caso y eso transformarlo en el todo, me parece tremendamente injusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me gustaría ver un presidente que abogue más por la unidad de la Argentina que por seguir instalando nuevas divisiones.\" Jorge Macri se juega en la próxima elección el futuro del PRO.",
+      "entidades_detectadas": [
+        "PRO",
+        "Jorge Macri",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Si pierde el bastión porteño, probablemente la banda de dirigentes, una avalancha de dirigentes amarillos pasarían a la órbita de los libertarios y sería la muerte total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A diferencia de su primo, la política actual del jefe porteño es bastante distinta a la del gobierno libertario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es un momento crucial en su carrera política y, tal vez, al igual que su padre, Antonio, que vio las cosas distintas que su hermano Franco, él, en este momento, vea las cosas distintas que su primo Mauricio y que deba actuar.",
+      "entidades_detectadas": [
+        "Mauricio",
+        "Franco",
+        "Antonio"
+      ]
+    },
+    {
+      "frase": "Como ya lo hizo, adelantó las elecciones en la ciudad de Buenos Aires, desdoblándolas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las lealtades, los actos de valentía y la audacia, como siempre, como decía el cardenal francés Richelieu, siempre es una cuestión de fecha.",
+      "entidades_detectadas": [
+        "Richelieu",
+        "valentía"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, nos vamos con Juan Luis Guerra y \"El Primo\".",
+      "entidades_detectadas": [
+        "El Primo",
+        "Juan Luis Guerra"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Vicente López",
+    "Mar del Plata",
+    "Franco Macri",
+    "Vamos",
+    "más oscurito",
+    "Más Jorge",
+    "Mercedes Miguel",
+    "Kirchner",
+    "Duhalde",
+    "Cristina Fernández de Kirchner",
+    "Urbana Play",
+    "Franco",
+    "Juan Luis Guerra",
+    "Néstor Kirchner",
+    "PRO",
+    "Antonio Macri",
+    "El Primo También",
+    "black Macri",
+    "ciudad de",
+    "Antonio",
+    "Richelieu",
+    "Argentina",
+    "discurso de Milei",
+    "Eduardo Duhalde",
+    "La Libertad Avanza",
+    "Piaget",
+    "Escuchémoslo",
+    "Callao",
+    "Unicato",
+    "Partido Autonomista Nacional",
+    "Jorge Macri",
+    "El Primo",
+    "Davos",
+    "Jefatura de Gobierno",
+    "Bueno",
+    "Primero",
+    "Mandan",
+    "Mauricio Macri",
+    "Buenos Aires",
+    "Corrientes",
+    "la Argentina",
+    "CABA",
+    "¿",
+    "empezó",
+    "Roca",
+    "Gobierno Nacional",
+    "Guillermo Montenegro",
+    "Juárez Celman",
+    "Pasó",
+    "Jorge",
+    "valentía",
+    "Mauricio",
+    "Macri"
+  ]
+}

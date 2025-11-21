@@ -1,0 +1,371 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 43,
+      "derecha": 28
+    },
+    "score_promedio": 0.392,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ahí, Fernández hizo una serie de declaraciones que aparentemente dejaron muy satisfechos a los empresarios españoles en relación con las inversiones en Argentina, algo importantísimo.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Florencia Kirchner no está en la clínica Mayo, sino en Cuba, donde se encuentra la consola del régimen venezolano.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ese momento, con España en terapia intensiva, Cristina Kirchner \"le sacó el respirador\", es decir, estatizó en Argentina la principal empresa española en el país.",
+      "score": 0.542,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández no habló de esto, aunque sí mencionó su interés en las inversiones petroleras.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo que pretende prescindir de las multinacionales, pero luego se corrigió, mencionando que prefiere prescindir de la tecnología de las multinacionales, y que en realidad le gustaría que la tecnología fuera argentina.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández se maneja en una zona de mucha ambigüedad, y ese es otro mensaje de este viaje.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández, en 2007, como jefe de Gabinete de Néstor Kirchner y jefe de campaña y financiamiento de la campaña de Cristina Kirchner, solía decir, aunque en voz baja, que la reelección de Néstor Kirchner no era una buena opción, y que era mejor que Cristina Kirchner fuera la candidata.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si Néstor Kirchner se reelegía, habría un problema institucional, mientras que, si la candidata era Cristina, Argentina entraría en una etapa de mejor institucionalidad, con un kirchnerismo \"más civilizado\", con mejores modales institucionales y más apegado al Estado de derecho.",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Asumió Cristina Kirchner, y al tercer día de su mandato, hubo una denuncia en Miami sobre dos funcionarios venezolanos, quienes afirmaban que el dinero que llevó a Argentina Antonini Wilson en aquella famosa valija era para financiar a Cristina.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner reaccionó airadamente, y se produjo una ruptura, que luego no se corrigió, entre el gobierno argentino y el gobierno de los Estados Unidos.",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al poco tiempo, Fernández se baja de ese gobierno.",
+      "score": 0.562,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el Fernández político.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Volvió a hablar de la necesidad de renegociar la deuda, algo que Macri acaba de proponer, y que deberá ser definido por el peronismo en el Congreso, si lo acompaña o no en esa renegociación.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Critica a Macri por el endeudamiento, lo cual es muy curioso, y habrá que desarrollarlo un poco más.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es curioso que Fernández elija un flanco para criticar a Macri en política económica que es el mismo de la ortodoxia, digamos, de derecha.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema de Macri es que financió el déficit fiscal con endeudamiento.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué alternativa le quedaba, emitir más?",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un feroz ajuste fiscal, al que Macri se negó por falta de condiciones políticas, esa es la esencia del gradualismo.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández habla de revisar el problema de la deuda, renegociarla, aparentemente sin quita, modificando los plazos, pagando sin una reducción, no como lo hizo Nielsen en la etapa del gobierno de Néstor Kirchner.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí hay un problema que el propio Fernández viene señalando, la deuda del Banco Central.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un problema importantísimo en el que cae y recae Argentina todo el tiempo, la falta de dólares, y ¿por qué faltan dólares?",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy no se nota porque, dada la recesión, las importaciones se derrumbaron, pero la economía argentina tiene un problema estructural de falta de dólares que la atará al Fondo Monetario Internacional por mucho tiempo más.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Da la impresión de que, en el plano político, Fernández se sitúa en 2007, y que, en el plano económico, habla de una especie de reposición sencilla y fácil del Estado de bienestar, situándose en 2003.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como si él recibiera el gobierno con un ajuste ya hecho, que es el ajuste que está haciendo ahora Macri o que está haciendo el mercado.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo le pasó a Kirchner?",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque habían existido antes Duhalde, Remes Lenicov, Lavagna, haciendo un feroz ajuste, sobre todo una gran devaluación y todo el consiguiente trabajo que sigue a la devaluación, que permite que la Argentina que reciben los Kirchner ya no sea la de 2001.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con otro dato más, las commodities en ascenso, sobre todo la soja, por eso después el conflicto con el campo con la resolución 125, cuando la soja estaba a 600 dólares la tonelada, y algo que muy poca gente mira, una sobredosis de inversión energética heredada del menemismo, que le permite al kirchnerismo el atraso tarifario que tuvo durante tanto tiempo, hasta que generó una nueva crisis energética.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las condiciones en que va a recibir Fernández la economía no son aquellas.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Va a recibir una economía, si es que es presidente, mucho más endiablada, y debe rogar que no suceda lo que podría pasar, o lo que tal vez esté pasando, que es que Macri decida relajarse en el plano fiscal.",
+      "score": 0.178,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que mirar lo que está anunciando Macri todos los días.",
+      "score": 0.348,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué va a hacer Fernández en enero?",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos a la CGT que \"se sacó la cadena\" y empieza a demandar también.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo este clima de movilización social, de protesta, ¿es el kirchnerismo tratando de dañar a Macri frente a una elección dudosa?",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A Macri para qué lo quieren dañar?",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si ellos mismos creen que ya le ganaron.",
+      "score": 0.745,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿O serán movimientos kirchneristas, sectores sindicales y de liderazgo social que le están señalando a Fernández, \"cuidado, que nosotros también ganamos, y cuidado con este giro al centro que querés hacer y que prometiste en España, porque nosotros queremos ser protagonistas de lo que viene en una economía y una visión socioeconómica más radicalizada de la que vos estás proponiendo\"?",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández es Guillermo Nielsen tratando de armar un plan para Vaca Muerta de inversión extranjera, y es Grabois hablando de la reforma agraria.",
+      "score": 0.841,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empezamos odisea en un momento en que el gobierno empezamos odisea en un diálogo con Graciela Fernández Meijide que como siempre va a ser un diálogo muy interesante y para nada previsible.",
+      "score": 0.564,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, como les decía, tenemos el enorme placer de recibir a Graciela Fernández Meijide por muchos motivos.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La excusa más inmediata es la aparición de un libro que escribió una persona, un periodista, un analista, experto en comunicación que está muy ligado a Graciela, que ya hizo otras investigaciones ligado a Graciela Fernández Meijide.",
+      "score": 0.436,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y que crió 14 hijos, que se le iban muriendo algunos, tal y así que algunos tenían nombres repetidos.",
+      "score": 0.746,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era en blanco y negro, por decisiones de la editorial, le pusieron color.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue astuto Pablo cuando eligió junto con la editorial esta foto.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo pidió varias fotos y optaron por esta.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo creo que sí.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y luego se consiguen negociando pequeños espacios y concesiones.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de los reproches que se le formula sistemáticamente a Macri es la incomprensión de eso que acabas de describir.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema del liderazgo de Macri y el liderazgo de una coalición, que no es de un partido de seguidores de Macri, sino de algo más amplio, de gente que está ahí no por Macri, sino por otras cosas.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un país somos pedazos de cada cosa, así como hoy no podemos decir que Formosa no sea Argentina.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comparemos Formosa con Buenos Aires o Chaco o Catamarca, pero ¿es Argentina o no es Argentina?",
+      "score": 0.636,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, yo nunca entendí por qué en Cambiemos no estaban Margarita Stolbizer, por ejemplo.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juan Carlos Torre, a quien vos seguramente conocés, él dice: \"la democracia argentina va a dar un salto de calidad el día en que un peronista no se re elija y un no peronista logre reelegirse\".",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo te digo, tengo 88 años, hice muchos cambios de todo tipo, no solo por las circunstancias, como decía Ortega, sino porque yo me di cuenta que necesitaba hacer esos cambios.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri y Cristina.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué capacidad de autocrítica y de reconversión o de reinvención le ves a Macri?",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Macri yo le escuché reconocer errores y le escuché decir, ya no me acuerdo en qué reunión, creo que con Inagro o algo por el estilo, la posibilidad de no ganar y eventualmente de ser oposición.",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Cristina solo le reconozco en este momento un libro donde todo lo que hizo estaba bien y donde sigue sosteniendo que hay que volver ahí.",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero además, Cristina fue paroxísticamente impulsora de ir al pasado heroizando los 70.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor hizo el gesto de decir, \"con nosotros empezamos muy bien, por cierto, para todos nosotros, por menos para mí, nosotros empezamos el tema de derechos humanos, porque entramos a la ESMA, que eso nunca se había hecho\".",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pidió disculpas después por teléfono a Alfonsín.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, no era solo una persona, no era solo Alfonsín el ofendido.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de Cristina terminó heroizando a esa juventud que se había equivocado.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero esa cuestión de mirada del pasado muy ideologizada yo me pregunto, y no sé vos qué crees, en los discursos que ves, si vos crees que Cristina la perdió.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supongamos que no cambió, entonces, ¿cómo ves la relación de Cristina, su núcleo, los que piensan como ella y Fernández y este discurso?",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo vuelvo a tomar la comparación Macri y Cristina y después meterme en lo otro.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así como Cristina fue suficientemente astuta como para ser inútil el camino que había elegido Macri de confrontación con ella, descontando que ella iba a ser la candidata a presidente.",
+      "score": 0.611,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a Macri le faltó la mínima información que debe tener un gobierno como para darse cuenta que las intenciones eran otras.",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La astucia de ella al correrse y poner a una persona que encima la había criticado ferozmente, habiendo compartido trabajo con ellos, con Cristina y con ella y demás, sin críticas y habiendo hecho lo que le decían, de pronto, cuando se sale, entra a criticar como podríamos haberlo criticado cualquiera de nosotros sin las mismas cuestiones.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿O vos crees que cuando va con el libro Cristina no se siente la dueña de los votos?",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde siempre me parece que más que el títere, puede ser alguien que en determinado momento, si Fernández va por el camino que dice que va, que lo va a obligar a hacer cosas mucho más drásticas de las que él supone.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece, por eso me interesa tanto su visión de la economía, más complicada, va a tener que hacer ajustes más severos, puede encontrarse con que Cristina sea una especie de \"Chacho\" Álvarez.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 71
+  },
+  "etiqueta_original": "neutral"
+}

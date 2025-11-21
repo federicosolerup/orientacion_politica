@@ -1,0 +1,122 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hoy se llevó a cabo la primera audiencia de defensa de Cristina Fernández de Kirchner en la causa Vialidad.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Vialidad"
+      ]
+    },
+    {
+      "frase": "Como ella misma explicó, el inicio de la investigación se centró en una supuesta auditoría de la obra pública en la provincia de Santa Cruz.",
+      "entidades_detectadas": [
+        "provincia de Santa Cruz"
+      ]
+    },
+    {
+      "frase": "Inicialmente, se pretendía auditar toda la obra pública provincial; luego, solo la realizada por Lázaro Báez;  después, 51 obras específicas; y finalmente, solo 5.",
+      "entidades_detectadas": [
+        "Lázaro Báez"
+      ]
+    },
+    {
+      "frase": "A pesar de esto, todos los testigos citados por los fiscales Luciani y Sergio Mola durante el juicio declararon que las obras se realizaron según lo previsto, sin sobreprecios y dentro del presupuesto.",
+      "entidades_detectadas": [
+        "Luciani",
+        "Sergio Mola"
+      ]
+    },
+    {
+      "frase": "Carlos Veraldi, en su alegato de hoy (que continuará el miércoles y viernes, con la intervención de Cristina Fernández de Kirchner), refutó punto por punto las acusaciones de los fiscales.",
+      "entidades_detectadas": [
+        "Carlos Veraldi",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Para ello, contrapuso las afirmaciones de Luciani y Mola con los testimonios presentados durante el juicio.",
+      "entidades_detectadas": [
+        "Luciani",
+        "Mola"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, ante la alegación de sobreprecios, Veraldi presentó el testimonio de Morán, quien realizó la auditoría y negó la existencia de los mismos.",
+      "entidades_detectadas": [
+        "Veraldi",
+        "Morán",
+        "negó"
+      ]
+    },
+    {
+      "frase": "Similarmente, refutó las acusaciones de presiones para la aprobación de obras con los testimonios de diputados, y la falta de presupuesto con los testimonios de jefes de gabinete.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Curiosamente, la ausencia de acusaciones contra algún jefe de gabinete, responsable de la administración del país, fue destacada por la defensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Veraldi asumió la tarea, tal vez inapropiada según su perspectiva, de demostrar la inocencia de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Veraldi"
+      ]
+    },
+    {
+      "frase": "Coincidentemente, cada vez que presentaba pruebas que podrían demostrar dicha inocencia, los fiscales experimentaban fallas en su conexión a internet.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En su alegato, Veraldi también mencionó las acusaciones privadas entre jueces y fiscales, y las visitas a funcionarios, que llevaron a la presentación de recusaciones contra algunos de ellos.",
+      "entidades_detectadas": [
+        "Veraldi"
+      ]
+    },
+    {
+      "frase": "Señaló la singularidad de la situación: Cristina Fernández de Kirchner es perseguida simultáneamente por cinco delitos de asociación ilícita, un hecho sin precedentes.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Señaló"
+      ]
+    },
+    {
+      "frase": "Veraldi expuso durante siete horas,  con una jornada más pendiente, seguida de la intervención de Cristina Fernández de Kirchner el viernes.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Veraldi"
+      ]
+    },
+    {
+      "frase": "Preveo una condena en este juicio, lo que plantea interrogantes sobre su candidatura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El contexto político actual se complica aún más por las fuertes presiones sobre Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Vialidad",
+    "provincia de Santa Cruz",
+    "Mola",
+    "Lázaro Báez",
+    "Cristina Fernández de Kirchner",
+    "Luciani",
+    "Morán",
+    "Carlos Veraldi",
+    "Sergio Mola",
+    "Señaló",
+    "Similarmente",
+    "Coincidentemente",
+    "Veraldi",
+    "negó"
+  ]
+}

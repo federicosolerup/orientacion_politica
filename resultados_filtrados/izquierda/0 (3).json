@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El diputado señaló que el ministro desconoce la Constitución y las leyes conquistadas en los últimos años.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Por ello, Paulón y otros diputados enviarán una carta al presidente Javier Millet solicitando su despido.",
+      "entidades_detectadas": [
+        "javier",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Paulón resaltó la irregularidad del ingreso a la Cámara sin la autorización correspondiente de la comisión y la gravedad de esta metodología, que podría afectar futuras sesiones.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer hubo tres papelones por parte de altos funcionarios del gobierno que muestran su desconexión con la realidad, tanto en materia de comunicación como de gestión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos involucran a Javier Milei, al ministro de Economía, Luis Caputo, y al presidente de la Cámara de Diputados, Martín Menem.",
+      "entidades_detectadas": [
+        "ministro de Economía",
+        "Martín Menem",
+        "Cámara de Diputados",
+        "Javier Milei",
+        "Luis Caputo"
+      ]
+    },
+    {
+      "frase": "Comenzaré con Caputo, por un tema muy sensible relacionado con el precio de las prepagas.",
+      "entidades_detectadas": [
+        "Comenzaré",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "El ministro tuiteó —y podemos compartirlo— que las prepagas le están declarando la guerra a la clase media, y que desde el gobierno harán todo lo posible para defenderla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto resulta impresionante, considerando que el aumento de las prepagas se debe al DNU 7023, titulado \"Salud\", que deroga el Decreto 743 de 2022 y los artículos, incisos G y M, de la ley 26.682 (ley que regula la medicina privada).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El DNU 743 establecía límites a los aumentos permitidos a partir del 1 de febrero de 2022 y obligaba a las empresas de medicina prepaga a ofrecer ciertas prestaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ley, por su parte, establece que la autoridad de aplicación fija los valores de las cuotas y sus modificaciones.",
+      "entidades_detectadas": [
+        "La ley"
+      ]
+    },
+    {
+      "frase": "En resumen, Caputo derogó el decreto que establecía límites y el artículo de la ley que facultaba al Estado a imponerlos.",
+      "entidades_detectadas": [
+        "Caputo derogó",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Como prueba, veamos los correos electrónicos idénticos enviados por las empresas de medicina prepaga, como Medicus (que, haciendo zoom, indica que el aumento se debe al DNU 7023),  Médica Germánica y OSDE, todas justificando sus aumentos con base en el DNU 7023.",
+      "entidades_detectadas": [
+        "Médica Germánica",
+        "Medicus"
+      ]
+    },
+    {
+      "frase": "Es decir, las empresas informaron a sus clientes que los aumentos se debían a la decisión de Caputo.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Y ahora él dice estar preocupado por el precio de las prepagas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese es el primer papelón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El segundo lo protagonizó Martín Menem, quien tuiteó: \"No había opciones: o continuábamos con la interminable decadencia, o hacíamos algo distinto.",
+      "entidades_detectadas": [
+        "Martín Menem"
+      ]
+    },
+    {
+      "frase": "De a poco, con mucho esfuerzo, vamos a salir adelante\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acompañó el mensaje con un gráfico de CAME (Cámara Argentina de la Mediana Empresa) que, según él, muestra una recuperación económica en forma de \"V\" (caída, toque fondo y subida).",
+      "entidades_detectadas": [
+        "Cámara Argentina de la Mediana Empresa",
+        "CAME"
+      ]
+    },
+    {
+      "frase": "Sin embargo, el gráfico muestra la caída interanual de las ventas minoristas por mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En enero y febrero, la caída fue cercana al 20%, y en marzo, del 12%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es importante analizar estas cifras tanto interanualmente como intermensualmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los datos de CAME muestran una caída sostenida: en enero, -28,5% interanual y -6,4% intermensual; en febrero, -7,4% intermensual, acumulando un -27%; y en marzo, -3,2%.",
+      "entidades_detectadas": [
+        "CAME"
+      ]
+    },
+    {
+      "frase": "La realidad es que las ventas minoristas siguen cayendo, pero el presidente de la Cámara de Diputados afirma que las cosas van bien.",
+      "entidades_detectadas": [
+        "Cámara de Diputados"
+      ]
+    },
+    {
+      "frase": "Segundo papelón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tercer papelón involucra a Caputo y a Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Caputo ha afirmado reiteradamente que la inflación baja, utilizando los precios de Jumbo (parte del grupo Cencosud),  que informó en su último balance una rentabilidad superior a la inflación.",
+      "entidades_detectadas": [
+        "Cencosud",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Caputo tuiteó varias veces sobre la baja de precios en productos de marca propia de Jumbo, y lo mencionó en una entrevista con el hijo de Mauro Viale, citando incluso un \"bot\" (un robot que supuestamente monitoriza los precios de Jumbo) que mostraba una deflación del 5%.",
+      "entidades_detectadas": [
+        "Mauro Viale",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Milei, en una charla con Fantino, también hizo referencia a este \"bot\".",
+      "entidades_detectadas": [
+        "Milei",
+        "Fantino"
+      ]
+    },
+    {
+      "frase": "Sin embargo, la cuenta de Twitter del \"bot\"  declaró ser un experimento social,  que nunca analizó precios y que se autodestruiría.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este hecho evidencia la necesidad de algunos funcionarios de mostrar resultados que la realidad niega.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La eliminación de la Secretaría de Comercio y el Observatorio de Precios por parte del gobierno deja claro por qué recurren a fuentes tan poco fiables para justificar sus afirmaciones.",
+      "entidades_detectadas": [
+        "Observatorio de Precios"
+      ]
+    },
+    {
+      "frase": "En resumen, la sucesión de errores de Caputo (sobre las prepagas), Menem (sobre la economía) y la utilización de un \"bot\" falso por parte de Caputo y Milei para justificar la baja de precios, resulta inaceptable, especialmente considerando sus cargos como presidente, ministro de Economía y presidente de la Cámara de Diputados, respectivamente.",
+      "entidades_detectadas": [
+        "Caputo",
+        "Cámara de Diputados",
+        "Milei",
+        "ministro de Economía",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "El papelón es enorme.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Caputo",
+    "Javier Milei",
+    "Comenzaré",
+    "Menem",
+    "Medicus",
+    "Estado",
+    "Cencosud",
+    "Caputo derogó",
+    "Acompañó",
+    "Fantino",
+    "La ley",
+    "Martín Menem",
+    "CAME",
+    "Mauro Viale",
+    "ministro de Economía",
+    "Luis Caputo",
+    "Observatorio de Precios",
+    "Médica Germánica",
+    "Cámara Argentina de la Mediana Empresa",
+    "Milei",
+    "Cámara de Diputados"
+  ]
+}

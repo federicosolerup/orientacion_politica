@@ -1,0 +1,46 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Lazzarato, filósofo y sociólogo residente en Francia desde hace tiempo, continúa presentando sus trabajos en su lengua materna, el italiano.",
+      "entidades_detectadas": [
+        "francia"
+      ]
+    },
+    {
+      "frase": "La crisis financiera de 2008 (con la caída de Lehman Brothers) y la guerra de Ucrania actualizaron estas cuestiones.",
+      "entidades_detectadas": [
+        "ucrania"
+      ]
+    },
+    {
+      "frase": "Lo mismo hicieron las revueltas y movilizaciones mundiales, desde la Primavera Árabe de 2011 hasta las de Colombia y Chile, o los movimientos en Francia (los chalecos amarillos y las protestas contra la reforma previsional de Emmanuel Macron).",
+      "entidades_detectadas": [
+        "francia",
+        "colombia"
+      ]
+    },
+    {
+      "frase": "En Argentina, el encuentro anual de la Cámara de Comercio de Estados Unidos, inaugurado por Facundo Gómez Minujín (presidente del JP Morgan en Argentina), ilustró esta dinámica.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "No se trató de una simple recomendación, sino de una exigencia en el contexto de las negociaciones con el FMI para futuros desembolsos, con una economía en crisis cambiaria.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "En este encuentro estuvieron Horacio Rodríguez Larreta y Patricia Bullrich (Juntos por el Cambio), Sergio Massa y Daniel Scioli (peronismo), el embajador argentino en Estados Unidos, Jorge Argüello, y Horacio Rosatti (presidente de la Corte Suprema), quien recientemente suspendió elecciones en Tucumán y San Juan.",
+      "entidades_detectadas": [
+        "bullrich",
+        "sergio",
+        "larreta",
+        "massa",
+        "scioli"
+      ]
+    }
+  ]
+}

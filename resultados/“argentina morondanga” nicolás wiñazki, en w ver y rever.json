@@ -1,0 +1,821 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "**Texto Corregido:**\n\nComer es difícil.",
+      "entidades_detectadas": [
+        "Texto Corregido",
+        "Comer"
+      ]
+    },
+    {
+      "frase": "La mitad de la población vive en la pobreza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siete millones de niños en la provincia de Buenos Aires son pobres.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Hay personas que trabajan y, aun así, son pobres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De los doce millones de jóvenes que se escolarizan, una parte significativa (seis millones) abandona sus estudios al finalizar el secundario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La educación también es difícil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Durante la cuarentena, según cálculos de UNICEF y de Gustavo Viale, un millón de niños más abandonaron la escuela, perdiéndose del sistema.",
+      "entidades_detectadas": [
+        "Gustavo Viale",
+        "UNICEF"
+      ]
+    },
+    {
+      "frase": "¿Dónde están?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie los fue a buscar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Argentina, circular es complicado, no solo por los piquetes, sino también por las implementaciones relacionadas con el Aislamiento Social Preventivo y Obligatorio (ASPO).",
+      "entidades_detectadas": [
+        "Aislamiento Social Preventivo",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Quédate, porque hay fotos de Olivos relacionadas con esto que son impactantes.",
+      "entidades_detectadas": [
+        "Quédate",
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Es difícil circular porque las carreteras están en mal estado, porque los vuelos no tienen una conectividad real en todo el país y, además, si sales por Ezeiza, no se sabe cuándo regresas.",
+      "entidades_detectadas": [
+        "Ezeiza"
+      ]
+    },
+    {
+      "frase": "Así no funciona un país.",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    },
+    {
+      "frase": "También es difícil navegar en barco por la hidrovía del río Paraná.",
+      "entidades_detectadas": [
+        "También",
+        "río Paraná"
+      ]
+    },
+    {
+      "frase": "En Argentina, como en todos los países del mundo, enfermarse es muy complejo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Pero, además, en este país, tanto en el sistema público como en buena parte del privado, es difícil acceder a la atención médica debido a la falta de insumos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Curarse en Argentina también es un desafío.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El personal de salud que luchó y sigue luchando contra el COVID está mal pago y exhausto.",
+      "entidades_detectadas": [
+        "COVID"
+      ]
+    },
+    {
+      "frase": "Todo es difícil en este país que la vicepresidenta (pero aquí sigo siendo presidenta) llamó \"de morondanga\", mientras que la gestión anterior propuso revisar los últimos 20 años, de los cuales 12 fueron gobernados por los Kirchner.",
+      "entidades_detectadas": [
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "Estás viendo a Santiago Sosa, cofundador de Tienda Nube, empresa que hoy cotiza más que YPF.",
+      "entidades_detectadas": [
+        "Tienda Nube",
+        "YPF",
+        "Santiago Sosa"
+      ]
+    },
+    {
+      "frase": "¿Escuchaste lo que te dije?",
+      "entidades_detectadas": [
+        "¿Escuchaste"
+      ]
+    },
+    {
+      "frase": "Más que YPF.",
+      "entidades_detectadas": [
+        "YPF"
+      ]
+    },
+    {
+      "frase": "YPF era la mayor empresa de Argentina, con empleados e instalaciones en todo el país extrayendo petróleo.",
+      "entidades_detectadas": [
+        "YPF",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¿Qué pasó en este país?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué YPF está quebrada?",
+      "entidades_detectadas": [
+        "YPF"
+      ]
+    },
+    {
+      "frase": "Lo bueno es que hay jóvenes como Santiago, y muchos más, que emprenden y saben cómo salir de este laberinto argentino.",
+      "entidades_detectadas": [
+        "Santiago"
+      ]
+    },
+    {
+      "frase": "Se puede, se puede.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Decía que es muy difícil educarse en Argentina.",
+      "entidades_detectadas": [
+        "Decía",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Es muy difícil educar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los maestros están mal pagados y, además, la escuela se ha transformado en un lugar de contención.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Argentina es muy difícil comprar un auto.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Alguien me comentaba (perdón por no citarlo), que la familia de Mafalda, ¿recuerdas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El padre tenía un Renault.",
+      "entidades_detectadas": [
+        "Renault"
+      ]
+    },
+    {
+      "frase": "Ya no existe más eso de que un empleado pudiera comprarse, con esfuerzo, un 0 km, un Renault 12, creo que era el de la familia de Mafalda.",
+      "entidades_detectadas": [
+        "Renault"
+      ]
+    },
+    {
+      "frase": "Ya no existe más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina es uno de los países con mayor carga impositiva del planeta.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Se pagan impuestos hasta julio, y después de ahí el dinero es tuyo, antes que del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "¿Y qué te da el Estado?",
+      "entidades_detectadas": [
+        "Estado?",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ni educación, ni salud, ni seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La seguridad es muy compleja en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Es complejo estar seguro en la calle y complejo cuidar a la gente que se siente insegura, porque los policías también están mal pagados y mal entrenados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tal vez a eso se refería Cristina Kirchner, aunque creo que lo dijo solo para atacar a Mauricio Macri.",
+      "entidades_detectadas": [
+        "Mauricio Macri",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Esto también tiene que ver con la clase política, que sigue enredada en sí misma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy vi el acto de Cristina Kirchner, Alberto Fernández, Axel Kicillof y toda esa gente que se quiere mucho, y para demostrarse ese cariño se juntan y se sacan fotos.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Cristina Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Hablaban de Macri, preguntándose por qué la sociedad lo votó en la última elección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se eligió no votarlo, ¿a quién le están hablando?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿O tienen miedo de perder?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y hablaron, obviamente, del tema Olivos.",
+      "entidades_detectadas": [
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Insisto, hay novedades, hay más fotos.",
+      "entidades_detectadas": [
+        "Insisto"
+      ]
+    },
+    {
+      "frase": "La vicepresidenta le aconsejó al presidente que no se enoje, que esté tranquilo, pero que haga los cambios que ya quiere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Argentina, además, vacunarse es muy difícil.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Ahora faltan las vacunas de Sinopharm, AstraZeneca y la rusa.",
+      "entidades_detectadas": [
+        "AstraZeneca"
+      ]
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué es tan fácil, o por qué la sociedad aceptó tan mansamente que nos mientan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les mostramos el primer contrato de Sputnik V, de diciembre de 2020, que decía que la segunda dosis se iba a retrasar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Carla Vizzotti, la ministra de salud, a quien le tocaba vacunarse doble, se puso la segunda dosis de Moderna.",
+      "entidades_detectadas": [
+        "Moderna",
+        "Carla Vizzotti"
+      ]
+    },
+    {
+      "frase": "¿Eso es ejemplar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando a ti, a tu familia, les dan a elegir Sputnik o Moderna, y la ministra se pone Moderna.",
+      "entidades_detectadas": [
+        "Moderna"
+      ]
+    },
+    {
+      "frase": "Ahora está en Rusia a ver si consigue la segunda dosis.",
+      "entidades_detectadas": [
+        "Rusia"
+      ]
+    },
+    {
+      "frase": "En Argentina hay pobreza, la infraestructura es muy mala.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "No nos acostumbremos a que la energía se corte como sea, a que no haya más autopistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los colegios no eran así, eran mejores, y había en todos lados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sepan que la Argentina no era esto, y alguien en algún momento se va a tener que hacer cargo.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Hoy es el aniversario de la muerte del General Don José de San Martín.",
+      "entidades_detectadas": [
+        "San Martín",
+        "General Don José"
+      ]
+    },
+    {
+      "frase": "¿Qué hizo San Martín además de cruzar los Andes y ser un héroe extraordinario, tal vez el mayor estratega militar de la historia según varios historiadores extranjeros?",
+      "entidades_detectadas": [
+        "San Martín",
+        "Andes"
+      ]
+    },
+    {
+      "frase": "San Martín fue gobernador de Cuyo, de Mendoza, durante tres años, a partir de 1814.",
+      "entidades_detectadas": [
+        "Cuyo",
+        "San Martín",
+        "Mendoza"
+      ]
+    },
+    {
+      "frase": "Había que ir hasta allí a caballo, no había luz eléctrica, imagínense.",
+      "entidades_detectadas": [
+        "Había"
+      ]
+    },
+    {
+      "frase": "De su bolsillo, porque las pandemias no empezaron ahora, por las enfermedades, las plagas, de su bolsillo, San Martín, cuando vio que había viruela, contrató vacunadores desde Buenos Aires, quienes atendían dos horas por semana.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Y cuando se fue de Mendoza, para cruzar los Andes a lomo de mula y enfermo, todas las personas que vivían allí estaban vacunadas, en 1816 o 1817.",
+      "entidades_detectadas": [
+        "Mendoza",
+        "los Andes"
+      ]
+    },
+    {
+      "frase": "¿Entienden?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no se jactó de eso y lo pagó de su bolsillo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es solo un ejemplo de cómo se puede ser mejor, porque en aquel momento no había nada, y él hizo todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bienvenidos a \"W, Ver y Rever\", periodismo y rock and roll.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué la clase política hace lo que quiere y nadie, nunca, la sanciona?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quinta de Olivos, residencia presidencial, según la custodia del presidente de la República, se conocieron las planillas de ingresos y egresos.",
+      "entidades_detectadas": [
+        "Quinta de Olivos"
+      ]
+    },
+    {
+      "frase": "Se conoció una foto que hizo temblar al poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es lo que piensa el poder?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Lástima que salió esa foto, no lástima que lo que pasó en Olivos estaba mal.",
+      "entidades_detectadas": [
+        "Lástima",
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Hay más fotos, una fiesta, y les vamos a contar quién entró a Olivos durante la cuarentena.",
+      "entidades_detectadas": [
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Esto que están viendo es un festejo de Año Nuevo de los diputados K el 30 de diciembre.",
+      "entidades_detectadas": [
+        "Año Nuevo",
+        "K"
+      ]
+    },
+    {
+      "frase": "Obviamente, la Argentina no había salido de la pandemia, como no ha salido ahora.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Allí está Máximo Kirchner agarrando algo en una barra.",
+      "entidades_detectadas": [
+        "Allí",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "Cuando esto se conoció, salió el listado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno difundió esta información mediante un pedido de acceso a la información pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando se le preguntó a algunos diputados por qué habían ido a una fiesta de 60 o 70 personas, hubo diputados como Gabriel Cerruti que, cuando le preguntaron esto en Twitter, respondió con soberbia, de manera canchera y mentirosa, diciendo que la fiesta del brindis fue al aire libre y se podía.",
+      "entidades_detectadas": [
+        "Gabriel Cerruti",
+        "qué habían"
+      ]
+    },
+    {
+      "frase": "No, Gabriela, lo que se hace se sabe, y todos los diputados lo saben.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Están viendo la Quinta de Olivos por dentro.",
+      "entidades_detectadas": [
+        "Quinta de Olivos"
+      ]
+    },
+    {
+      "frase": "¿Es tan grave?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí, es grave.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son los que hacen las leyes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese bloque fue quien introdujo la palabra \"negligencia\" y no llegó a la vacuna de Pfizer.",
+      "entidades_detectadas": [
+        "Pfizer"
+      ]
+    },
+    {
+      "frase": "Esto es lo que aconsejaba la provincia cuyos muchos diputados fueron electos por los bonaerenses: fin de año, burbuja para el dulce, recomendaciones para pasar las fiestas sin COVID, no hacer eventos que superen las 20 personas, ponerse de acuerdo antes de empezar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese consejo es bastante confuso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto aconsejaba la provincia de Buenos Aires, la Quinta de Olivos, que era la provincia de Buenos Aires, obviamente, en Vicente López.",
+      "entidades_detectadas": [
+        "Vicente López",
+        "provincia de Buenos Aires",
+        "Quinta de Olivos"
+      ]
+    },
+    {
+      "frase": "La foto oficial era muy linda, los jardines son muy lindos, y el brindis dice: \"Le brindamos con Alberto Fernández por el fin del 2020.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Fue un año doloroso, pero en el cual reafirmamos la importancia de construir un proyecto colectivo que deje todo por cuidar a quienes más lo necesitan y ampliar derechos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa fiesta la pagamos nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 2020 fue un año catastrófico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Seguimos sufriendo la pandemia, y la gente que hace las leyes la estaba incumpliendo y mintiendo, porque le han preguntado a diputados (saco de esto al presidente, ya vamos a hablar de él).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un brindis de fin de año para festejar el 2020 que termina, empezaba el 2021, hay 110.000 muertos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Allí hubo un velorio colectivo en la Argentina, gente que llevó piedras a la Casa Rosada y a la quinta presidencial porque no pudieron velar a sus muertos.",
+      "entidades_detectadas": [
+        "Allí",
+        "Casa Rosada",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Mira a Máximo, ahí está Cerruti, la de rosa, mintiendo, están bajo techo, incumpliendo lo que el gobernador de Buenos Aires decía que había que hacer.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Máximo",
+        "Cerruti",
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Ya les vamos a contar más en el info.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Archivo Log:**\n\n*   **Nombres y Apellidos:**\n    *   \"Brusel\" corregido a \"Buenos Aires\".",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Apellidos",
+        "Archivo Log",
+        "Brusel",
+        "Nombres"
+      ]
+    },
+    {
+      "frase": "*   \"Gustavo Villalles\" corregido a \"Gustavo Viale\".",
+      "entidades_detectadas": [
+        "Gustavo Villalles",
+        "Gustavo Viale"
+      ]
+    },
+    {
+      "frase": "*   \"Seiza\" corregido a \"Ezeiza\".",
+      "entidades_detectadas": [
+        "Ezeiza"
+      ]
+    },
+    {
+      "frase": "*   \"Cristina Kirchner\" se mantuvo, pero se verificó la ortografía y capitalización.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "*   \"Santiago Sosa\" se mantuvo, pero se verificó la ortografía y capitalización.",
+      "entidades_detectadas": [
+        "Santiago Sosa"
+      ]
+    },
+    {
+      "frase": "*   \"Mauricio Macri\" se mantuvo, pero se verificó la ortografía y capitalización.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "*   \"Alberto\" corregido a \"Alberto Fernández\" para mayor claridad.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "*   \"Axel\" corregido a \"Axel Kicillof\" para mayor claridad.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Axel"
+      ]
+    },
+    {
+      "frase": "*   \"Carla Bissotti\" corregido a \"Carla Vizzotti\".",
+      "entidades_detectadas": [
+        "Carla Bissotti",
+        "Carla Vizzotti"
+      ]
+    },
+    {
+      "frase": "*   \"Gabriel Acerruti\" corregido a \"Gabriel Cerruti\"\n    *   \"al Ferdez O'Cay\" corregido a \"Alberto Fernández\".",
+      "entidades_detectadas": [
+        "Gabriel Cerruti",
+        "Gabriel Acerruti",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "*   **Ortografía:**\n    *   Corrección general de tildes faltantes y errores de tipeo.",
+      "entidades_detectadas": [
+        "Ortografía",
+        "Corrección"
+      ]
+    },
+    {
+      "frase": "*   \"morondanga\" se mantuvo porque es una expresión coloquial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   \"reno 12\" corregido a \"Renault 12\".",
+      "entidades_detectadas": [
+        "Renault"
+      ]
+    },
+    {
+      "frase": "*   \"info\" se mantuvo ya que es una abreviatura informal utilizada en el contexto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "* \"AstraZeneca\" corregido para mantener la ortografía correcta.",
+      "entidades_detectadas": [
+        "AstraZeneca"
+      ]
+    },
+    {
+      "frase": "*   **Cohesión y Coherencia:**\n    *   Se agregaron conectores y frases de transición para mejorar el flujo del texto (ej., \"Aun así\", \"Además\", \"Sin embargo\").",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "*   Se dividieron párrafos largos en párrafos más cortos y temáticamente enfocados para facilitar la lectura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se aclararon algunas referencias ambiguas (ej., \"Alberto\" a \"Alberto Fernández\").",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "*   Se expandieron algunas abreviaturas o nombres al ser mencionados por primera vez (ej., \"ASPO\" a \"Aislamiento Social Preventivo y Obligatorio\").",
+      "entidades_detectadas": [
+        "Aislamiento Social Preventivo",
+        "Obligatorio"
+      ]
+    },
+    {
+      "frase": "*   Se eliminaron repeticiones innecesarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se ajustó la sintaxis en varias oraciones para una mayor claridad y fluidez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se reemplazaron expresiones coloquiales por un lenguaje más formal, cuando fue necesario, para mantener un tono general adecuado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se unificó la mención del año 1815 y 1817 en el párrafo de San Martin para mantener la coherencia.",
+      "entidades_detectadas": [
+        "San Martin",
+        "párrafo de"
+      ]
+    },
+    {
+      "frase": "*   **Estilo:**\n    *   Se eliminaron algunas interjecciones y frases redundantes para un estilo más conciso.",
+      "entidades_detectadas": [
+        "Estilo"
+      ]
+    },
+    {
+      "frase": "*   Se optó por un tono ligeramente más formal, manteniendo la expresividad del original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Información:**\n    *   Se verificó y corrigió la información sobre los años de gobierno de los Kirchner.",
+      "entidades_detectadas": [
+        "Información",
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "*   Se verificó y actualizó el nombre del protocolo ASPO.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se verificó el nombre de la Ministra de Salud y la vacuna.",
+      "entidades_detectadas": [
+        "Ministra de Salud"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Información",
+    "UNICEF",
+    "Qué",
+    "Había",
+    "Máximo Kirchner",
+    "Insisto",
+    "Sepan",
+    "qué habían",
+    "AstraZeneca",
+    "Carla Bissotti",
+    "¿O",
+    "Santiago",
+    "provincia de Buenos Aires",
+    "Así",
+    "Alberto Fernández",
+    "Ezeiza",
+    "Mendoza",
+    "Obligatorio",
+    "Curarse",
+    "Más",
+    "Máximo",
+    "Estado?",
+    "COVID",
+    "Renault",
+    "Argentina",
+    "Quinta de Olivos",
+    "Ortografía",
+    "Ministra de Salud",
+    "Lástima",
+    "Bienvenidos",
+    "¿",
+    "Pfizer",
+    "Vicente López",
+    "Estilo",
+    "Olivos",
+    "Comer",
+    "Kirchner",
+    "San Martín",
+    "Cristina Kirchner",
+    "Texto Corregido",
+    "K",
+    "párrafo de",
+    "Hablaban de Macri",
+    "San Martin",
+    "Apellidos",
+    "Cohesión",
+    "Coherencia",
+    "¿Escuchaste",
+    "Mauricio Macri",
+    "Gabriel Cerruti",
+    "Estás",
+    "río Paraná",
+    "Tienda Nube",
+    "Gustavo Villalles",
+    "Aislamiento Social Preventivo",
+    "También",
+    "Año Nuevo",
+    "Cerruti",
+    "Rusia",
+    "Gustavo Viale",
+    "¿Eso",
+    "General Don José",
+    "los Andes",
+    "Moderna",
+    "YPF",
+    "Carla Vizzotti",
+    "Estado",
+    "Andes",
+    "Brusel",
+    "Gabriel Acerruti",
+    "Cuyo",
+    "Nombres",
+    "Santiago Sosa",
+    "Casa Rosada",
+    "Allí",
+    "Corrección",
+    "Decía",
+    "Moderna.",
+    "Axel Kicillof",
+    "Buenos Aires",
+    "Axel",
+    "la Argentina",
+    "Mira",
+    "Obviamente",
+    "Archivo Log"
+  ]
+}

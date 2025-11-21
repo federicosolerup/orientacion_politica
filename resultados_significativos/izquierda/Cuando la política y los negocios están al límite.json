@@ -1,0 +1,111 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 13,
+      "derecha": 6
+    },
+    "score_promedio": 0.364,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y a esto le llaman justicia.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a esto le llaman justicia.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ciudad de Buenos Aires, y además, el presidente de la Asociación Mundial de Fiscales, **Juan Bautista Mahiques**, hablando también sobre el tema de la relación entre la política y la justicia.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La política, desde mi punto de vista, ¿no?, debiera dejar de judicializar todos los problemas que no puede resolver, por varios motivos, pero uno de ellos es porque le da al poder judicial un poder que no le es propio.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que peyorativamente se llama mesa judicial, si a eso se refieren, es que los que participaban del proceso de designación de magistrados, ya sea subsecretario de justicia, secretario de justicia, ministro de justicia, jefe de asesores del presidente y consejero de la magistratura por el ejecutivo, se reunían a ver cuáles eran los nombres que habían accedido a la terna para que después el ministro le eleve...",
+      "score": 0.279,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "o la conseja le recomienda al presidente un nombre.",
+      "score": 0.766,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Por acá, muchachos, que estoy manejando, pienso que, aunque sea no denunciándolo ahora, pero por ahí talando en los medios la teoría, que por ahí que lo haga La Nación es más lógico que lo haga Clarín\".",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Paz comprende que esto sería una intromisión en la vida privada de personas, que se conocen por los tribunales, que toman la decisión de ir a cualquier lugar y que fueron espiados, quizás la mina primero no participe de seguir acrecentando el espionaje, pero segundo puede empezar a instaurar la teoría de las víctimas.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Afortunadamente, por suerte no fui porque yo no le publiqué toda esta versión de este tema.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos son los que tienen los audios donde dicen que hay que apretar a los jueces.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos son los que tienen estos métodos porque esto, lamentablemente, por no pararnos todos, absolutamente todos, y decir basta, esto viene pasando desde el 2005, se lo hicieron a Rito Alejo Rivera, cuando le crearon cuentas falsas en Suiza.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que es muy peligroso, pero por sobre todas las cosas nos encuentra en toda la misma vereda, el mismo proyecto, tienen que entender que le cabe a cualquiera.",
+      "score": 0.174,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo importante es entender que esto le puede pasar a cualquiera.",
+      "score": 0.377,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que podría hacer el ministro de Seguridad es ayudarnos a todos, denunciándolo con pruebas, presentando casualmente sus propios chats que no coinciden con los que se difundieron.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la cuestión de un viaje, eso está absolutamente probado con el registro, además no podría ocultarse, o sea, los viajes registran a los pasajeros que suben y que viajan.",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente ya vimos el caso de Clarín y La Nación.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos al fondo de la cuestión.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a esto le damos justicia.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   \"Juan Bautista Maíquez\" a \"Juan Bautista Mahiques\"\n    *   \"Ercolini\" a \"Julián Ercolini\"\n    *   \"Llaradola\" a \"Yadarola\"\n    *   \"Paz Rodríguez Ney\" a \"Paz Rodríguez Niell\"\n    *   \"D'Alessandro\" a \"Marcelo D'Alessandro\"\n    *   \"Barció\" a \"Silvio Robles\"\n    *   \"Rito Rivera\" a \"Rito Alejo Rivera\"\n    *   \"De Narváez\" a \"De Narváez\"\n*   **Corrección de ortografía y gramática:** Se corrigieron errores ortográficos (acentos, palabras mal escritas, etc.) y se mejoró la gramática para una mayor claridad y cohesión del texto.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 19
+  },
+  "etiqueta_original": "neutral"
+}

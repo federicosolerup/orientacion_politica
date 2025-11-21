@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 9
+    },
+    "score_promedio": 0.397,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este presidente fue el que bautizó la Organización Política de la Juventud Kirchnerista, y tiene sus reminiscencias que llegan hasta hoy.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, en una de las entrevistas, analizando, podríamos decir, las consecuencias políticas que podía llegar a tener el discurso de Batakis, algunos de nuestros entrevistados nos hablaban de la posibilidad de que el conflicto político se termine resolviendo por una asamblea legislativa, con la renuncia del actual presidente y de la actual vicepresidenta, y que asumiera un gobernador.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy podría ser el paralelo entre Cristina Fernández de Kirchner y Alberto Fernández.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En aquella oportunidad, el presidente renunció para descomprimir una crisis política.",
+      "score": 0.405,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así se lo expresé personalmente al general Perón el día 21 de julio, luego de su arribo al país.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy he presentado al honorable Congreso de la Nación mi renuncia irrevocable para posibilitar el reencauzamiento de un proceso que fue distorsionado por la incomprensión cuando el 13 de junio el justicialismo de liberación se vio privado de postular como candidato a la primera magistratura de la patria al general Perón, voluntad irrebatible de todo el pueblo argentino.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar tres audios de los tres principales referentes de \"La Cámpora\": Wado de Pedro, Andrés \"Cuervo\" Larroque y Máximo Kirchner.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vamos nuevamente a remarcar que no hay ningún determinismo que obligue a la repetición y que, claramente, no es ni Cristina Fernández de Kirchner Perón, ni Alberto Fernández de Cámpora.",
+      "score": 0.527,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Toma el nombre de este presidente que acabamos de escuchar, su asunción y su renuncia.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo, por ejemplo, que personas como Pichetto decían que cómo tomar el nombre de un \"fracasado\".",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Incluso, creo que hasta el propio Néstor Kirchner, en algún momento, le había dicho a Máximo que por qué elegían el nombre de una persona que había sido presidente poco más de 45 días y que, además, sabían que fue una serie de tumultos que no son lo más meritorios.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, Wado de Pedro, en \"Periodismo Puro\", en un reportaje que yo le hice el 4 de junio, donde dice: “Nosotros, desde una visión más jauretchana, nunca vivimos la política con la división ideológica europea de izquierda y derecha”.",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos que Cristina fue en una fórmula con el radicalismo como vice, fue Julio Cobos candidato y fue vicepresidente por una fórmula con Cristina.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso fomentamos el agregado de valor en la industria, fomentamos la educación técnica, fomentamos las universidades hoy, o el actual gobierno de Alberto y Cristina, como el de Cristina de antes y el de Néstor.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el \"camporismo blanco\", casi podríamos decir socialdemócrata, que era la frase con que los había agotado nuevamente Pichetto, diciendo que, siguiendo el teorema de Baglini, cuando se pusieran más viejos y se acercaran más al poder, se iban a acercar, además, al centro, y decía que los de \"La Cámpora\" con los años se iban a convertir en socialdemócratas.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que esta perspectiva de Pichetto puede cumplirse, no necesariamente con sus máximos dirigentes, podría hacerlo con Wado de Pedro, no, claramente, con Andrés \"Cuervo\" Larroque ni con Máximo Kirchner.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar ahora a Andrés \"Cuervo\" Larroque, 30 de junio: \"Gobernar es enfrentar el poder económico\".",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**(Fin del audio)**\n\nAhora vamos a escuchar a Máximo Kirchner, es del más reciente, es del 7 de julio, su último discurso en Escobar, donde él dice: \"Si alguien quiere saber cómo se ganan las elecciones de 2023, es haciendo lo mismo que en 2019\".",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos a Máximo Kirchner.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pues, con la elección de quien va a ser el próximo presidente, hoy vicepresidenta, Cristina Fernández de Kirchner.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Va a ser a través del \"PASO\" que lo elijan los votantes, o que lo elija Cristina directamente?",
+      "score": 0.237,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

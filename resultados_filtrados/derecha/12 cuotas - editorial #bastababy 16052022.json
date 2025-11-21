@@ -1,0 +1,75 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Yo creo que todo periodista de espectáculos, alguno, no todos, en el fondo tiene un actor frustrado.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Porque no es lo mismo el delito de hacer una fiesta en Olivos, un asado en pandemia, que es una infracción, al presidente de la nación, que le mandan una conga, entre otras cosas, en la quinta presidencial.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Este sinvergüenza, porque no tuvo vergüenza, en decirnos a todos idiota y que un presidente de la nación le diga idiota a su pueblo es la primera vez que lo escucho.",
+      "entidades_detectadas": [
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Si el presidente de la nación, para pagar un palo 600, tiene que sacar un crédito, ¿cómo debemos mostrarnos nosotros que somos empleados?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Qué presidente de la nación dice?: \"Y encima, para pagar una cagada que te mandaste.",
+      "entidades_detectadas": [
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Y juntar fondos para que el presidente pague por habernos cagado a todos con la fiesta en Olivos y decirnos idiota por estar afuera pidiendo la vacuna que no venía.",
+      "entidades_detectadas": [
+        "olivos",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y después, te da Alberto de hoy, es que una nota de un diario ruso dejó la guerra para hablar de Alberto, de Rusia.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Porque si hay una guerra mundial, el que le dijo a Rusia que las puertas de Rusia estaban en la Argentina para América.",
+      "entidades_detectadas": [
+        "argentina",
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Y después le dijo que habían tomado Ucrania y era un hijo de puta Putin.",
+      "entidades_detectadas": [
+        "ucrania"
+      ]
+    },
+    {
+      "frase": "Y la OTAN, que escucharon a este cuando le decía que las puertas de Rusia eran en la Argentina.",
+      "entidades_detectadas": [
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Nadie los mandó a hacer una fiesta en Olivos cuando nos tenía a todos cagándonos muriendo.",
+      "entidades_detectadas": [
+        "olivos"
+      ]
+    }
+  ]
+}

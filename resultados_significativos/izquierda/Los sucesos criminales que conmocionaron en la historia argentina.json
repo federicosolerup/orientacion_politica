@@ -1,0 +1,161 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 13,
+      "derecha": 16
+    },
+    "score_promedio": 0.488,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lo cierto es que a lo largo de la historia argentina reciente, los casos policiales normalmente logran captar el interés del público mucho más que los temas políticos.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hacer hoy un repaso de algunos de ellos y cómo luego tuvieron que ver, a veces, con modificaciones importantes en el estado de ánimo de la sociedad y hasta de la legislación.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quién diría que él podría haber asesinado a su familia?",
+      "score": 0.391,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el subcomisario le preguntó a Barreda sobre esas dos actividades, él le preguntó quién le había dado esa información.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según él, ese 15 de noviembre de 1992 había agarrado un plumero y le avisó a su esposa, Gladys, que iba a limpiar las telarañas del techo.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego fue al depósito bajo escalera a buscar las herramientas, pero su atención fue para otro lado.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fuera del bajo escalera, entre una biblioteca y la puerta, estaba una escopeta que su suegra le había regalado años atrás, una Victor Sarrasqueta calibre 16.5.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero le disparó a Gladys, luego a Adriana, quien llegó a gritar: \"¡Cuidado!",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tras escuchar los estruendos, bajó de su habitación su suegra, Elena Reche, de 86 años, a quien le disparó al instante.",
+      "score": 0.638,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La última en entrar en escena fue su hija Cecilia, de 26 años, a quien le disparó a tres metros de distancia.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego de la masacre, se sentó en un sillón del living y abrazó la escopeta.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro caso que conmocionó a la Argentina fue el asesinato de María Marta Belsunce, el 27 de octubre de 2002.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y luego tenemos el secuestro y asesinato de Axel Blumberg, el 23 de marzo de 2004.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vocales del Tribunal 4, Rossi y Andrés Banchik, con este fallo le volvieron a matar a María Marta.",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se propusieron destrozarnos la vida, Jorge, y el viernes estos dos sinvergüenzas de Rossi y Andrés Banchik le pusieron el roche, ¿no?\" Pues eso que acabamos de escuchar es el caso de María Marta García Belsunce, que fue en diciembre, en octubre del año 2002.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, esto es lo que nosotros como sociedad tenemos que exigirles a estos señores que están en la Cámara de Diputados, en la Cámara de Senadores, para que legislen como corresponde, mirando al ciudadano, no mirando al delincuente.",
+      "score": 0.414,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego se abrazó con sus hijos Facundo y Valentina.",
+      "score": 0.705,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fiscal de instrucción embarcó al fiscal de cámara en un bote que hacía agua y sin rumbo\".",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y luego habló de su sensación más íntima.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente se inclinaba allá, todo el mundo decía Opatowski.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le daba tanta importancia a la declaración de Mangieri que dé en la declaración de la mamá\".",
+      "score": 0.405,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le digo no, pero no, vení un rato porque no me estaría cerrando.",
+      "score": 0.524,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Directamente me dice, bueno Mangeri, la verdad que usted me va a dar un testimonio vital.",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, yo necesito que usted declarara.",
+      "score": 0.632,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me decía que tenía acá como un moretón, todo arañado, pero bueno, no digo nada.",
+      "score": 0.633,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me dice, porque yo lo que le quiero decir es que a mí me picanearon.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces llamó al juez y le pidió la orden de detención.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Información de último momento, Jorge Néstor Mangeri, el encargado quedó detenido porque se autoincriminó por el crimen de Ángeles Rawson.",
+      "score": 0.683,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En otros casos mediáticos similares, más antiguos y más nuevos, está el caso de una empresaria, la empresaria Gilda Murano, en el año 1979, sobre el que se hicieron inclusive hasta series, el caso del femicidio de María Soledad Morales que atravesó, podríamos decir, la primera etapa de la época de Menem en 1990, el asesinato de los Ruckauf, de los Ruckauf, perdón, Ariel Malvino en Ferrugem, en la playa de Brasil, podría tener algún grado de similitud con el caso de los Ruckauf a la salida de un boliche, en el caso de Fernando Báez Sosa, el caso de Naiara Galiano en el año 2017.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 29
+  },
+  "etiqueta_original": "neutral"
+}

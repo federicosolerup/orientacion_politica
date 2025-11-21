@@ -1,0 +1,33 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Pero estamos en Argentina y la CTERA, liderada por Roberto Baradel y compañía, acaba de decretar un paro nacional docente para mañana.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Aclaro que CTERA, que convoca al paro de mañana, y el gobernador son parte de la misma coalición electoral de Cristina Fernández de Kirchner, Alberto Fernández y Sergio Massa.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Es muy difícil que la Argentina progrese.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Luchan a capa y espada contra el gobierno de Horacio Rodríguez Larreta y cuidan celosamente al gobierno de Axel Kicillof.",
+      "entidades_detectadas": [
+        "axel",
+        "larreta"
+      ]
+    }
+  ]
+}

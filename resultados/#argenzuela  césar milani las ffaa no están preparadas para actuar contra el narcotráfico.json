@@ -1,0 +1,625 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El 3 de mayo por la mañana, comenzamos hablando de Rosario.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Hoy, para muchos, lo más importante es el frente de un supermercado vacío, donde asesinaron a un niño de 11 años en Rosario.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "No veo la suficiente movilización de los dirigentes políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer leí un tuit de César Milani.",
+      "entidades_detectadas": [
+        "César Milani",
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Milani fue jefe del Ejército Argentino y parte del gobierno de facto; también fue perseguido.",
+      "entidades_detectadas": [
+        "Milani",
+        "Ejército Argentino"
+      ]
+    },
+    {
+      "frase": "Vi algunas reflexiones interesantes sobre el rol de las Fuerzas Armadas, ya que siempre se las convoca rápidamente.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "Uno, como neófito, se pregunta si estarán listas y preparadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 3 de mayo por la mañana, tanto Daniel Scioli como Alberto Fernández hablaron del tema y mencionaron tareas logísticas: distribución de comida o construcción de puentes, tareas que no requieren el uso de armas, como en el caso de la resolución de la pandemia.",
+      "entidades_detectadas": [
+        "Daniel Scioli",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "César Milani, en un hilo de tuits que tengo en línea, expone esta idea.",
+      "entidades_detectadas": [
+        "César Milani"
+      ]
+    },
+    {
+      "frase": "Jorge Real (Radio Díaz): Buenos días, César.",
+      "entidades_detectadas": [
+        "César",
+        "Buenos días",
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "César Milani: Buenos días, Jorge.",
+      "entidades_detectadas": [
+        "César Milani",
+        "Buenos días",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Un gusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Real: Igualmente.",
+      "entidades_detectadas": [
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "Un saludo a todos los oyentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "César Milani: Gracias.",
+      "entidades_detectadas": [
+        "César Milani"
+      ]
+    },
+    {
+      "frase": "Estoy hablando de este hilo de tuits que publiqué al respecto, porque se habla mucho de las Fuerzas Armadas como solución a la lucha contra el narcotráfico.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "Lamentablemente, personajes como Patricia Bullrich llevan meses y años hablando de esto con un sentido absolutamente electoralista y mediático, tratando de generar temor en la población y haciéndoles creer que las Fuerzas Armadas pueden actuar contra el narcotráfico de forma permanente o transitoria.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "Debo decirles a todos los ciudadanos que no se dejen engañar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las Fuerzas Armadas no están adiestradas, equipadas ni instruidas para combatir el narcotráfico.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "No pueden hacerlo por ley (ni la de Defensa ni la de Seguridad Interior), ni tampoco por una cuestión de criterio y lógica.",
+      "entidades_detectadas": [
+        "Defensa",
+        "Seguridad Interior"
+      ]
+    },
+    {
+      "frase": "Imaginen el armamento letal (fusiles, pistolas, cañones, tanques) de las Fuerzas Armadas en un centro urbano combatiendo el narcotráfico.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "¡Es una barbaridad!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lamentablemente, estos son los dirigentes que la oposición propone como precandidatos a la presidencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bullrich es ignorante, improvisada y malintencionada; sus declaraciones impactan en la gente, que muchas veces cree que esto puede ser efectivo.",
+      "entidades_detectadas": [
+        "Bullrich"
+      ]
+    },
+    {
+      "frase": "Únicamente las Fuerzas Armadas podrían colaborar reforzando la frontera norte y custodiando objetivos estratégicos, para liberar fuerzas federales (Gendarmería, Prefectura, Policía Federal).",
+      "entidades_detectadas": [
+        "Fuerzas Armadas",
+        "Gendarmería",
+        "Policía Federal",
+        "Prefectura"
+      ]
+    },
+    {
+      "frase": "Creo que se necesita un golpe de efecto muy fuerte en centros urbanos como Rosario, el Gran Buenos Aires y otros.",
+      "entidades_detectadas": [
+        "Gran Buenos Aires",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Un golpe fuerte significa desplegar 3.000 o 4.000 gendarmes para recuperar el control del territorio, que es lo que se ha perdido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una vez recuperado el control, las policías provinciales, convenientemente depuradas, podrían realizar operativos casa por casa, que podrían durar meses o incluso años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero para eso hay que controlar el territorio, y para ello se necesitan fuerzas federales (Gendarmería, Prefectura, Policía Federal), no el Ejército.",
+      "entidades_detectadas": [
+        "Gendarmería",
+        "Policía Federal",
+        "Prefectura"
+      ]
+    },
+    {
+      "frase": "Jorge Real: César, para entender, lo que dicen las Fuerzas Armadas es que pueden aliviar la carga de Gendarmería y Prefectura en lugares estratégicos, para que estas bajen a Rosario, por ejemplo.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas",
+        "Gendarmería",
+        "Jorge Real",
+        "César",
+        "Rosario",
+        "Prefectura"
+      ]
+    },
+    {
+      "frase": "Eso propuso la RETA.",
+      "entidades_detectadas": [
+        "RETA"
+      ]
+    },
+    {
+      "frase": "César Milani: La RETA es otro grupo de improvisados e ignorantes en este tema.",
+      "entidades_detectadas": [
+        "César Milani",
+        "RETA"
+      ]
+    },
+    {
+      "frase": "Lo he dicho durante meses y años, pero ellos no lo saben.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablan de 3.000 gendarmes sin saber la cantidad, el porqué ni el dónde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen perseguir al narcotráfico, pero Gendarmería no debería ingresar a zonas urbanas para eso; para eso están las policías provinciales.",
+      "entidades_detectadas": [
+        "Gendarmería"
+      ]
+    },
+    {
+      "frase": "La Gendarmería debería cercar las zonas para limitar el territorio y controlar ese espacio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las policías provinciales deberían perseguir a los narcotraficantes dentro de esas zonas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La RETA también está actuando de forma electoralista y mediática.",
+      "entidades_detectadas": [
+        "RETA"
+      ]
+    },
+    {
+      "frase": "La medida de inundar Rosario con fuerzas federales, como usted dice, sería efectiva.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Rosario es el foco de atención ahora, pero hay muchos otros lugares.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Ayer mataron a un niño de 11 años allí, y en el Gran Buenos Aires también hay zonas muy complicadas.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Gran Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Hace falta un golpe de efecto muy fuerte, con miles de gendarmes en centros urbanos controlados por bandas narcotraficantes, para que la gente sienta la presencia del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Después, las policías pueden perseguir a los narcotraficantes casa por casa.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Esto requiere un plan a largo plazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después podemos hablar del tema carcelario: ¿Qué hacemos con todos los detenidos?",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "¿Construimos cárceles especiales como en El Salvador?",
+      "entidades_detectadas": [
+        "El Salvador",
+        "¿Construimos"
+      ]
+    },
+    {
+      "frase": "Creo que necesitamos centros penitenciarios grandes y aislados de los centros urbanos, en lugares despoblados, para separar a los narcotraficantes de los delincuentes comunes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos pueden usar celulares, comunicarse con el exterior y seguir manejando sus operaciones desde la cárcel.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que sacarlos y ponerlos en lugares aislados, porque esto es un peligro que sigue extendiéndose por el poder económico y político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que depurar la policía, la justicia y la política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las declaraciones rimbombantes no sirven.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La exministra de Seguridad dijo que perdimos la guerra contra el narcotráfico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasa cuando los narcos escuchan eso?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La población se desanima y los narcos se envalentonan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado va a terminar controlando el problema, y habrá que hacer algo como en El Salvador.",
+      "entidades_detectadas": [
+        "El Salvador",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "La creación de centros carcelarios aislados es importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Real: César, para que Bukele hiciera eso en El Salvador, se suspendieron muchos derechos individuales y garantías constitucionales.",
+      "entidades_detectadas": [
+        "Bukele",
+        "César",
+        "El Salvador",
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "¿Se podría llegar a eso en la guerra contra los narcos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "César Milani: Las garantías constitucionales son para todos los habitantes de la República Argentina.",
+      "entidades_detectadas": [
+        "César Milani",
+        "República Argentina"
+      ]
+    },
+    {
+      "frase": "Cuando se trata de organizaciones armadas con mucho poder económico y político, que matan gente todos los días e infiltran la policía, la política y la justicia, ¿es lo mismo que un delincuente común?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las Fuerzas Armadas no pueden involucrarse en la lucha contra el narcotráfico, pero sí pueden cubrir otros frentes.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "Tampoco estoy de acuerdo con que distribuyan comida o se dediquen a tareas logísticas; eso deben hacerlo las municipalidades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las Fuerzas Armadas pueden colaborar en la frontera y en objetivos estratégicos, para liberar fuerzas federales para los grandes centros urbanos.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "¿Qué hacemos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Seguimos dando las mismas garantías constitucionales a estas bandas o tomamos el toro por las astas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El dilema es complejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién define quién es una banda narco y quién es una víctima?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Muchas veces, los soldados de esas bandas son adictos que delinquen para conseguir droga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un fenómeno muy complejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Real: No hace falta suspender garantías constitucionales.",
+      "entidades_detectadas": [
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "La Constitución prevé servicios penitenciarios y cárceles.",
+      "entidades_detectadas": [
+        "Constitución"
+      ]
+    },
+    {
+      "frase": "Los gobiernos y el Congreso pueden reformar leyes para dar mayor o menor libertad a los presos.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "¿Se puede mezclar a los narcotraficantes con delincuentes comunes?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Separarlos no es suspender ninguna garantía constitucional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos crear centros penitenciarios donde los narcos no puedan comunicarse con sus subordinados ni contaminar a otros delincuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Podemos resocializar a las bandas narcos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Puede ser, pero no en las condiciones actuales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Andrés Léonarte: Buenos días, César.",
+      "entidades_detectadas": [
+        "César",
+        "Andrés Léonarte",
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Con las herramientas actuales, ¿no hay un problema de connivencia político-judicial?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, un fiscal me contó que cuando aparece el nombre de algún empresario importante (como Patricio Carey y Gustavo Janahan en Rosario), los mandan a sus casas, a prisión domiciliaria, o los dejan en libertad esperando la condena firme, argumentando arraigo.",
+      "entidades_detectadas": [
+        "Rosario",
+        "Gustavo Janahan",
+        "Patricio Carey"
+      ]
+    },
+    {
+      "frase": "Pero esos bienes fueron adquiridos ilícitamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay connivencia entre los poderes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "César Milani: Lo creo absolutamente.",
+      "entidades_detectadas": [
+        "César Milani"
+      ]
+    },
+    {
+      "frase": "Estas bandas tienen mucho poder económico, como lo que ha pasado en México.",
+      "entidades_detectadas": [
+        "México"
+      ]
+    },
+    {
+      "frase": "Influyen de forma determinante, a veces por miedo, otras por sobornos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se puede combatir el narcotráfico con las policías locales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que recuperar el control del territorio para que la gente vea que el Estado está presente y que las bandas no controlan todo.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Es fundamental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Real:  Para finalizar, ¿dejó de hablar con Cristina Milani?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina Milani",
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "César Milani: Dejé de hablar con ella cuando dejé el Ejército, no por peleas internas, sino porque dejé de ser jefe del Ejército.",
+      "entidades_detectadas": [
+        "César Milani"
+      ]
+    },
+    {
+      "frase": "Estuve detenido ilegalmente durante casi tres años y fui absuelto.",
+      "entidades_detectadas": [
+        "Estuve"
+      ]
+    },
+    {
+      "frase": "Estoy retirado, pero no jubilado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo la vocación de servir a la nación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Real: Con toda la bulla alrededor de Cristina Fernández de Kirchner como candidata, ¿qué opina?",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "César Milani:  La primera pregunta es ¿quién es Cristina Fernández de Kirchner?",
+      "entidades_detectadas": [
+        "César Milani",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Es la política más importante de los últimos 20 años en Argentina, especialmente en el peronismo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "No sé si será candidata a presidenta, pero influirá de forma determinante en la elección del próximo presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espero que el peronismo gane.",
+      "entidades_detectadas": [
+        "Espero"
+      ]
+    },
+    {
+      "frase": "Jorge Real: Milani, un gusto hablar con usted.",
+      "entidades_detectadas": [
+        "Milani",
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "César Milani: El gusto es mío, Jorge.",
+      "entidades_detectadas": [
+        "César Milani",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Un abrazo a toda la audiencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "El Salvador?  ",
+    "Alberto Fernández",
+    "Fuerzas Armadas",
+    "Daniel Scioli",
+    "Estoy",
+    "Patricio Carey",
+    "¿Qué",
+    "Milani",
+    "Cristina Milani",
+    "Gran Buenos Aires",
+    "Rosario",
+    "Prefectura",
+    "Patricia Bullrich",
+    "Policía Federal",
+    "El Salvador",
+    "¿Construimos",
+    "Cristina Fernández de Kirchner",
+    "Estado",
+    "Estuve",
+    "Debo",
+    "República Argentina",
+    "Defensa",
+    "Buenos días",
+    "Bukele",
+    "México",
+    "Argentina",
+    "Separarlos",
+    "Gendarmería",
+    "Ayer",
+    "¿Quién",
+    "Espero",
+    "El Estado",
+    "Imaginen",
+    "César Milani",
+    "RETA",
+    "Después",
+    "Lamentablemente",
+    "Andrés Léonarte",
+    "Ejército Argentino",
+    "Dicen",
+    "Gustavo Janahan",
+    "Seguridad Interior",
+    "¿",
+    "Influyen",
+    "Jorge Real",
+    "César",
+    "Bullrich",
+    "Jorge",
+    "Tenemos"
+  ]
+}

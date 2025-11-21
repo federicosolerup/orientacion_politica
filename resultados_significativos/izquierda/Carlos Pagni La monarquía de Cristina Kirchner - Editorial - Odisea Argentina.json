@@ -1,0 +1,301 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 34,
+      "derecha": 23
+    },
+    "score_promedio": 0.393,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando Napoleón invadió Egipto, hubo una crónica muy interesante que le llamó la atención a muchos historiadores, después occidentales, que es la visión que tenía un historiador, un cronista egipcio llamado **Al-Jabarti** sobre lo que estaba pasando en ese momento en su país.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo que le llamó la atención a este egipcio fue otra cosa.",
+      "score": 0.524,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le podía poner una verdad al poder.",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros pertenecemos a una tradición que tiene tres, cuatro siglos, que está basada en la siguiente idea: somos personas libres que cedemos parte de nuestra libertad para constituir un Estado que nos administre mejor, pero que preserve más nuestra libertad, que nos permita ser más libres.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero como sabemos que ese Estado puede desbordarse y venir en contra de nosotros y caer sobre nuestras libertades, inventamos una cantidad de dispositivos que nos salvan de eso.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro es una serie de garantías sobre la libertad económica y en el fondo de todas, la propiedad privada.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y otro de los dispositivos que inventó la sociedad occidental para preservarse, para cuidarse del desborde o del avasallamiento del Estado que la misma sociedad creó, es la independencia del poder judicial.",
+      "score": 0.393,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aún así, aun cuando están en la Constitución, están siendo puestos en tela de juicio en la Argentina desde hace por lo menos una década.",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dos de ellos ya juzgaron y sancionaron a **Cristina Fernández de Kirchner**.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner**, como presidenta del Senado y como líder inapelable de la mayoría del Senado, los desplazó siguiendo un procedimiento que está cuestionado en la justicia, pero que además, desobedeciendo una acordada de la Corte del año 2018, cuando aparecen todas estas anomalías institucionales, ocurren rarezas.",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reemplazaron a jueces que tienen jurisdicción sobre causas en las que **Cristina Fernández de Kirchner** está imputada.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El caso está en la Cámara Contencioso Administrativa.",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El juez **Guillermo Trícoli** forma parte de esa Cámara a partir de un concurso que en su momento fue anulado por la justicia.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámara viene con bastante lentitud tratando este tema.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, el viernes pasado pidió un oficio al Senado que le envíe la versión taquigráfica de la sesión donde se desplazó a los jueces.",
+      "score": 0.566,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando uno supone que está online la versión taquigráfica, uno entra a la página del Senado y es muy fácil acceder a las versiones taquigráficas.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jueces, ante la urgencia de verse desplazados, fueron a la Corte o le reclamaron a la Corte que tome el caso con un *per saltum*.",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El procedimiento del *per saltum* fue reglamentado en la Argentina por una ley que lo reguló y es extraordinariamente excepcional, con lógica.",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos jueces quieren que se aplique el *per saltum*, que fue aplicado solo una vez en el tiempo en que esa institución está reglamentada, que fue justamente con un tema de reforma judicial, que es la famosa democratización, entre comillas, de la justicia que pretendía **Cristina Fernández de Kirchner**, por lo cual ataba el Consejo de la Magistratura a la elección presidencial.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, no sabemos qué va a ser el presidente de la Corte, **Carlos Rosenkrantz**.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él podría poner a consideración el *per saltum*, nadie sabe qué decidirían los jueces, pero daría una señal de que es sensible a la demanda pública, a la demanda de la opinión pública.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría ponerlo a consideración y que se lo rechacen, podrían ponerlo a consideración y que no, la Corte asuma el *per saltum* y trate el tema.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría suceder que rechacen el *per saltum*, pero le dicen a la cámara: “Ponete las pilas, resolvé rápido, porque hay mucha tensión alrededor de este tema, que simboliza en el fondo una especie de autoamnistía que estaría pretendiendo darse **Cristina Fernández de Kirchner** en los temas que le involucran”.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es importante porque va de la mano de otros temas, por ejemplo, la pretensión de remover al Procurador General de la Nación, al jefe de los fiscales, que es el que le da instrucciones o puede darle instrucciones a los fiscales que van a acusar al kirchnerismo, a **Cristina Fernández de Kirchner** o a cualquier otro funcionario, también del gobierno de Macri, en los tribunales orales.",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Procurador puede reemplazar fiscales, le puede decir: “Esta acusación la mantenemos o la bajamos”, ejerce un enorme poder sobre los que acusan.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero además la mira por una segunda razón, porque el Senado, y **Cristina Fernández de Kirchner** a la cabeza, y **Alberto Fernández** al obedecerla, y el Consejo de la Magistratura al proponer que se revisen estos procedimientos y la situación de estos jueces, no se está burlando de **Bruglia**, de **Bertuzzi** y de **Castelli** solamente, se está burlando de la Corte, que es la que ya en una acordada definió que la situación de esos jueces es correcta.",
+      "score": 0.207,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no sabemos dónde va a terminar esta burla acerca de la Corte, si solo en este caso y en esa acordada 7, o de ahora en adelante hasta poder reemplazarlos a los jueces de la Corte, si es que algún día **Cristina Fernández de Kirchner** obtiene los dos tercios en el Senado, para los cuales le faltan cuatro votos.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la Ciudad de Buenos Aires se le quitaron recursos por un decreto de necesidad y urgencia sin siquiera pedir la aquiescencia, la autorización de la propia ciudad.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como es de práctica, porque hay un convenio entre la ciudad y la nación para acordar cuáles son los recursos que se le derivan a la ciudad.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay un cuestionamiento a la autonomía del poder judicial, que es uno de los instrumentos que nos damos para defendernos del poderoso, y hay otro cuestionamiento a la autonomía territorial de algo que la Constitución prácticamente establece más allá de las discusiones técnicas o de detalles que puede haber, casi como una provincia, que es la Ciudad Autónoma de Buenos Aires declarada autónoma después de la Constitución del 94.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y **Alberto Fernández**, esto fíjese qué interesante que es, le explicó a **Larreta**: “Mirá, tuve que hacer lo que hice porque vino **Martín Guzmán**, el ministro de Economía, y me dijo que no había más plata y teníamos que darle plata a los policías que estaban levantados en la provincia de Buenos Aires.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le sacó plata a la Ciudad de Buenos Aires.",
+      "score": 0.776,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo resuelve el Estado la falta de recursos?",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Curioso, **Alberto Fernández** le pidió a **Larreta** que no mande el reclamo a la Corte.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nada menos que el avance de la nación sobre los recursos de la ciudad.",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que aparece otro tema en la Corte muy importante, porque en el fondo lo que va a tener que resolver la Corte es si la ciudad es o no una provincia, para simplificar mucho.",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, avanza el Senado sobre la justicia, avanza el poder ejecutivo sobre las provincias.",
+      "score": 0.703,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque **Larreta** simbolizaba subliminalmente o sugería la relación de **Larreta** con **Fernández**, que **Fernández** tenía alguna vocación de tender puentes con el otro mundo y que en algo pretendía cumplir su proyecto originario de salir de la contradicción polarizante en la que está la Argentina, sobre todo desde los gobiernos de **Cristina Fernández de Kirchner**.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la ruptura con **Larreta** significa que esa avenida por la que quería transitar **Fernández** se bloqueó y **Santiago Cafiero** le dijo a un colaborador de **Larreta**: “La verdad es que es anular una política muy importante nuestra por culpa de **Cristina**”.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que mirar a qué policías desplazó **Berni**, y usted, si mira con lectura política qué policías desplazó, va a ver que son policías ligados a algunos intendentes del conurbano a los que **Cristina Fernández de Kirchner** le atribuye no haber generado, pero sí haber tolerado y, en todo caso, después, alentado esa sublevación o ese motín policial tan raro que hubo en la provincia, tan impertinente.",
+      "score": 0.512,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que empieza a ver por lo menos una visión paranoica entre la interna kirchnerista y gente ligada a **Cristina Fernández de Kirchner**, muy ligada a **Cristina Fernández de Kirchner**, que supone que **Alberto Fernández** con los intendentes del conurbano son parte de una conspiración.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una dificultad enorme, un gobierno que emite muchísima moneda, que promete emitir más, en el mejor de los casos, **Guzmán** en el presupuesto que mandó el Congreso dice que debe emitir un billón de pesos para cubrir el déficit de 4.5 que promete.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que sobre esto le quiero preguntar, insisto, a **Alfonso Prat-Gay**, ¿cómo se hace, porque no puede no emitir?",
+      "score": 0.655,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fueron a hablar con el gobierno, le dijeron: “Nosotros vendemos ropa y tratamos de estar con la estación, es decir, vender ropa de verano en verano y vender ropa de invierno en invierno.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, acá aparece otra cuestión de mediano plazo: ¿si todo esto va hacia el acuerdo con el fondo o nos aleja del acuerdo con el fondo?",
+      "score": 0.273,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque **Guzmán** dice que va hacia un acuerdo con el fondo y parece caminar en sentido contrario.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Clarín es Telecom.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mucha gente enojada en Telecom, sobre todo dos personas: **Sebastián Esquenazi**, que fue una persona muy gravitante en la vida de **Alberto Fernández** durante todo el tiempo que **Alberto Fernández** estuvo fuera del poder, y ahora se queja de que **Alberto Fernández** no le atiende el teléfono, tal vez es una virtud de **Alberto Fernández**, muy probablemente, y **Jorge Brito**, ambos muy cercanos a **David Martínez**, que es uno de los socios de Clarín en Telecom.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pregunta final: Frente a toda esta crisis, la única que hace política es **Cristina Fernández de Kirchner**, o la sociedad argentina tiene recursos como para equilibrar al poder?",
+      "score": 0.327,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que está detrás de **Bruglia, Bertuzzi** y el juez **Castelli**, de la situación de esos tres jueces.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es: ¿**Cristina Fernández de Kirchner**, que ya se llevó puesto al poder ejecutivo?",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "hay toda una parte de la sociedad argentina que dice: “Hay que terminar con **Cristina Fernández de Kirchner**”.",
+      "score": 0.317,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, **Alberto Fernández** no está puesto ahí para terminar con **Cristina Fernández de Kirchner**, está puesto para obedecerla.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y muy probablemente **Cristina Fernández de Kirchner** supiera desde los tiempos de **Néstor** las características de **Alberto** y que no hay ningún riesgo con **Alberto**.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Había un molinero, un humilde molinero, **David**, que tenía un molino y le molestaba el paisaje a **Federico el Grande**.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces le ofreció plata para que lo saque, y el molinero le dijo: “No, el molino es mío”.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le ofreció el doble y el otro dijo: “No, es que mi molino es mío, no me quiero ir de acá”.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 57
+  },
+  "etiqueta_original": "neutral"
+}

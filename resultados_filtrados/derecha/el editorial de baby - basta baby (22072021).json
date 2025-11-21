@@ -1,0 +1,62 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Escucharon los últimos discursos de Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Pero ¿vieron que en Argentina hay elecciones?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Cuando Cristina Kirchner, con su camisa floreada, dijo que no íbamos a pagar la deuda, y Putin, con las vacunas… ¡Yo, como un boludo, me puse la vacuna!",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Volnovich ya tuvo problemas con el alcohol en gel… lo tuvimos que tapar porque era amiga de Máximo Kirchner.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Volvieron para ser mejores…  Escucho a Alberto Fernández con discursos cada vez más disparatados.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Lo que dijo Pato Bullrich parece cierto… parece que sí, lo de la vacuna.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Hoy Alberto dijo: \"El camino está cerca…\" ¿Venezuela?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Cada vez que Cristina Kirchner se guarda, la desesperación aumenta…  Quedan dos largos años, Alberto, y muchos muertos más por los negocios de las vacunas.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "* **Corrección de nombres y apellidos:** Se nombraron a los personajes mencionados con la escritura correcta de sus nombres y apellidos (ej: Alberto Fernández, Cristina Kirchner, Ginés González García).",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina"
+      ]
+    }
+  ]
+}

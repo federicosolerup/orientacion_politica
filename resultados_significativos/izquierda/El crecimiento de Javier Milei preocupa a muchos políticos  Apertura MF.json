@@ -1,0 +1,181 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 21,
+      "derecha": 12
+    },
+    "score_promedio": 0.4,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La pregunta surge a partir de la conmoción que generó, ayer, la mención a Hitler en una entrevista realizada en esta radio al presidente Alberto Fernández, y de las derivaciones que ya en el pasado tuvo la comparación entre Javier Milei y la emergencia de los libertarios con la eventual emergencia del partido nazi.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien es claro que la comparación es exagerada, lo que también queda claro es que el crecimiento en las encuestas de Javier Milei preocupa a muchos políticos en muchos sentidos.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, ayer entrevisté al gobernador de Córdoba, Juan Schiaretti, para un reportaje que saldrá en el diario Perfil el domingo, y él decía que, en Córdoba, la intención de voto a presidente de Milei es superior a la intención de voto de cualquier candidato de Juntos por el Cambio y a cualquier candidato del Frente de Todos.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, Milei está segundo, solo detrás de Schiaretti, pero primero frente a cualquier candidato de Juntos por el Cambio o del Frente de Todos.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La comparación con respecto a las elecciones y el ascenso de Hitler al poder a través de la democracia no solo fue hecha por Alberto Fernández; fue hecha por innumerables dirigentes.",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Inclusive, fue realizada por el propio papa Francisco en distintas oportunidades, que ahora recordaremos, tanto en una entrevista conmigo como en una entrevista que hizo en C5N con el periodista Gustavo Sylvestre.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También hicieron la comparación entre la emergencia del nazismo y la emergencia de los libertarios, Lilita Carrió, Gerardo Morales y algunos periodistas.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Incluso, creo que el propio Milei le inició una demanda civil a Pato Fontanet.",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que, bueno, vamos a comenzar colocando en contexto qué fue lo que pasó en Alemania en aquel momento.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para comparar las diferencias con los libertarios, a Hitler le llevó diez años llegar al poder absoluto.",
+      "score": 0.503,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto le otorgó a Hitler, el canciller, que en el caso de Alemania es quien conduce el gobierno, plenos poderes y le permitió gobernar sin tener que pasar por el Congreso.",
+      "score": 0.401,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al mismo tiempo, parece inútil la comparación de que se pueda llegar al poder a través de un gobierno originariamente democrático y luego convertirse en un gobierno autoritario.",
+      "score": 0.297,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, el presidente de la DAIA (Delegación de Asociaciones Israelitas Argentinas) salió a decir, concretamente a través de un tuit, que participar del juego democrático no deriva en holocaustos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, no implica, dice textualmente el presidente Alberto Fernández, participar del juego democrático no deriva en holocaustos; los holocaustos son consecuencia del odio, de la intolerancia y de la cancelación de las minorías.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este último párrafo también podría resonar con la situación actual de Argentina, pero claramente estamos muy lejos de esa situación, más allá del crecimiento en la intención de voto que puedan tener los libertarios.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hay que hacer es abrir los ojos de la gente y advertirle que, por muy desalentada que esté, esos caminos no son caminos saludables para el país y para la sociedad.",
+      "score": 0.414,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, no solo fue Alberto Fernández.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vale recordarle también al presidente del gobierno de la ciudad...",
+      "score": 0.638,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "ha sido el propio papa Francisco quien planteó la comparación.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El papa Francisco dice: \"Yo le tengo pánico a los salvadores de la tierra\".",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le tengo pánico a los 'salvadores de la patria', entre comillas.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la política argentina también hicieron referencia a Hitler, primero Gerardo Morales y después Lilita Carrió.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Hitler también decía eso.",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, hay una situación que yo comprendo y que además avalo en cuanto a la bronca y la calentura de la gente, pero ojo, el otro límite es la antipolítica, porque Hitler también decía esto.",
+      "score": 0.353,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Usted está emparentando a Milei con Hitler?",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, bueno, eso decía Hitler, y lo que se está planteando es la antipolítica.",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, claro, porque yo creo que se aprovecha de la situación de bronca y de calentura de un conjunto de la sociedad argentina que tiene razón para plantearle cosas que no tienen sentido a una persona que no ha gobernado nada.",
+      "score": 0.291,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí tenemos a Gerardo Morales planteando la similitud entre las ideas de Hitler y las ideas de Milei.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, vamos a escuchar al propio Milei, primero con grabaciones anteriores, y luego leeremos el descargo que hace el propio Milei con todo derecho a réplica a lo dicho por el presidente Alberto Fernández.",
+      "score": 0.558,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar primero a Javier Milei, esto es junio de 2021: \"Somos superiores estéticamente.",
+      "score": 0.33,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, como no pueden pelear con las herramientas legítimas, se apalancan en el aparato represivo del Estado poniendo torres de guita para hacernos mierda, y aun así no pueden, no pueden, tuvieron que bajar la nota, tuvieron que bajar la nota, ¿me entendés?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a Javier Milei junto a Bussi, se pregunta: \"¿Me puede mostrar la lista de los 30.000 desaparecidos?\".",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, cambios de época y de humores, porque allí aplauden cuando Milei reclama la lista de los 30.000 desaparecidos, y cuando lo \"perfido\" hizo lo mismo hará un par de años, tuvo que salir del gobierno que integraba en aquel momento de lo que era Cambiemos.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 33
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Me parece terrible que el Estado tenga que decir: \"Mátenlo, ejecútenlo\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Porque parece que aquí los choferes son premiados: el chofer de Aníbal Fernández terminó siendo juez de Comodoro Rivadavia.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cristina Kirchner no es valiente, ni líder.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Hoy, el silencio de Máximo Kirchner y los demás ha demostrado que nadie le tiene miedo a Cristina.",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Cristina debería tenerle miedo a la justicia, a la balanza y al pueblo.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

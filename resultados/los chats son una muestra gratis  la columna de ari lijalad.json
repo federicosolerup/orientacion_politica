@@ -1,0 +1,247 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto presenta numerosos errores ortográficos, gramaticales y de coherencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, algunos nombres propios están mal escritos o incompletos.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "La corrección completa requiere una reelaboración significativa del texto para lograr fluidez y claridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A continuación, se presenta una versión corregida, con los cambios más importantes explicados al final:\n\n**Texto corregido:**\n\nAlgunas consideraciones sobre la reciente filtración de supuestos chats entre el ministro de Justicia y Seguridad, Marcelo D'Alessandro, y diversos personajes relevantes.",
+      "entidades_detectadas": [
+        "ministro de Justicia y Seguridad",
+        "Marcelo D'Alessandro",
+        "Texto"
+      ]
+    },
+    {
+      "frase": "Me centraré en uno de ellos: Silvio Robles, director general de la vocalía de Horacio Rosatti.",
+      "entidades_detectadas": [
+        "Silvio Robles",
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "Que sea director general y no secretario letrado (quien redacta y trabaja los fallos con Rosatti) tiene una explicación: Robles no es abogado, sino periodista; por lo tanto, no podía ocupar el cargo de secretario letrado.",
+      "entidades_detectadas": [
+        "Rosatti",
+        "Robles"
+      ]
+    },
+    {
+      "frase": "Se le otorgó el máximo cargo posible, actuando como coordinador de las actividades de Rosatti en la Corte Suprema y el Consejo de la Magistratura, con un sueldo cercano a los 900.000 pesos, exento del pago de ganancias.",
+      "entidades_detectadas": [
+        "Rosatti",
+        "Corte Suprema",
+        "Consejo de la Magistratura"
+      ]
+    },
+    {
+      "frase": "¿Qué dicen estos supuestos chats filtrados?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sugieren una relación comprometida entre un funcionario de Horacio Rodríguez Larreta y la mano derecha de Horacio Rosatti.",
+      "entidades_detectadas": [
+        "Horacio Rodríguez Larreta",
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "La brevedad de la información publicada indica la existencia de más datos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, se menciona la existencia de intercambios por WhatsApp y Telegram, y la evidente intención de alguien de filtrar solo una parte de las conversaciones de D'Alessandro.",
+      "entidades_detectadas": [
+        "D'Alessandro"
+      ]
+    },
+    {
+      "frase": "Que exista un interés en la filtración no implica que no sea de interés público, ya que involucra decisiones de alto impacto social, judicial y económico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los dos temas principales de las conversaciones son el fallo de la coparticipación y el Consejo de la Magistratura.",
+      "entidades_detectadas": [
+        "Consejo de la Magistratura"
+      ]
+    },
+    {
+      "frase": "Nos comunicamos con Robles y D'Alessandro.",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "Robles"
+      ]
+    },
+    {
+      "frase": "Robles no respondió, mientras que D'Alessandro, como reiteró hoy en canales de televisión (TN), afirma que los chats son falsos y que le hackearon el teléfono.",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "Robles",
+        "TN",
+        "reiteró"
+      ]
+    },
+    {
+      "frase": "Esto es contradictorio: o son falsos, o le robaron el teléfono, en cuyo caso, es muy probable que los chats sean auténticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Existe una investigación judicial sobre lo ocurrido con el teléfono de D'Alessandro, quien afirmó que le robaron el teléfono a él, a Santili, a jueces y a otras personas.",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "Santili"
+      ]
+    },
+    {
+      "frase": "Quien haya realizado esto estaría cometiendo espionaje ilegal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos verificar la autenticidad de los chats publicados, aunque, como ocurrió con el caso de los \"cuadernos de las coimas\", mucha información de chats similares ha encontrado confirmación posterior en hechos concretos.",
+      "entidades_detectadas": [
+        "ocurrió"
+      ]
+    },
+    {
+      "frase": "En ese caso, se mencionaban facturas falsas que luego fueron encontradas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gravedad de la situación trasciende la figura de Silvio Robles.",
+      "entidades_detectadas": [
+        "Silvio Robles"
+      ]
+    },
+    {
+      "frase": "Debemos considerar el rol de la Corte Suprema y sus intereses económicos.",
+      "entidades_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "En el último año, tres de sus cuatro miembros expresaron públicamente opiniones sobre política económica, apoyando un modelo considerado injusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Horacio Rosatti, en un evento de Grupo Clarín, afirmó la importancia de conjugar mercado y Estado, mencionando la necesidad de \"erradicar\" la \"teoría del derrame\".",
+      "entidades_detectadas": [
+        "Grupo Clarín",
+        "Estado",
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "Carlos Rosenkrantz, en una conferencia en Chile, habló de la necesidad de combatir el populismo, identificándolo con el peronismo.",
+      "entidades_detectadas": [
+        "Carlos Rosenkrantz",
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Ricardo Lorenzetti declaró que la Corte no debe hacer \"populismo judicial\", protegiendo a las minorías (a las que identificó con los empresarios).",
+      "entidades_detectadas": [
+        "Corte",
+        "Ricardo Lorenzetti"
+      ]
+    },
+    {
+      "frase": "Esta Corte Suprema ha protegido a los involucrados en el caso de los \"cuadernos de las coimas\", dictando fallos que interfieren en la política económica, las tarifas, las jubilaciones y los derechos laborales.",
+      "entidades_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Los supuestos chats de D'Alessandro y Robles son una muestra de cómo los grandes empresarios, antes recurrían a los cuarteles, ahora utilizan los tribunales para influir en la política económica.",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "Robles"
+      ]
+    },
+    {
+      "frase": "El \"lawfare\" es una decisión política, no un asunto judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se resuelve en las urnas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La proscripción de Cristina Fernández de Kirchner, posiblemente, responde a sus políticas económicas que permitieron a los trabajadores acceder al 50% del ingreso nacional en 2013, situación insostenible para los sectores concentrados de la economía, aun cuando sus ganancias aumentaron durante su gobierno.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "La filtración de chats revela la gravedad de la situación: la mano derecha del presidente de la Corte intercambiando información con un funcionario porteño sobre causas en las que la Ciudad está involucrada; chats con Silvia Majdalani (ex número dos de la AFI) coordinando una licitación para la destrucción de chalecos antibalas; chats con Marcelo Violante (a cargo del servicio de grúas), que aluden al pago de coimas; y conversaciones con el fiscal Juan Ignacio Bidone (preso, en su momento a cargo de la investigación del triple crimen de General Rodríguez, caso en el que se acusó a Aníbal Fernández).",
+      "entidades_detectadas": [
+        "Corte",
+        "AFI",
+        "Ciudad",
+        "grúas",
+        "General Rodríguez",
+        "Aníbal Fernández",
+        "Marcelo Violante",
+        "Silvia Majdalani",
+        "Juan Ignacio Bidone"
+      ]
+    },
+    {
+      "frase": "En resumen, los chats son una muestra de la influencia de la política económica en el poder judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No habrá un poder judicial democrático sin una economía democrática.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Rosatti",
+    "Ciudad",
+    "D'Alessandro",
+    "¿Qué",
+    "Silvio Robles",
+    "Santili",
+    "Silvia Majdalani",
+    "TN",
+    "Grupo Clarín",
+    "Carlos Rosenkrantz",
+    "Ricardo Lorenzetti",
+    "Horacio Rosatti",
+    "AFI",
+    "Cristina Fernández de Kirchner",
+    "Estado",
+    "Además",
+    "General Rodríguez",
+    "Consejo de la Magistratura",
+    "grúas",
+    "Esta Corte Suprema",
+    "Marcelo D'Alessandro",
+    "Juan Ignacio Bidone",
+    "ocurrió",
+    "Corte",
+    "ministro de Justicia y Seguridad",
+    "Corte Suprema",
+    "reiteró",
+    "Aníbal Fernández",
+    "Marcelo Violante",
+    "Horacio Rodríguez Larreta",
+    "Robles",
+    "Chile",
+    "Texto"
+  ]
+}

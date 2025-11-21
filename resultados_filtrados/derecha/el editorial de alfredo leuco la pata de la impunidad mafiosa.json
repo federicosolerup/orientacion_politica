@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hicieron una presentación en el Consejo de la Magistratura de la Nación porque el magistrado declaró nula la causa y sobreseyó a \"el Pata\" Medina y a otros ocho individuos más que estaban acusados de extorsión, asociación ilícita y lavado de dinero.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Estos malandras, cómplices del kirchnerismo, son la confirmación de que, sin una reforma laboral en serio y a fondo, Argentina no podrá salir del pozo en el que se encuentra.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Medina apoyó la candidatura de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Hay videos de actos que comparte con Daniel Scioli, fotos con Carlos Kunkel.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "\"El Pata\", una vez, amenazó con hacer estallar la destilería de YPF en Ensenada.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    }
+  ]
+}

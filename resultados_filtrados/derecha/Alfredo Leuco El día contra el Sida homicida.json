@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Aquella fue la primera sentencia en Argentina que reconoció una indemnización por daño moral y discriminación.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El juez dijo que el daño provocado por el aislamiento y la marginación repercute directamente en el estado inmunológico de la persona discriminada.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El tratamiento evita que se replique el VIH.",
+      "entidades_detectadas": [
+        "evita"
+      ]
+    },
+    {
+      "frase": "No cura la infección, pero evita que el virus se multiplique y que destruya las defensas del cuerpo.",
+      "entidades_detectadas": [
+        "evita"
+      ]
+    }
+  ]
+}

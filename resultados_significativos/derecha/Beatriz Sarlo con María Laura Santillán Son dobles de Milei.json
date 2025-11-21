@@ -1,0 +1,396 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 27,
+      "derecha": 49
+    },
+    "score_promedio": 0.552,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "No, no, si me importara lo que dicen las redes, tendría que haberme callado la boca ya.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero hay mucha gente que no conocés que te toma igual de punto de referencia, que te lee, que te sigue, que se queda reflexionando sobre lo que vos decís, aunque le resulte provocador en muchos casos.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo tengo a la gente también de punto de referencia, te diré que una de mis actividades principales es interrogar a la gente por la calle, es decir, paro a la gente y le digo: “¿Y qué pensás o qué piensas según la edad sobre tal cosa?”.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parecen dobles de Javier Milei, que me parece el pensamiento más aterrador que se pueda tener sobre la política y eso es lo que encuentro.",
+      "score": 0.486,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hartazgo y están todos ahí para llenarse y a cada uno le importa lo suyo, todo dicho en este tono.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo el de Milei no me sale, pero el de la gente con la cual hablo sí.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual le decís \"morales\" y te preguntan quién es Morales.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más bien, la política transcurre como una especie de telón de fondo muy ennegrecido de su vida cotidiana.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Menem decía: \"Bueno, conmigo vamos a poder tal cosa, tal fantasía, ser todos prósperos\".",
+      "score": 0.699,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfonsín decía: \"Yo voy a refundar este país\" e hizo mucho por hacerlo.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay ningún líder político importante como pudo ser Alfonsín o como pudo ser Cafiero, padre, o como pudo ser Menem en su momento.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo recuerdo la llegada de Menem, para hablar de un dirigente cuyos contenidos políticos critico fuertemente, pero la llegada de Menem a la cancha de River, bajando, todo vestido de blanco, de un helicóptero blanco en esa cancha, y vos decís: \"Este dirigente tiene una idea\", no solamente una idea que se la dio el publicitario, sino una idea de sí mismo que viene practicando desde antes.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hablé con un artista muy popular que se llama Flavio Mendoza y me dijo exactamente eso: “¿Por qué no me dice este gobierno qué quiere hacer, qué quiere hacer de este país?” y lo repitió varias veces como si fuera fundamental para él saber eso.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos los gobiernos pueden decir: \"Yo quiero que este país le vaya bien, yo quiero que a la gente le vaya bien y que a la gente le surja\".",
+      "score": 0.611,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cuestión es, yo no reprocharía todo al gobierno, el discurso de Fernández me parece un discurso muy pobre, pero yo no diría que todo es responsabilidad de ese discurso.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, cuando Alfonsín anunció su discurso mirando la 9 de Julio, está bien que, además, estaba llena de centenares de miles de personas, pero anunció ese discurso mirando esa avenida.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No reconoce, sino muy temporalmente en algunos casos, o sino cuando aparece una derecha tipo Milei que empieza a gritar \"la casta, la casta, la casta\".",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei interpela lo más bajo.",
+      "score": 0.771,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras que vos tenías políticos como Antonio Cafiero o como Alfonsín que interpelaban lo más alto del sentido común.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y entonces, en un barrio, alguien podía venir y decir: \"No, pero el presidente lo que dijo\" y explicar, cuando tomaba una ginebra en café o un mate a la mañana, explicar qué había dicho ese presidente.",
+      "score": 0.524,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, el riesgo del crecimiento de Milei es que gane la batalla en nombre del liberalismo.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El nombre libertario le gane la batalla a las ideologías liberales.",
+      "score": 0.529,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, yo imagino que Espert debe estar con todos los pelos parados frente a la competencia que en el campo liberal le ha surgido con Milei.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no te plantea ningún ideal, ningún modelo, ninguna configuración de la sociedad.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A nadie le importa eso.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, por otra parte, como una crisis de la enseñanza de la historia y una crisis de la percepción histórica, ¿por qué le va a importar?",
+      "score": 0.354,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digamos, para Milei es el segundo paso.",
+      "score": 0.375,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, está en el Parlamento, está en el Parlamento y el segundo paso es presidente de la República.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no, pero digo Milei porque es el más conocido, pero todos se perciben como posibles presidentes, mientras que las carreras políticas, no voy a hablar de la Argentina, las carreras políticas en todos los países son carreras que tienen una duración y que pasan por lo que los romanos llamaban el *cursus honorum*.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina ha borrado ese *cursus honorum*.",
+      "score": 0.565,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la Argentina ha decidido que empezamos de cero.",
+      "score": 0.577,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos conflictos internos no ayudan a que se entienda la política.",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una que es qué entretenida es la Argentina y otra es qué bajón.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué entretenida es la Argentina para nosotros, que nos ganamos la vida con este entretenimiento.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo mismo logró Alfonsín con el radicalismo.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está la reacción solidaria, que es una reacción, uno podría decir, automática si tenés una moral más o menos constituida.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo diría que la Argentina no es un país acostumbrado a las donaciones.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me impresionó que, al ser Corrientes una provincia con un gobernador opositor, no fueran las autoridades o fueran a otro lugar y no se sentaran con el gobernador a ver qué necesitaba, que pasaran las semanas y recién hace poquito decidió Alberto que va a ir a verlo, cuando está desde diciembre el incendio.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, y que uno dice: \"Bueno, a lo mejor no sirve de nada que Alberto vaya\".",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el presidente de la República que se traslada al escenario de ese desastre.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto aprendió en la escuela de Cristina.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La escuela de Cristina es una escuela fría.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno podría pensar en otros líderes que tuvieron un tipo de liderazgo más cálido.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El liderazgo de Cristina es frío.",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le ponen en capilla el relato también, ¿no?",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le llamamos relato porque el relato lo contás en la tele.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, pero el asesor de relato no le puede decir.",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Cristina no cree merecer eso, porque cree que se autoabastece con eso.",
+      "score": 0.523,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, pero esos ya son perdidos de la política.",
+      "score": 0.636,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos son perdidos de la política.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos siempre nombras a Alfonsín, sobre todo el coraje de Alfonsín de haber traído el tema de las juntas y los juicios a los comandantes y que hayan estado encarcelados en su gobierno.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, o un poco antes, quizás, cuando ya se ve que esa alternativa que la Argentina podía producir de un partido democrático y de izquierda ya se había perdido.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y ahora cómo describimos este momento que no tiene líderes, con una Argentina sin nada de plata, absolutamente nada, con un gobierno que procrastina porque deja todo para adelante, no sabemos por qué, no sabe hacerlo o por qué tiene discusiones internas, pero la verdad es que siempre está al mango.",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo veo muy mal, yo creo que la Argentina es un país en decadencia, que empezó el siglo XX entre un puñado de países que estaban entre los primeros, las naciones con mayores expectativas del mundo.",
+      "score": 0.443,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay razón para venir a invertir en la Argentina, salvo que vos le digas a alguien: “Mire, le doy todo el litio que pueda encontrar y se lo lleva por 7 pesos y con algunas retenciones impositivas”, salvo que hagas ofertas que serían contra la soberanía, para decirlo de algún modo, no es un país demasiado atractivo.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, un territorio que le podés meter soja a reventarlo y la tierra no dice: \"Che, no doy más, déjame un rato tranquila\".",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero bueno, le tenés miedo a casi nada, por lo menos en lo discursivo.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que ser segura de sí misma para decir que las Malvinas no son argentinas.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando mandaron a morir a las Malvinas a esos pobres soldados correntinos que los mandaron a invadir.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de condenar esa invasión, vos das por sentado que las Malvinas son británicas y eso duele.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo digo: \"No es que dé por sentado, la Argentina tiene una montaña de problemas\".",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina fue un país muy interesante cuando logró convertir en universitarios a un sector chico, pero importante, de los hijos de inmigrantes.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que salir a buscar a esos chicos, porque, además, se sumaron más en la pandemia, se fueron más.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y con esos padres, porque esos padres también han padecido la quiebra de la educación.",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No tienen esos ideales porque su experiencia no les permite tener esos ideales, sería casi un acto de imaginación tener esos ideales.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, ¿cómo exigir, decir: “Vos sos el chico, le pegás dos sopapos, pero vos me vas a terminar primero séptimo grado y después me vas a terminar tercer año y después me vas a terminar quinto”?",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Vos decís que es de la boca para afuera?",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si el FMI nos manda al tacho, las escuelas también se van a ir al tacho.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero bueno, la dirigencia no ha estado a la altura de la trascendencia futura del problema.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vos decís que, y repito esto porque te lo leí varias veces durante estos últimos años, que Alfonsín fue un presidente con coraje.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, Alberto Fernández no puede ser.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gesto, para volver a Alfonsín, el gesto de Alfonsín cuando un cura no sé qué dijo en el púlpito.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alfonsín se subió al púlpito.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También en un acto en la rural, las miradas que le tiraba a los jefes de la rural en un momento en que le estaba peleándose con la rural.",
+      "score": 0.686,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A diferencia de algunos países, como puede ser el caso de Chile o el caso de Uruguay, que son países que tienen otras costumbres públicas.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En general, aunque se hacen duras oposiciones entre un partido, un frente y otro, la Argentina es un país más bien tendiendo al irónico-paródico.",
+      "score": 0.606,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 76
+  },
+  "etiqueta_original": "neutral"
+}

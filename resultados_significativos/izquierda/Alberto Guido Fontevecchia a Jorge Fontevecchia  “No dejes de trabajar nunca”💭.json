@@ -1,0 +1,46 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 3,
+      "derecha": 3
+    },
+    "score_promedio": 0.445,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La soledad que un amigo no es para saber Alberto Fontevecchia, que fue el cofundador de esta editorial y que falleció el sábado.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo recuerdo perfectamente, porque está cumpliendo un cuarto de siglo en la fundación del primer diario Perfil.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me recuerdo yendo esa medianoche a verlo, cuando ya le habían hecho la intervención, llevándole el primer ejemplar del diario que recién había salido de la impresora, como él quería.",
+      "score": 0.164,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En estos últimos meses, ya limitado de salud y en que no podía venir a la editorial, en nuestras cenas semanales, su tema preferido y recurrente era que le contara cómo estaba Perfil.",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se quedaba conforme cuando yo le decía que estaba todo bien.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De cualquier manera, yo hablaba con él cuando lo visitaba todas las noches, pensando que igual podía escucharme, y el viernes pasado, antes de salir de la sala, yo le dije: \"Yo sé que vos vas a preferir dejarnos un sábado a la mañana para que, tras despedirte, el lunes estemos todos trabajando normalmente, pero no nos hagas eso\".",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 6
+  },
+  "etiqueta_original": "neutral"
+}

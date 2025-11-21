@@ -1,0 +1,396 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 52,
+      "derecha": 24
+    },
+    "score_promedio": 0.356,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos a Carlos de viaje, le mandamos un abrazo.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Existe una tentación, una confusión, en los periodistas, me incluyo, y en los analistas políticos, a veces, de confundir el rotundo triunfo de Javier Milei en el balotaje y asociarlo a aquel 54% de Cristina Fernández de Kirchner en 2011, aquel del \"vamos por todo\", ¿se acuerdan?",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei sumó 26 entre la primera vuelta y la segunda, y uno tiende a creer que este respaldo va a ser eterno, casi, y unívoco, incondicional.",
+      "score": 0.676,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es lo mismo que aquel 54% de Cristina en la primera vuelta, que también sorprendió, no quiere decir que no sea contundente; ahora lo vamos a analizar, pero a veces uno cae y la tendencia es asociarlos.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no se confunde y sabe, por lo que uno ve, y ahora lo vamos a analizar, que en realidad lo que cuenta es el resultado de la primera vuelta, pongámoslo: ¿qué es este 30%?",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojo, porque, bueno, acá está el kirchnerismo, el peronismo, acá está **Víctor Hugo Morales**, que dijo: \"No me sacan ni muerto si van por aroliñas\", Juntos por el Cambio; acá está **Emilio Monzó**, que dijo: \"Vamos a hacer una oposición razonable\", está **Pablo Beltrán** que está en contra de Milei, acá está **Juan Grabois**, que dijo: \"Quiero que le vaya mal\", dijo Grabois.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Juan Manuel Urtubey** es el voto más clásico peronista, pero claro, todos los presidentes están casi obligados a decir: \"Voy a gobernar para el 100% de los argentinos\", Milei también, y lo dice, y con razón.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O en definitiva, acá el anhelo y el objetivo de Milei es hablarle, pongamos otra vez lo del balotaje, al 55%.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, cuando uno le habla al 55% no le habla del mismo modo que al 30% que aplaudía la motosierra, el Milei enérgico; esto cambia, no solo el discurso, porque acá no cuenta el Milei enojado, sino también, probablemente, la conformación del gabinete.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo el discurso porque vamos a tener que prestarle mucha atención, y lo estamos esperando, al discurso de asunción, en el que seguramente el ya presidente va a hablar de la herencia, eso de lo que Macri no habló.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Leí algunas crónicas este fin de semana que decían que Macri le había dicho: \"No cometas el mismo error que cometí yo, habla de la herencia\", y seguramente se va a llevar gran parte del discurso del nuevo presidente.",
+      "score": 0.269,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quién es Javier Milei?",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Sergio Massa** estuvo una hora y media de debate hablándole a un Milei que no existía, que era el Milei a tiro de explosión emocional, no ocurrió, y es muy interesante ver el recorrido que hizo Milei en los últimos meses.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me cuentan que ese lunes Milei estaba deprimido, pero que rápidamente entendió el mensaje y cambia el discurso y baja 17 tonos, y cuando digo tonos lo digo en sentido propio y figurado, no sé si se dieron cuenta de que Milei tiene dos tonos de voz, uno cuando habla enérgico arriba y otro cuando está tranquilo, que parece San Francisco de Sales después de la conversión.",
+      "score": 0.238,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "San Francisco de Sales era un obispo francés iracundo que se convirtió y logró revertirlo, que cuando murió le encontraron las uñas marcadas en el escritorio.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me comentaba alguien que conoce mucho a Milei de la provincia de Buenos Aires, que este giro es deliberado, no es que a él lo sorprendió y que fue una reacción, no, no, no, Milei es así, a tal punto que este dirigente que lo conoce desde casi toda la vida, que lo siguió durante la carrera, tuvo varias conversaciones con él y antes de la primaria, en una de ellas, Milei le preguntó: \"¿Te parece?\" Esto es textual: \"¿Te parece que siga con el personaje o hasta acá llegamos?\" Este dirigente, especialista, dijo: \"¿Te fue bien con el personaje?",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero claro, vino el resultado de la primera vuelta y Milei entiende que tiene que cambiar y hablarle a otro público, a ese 55% que está ahí, casi 56; es decir, estamos ante un líder que sorprende por lo pragmático, pero la novedad del caso es que no es solo en el discurso, y acá me quiero detener, porque el pragmatismo acaba de corroborarse en la elección de parte del gabinete que lo va a acompañar.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sus colegas le decían: \"El Messi de las finanzas\".",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue secretario de finanzas de Macri, dirigió después el Banco Central, ministro de finanzas, perdón, ministro de finanzas, después dirigió el Banco Central y se va por estar en desacuerdo con **David Lipton**, que era el vice del Fondo Monetario, porque no se ponían de acuerdo con la cotización del tipo de cambio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo quería que el gobierno tuviera la prerrogativa de intervenir en la plaza, como hizo Massa.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, Caputo se fue por intervencionista.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue muy duro en su momento Milei con Luis Caputo.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decía esto cuando **Jaime Bayly** le preguntaba a Milei sobre Lula.",
+      "score": 0.395,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Te reunirías con Lula de jefe de Estado a jefe de Estado?",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer **Diana Mondino** llevó al canciller brasileño **Mauro Vieira** una carta de Milei a Lula invitándolo a la asunción.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy a la mañana lo entrevistó **Eduardo Feinmann** a Diana Mondino, futura canciller, y le preguntó, pregunta clave: \"¿Cuál va a ser el alineamiento geopolítico de la Argentina?\" Presten atención a una palabra que para los diplomáticos es decisiva, que dice Diana Mondino.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto le contestaba hoy a Feinmann: \"Nosotros vamos a estar ubicados en algo que es una palabra larga: multilateralismo, en donde no vamos a estar solamente con un grupo y en contra de otro grupo.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora le vamos a preguntar en un rato a **Andrés Borenstein**, ¿por qué pasa esto?",
+      "score": 0.499,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay, sin embargo, sorprendidos todos todavía, un Milei que desconocemos por completo, que es el Milei que va a asumir el 10 de diciembre.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le pido prestada la palabra a **Antonio Aracre** que lo proponía para el mercado de cambios.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un tono sosegado, modocén para hablar de lo que viene y de algo sensible que vamos también a hablar con Andrés Borenstein, que es el ajuste.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque ese es el desafío que viene a partir de ahora, y esto es lo descomunal en cuanto a objetivos que tiene Milei por delante: aplicar un ajuste en un país cuya inflación es casi el 140%, los salarios están 25% abajo que en los últimos cinco años.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem logró corregirlo un poco.",
+      "score": 0.327,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner se resetea toda la economía acá.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner, miren qué rápido lo pierde.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el desafío que tiene Milei con una desventaja estructural, que es que las urnas no lo ungieron como a Cristina en 2011 en la primera vuelta con el 54.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, Milei va a tener que encontrar y trabajar su propio instrumento, y acá lo quiero ver porque eso tiene que ver con la política y las alianzas.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, elemental: ¿quién va a presidir la Cámara de Diputados?",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primera pelea, que se sepa por lo menos, de Milei con Macri.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri quiere a **Cristian Ritondo**.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei quiere a **Florencio Randazzo**.",
+      "score": 0.739,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no es Ritondo, se va a resentir la relación, porque es el modo de abroquelar a toda nuestra tropa, incluso los radicales.\" ¿Qué ventaja le da Randazzo a Milei?",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, desde ya, la llegada al peronismo y una posibilidad que Macri tuvo con **Emilio Monzó**: dividir el bloque peronista.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otra persona de otro espacio que está muy interesada en que Randazzo no sea, que es Cristina Kirchner.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me contaban, y creo que **Santiago Giorgi** lo escribió el fin de semana, que **Cecilia Moreau** contó la semana pasada, entre compañeros de espacio, que había recibido sorpresivamente, después de mucho tiempo, una llamada de Cristina Kirchner: \"Por favor, no boten al flaco.\" El flaco es Randazzo.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Randazzo y Cristina tienen una vieja discusión, un viejo rencor, que viene de 2015, cuando Randazzo quería competir por la primaria para ser presidente, y Cristina quería que fueran Scioli y **Juan Manuel Urtubey**, y le pedía que fuera candidato a gobernador.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue una discusión de antología de la que todavía el PJ habla.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina estaba tan enojada que en un momento terminó llorando.",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella le decía: \"Guardate para 2019, cuatro años, después viene Máximo\", pero nunca aflojó, y quedaron enemistados por mucho tiempo, y esa enemistad se repitió y se corroboró dos años después, en 2017, cuando Randazzo también fue a la provincia.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina necesitaba ser senadora, ahí estaba el tema de los fueros.",
+      "score": 0.558,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, ahí tenemos una coincidencia seguramente entre Macri y Cristina.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lugar clave que por tradición siempre se le da a la fuerza que ganó.",
+      "score": 0.355,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Victoria Villarruel**, vicepresidenta electa, ya tuvo un anticipo de esto en la reunión del miércoles pasado que tuvo en el Senado con Cristina.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reunión quedó una hora y de la que se habló poquísimo, pero que fue gélida, muy distante, al punto que cuando Victoria Villarruel entraba, que entró acompañada por **Guillermo Montenegro**, diputado electo, adentro la esperaba Cristina y **María Luz Alonso**, secretaria administrativa del Senado, cuando entran la frenan y le dicen a alguien de seguridad: \"Por favor, tengan a bien dejar los teléfonos afuera\", nunca jamás en el Senado pasa esto, como si entraran a la NASA.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esto es lo que viene, seguramente, ojo que esto es una rareza también, porque en general, Pinedo fue el presidente del Senado durante Macri, Mario Losada con De La Rúa, después lo voltearon y vieron la caída de La Rúa, Otero con Alfonsín, en general la política tiene estas tradiciones.",
+      "score": 0.556,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuál es la ventaja de Milei respecto de aquel Macri?",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo quiero recordarles que ganó un candidato que enarbolaba una motosierra, que decía: \"No vamos a tener problema con el Fondo Monetario porque el ajuste que proponemos nosotros es mucho más fuerte\".",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La bomba que decía Macri, a mí no explotó la bomba, la bomba no fue visible.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, la discusión cuando gana Macri en 2015 era más institucional.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La crítica al kirchnerismo, a pesar de que ya estaban en una crisis severa, porque la Argentina no crece desde 2010, el reproche era institucional.",
+      "score": 0.644,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y entonces Macri se arropó debajo de ese traje republicano, \"somos los que venimos con las instituciones\", que le sirvió para ganar, desde ya.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que lo conocen dicen que en algún punto tampoco él se sentía un poco incómodo y el verdadero Macri es el que vemos ahora.",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Macri dice, cuenta él: \"Es la primera persona, por primera vez en mi vida, agarré, me subí a una topadora y tiré yo el palco\".",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, después, cuando estaba en una asamblea de socios, poquitas horas después, se encuentra con una socia, **Estelle Iribarren**, que le dice, porque tenían que votar qué pasaba con el palco, y le dice: \"Todo muy bien, Mauricio, el tema es que vos nos estás preguntando si queremos que siga un palco que ya derribaste\".",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice Macri textual: \"Entendí que en algún punto tenía razón y que había un límite que no podía pasar.\" Bueno, este es el Macri, bueno, después tuvo algún problema con la designación de los jueces de la corte, que tuvo que recular y mandarlo al Congreso.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero este es el Macri más crudo, el que estamos viendo y el que tiene que negociar y convivir con Milei, dentro de una crisis profundísima, solo comparable al 2002 o al 89.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este contexto, Milei tiene que proponer el ajuste y ver qué discurso encarna, sobre todo en los primeros meses.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuánto va a durar el, bueno, lo decía recién Eduardo Feinmann, el \"Massa\", cuánto dura?",
+      "score": 0.445,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ese es el desafío y no sabemos cuánto dura la paciencia de la población, porque un menemista podría decirle a Milei que recordara aquel eslogan de Menem: \"Estamos mal, pero vamos bien\".",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Leí algunos informes de Caputo que decían: \"Es probable que esté al final.\" La casta, ¿qué es la casta después del balotaje?",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei parece muy firme en eso, habrá que verlo andar, pero en un ratito vamos a hablar con Andrés Borenstein.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿O será como decía este fin de semana **Martín Rodríguez Yebra**?",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la mayoría de los gobiernos cuando hacen ese tipo de ajustes, y si no pregúntenle a Macri en su momento, pierden elecciones.",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a sumarnos ya a la mesa con Andrés Borenstein.",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No va a estar lamentablemente **Esteban Bullrich**.",
+      "score": 0.667,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Ana Pargade** nos va a hablar, o se va a preguntar, y vamos a pensar juntos, si lo de Milei es una derecha global o solamente un fenómeno argentino.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 76
+  },
+  "etiqueta_original": "neutral"
+}

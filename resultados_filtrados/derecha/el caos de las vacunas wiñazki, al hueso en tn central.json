@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Según información oficial de la Presidencia, Argentina ya recibió 24 millones de dosis de vacunas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Cuando firmó el primer contrato con Rusia, que se firmó a través de dos empresas un poco extrañas, aunque Rusia lo firmó así con todos los demás países, el contrato dice que la vacuna Sputnik V se trata de un tratamiento que consta de dos vacunas: una primera dosis y una segunda dosis.",
+      "entidades_detectadas": [
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Después, Carla Vizzotti avisó, si se acuerdan, que en un momento dijo: \"Vamos a tener otra estrategia, vamos a dar una primera dosis a más gente\", y después la segunda, pero el propio presidente de la República desautorizó esta idea hace ya unos meses.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El gobierno de Axel Kicillof, entiendo que sin querer, envió un mail a todas las personas que se habían inscripto para vacunarse, hablando del diferimiento de la segunda dosis, que no había que tener miedo a una segunda fecha que todavía no se aseguraba en el plan de vacunación a quienes se habían dado la primera dosis porque iba con un retraso, pero que se iban a garantizar.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "No pasó, y todavía no hay certidumbre ni transparencia sobre cuándo, cómo y cuánto nos van a costar estas vacunas que tienen que llegar a Argentina para que se cumpla lo que dice la ciencia: primera dosis, segunda dosis, inmunidad.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Argentina ya tiene una deuda de aproximadamente 42 mil millones de dólares, y ahora se le suman estos 12 mil millones, más dos desembolsos de 3 mil millones cada uno este año.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Antes del préstamo, había dudas sobre la capacidad de Argentina para pagar; ahora, no las hay.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Es probable que veamos una subida en la cotización de los bonos, porque los inversores tienen la garantía de que el Estado podrá pagar.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Esta ayuda es diferente a la que recibió [Nombre omitido], el desembolso inicial es muy fuerte: 12 mil millones de dólares este año, más posibles préstamos de bancos internacionales, e incluso un préstamo adicional directo del Tesoro de Estados Unidos.",
+      "entidades_detectadas": [
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Es una apuesta muy fuerte del gobierno de Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Andrés Gleerner te saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Creo que el FMI corrigió el plan del ministro [Nombre omitido].",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "La política cambiaria era ajustar el tipo de cambio al 1% mensual, pero el FMI pedía más flexibilización.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Javier Milei decía que el dólar estaría a 600 o 700 pesos si se liberaba el cepo, pero ahora la banda de flotación comienza en 1000 y llega a 1400 pesos.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "El FMI modificó el tiempo de la política económica, reconociendo un atraso cambiario que el gobierno negaba.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer, en la Cámara de Diputados, se suspendió la Comisión Bicameral de Vigilancia.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Creo que el Presidente fue ingenuo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El Presidente debe estar por encima de todo esto.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "—Insisto, ¿qué rol juegan Karina Milei y Santiago Caputo en ese entorno?",
+      "entidades_detectadas": [
+        "caputo",
+        "milei"
+      ]
+    },
+    {
+      "frase": "—Con Santiago Caputo tuve poca relación.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Con Karina Milei sí compartí muchísimas cosas.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

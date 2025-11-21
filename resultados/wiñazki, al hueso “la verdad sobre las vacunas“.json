@@ -1,0 +1,188 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Argentina enfrenta dificultades en su plan de vacunación, posiblemente debido a la opacidad que rodea el acuerdo con Rusia, un país con un sistema científico avanzado pero poco transparente.",
+      "entidades_detectadas": [
+        "Rusia",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El acuerdo para la Sputnik V, la vacuna rusa, incluye una cláusula de confidencialidad estricta, similar al secretismo que rodeó el lanzamiento del primer satélite artificial, también llamado Sputnik.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Según fuentes involucradas, Rusia ya envió a la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica) un informe, presuntamente llegado con la segunda tanda de dosis desde Rusia, que indica que la Sputnik V puede aplicarse a mayores de 60 años.",
+      "entidades_detectadas": [
+        "Rusia",
+        "Alimentos",
+        "ANMAT",
+        "Tecnología Médica",
+        "Según",
+        "Administración Nacional de Medicamentos"
+      ]
+    },
+    {
+      "frase": "Este informe, escrito en cirílico, no ha sido publicado en revistas científicas, aunque el Ministro Ginés González García anunció su pronta aprobación.",
+      "entidades_detectadas": [
+        "Ministro Ginés González García"
+      ]
+    },
+    {
+      "frase": "El Diputado Pablo Tonini (o similar nombre, si existe alguna inconsistencia en la transcripción del original)  predijo una aprobación en algunos días.",
+      "entidades_detectadas": [
+        "Diputado Pablo Tonini"
+      ]
+    },
+    {
+      "frase": "La principal apuesta del gobierno argentino reside en el contrato con AstraZeneca, cuya producción ya comenzó: la materia prima se envía a México para su elaboración y el regreso de 22 millones de dosis entre marzo y abril.",
+      "entidades_detectadas": [
+        "México",
+        "AstraZeneca"
+      ]
+    },
+    {
+      "frase": "Hasta entonces, Argentina dependerá exclusivamente de la Sputnik V.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, cualquier información sobre vacunas antes de abril debe tomarse con cautela.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Científicos cuestionan la falta de transparencia sobre la Sputnik V, incluyendo la reciente afirmación de que puede aplicarse a mayores de 60 años.",
+      "entidades_detectadas": [
+        "Científicos"
+      ]
+    },
+    {
+      "frase": "Si bien la vacuna rusa tiene un historial que le otorga cierta respetabilidad, la falta de datos científicos genera dudas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Argentina, se reportan reacciones leves en un bajo porcentaje de la población vacunada, dentro de lo esperado según las fases 1 y 2.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Reacciones severas son aún menos frecuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La dependencia de la Sputnik V se atribuye a la gestión de Cristina Fernández de Kirchner, quien, a través de Axel Kicillof, contactó al Presidente ruso, Vladimir Putin, y al canciller ruso (el nombre se transcribió de forma incorrecta en el texto original y debe ser revisado).",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Cristina Fernández de Kirchner",
+        "Vladimir Putin"
+      ]
+    },
+    {
+      "frase": "Esta decisión podría explicar la situación actual de la vacunación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recientemente, Rusia anunció una nueva vacuna con 100% de efectividad, una afirmación considerada falsa por la comunidad científica, ya que la efectividad del 100% es inexistente en medicina.",
+      "entidades_detectadas": [
+        "Rusia"
+      ]
+    },
+    {
+      "frase": "La confidencialidad del acuerdo con Rusia, similar a la de otros contratos farmacéuticos, impide la divulgación de información hasta la salida al mercado, debido a la competencia.",
+      "entidades_detectadas": [
+        "Rusia"
+      ]
+    },
+    {
+      "frase": "La coincidencia de accionistas, como BlackRock, entre Pfizer, AstraZeneca y Moderna, también es relevante.",
+      "entidades_detectadas": [
+        "Pfizer",
+        "Moderna",
+        "AstraZeneca"
+      ]
+    },
+    {
+      "frase": "Argentina descarta, por ahora, la vacuna de Pfizer debido a la imposibilidad logística de mantener la cadena de frío (-80 grados).",
+      "entidades_detectadas": [
+        "Pfizer",
+        "frío",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "A pesar de las pocas dosis recibidas (30.000 de primera y 30.000 de segunda dosis de Sputnik V), la vacunación no progresa como se esperaba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buenos Aires finalizó la vacunación de 24.300 personas con la primera dosis y comenzará con la segunda.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "En la provincia de Buenos Aires, existen denuncias extraoficiales de irregularidades en la distribución de vacunas.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "La ANMAT, a pesar de las controversias, aprobó la Sputnik V y su uso en mayores de 60 años es probable.",
+      "entidades_detectadas": [
+        "ANMAT"
+      ]
+    },
+    {
+      "frase": "La inmersión de Vladimir Putin en aguas heladas para conmemorar el bautismo de Cristo es una anécdota relevante para el contexto político.",
+      "entidades_detectadas": [
+        "Vladimir Putin",
+        "Cristo"
+      ]
+    },
+    {
+      "frase": "Un acuerdo entre Rusia y Argentina, ratificado en Rusia pero no en el Congreso argentino, permite a Rusia instalar una base de captación de datos en Argentina, similar a la de China.",
+      "entidades_detectadas": [
+        "Rusia",
+        "China",
+        "Argentina",
+        "Congreso argentino"
+      ]
+    },
+    {
+      "frase": "Esta situación podría explicar la dependencia de Argentina de la vacuna rusa.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Pfizer",
+    "Rusia",
+    "Pablo Tonini",
+    "Moderna",
+    "Según",
+    "Administración Nacional de Medicamentos",
+    "Reacciones",
+    "Cristina Fernández de Kirchner",
+    "China",
+    "Tecnología Médica",
+    "AstraZeneca",
+    "México",
+    "Argentina",
+    "Alimentos",
+    "Ministro Ginés González García",
+    "ANMAT",
+    "Vladimir Putin",
+    "provincia de Buenos Aires",
+    "El Diputado",
+    "Axel Kicillof",
+    "Buenos Aires",
+    "Congreso argentino",
+    "frío",
+    "Cristo",
+    "Científicos",
+    "Recientemente"
+  ]
+}

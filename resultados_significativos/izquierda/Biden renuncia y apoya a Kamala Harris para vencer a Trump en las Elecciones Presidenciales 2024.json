@@ -1,0 +1,111 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 7
+    },
+    "score_promedio": 0.401,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente estadounidense, **Joe Biden**, se bajó de la candidatura para su reelección.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero vamos a analizar los hechos que hicieron que **Biden** se bajara de la candidatura y luego trataremos de entender quién es **Kamala Harris** y qué significa una eventual presidencia de la actual candidata demócrata.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los fragmentos que vamos a pasar no están doblados al español, así que le vamos a pedir a nuestro locutor, **Elian López-Jauzero**, que los vaya traduciendo en vivo.",
+      "score": 0.556,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "contratar con todo lo que tenemos que hacer con, finalmente, vencimos a Medicare.\"\n\nVamos al siguiente error, bastante embarazoso, por cierto, porque llamó \"Putin\" al presidente de Ucrania.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Presidente Putin, él puede vencer al presidente Putin, su presidente Zelensky...",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero ser el presidente de todos los Estados Unidos, no la mitad de Estados Unidos, porque no hay una victoria si se gana para solo la mitad de Estados Unidos.",
+      "score": 0.396,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miren ustedes lo que sucedió inmediatamente, empezó la invasión.\"\n\nBueno, allí mostraba **Donald Trump** un *chart*, un gráfico en el que se marcaba una drástica caída de la inmigración en los cuatro años de la presidencia que él tuvo a cargo y luego un crecimiento muy grande en los cuatro años que lleva, o está por cumplir, **Biden** al frente de la presidencia.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nacida en el seno de una familia de inmigrantes, **Harris** se formó como abogada y desarrolló una exitosa carrera en su estado natal, California.",
+      "score": 0.391,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su salto a Washington D.C.",
+      "score": 0.571,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el Congreso defendió leyes para luchar contra el hambre, ofrecer ayudas al alquiler y mejorar la atención sanitaria materna, hasta que, a inicios de 2019, anunció su intención de pelear por la presidencia.",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que en 2020, la nuestra es una lucha por la identidad de Estados Unidos, es una lucha por nuestro sistema de justicia, una lucha por el estado de derecho.\"\n\nSin embargo, las encuestas poco alentadoras la sacaron de la carrera y **Harris** decidió apoyar la candidatura de **Joe Biden**, quien en agosto de 2020 la anunció como su fórmula presidencial.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un presidente **Biden** que se está yendo de la tapa hacia el costado del margen de la hoja derecha y una **Kamala Harris** que está entrando desde el margen izquierdo.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Allí alguien recordó un capítulo de una serie llamada \"Veep\" en que el personaje principal, una vicepresidenta de los Estados Unidos, se entera de que el presidente dejaría su lugar y ella ocuparía el centro de la escena.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a compartir el comunicado de Bill y Hillary Clinton, y le vamos a pedir a nuestro locutor que, por favor, lo traduzca.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, dijeron que nada les preocupa más que la amenaza que supone un segundo mandato de Trump, quien ha prometido ser un dictador desde el primer día, añadieron.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el título que nosotros colocamos hoy a la apertura recuerda un renunciamiento histórico que fue en la Argentina en 1951, cuando Eva Perón renunció a compartir la candidatura presidencial con Juan Domingo Perón.",
+      "score": 0.243,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, volviendo a Estados Unidos, se está viviendo una de las campañas electorales más sorpresivas de los últimos años y, si bien la imagen de **Trump** se consolidó y él se cree que tiene más posibilidades de ser el futuro presidente de los Estados Unidos, aún le falta ver cómo reacciona la sociedad a la candidatura de **Kamala Harris**.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo indica que cada vez está mejor posicionado para lograr su sueño y volver a ser presidente de los Estados Unidos.",
+      "score": 0.397,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La guerra con Ucrania, el desarrollo con China como potencia, la economía mundial en caída, la evolución de la ultraderecha mundial...",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 19
+  },
+  "etiqueta_original": "neutral"
+}

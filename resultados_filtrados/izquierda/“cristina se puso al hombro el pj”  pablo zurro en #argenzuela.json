@@ -1,0 +1,43 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El reciente anuncio de una alianza formal entre Mauricio Macri y Javier Milei merece un análisis profundo.",
+      "entidades_detectadas": [
+        "javier",
+        "macri",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Zurro, al ser consultado sobre la percepción de esta alianza entre los kirchneristas, expresó: \"Para nosotros, Macri y Milei representan todo lo contrario a nuestros valores.",
+      "entidades_detectadas": [
+        "macri",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Sin embargo, Cristina Fernández de Kirchner ha sido un pilar fundamental del peronismo, enfrentándose a las corporaciones y defendiendo al pueblo.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "No soy el 'sheriff' del kirchnerismo, pero creo que es posible una gran alianza, incluso con sectores del radicalismo que recuerden los valores de Raúl Alfonsín y entiendan que no somos sus enemigos.\"\n\nFinalmente, Zurro se refirió a la necesidad de un liderazgo claro dentro del peronismo: \"Hemos tenido líderes como Perón, Menem (cuyo gobierno fue desastroso) y el liderazgo excepcional de Néstor y Cristina Kirchner.",
+      "entidades_detectadas": [
+        "alfonsín",
+        "menem",
+        "néstor",
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Cristina sigue siendo una figura clave, a pesar de los ataques que ha sufrido.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

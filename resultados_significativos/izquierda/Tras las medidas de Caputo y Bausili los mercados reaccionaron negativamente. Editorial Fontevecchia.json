@@ -1,0 +1,326 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 55,
+      "derecha": 7
+    },
+    "score_promedio": 0.164,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Después de la aprobación de la ley de bases, a pesar de los anuncios que dio a última hora el gobierno y el equipo económico, los mercados reaccionaron a la inversa de lo deseado por el Gobierno Nacional y por el presidente Javier Milei.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, luego de la última conferencia de prensa el viernes pasado de Luis Caputo y Santiago Bausili, presidente del Banco Central, la brecha entre el dólar oficial y el paralelo superó el 50% y el riesgo país pasó los 1500 puntos.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En varios momentos de la campaña, Javier Milei dijo que \"no se puede esperar algo distinto con los mismos de siempre\", refiriéndose continuamente al tema de \"la casta\".",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Probablemente ese Javier de la campaña vería a este Javier Milei presidente que gobierna con las mismas personas, por ejemplo, que él mismo dijo que habían fracasado en el caso específico de Caputo, a quien él mismo acusó de haber generado, textualmente, \"una fuga de divisas fenomenal\", o a Patricia Bullrich, que estuvo también en los fallidos gobiernos de De la Rúa y de Mauricio Macri.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no es solo una cuestión de personalidades: las medidas de su \"fase dos\", que plantean que el Banco Central deja de financiar los bonos y será el Tesoro quien asuma la deuda, son las mismas que siguieron luego de la renuncia de Caputo tras la corrida cambiaria más fuerte del macrismo en el año 2018, cuando empezaba a tambalear la gestión económica de Macri.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se pretende \"hacer lo mismo con el mismo\", en este caso Caputo, y esperar un resultado distinto, que sería, desde la perspectiva de aquel Milei que repetía la frase de Einstein.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, Milei profundiza el conflicto con el principal socio comercial argentino, Brasil, en un cruce con el presidente Lula da Silva, a quien le dijo que el mandatario argentino tiene que pedirle disculpas por haberlo tratado de \"comunista\" y otros improperios.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otro lado, la Casa Rosada dijo que cree falso el intento de golpe de Estado en Bolivia, por lo que el presidente Luis Arce llamó a consultas a su embajadora en Buenos Aires.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Bolivia comercializamos gas; Brasil es fundamental para cerrar las cuentas comerciales.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace poco, el gobierno \"comunista\" (entre comillas) de China, con el que Milei dijo que no comercializaría, alejó la posibilidad de default al renovar el swap, a pesar de los errores no forzados diplomáticos de este gobierno que cometió con el país asiático.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos, primero, lo que dijo el presidente Lula acerca de la necesidad de un período de disculpas por parte de Milei.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Brasil es muy importante para Argentina.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es un presidente de la República que va a crear una cesárea entre Brasil y Argentina.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, si el presidente de la República de Argentina gobierna Argentina, ya está bien, no tiene que gobernar el mundo.\"* Además, el presidente Milei dijo que no iba a ir a la reunión del Mercosur para no cruzarse con Lula y redobló la apuesta, anunciando que va a ir a Brasil a reunirse con Bolsonaro.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este momento tan crítico, aparece una dura crítica a la gestión del presidente de un aliado de la Fundación Pensar, el CELSAN del PRO, que produjo un informe que lleva la firma de Mauricio Macri, en el que se afirma que el gobierno de Milei tuvo el peor arranque legislativo de la historia.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este informe llena de dudas el futuro del gobierno de Milei, viniendo de un aliado, y lo debilita frente a los mercados y también al Fondo Monetario Internacional.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es la intención de Macri en este informe?",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Tendrá que ver con aquellas reuniones que se rumoreaban entre Macri y la vicepresidenta Victoria Villarruel?",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Preguntas que, por lo pronto, no tienen respuesta, pero es seguro que no fue solo el ansia de conocimiento lo que motivó al PRO a presentar el informe, evaluando el desempeño del gobierno, que supone que apoyan y que, por momentos, le brindaron algunos de sus cuadros.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de diferenciarse del gobierno no es nueva para el expresidente, y lógicamente resulta necesaria y estratégica para que el PRO mantenga su identidad, que ve una suerte de conflicto de intereses entre su partido y el oficialismo actual, mientras Karina Milei lleva adelante la apertura del partido, de La Libertad Avanza, en todos los lugares donde no estaba funcionando, entre ellos, el conurbano bonaerense, y se plantea una competencia en 2025 con el PRO.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compartamos lo que decía hace unos pocos meses sobre el derrotero de este gobierno Mauricio Macri, el 29 de octubre de 2023: *\"Tenemos que sanar este conflicto sobre quién representa el cambio.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jóvenes mayoritariamente eligieron a Javier Milei.",
+      "score": 0.274,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo tenemos que sanar, tenemos que entender que bueno que los jóvenes tuvieron más convicción, más ímpetu, y tenemos que reunirnos todos alrededor del cambio, sabiendo que tenemos nuestras diferencias y que las vamos a manifestar en el Congreso.\"* Como le dice Javier, una cantidad de cosas que vos decís, las veo como extremas y no estoy de acuerdo, y no las vamos a aceptar.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La buena noticia, un anticipo, es que en esa reunión de reconciliación entre Patricia Bullrich y él, Patricia le llevó una hoja que es la misma que presentó en la conferencia de prensa el día siguiente, y él la leyó educadamente, atentamente, se tomó su minuto y dijo: \"Yo me siento cómodo con estas cosas que ustedes dicen, no siento que no vayamos a poder convivir.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son cosas que se pueden reconsiderar.\" Así que yo veo un buen espíritu frente a la Argentina que está muy lastimada, muy dañada.",
+      "score": 0.252,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pues, hasta allí es absolutamente coherente por parte de Macri, que ahí decía que había cuestiones extremas en las que no compartía, porque había parte de las ideas que planteaba Milei que eran coincidentes con las ideas de cambio del programa.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a escuchar a otro aliado de Milei en otros tiempos, que fue su mentor y quien escribió gran parte de sus libros junto con él, que es Diego Giacomini, con un audio que nos envió a la producción, casualmente por este \"lunes negro\".",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos a Diego Giacomini: *\"La conferencia de prensa del ministro Caputo y del presidente del Banco Central, Bausili, fue una conferencia muy nociva.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque fue una conferencia que le dio, en forma completa, la espalda a la realidad del mercado, que al gobierno le está diciendo que sin cambios profundos de por medio, ya no le están creyendo y que cada vez le creerán menos.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay cuatro indicadores en el último mes: no se distribuyeron casi exportaciones, no se acumularon reservas, los tipos de cambio subieron nominalmente hasta valores récord, el riesgo país en los últimos dos meses tiene tendencia alcista y, como si fuera poco, en los últimos dos meses el Merval, medido en dólar contado con liqui, cayó en mayo y todavía cayó más en junio.\"*\n\nVamos a compartir también otro audio en el que Diego Giacomini señala las implicancias que tiene esta medida para la relación con el Fondo Monetario Internacional.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchémoslo: *\"Y en este contexto, el Poder Ejecutivo Nacional le mandó al dúo de burócratas a hacer una conferencia en la cual, en forma solapada, ante ese escenario que ameritaba cambios profundos, se dijo que se seguiría haciendo lo que ya hace varias semanas el presidente dijo que iba a hacer.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, a su vez, tampoco vamos a abrir el cepo como ustedes quieren.\"*\n\nOtro periodista que advirtió la similitud que había entre lo que se estaba anunciando ahora Caputo y lo que había sucedido en el macrismo fue Alejandro Berkovich, y me recordó la conferencia de prensa del 26 de septiembre de 2018 de Guido Sandleris presentando algo parecido.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Puede tomar algunos meses para que comencemos a ver cómo la inflación disminuye y el actual contexto de incertidumbre se resuelve.\"*\n\nBueno, luego Guido Sandleris salió a contestar y produjo un interesante intercambio por X.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice que con el ajuste fiscal y la emisión cero la inflación venía bajando y el dólar CINSEP estuvo relativamente calmo desde el fin de septiembre de 2018 hasta el espacio de 2019, cuando la sorpresa del triunfo de Alberto y Cristina generó pánico en los mercados.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nada menos que el día de los inocentes, en que Marcos Peña, Nicolás Dujovne, Caputo y Sturzenegger anunciaban medidas similares a las dispuestas el viernes nuevamente por Caputo y Santiago Bausili.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Centralmente, el dato más importante para nosotros es que la economía argentina volvió a crecer, tal como hablábamos hace un año y que muchos tenían genuinas dudas.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no solo que la economía argentina está creciendo, sino que está creciendo de forma sustentable, de forma sana, de forma que nos permite ratificar, como después vamos a ver en las presentaciones los que me acompañan hoy, que vamos a tener otro año de crecimiento el año próximo y que podemos augurar un sendero de crecimiento para los próximos años.\"*\n\nBueno, allí, al lado del jefe de gabinete Marcos Peña estaba el ministro de Economía Nicolás Dujovne, estaba el presidente del Banco Central, Sturzenegger, y estaba el ministro de Finanzas, Luis Caputo.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos a Sturzenegger: *\"Hoy Argentina tiene un tipo de cambio más competitivo previo a la salida del cepo.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy Argentina tiene un tipo de cambio que está un 23% más competitivo, podríamos decirlo, previo a la salida del cepo.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esos números se han mantenido relativamente estables, con esas fluctuaciones.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que los argentinos se den cuenta de que viven en Argentina, compran en Argentina, cobran en Argentina y que tendrían que pensar en pesos.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos al fragmento de aquella conferencia de prensa del propio Luis Caputo diciendo: \"vamos a profundizar la reducción del financiamiento del Banco Central\".",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Allí, la conferencia de prensa de Luis \"Toto\" Caputo diciendo: \"La segunda etapa de este plan de estabilización consiste en cerrar la segunda canilla de la emisión\".",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ya en lo que nosotros consideramos lo que sería la segunda etapa de este plan de estabilización, que consiste esencialmente en ir a emisión, no voy a ser serio, después el presidente del Banco Central lo va a explicar bien, a cerrar la segunda canilla de emisión.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una es el déficit fiscal, la segunda son los intereses que el Banco Central paga por esos famosos pasivos remunerados, levax, lelix, pases.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el tercero es cuando el Banco Central compra dólares.\"*\n\nBueno, aquel Luis \"Toto\" Caputo habló de terminar con el financiamiento del Banco Central y este Caputo habla de reducir los niveles de emisión y que el Banco Central no financie más los pasivos remunerados.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerden que cuando hablamos de pasivos remunerados hablamos de los bonos que emite el Estado argentino y que luego se pagaron hasta el 75% de interés mensual.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bonos que generaron una deuda fenomenal y que el propio Caputo ayudó a montar una maquinaria, esta maquinaria de endeudamiento, algo que el propio Milei había denunciado más de una vez en televisión.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reducción del déficit de sal pudo concretarse, la deuda de bonos en bonos creció, luego se tuvo que recurrir al Fondo Monetario para financiar la deuda con más deuda y también hay quienes dicen que aquel 28 de diciembre fue el principal punto de inflexión en el fin de la gestión económica, una burma que terminara de explotar con la corrida cambiaria de agosto y septiembre del año 2018.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora a compartir la visión de Espert y que podría ser la misma visión de Milei.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchémoslo: *\"A la reforma económica que el liberalismo liderado por el presidente Milei está haciendo hay que verlo como infinidad de ladrillitos construyendo un camino, un edificio completamente diferente de la Argentina.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El quillerismo es el que hemos visto en los últimos 100 años, de una Argentina que terminó por haber abrazado al populismo en una gigantesca y bella miseria.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incluso, el quillerismo no ha sido el único culpable de que Argentina haya sido una bella miseria, porque lo es ya.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no fue la frutilla del postre, fue la etapa final de esa Argentina miserable.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y salir de la Argentina miserable, de transformar a este país en un país razonable, desde ser una bella miseria, insisto con esto, bueno, es un proceso largo, con mucho esfuerzo, con infinidad de reformas.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces tenés un ladrillo sobre el ladrillo, sobre el ladrillo, así hay que ver a la ley de bases y al paquete fiscal que acaba de ser estacionado por el Congreso.\"*\n\nLas críticas, vos me nombras como dos familias de críticas: una, Cristina Kirchner, y el resto.",
+      "score": 0.251,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, como decía el informe del CENSAN del PRO que lleva la firma de Mauricio Macri, habrá que ver cuánto tiempo la sociedad tiene la capacidad de espera aquí.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Espert nos decía que esto va a llevar mucho, mucho tiempo salir de la bella miseria que nos dejó el quillerismo.",
+      "score": 0.798,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para la psicología, el déjà vu, o lo que se llama paramnesia, es una reacción psicológica que produce que el cerebro le transmita a la persona que ha estado en el lugar en el que se encuentra, sin quizás haber estado nunca, o que conoce a alguien, aunque jamás lo haya visto antes, o inclusive que se sienta algo que no se sintió en otra oportunidad.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Teniendo en cuenta, como dice Giacomini, que el gobierno está haciendo todo lo que el FMI desaconsejó, y partiendo de lo que venimos diciendo de que estas medidas ya fracasaron en el pasado, podemos preguntarles si este será el principio del fin de Caputo, como fue el principio del fin aquella conferencia de prensa del 28 de diciembre del año 2017, o una experiencia libertaria que termina repitiendo vicios del pasado por parte de Milei.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Hacer lo mismo de siempre, con los mismos de siempre\", una enseñanza que nos dio el propio Javier Milei en otros tiempos.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Carlos Menem decía: \"Estamos mal, pero vamos bien\".",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 62
+  },
+  "etiqueta_original": "neutral"
+}

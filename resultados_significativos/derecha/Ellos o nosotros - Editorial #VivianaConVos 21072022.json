@@ -1,0 +1,471 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 8,
+      "derecha": 83
+    },
+    "score_promedio": 0.802,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está toda rota en mil pedazos.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está agonizando y estos tipos son soberbios sin talento.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿De verdad vos le dejarías cuatro años de tu vida a esta gente que lo está rompiendo todo?",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alfonsín decía: \"Soy el servidor de todos.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El más humilde de los argentinos, decía Alfonsín.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que somos hijos de la democracia.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La decadencia en la Argentina está clarísima y te lo demuestra, entre otros, este gobierno.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfonsín decía, mientras la gente gritaba \"el pueblo unido jamás será vencido\".",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que era el más humilde de los argentinos.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este padre y este hijo muestran lo que es la Argentina hoy.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es la Argentina hoy.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos somos nosotros.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que necesita la Argentina, entre otras cosas, es poder político, para que se puedan hacer las reformas que este país, que esta patria necesita.",
+      "score": 0.325,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente ahí está sacándose una selfie mientras el dólar se va a la mierda.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El dólar va hacia la luna y el presidente se hace una selfie.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que el dólar en Argentina no tiene techo.",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy lo veían en Paraguay y el presidente no tiene ni idea dónde está parado.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, el presidente se emocionó, lloró.",
+      "score": 0.199,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también dijo una frase muy ridícula: \"Mi mejor anhelo\", dijo **Alberto Fernández**, \"no es ser el mejor presidente del mundo, es ser el presidente del mejor país del mundo\".",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es ser el mejor presidente de la Argentina, es ser el presidente del mejor país del mundo.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería que hubiera sido el presidente argentino junior, no de la Argentina, se equivocó.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le queda enorme.",
+      "score": 0.602,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Liderar es romper con Cristina y no lo voy a hacer\".",
+      "score": 0.383,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente **Alberto Fernández** prefiere no gobernar que romper con Cristina.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente es mejor que se rompa el Frente de Todos contra todos, sino que se rompa ese país, ellos o nosotros.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este presidente está siempre equivocando las prioridades.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todavía **Alberto Fernández** no se dio cuenta de que es el presidente de todos los argentinos, ellos o nosotros.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted, presidente, no es solo el presidente de la gente que lo votó, es el presidente de todos, de los 47 millones de argentinos.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya se rindió el presidente **Alberto Fernández**.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos somos nosotros.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En medio de este despilote, mientras el dólar hoy no paraba de subir, 337, el presidente se va a romper.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En medio de esto, mientras el dólar hoy no paraba de subir, 337, el presidente se cerrajó Uruguay.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** viajó a Asunción para defender a Paraguay, para defender al Mercosur y condenar la negociación de Uruguay con China para cerrar un tratado de libre comercio.",
+      "score": 0.623,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos somos nosotros.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, hablaba a **Naroski**, pero no es el presidente de los argentinos.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto el presidente lo dice en la cumbre del Mercosur.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy también renunció el primer ministro de Italia y no pasó nada, va a venir otro, elecciones, crisis en Italia.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le pediría humildemente a la oposición que tengan menos miedo y más sentido común, los necesitamos, ellos o nosotros, va, hagan algo.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La líder de la oposición es **Cristina Fernández de Kirchner**, la vicepresidenta, es increíble.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ante el agravamiento de la crisis en el kirchnerismo, proponen involucrar a la oposición en un acuerdo, mientras el presidente relativiza el impacto de la suba del dólar y se mantiene la desconfianza en la gestión nacional.",
+      "score": 0.761,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, seguramente quieren ir empezando a limar o a quemar a los futuros candidatos a presidente de la oposición.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan que **Alberto** le decía, \"mi querido amigo Horacio\"?",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, en plena cuarentena se entera por televisión que le sacan la coparticipación.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Te recuerdo la oposición.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escúchalo a **Grabois** extorsionando y amenazando al presidente **Alberto Fernández**.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso lo decía clarito **Hugo Moyano**.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es como que el mismo gobierno que anticipa que va a haber saqueos y que, por ende, va a haber violencia en la Argentina, lo que está pasando es que se le ocurre a ellos, a nosotros.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo está amenazando por televisión al presidente **Alberto Fernández** y al gobierno.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Queda claro, además, que a **Grabois** solo le importa la plata.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos somos nosotros.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué pensará de esta amenaza de **Grabois** al gobierno **Cristina Fernández de Kirchner** y **Máximo Kirchner**?",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Iglesia Argentina y el Papa Francisco deberían realizar una invocación por la paz y unidad del país.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué el Papa Francisco no quiere acercarse a nosotros, a los argentinos?",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una de siempre apeló a **Macri**, **Gerardo Romano** dice que **Macri** no tendría que gobernar porque es rico y **Andahazi** le dice que **Cristina** también lo es.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice: \"Bueno, se tiene que retirar Cristina y se tiene que retirar Macri y por ahí tiene un país distinto\".",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri no tendría que haber empezado nunca.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los ricos no deberían, no pasan por el ojo como dice la Biblia, no pasan.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es rica, muy rica.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Cristina es rica, es un tema de ella.",
+      "score": 0.52,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que la militancia, que es medicista, habla como si Cristina no fuera rica, como si no fuera empresaria, que la verdad es que no sé si es empresaria o ese hotel era una mascarada.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando yo te escucho hablar de Cristina y me hablan de los ricos, no sé dónde la estás poniendo a Cristina.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre, digamos, el peronismo de Chile como la oligarquía.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oligarquía en la Argentina es esa.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es una diapositora.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no es una comparación porque Macri también es hiper millonario y es guita que ya viene de generaciones de lavado, de fuga, de negocios con el Estado.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es increíble porque escuchás a los K y es todo puro relato.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ah, pero Cristina es rica.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé si Cristina no es más rica que Mauricio Macri.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos somos nosotros.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy bien, Andahazi, igual en 30 segundos le cagó todo el argumento.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que escucho eso ahora a Cristina hablando de Dios.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice que está segura que Dios le va a abrir las puertas del paraíso.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mírala, esos son nosotros.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina usó los pobres, le robó.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llena la boca hablando de los pobres, pero los pobres son cada vez más pobres.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina le has hecho mucho daño a esta Argentina empobrecida, arruinada.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que sale a defenderla a Cristina pegándole a Macri, a su amiga, la doctora Graciana **Peñafort**.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que es cierto es que vos y tus cumpas laburan para la impunidad de **Cristina Fernández de Kirchner**.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una columnista pide que Joe Biden le niegue a Alberto Fernández ayuda económica por los vínculos con Irán.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante la cuarentena hablaba con el presidente que le decía, se terminó la Argentina y los vivos le decían, sí, sí, quédate en casa, sí, nos vamos a quedar en casa.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pregunto a Batakis si los dólares de Verónica Lozano en la Polinesia colisionan con la generación de empleo.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se llama las parejas, estamos a 80 kilómetros de Rosario aproximadamente y todo el pueblo de las parejas se está buscando en vivo, en directo, a través de la historia de la tierra.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dentro del ropero, en un fondo que era escondido.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un fondo falso estaba escondida la isla.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué le van a tirar la actividad?",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una foto de esta Argentina berreta, desesperada, desolada.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina va a estar así, ¿no?",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y aparte le pregunto a **Lufrano**, que se ha dejado de recuperar.",
+      "score": 0.555,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una argentina tuvo un ACV en Bolivia y le cobraron hasta las sábanas.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a mostrarte cómo lo rechazaban en un concurso muy importante de talentos, lo que le decían y, por tener confianza, el vídeo hoy es una estrella del mundo.",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina atribuyen a la RAM el ataque a un centro turístico del Bolsón.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 91
+  },
+  "etiqueta_original": "neutral"
+}

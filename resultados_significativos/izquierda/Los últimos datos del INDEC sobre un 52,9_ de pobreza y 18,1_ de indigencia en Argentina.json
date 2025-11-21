@@ -1,0 +1,276 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 41,
+      "derecha": 11
+    },
+    "score_promedio": 0.243,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los datos del 52,9% de pobreza y 18,1% de indigencia se comunicaron desde el INDEC para el primer semestre de 2024 en Argentina.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cómo salir de ella y cuáles son las responsabilidades que a cada uno le caben.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 1974 esos datos indicaban que el 4% de los hogares del conurbano estaban por debajo de la línea de la pobreza.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de cuatro años de dictadura militar, ya se empezaba a sentir el aumento de la miseria.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según un estudio presentado en el Congreso de Estudios del Trabajo, escrito por Manuel *Espejo* y *Damián Setrati* de la Universidad General Sarmiento.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este aumento de pobreza se debió a la destrucción del tejido industrial que significó la política de reprimarización de la economía argentina por el gobierno militar.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes nos siguen desde hace tiempo habrán escuchado que nosotros tenemos otra tesis, que no hace solamente responsable al gobierno de la dictadura militar, que tiene, obviamente, su enorme cuota de responsabilidad, sino a un fenómeno convergente que lleva más de 50 años, que es el ascenso de China a la categoría de productor industrial mundial barato, logrando que 400 millones de chinos avanzaran del campo a la ciudad.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esos mismos trabajos que generaron los 400 millones de chinos quitaron trabajo en todas partes del mundo, trabajo industrial fundamentalmente.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es casual que la coincidencia entre que China hace huelga al capitalismo, después de la visita de Kissinger y de Nixon en los años 70 a China, con que al mismo tiempo la Argentina comienza una decadencia que ninguno de los gobiernos puede resolver, ni la dictadura, ni el gobierno de Alfonsín, ni el gobierno luego de Menem, ni el gobierno, en parte, el kissingerismo al final, porque también Cristina Kirchner tuvo que aumentar la pobreza de lo que había mejorado en el gobierno de su marido y el primer gobierno de ella.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri lo mismo.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández lo mismo.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llevaban dos años del gobierno de Alfonsín y hay un célebre discurso.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego de ganar las elecciones exultante.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, claramente el diagnóstico de Alfonsín era correcto.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lamentablemente él no logró solucionarlo.",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de dos meses de dejar el gobierno, en 1989, la pobreza se fue a la mitad y luego de dejar el gobierno en 1989, la pobreza volvió a subir al 20%.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por un lado, el tristemente célebre discurso del ministro de Economía de la dictadura, Alfredo *Martínez de Hoz*, en el que a partir de hoy rompemos la tolerancia a un estado prebendario, asfixiante y arbitrario, que trabó la vida productiva nacional con un conjunto de innecesarias regulaciones.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece ser un discurso que textualmente repite hoy Javier Milei.",
+      "score": 0.755,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar ahora a Menem antes de asumir, refiriéndose al tema de la pobreza.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso de Menem presidente electo en 1989: textualmente vengo a convocarlo para librar la batalla contra los que buscan que la miseria, la pobreza y el hambre continúen.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerden que Macri decía que los juzguen por la reducción de la pobreza.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el control de la hiperinflación, de hecho, Menem tuvo una hiperinflación, la política de la convertibilidad, hubo una drástica disminución de la pobreza.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, escaló al 27% en su segundo mandato, como subproducto, como decíamos, de la destrucción del tejido industrial.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El aumento de pobres al 66% en el 2002 respecto del 47% del 2001, es decir, ese aumento de 20% de pobres, llevando a la Argentina a dos tercios de pobres en 2002, es culpa de quien hizo la devaluación asimétrica, es culpa de Duhalde, de la mala praxis de Duhalde, es culpa de la convertibilidad de Cavallo.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner terminó su mandato con una pobreza de 30%, es decir, 8 puntos por encima de los números que tenía al finalizar la dictadura, que era 22%.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De igual manera, los números del INDEC en este proceso, como sabemos, tienen sus discusiones, sus denuncias, la alteración de datos, ese mismo péndulo del que hablamos puede verse entre los gobiernos más recientes de Mauricio Macri y de Alberto Fernández.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según el informe de la FIP, cerraron 25.000 pymes durante el gobierno de Cambiemos y la desocupación había ascendido al 9,3%.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el gobierno de Aníbal Fernández tal vez es el momento más paradigmático porque en el otro polo del péndulo del cual hablamos, una situación prácticamente de pleno empleo, un gasto estatal, aumento considerable de la pobreza al mismo tiempo.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, hay que reconocer que el fenómeno no comenzó con él, el de los trabajadores formales pobres y, por otra parte, también remarcar que el impacto del COVID aumentó la pobreza en todo el mundo, independientemente del desempeño de cada gobierno.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, aún con la recuperación económica de por medio post-COVID, el gobierno de Fernández terminó con 41,7% de pobres.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar, por un lado, le vamos a pedir a nuestro locutor, primero lea *López* Caucero que nos lea el tuit de Juan Grabois y luego lo vamos a hacer lo propio con el de Macri.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina entró en recesión y en una pre-hiperinflación en 2023 debido a la catastrófica política económica de masa *Cristina Fernández de Kirchner* y *Alberto Fernández*.",
+      "score": 0.237,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Crecer y bajar la inflación son condiciones necesarias para que disminuya la pobreza y el gobierno del presidente Milei ha dado los primeros pasos para avanzar en esa dirección.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Actualmente podemos decir que Milei representa, obviamente, el extremo del péndulo opuesto.",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vale la pena prestar atención de que él pone primero a Massa, o sea que el odio que tiene contra Massa lo coloca como primer responsable, incluso antes que Alberto Fernández y Cristina Kirchner.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hacer un poco de historia y vamos a ir a Milei candidato, cuando el Milei candidato hablaba de dolarización, todo el tiempo decía dolarización y que iba a dolarizar y eliminar el banco central y, al mismo tiempo, parecía impulsar él mismo una corrida cambiaria.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Milei el 9 de octubre de 2023 decir: literalmente el peso no puede valer ni para excremento.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le recomendas a una persona que hoy le vence un plazo fijo en pesos?",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No solo eso, sino en otra entrevista se le consultó a Milei si le preocupaba que sus dichos sobre la dolarización generaran un aumento del valor del dólar y, finalmente, una inflación creciente, inclusive una posible hiperinflación, y él respondió que no, que, al contrario, que eso facilitaba la dolarización, es decir, hacía falta menos dólares si había una hiperinflación.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese era el valor al que se fue el dólar libre por las expectativas de que Milei iba a dolarizar, cerrar el banco central y, por lo tanto, por la cantidad de dólares que había, el dólar iba a aumentar enormemente.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijimos, y no se generó la hiperinflación previa que le hubiera gustado, Milei lo dijo públicamente que le hubiera gustado la hiperinflación para que llegase en el camino.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vale la pena marcar que no habla de 118% de devaluación en diciembre, Rubinstein, sino de 140% porque le agrega el impuesto país.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Javier Milei y la bolsa de valores de Wall Street planteando claramente que sacará el cepo cuando la devaluación mensual converja al índice inflacionario del 2%, es decir, al *crown inpec* la inflación autoproducida por la propia devaluación que hace el gobierno y este reconocimiento de que el 2% de devaluación mensual es una devaluación que produce una inflación autoproducida también vale para aquel 118% de diciembre y, obviamente, con el impuesto país al 140.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Milei hace muy poquitos días, 23 de septiembre, allí en la bolsa de los Estados Unidos.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que ese 100% de inflación agregada que tuvimos en los primeros meses del gobierno de Javier Milei fueron auto inducidos por la devaluación que él produjo en diciembre.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y como decía antes, mejor con más inflación, yo lo titularía inflación querida, cuanto más inflación, más barato o menos dólares hacía falta para dolarizar.",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, finalmente, no dolarizó, ese no era el punto, de la misma forma que Menem proponía salariazo con una efectividad electoral muy equivalente.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei proponía dolarización y, creyendo mucha gente ingenuamente de que eso significaba un aumento de su salario, del poder de compra de su salario, quien claramente lo explicó fue Carlos Melconian cuando dijo: esto es más licuadora que motosierra.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el actual gobierno colocó la reducción del déficit fiscal como prioritario sobre cualquier otro elemento, considerando que esto era lo que luego iba a producir por efecto mejoras en todos los demás elementos.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Distintos médicos hubieran aplicado distintas terapias, como decíamos, por eso existe la palabra malapraxis en medicina y la discusión siempre es una discusión académica, teórica, se podría haber hecho de otra manera, Macri siempre repetía que hay un solo camino.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las ciencias sociales enseñan que siempre hay varios caminos, este camino que planteó el actual gobierno es visto por el ex presidente Macri como el único camino posible dada la situación que se recibió en diciembre, claramente no era el único camino y la responsabilidad del aumento mayor de la pobreza es de este gobierno, cómo será el mérito si finalmente su política económica tiene éxito de luego reducirla de manera más drástica de lo que lo hubiera reducido un proceso gradual.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   **Correcciones de ortografía y gramática:**\n    *   Se corrigieron errores de tildes y acentos.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 52
+  },
+  "etiqueta_original": "neutral"
+}

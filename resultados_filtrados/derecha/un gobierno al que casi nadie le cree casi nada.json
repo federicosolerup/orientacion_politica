@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El presidente afirma que la economía crece, pero el país está paralizado por falta de combustible.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Un país que incumplió 21 veces con el FMI parece decidido a mantener su mala reputación, a mostrarse como un deudor irresponsable a nivel nacional e internacional, a ofender a quienes lo ayudan y a defender a los indefendibles.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "En sus forzadas explicaciones económicas, no se plantea por qué países con mayor deuda no tienen problemas para financiarse, mientras Argentina enfrenta intereses impagables que la convierten en un paria internacional.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Si el presidente mismo intenta saldar sus mentiras con dinero público, burlándose del pueblo al afirmar que, en el momento en que mentía al país con fiestas clandestinas, no era presidente, aunque momentos antes hubiera ordenado una cuarentena por cadena nacional, convirtiendo sus propias órdenes en una farsa celebrada con champán en la casa que todos pagamos.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Qué puede prometer un presidente que no mantiene una idea por 48 horas?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

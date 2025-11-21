@@ -1,0 +1,345 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Lo que pasa es que Máximo es un heredero.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Máximo, tu pueblo es pobre, en tu pueblo, en tu patria, en nuestra patria hay cuatro mil villas.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "El kirchnerismo es una monarquía y Máximo Kirchner se cree el rey.",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Mirá, dijo Máximo Kirchner, hay que dejar de quejarse si cortan una calle y terminar con las pendejadas de la televisión.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Convirtieron ustedes a la Argentina en la gran Villa de la Pobreza.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Vamos a ver el tape de Máximo Kirchner y le seguimos contestando todas las pelotudeces que dijo.",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Máximo Kirchner es el rey.",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Hablás de Tugo como si fuera otro gobierno, es Alberto Fernández el presidente, tu mamá te avisa.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Hasta hace diez minutos, ¿quién es presidente del bloque?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Lo que pasa es que Máximo está envenenado porque lo detesta Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Máximo se convirtió en el líder de la oposición.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Máximo juega mucho más fuerte a la oposición que *Juntos por el Cambio*.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Lo único que queremos saber es si Alberto le da la nafta.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Lo único que queremos saber es si Alberto le da la nafta para cumplir su mandato.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Ayer lo dijo Morales, en el Senado dicen que lo quieren voltear a Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "senado"
+      ]
+    },
+    {
+      "frase": "No lo dije yo, un día que llegué así como intensa, lo dijo Morales ayer sentado en esta silla.",
+      "entidades_detectadas": [
+        "morales"
+      ]
+    },
+    {
+      "frase": "Dijo Morales eso, en el Senado se comenta que lo quieren voltear a Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "senado",
+        "morales"
+      ]
+    },
+    {
+      "frase": "Y ahora lo que dijo Máximo sobre la inflación, la semana que viene...",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Es el hombre de Máximo y de Cristina en la economía, es empleado de Guzmán, pero lo boludea a Guzmán que es su jefe.",
+      "entidades_detectadas": [
+        "cristina",
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Otro corrupto más que tiene fotos con el papa, la verdad que a Francisco le dio con todo el amor del mundo a, hola, ciencias de la cruz.",
+      "entidades_detectadas": [
+        "francisco"
+      ]
+    },
+    {
+      "frase": "¿Qué dice Francisco de todo esto?",
+      "entidades_detectadas": [
+        "francisco"
+      ]
+    },
+    {
+      "frase": "Uribarri es o era uno de los preferidos de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cristina es feliz, ¿Cristina qué le causa felicidad?",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "¿Se arrepiente de haber elegido a Alberto Fernández?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "La dejo, porque usted está preocupada por los afiches de Cristina Cesina.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, el presidente se reunió con su par de Bolivia y participaron en una conferencia de prensa.",
+      "entidades_detectadas": [
+        "bolivia",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Alberto le preguntaron por el gas y fue al pedo, no supo bien qué responder, mirale.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "La pregunta para el presidente Alberto Fernández es si puede confirmar qué cantidad de gas será la que se recibirá de Bolivia y a qué precio.",
+      "entidades_detectadas": [
+        "alberto",
+        "bolivia",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "El ministro de Desarrollo Social del Presidente se queda dormido, tenemos el tape, por favor, este hombre está agotado, a quejarse, que se acaba el mundo, miralo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Ya me está dando lástima, eso ya me preocupa, me está dando pena Alberto Fernández, me da pena lo que están haciendo con él y lo que está haciendo él con él.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Ya él es el máximo responsable de lo que le pasa, ya me da pena lo que está pasando con este hombre.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Alberto pidió hace poco un aplauso para Ginés.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Está lleno en el gobierno de Alberto Fernández de funcionarios que no funcionan, como Gabriela Cerruti y la Portavoz.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Creemos que la solución no es ocupar la calle, pero al mismo tiempo también le decimos al jefe de gobierno de la ciudad de Buenos Aires que la ciudad de Buenos Aires es la ciudad que menos empleo generó según las mediciones del INDEC en el último tiempo y que, por lo tanto, sería de gran ayuda para que haya menos cortes de calle, que la ciudad de Buenos Aires también genere empleo y también mejore la situación económica de los porteños y de las porteñas, para que de esa manera tengamos menos legítimas protestas que son las que muchas veces llevan adelante los trabajadores o los sectores más vulnerables.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Salió a contestarle Felipe Miguel, el jefe del Gabinete de la Ciudad de Buenos Aires.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Ahí están Alberto, Guzmán y Cafiero, se la mandé, Andrés no sabía cuál era Cafiero.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Porque Andrés es Cafiero.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Bueno, tengo otro meme, acá lo vemos, Macri con Donald Trump, Alberto con el presidente de Perú, estoy, recorrí las redes.",
+      "entidades_detectadas": [
+        "alberto",
+        "macri",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Qué ves en común entre Mauricio y Trump y entre el presidente peruano y Alberto Fernández?",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "trump"
+      ]
+    },
+    {
+      "frase": "Ayer Macri se reunió con Donald Trump, ojo que no sé qué me va a decir Spilman pero *Juntos por el Cambio* está, que arrebate con esa foto.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Ah, tenemos un video inédito donde Macri dice que se viene el segundo tiempo.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Y me acordé porque me la mandé a Spilman, esta nota que hice en el 2015 cuando hice para Clarín y para TN.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Y Spilman me mandó esta mañana esto que se dieron a las redes cuando le pregunto por Donald Trump y por él.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "Y yo te imaginas, Mauricio, vos presidente y Donald Trump presidente, yo la vi venir lo de Donald Trump presidente.",
+      "entidades_detectadas": [
+        "presidente",
+        "trump"
+      ]
+    },
+    {
+      "frase": "Él apostaba a Hillary Clinton, recordemos esto que pasaba en el 2015 en Los Abrojos, en la casa de Mauricio Macri con Juliana Awada, lo vemos.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Yo tuve que firmar un contrato por 600 millones de dólares, yo tengo 24 años, negocio con ese tipo que ahora es candidato a presidente totalmente chiflado.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Imagínate vos presidente, primera reunión con el presidente de Estados Unidos, Mauricio Macri o Donald Trump.",
+      "entidades_detectadas": [
+        "macri",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Me metí en la casa de Mauricio Macri, en la casa de Sergio Massa y Galmarini, en la casa de Stolbizer con su familia, en la casa de Del Caño, en la casa de Scioli, en la casa de Rodríguez, en San Luis, hice *Brindar por Argentina*, salió un plan I en TN.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    },
+    {
+      "frase": "Yo pensaba que iba a ser Scioli el presidente, estaba segura que ganaba Scioli porque, no sé, me parecía que era Scioli.",
+      "entidades_detectadas": [
+        "scioli"
+      ]
+    },
+    {
+      "frase": "Me acuerdo que me di cuenta que era el presidente porque terminamos la entrevista, se apagaron todas las cámaras, se fueron los camarógrafos y yo me quedé con Alejandro Warrenstein, mi marido en ese momento, y Mauricio se puso a llorar.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Mirá esta sátira de la realidad que grabaron, *Mi ley con Boyano*, *Restaurants*, la Argentina de siempre, a quejarse, que se acaba el mundo, miralo.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Le mando un beso a Milei y a Boyano.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Estamos en el fondo del mar.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    }
+  ]
+}

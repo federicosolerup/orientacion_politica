@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Es crucial tener un jefe de Estado que no odie al Estado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Varias sedes de ANSES están cerradas, algunas por falta de personal de limpieza; la situación es deplorable, con baños sucios e insalubres.",
+      "entidades_detectadas": [
+        "anses"
+      ]
+    },
+    {
+      "frase": "En realidad, lo que vemos es un grupo de empresarios tomando decisiones a su favor, no un Estado administrando el país.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

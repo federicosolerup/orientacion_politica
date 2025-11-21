@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Porque el presidente miente, miente y miente sin cansarse, sin vergüenza.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y el presidente hace algo con nuestra libertad, porque no nos damos cuenta, pero ya no se habla más del COVID, se habla de la libertad personal.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Por qué a mí me manda una carta documento el nieto de alguien que viajó con Biasotti a Rusia para traer la Sputnik y que, cuando yo digo esto, me manda una carta documento diciendo que no tenía nada que ver?",
+      "entidades_detectadas": [
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Se dijo y se desdijo, hizo mierda a Cristina, la criticó, le dijo que era poco menos que la culpable de la muerte de Nisman —cosa que nadie sospecha—, pero en realidad después juntó todo y se arruinó ante la graciosa majestad.",
+      "entidades_detectadas": [
+        "nisman"
+      ]
+    },
+    {
+      "frase": "No somos esclavos del kirchnerismo, somos ciudadanos honestos que pagamos los impuestos y, si quiere hacer algo ya que no tiene nada que hacer porque no hay vacuna, apúrese con los jueces para que juzguen a Cristina y sepamos si es culpable o inocente.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El ataque de Milei a la cultura nos fortalece.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Pompeyo es actor, director de teatro, docente y, en el contexto de la conversación sobre su obra \"Habitación Macbeth\" (que un poco venía a presentar), hizo esa afirmación cuando le preguntaron sobre la situación actual y específicamente sobre los ataques de Milei al mundo de la cultura.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Ustedes recordarán, Francia estuvo ocupada entre 1940 y 1944 por la Alemania nazi.",
+      "entidades_detectadas": [
+        "francia",
+        "alemania"
+      ]
+    },
+    {
+      "frase": "Justamente, para evitar esa desmoralización es importante equilibrar el balance de lo que pasó y las características contradictorias de ese giro político que terminó con Milei en el gobierno, un proceso que fue mucho más contradictorio de lo que en general se cree o se piensa.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos Corregidos:**\n    *   \"Millay\" se corrigió a \"Milei\" (se asume que se refiere al presidente Javier Milei).",
+      "entidades_detectadas": [
+        "javier",
+        "presidente"
+      ]
+    }
+  ]
+}

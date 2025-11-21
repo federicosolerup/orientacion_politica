@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Actualmente, el caso está en manos del juez Julián Ercolini y del fiscal Carlos Rívolo.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "El fiscal, Carlos Rívolo, intervino en otros casos, como ayudante de Stornelli en el caso de los Cuadernos, y fue fiscal en el intento de magnicidio de Cristina Fernández de Kirchner, una causa cuya investigación también ha sido cuestionada.",
+      "entidades_detectadas": [
+        "carlos",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Imaginen la situación inversa: si un joven de La Libertad Avanza sufriera este tipo de atrocidades y encontraran la frase \"Viva Perón\" pintada en su casa, el PJ seguramente se manifestaría en contra.",
+      "entidades_detectadas": [
+        "pj"
+      ]
+    },
+    {
+      "frase": "Algunos calificaron esta denuncia como falsa, pero nosotros creemos a las víctimas, especialmente a las de HIJOS, una organización que lucha por la memoria, la verdad y la justicia en Argentina desde hace 29 años.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Si La Libertad Avanza no tiene nada que ver, sería importante que el presidente [nombre del presidente] se manifieste en contra de estos actos violentos, repudiando la intrusión en la casa de la mujer, la agresión, la violación, la amenaza de muerte y la pintada \"Viva la Libertad, Carajo\", además del gnocco encontrado en la vivienda.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Este gnocco es significativo, ya que remite al discurso de las máximas autoridades de La Libertad Avanza, el presidente y la vicepresidenta.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La propia biografía de Videla, \"El dictador que escribió mi maestra\", de María Cevane y Vicente Muleiro, revela su confesión de que los crímenes tuvieron que ser clandestinos porque la sociedad argentina no hubiera tolerado los fusilamientos públicos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En el caso del intento de magnicidio de Cristina Fernández de Kirchner, no necesitó una orden directa, porque durante 10 años se la denostó, acusó de corrupción, y se la amenazó de muerte.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

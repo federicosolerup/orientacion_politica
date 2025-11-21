@@ -1,0 +1,134 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El 10/05/2024, me preguntabas sobre una noticia que leíste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La información provenía de una tarjeta de débito y se refería a un límite de 30.000 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me pedías que te explicara la situación, aprovechando mis conocimientos del mundo de los medios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como sabes, muchos portales de noticias buscan generar clics, priorizando el negocio antes que la información veraz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto se ve en el uso de titulares sensacionalistas y en la proliferación de sistemas automatizados que replican noticias de otras fuentes, incluso del Boletín Oficial, utilizando palabras clave.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo comenzó con un confuso episodio: un portal replicó una resolución del Boletín Oficial de enero de 2022 sobre el control de gastos con tarjeta de débito a partir de los 30.000 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El titular, \"Atención: a partir de ahora la AFIP controlará los gastos desde 30.000 pesos con tarjeta de débito\", era engañoso.",
+      "entidades_detectadas": [
+        "AFIP",
+        "Atención"
+      ]
+    },
+    {
+      "frase": "En realidad, este proceso siempre existió en Argentina, y el monto se actualiza anualmente debido a la inflación.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "La operatoria consiste en que los bancos deben informar a la AFIP sobre los gastos superiores a 30.000 pesos.",
+      "entidades_detectadas": [
+        "AFIP"
+      ]
+    },
+    {
+      "frase": "Esto no implica que la AFIP controle lo que cada persona compra; al contrario, busca que se bancaricen los gastos para facilitar el cobro de impuestos.",
+      "entidades_detectadas": [
+        "AFIP"
+      ]
+    },
+    {
+      "frase": "De hecho, si accedes a la página de la AFIP con tu clave fiscal, puedes ver tus consumos con tarjeta.",
+      "entidades_detectadas": [
+        "AFIP"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, no debería sorprender que la AFIP tenga esta información.",
+      "entidades_detectadas": [
+        "AFIP"
+      ]
+    },
+    {
+      "frase": "No hay un control exhaustivo sobre lo que gasta la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso, según leí, ese monto se irá ajustando, así que la idea de que te controlen a partir de 10.000 pesos es incorrecta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El aumento del límite se debe a la inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El titular sensacionalista generó muchos clics, llevando a otros portales a replicarlo.",
+      "entidades_detectadas": [
+        "generó"
+      ]
+    },
+    {
+      "frase": "Lamentablemente, incluso algunos colegas cayeron en la trampa, difundiendo la información errónea en televisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este tipo de situaciones demuestran que somos uno de los países con mayor consumo de noticias falsas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente suele realizar lecturas rápidas, sin verificar la información; pero la responsabilidad de evitar la difusión de *fake news* recae en nosotros, los periodistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Deberíamos ser más rigurosos, investigando las fuentes y corroborando la información antes de publicarla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un simple llamado telefónico para verificar la información hubiera bastado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este problema se agrava con el auge de la inteligencia artificial y los bots, que automatizan aún más la difusión de información errónea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un tema que amerita un análisis más profundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La noticia sobre el control de gastos con tarjeta de débito está desvirtuada y genera angustia innecesaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "30.000 pesos equivalen a varias compras en el supermercado, y la idea de un control estatal genera una sensación de vigilancia excesiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta situación pone en evidencia la responsabilidad que tenemos los periodistas en la verificación de la información.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "AFIP",
+    "Argentina",
+    "Lamentablemente",
+    "Atención"
+  ]
+}

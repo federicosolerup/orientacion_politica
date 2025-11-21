@@ -1,0 +1,45 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Leí una entrevista a Luis Novaresio donde, obviamente, se le preguntó sobre el *lawfare* y la situación de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Escuchamos a un juez de la Corte que deberá resolver sobre el caso de Cristina Fernández de Kirchner opinar sobre el caso.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Hay que recordar que en la causa donde Cristina Fernández de Kirchner está condenada, la Corte fue la que le pidió la causa al tribunal, la revisó y, en lugar de decir que no había delito y que estaba viciada de irregularidades, le dio impulso.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "La misma Corte Suprema, con Lorenzetti a la cabeza, que invitaba a la Argentina como ejemplo de justicia al juez Sergio Moro, que fue para Brasil lo que Claudio Bonadio fue para la Argentina: los perseguidores de Lula da Silva y de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "argentina",
+        "sergio",
+        "cristina",
+        "fernández",
+        "lula",
+        "brasil"
+      ]
+    },
+    {
+      "frase": "En Argentina también hay muchos elementos que lo muestran.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

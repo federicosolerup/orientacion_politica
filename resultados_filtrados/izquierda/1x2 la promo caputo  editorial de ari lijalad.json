@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Para abordar este problema, el ministro Caputo mantuvo dos reuniones: una con productores de alimentos y otra con supermercadistas.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Más tarde, se analizará si el INDEC considera las promociones en sus mediciones.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "A modo de comparación, Carrefour en Francia tiene un margen inferior al 2%, mientras que en Argentina el margen es significativamente superior.",
+      "entidades_detectadas": [
+        "argentina",
+        "francia"
+      ]
+    },
+    {
+      "frase": "El balance de Cencosud, empresa de capitales chilenos, muestra que en Argentina sus ingresos crecieron por encima de la inflación, con un margen EBITDA (ganancias antes de intereses, impuestos, depreciación y amortización) del 17,9% en el cuarto trimestre de 2023.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Este margen es significativamente superior al de otros países donde opera Cencosud (Colombia: 8,5%; Brasil: 5%; Chile y Perú: 2,8%).",
+      "entidades_detectadas": [
+        "chile"
+      ]
+    },
+    {
+      "frase": "La reunión del ministro Caputo con productores y distribuidores de alimentos evidencia la necesidad de abordar el problema de los precios desde una perspectiva más amplia.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    }
+  ]
+}

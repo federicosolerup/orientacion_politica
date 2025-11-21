@@ -1,0 +1,156 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 20,
+      "derecha": 8
+    },
+    "score_promedio": 0.339,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En pregunta el gobierno libertario, que le había dado la espalda al proyecto el año pasado, esta vez cambió de táctica y se hizo parte de la agenda anticorrupción del PRO, con un proyecto de ficha limpia enviado por el propio presidente Javier Milei.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La media sanción de la Cámara de Diputados estuvo marcada por la escenificación de tensos cruces entre diputados libertarios y kirchneristas, pero en off, el oficialismo reconoce que el proyecto no pasará la instancia de senadores y admiten que prefiere que Cristina Fernández de Kirchner se presente como candidata para poder polarizar con ella, quienes aseguran derrotarla en las urnas.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este pacto tácito entre Milei y Cristina, del que venimos hablando en estas columnas y que tiene capítulos como la designación del juez Lijo en la Corte Suprema de Justicia, se evidencia en la elección del presidente y la líder del PJ a la hora de discutir y repartirse el escenario político.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero vamos a mostrar algunos fragmentos de la discusión, luego veremos algunos antecedentes de este proyecto de ley y, finalmente, analizaremos cómo impacta la media sanción en la coyuntura política para, finalmente, contestar la pregunta del título: ¿Por qué la sanción de ayer le haría festejar a Ernesto Laclau, si estuviera vivo?",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchémoslo en las propias palabras del presidente de la Cámara de Diputados: \"Se cierra la votación.",
+      "score": 0.291,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se comunicará al Honorable Senado de la Nación.\"\n\n\"Se va a acabar esa costumbre de robar\", cantaban algunos diputados.",
+      "score": 0.394,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo logró bastante cohesión en la defensa de Cristina Fernández de Kirchner, que también, además, lo acompañó la izquierda.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente, el hecho de que este debate, con la ex presidenta como significante primordial, hizo que se pudiera discutir con menos profundidad esta ley que podría tener elementos interesantes para debatir la calidad institucional de nuestro país.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar este fragmento del medio del debate donde el jefe de bloque de Unión por la Patria, Germán Martínez, desafía a pelear al presidente de la Cámara de Diputados, con un gesto que tiene alguna intención política: \"En donde vos quieras, en Segurola y Habana\", como decía.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar al diputado cordobés diciendo: \"Aparece la firma del presidente en el proyecto de Ficha Limpia y, de repente, le interesa\".",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después aparece la firma del presidente en el proyecto y, de repente, interesa el tema.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece que el PRO viene impulsando hace 10 años este proyecto\", según la diputada.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la diputada le hubiese gustado que este proyecto fuera aprobado en el año 2016, antes de que Cristina Fernández de Kirchner sea condenada.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya no les creen más esa doble vara donde vienen a defender el derecho de una condenada a ocupar una banca, pero a una persona con un procesamiento lo expulsaron del Senado en una, sin procesamiento, en una semana.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por su parte, el PRO parece jugarse su perfil e intenta capitalizar la media sanción.",
+      "score": 0.249,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue ideado por Marlon Reis y recibió alrededor de 1.300.000 firmas antes de ser presentado en el Congreso Nacional.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lula aprobó la ley en el año 2010, luego fue perjudicado por ella en el 2018 porque tenía condenas en dos instancias.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Ficha Limpia en Brasil impidió presentarse a dos expresidentes, uno de ellos nuevamente en ejercicio.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bolsonaro carga con la condena luego de haber organizado una reunión con embajadores en la que puso en duda la transparencia del sistema de votación electrónica e instaló la hipótesis del fraude electoral.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le vamos a pedir a nuestro locutor, León López Caucero, que, por favor, nos traduzca en vivo el informe.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La ley Ficha Limpia fue aprobada por el Congreso Nacional en 2010 y aplicada por primera vez en las elecciones de 2012.",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ley marcó al país al cambiar las pautas del escenario político brasileño y también ha despertado la conciencia ciudadana sobre el poder de la movilización popular y la responsabilidad sobre los candidatos y de lo que hacen estos en nombre de los electores.\"\n\nBueno, como se ve, en el caso de Brasil es todavía mucho más restrictiva que en el caso de la Argentina.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podríamos decir, incluso, que ya mencionamos en estas columnas que en Brasil, que son 11 los miembros del Supremo Tribunal, que sería como nuestra Corte Suprema, son más famosos que los jugadores de la selección brasileña, para dar una dimensión de la capacidad que tiene en el caso de Brasil la justicia de ser un árbitro entre las diferencias del poder ejecutivo y el poder legislativo.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En realidad, según Laclau, las demandas de la sociedad son variadas y la habilidad del político populista es intentar englobarlas en una causa común contra un antagonista inventado, a quien se le asigna la responsabilidad de que tienen todos los problemas que generan las cadencias que padece la sociedad.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con esta jugada, el gobierno cuenta con el electorado del PRO que reclama una agenda anticorrupción, sigue avanzando contra su ofensiva hacia los dirigentes amarillos que quieren absorber y siguen polarizando al mismo tiempo con Cristina Fernández de Kirchner, mientras la esmerila con acusaciones de corrupción.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Del lado del kirchnerismo, el argumento es que Cristina Fernández de Kirchner sería la única perjudicada por esta ley, que tiene una contundencia que permite construir una idea de intento de proscripción.",
+      "score": 0.406,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:** Se corrigieron errores en la escritura de nombres y apellidos, incluyendo:\n    *   Javier Milei\n    *   Cristina Fernández de Kirchner (varias veces)\n    *   Lijo (nombre completo no especificado)\n    *   J Balvin\n    *   Germán Martínez\n    *   Julio César Torresani\n    *   Agustín Carro\n    *   Silvia Lospennato\n    *   Marlon Reis\n    *   Jair Bolsonaro\n    *   León López Caucero\n    *   Ernesto Laclau\n    *   Carlos Menem (nombre completo no especificado)\n    *   Domingo Cavallo\n    *   Axel Kicillof\n*   **Corrección ortográfica:** Se corrigieron errores de ortografía, como \"radio perfil\" a \"Radio Perfil\", \"en pregunta\" a \"en pregunta\", \"pro\" a \"PRO\", \"off\" a \"en off\", \"ex presidenta\" a \"ex presidenta\", \"penatos\" a \"PRO\", \"fentejan\" a \"festejan\", y muchas otras correcciones de errores de tipeo y puntuación.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   **Añadidos:** Se añadió el nombre completo de Cristina Fernández de Kirchner donde solo se mencionaba su nombre.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 28
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En Mendoza se está practicando ya con la mosquita mediterránea, la mosca de la fruta, la famosa mosquita de la fruta.",
+      "entidades_detectadas": [
+        "mendoza"
+      ]
+    },
+    {
+      "frase": "Es algo parecido porque es una plaga y en Mendoza comía cultivos tanto de frutas como de verduras.",
+      "entidades_detectadas": [
+        "mendoza"
+      ]
+    },
+    {
+      "frase": "Mendoza liberó 10.000 mosquitos.",
+      "entidades_detectadas": [
+        "mendoza"
+      ]
+    },
+    {
+      "frase": "Yo una vez hablé de esto hace tiempo y me llamó, no recuerdo si fue el ministro de Salud de la Provincia de Misiones o alguien de Misiones, y me dijo, mira que estamos haciendo esto desde hace tiempo nosotros, así que ojo, que este punto por ahí no es exclusivo de Mendoza en la Argentina, sino también Misiones puede estar haciendo esto desde hace ya un tiempo, cuando comenzó el dengue acá a sonarnos a nosotros, ya en el noreste de la República Argentina ya estaban practicando este tipo de tecnología, se llama técnica del insecto estéril, así es la sigla.",
+      "entidades_detectadas": [
+        "argentina",
+        "mendoza"
+      ]
+    },
+    {
+      "frase": "¿Y cómo está la política sanitaria de la nación con respecto a esto, al dengue ahora, digo, vacunación y todo?",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    }
+  ]
+}

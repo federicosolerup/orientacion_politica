@@ -1,0 +1,711 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En nuestro plan de pequeños anunciantes, pueden auspiciar este momento especial de los viernes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Invitamos a todos los patrocinadores a esta tertulia de los viernes aquí en Bastababi.",
+      "entidades_detectadas": [
+        "Bastababi"
+      ]
+    },
+    {
+      "frase": "Señoras y señores, es el momento de anunciar al hombre queso Melié de Lácteos, quien esta semana ha probado el queso crema, luego el Gouda y finalmente el Rezyanito.",
+      "entidades_detectadas": [
+        "Gouda"
+      ]
+    },
+    {
+      "frase": "Señoras y señores, el gran Babi Echicopar, un hombre de la televisión que, aunque teme al fracaso, nos acompaña.",
+      "entidades_detectadas": [
+        "Babi Echicopar"
+      ]
+    },
+    {
+      "frase": "¿Qué pasó?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La guerra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Esto es guerra?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Volaban cosas… ¡Qué raro!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Mira el piso!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué bárbaro!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Dame algo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezó la guerra.",
+      "entidades_detectadas": [
+        "Empezó"
+      ]
+    },
+    {
+      "frase": "¿Qué son, pañales?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¡Para un poco!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tráeme a Tristán Bauer cuando tires las cosas.",
+      "entidades_detectadas": [
+        "Tráeme",
+        "Tristán Bauer"
+      ]
+    },
+    {
+      "frase": "Que me firme… ¡Es terrible!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es un atentado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Filmaron, las cámaras lo registraron y me pasaron el *remake*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es contra mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiraron contra todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡El Torque está a dos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, esto es contra mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡No me tiren los pañales!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es contra mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Basta, te haces gracioso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya tuviste tus dos minutos de fama y quedaste como un idiota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Queremos patrocinadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién quiere patrocinarnos?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "En lo comercial no venden nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos mencionar Coca-Cola, agua, etc., cada dos minutos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No aprovechan el éxito, ni el triunfo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquí comemos gracias a Mi Gusto y a José Milagres de Truberos.",
+      "entidades_detectadas": [
+        "José Milagres",
+        "Mi Gusto"
+      ]
+    },
+    {
+      "frase": "Lo único que saben hacer es… no hablan inglés, no tienen novedades, no hacen nada y son los patrocinadores exclusivos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me pongas el teleprompter, voy a improvisar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Basta de denostar!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy trabajaré sin teleprompter.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los viernes podría evitar las diatribas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está todo sin revisar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que dijo, tranquilo, más de lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero más me importa que todo el mundo habla tonterías.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos preocupados por lo que dijo Cafiero… ¿cómo se llama la chica?",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "María O'Donnell.",
+      "entidades_detectadas": [
+        "María O'Donnell"
+      ]
+    },
+    {
+      "frase": "Me parece que lo que dijo Cafiero está orquestado.",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "Me parece que D'Alessandro, O'Donnell y Cafiero están distraídos.",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "O'Donnell"
+      ]
+    },
+    {
+      "frase": "Para que no nos demos cuenta de que nos estafaron, que el fondo no solucionó nada, que esto es un desastre, que el gobierno está en crisis, que Cristina está desgastada, que la Cámpora se derrumba, que la situación es agonizante y que el próximo año lo pasaremos mal con una inflación terrible, que dos dólares no alcanzarán para nada.",
+      "entidades_detectadas": [
+        "la Cámpora",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "La situación es muy difícil y hay que afrontarla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué crees?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que cerrarles la boca a todos, si no tienen nada que aportar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que solo queden los que miden y yo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos… están… Te digo… ¡Vamos, vamos, vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¿Qué vamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Mira cómo… qué vamos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Andate, andate!",
+      "entidades_detectadas": [
+        "¡Andate"
+      ]
+    },
+    {
+      "frase": "¿Qué incitas a la violencia pública, imbécil?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Tiene menos convocatoria, nadie lo sigue.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Vamos, vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "No fue… no son líderes de nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde vas a ir?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mejor quedate aquí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ves cómo va a terminar reducido a la nada?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te suelto la mano y desapareces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vas a tener que volver a tu pueblo con tus alpargatas gastadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Come culo como saliste de allá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que tené cuidado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, escuché algo.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "No hay que darle tantas vueltas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No le calientes la cabeza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, a Cafiero lo llamaron inútil, estúpido.",
+      "entidades_detectadas": [
+        "Cafiero",
+        "Además"
+      ]
+    },
+    {
+      "frase": "Lo quiero en la nata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No está a la altura, ni de los bocacines de la nata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya lo sabemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En \"El Padrino\" decían que uno tiene la altura de sus enemigos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A esta edad, uno elige con quién pelear.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se puede pelear con Cafiero ni con Donda.",
+      "entidades_detectadas": [
+        "Cafiero",
+        "Donda"
+      ]
+    },
+    {
+      "frase": "Solo hay que reírse de lo que dicen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Te parece que se puede discutir si el chupetómetro mide un metro o 90 centímetros?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Chicos, la verdad.",
+      "entidades_detectadas": [
+        "Chicos"
+      ]
+    },
+    {
+      "frase": "Dicen que Alberto arregló el albertismo.",
+      "entidades_detectadas": [
+        "Alberto arregló"
+      ]
+    },
+    {
+      "frase": "¿De qué me estás hablando?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un presidente destruido, sin credibilidad popular, sin gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es el albertismo?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Más Alberto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me importa una mierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un desastre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es el kirchnerismo?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Más Cristina?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tiene ningún \"ismo\" que mostrar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es terrible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llegaron al final del mandato con dos años de falta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El final del mandato porque viene lo peor: las trampas, las críticas, los quilombos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llegaron sin nada, no hicieron nada en dos años y siete meses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Me entendés?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema es que la oposición tampoco nos defiende, y en el medio estamos nosotros, el pueblo, sin saber cómo tapar agujeros, pagar deudas, ayudar a los compañeros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya no sabemos más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El país está en guerra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La fábrica cerrada, la calle Florida cerrada, los negocios fundidos, los restaurantes fundidos, la gente deprimida.",
+      "entidades_detectadas": [
+        "calle Florida"
+      ]
+    },
+    {
+      "frase": "Crónica de un país en guerra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y como en algunos países en guerra hacen salvoconductos para que la gente se vaya, aquí también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se cree que, a pesar de que recibimos ucranianos, los argentinos se van a Miami, Italia, Francia, España.",
+      "entidades_detectadas": [
+        "España",
+        "Italia",
+        "Miami",
+        "Francia"
+      ]
+    },
+    {
+      "frase": "Tenemos éxodos sin una sola bomba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos éxodos por la ignorancia e inoperancia del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, cuando escuché a la senadora tucumana, no me dio gracia.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "¿Le pagamos a esta mujer?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le pagamos un sueldo, al menos que sepa hablar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es para levantar la mano como un títere, que al menos sepa defender algo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me gustaría volver sobre eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy es viernes por la noche y voy a hablar de la palabra y la libertad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos privilegiar la libertad de expresión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En estos 20 años con Cristina, nos autocensuramos y perdimos la libertad de expresión.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Tenemos miedo y miramos a los costados cada vez que hablamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fíjate lo de Cafiero.",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "Lo que dijo Cafiero salió en todos lados, cuando debería ser una broma en un show americano.",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "Cuando se dice algo de él, debería ser gracioso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acuérdense cuando imitaban a Trump en programas de los sábados y se reían de él.",
+      "entidades_detectadas": [
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Pero como es un país libre… aquí, tocar a los poderosos es un atentado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablar de los poderosos es un atentado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es persecución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son presos políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ejercer la libertad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ser libre, inteligentemente libre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que aguantarse las bolas el lunes esperando que Alberto no solucione nada, porque no lo hará.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Alberto no puede solucionar nada.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Esperar en una clínica con cuatro enfermeros y sin cirujano, es saber que te vas a morir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es lo que ha hecho el presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este país no es para Alberto Fernández, ni para Máximo Kirchner, ni para Cristina Kirchner, ni para Cafiero, ni para Donda, ni para Ney Gwynn, ni para ninguno de estos tipos.",
+      "entidades_detectadas": [
+        "Ney Gwynn",
+        "Donda",
+        "Alberto Fernández",
+        "Cristina Kirchner",
+        "Cafiero",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "Este país es para un hombre de verdad que se pare y diga: “Vamos todos juntos a sacar esto adelante”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos seguir gobernados por payasos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Supongamos que acompañemos a Alberto los dos años que le quedan.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Pero que en sus sueños húmedos no piense que va a generar el albertismo con un puñado de inútiles, ordenando al mismo campesino, fundiendo pibes, inventando un virus para encerrarnos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy dijo en un discurso: \"Llegó el momento de no agredirnos más\".",
+      "entidades_detectadas": [
+        "Llegó"
+      ]
+    },
+    {
+      "frase": "Usted, Alberto, no dijo “idiota”, ni “inútil”, ni “estúpido”.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Cuando se creyó superior, salió a insultarnos y a basurarnos porque salíamos a la calle a respirar con el COVID.",
+      "entidades_detectadas": [
+        "basurarnos",
+        "COVID"
+      ]
+    },
+    {
+      "frase": "Usted nos insultó, nos faltó el respeto, fue el patotero, el fanfarrón, el que nos marcaba con el dedo para que nos quedemos en casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y eso no se hace, Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Eso se paga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los argentinos perdonamos todo, pero nunca la soberbia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y usted y su jefa son soberbios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los vamos a castigar.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Andate",
+    "basurarnos",
+    "O'Donnell",
+    "Empezó",
+    "Donda",
+    "D'Alessandro",
+    "Alberto Fernández",
+    "Vamos",
+    "Chicos",
+    "Mi Gusto",
+    "¿Qué",
+    "Alberto arregló",
+    "Máximo Kirchner",
+    "Tráeme",
+    "Ney Gwynn",
+    "Gouda",
+    "Además",
+    "María O'Donnell",
+    "Señoras",
+    "Italia",
+    "Trump",
+    "Cristina Kirchner",
+    "Alberto",
+    "¿Más Alberto? Me",
+    "COVID",
+    "Hablar",
+    "Ayer",
+    "¿Quién",
+    "José Milagres de Truberos",
+    "Llegó",
+    "Cristina",
+    "Vas",
+    "Bueno",
+    "Bien",
+    "Dicen",
+    "la Cámpora",
+    "Babi Echicopar",
+    "Tristán Bauer",
+    "España",
+    "Bastababi",
+    "Mira",
+    "Crónica",
+    "calle Florida",
+    "Miami",
+    "Basta",
+    "Francia",
+    "Así",
+    "Cafiero",
+    "Tenemos"
+  ]
+}

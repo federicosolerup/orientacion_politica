@@ -1,0 +1,531 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 73,
+      "derecha": 30
+    },
+    "score_promedio": 0.317,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se acaba de producir una novedad, varias novedades en el gobierno, pero la más importante, el presidente decidió reemplazar al jefe de gabinete.",
+      "score": 0.431,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un cambio muy importante que revela bastante de cómo el gobierno se ve a sí mismo, de cómo Milei ve su gestión, más allá del temperamento, el tono auto celebratorio que ha tenido el gobierno en los últimos días, en las últimas semanas inclusive.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que había que empezar, como siempre, por lo más elemental, por lo más general, y es que el gobierno, este gobierno, se encuentra con un problema de todos los gobiernos, sobre todo al comienzo de la gestión, y es que la imagen del presidente tiene un nivel de aprecio muy superior a la imagen de la administración, del equipo, de la gestión.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno mira el comportamiento de la gente respecto de Macri y respecto del gobierno en los primeros meses de enero-abril del 2016, Macri tenía una consideración popular muy elevada, mucho más elevada que la de Milei.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri había un diferencial mucho más grande entre la imagen positiva y la negativa, tenía mucho más baja negativa.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno tiene una calificación del 47% contra un presidente que tiene una calificación del 53%.",
+      "score": 0.251,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podemos mirar un ranking que hace la Universidad de San Andrés en una encuesta de satisfacción política y de opinión pública que la Universidad de San Andrés realiza sistemáticamente, y es el ranking de ministros.",
+      "score": 0.381,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de otros reproches que le hace Milei a quien fuera hasta hace dos horas el jefe de gabinete Posse.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno podría recordar una frase que se hizo histórica, es casi un lugar común ya, es una frase que pronunció el filósofo español tan cercano a la Argentina, **José Ortega y Gasset**, en una conferencia que dio en la ciudad de La Plata en el año 39, en 1939, una conferencia que después fue publicada con el título *Meditación del pueblo joven*, es uno de los tantos textos que escribió Ortega sobre la Argentina, país que conoció en 1916 de la mano de su padre.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablamos muchas veces nosotros aquí en Odisea de que en Milei hay dos almas, dos roles.",
+      "score": 0.346,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno quisiera ir a la Biblia, cosa que a él le gusta mucho, uno diría el rol del profeta que denuncia una circunstancia y dice hacia dónde hay que ir y el rol del rey que implementa y para implementar tiene que negociar, tiene que tener sentido práctico, tiene que resignarse a que la perfección de la idea se va reduciendo, va cediendo ante la rebeldía de la realidad, las resistencias del mundo, de la vida práctica, el rey.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Milei parece haber mucho de profeta y poco de rey.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no hay un presidente que está siguiendo la gestión día a día en todos los campos, no solamente en el campo de la política monetaria o de la lucha contra la inflación, que es donde sí Milei presta mucha atención, hace falta que el jefe de gabinete sea alguien muy comprometido con la gestión cotidiana y que dé resultados.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto es lo que Milei y una parte del equipo de gobierno le reprochaba a Posse no cumplir, no cumplir con ese objetivo.",
+      "score": 0.216,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El propio Posse que hoy renunció delante de Karina Milei y de su sucesor, Francos, no delante del presidente, admite de manera muy sencilla, muy poco, digamos, resentida o rencorosa, admite, bueno, sí, probablemente había sobre mí expectativas que yo no pude cumplir.",
+      "score": 0.402,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a lo mejor no pude cumplir por alguna diferencia de criterios que no me corresponde satisfacer porque debe prevalecer el criterio del presidente sobre mi propio criterio.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que le dice Posse a los que en las últimas horas le preguntan, bueno, ¿qué pasó Nicolás?",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente hay en este problema que es la falta de resultados o de efectividad que, insisto, es más importante en el jefe de gabinete en la medida en que el presidente no es un obsesivo de la acción concreta de la gestión, probablemente haya en este problema o esté reforzado por una tendencia de Posse que la vimos desde el comienzo a asumir demasiadas responsabilidades, a acumular demasiadas funciones o a fijarse demasiados objetivos simultáneos.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El manejo de la administración que le indica la Constitución o le pide la Constitución al jefe de gabinete.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando llegó Bullrich y cuando llegó Luis Petri al Ministerio de Defensa y Patricia Bullrich al Ministerio de Seguridad, las cúpulas de las organizaciones de defensa y de seguridad que tenían que conducir ellos dos, se estaban designadas y reportaban a Posse.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Posse quiso y sobre todo después de la disolución del Ministerio de Infraestructura que se produjo cuando se alejó **Guillermo Ferraro**, nota al pie de página, habría que ver si retroactivamente Milei está tan contento con haberse desprendido de Ferraro como lo estaba en el momento en que decidió.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy todo eso puede haber cambiado en el juicio que Milei tiene de la dinámica del propio gobierno.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí parecería que hay mucha demora o que hay lo que pasa muy habitualmente, el funcionario que le dicen anda a esa empresa y privatizar y se siente más cómodo saneando, intentando demostrar que la empresa puede funcionar en manos del Estado y que no es necesario privatizarla.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entre otras cosas porque le gustó el rol.",
+      "score": 0.264,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno a Posse se le reprocha no haber tenido todo el ímpetu privatizador que espera Milei de su gobierno.",
+      "score": 0.584,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, primero es la apuesta de Milei a un funcionario que tiene, yo diría, una característica principal, el aplomo.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo hemos visto en todo este tiempo en que tuvo que negociar la ley base, que probablemente tenga dictamen este miércoles en el Senado, Francos demostró tener nervios de acero, inclusive para soportar una lógica propia que está en el corazón de la libertad avanza, que es un discurso muy antipolítico, sin el cual Milei no se sostendría en las encuestas.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, le toca negociar con la política a Francos con muy pocos elementos en la mano.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y con gran serenidad, una serenidad que probablemente Milei, por su personalidad, el propio Milei cuando habla de sí mismo dice, soy muy intenso.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Milei le debe resultar algo muy atractivo, como algo muy diverso y por eso atractivo.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es probable que Francos le ponga aplomo a la gestión.",
+      "score": 0.739,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La segunda característica que refuerza Milei con la designación de Francos al frente del gabinete, en la jefatura de gabinete, prácticamente ya la hemos dicho, pero la voy a expresar, a formular explícitamente, es una valoración por la política.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto también es interesante, como valoración de Milei de determinados valores que no están en su discurso, pero parecerían estar en sus opciones, si tenemos en cuenta el criterio con el que pone a Francos en ese lugar.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, ferrocarriles, donde Santiago Caputo logró ubicar a el encargado de la política ferroviaria, que es **Ariel Ciano**, un hombre que viene de la provincia de Buenos Aires, ligado a alguien muy importante dentro de toda la estrategia de comunicación del gobierno, que es **Carlos Romero**, orígenes masistas, Adrián Ciano es el jefe de ferrocarriles, probablemente a pesar de Posse.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Santiago Caputo con Karina Milei.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hace falta aclarar el papel decisivo que cumple Karina Milei dentro del gobierno.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno podría decir que es una especie de figura anfibia entre la jefatura de gabinete, el ministerio del Interior, más la asistencia que le presta al presidente por función clásica del Estado, el secretario general.",
+      "score": 0.589,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Santiago Caputo tiene una relación especialmente estrecha con Karina Milei, igual que la tiene Guillermo Francos.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos dicen no y muchos creen, dentro del gobierno, observadores de esta microfísica del gabinete, que también entre los motivos de la salida de Posse están ciertas tensiones provenientes del manejo de información y de determinadas versiones subrepticias descalificatorias, algunas de esas de Santiago Caputo provenientes de la AFI.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora aparece, hoy apareció en la tapa del diario Clarín, todo un problema que venimos tratando en odisea hace mucho tiempo, que es la gran caja del negocio de los registros automotores, financiados desde la Cámara de Concesionarios de Venta de Autos a cara, una cifra millonaria que se maneja en el Ministerio de Justicia.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy una investigación de Nacho Ortelli en Clarín le puso la lupa a este negocio, le puso la lupa a Cúneo Libarona, y entre otras cosas descubre toda una ramificación que hay en este negocio y en ese, como en casi todos los negocios que rozan algo institucional, aparece de nuevo **Ariel Lijo**, mezclado con este tema.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ariel Lijo, cuyo pliego junto al del doctor Manuel García Mancilla acaba de ser enviado al Senado un detalle, enviado antes de que se vaya Posse, como si alguien quisiera dejarlo a Posse también ligado a esta decisión tan controvertida del gobierno de Milei.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver qué lugar ocupa **Federico Sturzenegger**, que hasta ahora está en una especie de limbo, donde toca todo el teclado y nada, como todo aquel que está en un limbo, hay quienes piensan que aún contrariando la idea de no crear más ministerios, probablemente Milei le puede dar un ministerio o una secretaría importante para todo lo que es la desregulación del Estado, que es la especialidad de Sturzenegger en su relación con Milei.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque ambos convivieron y en esa convivencia se hicieron amigos cuando Francos era presidente del Banco Provincia, de **Daniel Scioli**, gobierno de **Cristina Fernández de Kirchner**, y Federico Sturzenegger, presidente del Banco Ciudad con Macri.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno o Milei está buscando enriquecer su visión de la economía con otras voces.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una nota importante en este momento en el diario La Nación sobre el tema.",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué otras voces podría incorporar Milei?",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, lo tiene a **Ademian Reidel**, muy amigo de Sturzenegger, un ortodoxo que además de economista es físico y que preside el comité de asesores del presidente con temas de muy largo plazo, entre otros, la incorporación de la inteligencia artificial a la economía argentina y al Estado argentino.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reidel, hay que recordar, colaboraba con Sturzenegger durante la gestión de Macri en el Banco Central.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo digo como pregunta, porque ni siquiera sé si le ofrecieron esta posibilidad.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero hay un economista muy prestigioso en Nueva York, argentino por nacimiento, pero en realidad chileno, hijo de un diplomático chileno, una persona de características personales excelentes, muy agradable, muy buen profesional, **José Luis Daza**, a muchos en el gobierno le gustaría incorporarlo, ultraortodoxo.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más, si en algún momento llegara al poder en Chile, **José Antonio Kast**, que es el Milei chileno, no me extrañaría que Daza fuera su ministro de Economía, y esta es probablemente una de las razones por las cuales no termine desembarcando en el gobierno de Milei, pero es un nombre que nos indica hacia dónde está yendo.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el gobierno de Chile tiene su lógica.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decíamos recién que, como publicó en La Nación hace un rato, **Pablo Blanco**, hay un problema con la política cambiaria, hay un problema fenomenal con la recesión, se han cerrado 275.000 cuentas sueldo en los primeros tres meses del año, eso es un dato objetivo cuantitativamente irrefutable de pérdida de puestos de trabajo.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ha habido una homilía este fin de semana, el 25 de mayo, de **Jorge García Cuerva**, el arzobispo de Buenos Aires, muy contundente, muy equilibrada desde el punto de vista de la política de partidos, pero muy contundente respecto de lo que dijo, de la que me gustaría rescatar un párrafo, para rescatar una palabra que nos va a llevar por un segundo a otro tema.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "García Cuerva dijo, hoy también nos ponemos delante de Dios como nación, y le pedimos que nos cure, porque parecemos tener las manos paralizadas para el encuentro que construye fraternidad, las manos paralizadas para abrazar a los heridos por la soledad y la tristeza, las manos paralizadas para ser solidarios con el que menos tiene, y también le pedimos a Dios nos preserve de las manos manchadas de sangre por el narcotráfico, las manos sucias de la corrupción y de la coima, las manos en el bolsillo del egoísmo y la indiferencia.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no hay un discurso tan enfático en un momento tan dramático para la vida social de la Argentina sobre la situación de los que están pasándola muy mal.",
+      "score": 0.293,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es la parálisis de la que habla García Cuerva y de la que habla también curiosamente el juez **Sebastián Casanello** en la medida cautelar que dictó hoy a la mañana pidiéndole al Ministerio de Capital Humano a la ministra **Sandra Pettovello** que le dé un plan que le explique cómo va a ser para distribuir la comida que el Ministerio de Capital Humano o la Secretaría de Desarrollo Social tiene acumulada en depósitos en la capital federal y en Tucumán.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo de todo esto hay muchas preguntas y una muy importante que es el problema de la inversión.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo una decisión muy importante del gobierno la semana pasada que es prácticamente defoltear la deuda que el estado tenía con los generadores de energía eléctrica, sean usinas que generan energía eléctrica o empresas proveedoras de gas para esta generación.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto como señal es una señal pésima para un gobierno que quiere atraer inversiones a un país que como dice hoy **Alberto Hadad** en una muy buena entrevista que le hace el semanario el economista, es un país al que los inversores van a venir tarde y arrastrando los pies por nuestra trayectoria.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, lo que ha sucedido en el campo del negocio energético es importantísimo, no solamente por el tema de la violación del contrato, que ya decía de por sí es importante, sino porque ahora queda una gran incógnita respecto de quién paga los subsidios.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Lo va a pagar el Estado o lo va a pagar la empresa privada que produce energía eléctrica?",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un gran problema en una de las áreas más importantes que tiene la economía argentina que es la energética.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es importante por otra razón, porque el default es contagioso y ya tenemos una causa en la corte de las distribuidoras eléctricas de la provincia de Buenos Aires, las cooperativas que distribuyen electricidad diciendo nosotros no le vamos a pagar a Camesa, así como Camesa no le paga a los proveedores de electricidad.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una causa que se inició en el gobierno de Alberto Fernández y que ahora está en manos de los jueces de la corte.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, de esos jueces que hoy tuvieron la noticia de que le mandan al hijo como compañero de trabajo.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto que tiene que ver con la administración explica que Milei piense, bueno, le tengo que dar otra dinámica a la gestión y tengo que poner a alguien que no va a ser el gestor de todas las áreas, que va a tratar de coordinar a los demás ministros que es Francos.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con la designación de Francos en la jefatura de gabinete se termina de bloquear la expectativa de ingreso de gente del pro al gobierno, que ingresará de otra manera, porque hay una estrategia política detrás de esta reorganización y de este momento que vive el gobierno de Javier Milei.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí hay dos personajes que han ido solos a sumarse a las filas de Milei, a donde todavía no terminaron de incorporarse, sin pedir permiso en el partido, y los vimos en el Luna Park, donde el pro oficialmente no fue invitado, **Cristian Ritondo**, Pucho y **Diego Santilli**.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero está pensando Milei en armar una alianza incorporando gente al gobierno de otros partidos, y aislando y dividiendo esos partidos.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo pensado desde una lógica que a veces Santiago Caputo le explica a sus muy íntimos.",
+      "score": 0.23,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei y Cristina en las antípodas, pero con dos proyectos de país en la cabeza.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O populismo de derecha y populismo de izquierda, usted elige.",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después otros dos figuras, Macri y Massa, que piensan en sí mismos.",
+      "score": 0.247,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos tienen dos proyectos personales.",
+      "score": 0.38,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que piensan en la intimidad de la Casa Rosada, y es importante saberlo para entender la conducta hacia Cristina Kirchner, la conducta hacia Massa y la conducta hacia Macri, que no debe estar contento con la huida de Santilli y Ritondo hacia las fuerzas del gobierno.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miran a Kicillof y Kicillof dice ¿por qué me miran a mí?",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y acá, si hay que enfrentar a Cristina, el ejemplo de Alberto Fernández es el más complicado, hay que enfrentarla en serio.",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El desafío es tan grande que Máximo Kirchner salió a hacer una entrevista por primera vez en un medio independiente, una entrevista no controlada, es una muy buena entrevista que le hizo **Martín Sivak** en el diario El País de España, donde Máximo Kirchner podrán gustar o no los contenidos de sus respuestas, pero dar respuestas muy solventes a lo que le preguntan.",
+      "score": 0.386,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un Máximo Kirchner distinto del del cliché de la PlayStation.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice y la verdad que Milei frente a Pedro Sánchez tiene razón.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y segundo porque Sánchez con nosotros no estuvo tan bien.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el único tema que le preocupa en el fondo a Máximo Kirchner, la relación con el fondo.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De nuevo queda enfrentado Alberto Fernández, que hoy es el principal abogado en la Argentina de Pedro Sánchez y de Zapatero.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una buena relación entre Fernández, Alberto y Milei.",
+      "score": 0.739,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tan buena que cuando Milei se entera de que Fernández se iría a vivir a España, le ofreció quedarse con Dylan y cuidarlo.",
+      "score": 0.591,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández le dijo no, no, porque no me voy para toda la vida.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después vino el altercado porque Milei dijo que tomaba champagne cristal y le contestó de muy mala manera, irreproducible, Alberto Fernández.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después la pelea de Milei con Pedro Sánchez, donde sí Fernández reacciona.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pedro Sánchez y Zapatero le consiguieron a Alberto Fernández, muy generosamente, un cargo en una universidad española donde cobrará, no sé, cinco mil euros, con los cuales solventa la vida de Fabiola en España.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, en el alineamiento, Fernández, Milei, y esto explica mucho de la interna periodista, Máximo que prefirió estar del lado de Milei antes que del lado de Fernández.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estaba también en la fiesta, por llamarlo de alguna manera elegante, **Adrián Cochen**, la mesa casi que podría llamarse Tabacalera Sarandí.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahí se habló de la candidatura del hijo, uno de los que milita esa candidatura, como dijimos, es Lucas Nejamkis y probablemente predice lo que va a hacer Martín Lousteau, a quien muchos radicales dentro del radicalismo le está diciendo no podés terminar con la historia del radicalismo votando por un juez tan cuestionado por corrupción para ser juez de la corte.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es darle los votos a **Ricardo Lorenzetti**, es darle los votos a los que Cristina Kirchner acusó, acá tenemos una foto de Lorenzetti con el juez **Sergio Moro**, que lo mandó preso a Lula, y el juez **Claudio Bonadio**, ya fallecido, que quería mandar la presa a Cristina.",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta foto para Cristina tiene un nombre, **Loeffler**.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El pacto de Cristina con Milei, que en realidad es el pacto de Cristina con Lorenzetti, termina con la idea del Loeffler, termina con la idea de que la corrupción del kirchnerismo es el producto de una persecución judicial arbitraria.",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese discurso se terminó si es que Cristina Kirchner le termina dando los votos a Ricardo Lorenzetti para consagrar al hijo.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Problemas en la provincia de Buenos Aires, problemas en el discurso y en el horizonte, un pacto de impunidad que mañana lo va a leer, explicado en un editorial del diario La Nación, que le estamos mostrando como adelanto ahora.",
+      "score": 0.298,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es la primera vez que Catalina está en el programa, vamos a volver a tomar contacto con Haciendo Camino, que es la organización, la asociación que ella preside, y le vamos a preguntar cómo está la vida de los pobres hoy en los lugares más pobres.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después **Pancho Olivera** nos va a traer la continuidad de una serie, de una película, *La Gran Dulce*, una gran feria sospechosísima de negocios del PJ Bonaerense que pretende competir con la salada, todo informalidad, pero una salada de lujo, *La Gran Dulce*, dulce contra salada, en el mercado central.",
+      "score": 0.364,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Camila Perochena**, un tema interesantísimo, la revolución de Mayo de Cristina y la revolución de Mayo de Milei, dos revoluciones de Mayo totalmente distintas.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos estos intentos de discusión dentro del PJ pueden permitir que ese partido se recicle sin un líder, y qué desea el whisky, porque va a ver algo desopilante e interesantísimo si le gusta la alta filosofía, el pensamiento abstracto, los regalos de bodas del casamiento entre **Jessica Cirio** y el magnate del blue, del dólar blue, **Elías Pichierri**.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 103
+  },
+  "etiqueta_original": "neutral"
+}

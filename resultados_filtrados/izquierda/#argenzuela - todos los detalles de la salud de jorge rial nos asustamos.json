@@ -1,0 +1,19 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Jorge, como explicó antes de viajar a Colombia el miércoles anterior, se encontraba allí por motivos laborales.",
+      "entidades_detectadas": [
+        "colombia"
+      ]
+    },
+    {
+      "frase": "Ya había estado en México y Estados Unidos, y Colombia era parte de su agenda, con la intención de incluir también una breve estadía en México.",
+      "entidades_detectadas": [
+        "méxico",
+        "colombia",
+        "estado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 42,
+      "derecha": 3
+    },
+    "score_promedio": 0.161,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Para decirlo más claramente, no es que ha dejado su cargo: Javier Milei echó al ministro de Infraestructura, Guillermo Ferraro.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata de la Ley Ómnibus, la ley que, como todos sabemos, tiene un impacto muy fuerte sobre muchísimas materias, tanto en lo económico como en lo político, y que el gobierno está negociando, veremos, sin éxito, en el Congreso con los distintos bloques opositores.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Detrás de toda esa pelea apareció la renuncia de Guillermo Ferraro, algo con poquísimos antecedentes, en un gobierno nuevo, donde se supone que un presidente pone a su primer equipo, pone a sus mejores hombres y mujeres para empezar a desarrollar su gestión.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay antecedentes: uno podría pensar en los 15 días que duró **Ricardo López Murphy** como ministro de Economía en el gobierno de **Fernando de la Rúa** ya por 2001, o podría pensar también, hace poco tiempo, en 2022, cuando **Silvina Batakis** ocupó el Ministerio de Economía también solamente durante un mes, en plena crisis política del gobierno de **Alberto Fernández**.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso decidimos titular esta apertura con \"La curiosa infraestructura del gobierno de Javier Milei\".",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que decía Guillermo Ferraro, esto es lo que pensaba el gobierno que tenía a su cargo: \"Todos saben que un presupuesto nacional no se puede sostener con 15 puntos de inversión de infraestructura.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta particular posición sobre la obra pública era la que tenía Guillermo Ferraro en ese momento, todavía un potencial ministro del gabinete de Javier Milei.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dos días antes de que asumiera Javier Milei, se conoció que dos áreas centrales para la infraestructura, el área de energía y el área de minería, iban a pasar a la órbita de **Luis Caputo**.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así hablaba el diputado oficialista Oscar Zago, enterándose, en plena entrevista, de que un ministro central de los ocho ministros de este gabinete reducido que introdujo Javier Milei había dejado su cargo.",
+      "score": 0.694,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digamos, un cargo, si se quiere, de segundo orden, pero, desde luego, de mucha relevancia para toda la administración de salud.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así son los movimientos dentro de los funcionarios de Javier Milei.",
+      "score": 0.174,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le damos la bienvenida a **Claudio Mardones**.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que las diferencias eran mucho mayores, especialmente con el jefe de gabinete, **Nicolás Posse**, y que fue precisamente quien le informó de que estaban sacándolo del cargo.",
+      "score": 0.126,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una figura que no es desconocida para el Congreso de la Nación, porque ha sido uno de los funcionarios que estuvo en el plenario de las tres comisiones que tratan la Ley Ómnibus para defenderla.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Especialmente, con la glándula más sensible de esa negociación, que es el tema de fondo de lo que está sucediendo y es la relación con los gobernadores.",
+      "score": 0.162,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese contexto es que se suma otro capítulo más a esta negociación en la Cámara de Diputados, pero en un momento en donde las negociaciones no se han caído.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora bien, esta filtración, esta frase que dijo en privado, en el ámbito del gabinete, el presidente Javier Milei sobre los gobernadores, fue lo que aparentemente dejó fuera del gobierno a Guillermo Ferraro, pero, al mismo tiempo, en este ir y venir con los gobernadores, ya podría decirse que Milei se anotó una pequeña victoria política.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver si le sirve para tener ley, eso todavía no lo sabemos.",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando se produjo una ruptura dentro del bloque de Unión por la Patria con la salida de los diputados que responden al gobernador tucumano, **Osvaldo Jaldo**.",
+      "score": 0.17,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que decía el gobernador de Tucumán cuando, desde luego, hubo una sorpresa enorme, no solo por el apoyo de los diputados tucumanos al proyecto oficialista, sino también, por supuesto, por la salida del bloque del kirchnerismo.",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que decía el gobernador Osvaldo Jaldo: \"Todo lo que nosotros hemos solicitado estaba inserto en el dictamen de mayoría.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese dictamen que firmó Agustín Fernández se bajaron las retenciones de la actividad citrícola y en ese dictamen que firmó Agustín Fernández está un avance importante del bioetanol.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta curiosa infraestructura del gobierno de Milei pasan estas cosas.",
+      "score": 0.374,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el caso del gobernador de Santa Fe, **Maximiliano Pullaro**, que, una vez que el ministro de Economía, Luis Caputo, también salió a decir: \"Ojo que, si no aprueban la ley, va a haber más recortes a las provincias\", el gobernador Pullaro decía lo siguiente: \"Es una angustia que el gobierno central se pretenda quebrar una decisión de, creo que sí nos habla a nosotros, porque fuimos el principal gobierno que se plantó ante un tema que entendíamos que era injusto para la provincia de Santa Fe, retenciones a las deportaciones agropecuarias y retenciones a las deportaciones industriales.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros vamos a defender a la producción de la provincia de Santa Fe y si Caputo piensa de esa manera, nosotros vamos a trabajar para hacerle entender que es un error aumentar las retenciones al campo y a la industria porque lo que va a lograr es que se pierdan puestos de trabajo y que se pierda el crecimiento económico en el interior de Argentina, que desde Buenos Aires miren mucho más al interior.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos al gobernador que uno supone más alejado del gobierno de Javier Milei, al gobernador Jaldo de Tucumán apoyando y conciliando con la posición oficialista y un gobernador que, al revés, uno supone más cercano, claramente abriendo un frente de conflicto.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí, en este contexto, en el sube y baja de las relaciones de poder del poder ejecutivo, lo cierto es que hay un poroto que se suma en este contexto el ministro Guillermo Francos, porque finalmente pudo capitalizar una parte de la negociación con los gobernadores del norte, Fernando, y eso fue especialmente lo que decía Jaldo.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablaba del diputado Agustín Fernández, que es el que puso la firma en el dictamen de mayoría, pero no está solo, está acompañado por **Gladys del Valle Medina** y **Elia Fernández de Mancilla**.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los menciono los tres porque son tres votos en el recinto, tres votos que forman parte del bloque de independencia, que fue el que finalmente se cristalizó luego de que se conociera que estaba el gancho de Fernández en el dictamen.",
+      "score": 0.297,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Allí, Claudio, eso podría llevar a un escenario donde el gobierno gane, pero pierde.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, donde el gobierno consiga la aprobación de la ley en general, pero después cada uno de estos temas, en muchos casos algunos centrales, como puede ser el tema de las retenciones, que para el gobierno fiscalmente es esencial, en algunos de esos temas vaya sufriendo pequeñas derrotas.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, siguieron las reuniones en el despacho de **Martín Menem**, presidente de la Cámara de Diputados.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sumó el tabaco y eso también impacta directamente en las provincias norteñas, y estamos hablando también de Tucumán y de Salta y de Jujuy, también para las especies, para las exportaciones de los productores especieros, ir al falfa.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque no todas las reuniones fueron en los despachos oficiales, en los despachos del Congreso, en el despacho del presidente de la Cámara, Martín Menem, como recién decía Claudio.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"¿Y estaban los jefes de bloque del Pro y la UCR?\".",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernando parece que vio algo que no le gustó, especialmente porque, bueno, ayer, pongamos esto en contexto...",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, exactamente, porque vio algo que no le gustó y parece que fue la cara de Federico Sturzenegger lo que no le gustó.",
+      "score": 0.439,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No fue el único al que no le gustó que estuviera ahí, pero pongamos esto en su debido contexto.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, día del paro oracional, bueno, en este contexto, lo que hubo luego de la reunión del paro oracional, bueno, fue volver al Congreso.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un funcionario que responde al presidente de la Cámara, Martín Menem.",
+      "score": 0.329,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que, en un momento, es donde se acelera todo, y es porque el peronismo, y especialmente **Germán Martínez**, el presidente del principal bloque de la oposición, procedores de la mayor cantidad de firmas dentro del plenario, dice: \"Bueno, no tienen los votos, nosotros retiramos nuestro dictamen y que se arreglen ellos, que vean qué es lo que hacen\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí queda un dictamen firmado, se abre una negociación al día siguiente, en Recoleta, pero que tuvo dos capítulos, ahora los vamos a desarrollar, pero uno tuvo que ver con lo más importante, que era que no se podía sesionar el jueves, que así no se alcanzaba para sesionar el jueves, que había que post datar eso, y que luego de eso, reordenar un poco.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como coletazo, nada más y nada menos, quedó un ministro en el camino, y un ministro muy importante, el ministro de Infraestructura, Guillermo Ferraro, hasta el momento, vamos a ver si después Claudio nos aporta alguna información más, las áreas de infraestructura podrían pasar al ministerio de economía, es decir, podría ocurrir que Guillermo Ferraro no tenga reemplazante.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así se mueve la curiosa infraestructura del gobierno de Javier Milei, que ya dejó a un ministro en el camino, por eso, en esta apertura, la cerramos con esta canción de María Becerra, con el adiós para el primer ministro que deja su cargo en el gobierno de Javier Milei.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Mentira, le digo a ti!",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 45
+  },
+  "etiqueta_original": "neutral"
+}

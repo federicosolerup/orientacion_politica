@@ -1,0 +1,27 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer entrevisté a Mario Grinman, presidente de la Cámara Argentina de Comercio.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Ahora atravesamos una recesión, pero con esperanza; antes teníamos un consumo que sabíamos que era falso, pues, lamentablemente, Argentina lleva décadas construyéndose sobre mentiras y relatos fantasiosos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Es notable; tuve que escucharlo varias veces porque no lo creía: el presidente de la Cámara Argentina de Comercio, que representa a los comerciantes —seguramente muchos están escuchando—, afirma que el consumo era mentira, pero que ahora la esperanza es real.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente",
+        "cámara"
+      ]
+    }
+  ]
+}

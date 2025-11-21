@@ -1,0 +1,300 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Un grupo de gremios presiona en la ciudad para el cierre de las escuelas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Están al tanto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, claro, pero ojo con esto, porque la situación podría agravarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quieren postergar la fecha de las PASO?",
+      "entidades_detectadas": [
+        "¿Quieren"
+      ]
+    },
+    {
+      "frase": "Basta, muchachos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya nos dimos cuenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque la economía no se recupera, la inflación sube y aún no han podido revertir la fuga de votos ocasionada por el escándalo de los vacunados VIP.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si están preocupados por eso, deberían estarlo aún más, porque en unos minutos, junto con Hugo Macchiavelli, presentaremos una grave denuncia contra 39 altos funcionarios del IOMA, casi todos pertenecientes a La Cámpora y algunos directamente vinculados al sindicalista Roberto Baradel.",
+      "entidades_detectadas": [
+        "Hugo Macchiavelli",
+        "Roberto Baradel",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Pero volvamos a la emboscada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En marzo de este año, el gobierno anuló el decreto del gobierno anterior que permitía el voto anticipado a, al menos, 360.000 argentinos residentes en el exterior.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son más que algunos provincias enteras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "360.000 votos de argentinos en el exterior implicaban demasiados votos en contra del oficialismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, por eso hablo de emboscada, están intentando enredar a la oposición para, como máximo, lograr postergar la fecha de las PASO, prevista para el 8 de agosto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto, las autoridades deben preocuparse por neutralizar el COVID-19, pero las elecciones deben realizarse, porque el desbarajuste que provocaría un cambio institucional sería gravísimo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, como máximo quieren postergar las elecciones y, como mínimo, sumergir a Juntos por el Cambio en una interna feroz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya están en medio de una interna.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo sucedido esta semana en la Casa Rosada entre los ministros Sergio Massa, Axel Kicillof, Máximo Kirchner, Jorge Macri y Cristian Ritondo, es solo un anticipo de las maniobras que vendrán.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Casa Rosada",
+        "Sergio Massa",
+        "Cristian Ritondo",
+        "Jorge Macri",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "Mientras intentan distraernos con este juego perverso, despliegan una nueva cortina de humo para ocultar, por ejemplo, que en la provincia de Buenos Aires la inseguridad está descontrolada.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Le pido al ministro Sergio Berni que deje de hacerse el superhéroe y solucione el problema.",
+      "entidades_detectadas": [
+        "el superhéroe",
+        "Sergio Berni"
+      ]
+    },
+    {
+      "frase": "En la provincia de Buenos Aires se han multiplicado las muertes en medio de intentos de robo.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Pero a nosotros no nos van a callar ni nos van a cambiar la agenda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, hoy les mostraremos el informe de Agustín Agirón titulado \"La Matanza, zona liberada, vecinos en alerta\".",
+      "entidades_detectadas": [
+        "Agustín Agirón"
+      ]
+    },
+    {
+      "frase": "Hablando de ventajas y privilegios, les recomiendo que vean el informe de Luz de Azúcar sobre la tripulación VIP de los vuelos de la esperanza, todos amigos de Pablo Vírguez, el sindicalista.",
+      "entidades_detectadas": [
+        "Pablo Vírguez"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, nosotros seguiremos desarmando operaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una de ellas es la del ministro de Justicia, Martín Soria, contra la Corte Suprema y contra los fiscales y jueces que investigan a Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "ministro de Justicia",
+        "Cristina Fernández de Kirchner",
+        "Martín Soria",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Y vamos a seguir denunciando la apertura de una nueva temporada de \"Casa de periodistas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos en la lista de siempre, junto con Joaquín Morales Solá, Alfredo Leuco, Jonatan Viale, Eduardo Feinmann, Jorge Lanata, Carlos Pagni, Pablo Sirvén, Ricardo Kirschbaum y muchos otros.",
+      "entidades_detectadas": [
+        "Pablo Sirvén",
+        "Joaquín Morales Solá",
+        "Carlos Pagni",
+        "Jonatan Viale",
+        "Eduardo Feinmann",
+        "Ricardo Kirschbaum",
+        "Alfredo Leuco",
+        "Jorge Lanata"
+      ]
+    },
+    {
+      "frase": "Comenzó la \"Casa de periodistas\".",
+      "entidades_detectadas": [
+        "Comenzó"
+      ]
+    },
+    {
+      "frase": "Por mi parte, ante \"Casa de periodistas\" me declaro culpable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Arréstenme, sargento, y pónganme cadenas!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Elisa Carrió también se puso un disfraz de presa.",
+      "entidades_detectadas": [
+        "Elisa Carrió"
+      ]
+    },
+    {
+      "frase": "¿De qué soy culpable?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De conversar pública y privadamente con todos los presidentes desde 1983 hasta la fecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina Kirchner también es culpable.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "La visité en su despacho del Senado.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Incluso, cuando era diputada, vino al estudio de \"La Cornisa\" por pedido de su vocero de entonces, Miguel Núñez, quien quería que la entrevistáramos a solas.",
+      "entidades_detectadas": [
+        "Miguel Núñez"
+      ]
+    },
+    {
+      "frase": "Le explicamos que no correspondía, pero finalmente aceptó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quienes conocen a Cristina dicen que, desde entonces, nos \"hizo la cruz\".",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Será tan rencorosa y vengativa?",
+      "entidades_detectadas": [
+        "Será"
+      ]
+    },
+    {
+      "frase": "¿Por qué el juez colocaba penalidades a funcionarios sobre sus propios patrimonios?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si un funcionario comete un delito, debe ser encarcelado, juzgado, procesado e indagado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero si no lo hacían, les ponía multas que debían pagar de su propio patrimonio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenía aterrorizado a todo el mundo.",
+      "entidades_detectadas": [
+        "Tenía"
+      ]
+    },
+    {
+      "frase": "Pero no hay que aterrorizar, sino tener temor a Dios y a mí, en todo caso, también un poquito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dili Tacarrio: Buenas noches.",
+      "entidades_detectadas": [
+        "Dili Tacarrio"
+      ]
+    },
+    {
+      "frase": "Gracias por atendernos en este Domingo de Pascua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sabemos que usted sacrifica las Pascuas para dar entrevistas, lo agradecemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aprovecharemos el tiempo para hacerle la primera pregunta: ¿En qué situación ve a la Argentina?",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Comenzó",
+    "Agustín Agirón",
+    "Elisa Carrió",
+    "Ricardo Kirschbaum",
+    "¿De qué",
+    "Cristian Ritondo",
+    "Roberto Baradel",
+    "La Cámpora",
+    "ministro de Justicia",
+    "Jorge Lanata",
+    "Pablo Vírguez",
+    "Máximo Kirchner",
+    "Joaquín Morales Solá",
+    "Cristina Fernández de Kirchner",
+    "¿Será",
+    "Cristina Kirchner",
+    "Tenía",
+    "Casa Rosada",
+    "Sergio Massa",
+    "Jonatan Viale",
+    "¿Quieren",
+    "Eduardo Feinmann",
+    "Jorge Macri",
+    "Martín Soria",
+    "Cristina",
+    "provincia de Buenos Aires",
+    "el superhéroe",
+    "Alfredo Leuco",
+    "Axel Kicillof",
+    "Pablo Sirvén",
+    "Corte Suprema",
+    "la Argentina",
+    "Carlos Pagni",
+    "Sergio Berni",
+    "Miguel Núñez",
+    "Hugo Macchiavelli",
+    "Sí",
+    "Senado",
+    "Dili Tacarrio"
+  ]
+}

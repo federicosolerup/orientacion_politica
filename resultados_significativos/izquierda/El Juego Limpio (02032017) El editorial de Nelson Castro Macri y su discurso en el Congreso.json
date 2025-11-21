@@ -1,0 +1,46 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 5,
+      "derecha": 1
+    },
+    "score_promedio": 0.307,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El discurso de Macri señaló logros que existen, algunos de los cuales fueron destacados por el diputado Amadeo.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gran ausente fue el reconocimiento de la situación de mucha gente a la cual se le habla de largo plazo sin considerar el presente.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y está claro que el presidente tiene este déficit en su gestión, el enfocarse más en el \"después\" que en el \"ahora\".",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay gente que en el \"ahora\" experimenta una diferencia brutal con el \"después\" que se le promete.",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No me gustó la alusión de Macri a Roberto Baradel.",
+      "score": 0.392,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué hubieran dicho si, cuando hablaba Cristina Fernández de Kirchner, los opositores hubieran tenido los actos de intolerancia que tuvieron durante el discurso?",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 6
+  },
+  "etiqueta_original": "neutral"
+}

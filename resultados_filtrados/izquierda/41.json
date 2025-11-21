@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Juan Ángel Sciolli, empresario pyme, presidente de la Cámara Económica de San Martín y titular de la Central de Entidades de Empresas Nacionales, dialogó con nosotros sobre la dramática situación que atraviesa el sector.",
+      "entidades_detectadas": [
+        "presidente",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Pero en todos los procesos desde la década de 1970 (el \"tablita\" de Martínez de Hoz, el \"uno a uno\" de Cavallo, la gestión de Macri y la actual), hemos perdido posiciones industriales.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Andrés le saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Ahora, con el cierre de fronteras en un mundo globalizado, y considerando la asunción del presidente Trump y la guerra comercial con China, la situación es compleja.",
+      "entidades_detectadas": [
+        "presidente",
+        "trump"
+      ]
+    },
+    {
+      "frase": "He visto un tuit de Guillermo Michel, ex titular de la Aduana, sobre medidas antidumping contra China, pero aún así ingresa mucha mercadería de China y otros países asiáticos.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    }
+  ]
+}

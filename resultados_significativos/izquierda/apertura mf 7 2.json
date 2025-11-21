@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 3
+    },
+    "score_promedio": 0.332,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a analizar cuatro temas: jubilaciones, planes sociales, precios justos y juicio político, donde ustedes van a ver y escuchar que el mismo tema que plantea, en un momento, el oficialismo, la oposición de ese momento se le opone con determinados argumentos, y viceversa, cuando el que era oposición pasa a ser oficialista, propone lo mismo que antes había criticado, e incluso peor, el que antes lo había propuesto lo critica.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar primero con la Pensión Universal para Adultos Mayores, o sea, la jubilación que ahora **María Eugenia Vidal** está pidiendo en el Congreso que los diputados de la oposición aprueben, cuando era al revés, cuando, durante el gobierno de Macri, **Emilio Basavilbaso**, exdirector de ANSES, decía: \"Todos van a recibir el 80% de la jubilación mínima, con y sin aportes\".",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Contradicción 1: acusarse unos a otros de que, en realidad, le dan jubilaciones a personas que no hicieron sus aportes y se \"regalan\" jubilaciones.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este camino, que sabemos que ha sido difícil, que a mucha gente le ha costado, pero estoy convencido de que es el camino que nos va a llevar hacia el progreso.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decirnos la verdad, el poner las variables reales sobre la mesa, el construir un escenario donde podamos crecer, porque eso es lo bueno, los argentinos tenemos con qué crecer, pero mientras, hay que estar cerca de aquellos que lo necesitan y vamos a estar como lo hemos estado todo este año y como nunca antes, porque hemos aumentado la cantidad de programas sociales, de ayuda social, la tarifa social, la asignación familiar, realmente hemos estado muy cerca de todos aquellos que más lo necesitan en la sociedad argentina\".",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La crítica que se le hace al actual gobierno ahora más anuncia una auditoría de planes sociales.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición acusa al gobierno de armar un circo con el juicio político y, al mismo tiempo, la oposición había propuesto un juicio político al presidente por una declaración que había hecho en un programa periodístico, pareciera infinitesimal al lado del actual, pero, de cualquier forma, para unos, el juicio político es una herramienta destituyente y, en el otro momento, es la herramienta correcta y útil para solucionar un problema de gobernabilidad.",
+      "score": 0.423,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Juntos por el Cambio\" pide el juicio político a Alberto Fernández, 25 de agosto de 2022, hace apenas ocho meses.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la nación no debe opinar y mucho menos intimidar a la justicia.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entendemos nosotros, y sabemos la responsabilidad institucional que significa un pedido de juicio político por parte de la oposición, pero también entendemos lo que hoy está pasando en la calle y lo que están pasando los argentinos, al ver que un presidente de la nación intenta intimidar, amenazar y violentar el trabajo de un poder que debe ser independiente\".",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El juicio político en el marco del artículo 53 de la Constitución Nacional, en virtud del mal desempeño en las funciones de los cuatro jueces de la Corte Suprema de Justicia de la Nación.",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese contexto, el presidente de la República, con la mayoría de gobernadores y gobernadoras, hemos propiciado esta iniciativa, en virtud de una multiplicidad de hechos, de los cuales pueden sintetizarse desde la violación de la Ley de Ética Pública, la 25.188, hasta el mal desempeño a partir de decisiones que tienen que ver con, oportunamente, la declaración de inconstitucionalidad de la ley 26.080 después de más de 16 años de vigencia, la restitución de la ley 24.937 y, en este contexto, perdón, 26.088 y la restitución de la ley 24.937.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Depende de quién lo haga en cada uno de los momentos, lo hizo el gobierno de Macri, lo hace el gobierno de Alberto Fernández.",
+      "score": 0.422,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que haya planes sociales, se aumenten los planes sociales, lo mismo, lo hizo el gobierno de Macri, lo hizo el gobierno de Alberto Fernández.",
+      "score": 0.243,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que haya planes de precios claros, precios justos, lo hizo el gobierno de Macri, lo hizo el gobierno de Alberto Fernández, y que haya pedido de juicio político, lo hizo la oposición y lo hizo el oficialismo durante este gobierno.",
+      "score": 0.438,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

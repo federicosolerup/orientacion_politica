@@ -1,0 +1,307 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Silvina, un caso desesperado, contactó buscando ayuda.",
+      "entidades_detectadas": [
+        "Silvina"
+      ]
+    },
+    {
+      "frase": "Hablé con el doctor Cristian Peralta.",
+      "entidades_detectadas": [
+        "Hablé",
+        "Cristian Peralta"
+      ]
+    },
+    {
+      "frase": "—Doctor, ¿cómo está?— pregunté.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Jorge Real, aquí.",
+      "entidades_detectadas": [
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "Tuve un día agotador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo está usted?— —Bien, un gusto.",
+      "entidades_detectadas": [
+        "Bien"
+      ]
+    },
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Es un placer volver a hablar con usted.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recién decía que muchas víctimas de Otoki u otros cirujanos lo buscaban a usted, ¿verdad?",
+      "entidades_detectadas": [
+        "Otoki"
+      ]
+    },
+    {
+      "frase": "Desesperadas por saber qué les ocurría.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Sí, sí, es cierto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empecé, hace mucho tiempo, a advertir que el producto que esta persona usaba sería muy perjudicial en el futuro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que eso me permitió divulgar mi opinión, y la de otros médicos que ya sabíamos que se trataba de un producto totalmente prohibido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sabíamos qué clase de producto era, solo que estaba prohibido y hecho con una sustancia que no se eliminaba del cuerpo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En 2016, Silvina vino a California y la operé para extraer el producto.",
+      "entidades_detectadas": [
+        "Silvina",
+        "California"
+      ]
+    },
+    {
+      "frase": "Hay que aclarar que la extracción completa es imposible, y le explicaré por qué.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El producto tiene dos fases: una líquida y una sólida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La fase líquida es polimetilsiloxano, silicona líquida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La sólida es alginato de calcio de fraguado lento, un cemento usado en prótesis dentales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo supimos gracias al informe de laboratorio, porque hasta entonces solo sabíamos que el producto estaba localizado, pero no su composición química.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos sorprendió descubrir que era una mezcla, casi casera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La parte sólida, en el tejido celular subcutáneo y el músculo, se puede extraer parcialmente, pero la líquida pasa a la circulación sanguínea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La sangre circula constantemente, y se descubrió que este producto, tras 5 o 10 años, desencadena enfermedades autoinmunes como lupus eritematoso, esclerodermia e hipercalcemia (como en el caso de Gabriel Atranchi, quien desarrolló el síndrome de Guillain-Barré).",
+      "entidades_detectadas": [
+        "Guillain-Barré",
+        "Gabriel Atranchi"
+      ]
+    },
+    {
+      "frase": "Además, todos los pacientes evolucionan primero a una insuficiencia renal aguda, con destrucción del glomérulo renal (que filtra los desechos metabólicos), y luego a una insuficiencia renal crónica.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "El riñón deja de funcionar, el calcio disminuye, el potasio aumenta, se producen arritmias ventriculares, falla el corazón y el paciente puede fallecer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También puede producirse hipotensión cerebral.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "—Cristian, ¿esas enfermedades preexistentes fueron consecuencia…?— —Claro, todos los libros de medicina y cirugía plástica advierten que el polimetilsiloxano (silicona líquida; también llamado articól, biopolímero, metacrilato, etc.) está totalmente prohibido porque es permanente: permanece en el cuerpo toda la vida, desencadenando anticuerpos, una defensa del cuerpo contra el veneno.",
+      "entidades_detectadas": [
+        "Cristian",
+        "¿",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Se crean anticuerpos, pero malos, que degeneran en enfermedades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El cuerpo, atacado por un elemento extraño, se defiende creando anticuerpos para detener la sustancia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al no poder detenerla, la sustancia daña todos los órganos, porque el organismo no está preparado para ese veneno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando dicen que la paciente tenía una enfermedad preexistente, hay que considerar que si se detectan valores elevados de calcio o potasio, se trata de un problema grave.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si se hacen solo estudios de sangre sin una historia clínica completa, no se puede diagnosticar correctamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Encontraron historias clínicas incompletas incluso en el caso del empresario fallecido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Si se busca el hilo conductor de todas las víctimas, es Otoki.",
+      "entidades_detectadas": [
+        "Otoki"
+      ]
+    },
+    {
+      "frase": "Cada uno tuvo distintas consecuencias, pero el origen es Otoki.— —Exacto.",
+      "entidades_detectadas": [
+        "Otoki",
+        "Exacto"
+      ]
+    },
+    {
+      "frase": "Creo que habrá más víctimas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al principio me criticaron mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dije que serían las lesiones del siglo XXI.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las pacientes tenían granulomas…  Otoki no tiene la especialidad ni es cirujano.",
+      "entidades_detectadas": [
+        "Otoki"
+      ]
+    },
+    {
+      "frase": "Él dice que no es cirujano plástico, sino cirujano, pero no es cierto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se recibió en una universidad, pero eso no lo convierte en cirujano general.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para serlo se necesita una residencia de cuatro años y la especialidad en cirugía plástica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él dice que hizo cursos, pero los cursos se compran.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su consultorio estaba lleno de fotos de famosos y diplomas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Cristian, le harían autopsia a Silvina.",
+      "entidades_detectadas": [
+        "Cristian",
+        "Silvina"
+      ]
+    },
+    {
+      "frase": "Usted dijo que el producto era líquido y sólido, y que el líquido era imposible de extraer.",
+      "entidades_detectadas": [
+        "Usted"
+      ]
+    },
+    {
+      "frase": "¿En la autopsia encontrarían algo?— —Creo que sí, porque aunque se intente extraer todo lo sólido, quedan partículas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El cuerpo reabsorbe y absorbe sustancias, y la extracción completa es imposible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo líquido quedará en los vasos sanguíneos y riñones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Silvina tenía insuficiencia renal y falla cardíaca.",
+      "entidades_detectadas": [
+        "Silvina"
+      ]
+    },
+    {
+      "frase": "El médico forense tiene las herramientas para evaluar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La autopsia es importante, porque puede descubrir cosas que en vida no se podían.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Yo intenté extraerlo todo y no pude.— —Exacto.",
+      "entidades_detectadas": [
+        "Exacto"
+      ]
+    },
+    {
+      "frase": "Creo que se llegará a un resultado exacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Cristian, un gusto hablar con usted y gracias por ayudarnos a entender lo que pasó con Silvina.— —Un abrazo, Jorge.",
+      "entidades_detectadas": [
+        "Cristian",
+        "Silvina",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Gracias por todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Otoki",
+    "Empecé",
+    "Cristian",
+    "Encontraron",
+    "California",
+    "Exacto",
+    "Además",
+    "Hablé",
+    "pregunté",
+    "Guillain-Barré",
+    "Desesperadas",
+    "Buenos días",
+    "Claro",
+    "Silvina",
+    "Usted",
+    "Recién",
+    "Gabriel Atranchi",
+    "Bien",
+    "Yo",
+    "¿",
+    "Cristian Peralta",
+    "Él",
+    "Jorge Real",
+    "Jorge"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En una reunión en la Casa de Gobierno estuvieron presentes el presidente de la Cámara de Diputados, Sergio Massa, el ministro del Interior, Eduardo \"Wado\" de Pedro, intendentes, otros ministros, el gobernador de Buenos Aires, el intendente de Vicente López, Jorge Macri, y el diputado opositor Cristian Ritondo.",
+      "entidades_detectadas": [
+        "sergio",
+        "presidente",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "La versión oficial es que esta propuesta responde a una cuestión sanitaria, una acción que impulsa Máximo Kirchner, quien hasta hace unas semanas no estaba a favor de la suspensión de las PASO, pero que, ante la presión de los propios gobernadores del peronismo, ahora propone a la oposición que, frente a la situación epidemiológica y el previsible avance del COVID-19 (esperemos que no ocurra, pero así lo indican los especialistas), se suspenda o se posterguen las primarias.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Hasta ahora, la oposición se negaba a modificar el cronograma electoral, pero parece que ha comenzado un diálogo más concreto, lo que podría resultar en un cambio significativo en el Congreso en relación con las elecciones.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "En Chile, debido a la pandemia, el presidente Piñera solicitó la suspensión de la votación para elegir a los convencionales que redactarán la nueva Constitución.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Qué podría pasar en Argentina si se suspenden o se postergan las PASO?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

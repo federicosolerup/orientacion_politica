@@ -1,0 +1,426 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 70
+    },
+    "score_promedio": 0.764,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto, hoy me contaron que en el Instituto Patria te están armando, cuando termine **José** poné la canción, **Alberto Fernández**, me contaron hoy por la tarde que en el Patria te están armando el nuevo gabinete.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, yo escribí un libro hace muchos años que se llamaba *Basta de Miedos*, y hoy pensando qué nombre le ponemos a esta editorial, surgió esto.",
+      "score": 0.455,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me pregunto por qué no ganan los valores, por qué no gana la audacia, por qué no le ponemos pelotas a esta situación que nos agobia.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el presidente **Alberto Fernández** se juntó con **Evo Morales**.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer le dedicamos bastante de la editorial a **Evo Morales** y a la gente que en Bolivia dejó morir a un argentino.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le habrá preguntado hoy **Alberto Fernández** a **Evo Morales**.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no le leí en ningún lado, tal vez me equivoqué.",
+      "score": 0.576,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entre Argentina y Bolivia hay un tratado de reciprocidad.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después del accidente de la moto, le robó la policía, le robó la guita que tenía la policía al argentino que finalmente murió sin atención en Bolivia.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cana le sacó la guita.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo dejaron morir, contaron en principio porque no tenía la plata, pero después se terminó sabiendo por la familia que además le habían robado la plata.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le preguntó, me parece, por el argentino que se murió en Bolivia.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras, el presidente **Alberto Fernández** se reunía hoy con **Evo Morales** en Argentina, sigue el hambre, la inflación, la desocupación, el desabastecimiento.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Evo Morales** en esta cuenta nos va a relatar, al igual que a **Cristina**, que detesta que le digan excelentísimo, ponele.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Evo Morales** dice que no le gusta que le digan excelentísimo porque esa palabra viene de ese *lentísimo, incomprobable*.",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me está gustando que los gobiernos digan compañero presidente, compañero presidente, pero le he eliminado excelentísimo presidente.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evo cuando está en la Argentina siempre está de joda.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le regalaron hasta la camiseta que tiene el 10 en la espalda.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando era presidente **Evo Morales**?",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le pidió jugar los últimos cuatro partidos.",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente que los tipos la pasan bomba, al pueblo le chupa un huevo.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá el homenaje que le hizo a **Evo Morales**.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La canción que le pusieron y todo editadito.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie le preguntó a **Evo Morales** por el argentino que dejaron morir en Bolivia.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zurdo Rico, como le gusta a este gobierno.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no, nunca le preguntó.",
+      "score": 0.587,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca le preguntó por el argentino que dejaron morir en Bolivia.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí lo veíamos al amigo del presidente y hablando del presidente.",
+      "score": 0.647,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Míralo al presidente **Alberto Fernández** de gira, cual estrella de rock por Enverazategui.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está cada día más solo en el Patria.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este momento, 21 a 10, le están armando el nuevo gabinete a **Alberto Fernández**.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me contaron en el Patria que ya hay una persona que no aguanta más del entorno de **Alberto Fernández**, que es **Santiago Cafiero**.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero mira el presidente sacándose selfies como si estuviera todo bien.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, usted no está en campaña.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted ya es el presidente.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, le están armando el gabinete, el nuevo gabinete en el Patria.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué lástima que el presidente no tuvo los huevos para enfrentar a **Cristina**.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a verlo al presidente **Alberto Fernández**.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la verdad que, qué sé yo, a uno le da un poco de cosa, ¿no?",
+      "score": 0.554,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque va a inaugurar un poco de pavimento y no sé, capaz que le pone garra, pero qué sé yo, es raro verlo al presidente sacándose selfies, viviendo en una realidad que no es la que tenemos todos los argentinos.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo vemos al presidente junto a la ministra **Batakis** como si fuera una seguidora, una militante y el tipo de los asados, ¿se acuerdan?",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual miraba hoy a **Batakis** y yo, cuídemosla, **Batakis**, porque en Argentina siempre puede venir un ministro de Economía peor.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y también lo tenemos ahí al que decía que con este gobierno, con el frente de todos contra todos, volvían los asados.",
+      "score": 0.355,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escúchalo al Papa Francisco hablar de sus amigos comunistas.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que el presidente Obama lo quiso en su momento.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuba es un símbolo, Cuba...",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Papa Francisco, usted sabe muy bien que lo acusan de comunista.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Eso le divierte o le enoja o le enorgullece?",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le va a dar como ponerle dos, tres meses y después va a empezar a revolear ministros de nuevo.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado limita sus gastos.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojo igual, porque la gente, el pueblo ya lo vimos en la marcha.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente que es millonaria y sindicalista dice que le importan los pobres.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen que le importa la gente.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuánto le garpan a esta gente para no hacer un paro, por no hacer despelote?",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La economía de **Macri** le parecía un espanto.",
+      "score": 0.841,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri 0,4%.",
+      "score": 0.793,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** todavía no le hicieron ni un solo paro general.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, en el Instituto Patria le están armando a **Alberto Fernández** el nuevo gabinete que se va a dar a conocer muy pronto.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque en Argentina estamos haciendo todo muy mal.",
+      "score": 0.722,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, es verdad que la Argentina colisionó, colisionó todo.",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es verdad que la Argentina colisionó, colisionó todo.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí está el gran **Bulat**, **Tomás Bulat**, que le explica a **Alejandro Fantino** cómo saber si nuestro dinero tiene valor.",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuántos autos, de lo que se le todo?",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "fuera el presidente y los argentinos y nos cuidara todo el tiempo.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá tuviéramos un gobierno y un presidente como él.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá tuviéramos un gobierno, un presidente como el perro, que lo ayuda a salvarse, que lo quiere, que lo protege, que se sacrifica por él, no como nuestros gobernantes.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, el perro, que podría ser el presidente, lo lleva por el camino correcto.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Humildemente le preguntaría al perro si no le gustaría ser el presidente de los argentinos.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina necesita patriotismo y coraje.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Echada mierda la Argentina que **Samid** cree que tiene posibilidades.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como decía **Atahualpa Yupanqui**, las penas son de nosotros, las vaquitas son ajenas.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Prohibió el rojo y prohibió el naranja porque dice que esos colores a la gente le hacen recordar a otros partidos políticos.",
+      "score": 0.769,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo que yo hoy quiero expresar lamentablemente es el atropello a la democracia que hay en las instituciones educativas y que nadie se anima a decir.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Patricia Bullrich** escribió en sus redes sociales: En Formosa quieren anular el sol, dejar sin color a los girasoles y hasta quitarle el amarillo a los patos.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Formosa hablan como **Gaby Neme**, como **Naidenov**, como la docente.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En dos años se fueron 17 aerolíneas de la Argentina y Buenos Aires.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué le pasó, qué vio, qué sintió.",
+      "score": 0.693,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el feo de Angie, le vamos a estar hablando del paro de mañana.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y eso, ese grupo de individuos, vean, le empiezan a pegar.",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Piedras, palos, le pegan, le pegan, todos contra él.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pegaron un piedrazo, se rajaron, se fugaron.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como les digo todos los días, ojo porque la mesa está corta.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 82
+  },
+  "etiqueta_original": "neutral"
+}

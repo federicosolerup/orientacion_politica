@@ -1,0 +1,32 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Esta situación se ve exacerbada por la resistencia de algunos intendentes afines a Cristina Kirchner, quienes cuestionan la flexibilización de la cuarentena en la Ciudad de Buenos Aires.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Esta decisión contrasta con las declaraciones previas del gobernador Axel Kicillof, quien había sugerido la posibilidad de salidas recreativas en la provincia.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Estas disputas políticas, que incluyen críticas de Mauricio Macri a Rodríguez Larreta por su acercamiento al presidente Alberto Fernández, y declaraciones de Mayra Mendoza, intendenta de Quilmes, sobre la necesidad de consensos en la flexibilización de las medidas, oscurecen el verdadero problema.",
+      "entidades_detectadas": [
+        "alberto",
+        "larreta",
+        "macri",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La falta de unidad se refleja también en la justicia, donde se observan interferencias políticas, como en el caso del fiscal Javier de Luca, quien no apeló la decisión de que Amado Boudou cumpla prisión domiciliaria.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    }
+  ]
+}

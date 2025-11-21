@@ -1,0 +1,46 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Argentina ha descendido doce puestos en el ranking de transparencia de Transparencia Internacional, específicamente en los actos de gobierno.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Incluso hubo una investigación del fiscal Carlos Stornelli sobre él.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Incluso, Cristina Fernández de Kirchner, quien controla el Senado y nombra jueces, no ha abordado el caso Ciccone, ya que el acusado está condenado.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "senado"
+      ]
+    },
+    {
+      "frase": "Un ejemplo es el nombramiento de Daniel Boquín, ex abogado de Cristina Fernández de Kirchner y Juan Manuel Abal Medina, en la Cámara Federal.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Para concluir, Hernán Cappiello publicó en La Nación una nota sobre cambios en el Código Penal que permiten anular condenas firmes.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "En definitiva, robar en Argentina es extremadamente fácil.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

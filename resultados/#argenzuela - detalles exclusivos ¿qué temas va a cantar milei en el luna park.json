@@ -1,0 +1,198 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Tranquilos, ya pasó el susto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dieron una noticia y pensé \"¡Uy, qué mal!\", pero bueno, no vale la pena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay show.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quieren saber cómo será?",
+      "entidades_detectadas": [
+        "Quieren"
+      ]
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ahora!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo el programa oficial de la presentación de hoy de Javo Milet.",
+      "entidades_detectadas": [
+        "Javo Milet"
+      ]
+    },
+    {
+      "frase": "Tiene mucha información.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El acto de hoy en el Unaparte será así:\n\nPrimero, actuará la banda soporte *Liberal Soporte*, con Berti Venegas Lynch en la batería, Joaquín Venegas Lynch (hermano de Berti) en la guitarra, y Marcelo Duclos (autor de \"Milet y la revolución que no vieron venir\") en el bajo.",
+      "entidades_detectadas": [
+        "Unaparte",
+        "Joaquín Venegas Lynch",
+        "Berti",
+        "Berti Venegas Lynch",
+        "Marcelo Duclos",
+        "Liberal Soporte"
+      ]
+    },
+    {
+      "frase": "También habrá un bombo con la cara de Ludwig von Mises (inicialmente se mencionó erróneamente Moisés, un economista, pero se corrigió).",
+      "entidades_detectadas": [
+        "También",
+        "Ludwig von Mises"
+      ]
+    },
+    {
+      "frase": "No se preocupen, no van a golpear a Mises.",
+      "entidades_detectadas": [
+        "Mises"
+      ]
+    },
+    {
+      "frase": "El show arrancará con la banda interpretando dos temas (preguntenles cuáles).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después, habrá un silencio, seguramente bajarán las luces, y se escuchará un solo de un instrumento llamado \"sofá\", un instrumento de viento que produce un sonido similar al del trombón y que se menciona en textos sagrados judíos como la Torá.",
+      "entidades_detectadas": [
+        "Después",
+        "trombón"
+      ]
+    },
+    {
+      "frase": "Luego, se apagarán las luces y sonará el tema \"Fanny Show\" en loop,  sin parar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Javo Milet ingresará por la platea, entre el público (no por el escenario).",
+      "entidades_detectadas": [
+        "Javo Milet"
+      ]
+    },
+    {
+      "frase": "Se unirá a la banda y cantará con ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después de esta canción, habrá varios éxitos; la gente estará enloquecida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego vendrá la presentación del libro, con una charla donde Javo hablará sobre él.",
+      "entidades_detectadas": [
+        "Javo"
+      ]
+    },
+    {
+      "frase": "Posteriormente, habrá una conversación con Esper y el moderador Manuel Adorno sobre la aplicación del libro a la vida real.",
+      "entidades_detectadas": [
+        "Manuel Adorno",
+        "Esper"
+      ]
+    },
+    {
+      "frase": "El final será con una canción potente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una canción con una historia compleja,  interpretada en el contexto del menemismo, previo al 2001.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se puede interpretar de diferentes maneras;  algunos la ven como una crítica al gobierno, incluso a la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Javo finalizará con esta canción y su arenga tradicional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para resumir:\n\n1.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Banda Liberal Soporte (Berti Venegas Lynch - batería; Joaquín Venegas Lynch - guitarra; Marcelo Duclos - bajo;  bombo con la cara de Ludwig von Mises).",
+      "entidades_detectadas": [
+        "Joaquín Venegas Lynch",
+        "Ludwig von Mises",
+        "Berti Venegas Lynch",
+        "Marcelo Duclos",
+        "Banda Liberal Soporte"
+      ]
+    },
+    {
+      "frase": "2.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solo de \"sofá\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "3.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entrada de Javo Milet por la platea con \"Fanny Show\" en loop.",
+      "entidades_detectadas": [
+        "Javo Milet"
+      ]
+    },
+    {
+      "frase": "4.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Presentación del libro y charla con Esper y Adorno.",
+      "entidades_detectadas": [
+        "Adorno",
+        "Esper"
+      ]
+    },
+    {
+      "frase": "5.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Final con [nombre de la canción].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Unaparte",
+    "Joaquín Venegas Lynch",
+    "También",
+    "Ludwig von Mises",
+    "Berti",
+    "Berti Venegas Lynch",
+    "Javo",
+    "trombón",
+    "Manuel Adorno",
+    "Marcelo Duclos",
+    "¿Quieren",
+    "Javo Milet",
+    "Liberal Soporte",
+    "Mises",
+    "Esper",
+    "Banda Liberal Soporte",
+    "Después",
+    "Adorno"
+  ]
+}

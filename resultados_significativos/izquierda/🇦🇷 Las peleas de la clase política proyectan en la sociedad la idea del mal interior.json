@@ -1,0 +1,116 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 9,
+      "derecha": 11
+    },
+    "score_promedio": 0.435,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vemos cómo se desarrollan, de manera descendente, las peleas entre el presidente y su vicepresidenta, y cómo se generan otros tipos de enfrentamientos entre el oficialismo y la oposición, y finalmente, entre todos contra todos.",
+      "score": 0.334,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar simplemente con uno de los tantos ejemplos de la pelea que tuvimos el último día: la de María Eugenia Vidal con la diputada Victoria Tolosa Paz.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y allí le respondió Victoria Tolosa Paz.",
+      "score": 0.73,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Provincia de Buenos Aires, 5.420 millones de dólares, que decía un 68% en la deuda, en la gestión de la ex-diputada.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Simplemente eso, háganse cargo de la tamaña deuda que le dejaron al gobierno nacional, a la provincia y a cada una de las provincias que sometieron con el pacto fiscal en el 2017.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente va a ir descendiendo, desde el presidente a la vicepresidenta, a distintos legisladores, a distintos dirigentes, y va a terminar llegando, ojalá no, a la sociedad en su conjunto.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la Argentina tiene poca...",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en ese contexto, para transmitir, si se quiere, la sensación que embarga a muchos argentinos, hace una semana, en una reunión en el Congreso también, pero en este caso era a partir de la convocatoria a distintas pymes, el dueño de una pyme, Esteban Wolf, compartió un discurso que vale la pena escucharlo, ese quiebre al final, tiene casi 3 minutos, 2 minutos 51, pero le pido paciencia a la audiencia para que lo escuche, me parece que resulta un mensaje aleccionador.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Soy Esteban Wolf, vengo como empresario, como emprendedor, pyme, soy dueño de una fábrica de lazos, exporto a tres países y tengo que decirles que sufro la Argentina desde hace 15 años.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trabajo desde los 15 años, me tocó a los 18 mantener a mi familia, soy nieto de inmigrantes, mis abuelos, miren de Europa, aquellos italianos, españoles, polacos o alemanes, que vinieron a la Argentina a soñar con un futuro mejor, ellos decían, \"hacerse la América\".",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los emprendedores, las pymes, planificamos el futuro, los próximos 6 a 10 años, sin mirar quién es el ministro de Economía de turno, el presidente de qué bandera o qué color partidario es.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lamentablemente, sufrimos la Argentina todos los días.",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que le pido a todos los senadores que están acá y que nuevamente les agradezco que me hayan invitado, a los diputados, a todas las personas de este gobierno y de los gobiernos que vengan.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo decidí quedarme acá en Argentina para que mi vieja pueda disfrutar a sus únicos nietos que puede ver todos los días.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el mal que podría ser una de las características de la vicepresidenta para algunos, y probablemente para otros podría encarnarlo Mauricio Macri.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, el malo hace el mal porque le gustaría conseguir lo que no sabe conseguir con las armas del bien y, por lo tanto, apela a las del mal, pero le gustaría poder ganar sin hacer trampa, nada más que no sabe.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En líneas generales, la idea de que el mal es ignorancia se la asocia a Macri y que el mal se potencia con la inteligencia se lo asocia a Cristina Fernández de Kirchner.",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es la perspectiva que, de alguna manera, debiera asociarse cuando se percibe a Cristina Fernández de Kirchner como mala.",
+      "score": 0.695,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno de los de lo que pudiéramos decir el Magna Cum Laude de esa perspectiva de maldad de Cristina en su pelea con Alberto Fernández tuvo que ver con su discurso del sábado pasado, con esa alusión al teléfono del presidente, hecho por la vicepresidenta, diciendo que de ella se puede ver el celular, pero de otros no.",
+      "score": 0.703,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bien, le voy a leer un mensajito.",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 20
+  },
+  "etiqueta_original": "neutral"
+}

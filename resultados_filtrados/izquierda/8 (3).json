@@ -1,0 +1,60 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Bueno, la verdad es que hay casi, podríamos decir, un abuso de los laboratorios, pero lo más preocupante es que no parece haber ningún límite por parte del Estado para controlarlo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y cuando uno ve el precio de los medicamentos en Argentina, como vos decías, los pacientes de PAMI o con prepagas, que tienen algún nivel de cobertura, obtienen descuentos que a veces llegan al 40% o al 70% sobre el precio de venta al público.",
+      "entidades_detectadas": [
+        "pami"
+      ]
+    },
+    {
+      "frase": "Ahora bien, el precio de venta al público en Argentina lo fija directamente la industria.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Y, como la salud es un derecho en la Constitución Argentina, el Estado debe garantizar el acceso de la población a los medicamentos.",
+      "entidades_detectadas": [
+        "constitución",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Obviamente, cuando las variables económicas en Argentina se estabilicen, podremos evitarla.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Argentina tiene un déficit histórico en este tema.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿Comparando en dólares o a precios constantes, los precios de los medicamentos en Argentina son caros en comparación con otros países?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Mauro, me preocupa que no he visto en el Boletín Oficial llamados a licitación del Ministerio de Salud de la Nación para vacunas, medicamentos contra el VIH, la tuberculosis, etc.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    }
+  ]
+}

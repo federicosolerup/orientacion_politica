@@ -1,0 +1,241 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 18,
+      "derecha": 27
+    },
+    "score_promedio": 0.555,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Por eso, para que el barrilete pueda estabilizarse en su vuelo, para que pueda remontar vuelo y no venirse abajo, se le pone una cola.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, si imagináramos que Alberto Fernández es un barrilete, pareciera que necesita para estabilizarse, para tomar decisiones, para tener un rumbo, una cola.",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa cola, ese estabilizador, se llama Cristina Fernández de Kirchner.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y da la impresión, y durante toda la semana que pasó hasta esta noche, esa impresión fue constante, de que si Cristina Fernández de Kirchner no le provee una referencia, Alberto Fernández se queda sin cola, como un barrilete sin cola empieza a hacer movimientos incomprensibles.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué se demoró una semana el presidente en identificar al sucesor de Marcela Losardo?",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad todavía no le acepté la renuncia.",
+      "score": 0.658,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le acepté la renuncia, renunció formalmente el viernes, me tomé un fin de semana.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, el plan de reformas que promovió el presidente al abrir el período ordinario de sesiones.",
+      "score": 0.325,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segundo, y más importante, el alegato muy estridente, muy, podríamos decir, antiliberal en materia de concepción de la justicia que realizó Cristina Fernández de Kirchner delante de la Cámara de Casación.",
+      "score": 0.693,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Losardo se fue disconforme con esos dos mensajes, con esos dos conceptos.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente dijo, se fue agobiada.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora tiene que lograr que Cristina Fernández de Kirchner, con quien ella disiente y disintió desde el primer momento, le otorgue el acuerdo en el Senado para ser embajadora ante la Unesco, que es el próximo destino que va a tener en París.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente hoy reveló que el sucesor de Losardo va a ser Martín Soria, un diputado al que le tienen que aceptar la renuncia, ex intendente de la ciudad de General Roca en Río Negro, hijo de un importante dirigente peronista, que fue jefe de la Secretaría de Inteligencia con Eduardo Duhalde, miembro del Congreso también, intendente como él de General Roca.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el presidente, para argüir que con Soria no le estaba entregando una ficha a Cristina, es decir, que Soria no era una intervención de Cristina sobre el Ministerio de Justicia, usó un mal argumento.",
+      "score": 0.492,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo, bueno, tanto no es kirchnerista que su hermana, un poco machista el argumento, votó a favor del desafuero de De Vido en la Cámara de Diputados cuando ella era diputada y Martín Soria, intendente de General Roca.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De Vido contestó con un tuit diciendo que la miserabilidad de Alberto Fernández es inconmensurable.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí usted lo ve al padre de Soria de bigotes en el medio de la foto con Erich Priebke, que fue extraditado para ser juzgado porque vivía en la Patagonia con otra identidad, etc., como sucedió con tantos nazis que vinieron a esconderse en la Argentina.",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si se le adjudica a Soria no ser kirchnerista por cómo votaba su hermana en el Congreso, se le van a adjudicar también las incorrecciones, defecciones, errores de su padre.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno va a la cuenta de Twitter de Soria se va a encontrar con que el 16 de diciembre del año pasado hay mensajes furibundos en contra de Ricardo Lorenzetti como el ideólogo de lo que el gobierno, mejor dicho, Cristina Fernández de Kirchner, llama lawfare, es decir, la manipulación de la justicia para perseguirla políticamente.",
+      "score": 0.749,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández en materia de política judicial, de política de justicia, tiene un enorme problema de muy difícil resolución.",
+      "score": 0.342,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a ese sector que saludó la salida de Mauricio Macri del poder con banderazos y que se moviliza permanentemente alrededor de la agenda judicial y de la agenda que tiene que ver con la calidad institucional, como se vio en el caso de los camaristas Bruglia y Bertuzzi, a ese sector él le quiere destinar una política oficial donde pretende ser visto como un reformador.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un Fernández típicamente porteño, peronista de la Facultad de Derecho, que entronca con una tradición muy esquiva al peronismo, que es una tradición de pedir división de poderes, calidad institucional, etc.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Contradice toda esa visión y esa aspiración o esa ensoñación con una postura muy firme de Cristina Fernández de Kirchner que no solamente tiene causas judiciales, y esto es rarísimo, que llegue al poder convalidada por el voto popular o por la justicia una persona que tiene semejante cantidad de problemas en la justicia.",
+      "score": 0.325,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero a esto se le suma algo que Cristina entiende que es un compromiso electoral de ella con su público, con su electorado, que es una visión de la justicia sostenida en el concepto del lawfare, que denuncia un aparato, como todos sabemos que ella describe, esto es una narrativa donde hay medios, empresas, factores internacionales y los jueces coordinados, confabulados para perseguirla.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy difícil que combinen las dos cosas, y es muy probable que a Fernández le pase algo que probablemente es injusto.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada vez que quiera tocar un tema judicial aún, un tema de reforma judicial aún con la mejor buena fe, desde la oposición le van a decir, estás buscando la impunidad de Cristina.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy sencillo, veremos cuando asuma Soria si puede ir con su propio equipo, o si tiene que tolerar la supervivencia del equipo anterior, que es un equipo que depende más de Cristina que de Alberto Fernández.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay quienes le recomendaban al presidente, poné a Wado de Pedro el Ministro de Justicia, y que se arregle Cristina con el problema de la justicia.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese bloque opositor le impedía al gobierno nombrar jueces y remover jueces.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Salvo, además, un senador, el senador Martínez, de Juntos por el Cambio de Córdoba, Ernesto Martínez, que denunció que el juez Recondo dio ese paso hacia el oficialismo para conseguir que Cristina Fernández de Kirchner le apruebe en el Senado el pliego que necesitaba su esposa Silvia Mora para volver a ser jueza después de haber cumplido los 75 años de edad.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque ahora esta composición, donde Recondo es una pieza clave, adhiriendo a determinadas posiciones del oficialismo, estaría, lo pongo en potencial, estaría por avanzar sobre la Cámara de Casación, que es el máximo tribunal penal de la Argentina.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí estaría, insisto, en el potencial por cortarle la cabeza al juez Juan Carlos Geminiani, a quien el kirchnerismo se la tiene jurada desde que él ejerció un papel preponderante en el procesamiento de Cristina Fernández de Kirchner y su entorno, entre otros, Juan Martín Mena, que es el segundo del Ministerio de Justicia, por el memorándum de entendimiento con Irán.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay algo interesante que dijo el presidente cuando dio la explicación hace una semana delante de Gustavo Sylvestre en el canal C5N de Cristóbal López, acerca de por qué se iba Losardo.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente es el Ministerio de Justicia, es el jefe de gabinete, porque también sabe conducir la jefatura de gabinete.",
+      "score": 0.59,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente es el vocero, vive hablando y chateando con periodistas todo el día.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque se abre también el signo de interrogación acerca de si el presidente no es el ministro del interior.",
+      "score": 0.626,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pidió a Massa que el gobernador Arcioni no estuviera en Chubut cuando él iba.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se olvidó Massa del pedido o se acordó demasiado para complicarle la visita al presidente?",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Encabezados por Javier Milei, se suma José Luis Espert.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que tienen como asesor a un consultor político que se llama Daniel Ivoskus, que hasta hace muy pocos días trabajaba en una oficina de Sergio Massa en Puerto Madero.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablando de Massa, hemos hablado mucho de Massa y el presupuesto nacional en el programa, cómo Massa agregó al presupuesto una cantidad de artículos, modificando el presupuesto que le había llegado desde el Poder Ejecutivo.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora estamos ante un episodio que va a ser escandaloso, y habrá que ver si está Massa detrás de esto porque tiene que ver con intereses a los cuales él está muy próximo.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso implica un nuevo proyecto que llegó hace horas a la Cámara de Diputados.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero en un proyecto que le sube ganancias a una cantidad de empresas, se eliminan las ganancias para las empresas de juego.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La teoría del barrilete sin cola dio lugar a un método que se llama el método Monte Carlo, porque los que lo estudiaron en física se basaban en las experiencias de un jugador que era tío de uno de esos doctores en física en el casino de Monte Carlo.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 45
+  },
+  "etiqueta_original": "neutral"
+}

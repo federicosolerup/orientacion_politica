@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Durante la Guerra de Malvinas, que duró dos meses y doce días, se atacó a la Argentina con 117 aviones, 111 buques, 2 portaaviones, 2 buques de asalto, 8 destructores, 15 fragatas, 6 buques de transporte, 1 rompehielos, 3 transatlánticos, 25 petroleros, 40 transportes, 6 submarinos y 3 dragaminas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En esta guerra, donde incluso [Nombre del presidente de la entidad de salud] dijo que la íbamos a perder, murieron 11.148 personas; muertos lamentablemente sin rostro y sin nombre para muchos.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "11.148 personas… no tengo sus nombres, pero quiero despedirlas así: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10…\n\n\n**Archivo de Log:**\n\nSe realizaron las siguientes correcciones:\n\n* **Corrección de nombres y apellidos:** Se agregaron corchetes \"[Nombre del político]\" y \"[Nombre del presidente de la entidad de salud]\" donde faltaban nombres específicos.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 2
+    },
+    "score_promedio": 0.456,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ya quebró una vez, siendo rescatado primero por un empresario y luego por políticos.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podríamos decirle al presidente: \"Mire, presidente, no pudo quebrarnos la dictadura militar, no pudo quebrarnos Carlos Menem en el momento de los treinta juicios.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El asesinato de José Luis Cabezas tampoco pudo quebrarnos, y eso a pesar de la nula inversión en publicidad oficial por parte de Néstor Kirchner.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted tampoco podrá\".",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 4
+  },
+  "etiqueta_original": "neutral"
+}

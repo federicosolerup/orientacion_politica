@@ -1,0 +1,66 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Este año metió un presidente y medio gabinete.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y creo que al presidente hay que ayudarlo de todas formas posibles, porque tiene un problema muy grande por delante y es llevar a buen puerto a la Argentina.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y creo que el Congreso no está poniendo lo suyo.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Pero además, él dice que hay que ayudar al presidente en todo y votarle las leyes en el Congreso.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Porque el capítulo de energía dice que se va a poder exportar todos los hidrocarburos que quieras, que no vas a tener que dejar un solo barril de petróleo en la Argentina, que si se te ocurre dejar un barril de petróleo lo vas a poder vender al precio que quieras, Bulgheroni, porque el Estado no se va a poder meter, dice la ley.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "O sea, Bulgheroni quiere que el Congreso vote una ley que elimina un artículo que declara de interés público y nacional y como objetivo prioritario de la República Argentina el logro del autoabastecimiento de hidrocarburos a fin de garantizar el desarrollo económico con equidad social.",
+      "entidades_detectadas": [
+        "argentina",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Y la Ley Limusina que está en el Congreso plantea derogar eso.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "O sea que no solo Eurnekian es el empresario del año y tiene un gobierno a medida que le accede a esa medida, no solo Bulgheroni dice que hay que salir con dolor y que el Congreso tiene que sancionar una ley toda hecha para él, sino que encima la ley la mandan desde un archivo creado por Federico Sturzenegger y Maximiliano Farina, que no son funcionarios.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Obtuvo el dictamen de mayoría, una ley que recorta derechos sociales, que permite la intervención del presidente en organismos como el CONICET, la UIF, la ANMAT, el INCUCAI, el INCA, el ENACOM, la CONEAU, que permite que las empresas que no hicieron aportes patronales tengan una moratoria, pero que si a vos no te hicieron los aportes previsionales no tengas moratoria.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Esa es la ley, limusina, que se va a comenzar a tratar una vez más la semana que viene en el Congreso y seguiremos con la esperanza de que una vez más se rechace.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    }
+  ]
+}

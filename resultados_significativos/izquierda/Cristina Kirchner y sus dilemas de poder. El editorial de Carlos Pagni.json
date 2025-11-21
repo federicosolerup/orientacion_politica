@@ -1,0 +1,481 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 68,
+      "derecha": 25
+    },
+    "score_promedio": 0.312,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Porque si miramos lo que sucede con la primaria chaqueña podemos entender una lógica de lo que puede pasar o de los desafíos que tienen por delante los candidatos en las primarias nacionales, los candidatos a presidente de una y otra fuerza.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo primero que hay que decir del Chaco es que se repite la tendencia de la que hablamos el lunes pasado justamente en las otras provincias, es decir, hoy el protagonista electoral en la Argentina es el voto bronca, la gente que le dice que no a la oferta que le presenta la política, sea por abstención porque no van a votar.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son dos manifestaciones distintas de un repudio a lo que los políticos le están ofreciendo a la ciudadanía.",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso se agota, ese combustible se agota en poco tiempo y después ya lo que le da posibilidad de sostenerse a ese gobernante es el buen o mal gobierno, lo que en los manuales se llama legitimidad de ejercicio, quiere decir que lo que estamos viendo con estos niveles de abstención es algo tan delicado como que los gobernantes probablemente lleguen a ocupar su sillón en las provincias y habrá que ver qué pasa en la nación con un mandato defectuoso, débil, con un consenso problemático.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, desafío acá: el desafío de Polini, si le quiere ganar después a Capitanich en la elección final, es que pueda retener estos votos de Polini, el 19,58 de la elección, que son 103.000 votos.",
+      "score": 0.229,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Va a tener que hacer gestos que le indiquen a la base, a los que votaron a Polini, que él es amigo de Polini, que esta pelea no ha sido tan dramática.",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto, si lo trasladamos a nivel nacional, es el problema en el que van a estar el candidato que, si decía **Cristina Fernández de Kirchner**.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace semanas en un acto público, **Cristina Fernández de Kirchner** dijo -creo que fue en La Plata- que el objetivo del Frente de Todos, ahora llamado Unión por la Patria, es entrar al balotaje.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es una novedad de primera magnitud histórica, que un líder del peronismo como es Cristina en la Argentina nos comunique que hay alguna probabilidad o posibilidad de que el peronismo salga tercero de una elección.",
+      "score": 0.261,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una segunda novedad: dentro de ese partido o de ese grupo, no solamente Cristina nos dice: \"Podemos salir terceros\", los peronistas, \"esta es una elección de tercios, y el desafío que tenemos es entrar al balotaje\".",
+      "score": 0.155,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le animan, es decir, estamos viendo en todas estas horas una enorme presión -que no es una presión personal, es una presión reglamentaria, después lo voy a explicar- de acorralar a los aliados de Alberto Fernández que van detrás de la candidatura de **Daniel Scioli** y que dicen: \"No nos representan los candidatos de Cristina, el que sea el que ponga Cristina -que no sabemos cuál es- no nos representa\".",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la cabeza de ese movimiento, que pretende ser un movimiento de renovación dentro del peronismo, por primera vez en nada más y nada menos que el candidato que Cristina llevaba como candidato a presidente de la elección de 2015, **Daniel Scioli**, en dos oportunidades gobernador de la provincia de Buenos Aires y candidato a vicepresidente de **Néstor Kirchner** en la fórmula del año 2003 que ganó las elecciones.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace poco tiempo, meses, al periodista **Roberto Navarro** -que es un periodista más bien afiliado a la corriente oficialista de Alberto Fernández- le dijo: \"Y ahora, por lo que vimos, parece haberle prometido que él iba a terminar con 20 años de kirchnerismo\".",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La candidatura de Scioli nace -si uno mira los antecedentes- en un viaje que realizan **Pepe Albistur** con **Victoria Tolosa Paz** con motivo de las elecciones brasileñas.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí plantaron la semilla de lo que ahora vemos como una formación electoral que le discute el poder a Cristina Kirchner y a **Máximo Kirchner** sobre todo en la provincia de Buenos Aires, donde Victoria Tolosa Paz pretende quedarse con la gobernación.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente, detrás de esto, en su momento vio que Scioli viajó, estuvo paseando con **Mayra Mendoza**, la intendenta de Quilmes -que es de La Cámpora-, por Quilmes, se inquietó, promovió también en ese momento a **Agustín Rossi** por si se quedaba así Scioli, por si Scioli se lo cooptaban desde el kirchnerismo.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, digamos, hay una posición activa de Alberto Fernández de dañar al kirchnerismo.",
+      "score": 0.565,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno diría -o diría Cristina Kirchner- de dañarlo más que lo que lo dañó con su obra de gobierno.",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Scioli la explota.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A él le preguntan: \"Pero, ¿cómo te animás a esta aventura en contra de Cristina?\", ha tenido comunicaciones este fin de semana con viejos amigos de él que hoy no están más en el kirchnerismo, más ni siquiera forman parte de las filas electorales del peronismo en general.",
+      "score": 0.338,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son peronistas que militan en Juntos por el Cambio, pero que hablan con él, porque han estado cerca de él en otras reencarnaciones, que es lo que pasa hoy con la política en general, con tanto movimiento y cambio de identidades.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dicen: \"Cómo te animaste, Daniel, vos que sos la mansedumbre encarnada\".",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más, dijo unas declaraciones que habrá que ver cómo le cayeron a Cristina, no lo sabemos.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina cuando vote muy probablemente me vote a mí, porque ella sabe quién soy, trabajé para él y se sabe de mi capacitación\".",
+      "score": 0.266,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está elogiando el gobierno de Cristina, está hablando del 2015 y está diciendo: \"De ese gobierno que Cristina añora, yo, el candidato\".",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, a mí me está en la mejor, Cristina está proponiendo al mejor Daniel o al mejor Pichichi, porque ahora popularizó más la caracterización o la denominación de Pichichi.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, los que hacen números, sumas y restas, también artificiales, porque como sabemos, el voto, los movimientos del afecto y del desafecto de la gente es misteriosísimo, por eso tantos políticos van a ver astrólogos, brujos, porque es inatrapable a la matemática, pero los que hacen matemática dicen: \"El Frente de Todos o Unión por la Patria -el peronismo, para decirlo a secas- ¿cuántos votos puede tener hoy como marca?",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no, dice él: \"Yo puedo traer votos de afuera, justamente mi aporte es que traigo votos del centro a los que Cristina y el PJ de hoy no llegan\".",
+      "score": 0.174,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso dice: \"Yo, Patricia Bullrich, te voy a convocar cuando sea presidente\", y en realidad es lo que está diciendo: \"Yo voy por los votos esos del medio, a los que aspira Larreta\", en la idea -vuelvo al comienzo- de que no son internas, no es la interna del Frente de Todos contra la interna de Unión por la Patria, de Juntos por el Cambio contra la interna de Unión por la Patria.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, piensa él: \"Yo puedo apilar a votos de Larreta\", igual que Larreta piensa: \"Si me ponen un candidato más duro del otro lado, un kirchnerista kirchnerista, una exilquisilo funguado de Pedro, yo puedo apilar a votos desencantados o vacantes de un peronismo que no quiere ir con Cristina\".",
+      "score": 0.256,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si yo quiero ser presidente no compito solo con otros presidentes, como podría ser en la boleta única.",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, todo ese ejército que hay que armar, en realidad, le imprime a todo el sistema un sello muy conservador.",
+      "score": 0.658,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la pregunta es: Scioli tiene todo eso.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos dicen: \"Sí, tenemos todo el problema que tenemos no es la estructura, el problema que tenemos es la porque y porque en la reglamentación que ideó Máximo Kirchner nos pusieron reglas de muy difícil cumplimiento, reglas que desalientan nuestra participación\".",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, por ejemplo, para obtener un concejal en la provincia de Buenos Aires, una lista minoritaria en algún caso tiene que sacar 30 por ciento de los votos y ahí el concejal que logra incorporar con 30 por ciento de los votos entra séptimo y dicen los de Scioli, Victoria Tolosa Paz, los de Alberto Fernández: \"Para meter siete concejales lo casi en ningún lugar podemos introducir\".",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá hay algo muy importante para entender la lógica de lo que se está discutiendo, sobre todo en el peronismo: todo el reparto, la lógica de cuánto te doy a vos como minoría, cuánto me quedo con mayoría, se hace sobre la hipótesis de un resultado, y la hipótesis que está trabajando Cristina Kirchner y Máximo Kirchner es una derrota.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, han hecho una reglamentación muy restrictiva donde, por ejemplo, le dicen a Tolosa Paz y a Scioli: \"Tenés que conseguir avales\", y tengo avales de tal, \"no, no tenés que conseguir avales del PJ y de partidos que son nuestros, que no te van a dar los avales\".",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra novedad: no solamente una interna entre el kirchnerismo y Alberto Fernández con Scioli con todos los apa que los desafía, sino que van a un pleito judicial.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina con Pica: \"Me quieren aplicar el offer.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora son ellos es mi partido este inter estos Alberto, Scioli son la oposición, son como Macri o como La Reta o como Patricia Bullrich, o dicho por ella, como Clarín, que me quieren proscribir en la justicia\".",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, bueno, le contestan del otro lado: \"No es que vamos a la justicia.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una junta electoral que, por constitución de la provincia de Buenos Aires, la componen un miembro de la Corte, que es Sergio Torres, el Tribunal de Cuentas, que lo maneja el presidente del Tribunal de Cuentas, es un hombre de Kicillof -no digo que lo maneje, pero es él- y miembros de las cámaras judiciales de la ciudad de La Plata\".",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es una junta electoral que va a tener que determinar, que discutir, que dirimir si tiene razón Máximo Kirchner -y acá todo el mundo aprobó su reglamentación- o tiene razón Victoria Tolosa Paz y Daniel Scioli y hay una proscripción de ellos de la minoría, una reglamentación donde no los dejan participar.",
+      "score": 0.247,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No será que Cristina Kirchner y sobre todo Máximo Kirchner están diciendo: \"Mirá, te hago una reglamentación tan restrictiva que lo que quiero es que te vayas a agarrar cualquiera de los partidos que tenés y competí por afuera, no te vamos a dar parte de nuestro club para que juegues, juegues, no te damos, no te prestamos la cancha\"?",
+      "score": 0.51,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bien, Kirchner y está el juego.",
+      "score": 0.645,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, esto que está pasando, que es la aparición de la candidatura de Scioli, dicen: \"Pero quiero contarles algo más\", le dicen, \"pero ¿estás seguro de que con lo poquito que tenés podés ganar?\".",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay algo como providencial de Scioli en su visión de su propia historia.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, él cree que le va a pasar la elección.",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina quería una candidatura unificada a presidente, hasta donde sabemos.",
+      "score": 0.251,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Scioli se presenta, es más, afirmó su candidatura.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, si el candidato de Cristina y de Máximo Kirchner en algún momento fue Massa y lo puede seguir siendo, es más, Massa le dice a los empresarios que él se está, es más, dice, \"Massa, la fórmula va a ser Sergio Massa, Alicia Kirchner\".",
+      "score": 0.392,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que tampoco hay empresarios que le creen.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y porque no le vamos a dar, ahora que hay pelea, una cosa que él fuera el candidato de todos, ahora que hay pelea, le vamos a dar a Massa el mérito de ser quien salva las banderas kirchneristas.",
+      "score": 0.683,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gran enojo de Massa con Alberto Fernández por proponer -por proponer al embajador en Brasil-.",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández que cuenta anécdotas que nadie conocía, que de pronto aparecen esas anécdotas.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, le dice a sus amigos, \"El ofendido soy yo\", porque hace cuatro meses en conversaciones que teníamos y que nadie conocía, Sergio me prometía a mí que me iba a acompañar en esta tarea de terminar con 20 años de kirchnerismo.",
+      "score": 0.683,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa traiciona los dos lados de la mesa, no sabemos.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto inventa esas historias, no sabemos lo que sabemos, que todo está partido ahí.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El otro problema no solamente aparece el problema de que si hay que ganarle a Scioli no le vamos a dar esa posibilidad a Massa, vamos a ir con Massa que está discutiendo el acuerdo con el fondo.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros que votamos en contra del acuerdo con el fondo, Máximo Kirchner, que con tal de no votar el acuerdo con el fondo, renunció a la presidencia del bloque de diputados, va a ir con Massa como candidato.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández se le oponen suministros economía y suministro del interior.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Oscar Parrilli**, probablemente la persona más cercana a Cristina Kirchner de todo su entorno, dijo: \"Queremos hacer un trasvasamiento generacional\", vieja palabra del peronismo de los años 70, y que sea un hijo de la generación diezmada.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo acaba de decir el candidato a presidente está hablando de Wado de Pedro y de desaparecidos.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A lo mejor Cristina Kirchner tiene que terminar volviendo una receta fallida, si no quiere que se amasa y no le alcanza con de Pedro, porque de Pedro no hace una buena carrera en la general porque poco conocido, irá a Excel Kicillof que dejaría vacante la candidatura a gobernador.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa candidatura que mira Máximo Kirchner, que a lo mejor le gustaría ser candidato a gobernador y pasar los próximos cuatro años, probablemente, en la oposición, sentado, nada menos que en la gobernación de la provincia de Buenos Aires.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, Kicillof es una irreverencia que se le desconocía, empezó a pintar la provincia de Buenos Aires, a empapelarla con carteles que dicen Excel Kicillof 2023 candidato a gobernador antes de que Cristina de vuelta a la baraja y diga que rol le asigna a cada uno, es decir, también se le anima Kicillof para irritación de Máximo Kirchner y probablemente de Cristina.",
+      "score": 0.689,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La candidatura de Massa tiene otra rareza, y es que iría como candidato el ministro de economía que está en dificultades como nunca tuvo con el Fondo Monetario Internacional, tanto que no sabemos si viaja esta semana a Washington a terminar el acuerdo.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y bueno, porque el viernes hubo una conversación sum entre Alberto Fernández y Sergio Massa, que se hablan poco, pero se tuvieron que juntar por este tema, con **Kristalina Georgieva** que les dijo: \"Espero que hagan algo\".",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está pidiendo los desembolsos de todo el año.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, en junio, le dicen: \"No, no, pero nosotros no te vamos a dar dólares para que te los gastes defendiendo un dólar atrasado respecto de la inflación en el mercado de cambios.",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miran a Cristina, le dice, \"No devaluar, no.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, estamos hablando de un eventual candidato a presidente que podría ser Massa, al borde del abismo como ministro de economía, probablemente ser candidato a presidente lo hunde más en esa negociación, porque si yo soy el fondo de Dios, usted me promete ajustes, usted que en este momento tiene que juntar votos, no mándeme un técnico, mándeme uno que no tenga corazón, no uno que esté buscando votos y que tiene, por lo tanto, ningún incentivo a hacer ajustes.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los técnicos **Marco Rubinstein** le dicen: \"Sergio, alguna devaluación tenés que ofrecer\" contra lo que piensa Cristina, 20 por ciento por lo menos.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estamos diciendo que no hay devaluación, porque el peso se está devaluando al ritmo de la inflación, lo que pasa es que le piden más.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, no tienen el problema de ser gobierno, no tienen el problema de administrar esta inflación, no tienen el problema de estar fracturados como gobierno, del modo en que lo están Cristina Kirchner y Alberto Fernández, como si fueran dos partidos distintos.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay hoy en estas horas la definición de candidaturas entre Bullrich y Larreta.",
+      "score": 0.17,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El radicalismo tiene un solo candidato a presidente esta noche, que es **Facundo Manes**, que promete inscribir la candidatura.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larreta hoy está cerrando su acuerdo -muy probablemente puede haber sorpresas, como siempre en política, hasta último minuto- pero está cerrando su acuerdo con **Gerardo Morales** como candidato a vicepresidente.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso tiene una derivación no evidente, pero importante para la relación interna del PRO y sobre todo para el duelo que él protagoniza Larreta con **Mauricio Macri**, y es que Morales es el principal aliado de **Martín Lousteau** en la pelea por la jefatura de gobierno porteño en contra de **Jorge Macri**.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta que uno se hace es: ¿puede tener como candidato a vicepresidente Larreta un aliado de Martín Lousteau y jugar intensamente a favor de Jorge Macri, que hoy ya es el candidato por su proximidad con Mauricio Macri, etcétera?",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De Patricia Bullrich, gran problema para la sucesión del mando de Larreta en la capital, donde hay que decir, el PRO no ha demostrado ser una gran escuela donde ir a aprender política, de hecho, Rodríguez Larreta carece de un candidato propio y el candidato de Macri, que es Jorge Macri, lo tuvieron que importar desde Vicente López.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene problemas para ser candidato a jefe de gobierno porque la Constitución exige cinco años de residencia efectiva en la ciudad de Buenos Aires que él no tiene, porque si hubiera estado cinco años residiendo en la ciudad de Buenos Aires, cinco años para atrás, no podría haber cumplido con lo que le pide la Constitución de la ley orgánica municipal de la provincia de Buenos Aires que tener dos años de residencia en Vicente López.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, como la Constitución no dice cinco años inmediatamente anteriores, muy probablemente la justicia le dé la razón a Jorge Macri, le permita presentarse y no hace un conflicto judicial como el que sí estamos viendo en el Frente de Todos de la provincia de Buenos Aires, pero la pelea dentro del PRO en la ciudad de Buenos Aires es crucial, porque el PRO de la ciudad de Buenos Aires es a Larreta a Macri lo que la provincia de Buenos Aires es a Cristina Kirchner.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larreta entonces está buscando una alianza con Gerardo Morales y está pensando -insisto, esto es la información que tenemos a esta hora, no la que puede haber dentro de una hora y media- está pensando en **Miguel Ángel Pichetto** como primer candidato a diputado en la provincia de Buenos Aires.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supuestamente, Pichetto sería, en un caso de triunfo de Larreta como presidente, el presidente de la cámara de diputados de un gobierno de Larreta.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich en este momento que estamos hablando duda entre **Maximiliano Abad**, presidente del partido radical en la provincia de Buenos Aires, un hombre, un discípulo de **Ernesto Sanz**, muy ligado a **Jesús Rodríguez**, a Ernesto Sanz, a Abad.",
+      "score": 0.273,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También ahí hay un ruido porque ¿cómo hace Abad para sumarse a la fórmula de Bullrich y ser al mismo tiempo aliado de Santilli en la provincia donde tiene un pacto con Santilli y en contra del candidato de Bullrich, que es el intendente de Lanús, **Néstor Grindetti**?",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, lo que estamos viendo es que muchos intereses cruzados que en el fondo nos da la imagen de que hay poco de conceptual en estas peleas, que puedo estar con Larreta en la medida en que estoy con Santilli y después me voy con Bullrich, porque el tema es un tema de carrera política y de poder, y en el caso de los radicales, de enfrentamiento interno entre ellos.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, el otro candidato en el que está pensando Bullrich es **Luis Petri**, mendocino, candidato a gobernador hasta hace 10 días del radicalismo de Mendoza, que es derrotado por **Alfredo Cornejo** que va a ser muy probablemente el próximo gobernador de Mendoza.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo problema sea no es la abstención, la segunda amenaza que se cierne sobre esta clase política, que esta clase política tendrá que resolver, es la fragmentación, el nivel de conflicto personal, que se nota que es cada vez más personal por la falta de concepto.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich se ofrece como la candidata del corte, de la ruptura con el sistema, tiene alrededor de ella a un grupo de dirigentes políticos que son más acordistas que Larreta, empezando por Monzón, todo está un poco como simulado detrás de lo que parecen proyectos distintos de poder, proyectos políticos, parece haber nada más que proyectos biográficos.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Córdoba es un país, es importantísimo lo que pase ahí.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Noche hecha a medida de Aní para irre de qué nos va a hablar Ana hoy: cómo se elige un presidente técnicamente, que es en qué criterios hay que tener, qué opciones hay cuando uno tiene que elegir al vice",
+      "score": 0.486,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 93
+  },
+  "etiqueta_original": "neutral"
+}

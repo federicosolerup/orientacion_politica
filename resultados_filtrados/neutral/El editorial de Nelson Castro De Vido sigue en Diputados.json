@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Ayer estuve en la Cámara de Diputados, siguiendo el debate por el caso de Julio De Vido, que tiene muchísima significación presente y futura.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Todos hablaron del artículo 66 de la Constitución Nacional.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Establece que la Cámara de Diputados tiene la potestad de juzgar las conductas de sus miembros.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Por eso, entre otras cosas, el silencio de Cristina Fernández de Kirchner es estrepitoso.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    }
+  ]
+}

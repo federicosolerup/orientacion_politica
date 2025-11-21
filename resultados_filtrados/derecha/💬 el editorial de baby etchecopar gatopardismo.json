@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Pero mi director de cámara me decía \"¿Pero qué pasa?",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Lo extraño de la Argentina es que cuando se habla de un momento de corrupción como fue ese, se cuenta como con gracia.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "O sea, que siempre hubo \"patas sucias\" que se hicieron dueños de la Argentina que es de todos nosotros, porque estuvieron con el gobierno de turno.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Después te encontrás con políticos de la época de los Kirchner o de la época de [Fernando] De la Rúa y te dice muchas cosas que no voy a contar.",
+      "entidades_detectadas": [
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Y si Alfonsín fue decente, los que estaban alrededor no, si querés te hago una lista de los que se hicieron ricos en la época de Alfonsín, vendiendo teléfonos, vendiendo crédito del Banco Hipotecario, tampoco hablemos de eso.",
+      "entidades_detectadas": [
+        "alfonsín"
+      ]
+    },
+    {
+      "frase": "Y otra cosa, Ferrari está armando un barrio político para poner a [Axel] Kicillof como candidato a presidente y a [Nicolás] Bianco como gobernador.",
+      "entidades_detectadas": [
+        "presidente",
+        "kicillof"
+      ]
+    }
+  ]
+}

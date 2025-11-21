@@ -1,0 +1,521 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 60,
+      "derecha": 41
+    },
+    "score_promedio": 0.402,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "**Cristian Ritondo**, y en ese momento el gobierno le pide a la oposición peronista, dialoguista, -estamos hablando, básicamente, en la Cámara de Diputados, de **Diego Bossio** y, en la Cámara de Senadores, de **Miguel Ángel Pichetto**- que acompañe una reforma legal que le permitía al gobierno iniciar negociaciones con los *holdouts*.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por supuesto, los gobernadores, que influían mucho tanto en Bossio como en Pichetto y en los dos bloques de diputados y senadores que ellos representaban, apoyaron esa idea de salir de la política de Cristina Fernández de Kirchner y **Axel Kicillof**, e ir a una recomposición de relaciones con el mercado financiero internacional, que le iba a permitir a las provincias de esos gobernadores volver a financiarse.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pichetto y Bossio convocaron, en aquel momento, a un economista argentino que vivía en Estados Unidos para obtener los argumentos, las razones por las cuales debían converger en una coincidencia con el gobierno de Macri, en contra de la política de Cristina Fernández de Kirchner e **insistió su ministro de Economía, Kicillof**, que, como todos sabemos, habían llevado una política muy intransigente, muy agresiva, en relación con los *holdouts*, es decir, con lo que ellos llamaban los fondos buitres.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde aquel momento, Kicillof lo tiene anotado a Martín Guzmán en la libreta negra.",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la razón por la cual Kicillof está especialmente entusiasmado, más allá de la fascinación que le produce su jefa, en darle argumentos a Cristina Fernández de Kirchner para demoler, frente a su propia audiencia, frente a su propia base política y electoral, la política económica de Martín Guzmán.",
+      "score": 0.343,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que escuchamos hoy de Cristina Fernández de Kirchner, un largo discurso donde intentó articular su posición frente a todo el problema económico, son, en realidad, los argumentos que le traslada a ella, tanto que, en algún momento, le preguntó algo como para chequear que estaba diciendo lo correcto el gobernador de la provincia de Buenos Aires, que es el principal fiscal de la política de Martín Guzmán y, por lo tanto, de Alberto Fernández en el gobierno nacional.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas teorías de Kicillof, más allá de cómo fue la gestión de Kicillof, sobre todo en materia de deuda -por ejemplo, la escandalosa negociación con el Club de París y con Repsol por la estatización del 51% de YPF-, estos argumentos de Kicillof quedaron expuestos por Cristina Fernández de Kirchner delante de esa asamblea del kirchnerismo reunida alrededor de **Hugo Yasky** en la asamblea de la CTA.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son algunas teorías en las que parece que Kicillof le ocultara a Cristina algunos datos o algunas informaciones que aparecen en los diarios.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es evidente que Kicillof o no leyó él los diarios, o no le cuenta toda la verdad a Cristina Fernández de Kirchner, su discípula, porque si uno mira lo que está pasando con la economía americana, la enorme expansión monetaria que llevó adelante Estados Unidos -lo mismo pasa en Europa- durante la pandemia, la enorme masa de dólares que se volcaron al mercado han producido una inflación que, para las pautas americanas, para lo que es la tradición de estabilidad de precios en Estados Unidos, es escandalosa y está llevando al gobierno de Estados Unidos a premiar a aquellos que se queden en dólares con una tasa de interés que acaba de tener, la semana pasada, nomás, una suba muy importante de 75 puntos básicos producida por la Reserva Federal, casi un punto en una sola reunión de la Reserva Federal.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este aumento de la tasa de interés, que seguramente tiene un componente recesivo, no está contemplado por Cristina en su argumentación, y tampoco está contemplada la inflación que generó la expansión monetaria, que hace que la gente, como en la Argentina, se desprenda de pesos, allá se desprendan de dólares para comprar cosas.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una de las lecciones que, aparentemente, no está en el manual de Kicillof y no apareció hoy en los argumentos de Cristina, pero es llamativo porque cualquiera que lea medianamente la prensa internacional o las páginas internacionales de los diarios argentinos se entera de que este es un gran debate en los Estados Unidos: el problema de la inflación y la suba de tasa de interés, que va a tener consecuencias muy poderosas, no necesariamente positivas para las economías de países como la Argentina.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Hay un festival de importaciones”, dice Cristina Fernández de Kirchner, y hay que coordinar al Banco Central con la aduana, que acaba de ser tomada por **Guillermo Michel**, un hombre de Sergio Massa, y anteriormente vuelve el nombre de Miguel Pichetto, un hombre de Pichetto en el Senado, y por el Ministerio de Producción del cual se fue, por impulso de la propia vicepresidenta, **Matías Kulfas**, y llegó **Daniel Scioli**.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Curiosamente, esta idea de coordinar el Banco Central, el Ministerio de la Producción y la aduana es un caballito de batalla que usó Scioli en la infinidad de entrevistas que dio este fin de semana en su relanzamiento para la presidencia de la nación desde el Ministerio de Producción.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es evidente que Scioli está tratando de cumplir con lo que presume, o Cristina Fernández de Kirchner le explicó para que asuma su ministerio, en una apuesta parecida a la de Alberto Fernández, la idea de que si uno repite, más o menos, lo que la vicepresidenta está esperando, va a recibir alguna bendición política.",
+      "score": 0.5,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso de Alberto Fernández, está descartado.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es curioso que Cristina Fernández de Kirchner se queje del festival de importaciones y no relacione que lo que hace la gente es lo que ella explicó en aquella carta del 26 de octubre del año 2020.",
+      "score": 0.565,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa carta, que fue la primera carta que ella escribe dirigiéndose a la opinión pública para evaluar al gobierno de Fernández, y se dice, bueno, la gente se refugia por la destrucción del peso en lo que puede: comprar dólares, o habría que agregar, compra cosas hechas con dólares, autos, licuadoras, lo que sea que le permita ponerse a salvo de la destrucción del peso que implica la inflación.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el Estado se ha venido financiando, y se sigue financiando, con emisión monetaria y financia un déficit enorme con emisión monetaria.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, también es otro rasgo del problema que Cristina no advierte o no menciona, se endeuda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otra curiosidad en lo que planteó Cristina esta tarde.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya no le pide que traiga el laminador para hacer acá la chapa desde Brasil.",
+      "score": 0.694,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que le dice es que no le pida plata al Estado, sino que saque un crédito en el BNDES, en el Banco de Desarrollo de Brasil.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le pidió nuevamente al presidente que use la lapicera.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el presidente trata de congraciarse y de usar la lapicera.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este fin de semana dio una entrevista en el diario Página/12, que uno tiene la sensación de que es casi como una carta de Alberto a Cristina, donde dice todas las cosas que él presume, tal vez equivocadamente, porque hace mucho que no hablan, que a ella le gustaría escuchar.",
+      "score": 0.658,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, lo siguiente, dice Alberto Fernández: “A mí me parece que la Argentina tiene que repensar su estructura en materia alimentaria, así como en el tema de comercialización de cereales”.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les doy un ejemplo, otra cosa que él quiere repensar: el gas en boca de pozo lo estamos pagando 3 dólares con 40, el millón de BTU, y en Estados Unidos está 6.50, es decir, nosotros lo pagamos mucho más barato.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es el resultado, en gran medida, de que esté YPF en manos del Estado.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habría que ver si con estos precios que defiende Fernández alguien va a invertir en Vaca Muerta para meter gas en el gasoducto.",
+      "score": 0.518,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández no puede aprender.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que, aunque le diga lo que él cree que ella quiere escuchar, sea Cristina Fernández de Kirchner no lo va a bendecir.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y una prueba es que hoy le demolió su política económica, que es el centro de su problema, la estrategia para combatir la inflación.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner le explicó a sus seguidores que ella tiene una estrategia diametralmente opuesta a la de Fernández y a la de Guzmán.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero tampoco Cristina aprende.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de haber desempeñado la primera magistratura durante dos períodos consecutivos y de haber acompañado a Néstor durante los cuatro años y medio de su presidencia.",
+      "score": 0.412,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si algo tengo claro es que el sistema de decisión en el Poder Ejecutivo hace imposible que no sea el presidente el que tome las decisiones de gobierno.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no es prácticamente posible que prime la opinión de cualquier otra persona que no sea la del presidente a la hora de las decisiones.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente es él.",
+      "score": 0.777,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo otras curiosidades en el mensaje de Cristina Fernández de Kirchner hoy.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alejandro Alekur**, economista, fue el que hoy publicó en Twitter esta foto diciendo, bueno, ya Scioli empezó a lograr que se fabriquen el iPhone en la Argentina, apenas llegó al Ministerio.",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Problema central de la política, porque lo que le está preocupando a Cristina Fernández de Kirchner, y despertó a todas estas preocupaciones por esta pesadilla, es perder las elecciones.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, debió, o se ha comprometido a reducir el déficit, cosa que le cuesta mucho hacer, y a financiar ese déficit ya no con emisión, sino con pesos que le pide al mercado.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La tasa de riesgo de la Argentina es impagable.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra forma sería emitir, que es lo que ha venido haciendo la Argentina durante todo este tiempo.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha comprometido frente al FMI a emitir solamente un punto del producto.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, le queda esta tercera vía que mencionábamos recién, que es pedirle pesos al mercado a cambio de bonos.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, lo que ha pasado la semana pasada, y viene pasando y se presume que puede seguir pasando, es una gran reticencia de los bancos a seguir aceptando esos bonos.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al mismo tiempo, le pide a los bancos que suban la tasa de interés por la cual ellos le pagan a los ahorristas que hacen plazos fijos, cinco puntos.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que al banco lo remunera con tres puntos más por las LELIQs, pero le hace pagar cinco puntos a sus clientes.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le está armando un desfiladero a los bancos para que los bancos se vean obligados a comprarle bonos al gobierno, bonos que ajustan por inflación, mucho más interesantes que las LELIQs.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los bancos, en la teoría del gobierno, deberían decirle a la gente, no te tomo más plazos fijos, con lo cual esa gente iría a comprar dólares, y prefiero financiar al estado comprándole bonos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gráfico nos muestra qué tipo de bono le está pidiendo cada vez más los bancos al Tesoro, a Guzmán, para financiarlo.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En abril del 2021, esta era la proporción, lo que usted ve en rosa, de bonos que ajustan por inflación.",
+      "score": 0.275,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora acá tenemos otro panorama que tiene que ver con por cuánto tiempo le presto.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuánto riesgo quiero tomar en el tiempo que le estoy prestando.",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a medida que vaya pasando el tiempo y nos acerquemos a las elecciones, el problema de Guzmán va a ser, casi seguramente, que va a tener que pagar más tasa, va a tener que sostener préstamos de menos duración y probablemente en algún momento le dejen de prestar.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué pasa si estos bancos le dicen, no me des la plata?",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el problema central en el que está entrando la economía y es el problema que aflige a Guzmán y que Cristina no llega a entender o lo entiende de tal manera que dinamita la política del propio Guzmán.",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué opina Alberto Fernández respecto de todo esto?",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que sabemos es que si esta es la dinámica, el año que viene lo que va a haber es más inflación durante todo el período que va hasta las elecciones, va a haber entonces un deterioro del salario y va a haber una caída más pronunciada del gobierno en las encuestas que va a obligar a Cristina a hacer más de lo que hizo hoy.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo soy la política económica de mi gobierno con Kicillof y vuelvo a los argumentos de Kicillof por más deficientes que sean.",
+      "score": 0.499,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina está alineando a la provincia de Buenos Aires con ella y lo está logrando.",
+      "score": 0.282,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra incógnita de Alberto Fernández, quien se propone como candidato a presidente de nuevo en esta entrevista que dio en Página/12.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es importante el elogio de Cristina a Manzur, a quien no quería hasta hace poco tiempo, porque Manzur era el jefe de la campaña de Alberto, jubilando a Cristina cuando llegaron al poder.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora dice: “Fue un gran ministro”, Cristina, que no le regala un elogio a nadie, está haciéndole un guiño a Manzur y con Manzur a los gobernadores peronistas.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, estamos viendo a alguien que lidera la política y está ordenando al peronismo detrás de ella, mientras le dice a su base electoral: “Con esta política económica no tengo nada que ver”.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella, que lo puso con un tuit, a Alberto Fernández, para que su público advierta que esa ya no tiene nada que ver con aquello que ella inventó.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al mismo tiempo, se fortalece Kicillof y mire este cuadro.",
+      "score": 0.441,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es el fondo del conurbano.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el 2018, en que se empezó a actualizar hasta ahora, 264 mil millones de pesos recibe Kicillof, solo del fondo del conurbano.",
+      "score": 0.331,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por aquella reforma tributaria que hizo Macri cuando le llenaron la plaza de piedras.",
+      "score": 0.56,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se termina beneficiando el gobierno, se termina beneficiando Cristina Fernández de Kirchner, se termina beneficiando el peronismo bonaerense.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre se sospechó que esas piedras no eran para defender a los abuelos, era para evitar esta actualización del fondo del conurbano, que hubiera fortalecido enormemente al gobierno de Macri o de María Eugenia Vidal si hubieran estado ellos frente al poder con este aumento de dinero.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la base de poder de Cristina Fernández de Kirchner.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es lo que está pensando Cristina Fernández de Kirchner cuando mira el 2023, para salvar lo salvable, replegarse sobre la provincia.",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y qué pasaría si de los que merecen tener el subsidio, o creen que lo merecen, o tienen una situación económica que hace que lo merezca, un 40% no se anota y le llegan boletas insoportables de luz y de gas?",
+      "score": 0.469,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué marketing sería en esos momentos?",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se lo debe estar preguntando Cristina, más allá de que es evidente que esta segmentación no va a funcionar, y es solamente una artimaña, un ardid, para decirle al Fondo Monetario: “Segmentamos y estamos reduciendo los subsidios”.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como si usted, porque tiene un auto importado, cuando va a cargar nafta, le cobran más la nafta que al que tiene un auto nacional.",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y qué va a hacer el Fondo Monetario?",
+      "score": 0.172,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay algo interesantísimo que dijo Cristina en línea con todo esto que estamos diciendo.",
+      "score": 0.354,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De extraordinaria sinceridad: “Yo quiero quedar bien con los que nos votaron, trabajo para eso, y vos, Alberto Fernández, estás gobernando con el Fondo Monetario Internacional, y con un Fondo Monetario Internacional, y con un Fondo Monetario Internacional, y con un para esa y para Kicillof Ortodoxo como Guzmán, para aquellos que no nos van a votar nunca”.",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfonsín perdió el gobierno cuando perdió la provincia de Buenos Aires - Cafiero frente a Cafiero, 6 de septiembre de 1987.",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Menem empezó a encontrar la salida cuando perdió la provincia de Buenos Aires en 1997.",
+      "score": 0.473,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De la Rúa probablemente nunca pudo gobernar porque la provincia de Buenos Aires estaba en manos del PJ con Carlos Ruckauf a la cabeza.",
+      "score": 0.693,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene un mensaje para la Argentina esa elección.",
+      "score": 0.297,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lo que ha demostrado el PP es que le pudo ganar a la ultraderecha de Vox, como si el PRO y Juntos por el Cambio le pudieran ganar a Milei.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi como si miráramos con ojos argentinos, ganó la estrategia centrista de Larreta, no la estrategia de radicalización de Macri y Patricia Bullrich en Andalucía.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El viernes pasado se levantaron sanciones contra el sobrino de Maduro, sobrino de la mujer de Maduro acusado de narcotraficante.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mismo Estados Unidos que tiende vínculos con Irán en medio de un gran debate interno, de una gran polémica interna, que hace que la oposición y sectores importantes del Partido Demócrata le pida a Biden no arregles con Irán como arregló Obama, más sanciones.",
+      "score": 0.377,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este contexto internacional de un partido demócrata que, en la cabeza de Biden, vuelve a negociar con Venezuela y vuelve a negociar con Irán son los que están detrás del episodio del avión en Buenos Aires.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De hecho, Israel se expresó por una carta, por un pronunciamiento formal.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una gran victoria de los sectores antiiraníes que le voltearon un avión en Buenos Aires a Irán, porque este avión ya no se puede usar más.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya lo había pervertido mucho Néstor Kirchner.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo determinó de pervertir Macri con Arribas y Majdalani.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto Fernández, en su viaje imaginario a la pureza, lo que hizo fue cerrar la AFI.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es verdad lo que dijo Cristina Fernández de Kirchner?",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No lo dijo ella como Evita, que está alineado con Alberto Fernández.",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra forma que tuvo Cristina Fernández de Kirchner de organizar su poder en la provincia de Buenos Aires.",
+      "score": 0.789,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Daniel Angelici, el ex presidente de Boca.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y **Carola Gil** nos va a devolver al problema financiero y nos va a presentar la cartera de bonos que podría estar ofreciendo dentro de poco la Argentina.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 101
+  },
+  "etiqueta_original": "neutral"
+}

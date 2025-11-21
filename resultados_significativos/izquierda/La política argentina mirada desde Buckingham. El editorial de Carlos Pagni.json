@@ -1,0 +1,436 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 56,
+      "derecha": 28
+    },
+    "score_promedio": 0.397,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y, sin embargo, estamos frente a un fenómeno interesantísimo si lo miramos desde la Argentina y desde otros lugares de Occidente.",
+      "score": 0.322,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto pasó en España después de la muerte de Franco.",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada uno cedió algo que le era esencial.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros estamos mirando el espectáculo de la clase política argentina y es difícil contestar a la pregunta: ¿qué cedería cada grupo que le fuera esencial para lograr esa instancia de conciliación?",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo recuerdo en los años 2006, 2007, 2008 a un sindicalista del sector energético, que era el sindicalista de empresas privadas energéticas, que les decía a los directores de personal, a los jefes de personal, a los jefes de los gerentes de recursos humanos: \"Les tengo que explicar cómo se hace y cómo se cierra un conflicto por salarios, porque venimos de 10 años, más de convertibilidad, donde no había conflictos por salarios, se olvidaron, no tienen la experiencia de cómo se lleva un conflicto por salarios entre la empresa y los trabajadores\".",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, un motivo muy importante en todos, pero sobre todo en Cristina Fernández de Kirchner, el temor por lo que pasó, el temor por lo que pasó con el atentado.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta que llegó el domingo a la tarde, cayó la ficha de esa pistola cuya bala no salió, se dio cuenta de que estuvo al borde de la muerte y, aparentemente, según cuentan quienes la rodean, entró en un estado de desazón que no le veían desde la muerte de Néstor Kirchner.",
+      "score": 0.402,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en ese estado está agravado porque empiezan a ver –esto lo hablamos ya el lunes pasado, cuando hablábamos con Pancho, con Pancho de Libiria–, empiezan a ver incógnitas, hay una colección de incógnitas muy difíciles de desentrañar.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero las preguntas están ahí, y estas son las preguntas que, antes que nadie, se hace Cristina Fernández de Kirchner.",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Diego Carbone es el jefe de la custodia, una persona valiosísima para Cristina Fernández de Kirchner, de extremada confianza, que ese día no estaba.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, es muy difícil pensar que se le borraron, porque esos programas que sirven para sumar información de un teléfono celular, que usan las fuerzas de seguridad, están hechos a prueba de tontos, de gente que lo manipula mal y puede borrar la información.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había dos dirigentes kirchneristas de la capital en el palco, y vieron de lejos un vendedor de copos de azúcar y uno le dijo al otro: \"Ya somos boleta ahora\".",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué se formula seguramente Cristina Fernández de Kirchner, antes que nadie?",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué fue a hacer ese vendedor de rapis que se metió en la manifestación de los –podríamos decir– más fieles, más consecuentes, alguien podría decir fanáticos, más de los que se han visto en la historia, más fieles, más consecuentes, alguien podría decir fanáticos de Cristina, a insultar a Cristina en la puerta de su casa, en una bicicleta, forcejeos.",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y fue una reacción casi pacífica para lo que uno podría esperar, de gente que está muy movilizada.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esta pregunta se la debe estar haciendo, seguramente se la está haciendo, Cristina Fernández de Kirchner.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es un tuit del abogado de Cristina Fernández de Kirchner, Gregorio Dalbón, que dijo: \"El enemigo es tropa propia\".",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente alguien le habrá dicho que no, pero ¿por qué es interesante ese tuit de Dalbón?",
+      "score": 0.541,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Seguían con Alberto Fernández?",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández lo dijo hoy, en una entrevista con El País.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era un estado de WhatsApp el que alguien capturó.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta hoy a la mañana, por lo que sabemos, hasta hoy al mediodía ese dato, y la posibilidad de que hubiera alguna amenaza sobre Alberto Fernández, no existía en el expediente que lleva adelante la doctora Capuchetti.",
+      "score": 0.288,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se combina con una segunda motivación, que ya es más extendida, no corresponde solo a Cristina Fernández de Kirchner, que es el temor a que esta dinámica de enfrentamiento –después vamos a hablar con David Riff de esta cultura que se va instalando de polarización en distintas democracias occidentales– se vea una radicalización que haga que se le vaya de las manos el mismo fenómeno de los principales dirigentes.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es un temor que obviamente está en Cristina Fernández de Kirchner, está en el gobierno, está en Macri también.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como si uno dijera que Cristina Fernández de Kirchner o su entorno fueron los que estuvieron detrás directamente, materialmente, de los que fueron a poner las bombas molotov en el diario Clarín, de tanta prédica que llevó adelante el kirchnerismo.",
+      "score": 0.383,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se le ocurrió a Héctor Magnetto decir \"esta es Cristina\".",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, sí se le ocurre al kirchnerismo, o a muchas figuras del kirchnerismo, decir \"esto es la oposición, esto es la justicia, esto es la prensa\".",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La forma de liderar que ha tenido Néstor Kirchner y que tiene Cristina Fernández de Kirchner es una forma de arrastrar al otro, no de convencerlo, de arrastrarlo con el poder.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto llega a tal punto que hay muy poca gente que se le anime a Cristina Fernández de Kirchner a plantearle una idea en contra de las ideas que ella tiene.",
+      "score": 0.399,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una vieja frase de Carlos Zannini que le decía a la presidenta, cuando ella era presidenta, se lo dijo a José Nun, el secretario de Cultura de aquel entonces, y le dijo: \"Salía Nun de una reunión con Cristina Fernández de Kirchner y le dice, ¿y cómo te fue?\".",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, le dije: \"No, no, ¿cómo le dije?\".",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la presidenta no se le habla, se la escucha.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero hubo 20 custodios despedidos en los últimos dos años en la custodia de Cristina Fernández de Kirchner.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empezaron por el lado de la iglesia, cuando, antes del atentado –esto es importante para entender lo que está pasando–, antes del atentado, hubo un ensayo llevado adelante por el presidente del Episcopado, Oscar Ojea, y por el presidente de la Comisión de Pastoral Social del Episcopado para encontrar la posibilidad, aunque sea simbólica, de una foto en común, de reunirse a un espacio ofrecido por el Episcopado.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Iba a ser el miércoles siguiente a ese jueves del atentado a Cristina Fernández de Kirchner.",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si uno mira los discursos de Cristina Fernández de Kirchner en los últimos meses, ella viene pidiendo algún tipo de entendimiento con motivo de la economía bimonetaria, con motivo de los problemas estructurales de la economía argentina, ella está hablando de entendimiento.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es difícil registrar eso porque todo el discurso de Cristina Fernández de Kirchner es combativo.",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También es posible que quiera un entendimiento para que se establezca cierto clima de pacificación y concordia que le quite presión pública a los tribunales que la están juzgando, y no solo a estos, a la justicia en general, porque es una expresión que juega en su contra.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aparentemente en representación de Cristina Fernández de Kirchner y de Alberto Fernández, y se puso en contacto con la gente con la que venía él negociando en el marco de ese acuerdo que estoy contando, generado por la iglesia, por Ojea y por Lugones, por estos dos obispos.",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pasó el otro día.",
+      "score": 0.447,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le preguntan por el juicio a Cristina.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Wado de Pedro, o criticás a Macri o buscás un acuerdo.",
+      "score": 0.507,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las dos cosas a la vez es imposible, entre otras cosas, porque es evidente, y esto el gobierno y sobre todo Cristina Fernández de Kirchner lo registra con toda claridad, que Macri registra en la oposición, en Juntos por el Cambio y sobre todo en el PRO, no tanto frente al radicalismo o a la Coalición Cívica, una preeminencia que viene de haber sido el fundador, que viene de haber sido presidente, y viene también del carácter de Macri, que tiene un carácter más marcante, más nítido.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Wado de Pedro de esto no se dio cuenta todavía, Cristina Fernández de Kirchner sí, por algo que vamos a contar después.",
+      "score": 0.788,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde entonces es amigo del intendente actual de Luján, que estuvo durante los 10 años que pasó en la función pública nacional al frente de un fondo que administraba recursos del turismo.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además de ser Jerónimo Ustarroz y Javier Ustarroz, los dos hermanos de Wado de Pedro, muy amigos de Boto, de Mercedes.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a ver unos segundos de lo que dijo el arzobispo de Luján durante la misa que le pide el intendente de Luján, como él mismo, el arzobispo, aclara: \"La Iglesia Católica y todos los credos estamos para ser servidores de la paz y la fraternidad, y nuestro primer y principal servicio es la oración.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El segundo criterio de un acuerdo es entender los intereses del otro.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me cuentan que cuando le fueron a Macri con la vocación del gobierno de celebrar un acuerdo, Macri dijo: \"Bueno, que escriban cinco puntos y hablamos, pero que hagan algo concreto\".",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Adolfo Rodríguez Saá, conocido por todos, senador por la provincia de San Luis, que viene de integrar el bloque del peronismo federal, pero tiene una muy buena relación, con el tiempo se ha ido haciendo cada vez mejor esa relación con Cristina Fernández de Kirchner.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le propuso un acercamiento con Cristina Fernández de Kirchner a su compañero de banca, está al lado de la banca de José Torello, por casualidades de la organización espacial del Senado.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Torello habló con Macri y se encontró con Cristina Fernández de Kirchner hace aproximadamente 15 días.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una novedad muy importante, porque debajo de todo el ruido que hay respecto de esto, de negociaciones entre gobierno y oposición, hubo una reunión muy formal, muy protocolar, no se habló en edad, en profundidad, hay un detalle, tomaron los dos mate cocido, pero quedó establecido una especie de teléfono rojo entre Cristina Fernández de Kirchner y Macri a través de José Torello a instancias de Adolfo Rodríguez Saá.",
+      "score": 0.223,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aparentemente, según la información que me llega, esto fue explícito, es decir, Torello le dijo a la vicepresidenta: \"Vicepresidenta, el día que usted necesite comunicarse con Macri, yo estoy disponible para que haya un canal de comunicación entre ustedes dos\".",
+      "score": 0.422,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Insisto, todo esto tiene que ver con un horizonte de interpretación por parte de la propia Cristina Fernández de Kirchner, de que para llegar a la otra orilla es indispensable que esté Macri.",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un interés, como yo lo digo, hay un interés tanto en Cristina Fernández de Kirchner como en Macri de ensayar algún tipo de entendimiento, aunque sea acotado a temas esenciales.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se habla de la agresividad en los discursos, hay que recordar que apenas Macri gana la presidencia, no le dieron el bastón de mando y le gritaban \"Macri, basura, vos sos la dictadura\", para ponernos en onda, para tener conciencia de cuál es el clima y quiénes lo crean, de todos lados.",
+      "score": 0.359,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es cierto que Kirchner inauguró en la democracia moderna un nivel de agresividad que desconocíamos antes, relativamente, porque la agresividad que hubo en épocas de Menem también era muy acendrada, muy aguda.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que tanto a Cristina Fernández de Kirchner como a Macri les sirve para llegar al poder el enfrentamiento con el otro, pero muy probablemente ambos se dan cuenta de que si llegan y los dos quieren llegar, los dos están viendo si pueden llegar, se les resultaría un país ingobernable este de este enfrentamiento.",
+      "score": 0.397,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, es muy difícil imaginar un gobierno de Macri con un kirchnerismo ultra movilizado enfrente y es muy difícil imaginar un gobierno de Cristina con un banderazo permanente en contra de ella.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es una de las razones por las cuales ella eligió a Alberto Fernández como delegado.",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri también está mirando esto.",
+      "score": 0.602,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri está como Cristina, están mirando a ver hasta dónde pueden jugar o no, están disponiendo las piezas, ambos con inteligencia.",
+      "score": 0.186,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri está por lanzar un nuevo libro, se ha vuelto escritor, se llama Para qué.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él va a decir que no es un programa presidencial o de campaña, pero hay empresas que están, por lo menos dos, aportando a la campaña de Macri, como si Macri fuera a ser candidato, pero él todavía no decidió, porque lo decidirán las encuestas.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está haciendo todo para ser él el delegado de Cristina Fernández de Kirchner.",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sueña con que ella no llegue y con recuperar la economía lo suficiente, ahora vamos a ir a este problema, como para que Cristina, el peronismo, y la gente, o una parte de la gente de la electoralidad, no lo toquemos a Massa porque Massa viene resolviendo la crisis.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le deberá agradecer Massa su trabajo a Jorge Argüello, que hace milagros como embajador en Estados Unidos.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y va a conseguir seguramente el acuerdo con el Fondo ahora en septiembre.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, creo que en este clima de euforia que se vive alrededor de Massa, y que el propio Massa, que es un experto en esto, va a transmitir, hay que mirar determinados detalles para entender hasta dónde hay posibilidades y hasta dónde hay limitaciones en este proyecto de Massa y, por lo tanto, en el proyecto del gobierno de recuperar competitividad electoral.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tema central para Cristina Fernández de Kirchner, para Alberto Fernández y para Massa.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, consiguió Massa sumar reservas al Banco Central dándole un dólar especial al campo.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay quienes piensan que el gobierno el año que viene se va a encontrar con una sequía tan nociva para la cantidad de reservas en el Banco Central como la que le tocó a Macri.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, primero, le dieron este dólar de 200 pesos al campo que genera todo un ruido dentro del kirchnerismo.",
+      "score": 0.784,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no se olvide que el kirchnerismo nace como kirchnerismo, tal cual lo conocemos, en el Conflicto con el Campo.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí nació el discurso que le conocemos de agresividad al kirchnerismo del 2008 en adelante y sobre todo el enfrentamiento con los medios.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuche lo que dice Guillermo Moreno en un mensaje que le envió a los militantes de su agrupación a propósito del dólar soja.",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Sociedad Rural Argentina es la gran beneficiaria de estas maneras.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esperamos que a nosotros también, con esa necesidad de dólares, nos dé nuestro propio dólar, piensan esos sectores.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que es muy probable, y esto calculan los expertos en mercado de cambios, que todos esos sectores liquiden menos o no liquiden a la espera de que los atiendan en la fila.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hasta tanto a cada sector no le toque su dólar, no liquida.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, al que vende dólares, ¿qué le doy?",
+      "score": 0.417,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este grupo de gobernadores que viaja con Wado de Pedro a Washington le pide a Maza mantener los subsidios en sus provincias del norte.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que la segmentación tarifaria empieza también a hacer aguas, y la segmentación tarifaria es la reducción de subsidios que le permite a Maza mostrarle los números que le habilitarían, no ahora, en diciembre, que le aprueben de nuevo el acuerdo",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 84
+  },
+  "etiqueta_original": "neutral"
+}

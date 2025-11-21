@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Es decir, se reducirá un tercio del tamaño del Estado actual, sumándose a las reducciones previas.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Entre los organismos afectados por la reducción de personal se encuentra la AFIP (Administración Federal de Ingresos Públicos), que ahora se llamará ARCA.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "La AFIP se encarga de controlar el cumplimiento tributario de las empresas.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, la disminución del poder recaudador de la AFIP beneficia a las grandes empresas, mientras que los trabajadores seguirán pagando los mismos impuestos.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "Contrariamente a la narrativa mediática que describe a Argentina como un país con alta presión tributaria, la realidad es que se pagan pocos impuestos y existe una alta tasa de evasión.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

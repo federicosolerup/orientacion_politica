@@ -1,0 +1,196 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 29,
+      "derecha": 7
+    },
+    "score_promedio": 0.256,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto se dio con una serie de gobernadores que ayer se reunieron con el presidente, solicitándole que no cumpla con el fallo que ordena a la Nación devolver parte de la coparticipación a la ciudad de Buenos Aires.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestra historia de conflictos entre el poder ejecutivo nacional y el máximo poder judicial tiene varios antecedentes.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se asemeja bastante a la situación que se dio al asumir Néstor Kirchner con la llamada \"Corte de la servilleta\" de la época de Menem, que hizo renunciar a varios.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este sentido, también contó con el apoyo de la minoría, que en aquel momento era mayoría en el Senado, el peronismo, porque los miembros de la corte debían ser aprobados por el Senado, y el Senado tenía mayoría peronista.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente **Franklin Delano Roosevelt**, en los Estados Unidos, debió enfrentarse al Poder Judicial de su país.",
+      "score": 0.645,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En los primeros días de gobierno, el presidente tomó la decisión drástica de sanear el sistema bancario y mejorar el sistema productivo.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el programa entero se vio en peligro cuando la Corte Suprema de Justicia declaró inconstitucionales algunas de las medidas emblemáticas del programa, como la Ley de Recuperación Industrial Nacional y la de Ajuste Agrario, que pretendía recuperar la industria y la agricultura a través de un aumento de precios y salarios, y luego, mayor control del Estado para hacer frente a la situación del momento.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recientemente se mencionó el caso de Néstor Kirchner cuando asumió en 2003 y la corte que le había dejado Carlos Menem, que se llamaba la \"Corte de la servilleta\" y de la \"mayoría automática\", porque supuestamente votaba siempre en mayoría a favor del gobierno de aquel momento, en los años 90, del gobierno de Menem.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de la decisión de nuestra Corte Suprema de Justicia de pasar nuevamente fondos del Estado a la ciudad de Buenos Aires, el primero en oponerse fue el propio presidente.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar cuatro audios de **Alberto Fernández** de ayer, luego seguiremos con audios de la oposición y luego de los gobernadores.",
+      "score": 0.607,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empecemos primero con Alberto Fernández:\n\n*Un poder no debería robarse funciones de otro poder.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que entender que lo que queremos vivir en un Estado de derecho, queremos vivir en un país donde las competencias de cada uno de los poderes sean respetadas y que ningún poder se arrogue funciones de otro poder.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a donde Alberto Fernández dice: *“No tenemos la menor idea por qué llegaron a ese cálculo.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En verdad, lo que estamos discutiendo acá no es la coparticipación, sino cuál es el aporte que tiene que hacer la nación a la ciudad para pagar el servicio de policía que le ha pasado a la ciudad de Buenos Aires.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No está, el presupuesto nacional fue aprobado y no para que el gobierno nacional le dé 2.95% a la ciudad.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si quieren que el Estado Nacional se endeude para pagar esto, ustedes también me tienen que aprobar el endeudamiento.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, bueno, el endeudamiento tiene que pasar por el Congreso.”*\n\nPues nada más, Alberto Fernández.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes saben que la coparticipación de todos los impuestos que recauda el Estado Nacional, el 50% es para el Estado Nacional, el resto lo coparticipa con las provincias.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si todo lo que gasta la Nación es en las provincias.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Nación aquí no es un territorio propio.",
+      "score": 0.252,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el presidente de la Corte, le digo que retome su senda de derecho y que deje de atender a su ego\".",
+      "score": 0.798,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que le falta a este gobierno es hacer un DNU diciendo: 'La Constitución Nacional dejó de existir en la Argentina'.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no, no, no estoy diciendo que van a anular la Constitución por un decreto, en esa urgencia.",
+      "score": 0.243,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un fiscal, cualquier fiscal de la Nación Federal, tiene que ir e imputar al Tesorero de la Nación.",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le voy a decir que debe enviar inmediatamente los fondos.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces tiene que decir: ¿Quién no le dio la orden?",
+      "score": 0.562,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién le dijo que haga esto?",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le estoy dando la idea, si yo me pongo en el lugar, si yo, en vez de política, fuera fiscal, estaría ya redactando, llamaría al contador del Tesorero de la Nación y le diría: ¿Por qué usted hoy no transfirió los fondos que le ordenó la Corte?\".",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aún no sabemos, porque de nuevo han generado un estado de incertidumbre e indefensión.\"\n\nAhora, vamos a **Leopoldo Moreau**: \"Falta que **Rosatti** nos diga también que está en condiciones de resucitar a los muertos\".",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos a Leopoldo Moreau: \"Y ahora con este fallo, como decía recién Irina, suspende la aplicación de una ley.",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora tenemos a **Pablo Zurro**: \"Ojalá Alberto esté a la altura de las circunstancias.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá que Alberto esté a la altura de las circunstancias.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y como en algún momento va a pasar lo que tiene que pasar, que hay que tener otra distribución de la riqueza, que tenemos que ir por la democratización de la justicia, porque explota el país así, que tenemos que ir por la ley de medios, porque en realidad hay un avance tan grande de la derecha y hay un manejo del PRO con la justicia, que se está tornando un país inviable para la democracia\".",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, porque se exige al Poder Ejecutivo, y ahí vulnera el principio de división de poderes, y la verdad es que es una injerencia indebida, incorrecta, de fijar un mecanismo en donde no tenés la previsión presupuestaria de la ley aprobada por el Congreso para el año 2023, lo cual te obliga de dos maneras distintas: o rehacen las partidas quitándole -porque mayo dice esto no afecta la distribución de participación a la provincia, pero es mentira, porque nos afecta el recurso-, y, en segundo lugar, lo que te dice es: bueno, si no tomé deuda ahora, tener un acuerdo con el FMI que te limita; entonces, el gobierno está limitado por el acuerdo con el FMI, por la Ley de Presupuesto 2023, a acatar un fallo de imposible cumplimiento.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, nosotros entendemos que tanto el presidente de la Nación como nosotros, que formamos parte, entendemos como una decisión estratégica instruir a los organismos competentes del Estado nacional y provincial, en este caso, pidiéndose el parte por parte de nuestros fiscales de Estado, para recusar a los miembros de la Corte Suprema de Justicia y presentar el pedido, el *trucido* de revocatoria *in extremis* de la resolución cautelar dictada, porque es de imposible cumplimiento.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora vayamos al comienzo de todo esto, que es en el día de ayer, el jefe de gobierno de la ciudad de Buenos Aires, **Horacio Rodríguez Larreta**, anunciando el triunfo en la Corte por este amparo que genera todas estas controversias, pero esencialmente, en un acto, podríamos decir, de definición política, aquí probablemente el más contundente que haya tenido hasta ahora como candidato a presidente, se plantea que la solución de la Argentina es el fin de la grieta.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 36
+  },
+  "etiqueta_original": "neutral"
+}

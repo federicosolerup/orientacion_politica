@@ -1,0 +1,436 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 69
+    },
+    "score_promedio": 0.733,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Le ponemos un poco de onda a este día, a esta semana.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner** colisiona con la justicia.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente **Alberto Fernández** colisiona con la verdad, con el mérito y con la dignidad.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tema es que ella habló hoy y uno siente, cada vez que **Cristina** habla, al igual que el presidente y mucha gente del gobierno, que colisionan con la Argentina.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos a **Cristina Fernández de Kirchner** colisionando.",
+      "score": 0.578,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las diferencias que puedo tener con el presidente en cuanto a políticas o funcionarios.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero este presidente había bancado a ese ministro de Economía como a nadie, enfrentándose inclusive con sus propias fuerzas de la coalición.",
+      "score": 0.53,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensaba: ¿Cuánta gente al pedo que hay en la Argentina que tiene tiempo para ir a escuchar a **Cristina** o **Alberto** o a cualquiera a cualquier hora del día, no importa cuándo?",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A **Cristina** solo le importa la justicia para ella, la impunidad.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Te acordás cuando le decía a **Parrilli** que había que salir a apretar jueces?",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos la tranquilidad con que **Cristina Fernández de Kirchner** le decía a **Parrilli**: \"Hay que salir a apretar jueces\".",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen todo el poder del Estado y lo usan para esto, para apretar a jueces.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juicio a **Cristina Fernández de Kirchner** por Vialidad, desconocidos revisaron información secreta de los magistrados a cargo del proceso.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Con una condena firme podría ser candidato?",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es lo único que le importa, colisionados.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vieron cómo está el presidente \"grogui\".",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que dijo **Máximo Kirchner**, acusa al presidente de abrazar a los autores de la policía.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que dijo **Máximo Kirchner**, acusa al presidente de abrazarse a **Guzmán**.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tuvo que venir **Cristina**, así le dice a su mamá, para sacar esto adelante.",
+      "score": 0.587,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está bien, **Máximo** le pega al presidente, me insupa de las medias a **Cristina**, a su mamá.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá toda la gente que va a esos actos, no laburan, viven de la nuestra, del rebaño de pelotudos.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está en control del país.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La portavoz presidencial desestimó que este miércoles por la noche haya existido un encuentro secreto entre **Fernández**, **Cristina Kirchner** y el presidente de la Cámara de Diputados, **Sergio Massa**.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy le pregunté a una persona que está muy cerca además a cómo está **Sergio Massa** y me dijo una sola palabra: sensible.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pregunté mucho más, después te lo voy a contar.",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el presidente está en control o si el enfrentamiento continúa, mientras los argentinos siguen esperando saber qué va a pasar con ellos, con el futuro de todos.",
+      "score": 0.428,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿El presidente está en control del país, portavoz?",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, el presidente está en control del país.",
+      "score": 0.414,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el presidente está en control o si el enfrentamiento continúa, mientras los argentinos siguen esperando saber qué va a pasar con ellos, con el futuro de todos.",
+      "score": 0.428,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿El presidente está en control del país, portavoz?",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, el presidente está en control del país.",
+      "score": 0.414,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le mando un saludo a **Mariel Nirenar** de \"Empezamos Juntos Hacemos\".",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Se acuerdan de esa imagen del presidente atajando o intentando atajar?",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está en control del país.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Disculpame, **Cerruti**, el presidente **Alberto Fernández** no está en control de nada.",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es un caos y, desde que renunció **Guzmán**, el presidente no habla, no tiene agenda, está desaparecido.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está en control del país.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el único caso en que un 9 de julio habla el presidente por un lado y la vice por el otro.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos, además, a la reina del poncho cuando nos decía que no hay ningún riesgo de hiperinflación.",
+      "score": 0.199,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esta gente dentro del gobierno dice que el presidente no tiene el control de nada.",
+      "score": 0.755,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Helicóptero, decía **Gabriela Cerruti**.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La principal comunicadora del gobierno nos avisa al final de un día de crisis que el presidente no se va a ir en helicóptero.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le gustaba decir \"helicóptero\"?",
+      "score": 0.737,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es Grabó y mirá lo que le dijo.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pagamos el sueldo a **Gabriela Cerruti** para que nos mienta.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está prendida a fuego y el gobierno continúa con el despilfarro.",
+      "score": 0.461,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están dejando una bomba de tiempo impresionante al próximo gobierno para el 20 de 23.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Salvo que no le des importancia a la jura, porque te parece que vas a estar ahí más o menos un mes y medio o dos.",
+      "score": 0.34,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente decidió entregar absolutamente todo el poder y convertirse en un adorno.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podría seguir los pasos de **Paul Johnson**.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él le contestó con muchísima altura.",
+      "score": 0.601,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estimado **Agustín Rossi**: Ya que tiene la cara \"durez\" de contradecirme, le digo que, repito las denuncias presentadas a la justicia, lo hago responsable de mi seguridad personal, bla, bla, bla, y sigue.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, es un gobierno que te acusa porque investigas, porque te ocupas del prójimo, porque es una locura que este avión haya llegado a la Argentina con uno de los integrantes que se fue a cambiar la cara a Cuba para pilotear un avión y lo denuncia **Agustín Rossi** a **Rinaldi**.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Diciendo que los venezolanos y los iraníes vinieron a la Argentina a aprender a pilotear un avión terrorista colisionado.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es que usted compre un Hércules y sale a manejarlo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sigo viendo el \"Anotelo, Poco Creer\" y te juro que me sigo riendo como la primera vez que lo vi, si no fuera que tenemos que tirarnos a llorar al suelo porque la Argentina está totalmente rota.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota, estamos colisionados.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de esta Argentina rota, este video no me causó ni un poquito de gracia.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A vos te va a pasar lo mismo, porque esta es la Argentina real, la que el gobierno, y tal vez mucha gente de la oposición, no ven, o que estamos colisionados, estamos rotos.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por un segundo pensá que esta es la Argentina real y debiera preocuparles a todos, colisionados.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, finalmente, era un \"boludo\" que no le hacía mal a nadie, más que ser un vago y querer figurar.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras escuchás a la concejal que te reparte una docena de pasteles para que le claves un \"like\" y la sigas.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina se fue a la mierda.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre pienso lo mismo y le digo a mis amigos: \"Por favor, en la calle no te pelees con nadie\".",
+      "score": 0.767,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tipo baja con un bate de béisbol y le hace pelota el auto.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le rompió todo.",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad que cuando ves a la concejal con los 12 pasteles, cuando ves a la chica que me parte el alma porque quiere ir a comer comida \"piola\" a la casa de \"Gran Hermano\", yo se los decía el día que fui al piquete y ya vuelvo con esto.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, cuando la producción se lo mandé a \"bombillar\", le digo: \"Esto me parece tremendo\".",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero veía lo que pasaba con esta gente que estaba loca, la Argentina rota, que te calentás con el relato salvaje del día, estamos todos a punto de estallar todo el tiempo, nos pasa algo que nos detona.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé, algo hacés, no podemos más con la Argentina que tenemos y en la que estamos viviendo.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque esa gente no come, porque esa plata la tiene otra gente a la que no le importa a esa gente.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se pone de pie esta Argentina si la gente, si el pueblo no trabaja, colisionados.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina del \"pobrismo\" ya colisionó.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá: El presidente de la República, el presidente de la República...",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente de la República, el presidente de la República.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la República, el presidente de la República.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo veíamos en Madrid, en España, a **Creplac** y alguien de manera muy divertida le suma a la ministra **Bataquis**.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todos modos, si esto fuera cierto y a plena luz del día, a nadie le sorprendería a esta altura que eso fuera cierto.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya se tentó **Fabián Domanes**, enseguida conversamos con él de todo, de todo lo que pasa en la Argentina de hoy.",
+      "score": 0.384,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Encontré este video con esta criatura bailando en otro mundo, como cuando éramos chicos y bailábamos y disfrutábamos, estábamos en la plaza sin una preocupación, sin dramatismo, sin tragedia, y decía: Qué lindo que sería una Argentina que ya no conocemos y que nos olvidamos cómo la vive este niño.",
+      "score": 0.533,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando veía a este chico, vi que tenía como dos millones de visitas, muchas más que la concejal que busca con la docena de pasteles, y lo veía a este chico y decía: Por favor, qué ganas de sentirme distendida, relajada, sin estar pensando en estos gobernantes, en estos políticos, en esta Argentina que no la reconozco, que no me gusta, donde la pasamos mal todos, el tipo que se baja con el bate de béisbol, el tipo que lo putea, los accidentes todo el tiempo con la gente nerviosa.",
+      "score": 0.514,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo miraba a este nene y decía: Qué placer sería estar en una Argentina donde pudiéramos estar más despreocupados, ocupándonos todos de nuestras familias, de nuestros hijos, de nuestras parejas, de nuestros padres, amigos, de pasarla bien de una puta vez para siempre.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina de este niño, ponele, es la Argentina que nosotros no tenemos y que anhelamos tener, una Argentina en paz, con amor.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a hablar, entre otras cosas, de los gerentes del \"Pobrimo\", tuvo un cruce con **Gabriel Solano** tremendo, qué le pasa con esta Argentina, **Moyano** independiente, el fútbol, todo, el dólar.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 84
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,301 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 36,
+      "derecha": 21
+    },
+    "score_promedio": 0.392,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Saludo a mis compañeros aquí en la mesa, muy buenos días y, si les parece a todos ustedes, vamos a ir repasando para meternos ya de lleno en el análisis de esto, algunas de las partecitas de lo que decía en este caso la colega **Mengolini** allí en el video, en el que habla de una Cristina víctima, de una Cristina perseguida, de una Cristina a la que quieren ver presa o muerta, así habla Mengolini del partido, lo que ella llama el partido judicial.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchamos un poquito parte de este video de Cristina Fernández de Kirchner, colgado desde ayer en las redes, que habla de **Gerardo Milman**, todos los dardos hacia este diputado de la oposición.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Declaró que dos días antes del atentado, en el bar Casa Blanca, en la esquina del Congreso Nacional, escuchó decir al diputado Gerardo Milman, junto a dos mujeres que lo acompañaban, lo siguiente: \"Cuando la maten, yo voy a estar camino a la costa\".",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí escuchábamos a **Julia Mengolini** haciendo la locución de este video en el que Cristina pone otra vez en boca de todos el nombre de Gerardo Milman, por supuestamente las declaraciones que hizo este testigo, este testigo que se llama **Jorge Avello**.",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego quedó prácticamente sin trabajo cuando llega al gobierno Mauricio Macri y hoy por hoy es la persona que supuestamente en este bar, el bar llamado Casa Blanca, en medio de muchísimo ruido y bullicio, escucha, según lo que declara ante la justicia, al diputado Milman decir que cuando mataran a Cristina, él iba a estar camino a la costa.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es lo que está queriendo comprobar la jueza Capuchetti, que ahora es recusada o va a ser recusada por Cristina Fernández de Kirchner.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar un poquito del apoyo que la vicepresidenta de la Nación recibía de parte del kirchnerismo.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el 30 de agosto, perdón, unos dos días antes del atentado hace un pedido de informe, lo firmó él, al ministro de Seguridad **Aníbal Fernández**, donde le reclama por qué se estaba ampliando la seguridad de Cristina.",
+      "score": 0.292,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo pregunto cómo sabía él cómo es la seguridad de Cristina Kirchner, qué le daba información y qué sabía él de este tema de un posible atentado a Cristina Kirchner.",
+      "score": 0.463,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el 30 de agosto, perdón, unos dos días antes del atentado hace un pedido de informe, lo firmó él, al ministro de Seguridad Aníbal Fernández donde le reclama por qué se estaba ampliando la seguridad de Cristina.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo pregunto cómo sabía él cómo es la seguridad de Cristina Kirchner, qué le daba información y qué sabía él de este tema de un posible atentado a Cristina Kirchner.",
+      "score": 0.463,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí estaba el senador Oscar Parrilli planteando dudas sobre el porqué Milman sabía de esto, y habló también al diputado **Rodolfo Tailhade**, también respaldando las acusaciones que hace Cristina en el video publicado ayer.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no podría decir que está involucrado en el atentado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina no está pidiendo que se lo meta preso, no está pidiendo que se lo indague y se lo procese.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, eso lo explica justamente por parte del Ministerio de Justicia **Juan Martín Mena** y de la Cámara de la Paz.",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, qué pasó, pero había un arma, no había un arma, todos movilizándonos a poner a trabajar, obviamente, pero le manda un mensaje a un diputado del bloque, porque es un empleado legislativo, porque en Casa Blanca van todos los empleados del Congreso a almorzar, básicamente.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El diputado le dijo: \"Mirá, tenés que ir a decirlo a la justicia\", el tipo estaba muerto de miedo.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo hizo como un comunicado, junto con el cambio, y después en las voces de algunos referentes, como, por ejemplo, del diputado **Waldo Wolff**, que decía en el cien.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes saben que hay una teoría, le digo a la gente, esta es una teoría que si la googlean, la teoría de los siete pasos.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La doctora Capuchetti está haciendo una investigación, las investigaciones corren por su lado y esto que dice Cristina Fernández de Kirchner no figura en la investigación de Capuchetti.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros estamos acostumbrados a esto, pero también hemos decidido ya hace muchos años enfrentar la mentira, no dejar correr el relato kirchnerista y saber que ellos, con tal de desafiar a la justicia, que es la que está condenando los hechos concretos de Cristina Fernández de Kirchner como presidenta de la Nación, llevándose parte del bienestar de los argentinos, estamos absolutamente decididos a enfrentar todos y cada uno de los relatos y las mentiras que llevan adelante.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que con nosotros, Cristina no.",
+      "score": 0.693,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con nosotros, Cristina no, decía Patricia Bullrich y el vicepresidente del Pro y, además, protagonista de toda esta historia, el diputado Milman, que dijo ayer, a esta hora, uno de los primeros, que obviamente salió en defensa propia, dijo que sentía estar viendo una película.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me pareció estar viendo una película de ciencia ficción, pero la verdad es que yo fui viceministro de Seguridad en la Argentina con Patricia Bullrich y nosotros vivimos el caso Maldonado.",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante varios meses se juntaron en plazas multitudinarias en la Plaza de Mayo por un testigo también que con los binoculares decía que se lo habían llevado y lo habían desaparecido gendarmes.",
+      "score": 0.403,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que este falso testimonio hizo que muchos argentinos creyeran que en realidad habían desaparecido en la Argentina con lo que esto, la connotación de esta figura tiene para todos nosotros después de la década de los 70.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, efectivamente, tema que va a seguir rodando durante estos días, porque realmente causó impacto el video que habíamos ayer tempranito de Cristina Fernández de Kirchner y, efectivamente, el bloque de Juntos por el Cambio salió rápidamente a defender a Gerardo Milman.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, algo habló ayer con el presidente **Macron**, pero todavía no se expidió desde ese punto de vista.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Choque también en Camino Negro a la altura de la calle Virgen de Itatí mano hacia Puente La Noria y atención, movilizaciones, a las nueve de la mañana se esperan manifestantes en la zona de Congreso y a las diez en la zona de la Estación Constitución.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Rosendo Fraga** es analista político, periodista, historiador, miembro de la Academia Argentina de la Historia, de la Academia Nacional de Ciencias Morales y Políticas, del Consejo Argentino de Relaciones Internacionales.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le va?",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias a usted por llamarme.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo, una, un cruce, nosotros hoy abríamos con este tema de todos contra todos, cruces muy fuertes, pero además ahora una acusación directa de la vicepresidenta de la Nación hacia un diputado de la Nación que vuelve a poner a Cristina con una recusación a la jueza en el centro de la escena.",
+      "score": 0.229,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las controversias por la investigación del atentado contra Cristina Kirchner, yo lo digo, es un ejemplo de polarización.",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lamento profundamente si algún familiar de víctimas del COVID que ha homenajeado a sus seres queridos dejando simbólicamente piedras se sienta ofendido por mis palabras.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, claro, y si bajara a los actores sociales con influencia política, al final, el radicalismo dividido entre esos cuatro movimientos sociales en tres, bueno, entonces, polarización en lo político e ideológico, yo diría, y fragmentación en las estructuras políticas al mismo tiempo.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque la verdad es que parece que no hubiese mucho por hacer de acá a 2023, digo, la aparición de un tapado hasta ahora que podría llegar a esta formación que está siendo parte del Partido Justicialista de la Provincia de Buenos Aires, de lo que no quieren llamar ahora una tercera vía, sino viniendo a romper justamente con lo que entienden es esa polarización que nos suma.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo, las expectativas que tiene el Gobierno Nacional, el otro día lo decía Sergio Massa de llegar al año próximo con un 3 o un 4% de inflación.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en ese caso, si Sergio Massa tuviese ese éxito, si eso lo lograra, ¿podría cambiar la realidad, sobre todo, para el kirchnerismo más duro?",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy bien, te decía bien.",
+      "score": 0.52,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, parece haber un juego de espejos entre Cristina y Macri, donde juegan los dos a me presento o no me presento, coquetean con esto.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Puede haber un escenario de la final del mundo, Cristina contra Macri, una elección?",
+      "score": 0.531,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es la que actúa con más transparencia en ese campo.",
+      "score": 0.418,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cuanto Lula ganó el 30 de octubre, como era previsible, Cristina avanzó.",
+      "score": 0.378,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora nuevamente discurso de Cristina en el estadio de La Plata.",
+      "score": 0.494,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri y los discursos, lo importante es lo que dice la tribuna en estos actos.",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la tribuna dice Cristina Presidente.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo escuchamos el viernes 4 y lo vamos a volver a escuchar, para mi opinión, el 17, el más tribunal que va a cantar Cristina Presidente.",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina avanzará así, hasta mayo, y ahí verá si toma ese camino o si va a la senaduría bonaerense.",
+      "score": 0.417,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri yo creo que tiene actitud de candidato claramente.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mismo Macri ha subido esa puja viral.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cree que son personajes antagónicos, Macri y Cristina?",
+      "score": 0.617,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri está para tomar más riesgo.",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al pasar, dijo candidatura senadora de la provincia de Buenos Aires, ¿puede jugar ahí Cristina si ve que la presidencia está difícil?",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si tanto Menem como Kirchner tuvieron habilidad de mantener unido al peronismo, por lo menos a los sectores más relevantes del peronismo.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo tiene una tendencia a la unidad para alcanzar, Rosendo, el poder mayor que el no peronismo, que históricamente le ha costado más la unidad.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei es claramente una figura en campo opositor, que divide el voto opositor.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 57
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,166 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 15
+    },
+    "score_promedio": 0.497,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Aquello, como decía claramente Freud, que no se pone en palabras, luego se pone en acto, así que esperemos que en este caso, estas palabras tengan el poder exorcizante.",
+      "score": 0.225,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Voy a leer primero los del diario *Perfil*, después los de *Clarín* y luego los de *La Nación*.",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego, Javier Calvo, el jefe de redacción de *Perfil*, dice: \"Escenas al borde del abismo\".",
+      "score": 0.841,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de *La Nación*, Joaquín Morales Solá tituló: \"Un país donde todo puede pasar\".",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jorge Fernández Díaz: \"La explosiva desesperación de los parásitos\".",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy *Clarín*, con Silvia Fesquet, titula: \"Alberto, Cristina y el abismo asoma\".",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos primero a lo primero, ¿cuál es la situación de vacío que hoy se crea, eso que en esos casos llamamos \"a la nada\"?",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene que ver con que Cristina Fernández de Kirchner eligió un sistema por el cual ella decidía quién iba a ser el presidente.",
+      "score": 0.234,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se cumple el 18 de mayo, el día del censo, se cumplen tres años de aquel video en el cual le comuniqué a argentinos y argentinas, a compañeros y compañeras, la decisión que había adoptado.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, si fuera una disputa de poder, bueno, no sé, si hubiera elegido, suponete, al presidente del Frente Renovador, que venía de un partido político, de haber sido candidato a presidente, que tiene una fuerza con legisladores, con gobernadores, o a Daer de la CGT, o a Emilio Pérsico de los movimientos sociales, eso, bueno, una disputa de poder.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos este audio de un minuto de Pablo Moyano explicándolo.",
+      "score": 0.452,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se vienen meses complicados, luego te vuelvo a reiterar que no se puede controlar la suba de la inflación, y ojalá que el gobierno tenga esa forma urgente, mejor dicho, de convocar a la defensa”.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Cuando la patria está en peligro todo es lícito, todo es lícito, o sea, hasta un golpe es lícito” por Aldo Rico.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en manos de un grupo de personas que nos quieren arrastrar hacia Venezuela o hacia Irán o hacia Cuba, y la sociedad argentina no está dispuesta a tolerar esto.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Camaradas, cuando la patria está en peligro todo es lícito, menos dejarla desaparecer o perecer”.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el presidente mira para otro lado porque ya lo tiene decidido.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque claro, eso no le da rédito.",
+      "score": 0.547,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y usted va y habla y se cree que es.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señor presidente, basta, no hable más porque ya no le creemos.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted pasa a estar en la lista de los grandes mentirosos.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como a Macri le dio resultado mentir, usted cree que le va a dar el mismo resultado.",
+      "score": 0.761,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esa fosa que usted mismo está abriendo”.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Estimado amigo, con este mensaje nos acercamos a usted en busca de solicitar un encuentro que nos permita transmitir qué se trata de encuentro patriótico que hemos decidido construir para atravesar esta etapa conflictiva de nuestro país, acercar una mirada sobre nuestra perspectiva de los atribulados tiempos que atraviesa y habrá de atravesar nuestra patria”.",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Continúa diciendo: “Las responsabilidades compartidas del conjunto de las fuerzas electorales en la gestación de esta crisis no hacen otra cosa que agravar el deterioro de la representación política, el debilitamiento de la institucionalidad y la percepción de que el Estado solo puede traer castigo sobre la vida cotidiana de la mayoría de quienes habitan en los márgenes de la Argentina mediatizada.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esos márgenes donde se siembra miseria se cosechan peligrosas incertidumbres sobre la salud de nuestra democracia.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es inevitable que en un escenario de crisis existan patriotas que desde esos márgenes en los que habitan las mayorías siembren una experiencia de organización popular, de resistencia social y de política que permita cosechar relación de poder y fuerzas.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un documental de Netflix sobre Shimon Peres, el jefe del gobierno israelí en el momento de la crisis de la alta inflación de Israel, que siempre hemos puesto como ejemplo, fue más o menos en la misma época que el plan Austral, con la diferencia que en el caso de Israel ese plan antiinflacionario funcionó supuestamente porque se pusieron de acuerdo ambos partidos, incluso en la sucesión presidencial.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego recorté educación.",
+      "score": 0.282,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 36 horas, a quien pestañaba le recortaba su presupuesto.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ojalá en algún momento de la Argentina futura podamos tener un episodio similar.",
+      "score": 0.313,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 30
+  },
+  "etiqueta_original": "neutral"
+}

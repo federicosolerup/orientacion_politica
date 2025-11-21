@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Mi abuelo emigró a Argentina porque en Galicia no tenían para comer.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Yo, como deportista, exjugador de [Nombre del club] y campeón del mundo en México 86, me sumo a esta noble causa.",
+      "entidades_detectadas": [
+        "méxico"
+      ]
+    },
+    {
+      "frase": "Bullrich jugó de local con operadores mediáticos amenazantes.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Fue el resultado de malos gobiernos de Macri, Alberto, Cristina y Massa.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Ahora tiene al presidente y a grupos económicos en contra.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El presidente siempre se expresó de manera machista conmigo, pero no vi que hiciera lo mismo con artistas varones.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

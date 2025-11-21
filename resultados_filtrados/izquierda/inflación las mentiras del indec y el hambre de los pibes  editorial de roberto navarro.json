@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En la ciudad de Buenos Aires la inflación fue 3,1% y el INDEC dijo que era 2,2%.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "El INDEC dice 84% y la realidad, con la canasta actualizada, da 104%.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Entonces, en Argentina cada día vamos a ser un poco más pobres.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Con este INDEC no podemos negociar más.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Ahí está la cantidad de gremios, 36 gremios grandes, que denuncian que la inflación del INDEC está mal medida y piden cambiar la metodología urgente.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Con este desastre de recesión que generó, encima la inflación sigue parecida a la que tenía Guzmán antes de que explote todo, o a la que tenía Massa incluso en febrero de 2023 antes de que la sequía lo golpee.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hasta hay una supuesta humorista en TN que hacía eso: \"¡Con la nuestra!\".",
+      "entidades_detectadas": [
+        "tn"
+      ]
+    },
+    {
+      "frase": "Todos los días encontramos un dirigente, un político o un seguidor de Javier Milei que se acomoda en el Estado, el Estado que odian, el Estado que es, como lo definió Milei… lo definió antes de…  \"Unidos… unidos de ratas con gremios\", pero era un… como dijo un delincuente: \"una organización delictiva\".",
+      "entidades_detectadas": [
+        "javier",
+        "estado",
+        "milei"
+      ]
+    },
+    {
+      "frase": "El Estado es una organización delictiva.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Porque si pasas por el VIP hay dos alternativas: o viajó en Business, que sale un huevo, y de Italia en Business; o chapeó.",
+      "entidades_detectadas": [
+        "italia"
+      ]
+    },
+    {
+      "frase": "Que cuando Patricia Bullrich se plegó al gobierno hizo una voltereta, porque lo recuerdo a Damián incluso en nuestros programas, en la tele, en \"Minuto Final\", en \"Minuto Uno\" también, haciendo encendidas declaraciones en contra de… Mery… cuando Mery era la enemiga en la campaña de Patricia Bullrich, de su jefa política.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    }
+  ]
+}

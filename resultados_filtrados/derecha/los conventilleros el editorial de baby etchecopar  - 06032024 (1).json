@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hay muchas situaciones que los sindicatos están creando en los próximos dos meses para ver si mi ley se va rápido, como quieren; para ver si me pueden echar urgentemente, porque el descaro del golpe de estado es tan grande que no se trata de que me den más dinero...",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Hay un país con muchas ganas de no comer kiwi, de no comer palta… Porque no olviden que Alberto Fernández –inocente en el tema de los seguros y cuyo champagne no costaba mil pesos– llegó por un asado.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "¿Van a seguir destruyendo la Argentina como hasta ahora?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

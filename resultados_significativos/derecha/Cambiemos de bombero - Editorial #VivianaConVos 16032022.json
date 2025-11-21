@@ -1,0 +1,451 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 18,
+      "derecha": 69
+    },
+    "score_promedio": 0.728,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Cambiemos de bombero, que se nos está incendiando el país.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este presidente no puede apagar un incendio, no puede apagar un pucho.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía **Ginés González García**: \"no hay ninguna posibilidad de que exista el coronavirus en Argentina\".",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El senador **Malanzán** decía y te amenazaba: \"en pandemia no hay derechos\".",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya pagamos el de Chile el otro día, con la asunción de **Boric**.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordaba hoy todo lo que padecimos: padecimos la carta de **Cristina Fernández de Kirchner**, la renuncia de medio gabinete, Formosa y el señor Feudal.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta le chupamos las medias a Putin dos segundos antes de comenzar la invasión.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por favor, cambiemos al bombero.",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta Cristina Fernández de Kirchner se pregunta: \"¿por qué lo votaste a Alberto Fernández?\".",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cambiemos de bombero, el presidente se ha convertido en un meme.",
+      "score": 0.777,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que no se respeta, por ende, no lo respetamos.",
+      "score": 0.655,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahí lo veíamos, Alberto Fernández se ha convertido en un chiste, en un meme.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme el paño, tuvimos que bancar a la payasa Filomena.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo un día del niño particular, cuando hacía estas huevadas.",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le rompieron los huevos con el pase sanitario y durante tres semanas no le daban las respuestas.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los millones de argentinos la entendemos y la bancamos, porque, claramente, usted no quería romperlo todo.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando usted le pidan el pase sanitario, pida la ficha limpia, señora, no la van a joder más.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá el día de furia de esta mujer, que tiene a su madre enferma, que le limpia el culo, porque la tiene en la cama, compañía y la escuchaba hoy al marido también, enfermo.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren a esta mujer, podría haber cometido una locura, tres semanas esperando para que le den la fe de vida de su madre y le rompen los huevos, miren.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No jodan más, en Reino Unido ya sacaron todas las restricciones, en Francia ya la gente no usa barbijo y no piden pase sanitario.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, el presidente descubrió que la inflación es un recontra-mega problema.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí está, poneme con mis sonidos.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, cuando Alberto Fernández criticaba cómo el gobierno de Cristina combatía la inflación, ahí eran todos muy machos, míralo.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el problema es que usted no tiene en cuenta la cantidad de dinero que ha emitido y que no ha tenido respaldo, y eso ha sido una causa generadora de inflación enorme.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella termina demostrando que, en verdad, no está en condiciones el Estado argentino ni siquiera de controlar los precios.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente, Alberto Fernández es mucho mejor como analista político de la realidad de otro gobierno que como profesor de aquagym.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablaba de la presencia de la economía argentina en el país y ahora no sabe qué hacer y decreta la guerra el día viernes.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente no le da la nafta, cambiemos de bombero ya.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina se consta como un país de la guerra.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durísimo ver esto, pero es mucho más duro si lo ves al presidente dando clases de aquagym.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si puedo partir la pantalla y mostrar cómo una madre duerme a su hija, a sus hijos ahí, a la noche, en el acampe, en el ministerio de desarrollo social, y el presidente baila aquagym.",
+      "score": 0.71,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y mientras una madre está acampando porque ya no tiene ni polenta para darle a su criatura, el presidente toma clases de aquagym.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solamente decirle al gobierno este, a Alberto y a su gente, que empiecen a ocuparse de nosotros, de su pueblo.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El año pasado me ocupé personalmente, presidente y primera dama, de conseguirles camiones con comida, porque la noche cuando me acostaba, me dejaba la vida de mi familia.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ¿cómo puede usted dormir tranquilo y bailar aquagym mientras esta gente...?",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Venid, son argentinos, son de mi patria y no morfan.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá cómo le tapa la cabeza a esa madre para que no le entre frío por las orejas.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está en el acampe, le preguntan por qué fue, qué reclama, con quién reclama y la señora no tiene la menor idea, mírale.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí me da mucha lástima, podría enojarme, pero me da mucha lástima.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habló el presidente de la Sociedad Rural.",
+      "score": 0.531,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la fuerte advertencia del presidente de la Rural al gobierno.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pregunté, Jesús le dijo a los biciclos, lo que haya que hacer, hagámoslo rápido.",
+      "score": 0.436,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cobo era el vicepresidente de Cristina y **Luz Torre**, el ministro de Economía.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Te acuerdas cuando **Breno** le hizo?",
+      "score": 0.583,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, con la 125 se terminó de pudrir todo entre Néstor y Clarín.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te lo digo a las \"sororas\" editoras de Género, de Clarín y de TN.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, ¿no le asignará Género a su bebé para que lo designe él cuando crezca?",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando le \"disto\", dije \"chau\", no sapó el agua, el agua no tapó.",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ucrania le vende bebés a España en medio de la guerra.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ucrania le vende bebés a España en medio de la guerra.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora se crean granjas donde a las mujeres se las llevan para que paran hijos para todas estas personas, porque Ucrania ahora mismo es el útero \"low cost\", para que les salga también más barato.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el momento en el que está el coladero que llega a España de todos estos bebés, porque hay una triquiñuela que utilizan estos mal llamados madres y padres para traer a ese tráfico de bebés a España.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De no, no, cuales Ucrania solamente se permite la compraventa de niños y de niñas \"aterosexuales\".",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pues lo que dice el español es que ha tenido una relación en Ucrania con una ucraniana que ha \"fidniquizado\" la relación, que la ucraniana ya no quiere a ese bebé y que él, por supuesto, es un padre \"amadísimo\" de esa criatura que viene en camino y que se hace valedor absolutamente de esa criatura.",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese papel es el que se firma en Ucrania y con ese papelito luego vienen aquí y ya lo inscriben como su hijo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, en el caso de la pareja heterosexual de este comprador de bebés, ella, la compradora de bebés, tiene la figura aquí en España de madre adoptiva.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un negocio internacional que mueve 6.000 millones de dólares al año, donde solo un 0,5% es lo que se le da a esa madre por haberse embarazado y por las circunstancias y la molestia.",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que está muy metido con el tema de Ucrania es, yo lo quiero, pero la verdad, **Mario Negri**.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo: \"presenté un proyecto para que la Cámara de Diputados invite al presidente de Ucrania a dirigir unas palabras al pueblo argentino que lo apoya y a la comunidad ucraniana en Argentina.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este contexto, en el que está la Argentina, con un presidente que baila aquagym, la estamos pasando horrible.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina está a punto de estallar y la oposición está pensando en que hable para la Argentina el presidente de Ucrania, la puta madre.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina se prende fuego.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina se prende fuego.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa que, claro, Cristina es una pobre pensionada.",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Me llevo a pagar el peaje por el estado de la ruta?",
+      "score": 0.51,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá cómo adoctrinan a los pibes, pero cómo le van a poner C5N o cualquier canal.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en el fondo del mar.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es esta chica que va pensando que se parece a Gisela Bernal y le dicen que se parece a Oshijunco.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, es como que vas al programa de **Laurita Fernández** diciendo que te pareces a George Clooney y te dicen que sos igual a Alberto Fernández.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que decía **Felipe Solá** y **Arroyo** de **Aníbal Fernández**, actual ministro de Seguridad de la Nación.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo, la verdad, es que lo que siento es que la mamá y el papá en la provincia de Buenos Aires que está preocupado por la inseguridad, que está preocupado por los robos, que está preocupado por esa venta de droga en el barrio, debería pensar en serio si Aníbal Fernández es la persona para manejar la policía bonaerense, que es manejar el cuidado de nuestros hijos.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, imaginen a Aníbal Fernández reconociendo la provincia.",
+      "score": 0.607,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estaban hablando de la Argentina fa-fa-fa.",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina fa-fa-fa y nadie investigó.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señores, la Argentina fa-fa-fa ya llegó.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viendo este desastre del gobierno, me pregunto: ¿para qué quiso ser presidente Alberto Fernández?",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá cómo festejaba el profesor de Aqua Gym el día que ganó y le cantaban: ¡Presidente Alberto Preside!",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Presidente Alberto Presidente!",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto quería ser presidente para \"Acastar\".",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quería ser presidente para fracasar, para chocar la Argentina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cambiemos de bombero.",
+      "score": 0.686,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pido al señor **Spilman**, que fue quien lo dijo, que nos informe, por favor, que así le respondo a la primera dama que nos envió este comunicado para que lo leamos.",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer lo que contamos, cuando estábamos viendo los videos y todo lo que había atrás, es que la primera dama efectivamente tenía un montón de asesores y gente que le ayudaba.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Concretamente, la respuesta oficial que le dieron de mitad de 2021 es que Carolina **Marafiotti** fue contratada a Donorem el 1 de junio del año 2021.",
+      "score": 0.302,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que, según esta información oficial, hasta mitad de 2021 no sabemos si tenía asesores, cuántos asesores tenía y, en segundo lugar, Andrea **Mubillo**, que es una persona de planta permanente de la Secretaría General de la Presidencia.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, uno puede decir, uno podría decir, bueno, ha adjudicado el 100% de su tiempo a la primera dama, y una o dos personas pueden eso decir, efectivamente, como lo que va a salir ahora, que hay dos personas dedicadas a la primera dama.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero sí, independientemente de la obviedad de que uno ve, es una primera dama, es raro que tenga solamente dos asesores, o sea, en todo caso, quien está asignado especialmente, eso sí podría ser informar por telera respuesta.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 87
+  },
+  "etiqueta_original": "neutral"
+}

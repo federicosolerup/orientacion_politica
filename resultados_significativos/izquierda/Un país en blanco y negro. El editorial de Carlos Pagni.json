@@ -1,0 +1,441 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 51,
+      "derecha": 34
+    },
+    "score_promedio": 0.394,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El 26 de abril de 1985, el radicalismo en el poder realizó una gran movilización a la Plaza de Mayo, a escuchar a su líder, el presidente de entonces, Raúl Alfonsín.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo chicaneaba al gobierno de Alfonsín porque no se resolvía a declarar impaga la deuda externa, como había hecho Alan García en Perú.",
+      "score": 0.69,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa movilización popular recibió en la Plaza de Mayo una especie de balde de agua fría desde el balcón, porque Alfonsín declaró en aquel momento una convocatoria que después se hizo famosa: \"economía de guerra\".",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa noche, frustrados, los dos dirigentes que habían conducido esa movilización, Enrique Nosiglia y Leopoldo Moreau, se encerraron con Alfonsín en Olivos y hubo una especie de trifulca.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente haya sido la única vez que se enojaron así con el presidente Alfonsín.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto que, cuenta la leyenda, un edecán encargado de la seguridad del presidente se puso nervioso.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo parecido, de manera mucho menos escenográfica, debe estar pasando hoy con el kirchnerismo, conducido por Cristina Fernández de Kirchner.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si alguien celebró la salida de Martín Guzmán como el ministro del Fondo Monetario Internacional (FMI), como el interventor de las grandes potencias que le piden ajuste a la Argentina en nombre del equilibrio económico, si alguien celebró esa salida, ahora debe estar desencantado.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos pesos que sobreabundan, ese exceso de pesos, va al dólar como reserva de valor.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver si Cristina Fernández de Kirchner lo aplaude también.",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segunda medida importante: le dice a todos los funcionarios del gobierno: \"Te voy a ir autorizando los gastos, la ejecución del presupuesto, lo que podés gastar de la partida que tenés asignada, no cada trimestre, sino cada mes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente se diluye también el poder adquisitivo del Estado y se achica el gasto en términos reales respecto de la inflación.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si estas medidas las estuviera viendo (que seguro las estuvo viendo) un historiador como Pablo Gerchunoff diría: \"Vuelve la historia, vuelve el 62, vuelve el 72, vuelve el 82, todo con dos\".",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tres años en que gobernó la economía argentina Jorge \"Bebe\" [el apodo es entre comillas] [es necesario aclarar que el apodo es \"Bebe\" ya que el nombre es Jorge] [el apellido no se conoce], que era famoso por procrastinar los pagos.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un proveedor iba y le pedía el pago porque había vencido su factura y le decía: \"Vení más tarde, vení la semana que viene, vení el mes que viene, cobrá un cheque y te pago, si no cobro el cheque no te voy a pagar\".",
+      "score": 0.306,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si uno mira cómo fue la gestión de Batakis como ministra de Economía de Daniel Scioli en la provincia de Buenos Aires, es lo que hizo: fue pedaleando gastos, pedaleando pagos y todo eso le quedó como una especie de arruga que se estira, que se corre a María Eugenia Vidal que debió hacerse cargo con Hernán Lacunza de pagos de facturas emitidas por Batakis y por Scioli.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Va a haber una revaluación sobre los bienes que sirven de base impositiva para que el Estado recaude.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es lo que hizo Macri en la Ciudad de Buenos Aires.",
+      "score": 0.432,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un estudio de la Fundación URBE, es la fundación del diputado porteño de la Legislatura Porteña Juan Manuel Valdés, que estudió el problema impositivo en la Ciudad de Buenos Aires y detectó que si se toma todo el período de gobierno del PRO en relación con el producto bruto de la Ciudad de Buenos Aires, la presión impositiva subió 53%.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En su momento, Cristina Fernández de Kirchner quiso cobrar el impuesto a los bienes personales sobre esas valuaciones ajustadas por Macri.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero si el Estado Nacional te quiere cobrar el impuesto a la riqueza o el impuesto a los bienes personales, se mantiene la evaluación anterior, una especie de doble estándar del macrismo para evaluar la política impositiva propia y del kirchnerismo, habitual en la política.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que si uno tiene pesos, el banco, poniendo esos pesos en un plazo fijo, se los remunera más que la inflación y uno tiende a querer tener pesos, que es lo que no quiere cuando hay una inflación y la tasa de interés real es negativa.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Batakis, para que no haya fugas hacia el dólar, para que la gente no preserve el valor de sus ingresos en el dólar, dice que va a subir la tasa de interés en pesos por encima de la inflación, lo que quiso hacer o decía que iba a ser Guzmán cuando se comprometió con el Fondo Monetario Internacional.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La primera, esos fondos van a retraerse del crédito al mercado, es decir, es una medida recesiva.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que era a lo que se oponía Cristina Fernández de Kirchner a través de Federico Basualdo, el subsecretario de Energía Eléctrica, Batakis lo ratifica.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Cristina Fernández de Kirchner y su grupo lo entienden como un aumento de tarifas.",
+      "score": 0.225,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primer problema: ¿se lo van a admitir a Batakis lo que no le admitían a Guzmán?",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El segundo problema es que no contesta Batakis la incógnita que tenía planteada en su escritorio a Guzmán: ¿la implementación cómo va a ser?",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por suerte Federico Basualdo, el subsecretario de energía eléctrica peleado con Guzmán (¿se acuerdan que se le subordinó y no quiso aumentar las tarifas?), ahora dice: \"No estoy convocado a este problema porque me excluyeron por una resolución.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto le da más poder a las blancas, las que tienen el poder mueven, las negras reaccionan.",
+      "score": 0.278,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mueven las negras, que es Alberto Fernández y su equipo, y ahora estamos esperando que contesten las blancas, que es Cristina Fernández de Kirchner y quienes la rodean.",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasaba a Guzmán?",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Cristina cuando critica al gobierno y lo tilda de ser un gobierno socialmente insensible, dice cosas que amargan a los equipos del gobierno.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es Cristina hablando de un gobierno de Macri, es Cristina hablando de un gobierno integrado por gente que la sigue.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, cuando Cristina hablaba en contra de mi programa, razonaba Guzmán, y debe seguir razonando, los funcionarios todos tendían a gastar más para desmentir lo que decía Cristina de la insensibilidad social del gobierno.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto Fernández, en vez de militar el programa, en vez de comprometerse con el programa, la dejaba pasar.",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este problema, que es un problema no de técnica, no de nivel de ajuste, sino de respaldo político al programa del gobierno, es el que hace, escucha lo que voy a decir ahora, que mucha gente que no es kirchnerista, inclusive gente que no es guzmán, inclusive gente severamente crítica con Cristina Fernández de Kirchner, piensa que la única solución es que el poder lo asuma Cristina, y que Cristina con las palancas del gobierno gire al centro, como una especie de Lula, como está pasando en Colombia con Gustavo Petro, como pasa en Chile con Gabriel Boric.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, hay un problema que distingue a la Argentina de esos otros dos países.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tanto en Colombia como en Chile, hay un margen enorme para aumentar impuestos, es decir, es posible buscar el equilibrio fiscal por la vía del aumento de impuestos, que es la vía que busca la izquierda fiscalista.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema de la Argentina es que ese camino también está agotado, por eso es tan costoso llevar adelante un programa, y por eso muchos dicen finalmente que acepte Cristina y que gire al centro como Lula.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una Cristina fiscalista sería la resolución de todo este problema, y algunos dicen más.",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen: \"Porque aún con un cambio de gobierno, si viene Juntos por el Cambio, con Cristina en frente, agitando a la gente contra el ajuste, esto tampoco tiene solución\".",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mire lo que pasó entre 2011, digamos mediado del 2010, y 2014, el auge, el apogeo del segundo mandato de Cristina, los salarios nominales muy por encima de la inflación.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es un brote inflacionario con un aumento del salario que le sigue mal atrás y pierde.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, gente que va a pasar a la informalidad porque no se le puede pagar de otra manera, y que elige pasar a la informalidad antes del despido.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿El Estado va a poder seguir esta línea?",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si uno mira la página 13 del último informe del Fondo Monetario Internacional, la página maldita, dice que hay que congelar los salarios del sector público y licuar las jubilaciones.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es lo que le dijo el Fondo a Guzmán.",
+      "score": 0.607,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso Batakis hace el discurso que hace hoy, porque habló con el Fondo y habla con el mercado.",
+      "score": 0.722,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le habla al mercado.",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos son los castigados porque no tienen un sindicalista que los defienda, que se movilice.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Juan Grabois acaba de decir que frente al ajuste de Batakis hay que movilizar a los sectores más vulnerables.",
+      "score": 0.361,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antes de que le ponga fecha a esa movilización, hay una competencia entre la izquierda kirchnerista, la izquierda oficialista y la izquierda trotskista.",
+      "score": 0.435,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el Partido Obrero ya le pusieron una fecha, este jueves.",
+      "score": 0.552,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El primero que la planteó fue Andrés \"Cuervo\" Larroque, antes de las elecciones.",
+      "score": 0.317,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos son privilegiados.",
+      "score": 0.583,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos que le generan un conflicto a la política porque le hablan al kirchnerismo y le reclaman al kirchnerismo en nombre de los pobres.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos ahora se movilizan y están en el centro de la escena.",
+      "score": 0.178,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si emitimos más, va a haber más inflación y se va a degradar más el salario de aquellos a los que le queremos mejorar los ingresos.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los movimientos sociales no sólo se ven amenazados porque sus bases están descontentas y sufren la inflación, sino que se ven amenazados por el discurso de Cristina Fernández de Kirchner y la presión de la política.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Movimiento Evita, el 9 de julio, hace un congreso para mostrarle a Cristina quiénes son y cuánto pesan.",
+      "score": 0.58,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese es el mensaje de Emilio Pérsico, el líder del Movimiento Evita, junto con su cerebro, que es Fernando \"Chino\" Navarro, quien hoy hizo declaraciones en el programa de Graciela Fernández Meijide hablando a favor del salario universal de Grabois.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le están hablando a Cristina.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Problema para Alberto Fernández, porque esto que vimos es casi lo único que le queda como base propia de poder.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero claro, le pasan la factura.",
+      "score": 0.525,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando gobierna Macri faltan dólares, es la fuga de los amigos del presidente que se la llevaron todas.",
+      "score": 0.584,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá tenemos la era dorada de Néstor Kirchner, un tipo de cambio equilibrado, estable, competitivo.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto le permitía superar el déficit fiscal y superar el déficit comercial.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que huir de la Argentina porque estos, con un dólar tan barato, necesitan muchos dólares.",
+      "score": 0.522,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La soja que el productor le entrega a la cerealera para que la cerealera la venda o la muela y haga biodiésel, digamos, la procese.",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es Evo Morales o Luis Arce, su ministro de Economía, actual presidente.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mostramos hace un tiempo un camión de soja que había volcado y que no iba desde Corrientes hacia los puertos del sur, sino que iba raramente en sentido contrario hasta el norte.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esto se le agrega otro problema del que venimos hablando siempre, que es la presión sobre el dólar del costo de la energía.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los precios internacionales además se dispararon por el ataque de Rusia a Ucrania.",
+      "score": 0.335,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso Guzmán quería, y tal vez lo quiera también Batakis, en eso están trabajando Jorge Arguello y Gustavo Vélez, negociar con el Fondo Monetario que los precios de la energía de Paraguay, los precios energéticos, la compra de energía, lo que gastamos por compra de combustibles y de gas, no pasen por encima de la raya del déficit fiscal, que se consideren como un gasto aparte, que no intervenga en el cálculo del déficit fiscal.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y desde el Fondo le dicen: \"Pero ajustá en algo\".",
+      "score": 0.603,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al mercado le habló Batakis.",
+      "score": 0.765,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los técnicos, Miguel Kiguel, por ejemplo, dicen: \"Bueno, la mitad de esos bonos los tiene el Estado, o sea que lo van a renovar\".",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa deuda del Estado con el mismo Estado.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que no se destruyan esos títulos, el Banco Central emite más.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el problema en el que está, en este momento, Batakis, y por eso le está diciendo al mercado: \"Prestame porque voy a ser más austera.",
+      "score": 0.683,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En agosto del 2001, Cavallo se sentó con los bancos, se sentó con los que le prestaban para hacer una gran renegociación de esa deuda.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Agosto del 2001, 15 días antes, más o menos, 17, 18 días antes, Clarín publicaba esta tapa: \"El Estado limita sus gastos, sólo pagará lo que recaude\".",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, Alfonsín 85, economía de guerra, Perón del 48, \"Bebe\" del 62, del 72, del 82, Cavallo en el 2001, y luego Batakis hoy, volvemos eternamente a lo mismo.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el mito de Sísifo, aquel personaje de la mitología griega que estaba condenado de por vida a subir una piedra a la montaña y cuando llegaba a la cima se le resbalaba de las manos y la tenía que volver a subir como un castigo eternamente.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 85
+  },
+  "etiqueta_original": "neutral"
+}

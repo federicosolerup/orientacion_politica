@@ -1,0 +1,251 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 38,
+      "derecha": 9
+    },
+    "score_promedio": 0.261,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Recientemente, el gobierno emitió un decreto para justificar la toma de crédito en el acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta noche, quiero analizar un factor que considero clave para entender los movimientos profundos de la sociedad argentina, que explica el éxito de Javier Milei en las encuestas y que, además, influye en muchas sociedades occidentales: las emociones.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se analiza la historia emocional de la sociedad argentina en los últimos años, especialmente en encuestas cualitativas (las que estudian cómo se forman las ideas y las emociones políticas), se observa un cambio significativo a partir de la segunda mitad de 2020.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei capturó esta idea, planteando la necesidad de un cambio radical, que se metaforizó con la \"motosierra\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este fenómeno condujo a una parte de la sociedad argentina a votar a Milei: 30% en las primarias y 56% en el balotaje.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de estas categorías, se indagó sobre el estado emocional de la sociedad argentina, detectando que predominan las emociones positivas, especialmente la expectativa y la esperanza.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se dice que Caputo tiene un tatuaje en la espalda con un dibujo de Parravicini.",
+      "score": 0.542,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad argentina está predominantemente entusiasmada.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Asociado a la presencia de Milei, hay una mutación en el estado emocional que conduce la política desde abajo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto puede explicar por qué, en medio de un ajuste, Milei se sostiene.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto explica que, aún con el ajuste, los niveles de aprobación y desaprobación del gobierno de Milei estén parejos.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La encuesta de Atlas Intel tiene una particularidad: en febrero, la imagen personal de Milei sufrió un quiebre, asociado al escándalo de la criptomoneda \"Libra\".",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fukuyama, al que le preguntaremos al embajador Nadal sobre el futuro de la democracia liberal, analiza la situación de Trump.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dice que tuiteaba desde su cuenta privada, ¿por qué lo juzgan como presidente?",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un ejemplo: el canciller publicó una foto de Milei promoviendo una beca del instituto SADE, fundado por Alberto Benegas Lynch (hijo), con la banda presidencial.",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una confusión entre el presidente Milei y el amigo de Benegas Lynch que busca promover su instituto.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta confusión entre lo público y lo privado, el patrimonialismo, es anterior a la idea de Estado y de ley.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es difícil de verificar, pero se dice que la semana pasada llegó un vuelo privado desde Miami con Laura Belén Rieta, aparentemente ligada a la Conferencia de Acción Política Conservadora, a la que asiste gente del gobierno y Trump.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este marco, es importante la negociación con el Fondo Monetario Internacional (FMI).",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Negocian Santiago Bausili, presidente del Banco Central, y José Luis Daza, viceministro de Economía.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI podría preferir la flotación, con un mercado libre de cambios.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cabac le pregunta sobre la política cambiaria.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo dice que se mantiene y luego sugiere lo contrario, que se saldrá de ese esquema y que no hay que intranquilizarse porque no hay suficientes pesos como para que, si se libera el cepo, haya una turbulencia cambiaria.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo dice que no cambiará, que no habrá cimbronazo, que habrá estabilidad con el dólar.",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo dice que no puede haber un cimbronazo porque hay pocos pesos.",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner mantiene la misma posición que en 2016 con Macri.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una diferencia entre el decreto de Macri y el de Milei.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri postuló a los jueces, y no juraron.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este caso, el gobierno emite un decreto y los pone cuando el Senado ya está tratando el caso, lo que agrava la situación.",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner defenderá la potestad del Senado.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el Senado rechaza el pliego de García-Mansilla, que ya es juez de la Corte, deberá renunciar.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Constitución establece que solo el juicio político puede removerlo.",
+      "score": 0.313,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el Senado rechaza el pliego, García-Mansilla, por el decreto, podría quedar hasta noviembre.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podría quedar una Corte con tres jueces de una misma ideología y uno cercano al gobierno.",
+      "score": 0.423,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se analiza la situación de Cristina Kirchner, que aún no ha sido definida por la Cámara de Casación en el caso de la obra pública.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es difícil que la Corte trate el tema antes de las elecciones, por lo que sería difícil que la Corte le corte el camino a Cristina Kirchner desde el punto de vista electoral.",
+      "score": 0.645,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Volvemos a la encuesta Atlas Intel, que como digo es una encuesta muy certera en todos sus estudios anteriores y nos trae esta sorpresa que Cristina Kirchner bajó de 62 a 55 por ciento su imagen negativa y subió de 28 a 36 por ciento la positiva.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si ella creyera en esta encuesta, podría postularse para diputada.",
+      "score": 0.66,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se define si Milei puede quedarse con el electorado del PRO, o si debe pactar con Macri.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri puso a Gabriel  Sanzini como jefe de gabinete.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora Macri postularía a María Eugenia Vidal.",
+      "score": 0.419,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri quiere mostrar al PRO como partido.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rodríguez Larreta quiere ser candidato en contra de Vidal.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri debe persuadir a Larreta para que baje su candidatura, sino el PRO podría perder votos.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich insulta a los Macri, siendo ella del PRO.",
+      "score": 0.364,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto explica que Milei gane.",
+      "score": 0.388,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si los Macri logran una buena elección, Milei estará obligado a pactar para la elección de senador en la capital, lo que cambiaría el panorama parlamentario del gobierno.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 47
+  },
+  "etiqueta_original": "neutral"
+}

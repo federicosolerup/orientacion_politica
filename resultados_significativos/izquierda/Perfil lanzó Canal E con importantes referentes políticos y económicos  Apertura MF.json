@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 1
+    },
+    "score_promedio": 0.194,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Abrimos esta apertura de hoy con una frase que no quisimos poner en la terminación, que era una frase que dijo Bill Clinton cuando le ganó a George H.",
+      "score": 0.48,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí habíamos citado al economista coreano, una celebridad de la economía mundial, Ha-Joon Chang, quien decía que necesitamos entender la economía no solo desde el punto de vista económico, sino también desde un punto de vista político, social y psicológico.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina tenemos varios canales de deportes, muchos canales de política, pero ninguno dedicado a la economía, y esto, en sí mismo, es un síntoma de algo que cada uno puede explicar, pero que sin duda habla de nosotros.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso de apertura lo hizo Carlos Melconian, el presidente actual del IERAL de la Fundación Mediterránea.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La controversia se generó porque, como el presidente estaba en Brasilia, y el ministro de Economía, en Shanghái, el gobierno decidió enviar como representante, nada menos que al jefe de Gabinete y, al mismo tiempo, precandidato presidencial, Agustín Rossi.",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Agustín Rossi destacó los logros del gobierno actual en la generación de empleo, algo que luego fue respondido por Horacio Rodríguez Larreta, en el sentido contrario.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mencionó varias provincias de Argentina donde el desempleo está por debajo del 5%.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto motivó que luego Horacio Rodríguez Larreta, el jefe de gobierno de la ciudad y también precandidato a la presidencia por Juntos por el Cambio, respondiera de esta manera:\n\n\"Yo pensaba venir a hacer un comentario de rigor, felicitando a Jorge por su vocación de emprendedor, de seguir generando trabajo en la Argentina, que para mí eso es lo más importante, seguir generando trabajo.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero hay un comentario que no quiero dejar pasar, porque quiero, sin profundizar la grieta, porque no es mi espíritu, pero sí dejar clara mi preocupación o, de alguna manera, mi diferente visión de lo que ocurre en la Argentina como jefe de gobierno.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, en realidad, lo que se está creando en la Argentina es empleo público.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, a mí hoy la situación me preocupa mucho.\"\n\nBueno, yo mencionaba allí que la controversia respecto al desempleo en Argentina es porque menos gente busca trabajo en la economía formal y hay más trabajo en la economía informal.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, ayer Mayra Arena decía que se ganaba más en la economía informal que en la economía formal y que esto podía alentar a que menos gente busque trabajo.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cité el ejemplo del martillo que le sirvió a Miguel Ángel para esculpir el David, de la misma forma que le sirvió a un señor llamado Piero Cannata, quien fue uno de los seis que atentaron contra la hermosa escultura de Miguel Ángel.",
+      "score": 0.319,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El señor Piero Cannata, con un martillo que llevó escondido en su saco, le rompió el dedo izquierdo al David de Miguel Ángel.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, el mismo martillo que sirvió para esculpir el David sirvió luego para romperlo.",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

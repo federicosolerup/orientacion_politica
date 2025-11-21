@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Esta estrategia, sin embargo, oculta problemas económicos más profundos, como la venta diaria de millones de dólares del Banco Central, reservas que no son infinitas dado que Argentina no imprime su propia moneda.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Una nota del diario La Nación, citando a Alconá Amón, señala que Javier Milei recibía ofertas de contratos a cambio de acceso, incluso nueve meses antes del lanzamiento de Libra.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "La situación incluso ha trascendido fronteras, con Pedro Sánchez, el presidente español, aludiendo al tema.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El gobierno enfrenta un dilema: la posibilidad de una devaluación inminente, ya sea por inacción o por un acuerdo con el FMI que exigiría ajustes en el sistema cambiario.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "El autor analiza el impacto de la situación en la opinión pública, utilizando datos de encuestas de Kourel y Sila Vilcarra (Punto Cero y Alaska), mostrando una caída significativa en la imagen del gobierno y pérdida de apoyo, especialmente entre los jóvenes varones, lo que debilita la estrategia de la \"batalla cultural\" que Milei creía que mantendría a su base.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

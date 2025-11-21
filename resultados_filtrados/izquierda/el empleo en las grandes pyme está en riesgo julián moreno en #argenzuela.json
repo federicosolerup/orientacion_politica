@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Lo que Andrés comentaba refleja bastante bien la situación actual.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Lo que Andrés describió en sus informes es, en mayor o menor medida, lo que venimos experimentando durante estos quince meses.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Buenos días, Andrés Lerner lo saludó.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Aunque la situación pueda mejorar con la entrada de dólares, por ejemplo, del sector energético, la discusión de fondo es sobre el modelo económico, la generación de empleo y otros temas que el Gobierno parece no abordar.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "La experiencia con el FMI nos demuestra que los dólares que pudieran ingresar no son una solución inmediata.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "La ayuda del FMI es incierta; si de los 20.000 millones de dólares anunciados se restan los 14.000 para el pago de deuda, quedarían solo 6.000 para intervención en el mercado, y ya se utilizaron 1.300 la semana pasada.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    }
+  ]
+}

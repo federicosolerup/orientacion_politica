@@ -1,0 +1,32 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Alberto Cacho Rodríguez, ¿cómo está?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Cacho, no sé si usted escuchó —porque rebotó bastante en los medios de comunicación— a un consultor económico muy cercano al círculo del presidente Milei, cuando decía: “No, a mí viene un taxista y me dice que no llega a fin de mes; yo le diría que saque la plata que tiene en el colchón y se compre tres taxis más”.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Yo trabajé… nunca superé las nueve horas en los años de gobierno de Néstor Kirchner y de Cristina Fernández de Kirchner, nunca.",
+      "entidades_detectadas": [
+        "néstor",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Alberto Cacho Rodríguez, secretario general del Sindicato de Taxistas de Capital, acuérdate: la bajada de bandera, 1280 pesos; la ficha, 128 pesos.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 53,
+      "derecha": 12
+    },
+    "score_promedio": 0.238,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Son dimensiones que se mueven con otra velocidad y que no son tan perceptibles, pero cuando después de décadas se mira retrospectivamente y se escribe la historia, muchas veces esas líneas de acción, esos movimientos más profundos del comportamiento de la política, del comportamiento de la sociedad en general, revelan que tuvieron una influencia extraordinaria en el curso que tomaron los acontecimientos, en el curso que tomó la historia.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hay una noticia por un conflicto que aparece con Chile referido a mapas, mapas argentinos, mapas chilenos del sur, de toda la zona económica exclusiva y la ocupación o lo que le pertenece a cada país de la plataforma continental, donde debajo de la *isla de Tierra del Fuego* hay una superposición de las zonas argentinas y chilenas.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aparece un mapa que es la respuesta a un mapa argentino, mapa que terminó convirtiéndose en los criterios de ese mapa en una ley sancionada por el Congreso el año pasado, un mapa de la *Armada* chilena, no del gobierno chileno.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un mapa que obviamente el gobierno chileno hace propio porque es de la *Armada* chilena, como si también quisieran condicionar el discurso de *Gabriel Boric*, el presidente chileno en esta materia, marcando una zona como chilena que la Argentina reclama como propia.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es aparentemente un detalle si no fuera porque se proyecta sobre la Antártida esa zona, es decir intervienen en la proyección de los derechos argentinos sobre la Antártida que son derechos también disputados y donde muchos países miran sobre todo por la presencia china en la Antártida.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viajó como parte de su campaña presidencial donde utiliza el cargo de ministro de Economía para proyectarse en un nivel que no le daría el de mero candidato a presidente perdedor de una fuerza que salió tercera.",
+      "score": 0.463,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero claro, como ministro de Economía los demás gobiernos lo reciben y se sacó una foto de tono de estética presidencial con el presidente de Paraguay, con el presidente *Peña*.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esa reunión de *Massa* y su equipo y el presidente *Santiago Peña* y su equipo se discutió un problema que tiene que ver con el cobro de peaje en la hidrovía por donde pasa el flujo de comercio que viene desde Brasil, viene desde Paraguay hacia el *Río de la Plata* y hacia el océano, un cobro de peaje que hace el argentino y que está discutido por los demás países del *Mercosur*.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un conflicto que lo lleva en medio de la campaña presidencial argentina al presidente *Santiago Peña* con la potencia que tiene la voz de un presidente a decir: \"Yo a *Massa* no le compraría un auto usado\".",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque en este viaje de *Massa* a Brasil, la excusa del viaje –a la que ahora nos vamos a referir y vamos a desarrollar– es un tema donde en la Argentina se está jugando parte de la historia universal.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Massa* viaja a Brasil a encontrarse con su colega ministro de Hacienda, *Fernando Haddad*, el ministro de Hacienda del *Partido de los Trabajadores*.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una foto incómoda porque cuando uno mira con detenimiento la relación de *Lula* con la Argentina en los últimos años –y sobre todo en el último año– daría la impresión de que el presidente de Brasil está un poco cansado de verse manipulado por la política peronista y por la interna kirchnerista, como se vio cuando estuvo de visita aquí y finalmente no se vio con *Cristina Kirchner*.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para agradecer una gestión de *Lula da Silva* delante del presidente de China, *Xi Jinping*.",
+      "score": 0.735,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina está sin dólares, las reservas netas del Banco Central son negativas en más de 10.000 millones de dólares.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No recibió dólares del Fondo Monetario Internacional, sí recibió el gobierno 7.500 millones de dólares que tuvo que devolver en gran medida, porque tuvo que devolver de esos 7.500, 3.500 millones de dólares que fueron a la CAF, a la Corporación Andina de Fomento, a Qatar y a China, que son tres sujetos que hicieron préstamos de muy corto plazo para que la Argentina pudiera no caer en *default* con el fondo.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que leer con detenimiento el reporte que hace el *staff* del fondo el viernes pasado contando el acuerdo con la Argentina, un acuerdo que en los hechos ya se cayó, no se cumplió ninguna de las metas, donde ahí señalan dos cosas.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que lo que está diciendo el fondo es que esta plata, estos 3.500 que le quedan al Banco Central, no los puede tocar porque son para pagarle al propio fondo, es decir, no sirven para defender la cotización oficial del dólar y evitar una nueva evaluación que es lo que pretende el gobierno.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo otro que plantea es que el segundo tramo del *swap* de *yuanes* con China está en discusión, está en discusión entre la Argentina y China; es una noticia de la que nos enteramos por el fondo porque el gobierno argentino plantea que tiene disponible ese monto de *yuanes*.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchas cosas, una de ellas es que es imposible pagar importaciones y acá es donde *Massa* tiene que recurrir a una pirueta que es buscar que Brasil financie a sus propias empresas que exportan hacia la Argentina.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Brasil ya le dijo a Alberto Fernández –a *Lula*– que no había plata para la Argentina, que solo había cariño, textualmente, esa fue la declaración del presidente de Brasil, con lo cual hubo una gestión ante China.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que la Argentina –o para que China– le dé a la Argentina un monto de *yuanes*, del *swap*, que deja de ser *swap* para transformarse en deuda del gobierno, que pelea tanto contra el endeudamiento, del supuesto gobierno del desendeudamiento, se sigue endeudando con China.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con esos *yuanes* el gobierno argentino compra reales en la plaza de Londres, con esos reales constituye una garantía en Brasil y sobre esa garantía, los bancos brasileños, el banco brasileño, el banco de desarrollo brasileño le presta a empresas o financia empresas brasileñas de autopartes para exportar hacia la Argentina, de tal manera que no haya un colapso en la industria automotriz local.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que por las urgencias dramáticas de la Argentina se empieza a realizar en el *Mercosur* una operación de comercio en *yuanes* y no en dólares; la desdolarización del comercio internacional es un eje central de la estrategia de *Xi Jinping* frente a los Estados Unidos y la Argentina se presta –porque está ahorcada, sin otra salida que pedir los *yuanes* porque no tiene dólares– a esta estrategia que es una estrategia que desde los Estados Unidos se ve como agresiva.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es imposible desvincular estas urgencias, estos pedidos a Brasil y sobre todo estos pedidos a China con la decisión de *Alberto Fernández* de aceptar una invitación, invitación que solo se hubiera formulado si se sabía cuál iba a ser la respuesta, que la respuesta iba a ser afirmativa para que la Argentina ingrese al grupo *BRICS* –Brasil, Rusia, India, China, Sudáfrica.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese grupo BRICS que nació como un grupo de afinidad económica entre países emergentes promisorios a comienzos de la década del 2000 –de hecho, el nombre se lo imprimieron desde Goldman Sachs en 2004–, se transformó ahora en la base, en la plataforma más pequeña de una gran operación más amplia de China para armar una especie de movimiento de no alineados propio que se enfrente o que sirva de contrapeso al G7 liderado por Estados Unidos, es decir, es una operación de alcance geopolítico muy importante, uno de cuyos ejes es promover el comercio en monedas locales y no en dólares.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina acepta la entrada, entra de la mano de Brasil y va a tener otros socios en este club.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de esos socios es nada menos que Irán, con el que la Argentina tiene –como todos sabemos– un agravio que llega a la justicia, donde hay acusados exfuncionarios iraníes por el salvaje atentado contra la AMIA el 18 de julio de 1994.",
+      "score": 0.497,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Irán entra a los BRICS también por una invitación del grupo, insisto, liderado por China, a pedido de Rusia.",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro país opaco que logra… Hubo una reunión el miércoles pasado en Johannesburgo de los presidentes del grupo BRICS a la que no pudo ir *Putin* por miedo a quedar preso y en esa declaración, Rusia consigue que lo admitan firmando un punto, el punto cuarto, que dice que no hay que tomar medidas coercitivas por la fuerza en el plano internacional, como si no hubiera invadido Ucrania.",
+      "score": 0.71,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, muy bien, la Argentina ya entra en una dimensión que supone compromisos internacionales de largo plazo en un alineamiento internacional muy poco debatido, con un gobierno que se está yendo dentro de pocos meses, con un gobierno que salió tercero en las primarias, que tiene grandes probabilidades de perder la elección y que toma determinaciones que comprometen el rumbo del país en el largo plazo.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre todo cuando uno ve los argumentos… El canciller de Brasil, *Mauro Vieira*, dio una entrevista este fin de semana explicando qué significa para Brasil la ampliación del grupo BRICS.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vieira no lo dice, probablemente no signifique para Brasil algo digno de aplaudirse porque Brasil empieza a perder gravitación.",
+      "score": 0.689,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo: \"Estamos ahí por intereses geopolíticos, que tomen nota en Europa, que tomen nota en el G7, que tomen nota en Estados Unidos\", es decir, nosotros entramos al grupo BRICS por un alineamiento internacional geopolítico en el conflicto entre China y Estados Unidos.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Brasil se lleva de la reunión de Johannesburgo un trofeo, que es que en esa declaración larguísima –son siete páginas– se establece que debe haber una ampliación del Consejo de Seguridad de las Naciones Unidas con la incorporación de otros miembros permanentes.",
+      "score": 0.361,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se dice así, pero se sugiere y entre esos miembros que deberían ampliar la mesa del Consejo de Seguridad se menciona a Brasil.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gran triunfo de Brasil frente a los demás países de América Latina, sobre todo frente a la Argentina y México, que siempre pretendieron que esa banca adicional, si algún día se crea, sea rotativa.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, Brasil consiguió este respaldo de los demás socios de los BRICS al cual adhiere también *Alberto Fernández* cuando dice que se va a incorporar a partir –sin cuestionar ese punto de la declaración.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto está en el telón de fondo de una campaña que se mueve con otras motivaciones y con otros discursos, pero es parte de algo que estamos viendo cómo aumenta día a día que es lo que podríamos llamar el \"costo Massa\".",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El costo que tiene para la Argentina, para la sociedad argentina, la candidatura a presidente del ministro de economía *Massa* es elevadísimo, como se puede ver en las medidas que él anunció ayer domingo a través de la cadena X, ex Twitter.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que mirar los mensajes de *Alberto Fernández*, a quien *Massa* ignora olímpicamente como presidente, no sabemos si por una motivación propia de *Massa* o porque se ofendería mucho *Cristina Kirchner* en algún caso de que él le reconociera alguna autoría sobre alguna medida del gobierno, *Alberto Fernández*.",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Simulando ser el presidente de la Argentina, *Fernández* dice: \"Tras los efectos de la devaluación y la inflación, les encomendé a los ministerios de Trabajo, de Desarrollo Social y de Economía –al final– que promuevan una serie de medidas para mejorar el ingreso de las y los jubilados y trabajadores formales e informales\", y después viene la serie de anuncios de *Massa*.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, entre todos estos anuncios hay uno que es el más grave de todos y del que la sociedad argentina va a tener noticias a medida que corran los días y consiste en suspender un decreto que había firmado el propio gobierno disponiendo un aumento del 7% para las empresas de financiamiento de salud, dicho en términos vulgares, las prepagas.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese 7% que se le iba a conceder de aumento a las prepagas en un país que tiene una inflación mínimo, mínimo de 10% mensual –como vamos a ver cuando se conozca la inflación de este mes– se traslada ese incremento en los ingresos de las prepagas en un 92% a clínicas y sanatorios.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que esta medida por la cual *Sergio Massa* implementa un \"plan platita\" con plata de otros, pone al sistema de salud de la Argentina al borde de la quiebra, mucho más al borde de la quiebra de lo que ya estaba.",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy bien, habrá que ver si las consecuencias de esta medida se conocen con *Massa* presidente o cuando *Massa* ya se fue y que la cuenta y el problema lo pague otro, porque él tiene que ganar la elección.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le voy a dar un ejemplo.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para las empresas es un problema, no porque sea muy caro, porque al ser a la cotización oficial termina no siendo tan caro, pero establece un piso de 350 millones de dólares que para las mismas empresas que trabajan en Colombia, en Brasil o en Chile, terminan siendo a dólar billete mucho más caro de los que ellas podrían pagar en esos países.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo importante es que además de establecer tres tramos para empresas privadas, esta licitación le asigna un tramo a ARSAT, a la empresa de tecnología estatal.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se trata ni de la Argentina ni de la inflación en general, se trata de la vida cotidiana y personal: la heladera, el colegio de los chicos, las segundas marcas en las cuales se cae para consumir porque no se pueden consumir ya las primeras, el miedo a salir de la casa.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy en Israel hay una grieta como la que hay en la Argentina.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno calcula que *Milei* le va a tener que pedir permiso a *Xi Jinping* si quiere dolarizar para usar esos *yuanes* que están en las reservas como *backup* de su dolarización.",
+      "score": 0.307,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver si con este discurso los chinos le dan el ok o si él tiene que modificar su discurso.",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora bien, esa no es la solución que le gusta a los políticos en general.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En general prefieren la garra del Estado antes que la mano invisible y en ese sentido la solución que proponen, digamos, la instrumentación, queda bajo el rótulo de lo que se denomina la justicia social.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo que es una de esas cosas que a uno le viene a la cabeza es que este sea el legado, este ambiente cultural en el cual pasan estos conceptos como naturales, sea el legado del liderazgo de *Cristina Kirchner*, seguramente a ella la debe perturbar bastante y la debe interpelar bastante.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miren esta otra que se refiere a empresarios y es bastante cómico lo que pasó en el *Council of the Americas*: \"Representar a los trabajadores y también se compone de los micrófonos ensobrados y de los profesionales que aduciendo cierto nivel teórico y sofisticación, son operadores del poder, ya me sé los economistas que defienden las atrocidades de los políticos, eso que dicen 'no se puede ajustar' y ¿cómo eran las cuentas de Argentina en términos del tamaño del estado antes de que llegara el kirchnerismo?\".",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Milei* después se fue por una puerta a la que no pudo acceder nadie, pero ya hay empresarios cuya riqueza está muy asociada a regulaciones del Estado que están pidiendo reuniones con *Milei*, aparentemente con éxito.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver qué derivaciones tiene todo esto, por ejemplo, *Rubén Cherniavsky*, que es la figura más caracterizada de lo que se llama el régimen de Tierra del Fuego –que es un régimen hecho a partir de regulaciones y protecciones del Estado– ya pidió una reunión con *Milei*, no sé si la habrán tenido, pero evidentemente empieza a ver –dentro de lo que *Milei* llama la casta– gente que está inquieta y está tratando de ver si le puede explicar que en mi caso no soy la casta.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hablando también de la justicia, les recomiendo leer una nota que no tuvo toda la repercusión que tendría que haber tenido, pero sí la tuvo en el Instituto Patria, es una nota de *Santiago Fioriti*, periodista del diario *Clarín* y este es el título de la nota: \"Cristina quiere desanclar a Sergio Massa y por qué Mauricio Macri quedó atrapado por Javier Milei\".",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero fíjense lo que dice un párrafo de esta nota de *Fioriti*: \"Dice que hay un periodista –yo presumo que es el propio *Fioriti*– que llamó a *Fernández* y *Fernández* le dijo –antes de contestarle una consulta–: 'Venite ya para Olivos'\".",
+      "score": 0.494,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Fernández* se estuvo dos horas y media –ese periodista que no sabemos quién es– con el presidente y dice *Fioriti*: \"Fernández se entretiene contando las peripecias a las que lo sometió *Cristina*\".",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esos tiempos de ocio, cuenta anécdotas divertidísimas, divertidísimas y trágicas para la Argentina.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ha comenzado a decir –escuché bien– que leyó los expedientes que afectan a la vicepresidenta y sostiene que, más temprano que tarde, *Cristina* tendrá que pasar unos años de encierro obligado, es decir, *Fernández* dice al final de su gobierno lo contrario de lo que decía al comienzo de su gobierno, según *Fioriti*: \"Al comienzo de su gobierno, él decía –inclusive antes de ganarse la candidatura o para ganarse la candidatura– llegó a decir: 'Yo leí los expedientes y sé que *Cristina* es inocente'\".",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Milei* todavía no tiene un discurso para eso, pero empieza a haber, con el mismo problema, carecer de estructura política, quienes se le acercan desde la política para establecer contacto y ahí hay varias novedades.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Massa* estuvo en Córdoba también, usando la política energética para promoverse como candidato en un lanzamiento de unos gasoductos que *Arabela* y *Frigerio* mandaron unos funcionarios de cuarta línea y daría la impresión que le dijo al *PJ*: \"No quiero ver a nadie ahí porque yo soy candidato\".",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 65
+  },
+  "etiqueta_original": "neutral"
+}

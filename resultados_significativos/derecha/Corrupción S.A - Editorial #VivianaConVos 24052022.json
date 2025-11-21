@@ -1,0 +1,411 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 23,
+      "derecha": 56
+    },
+    "score_promedio": 0.681,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "La corrupción es desigual, ya que algunos se llenan la boca pero son corruptos.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El poder en la Argentina es corrupto.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente y la primera dama violando el DNU (Decreto de Necesidad y Urgencia) del esposo de ella.",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un juez corrupto, ahí lo tenés, se dijo que el presidente no estaba en funciones.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Míralo cuando nos hablaba a cámara, haciéndose el profesor implacable y nos decía que si no cumplíamos la cuarentena nos iban a perseguir penalmente.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente debería perseguirse a sí mismo, penalmente, porque él violó el DNU.",
+      "score": 0.452,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pedirle a usted honestidad intelectual es mucho, pedirle a usted honestidad es mucho.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted es un corrupto, **Alberto Fernández**.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no está preparado para ejercer su función.",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted dijo que era el presidente que iba a cerrar, que iba a terminar con la grieta.",
+      "score": 0.454,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente y la primera dama son pornográficos.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El juez **Mirabella** homologó el acuerdo con el presidente **Alberto Fernández**.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el presidente y la primera dama de fiesta.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, le sacaron a un padre la despedida de su hija a punto de morirse.",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le sacaron todo.",
+      "score": 0.473,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Vos imaginás si a nosotros nos irrita ver el \"Olivos Gate\", lo que le debe pasar al papá de **Adil Gayil**, al papá de **Solange Musse**?",
+      "score": 0.48,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos delincuentes que tenemos como presidente y primera dama no se ponen nunca en los zapatos del otro.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente con un palo (millón) 600 (mil) gracias al impecable juez **Mirabella** que hizo muy bien su trabajo, con un palo (millón) 600 (mil) sobreseído a los dos.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Te metés con los poderosos en la Argentina y, como no sos corrupto, te quedás sin trabajo?",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para que los que tenemos ganas de hacer patria nos caguemos en las patas y no digamos o no hagamos nada.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de Entre Ríos, el hijo de puta de **Uribarri**, condenado a ocho años de prisión por corrupción, sigue viviendo en Israel con la nuestra en la embajada.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no está en la Argentina y preso?",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Uribarri** está en la embajada Argentina en Israel.",
+      "score": 0.43,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo recuerdo que de las pocas que mostró esto antes de salir del \"Olivos Gate\".",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La llamé anoche y le dije una nota de voz, la llamé hoy y hablé con su mamá.",
+      "score": 0.395,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pregunto a esta gente: ¿qué quieren reformar en la justicia?",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero al gordo lo único que le importa es cambiar los dibujitos de los billetes.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al presidente no le importa el hambre, la pobreza, la inflación, la educación, la inseguridad, los narcos.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A **Alberto Fernández** no le importa.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A él solo le importa que desaparezcan los animalitos de los billetes, que no valen nada.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él le dice, “te quiero mucho”, porque el presidente está en la pelotudez.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Te quiero mucho”, le dijo.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Te quiero mucho”, le dijo.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Te quiero mucho”, le dijo.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Te quiero mucho”, le dijo.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La cita le hace “fuck you”, le dice “te quiero mucho”.",
+      "score": 0.371,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente está en una nube de pedo, no tiene la menor idea.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de la genialidad de los billetes, ahora el presidente propone más retenciones para el campo.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vas a ver ahora en imágenes lo que le pasó a un joven de 21 años, un grupo de delincuentes.",
+      "score": 0.648,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero en el medio le disparan a un pibe de 21 años.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le robaron las zapatillas, Franco.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para esos hijos de puta, tu vida y la mía tan solo valen un par de zapatillas.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dieron cinco puñaladas a una nena de 13 años para robarle el celular.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le decía: “Mamá, me muero”.",
+      "score": 0.288,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo puede ser que sigamos viviendo en una Argentina tan despiadada?",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la Argentina de la corrupción.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le arruinaron la vida a la chica, a la madre, a la familia.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le arruinaron la vida a la chica, a la madre, a la familia.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le va, **Feletti**?",
+      "score": 0.656,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le explicás a la chica de 3 años a su mamá, una trabajadora?",
+      "score": 0.468,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, la chiquita le da el teléfono o vos le das las zapatillas.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los gobernadores del PJ pidieron una tregua en la pelea entre **Alberto Fernández** y **Cristina Fernández de Kirchner**.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto lo tiene que ver Cristina y cada vez que llega a esta casa o a la que tiene en la avenida Libertador.",
+      "score": 0.695,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este billete no se le ocurrió al presidente **Alberto Fernández**.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es tan difícil estar sentado acá y relatar todo esto, le juro.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que se le da la cara de **Donda**.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que se le da la cara de **Donda**.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para colmo, el presidente hoy dijo una cantidad de boludeces imposibles de escuchar.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya le vi decir: “el gordo”, vieron que le voy cambiando.",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo “violador de DNU”.",
+      "score": 0.745,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hola, ¿cómo le va?",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo le va?",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cínico, ¿cómo le va, hipócrita?",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le va?",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No le da vergüenza todo lo que está haciendo mal?",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente que gobierna solo para el 0,12% de la población.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él quiere que Argentina sea un paraíso trans.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer la chiquita adolescente que vendió su vestido de 15, que le hizo su abuela, para que coman su madre y su hermana decía algo así como que ella también quiere comer comida con colores.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La víctima tenía 23 años y era la presidente de la juventud radical de la zona de Mendoza.",
+      "score": 0.503,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero tenemos a un presidente que es abanderado hablando del aborto, escúchalo, por favor: “Soy un empeñoso luchador con un corazón que se ha desbordado.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y qué pasó en la Argentina después de eso?",
+      "score": 0.452,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Carísimo **Agustín Laje**, le mando un beso.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poneme este meme que la verdad, dije, para cortar un poco.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con esta relación, el tipo le fue para el culo, pero estamos peor nosotros.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mensaje de este hombre que tiene un oficio y que dice, le dice a la gente, que tienen que aprender un oficio.",
+      "score": 0.53,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, esto es un escándalo: “Cientos de camiones cisterna de Bolivia ingresan a nuestro país a cargar combustible”.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Inclusive aquí nomás, la planta refinar para luego revesar cargados con combustible.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escasea en la Argentina el gasoil, escasea la nafta.",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo decía **Florencia Arietto** de manera impecable: “Para los argentinos, escasez de nafta y de gasoil.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 79
+  },
+  "etiqueta_original": "neutral"
+}

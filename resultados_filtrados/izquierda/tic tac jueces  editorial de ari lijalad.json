@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Se trata del caso de un despido con indemnización de $2.100.000 en 2015, que en noviembre de 2023 ascendió a $165.000.000  tras una resolución de la Cámara del Trabajo, un aumento del 7.745%.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Esta situación expone la disparidad en la celeridad judicial:  rápida cuando conviene, lenta en casos como el de Correo Argentino, donde la familia Macri adeuda al Estado $296 millones de dólares desde 2001, sin haber pagado un solo peso, y la discusión se centra en los intereses.",
+      "entidades_detectadas": [
+        "macri",
+        "estado"
+      ]
+    },
+    {
+      "frase": "La decisión de la Corte sobre las indemnizaciones, en vísperas del discurso de Javier Milei, contrasta con su inacción frente al DNU.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    }
+  ]
+}

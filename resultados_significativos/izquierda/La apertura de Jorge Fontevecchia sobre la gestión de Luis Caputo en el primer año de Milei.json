@@ -1,0 +1,131 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 7
+    },
+    "score_promedio": 0.302,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es 23 de diciembre y titulamos la columna de apertura de hoy “Día 376”, siempre con Javier Milei.",
+      "score": 0.485,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Javier Milei calificó a su ministro de Economía como un rock star.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente habla de la importancia de la honestidad intelectual y en eso estamos de acuerdo.",
+      "score": 0.616,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, luego de haber enfrentado esa situación, en rigor de verdad, con una devaluación del 118 por ciento en un año y un importante ajuste fiscal, logró estabilizar la macroeconomía y calmar a los mercados.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar fragmentos de las primeras medidas de Luis Caputo, luego trataremos de analizar cuáles fueron correctas, incluso si existían alternativas mejores, y finalmente explicar por qué la máquina del tiempo y dónde reside el secreto, el truco de Caputo.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se logró licuar con esta devaluación y este aumento de precios –que decía el ministro de Economía– del 100% de un día para el otro.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un día después de esta devaluación, Caputo dijo algo interesante sobre la sustentabilidad del ajuste.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de este ajuste se produjeron grandes movilizaciones y el paro general más rápido que tuvo un gobierno desde el regreso de la democracia.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El dirigente Pablo Moyano pronunció la siguiente frase, poco afortunada.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de Colombia, el presidente de Serbia, fue un periodista, dijo que el ministro de Economía, o la feria que estaba tomando, hay que llevarlo en andas.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo dice el presidente que hay que llevar en andas, y yo le digo al presidente y compañeros que si lleva a esta feria de economía de Andes, de Agüero, de Despino, los trabajadores, los cubanos y los más humildes no lo van a llevar en andas aquí y no lo van a tirar al Riachuelo, para que se acabe el gobierno\".",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar a Milei festejando la estabilidad económica.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Hemos heredado una bomba que combinaba lo peor de las tres peores crisis de la historia argentina: la de Rodríguez, la hiperinflación de Alfonsín y lo que fue la crisis del 2001.",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 52% fue producido por el propio Milei con la devaluación del 118%.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que no quita que la inflación argentina venía a un ritmo de 150 a 200% por año, que nada tiene que ver con 17.000, ni con 15.000, ni con 5.000.",
+      "score": 0.529,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De cualquier forma, 200 es mucho, y no es la mayor crisis de la historia de la Argentina, porque la Argentina llegó a tener 5.000% de inflación, Brasil llegó a tener 8.000% de inflación en el año.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, con una estabilidad de tipo de cambio conocida como la convertibilidad del 1 a 1, que se logró gracias al ingreso de dólares vía la venta de empresas que se privatizaron, de empresas estatales y sobre todo también gracias al endeudamiento con el Fondo Monetario Internacional.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el kirchnerismo, la estabilidad fue menor, tuvo más fluctuaciones; sin embargo, se podría decir que, hasta el año 2014, fundamentalmente hasta el año 2010, tuvo cierto grado de equilibrio gracias al masivo ingreso de dólares por el boom del aumento del precio de las materias primas que Argentina exporta.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La novedad en la era de Milei es que parte de la estabilidad no está lográndose por los dólares que entran necesariamente, aunque ingresaron muchos por el blanqueo, sino por el ajuste fiscal que le está generando.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, combinado con la sintonía fina del ministro Caputo en su \"crowd impact\", hace que la situación se vaya llevando, por decirlo de algún modo.",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Caputo reflexionar sobre la importancia de Milei para convencer a la sociedad sobre el ajuste y sobre su estilo directo a la hora de encarar políticas que generen resistencia en la oposición.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una exposición de Caputo en el Economic Forum el 5 de junio.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Importante, y particularmente como ministro de Economía, es el presidente, el presidente y su personalidad, porque yo creo realmente que, si no tuviéramos este presidente con esta personalidad, hoy no estaríamos frente a la oportunidad histórica que tenemos en frente, que es la de cambiar el país, que viene, como todos sabemos, en caída libre desde hace los últimos 100 años\".",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 23
+  },
+  "etiqueta_original": "neutral"
+}

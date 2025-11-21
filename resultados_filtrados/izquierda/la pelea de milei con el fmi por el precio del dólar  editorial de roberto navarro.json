@@ -1,0 +1,77 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer, el Banco Central de la República Argentina volvió a perder reservas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "No recuerdo otro momento en la historia de Argentina en el que se perdieran reservas de manera tan continua.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Ayer, Argentina fue el país con el peor desempeño a nivel mundial, con un riesgo país de 960 puntos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "**Federico Sturzenegger** propuso reducir las medidas antidumping, medidas diseñadas para proteger la producción argentina de la competencia desleal de importaciones.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Ayer, **Donald Trump** amenazó a China con aplicar aranceles aún más altos (hasta el 50%) si no reducía las medidas proteccionistas actuales.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    },
+    {
+      "frase": "En este contexto, Argentina sigue buscando financiamiento del FMI para intentar paliar la situación.",
+      "entidades_detectadas": [
+        "argentina",
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Argentina enfrenta una de las crisis más graves de su historia, con un presidente ineficaz y un ministro de economía incompetente.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Hay dos posibilidades: una derrota electoral aplastante en octubre (similar a la situación de los candidatos europeos y latinoamericanos durante la pandemia, que sufrieron derrotas generalizadas en un contexto de depresión económica), o la incapacidad del presidente para mantenerse en el poder.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Se ha hablado de un supuesto renunciamiento de **Cristina Fernández de Kirchner**, de una autoexclusión, pero en realidad se trata de una proscripción.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Sin embargo, hay señales de una posible unidad, incluso con la candidatura de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Es importante que se logre una unidad dentro del peronismo, reconociendo el liderazgo de Kicillof en la provincia de Buenos Aires y de Cristina Fernández de Kirchner a nivel nacional.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner",
+        "kicillof"
+      ]
+    }
+  ]
+}

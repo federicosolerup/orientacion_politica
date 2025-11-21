@@ -1,0 +1,26 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 0
+    },
+    "score_promedio": 0.088,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El tema central es la necesidad que tiene Argentina hoy de que quienes detentan el poder y aquellos que aspiran a tenerlo mañana, alcancen un acuerdo fundamental, esencial, para enfrentar los problemas de fondo que aquejan al país.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Ortografía:** Se corrigieron errores de ortografía como \"lo que es el significado\" por \"sobre el significado\", \"ustedes, pasan\" por \"ustedes saben\", \"quienes\" (con tilde) para preguntas, y la omisión de tildes.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 2
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,145 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La incertidumbre y la inestabilidad son rasgos característicos de la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Los argentinos estamos acostumbrados a la falta de certezas y a la volatilidad diaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El año 2020 fue un año de shock y dolor, marcado por la pandemia, miles de muertes y más de un millón y medio de contagiados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A pesar de la esperanza que trajo el 2021, la incertidumbre persiste en múltiples ámbitos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Inicialmente, se prometió que las vacunas serían un horizonte de certidumbre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, problemas globales de abastecimiento y vacunación,  agravados por las particularidades argentinas, han generado dificultades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gastón Kabanak mencionó, al inicio del programa, la utilización de unidades básicas del partido gobernante (La Cámpora) y de partidos aliados, incluso en municipios opositores, para la inscripción y la información sobre la vacunación.",
+      "entidades_detectadas": [
+        "Gastón Kabanak",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Esta estrategia, en lugar de facilitar el proceso, genera confusión y malestar entre los intendentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras hospitales y centros de salud con personal capacitado ofrecen sus instalaciones,  se opta por la apertura de escuelas con personal contratado, generando incertidumbre sobre la eficacia y la logística del plan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El retraso en la llegada de la Sputnik V, debido a problemas de producción en Rusia,  retrasa la vacunación entre dos y tres semanas, según fuentes oficiales.",
+      "entidades_detectadas": [
+        "Rusia"
+      ]
+    },
+    {
+      "frase": "Esta situación, sumada al retraso de la vacunación en escuelas, genera incertidumbre sobre el inicio del ciclo lectivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien el gobierno nacional y los provinciales afirman que habrá clases presenciales, los gremios mantienen una postura crítica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La falta de consenso entre la comunidad educativa (padres, gremios y docentes) genera angustia en las familias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A esta incertidumbre se suma la proximidad de las elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien inicialmente se confirmó la realización de las Primarias, Abiertas, Simultáneas y Obligatorias (PASO), existe un proyecto del Poder Ejecutivo para suspenderlas, lo que genera una disputa política entre los gobernadores y La Cámpora.",
+      "entidades_detectadas": [
+        "Simultáneas",
+        "Obligatorias",
+        "Abiertas",
+        "La Cámpora",
+        "Primarias"
+      ]
+    },
+    {
+      "frase": "Este conflicto, aunque aparentemente menor, refleja la problemática en la selección de candidatos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A todo esto se añaden los problemas estructurales crónicos de Argentina: la falta de un plan claro para controlar la inflación, la pérdida de 240.000 puestos de trabajo formales, los ataques al sector privado (como Mercado Libre, criticado por Juan Grabois), la inestabilidad en las exportaciones del sector agropecuario y la incertidumbre sobre el tipo de cambio, agravada por el cepo cambiario y las escasas reservas del Banco Central.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Argentina",
+        "Banco Central",
+        "Mercado Libre"
+      ]
+    },
+    {
+      "frase": "La situación se complica con la aparición de irregularidades en el proceso de vacunación, con políticos que se han salteado la fila, al igual que sucede en otros países (como España).",
+      "entidades_detectadas": [
+        "España"
+      ]
+    },
+    {
+      "frase": "En contraste con otros países, la gestión de la vacunación en Argentina está marcada por la improvisación y la falta de planificación.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "La incertidumbre se extiende a los servicios públicos (tarifas, transporte público, Aerolíneas Argentinas, YPF) y a la tensión entre el presidente y la vicepresidenta, lo que dificulta la generación de propuestas políticas alternativas.",
+      "entidades_detectadas": [
+        "Aerolíneas Argentinas",
+        "YPF"
+      ]
+    },
+    {
+      "frase": "La visita de Pitragala a Formosa, y la orden impartida por Alberto Fernández y Cristina Fernández de Kirchner, revelan una falta de claridad en la cadena de mando, generando mayor ruido y confusión.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Formosa",
+        "Pitragala",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "En resumen, la Argentina se enfrenta a un panorama de profunda incertidumbre, agravada por la inestabilidad política y económica.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Simultáneas",
+    "Gastón Kabanak",
+    "Argentina",
+    "YPF",
+    "España",
+    "la Argentina",
+    "Rusia",
+    "Obligatorias",
+    "Mercado Libre",
+    "Banco Central",
+    "Alberto Fernández",
+    "Abiertas",
+    "Cristina Fernández de Kirchner",
+    "Juan Grabois",
+    "Formosa",
+    "La Cámpora",
+    "Aerolíneas Argentinas",
+    "Primarias"
+  ]
+}

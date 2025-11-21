@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ahora, analizo el fallo de la Cámara de mañana.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Eso no puede tener ningún correlato ideológico, aunque uno escuche a Milei diciendo una y otra vez que la gente puede elegir morirse.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "La política de Estado está suspendida.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El problema de fondo es la emergencia alimentaria, que no puede ser que en Argentina tengamos 8,5 millones de personas en situación de extrema pobreza.",
+      "entidades_detectadas": [
+        "argentina",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Ese tipo es el jefe de gabinete de asesores de Petovello.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    }
+  ]
+}

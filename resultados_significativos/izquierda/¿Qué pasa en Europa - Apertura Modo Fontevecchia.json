@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 5
+    },
+    "score_promedio": 0.327,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La canción que escuchábamos, \"Attenti al lupo\", o sea, \"Cuidado con el lobo\", que se viene el lobo, es de Lucio Dalla, y tiene que ver con que, bueno, Lucio era, es un cantante progresista y en Italia está por ganar la ultraderecha.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Italia, se elegirán este domingo 400 miembros de la Cámara de Diputados y 200 miembros del Senado para constituir lo que sería el XIX parlamento italiano.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero tenemos una serie de elecciones que se van a ir dando donde aparecen la derecha o la extrema derecha, o algo que podría considerarse inspirador de las ideas de \"Revolución Federal\" o algún punto de contacto con ella.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, hay en el Senado 100 senadores, están 50 republicanos y 50 demócratas, o sea, se renovarán 34, con que solo uno pase de un bando al otro, es probable que vuelvan los republicanos a tener mayoría en el Senado, y Trump hoy es el político más popular de los Estados Unidos.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar y ver ahora una opinión de los confundidos ciudadanos de Italia respecto a quién votar en estas elecciones del domingo, que puede traer alguna reminiscencia a la confusión de muchos ciudadanos argentinos sobre a quién votar el año próximo.",
+      "score": 0.468,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dejemos Italia con música argentina.",
+      "score": 0.79,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasemos de Italia a España.",
+      "score": 0.545,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Marine Le Pen, que su discurso no es de género, porque es conocido que ella es lesbiana.",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias a Dios, Marine Le Pen perdió en Francia.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a quién puede ganar las elecciones en EEUU, no directamente, porque es una elección de medio término en la que se eligen gobernadores, diputados y senadores, pero es el político en este momento con más apoyo en los Estados Unidos, que es Donald Trump, hablando también igual que Le Pen, de la inmigración.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando México envía a sus personas, no envían lo mejor, no envían a ti, no envían a ti, es enviar a gente que tiene muchos problemas y que traen esos problemas con nosotros.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y él, a diferencia de Le Pen, igual que Giorgia Meloni, Trump tiene un decir violento.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien tiene furia también, y tenemos las elecciones, no en Italia este domingo, como este domingo, sino el otro domingo, en Brasil, es Bolsonaro.",
+      "score": 0.64,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veremos qué sucede en Italia este domingo, qué sucede en Brasil el otro domingo, y vamos a cerrar esta apertura con una canción de Chico Buarque, que se llama \"Tanto Mar\", una clásica canción de izquierda.",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vale decir que Chico Buarque apoya a Lula y está en contra de Bolsonaro.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

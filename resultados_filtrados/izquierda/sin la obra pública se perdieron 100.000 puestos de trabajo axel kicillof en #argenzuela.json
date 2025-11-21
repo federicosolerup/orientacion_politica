@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hablé con Axel Kicillof.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Así es, Jorge, como te había dicho, te comunico que hablé con Axel Kicillof.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Te digo brevemente que hoy conmemoramos los 500 días del gobierno de Alberto Fernández sin obra pública y, al mismo tiempo, destacamos que en las universidades nacionales se paralizaron todas las obras.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Entre los fondos recortados se encuentran: el fondo de incentivo docente (que iba directamente al bolsillo de los docentes),  la partida que compensa las cajas de jubilación de las provincias, el fondo de transporte (lo que provocó un aumento del boleto en toda la provincia), y el fondo de seguridad (para la compra de patrulleros).",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Jorge: ¿El gobierno se vio afectado por estos últimos acontecimientos, especialmente por lo del fondo y el tesoro?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "No hace falta explicar lo malo que es tomar deuda con el FMI, y ahora el gobierno lo festeja, porque Alberto Fernández, cuando no era presidente, criticó duramente al FMI.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Axel: Más allá de las discusiones, es importante conformar un frente en la provincia de Buenos Aires para las elecciones, que represente a los sectores y sea una alternativa a la política de Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "La autopista Presidente Perón, por ejemplo, le faltan 5 kilómetros.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

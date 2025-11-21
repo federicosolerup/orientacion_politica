@@ -1,0 +1,517 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El discurso que presencié fue una masacre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alguien asesinó a mi esposo.",
+      "entidades_detectadas": [
+        "Alguien asesinó"
+      ]
+    },
+    {
+      "frase": "Dejaré a cargo de algunos de ustedes, en quienes confío, la tarea de mantener en alto el honor de esta broma.",
+      "entidades_detectadas": [
+        "Dejaré"
+      ]
+    },
+    {
+      "frase": "El orgullo no te equipara a mí; te gusta descartar, no te ves como una estrella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo traje una estrella, se la di a Caro Lozada.",
+      "entidades_detectadas": [
+        "Caro Lozada"
+      ]
+    },
+    {
+      "frase": "Tú, en cambio, la perdiste al principio; el único que la conservó fue mi amigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si usted fabrica estrellas de este tipo, hágame una, y sortearemos una entre el público cada mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una estrella por mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay tanto que decir que no sé por dónde empezar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hubo dinero para la matanza, pero parece que se lo robaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El dinero no se destinó a la seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad es que, después de todo esto, Fernando Pinedo está más enterrado y más sucio que una papa; quedó muy mal parado políticamente.",
+      "entidades_detectadas": [
+        "Fernando Pinedo"
+      ]
+    },
+    {
+      "frase": "Hoy lo escuché con Romina Manguel y Berni.",
+      "entidades_detectadas": [
+        "Romina",
+        "Berni"
+      ]
+    },
+    {
+      "frase": "Dijo que estaba a favor de la pena de muerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora pregunto, Berni: en un país con jueces corruptos —no todos, pero sí algunos, como Zaffaroni—, ¿cómo se puede implementar la pena de muerte?",
+      "entidades_detectadas": [
+        "Berni",
+        "Zaffaroni"
+      ]
+    },
+    {
+      "frase": "¿Cómo se concilia con la postura de Zaffaroni, de Víctor Hugo Morales, de Hebe de Bonafini, de Estela Carlotto y de Adolfo Pérez Esquivel, que defienden los derechos humanos?",
+      "entidades_detectadas": [
+        "Adolfo Pérez Esquivel",
+        "Zaffaroni",
+        "Víctor Hugo Morales",
+        "Estela Carlotto"
+      ]
+    },
+    {
+      "frase": "Igualmente, yo no estoy a favor de la pena de muerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece terrible que el Estado tenga que decir: \"Mátenlo, ejecútenlo\".",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Me parece un retroceso a la Edad de Piedra, un \"ojo por ojo\".",
+      "entidades_detectadas": [
+        "Edad de Piedra"
+      ]
+    },
+    {
+      "frase": "Hoy en día, debemos pensar primero en la educación, después en cárceles que puedan rehabilitar a los presos, y tercero, si un preso tiene 50 años de condena, que cumpla 50 años; si tiene 20, que cumpla 20.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero matar a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en lugar de pagarles la higiene a los presos, hay que ponerlos a trabajar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Laborterapia, ¿no?",
+      "entidades_detectadas": [
+        "Laborterapia"
+      ]
+    },
+    {
+      "frase": "Tanto campo para arar, tanto terreno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En cambio, se privilegia sacar el campo del campo y entregárselo a los delincuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que poner a los presos a trabajar la tierra, en Mendoza, etcétera.",
+      "entidades_detectadas": [
+        "Mendoza"
+      ]
+    },
+    {
+      "frase": "La vez pasada, faltaba gente para la cosecha de uvas y limones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahí tienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puedes darles 100 litros de agua, un grillete en el pie, a cada preso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero alguien de derechos humanos me dijo que era inhumano, que era un tipo trabajando contra su voluntad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Hasta dónde llega la hipocresía?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hoy se discute y mañana se olvida.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Aún está caliente el cadáver del muchacho del kiosco, pero mañana nos olvidaremos porque vienen las elecciones.",
+      "entidades_detectadas": [
+        "Aún"
+      ]
+    },
+    {
+      "frase": "El lunes, nadie recordará que mataron, no una, sino tres personas ese mismo día en La Matanza: una con 16 tiros, otras dos con 10 tiros cada una.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Una goleada!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Elecciones?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "11 tiros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Elecciones?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "11 tiros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ojo, no culpemos a Espinosa, que solo era el chofer de Balestrini.",
+      "entidades_detectadas": [
+        "Balestrini"
+      ]
+    },
+    {
+      "frase": "Porque parece que aquí los choferes son premiados: el chofer de Aníbal Fernández terminó siendo juez de Comodoro Rivadavia.",
+      "entidades_detectadas": [
+        "Comodoro Rivadavia",
+        "Aníbal Fernández"
+      ]
+    },
+    {
+      "frase": "De chofer a juez, de chofer a intendente del distrito más grande.",
+      "entidades_detectadas": [
+        "distrito más grande"
+      ]
+    },
+    {
+      "frase": "Hay que crear un registro profesional, una salida laboral formal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rudy Ulloa también era chofer, tenía helicóptero propio.",
+      "entidades_detectadas": [
+        "Rudy Ulloa"
+      ]
+    },
+    {
+      "frase": "¡Maravilloso!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De chofer a magnate.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el único que no avanzó fue Golea, el chofer de Juan Cruz.",
+      "entidades_detectadas": [
+        "Golea",
+        "Juan Cruz"
+      ]
+    },
+    {
+      "frase": "Cuánta honestidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ¿qué dice la editorial ahora?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los perros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los perros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué los perros atacan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No son malos, son cobardes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El perro que muerde es el más cobarde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El perro miedoso es el que ladra a todo el mundo y muerde los talones, porque tiene miedo de que lo ataquen.",
+      "entidades_detectadas": [
+        "ladra"
+      ]
+    },
+    {
+      "frase": "Es como el pavo real que abre la cola, o algunos aborígenes que se adornan con plumas y colores para asustar al enemigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina Kirchner no es valiente, ni líder.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Es miedosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso se esconde cada vez que hay un problema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dentro del kirchnerismo tienen un problema grave ahora: la derrota ya no se disimula, pero venden miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Durante mucho tiempo, los argentinos sucumbimos al miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya no está tan cerca la época en que te decían: \"Cuidado, la Cámpora está vigilando\".",
+      "entidades_detectadas": [
+        "la Cámpora"
+      ]
+    },
+    {
+      "frase": "La realidad es que han perdido la posibilidad de asustar al soberano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En La Matanza, la gente ya no tiene miedo.",
+      "entidades_detectadas": [
+        "La Matanza"
+      ]
+    },
+    {
+      "frase": "Es como ver a tu padre desnudo y darte cuenta de que no tiene la camiseta de Superman.",
+      "entidades_detectadas": [
+        "Superman"
+      ]
+    },
+    {
+      "frase": "Hoy, el silencio de Máximo Kirchner y los demás ha demostrado que nadie le tiene miedo a Cristina.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "Al contrario, le tienen asco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente de La Matanza le dice a Cristina: \"Ven, mírame a los ojos\".",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Eso es mojarle la oreja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y me acuerdo de una canción de Los Súper Ratones...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy quiero mandar un saludo a Martín Cabrales, que me envió una cafetera.",
+      "entidades_detectadas": [
+        "Martín Cabrales"
+      ]
+    },
+    {
+      "frase": "¡Feliz 100 aniversario, Cabrales!",
+      "entidades_detectadas": [
+        "Cabrales"
+      ]
+    },
+    {
+      "frase": "Gracias a Dios, se terminó el miedo a los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, se terminó el \"Cristina Forever\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recuerdo la primera presidencia de Cristina, cuando salía Diana Conti diciendo \"Cristina Forever\".",
+      "entidades_detectadas": [
+        "Diana Conti",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "La gente se lo creyó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después aparecieron todos los payasos:  Leguizamón, Yasky, Aníbal Fernández, el otro de Tucumán, Capitanich...",
+      "entidades_detectadas": [
+        "Leguizamón",
+        "Yasky",
+        "Capitanich",
+        "Aníbal Fernández"
+      ]
+    },
+    {
+      "frase": "Y hoy la gente parece que, gracias a Dios, siempre hay un mártir para ganar una guerra, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el mártir fue el muchacho del kiosco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y salió el inútil de Delía, que no puede ser más nefasto.",
+      "entidades_detectadas": [
+        "Delía"
+      ]
+    },
+    {
+      "frase": "Debería llamarse \"Príncipe\", no Delía.",
+      "entidades_detectadas": [
+        "Delía",
+        "Debería"
+      ]
+    },
+    {
+      "frase": "Es el mayor sinvergüenza de Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Hizo política sobre el cadáver del kioskero, como hizo con Maldonado, Costeño y Salinas.",
+      "entidades_detectadas": [
+        "Maldonado",
+        "kioskero",
+        "Costeño",
+        "Salinas"
+      ]
+    },
+    {
+      "frase": "No se habló de la AMIA, del accidente de Constitución, de las dos mujeres desaparecidas: Claudia Ferro y otra mujer del sur.",
+      "entidades_detectadas": [
+        "AMIA",
+        "Claudia Ferro"
+      ]
+    },
+    {
+      "frase": "Los falsos mapuches dicen que cuando encuentran un hueso de un antepasado, el territorio es suyo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo el sur debería ser de los mapuches si seguimos ese razonamiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablando de los mapuches: en un país gobernado por inútiles, los falsos mapuches toman casas, queman lugares, armados con armas de guerra, y el gobierno los apoya.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si sumas La Matanza, los mapuches, los delincuentes y el dinero robado, y le agregas a Cristina, que da miedo...",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Cristina debería tenerle miedo a la justicia, a la balanza y al pueblo.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y Delía también, que está en libertad por gracia divina, opinando estupideces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre lo vi estúpido, incoherente, antisemita, sicario de delincuentes, pero no creí que fuera tan imbécil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como son tan estúpidos y antisemitas, ya no nos asustan más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora el poder lo tiene el pueblo, y lo demostraremos el domingo.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Zaffaroni",
+    "Balestrini",
+    "Alguien asesinó",
+    "Cómo",
+    "Adolfo Pérez Esquivel",
+    "Comodoro Rivadavia",
+    "Martín Cabrales",
+    "Recuerdo",
+    "Víctor Hugo Morales",
+    "Leguizamón",
+    "Estela Carlotto",
+    "Mendoza",
+    "Costeño",
+    "Diana Conti",
+    "Caro Lozada",
+    "Laborterapia",
+    "Máximo Kirchner",
+    "Golea",
+    "Maravilloso!",
+    "Rudy Ulloa",
+    "Estado",
+    "Fernando Pinedo",
+    "ladra",
+    "Edad de Piedra",
+    "Dejaré",
+    "Cristina Kirchner",
+    "Delía",
+    "Maldonado",
+    "AMIA",
+    "Berni",
+    "La Matanza",
+    "Argentina",
+    "distrito más grande",
+    "Romina",
+    "Yasky",
+    "Cristina",
+    "Capitanich",
+    "Bueno",
+    "Aún",
+    "la Cámpora",
+    "Salinas",
+    "Me",
+    "¿",
+    "Superman",
+    "kioskero",
+    "Aníbal Fernández",
+    "Debería",
+    "Claudia Ferro",
+    "Juan Cruz"
+  ]
+}

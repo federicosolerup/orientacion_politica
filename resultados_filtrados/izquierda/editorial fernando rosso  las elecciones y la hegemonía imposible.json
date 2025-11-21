@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Más allá de las fluctuaciones coyunturales, el clima político en estos momentos muestra un descenso notable del triunfalismo que se desplegó tras las elecciones generales, y han vuelto a crecer las expectativas sobre Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Una pregunta recurrente entre los asistentes fue: ¿Se puede seguir hablando de empate en un contexto donde una porción significativa del electorado optó por variantes de derecha o ultraderecha, incluso considerando que Sergio Massa, el candidato de Unión por la Patria, representa una de las expresiones más moderadas dentro de esa coalición?",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Observando la secuencia electoral de este año, encontramos sorpresas: en las primarias, Milei obtuvo cerca del 30% de los votos, ubicándose primero; en las generales, Sergio Massa recuperó terreno, con casi 7 puntos de ventaja sobre Javier Milei, dejando a Patricia Bullrich fuera de la competencia.",
+      "entidades_detectadas": [
+        "javier",
+        "bullrich",
+        "sergio",
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Este mismo triunfalismo, junto con una serie de exabruptos, llevó a Milei y a sus partidarios a llevar sus propuestas al extremo, especialmente en materia económica.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Milei, por su parte, moderó su discurso, especialmente el económico, con la ayuda de Macri y Bullrich, quienes le rediseñaron la campaña hacia un enfoque más gradualista.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Le sucedió a Macri en 2017 (con la reforma previsional), a Gerardo Morales en Jujuy (con la reforma constitucional), y a Alberto Fernández (con las consecuencias de sus políticas económicas).",
+      "entidades_detectadas": [
+        "alberto",
+        "jujuy",
+        "macri",
+        "fernández",
+        "morales"
+      ]
+    }
+  ]
+}

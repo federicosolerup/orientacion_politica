@@ -1,0 +1,76 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La pregunta tiene que ver con una experiencia de vida que siempre me gusta compartir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se trata de describir un momento de gran vulnerabilidad, quizás un accidente que te asustó o uno que efectivamente sucedió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aunque ahora pueda parecer algo gracioso a distancia, en ese momento seguramente lo pasaste mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál fue ese momento en tu vida en el que sentiste miedo extremo?",
+      "entidades_detectadas": [
+        "Cuál"
+      ]
+    },
+    {
+      "frase": "¿Algo que recuerdes y que te haya marcado profundamente?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo te va con los accidentes?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Pausa, como si estuviera pensando)  ...Bien, yo practiqué artes marciales toda mi vida, durante mucho tiempo hice jiu-jitsu y entrené intensamente; incluso competí.",
+      "entidades_detectadas": [
+        "Pausa"
+      ]
+    },
+    {
+      "frase": "Tuve una lesión muy grave en una competencia de jiu-jitsu que me dejó un mes sin poder agacharme ni atarme los cordones, porque corría el riesgo de perder la visión de un ojo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese fue un momento muy difícil en mi vida, pero afortunadamente todo salió bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No pude seguir practicando jiu-jitsu porque era demasiado peligroso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, usé gafas protectoras después de recuperarme, pero en el jiu-jitsu hay mucho contacto, y con las gafas protectoras típicas de futbolistas no era posible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En ese momento me cuestioné muchas cosas: \"¿Qué va a pasar conmigo ahora?\", \"¿Para qué empecé?\", \"¿Por qué me enfrenté a ese competidor de judo, siendo la primera vez?\", \"¿Por qué me descuidé en ese movimiento?\".",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Son reflexiones que uno hace a posteriori, pero, afortunadamente, estoy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Veo perfectamente con ambos ojos, estoy muy bien iluminado y con una sonrisa espléndida.",
+      "entidades_detectadas": [
+        "Veo"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "¿Cuál",
+    "Pausa",
+    "¿Algo",
+    "Qué",
+    "Veo"
+  ]
+}

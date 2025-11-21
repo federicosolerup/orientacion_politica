@@ -1,0 +1,347 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El productor agropecuario Pedro Zavala, de Carlos Casares, provincia de Buenos Aires, cultiva soja, maíz, trigo y girasol.",
+      "entidades_detectadas": [
+        "Pedro Zavala",
+        "Carlos Casares",
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Fue presidente de la Asociación Argentina de Productores Agropecuarios y Desarrollo Rural (el nombre de la asociación se ha modificado para mayor coherencia y realismo).",
+      "entidades_detectadas": [
+        "Asociación Argentina de Productores Agropecuarios y Desarrollo Rural"
+      ]
+    },
+    {
+      "frase": "Lo tenemos en línea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** Hola Pedro, buen día.",
+      "entidades_detectadas": [
+        "Hola Pedro",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Pedro Zavala:** Buen día.",
+      "entidades_detectadas": [
+        "Pedro Zavala",
+        "Buen"
+      ]
+    },
+    {
+      "frase": "Bien, gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estaba escuchando su análisis microeconómico; es bastante acertado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿Qué opinan sobre lo publicado esta madrugada?",
+      "entidades_detectadas": [
+        "Entrevistador",
+        "¿Qué"
+      ]
+    },
+    {
+      "frase": "Imagino que hubo llamadas y reuniones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo perciben la noticia y cuál creen que será la reacción?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Pedro Zavala:** Lo más importante es que, al menos en principio, fuimos escuchados.",
+      "entidades_detectadas": [
+        "Pedro Zavala"
+      ]
+    },
+    {
+      "frase": "El número en sí no dice mucho, ya que el mercado de soja recién abrió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es muy temprano para sacar conclusiones, pero la diferencia no es significativa, considerando la situación del dólar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al hacer el balance final, la diferencia tampoco es enorme.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es un buen comienzo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para un productor, la diferencia entre liquidar un camión de soja a $280.000 y a $320.000 es significativa, representando un aumento considerable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto genera un movimiento importante, especialmente en los pueblos del interior, que dependen de esta actividad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se observa un mayor dinamismo económico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, debemos ser cautos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un comienzo, pero debe continuar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esperamos que en julio se liberen más restricciones, o idealmente, todas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "Andrés Lerner",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Pedro Zavala:** Hola Andrés, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Pedro Zavala",
+        "Hola Andrés"
+      ]
+    },
+    {
+      "frase": "**Andrés Lerner:** Bien, gracias.",
+      "entidades_detectadas": [
+        "Andrés Lerner",
+        "Bien"
+      ]
+    },
+    {
+      "frase": "¿Qué opinas de la medida, considerando la letra chica, la temporalidad y la especificación de los plazos de liquidación de divisas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Crees que el gobierno intenta ayudar a los productores o que el Banco Central necesita que liquiden granos y que los exportadores aporten dólares?",
+      "entidades_detectadas": [
+        "¿Crees",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "**Pedro Zavala:** Hay que analizar ambas perspectivas.",
+      "entidades_detectadas": [
+        "Pedro Zavala"
+      ]
+    },
+    {
+      "frase": "Nos beneficia en cierta medida, pero el país también necesita dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una realidad que cada 10 dólares que ingresan a Argentina, 7 provienen del campo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Además, en el sector agropecuario, las pequeñas y medianas empresas aún predominan, y su situación es un tema urgente.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Necesitamos un diálogo para abordar la diferencia de costos entre grandes pools de siembra y pequeños productores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No pagamos lo mismo por el gasoil, por ejemplo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Lerner:** ¿Ven una intención del gobierno de acelerar la liquidación para sostener el tipo de cambio, que muchos consideran atrasado?",
+      "entidades_detectadas": [
+        "Andrés Lerner",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Pedro Zavala:** El tipo de cambio está atrasado.",
+      "entidades_detectadas": [
+        "Pedro Zavala"
+      ]
+    },
+    {
+      "frase": "Si bien se ha hecho un acercamiento a la unificación que pedimos, idealmente debería ajustarse hacia arriba, para reflejar un valor real.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es necesario no solo para nosotros, sino también para el equilibrio fiscal del país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro tema de preocupación es que, con este beneficio temporal, podrían aumentar los alquileres de tierras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 70% de la producción argentina se realiza en campos arrendados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Lerner:** ¿Quién es el más afectado por el aumento de los alquileres?",
+      "entidades_detectadas": [
+        "Andrés Lerner",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "**Pedro Zavala:** El que fijó un precio en pesos o dólares, aunque esto es menos común, ya que generalmente se arriendan tierras a cambio de kilos de soja.",
+      "entidades_detectadas": [
+        "Pedro Zavala"
+      ]
+    },
+    {
+      "frase": "Quien arrendó a 1500 kilos de soja, seguirá con ese acuerdo, independientemente de las retenciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el productor chico que invierte y no alquila, con las deudas de la última sequía (2023-2024, la peor en casi 50 años), está en una situación muy difícil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Implantar un cultivo es muy costoso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos productores tomaron deuda para la siembra y asumieron canjes con precios anteriores a esta medida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quienes alquiló en pesos y cobró por adelantado perdieron con la devaluación.",
+      "entidades_detectadas": [
+        "cobró"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** Pedro, mencionaste las lluvias.",
+      "entidades_detectadas": [
+        "Pedro",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "¿Cómo está afectando la situación climática a la producción?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Pedro Zavala:**  Hemos pasado por una sequía muy fuerte.",
+      "entidades_detectadas": [
+        "Pedro Zavala"
+      ]
+    },
+    {
+      "frase": "Este año la situación es mejor pero aún así sigue siendo complicada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las lluvias son irregulares, con mucha dispersión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los cultivos de maíz sembrados temprano no han granado bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las sojas también sufrieron, aunque la lluvia reciente ha ayudado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los rindes serán regulares, pero no excelentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo depende de la zona.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:**  Habrá que analizar la letra chica de esta medida y ver cómo se van acomodando las cosas.",
+      "entidades_detectadas": [
+        "Entrevistador",
+        "Habrá"
+      ]
+    },
+    {
+      "frase": "Gracias, Pedro.",
+      "entidades_detectadas": [
+        "Pedro"
+      ]
+    },
+    {
+      "frase": "**Pedro Zavala:** Gracias a ustedes.",
+      "entidades_detectadas": [
+        "Pedro Zavala"
+      ]
+    },
+    {
+      "frase": "Es un trabajo diario; tenemos que seguir luchando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los sectores productivos han sido muy castigados, y acomodar la situación llevará tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un abrazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:**  En las próximas horas y durante esta semana se publicarán las reglamentaciones del Banco Central y la Secretaría de Comercio, que darán mayor claridad a este esquema.",
+      "entidades_detectadas": [
+        "Secretaría de Comercio",
+        "Banco Central",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "Hasta entonces, es probable que no haya mucha venta ni liquidación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Gracias",
+    "Entrevistador",
+    "Banco Central",
+    "¿Qué",
+    "Andrés Lerner",
+    "Además",
+    "Carlos Casares",
+    "¿Crees",
+    "Argentina",
+    "¿Quién",
+    "Pedro Zavala",
+    "cobró",
+    "Pedro",
+    "Bien",
+    "provincia de Buenos Aires",
+    "Hola Pedro",
+    "Hola Andrés",
+    "Habrá",
+    "Secretaría de Comercio",
+    "¿",
+    "Asociación Argentina de Productores Agropecuarios y Desarrollo Rural"
+  ]
+}

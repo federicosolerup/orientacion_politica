@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Por un lado, los ladrones de estado como Cristina Kirchner, Amado Boudou, Ricardo Jaime y siguen las firmas, y por el otro, los que quieren hacer el bien sin mirar a quién.",
+      "entidades_detectadas": [
+        "cristina",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Jimena Latorre fue ovacionada de pie por toda la Cámara de Diputados.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Es muy valiente, fue durísima con Alberto Fernández, al que acusó de \"guitarrear\" en temas que no sabía, e incluso criticó al jefe de su propio partido, el gobernador Gerardo Morales.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

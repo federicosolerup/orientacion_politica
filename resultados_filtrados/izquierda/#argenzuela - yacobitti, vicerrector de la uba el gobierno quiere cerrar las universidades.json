@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En una entrevista anterior, se discutió el rol del Estado y el de la Universidad.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Jorge: Por favor, Emiliano, antes decías que la situación en Chaco muestra la falta de apoyo del Estado —de este gobierno— a la universidad.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Debemos analizar la situación: si el Estado no funciona, debemos identificar qué sí funciona y potenciarlo, mejorando lo que no.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La línea telefónica para denunciar adoctrinamiento es una provocación, como lo fue el adoctrinamiento del presidente en una escuela secundaria.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La Argentina invierte quince veces menos que México y obtiene resultados similares.",
+      "entidades_detectadas": [
+        "argentina",
+        "méxico"
+      ]
+    },
+    {
+      "frase": "La UBA es elogiada en los rankings, compitiendo con Brasil y México, que tienen presupuestos seis y siete veces mayores (quince veces mayor en dólares en el caso de San Pablo).",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    }
+  ]
+}

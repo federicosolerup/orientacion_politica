@@ -1,0 +1,201 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 21,
+      "derecha": 16
+    },
+    "score_promedio": 0.425,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, con Augusto Reina, politólogo y director de Pulsar de la UBA, analizábamos la performance en el debate y nos preguntábamos si la gente prefiere un presidente que se parezca a un político tradicional, con sus grados de impostación y mentira —que cualquier político profesional tiene—, o si preferirá a alguien que sea totalmente genuino, inexperto, o incluso equivocado, si la autenticidad en el error es mejor que la falta de autenticidad en la eficacia.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La palabra \"Príncipe Fuyero\", con la que estamos titulando esta apertura de hoy, es una combinación, por un lado, de Maquiavelo, de su famoso libro de consejos a los gobernantes llamado *El Príncipe*, y \"Fuyero\", que es el término que le puso Cristina Fernández de Kirchner a Sergio Massa.",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que combinamos a Maquiavelo y a Cristina Fernández de Kirchner para construir el \"Príncipe Fuyero\".",
+      "score": 0.686,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maquiavelo decía que la verdad y la política tienen una relación mucho menos comprometida.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le importan mis nietos, no le importa mi hijo, solo le importa a nuestra hermana.",
+      "score": 0.745,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí casualmente no se hablaba sobre quién tiene fama de mentiroso, sino de Javier Milei.",
+      "score": 0.494,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, el auténtico Milei sería también, para Patricia Bullrich, al menos en ese momento, mentiroso.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar a Macri y a Massa reprochándose eso mismo.",
+      "score": 0.633,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que decir si Massa continúa o no continúa.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Milei tenemos todas las incertidumbres.",
+      "score": 0.403,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa me mintió siempre.",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él va por dividir el radicalismo y, si puede, también el PRO y llevarse un cacho a su gobierno, que es lo que todo el mundo habla.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso hay que, en vez de seguir hablando de personas, hay que tratar de investigar cuáles son los vínculos que tiene Massa con todos esos dirigentes de los que estamos hablando\".",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora Sergio Massa sobre Macri, diciendo: \"Mentiroso\", le decía la mamá de Macri a él.",
+      "score": 0.703,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Lo escuchó Macri ayer?",
+      "score": 0.365,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los expresidentes, de alguna manera, tienen que tener un rol respetado en la sociedad argentina y tenemos que aprender cómo hacen países desarrollados para que ocupen su lugar\".",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero básicamente, en la relación con usted, como que vio entender muy abiertamente que usted le había mentido, que era mentiroso.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No, el tema de mentiroso lo decía la mamá de Macri a él.",
+      "score": 0.666,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes tienen la computadora, busquen en Google lo que decía la mamá de Macri y van a encontrar que decía: 'La mamá de Macri, desde chiquito era muy mentiroso, se tenía que pegar por eso'.",
+      "score": 0.709,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vayamos primero a Hugo Moyano diciendo: \"Creo que, de Menem, si le decía lo que iba a hacer, nadie lo votaba\".",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En algún sentido, quien primero premia la relación laxa entre la verdad y la política es la propia Cristina Fernández de Kirchner, quien eligió a Massa como candidato de Unión por la Patria.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar en un audio cuando la vicepresidenta define al propio ministro que elige como candidato a presidente —o por lo menos comparte la elección—, diciéndole: \"Ministro Fulguero\".",
+      "score": 0.388,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le digo: 'No vas a poder traerlo, Sergio Paz'.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "vos sos medio Fulguero, pues cada cosa que le digo, te apuesto esto, te apuesto lo otro, te apuesto un costillar, te apuesto eso.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo interesante es señalar que \"Fulguero\" tiene dos acepciones: por un lado, \"Fulguero\" es el que apuesta, el que juega, como dice Cristina en el video y juega; y por el otro, alguien que es mentiroso, de poco fiar.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De la acción, porque toda acción posee un fin, un objetivo que es diferente del escenario actual, y aquello es claramente una consideración inspirada por Aristóteles, y de la mentira, que, de hecho, es otro tipo de acción, porque para mentir sobre los hechos, es patente que se requiere imaginar otro estado de cosas sobre el mundo.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un político, por el contrario, podría decir: \"Pregúntele a Galileo cuánto valió la verdad a la hora de ir preso\" y el famoso *\"eppur si muove\"*.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El pueblo entiende que, de alguna manera, la política como campo de acción, como disciplina específica, admite esa laxitud y hasta tiene refranes: \"Nunca le creas a un político en campaña\".",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Allí, el profesor de ciencias políticas de la Universidad de Málaga, Francisco Collado, da tres grandes razones de por qué los políticos mienten.",
+      "score": 0.317,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez estas sean las razones por las que el ataque de Milei y Massa en el debate, tratándolo siempre de mentiroso, puede no haber surtido efecto.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Milei tratando a Massa de mentiroso.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"¿A cuál le creemos, al que mintió en lo de Feynman o al que miente esta noche?",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, Milei sabía perfectamente que Massa era el que le pagó la campaña inicialmente para dividir a Juntos por el Cambio.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay que conseguir la mayoría y finalmente la mentira es una herramienta al fin de conseguir acumular la mayor cantidad de poder, sin la cual no se podría producir el cambio que el político quiere producir.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras los dirigentes de la actualidad escriben libros contando su versión de los hechos como, sinceramente, nuevamente, entre comillas, \"sinceramente, no les voy a mentir\", de Cristina Fernández de Kirchner, o *Para qué* de Mauricio Macri, la dictadura militar prohibía los libros, es decir, la pregunta es ¿cómo?",
+      "score": 0.503,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Lomas de Zamora, donde se demostró que el intendente estaba en cruceros en el Mediterráneo, acompañado de una compañía no muy edificante, gastando dinero del Estado que no podía justificar, ¿cómo puede ser que luego gane en esa localidad el intendente que representa a esta misma persona que estaba en el Mediterráneo con un barco?",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los votantes saben que les mienten, los votantes no comprenden qué es lo que les conviene y la pregunta sería, lo voy a decir con muy malas palabras y le pido disculpas a la audiencia por permitir sintetizarlo de esta manera, pero es lo que yo escuché: \"El planteador se irá a decir: 'Prefiero que me sigan cagando, pero no que venga alguien que me mate'\".",
+      "score": 0.204,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 37
+  },
+  "etiqueta_original": "neutral"
+}

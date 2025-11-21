@@ -1,0 +1,205 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Texto corregido:\n\nCuando la justicia te requiere y te cita, te llama insistentemente y me dice: \"¿Por qué no se presenta?\".",
+      "entidades_detectadas": [
+        "Texto"
+      ]
+    },
+    {
+      "frase": "Porque está condenada por hurto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La señora todavía no asimila que está condenada por hurto y que el mundo la considera una ladrona.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay más que decir, como diría Keynes.",
+      "entidades_detectadas": [
+        "Keynes"
+      ]
+    },
+    {
+      "frase": "Ahora es la ladrona y enfrenta las consecuencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los aduladores ven que su futuro se esfuma como agua entre los dedos porque no revierte la situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está condenada por corrupción, no hay vuelta atrás.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Además, la justicia está empezando a emitir veredictos contundentes, ¿viste?",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Ahora le devuelven el dinero a Larreta.",
+      "entidades_detectadas": [
+        "Larreta"
+      ]
+    },
+    {
+      "frase": "Están desesperados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El rostro de Alberto Fernández hoy se veía desencajado.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Yo la verdad, tenés que ser muy inconsciente o muy ingenuo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cosa que creo que Alberto no es, para apoyarla incondicionalmente y no desmoronarse en el lugar que él ocupa, porque sea cual fuere el veredicto, ella ya perdió.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Y él está perdiendo un año más siendo un perdedor, escuchando que lo critican, que lo insultan, un año más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto, desde este programa vamos a intentar que Alberto aguante.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Por supuesto que ya nadie cree en sus mentiras, pero hay que intentar vivir más feliz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo noto que gracias a los chicos del mundial estamos empezando a tener más optimismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Archivo Log de Correcciones:\n\n*   **fe --> justicia:** Se cambió \"fe\" por \"justicia\" para mayor claridad y precisión del significado.",
+      "entidades_detectadas": [
+        "Log de Correcciones"
+      ]
+    },
+    {
+      "frase": "El contexto sugiere que se refiere a la justicia, no a la fe religiosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **te hay que presentarte --> te requiere y te cita, te llama insistentemente:** Se reformuló la frase para mejorar la gramática y la claridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **te timbra el culo --> te llama insistentemente:** la expresion \"te timbra el culo\" es vulgar, se cambio por una expersion mas formal\n*   **choreo --> hurto (x2):** Se reemplazó la palabra coloquial \"choreo\" por el término más formal y preciso \"hurto\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **senora --> La señora:** Se agregó la mayúscula inicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **no le cayó la ficha a la cabeza --> no asimila:** Se reformuló la expresión idiomática para mayor formalidad y claridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Kenner --> Keynes:** Se corrigió el nombre propio a Keynes, asumiendo que se refiere al economista John Maynard Keynes.",
+      "entidades_detectadas": [
+        "Keynes",
+        "Kenner",
+        "John Maynard Keynes"
+      ]
+    },
+    {
+      "frase": "Esto mejora la coherencia del argumento, si no fuera ese el caso se puede cambiar de nuevo a Kenner.",
+      "entidades_detectadas": [
+        "Kenner"
+      ]
+    },
+    {
+      "frase": "*   **chorra --> ladrona (x2):** Se reemplazó la palabra coloquial \"chorra\" por el término más formal y preciso \"ladrona\".",
+      "entidades_detectadas": [
+        "ladrona"
+      ]
+    },
+    {
+      "frase": "*   **le caen las otras --> enfrenta las consecuencias:** Se reformuló la frase para mayor formalidad y claridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **calcahuetes --> aduladores:** Se reemplazó la palabra coloquial \"calcahuetes\" por el término más formal y preciso \"aduladores\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **no volvés --> no revierte la situación/ no hay vuelta atrás:** Se reformuló para mejorar la precisión y evitar el uso de la segunda persona del singular (vos).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **guita --> dinero:** Se reemplazó la palabra coloquial \"guita\" por el término más formal y preciso \"dinero\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **a la reta --> a Larreta:** Se corrigió el apellido a Larreta.",
+      "entidades_detectadas": [
+        "Larreta"
+      ]
+    },
+    {
+      "frase": "*   **cojudo --> ingenuo:** Se reemplazó la palabra vulgar \"cojudo\" por el término \"ingenuo\", manteniendo el significado pero elevando el tono.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **basurían, putean --> critican, insultan:** Se reemplazaron las palabras coloquiales y vulgares por términos más formales y apropiados para un contexto general.",
+      "entidades_detectadas": [
+        "basurían",
+        "putean"
+      ]
+    },
+    {
+      "frase": "*   **vamos a contemporizar para que aguante --> vamos a intentar que Alberto aguante:** Se simplificó la frase para mejorar la claridad y evitar ambigüedades.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "*   **está empezando a tener más optimismo --> estamos empezando a tener más optimismo:** Se cambió a primera persona del plural para que coincida con el uso de la primera persona del plural a lo largo del texto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Cohesión y Coherencia:** Se realizaron ajustes menores en la redacción para mejorar la fluidez y la conexión lógica entre las ideas.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "Se eliminaron repeticiones innecesarias y se refinaron algunas expresiones.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Keynes",
+    "John Maynard Keynes",
+    "Alberto Fernández",
+    "Cohesión",
+    "Kenner",
+    "Además",
+    "Larreta",
+    "Coherencia",
+    "ladrona",
+    "Archivo Log de Correcciones",
+    "basurían",
+    "Alberto",
+    "Texto",
+    "putean"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Van a presentar los ocho proyectos similares que ya se encuentran en el Estado Parlamentario.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Este instrumento ya lo utilizan en Córdoba, Santa Fe, Mendoza, Neuquén y Salta y, la verdad, funciona a la perfección.",
+      "entidades_detectadas": [
+        "neuquén",
+        "salta"
+      ]
+    },
+    {
+      "frase": "La Cámara Nacional Electoral recomienda utilizar este sistema.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buenos días, Jorge.",
+      "entidades_detectadas": [
+        "Buenos días",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por la llamada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Te sorprendió el retuit del Presidente?",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Para ser honesto, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me sorprendió porque, como bien decís, Twitter es una “barra brava”, y en una barra brava… bueno, uno está ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente, cuando estás en la barra brava, no esperas que el presidente del club esté subido al parabrisas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, lo que sí me sorprende es que *siga* subiéndose al parabrisas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me sorprende el tono que se escucha en la barra brava; no por eso veo… que alguien posteó eso, como vos decís, todos caemos en la guerra de esta gente de la peor manera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora que se ha reposteado un tema tan grave como este por el Presidente, como vos decís, no lo veo a Jorge Brito ni a Román Riquelme colgados del parabrisas.",
+      "entidades_detectadas": [
+        "Román Riquelme",
+        "Jorge Brito",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Por eso te digo, a mí me da la sensación de que alguien podría decirle al Presidente que ya fue electo y que no es más el candidato que trataba de llamar la atención en las redes sociales.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Pero bueno, no pasa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo elegí, a propósito, Jorge, no contestarle porque no quiero alimentar la agresión; quiero dejar que la agresión hable por sí sola del agresor.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Creo que eso es de lo que se trata: cuando agredís de esa manera, hablas más de vos mismo que de quien querés agredir, de manera tan miserable y con un tema tan delicado… Viste que es un tema que todo el mundo está tratando de resolver para que este degenerado no siga causando daño.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jugar con algo así me parece penoso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, a propósito no le contesté porque tampoco quiero que me distraiga de lo importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me pregunto: ¿por qué salen a atacar con tanta zaina y mala leche?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque justamente estoy instalando la discusión sobre los jubilados, sobre cómo hacemos para pagarles, sobre si el aumento que votó el Congreso es razonable y financieramente responsable para el país.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Entonces, cuando estamos tratando de explicar eso, nos quieren correr de la discusión, nos quieren llevar al barro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuando vas al barro, siempre sales embarrado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Prefiero no ir al barro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, bueno, de hecho, el día anterior o dos días antes habías cambiado tu avatar en las redes; habías usado inteligencia artificial para crear tu imagen, digamos, como un anciano, hablando de estos jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso también causó bastante quilombo.",
+      "entidades_detectadas": [
+        "quilombo"
+      ]
+    },
+    {
+      "frase": "Bueno, justamente, a veces uno tiene que usar estrategias comunicacionales de mayor impacto para identificar el problema del que estamos hablando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué se ataca a los jubilados?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por dos razones: los gobiernos de distintos signos políticos muchas veces atacan a los jubilados porque, primero, les cuesta más defenderse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si vas contra la universidad, tenés un millón de estudiantes en la calle, incluso los propios votantes de mi ley diciendo “¡No, por acá no!”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero si vas contra los jubilados, no vas a tener un millón de jubilados en la calle porque, obviamente, tienen dificultades de salud y no pueden salir a marchar igual que un joven de 20 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, los gobiernos se aprovechan de esas circunstancias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La segunda circunstancia, que es la que yo busqué romper con ese avatar, es que todos lo vemos muy lejos, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Los que no somos jubilados decimos: “Bueno, es un problema de otra gente, no nos toca a nosotros”.",
+      "entidades_detectadas": [
+        "“Bueno"
+      ]
+    },
+    {
+      "frase": "Uno tiene la sensación de que nunca va a ser jubilado, pero todos vamos a ser jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hay algo seguro, es el tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no morimos antes, con seguridad todos vamos a ser viejos, todos vamos a estar jubilados, todos vamos a estar quejándonos porque no nos alcanza la mínima o lo que sea que cobremos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, en vez de esperar a que nos pase eso, podemos hacer algo antes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, bueno, de hecho, en una mesa de debate un miércoles, Mondino esbozó otra teoría cuando hablaban de la jubilación.",
+      "entidades_detectadas": [
+        "Mondino"
+      ]
+    },
+    {
+      "frase": "Se le escapó, tal vez, dijo: “Bueno, total, se van a morir”.",
+      "entidades_detectadas": [
+        "“Bueno"
+      ]
+    },
+    {
+      "frase": "El otro argumento es que todos nos vamos a jubilar (a mí me quedan dos años teóricamente), pero también todos nos vamos a morir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esas son las dos teorías que importan, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Lamentablemente, cuando insistíamos con la importancia de votar esta ley, muchos decían: “Los jubilados pueden esperar”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo decía: “Pará, ¿puedo esperar yo?",
+      "entidades_detectadas": [
+        "Pará"
+      ]
+    },
+    {
+      "frase": "¿Podés esperar vos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero un jubilado, ¿qué puede esperar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A morirse”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, claro, si se muere, obviamente no tendrá ningún problema, y además el riesgo de déficit fiscal bajará.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es una barbaridad decir eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que “matar” a los jubilados para que baje el déficit… No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El jubilado es el último que puede esperar; tiene que tener prioridad, tiene que cobrar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, fíjate, Jorge, que ni siquiera estamos discutiendo un aumento a los jubilados; no se trata de un aumento, estamos discutiendo cómo devolverles el 8% que les sacaron en enero.",
+      "entidades_detectadas": [
+        "Además",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Eso es todo lo que se está discutiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Martín, buenos días, ¿cómo estás?",
+      "entidades_detectadas": [
+        "¿",
+        "Martín"
+      ]
+    },
+    {
+      "frase": "Bien, ¿cómo te va?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No sé, Martín, si pudiste ver algunos de los apuntes que publicó el Presidente de la Nación con las supuestas razones del veto.",
+      "entidades_detectadas": [
+        "Martín"
+      ]
+    },
+    {
+      "frase": "Entre otras cosas, el Presidente dice que las jubilaciones subieron un 5% durante su mandato y que, además, aumentaron en dólares.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Eso es falso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto que aumentaron en dólares porque hay atraso cambiario; depende de qué dólar tomen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si toman el dólar a $350 de cuando asumió, no.",
+      "entidades_detectadas": [
+        "asumió"
+      ]
+    },
+    {
+      "frase": "Pero es falso porque… ¿qué cuenta hace el Presidente?",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "El Presidente hace la cuenta desde enero y se salta que asumió el 10 de diciembre y que hubo una devaluación muy grande cuando asumió y un 25% de inflación en diciembre.",
+      "entidades_detectadas": [
+        "Presidente",
+        "asumió"
+      ]
+    },
+    {
+      "frase": "Porque si uno considera diciembre, nadie se hace cargo: uno dice “yo ya me fui”, el otro dice “yo recién estoy llegando”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Diciembre queda en un limbo, se puede hacer cualquier cosa en diciembre.",
+      "entidades_detectadas": [
+        "Diciembre"
+      ]
+    },
+    {
+      "frase": "Claro, pero la verdad es que, antes de que llegara Milei, ¿cuánto ganaba un jubilado y cuánto gana ahora?",
+      "entidades_detectadas": [
+        "Milei",
+        "¿",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Es falso que un jubilado gana más; de hecho, es hasta insultante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie gana más porque hubo una crisis tremenda en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Después discutimos si esa crisis es responsabilidad de Milei o no; de hecho, yo creo que más del 80% de esa crisis es responsabilidad de la irresponsabilidad masiva durante el gobierno anterior.",
+      "entidades_detectadas": [
+        "Milei",
+        "Después"
+      ]
+    },
+    {
+      "frase": "Pero es un dato: no se puede discutir que hoy todo el mundo tiene un salario más bajo que el que tenía en noviembre del año pasado y que todo el mundo tiene una jubilación más baja que la que tenía en noviembre del año pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si discutimos los datos, ya no podemos tener una conversación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y qué te pasa a vos, como economista, cuando escuchás esas cuentas que hace el Presidente?",
+      "entidades_detectadas": [
+        "¿",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Yo, por ejemplo, el sábado, en la contratapa de Perfil, Horacio Verbitsky lo llamó algo así como “degenerado matemático”, hablando de los “degenerados fiscales”.",
+      "entidades_detectadas": [
+        "Horacio Verbitsky",
+        "Perfil"
+      ]
+    },
+    {
+      "frase": "Cuando ves esas cuentas que hace el Presidente, que proyecta y dice: “Había 17.000% de inflación”, “esto va a tener un costo fiscal proyectado en el tiempo del 60% del PBI”… ¿qué te pasa a vos como economista cuando ves esos cálculos?",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Me parece que en algunos casos, como el de las jubilaciones, el Presidente está mal asesorado, porque claramente está mal.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Han tirado un disparate, unos números disparatados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, la forma en que están computando un cálculo a perpetuidad de un gasto fiscal… eso no se hizo nunca en la vida, está mal en todos lados, no corresponde a ninguna práctica contable de Hacienda Pública en ningún país del mundo.",
+      "entidades_detectadas": [
+        "Además",
+        "Hacienda Pública"
+      ]
+    },
+    {
+      "frase": "Eso es un disparate.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, lo del 17.000%, para mí es deshonestidad intelectual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál es esa cuenta?",
+      "entidades_detectadas": [
+        "Cuál"
+      ]
+    },
+    {
+      "frase": "Esa cuenta es: “Mira, hubo 54% de inflación mayorista en diciembre”.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "La inflación mayorista se mide el día 15 de cada mes; es una foto del día, a diferencia de la inflación general, que se mide todos los días y se promedian los precios de todo el mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La inflación mayorista es una foto del día 15: 15 de diciembre contra 15 de noviembre anterior, 15 de noviembre contra 15 de octubre… El día 15 de cada mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la foto, obviamente, cuando el Presidente asume y devalúa, lo que ocurre es que los precios mayoristas copian perfectamente la devaluación.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "La devaluación aumentó el precio de los productos importados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La mayoría son productos transables que se pueden importar o exportar, entonces tienen precio en dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, cuando devaluás, el precio mayorista copia más rápido; ese es el objetivo de la devaluación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, el Presidente devaluó cuando asumió (de $358 a…), y eso se refleja en el precio mayorista que salta a 54%.",
+      "entidades_detectadas": [
+        "Presidente",
+        "asumió"
+      ]
+    },
+    {
+      "frase": "Esa no es la velocidad a la cual van a subir los precios para siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si vos computas el momento de la corrección… no, no, eso está mal, decir que esa es la velocidad… Es como decir que el récord de Usain Bolt de 9,8 segundos en los 100 metros implica que su velocidad en los últimos 20 metros fue de 5,2 segundos.",
+      "entidades_detectadas": [
+        "Usain Bolt"
+      ]
+    },
+    {
+      "frase": "Obviamente no se saca la cuenta así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si ves un partido de fútbol y en los primeros 10 minutos te hacen dos goles (como a Boca el otro día… no lo digo para gastar a nadie, además yo soy de Gimnasia), eso no quiere decir que el partido va a terminar 70-0.",
+      "entidades_detectadas": [
+        "Gimnasia",
+        "Boca"
+      ]
+    },
+    {
+      "frase": "Está claro, Martín.",
+      "entidades_detectadas": [
+        "Martín"
+      ]
+    },
+    {
+      "frase": "Te saco de lo económico y te llevo a lo político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Da la sensación, mirándolo de afuera y desde el lugar que nos toca como periodistas, de que el radicalismo juega una para la izquierda, una para la derecha, una para el centro… con respecto al gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en los posicionamientos parlamentarios es más o menos así: algunas cosas las convalida, otras más o menos, otras no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿En qué momento crees que el radicalismo va a plantar bandera fuerte contra un gobierno que, por tu descripción, nos está metiendo a todos en una gran sanata sobre que estamos mejor cuando en realidad me hace acordar mucho al menemismo: “estamos mal, pero vamos bien”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos están tratando de hacer “morfar” la píldora de Matrix.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fijate que hay una coherencia a lo largo del tiempo.",
+      "entidades_detectadas": [
+        "Fijate"
+      ]
+    },
+    {
+      "frase": "Alfonsín, lo primero que hizo con Menem cuando Menem gana las elecciones es hacer un acuerdo político para la transición, y le da a Menem dos de las leyes más importantes que tuvo Menem para hacer las reformas que hizo: la ley de reforma económica y la ley de reforma del Estado.",
+      "entidades_detectadas": [
+        "Alfonsín",
+        "Estado",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "No es que Alfonsín estaba de acuerdo con estas leyes, pero se las dio porque eran las leyes que pedía el nuevo gobierno.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Después, cuando ganó De la Rúa, el menemismo hizo algo parecido.",
+      "entidades_detectadas": [
+        "De la Rúa",
+        "Después"
+      ]
+    },
+    {
+      "frase": "Hay una entrevista que le hacen a Eduardo Menem en los primeros días del gobierno de De la Rúa, creo que era Bernardo Neustadt, si no me equivoco, y le dice exactamente eso: “Nosotros no estamos de acuerdo con el programa de De la Rúa, pero el Presidente pide dos leyes, le vamos a dar las dos leyes que pide”.",
+      "entidades_detectadas": [
+        "De la Rúa",
+        "Presidente",
+        "Bernardo Neustadt",
+        "Eduardo Menem"
+      ]
+    },
+    {
+      "frase": "Entonces, nosotros lo que hicimos fue un trabajo muy importante con la ley base, mejorándola mucho; hicimos de una ley que era muy mala, la convertimos en una ley que tenía un montón de cosas buenas, muchas incluso a instancia nuestra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, la reforma laboral que estaba en la ley era esencialmente nuestro proyecto de reforma con algunas cosas que le sacaron en el camino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, ¿por qué no vamos a votarla a favor?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Esa línea en la que me quieren meter de los dos lugares… me dicen: “No puedo votar con mi ley, no puedo votar con…”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mí no me importa quién vota, a mí lo que me importa es cada una de las leyes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si yo considero que es una ley buena para la gente, la voto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estoy mirando si la presentó Jorge Rial o Johnny Ventura; ¿qué me importa quién la presentó?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Johnny Ventura"
+      ]
+    },
+    {
+      "frase": "Me importa si la sociedad me eligió a mí para votar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como si fuera Boca-River… todo lo que proponga mi bloque, como no es mi Presidente, lo voy a votar en contra, y todo lo que proponga… también lo voy a votar en contra.",
+      "entidades_detectadas": [
+        "Presidente",
+        "Boca-River"
+      ]
+    },
+    {
+      "frase": "Realmente, yo cada ley la analizo para ver si es buena o mala para la sociedad, y la acompaño si me parece que es buena y no la acompaño si me parece que es mala.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Martín, la última pregunta va a tener que ver con lo que dijiste: yo soy de Gimnasia y acá Nacho Genovar te quiere preguntar algo de fútbol, creo.",
+      "entidades_detectadas": [
+        "Nacho Genovar",
+        "Gimnasia",
+        "Martín"
+      ]
+    },
+    {
+      "frase": "¿Cómo te va, Martín?",
+      "entidades_detectadas": [
+        "Martín"
+      ]
+    },
+    {
+      "frase": "Buen mediodía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Compartís la pasión con Sturzenegger, que es la pasión por el Lobo?",
+      "entidades_detectadas": [
+        "Sturzenegger",
+        "¿Compartís"
+      ]
+    },
+    {
+      "frase": "Sí, también con Martín… ¿Martín?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Guzmán?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, con Martín Guzmán, con la exvicepresidenta… Pero te pregunto por Sturzenegger, si compartís también la ideología de este intento de privatización de Gimnasia… bueno, lo dijo él, de traer capitales extranjeros a Gimnasia.",
+      "entidades_detectadas": [
+        "Sturzenegger",
+        "Gimnasia",
+        "Martín Guzmán"
+      ]
+    },
+    {
+      "frase": "No, no estoy de acuerdo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiero que mi club se convierta en una sociedad anónima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que sí defiendo es el derecho de que, si vos querés que tu club sea una sociedad anónima, si la mayoría de tus socios (dos tercios, una mayoría calificada) creen que tu club tiene que convertirse en una sociedad anónima, no tengo ningún problema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no mi club.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solo quiero que mi club sea de los socios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perfecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Martín, como siempre, me gusta hablar con vos.",
+      "entidades_detectadas": [
+        "Martín"
+      ]
+    },
+    {
+      "frase": "Te mando un abrazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buen día, nos vemos, hasta la próxima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Martín Tetaz, Diputado Nacional por la Unión Cívica Radical.",
+      "entidades_detectadas": [
+        "Diputado Nacional por la Unión Cívica Radical",
+        "Martín Tetaz"
+      ]
+    },
+    {
+      "frase": "Chao.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "De la Rúa",
+    "Realmente",
+    "Nacho Genovar",
+    "Eduardo Menem",
+    "Chao",
+    "Perfil",
+    "Fijate",
+    "Johnny Ventura",
+    "¿Podés",
+    "Mondino",
+    "Horacio Verbitsky",
+    "Jorge Rial",
+    "Sturzenegger",
+    "Menem",
+    "Buen",
+    "asumió",
+    "Diciembre",
+    "Estado",
+    "Además",
+    "“Bueno",
+    "Buenos días",
+    "Claro",
+    "¿Cuál",
+    "Argentina",
+    "Gimnasia",
+    "Hacienda Pública",
+    "Bernardo Neustadt",
+    "Entonces",
+    "Boca-River",
+    "Esas",
+    "Martín Tetaz",
+    "Presidente",
+    "Boca",
+    "¿Compartís",
+    "Bueno",
+    "Bien",
+    "Román Riquelme",
+    "Martín",
+    "Pará",
+    "Lamentablemente",
+    "Jorge Brito",
+    "Después",
+    "Diputado Nacional por la Unión Cívica Radical",
+    "Martín Guzmán",
+    "Usain Bolt",
+    "¿",
+    "Mira",
+    "Alfonsín",
+    "Prefiero",
+    "Jorge",
+    "Milei",
+    "Tenemos"
+  ]
+}

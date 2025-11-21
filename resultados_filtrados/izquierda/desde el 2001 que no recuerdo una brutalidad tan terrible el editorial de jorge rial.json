@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "**Texto corregido:**\n\nDos pesos, no olviden nunca este nombre: un parásito estatal que vive del Estado desde la década de 1970.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Trabajó incluso para Alberto Fernández, su último trabajo antes de este, justificando la represión.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Ayer, gracias a la cámara S5N y a Nicolás, descubrimos en vivo cómo plantaban un arma en la plaza.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Cualquiera agarra una cámara y dice que es fotógrafo.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Gracias a esa foto, Clarín recuperó un poco la memoria.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    }
+  ]
+}

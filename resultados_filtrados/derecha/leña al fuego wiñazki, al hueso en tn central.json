@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El gobierno, luego de autorizar la Copa América con protocolos, revirtió su decisión debido al descontento social y a las movilizaciones de padres que presionaron a la selección nacional para que apoyara la vuelta a las aulas.",
+      "entidades_detectadas": [
+        "américa"
+      ]
+    },
+    {
+      "frase": "Sin embargo, otras provincias como Misiones, Corrientes, Jujuy y Salta también habían retomado la presencialidad.",
+      "entidades_detectadas": [
+        "jujuy",
+        "salta"
+      ]
+    },
+    {
+      "frase": "Si bien la Ciudad de Buenos Aires aún no respondió oficialmente, la postura de Córdoba cuestiona la afirmación presidencial de que la vuelta a clases es la causa del aumento de contagios, que ya han causado la muerte de cerca de 80.000 personas.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Esta narrativa preocupa a padres, alumnos y docentes, quienes perciben la frase \"el fuego va a quemar a la gente\" como una amenaza directa a la salud de sus hijos, a diferencia de la Sociedad Argentina de Pediatría, que mantiene una postura contraria.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

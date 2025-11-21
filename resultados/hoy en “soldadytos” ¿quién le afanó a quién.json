@@ -1,0 +1,112 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original es una conversación caótica y difícil de comprender.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para corregirlo, se necesita reconstruir la narrativa de manera coherente, lo cual implica una considerable interpretación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo siguiente es una posible reconstrucción que intenta mantener el espíritu del texto original, pero con una mayor claridad y coherencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se han omitido partes repetitivas o incoherentes para facilitar la lectura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Texto Corregido:**\n\nDiego Birz estaba haciendo una denuncia.",
+      "entidades_detectadas": [
+        "Texto Corregido",
+        "Diego Birz"
+      ]
+    },
+    {
+      "frase": "\"Me robaron el nombre del programa, PPT,\" exclamó.",
+      "entidades_detectadas": [
+        "PPT"
+      ]
+    },
+    {
+      "frase": "\"Yo soy el dueño del proyecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros lo creamos antes que nadie.\"  Alguien mencionó a Carlito Balá, sugiriendo una posible confusión por un programa similar.",
+      "entidades_detectadas": [
+        "Carlito Balá"
+      ]
+    },
+    {
+      "frase": "Diego insistió en la propiedad intelectual de PPT.",
+      "entidades_detectadas": [
+        "PPT",
+        "Diego"
+      ]
+    },
+    {
+      "frase": "La conversación se tornó acalorada, con insultos como \"kirchnerista\", \"corrupto\" e \"imbécil\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las acusaciones fueron lanzadas, pero la resolución de la propiedad de PPT quedó en el aire.",
+      "entidades_detectadas": [
+        "PPT"
+      ]
+    },
+    {
+      "frase": "La conversación se desvió hacia los recursos financieros invertidos en el programa: 500 muñecos y una gran cantidad de bailarinas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge intervino para calmar las cosas.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Mariu también participó, expresando preocupación por el conflicto y la necesidad de ordenar la situación.",
+      "entidades_detectadas": [
+        "Mariu"
+      ]
+    },
+    {
+      "frase": "Se discutió la posibilidad de que tanto Diego como otros pudieran ayudar a resolver la disputa.",
+      "entidades_detectadas": [
+        "Diego"
+      ]
+    },
+    {
+      "frase": "Finalmente, se llegó a un acuerdo implícito, y el programa PPT se preparó para comenzar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Vamos, vamos.",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "Peronismo para todos,\" alguien exclamó, finalizando con un tono de optimismo y reconciliación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Peronismo",
+    "Carlito Balá",
+    "PPT",
+    "Diego Birz",
+    "Diego",
+    "Mariu",
+    "Vamos",
+    "Jorge",
+    "Texto Corregido"
+  ]
+}

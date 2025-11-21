@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "A pesar de ello, los homicidios dolosos en Argentina vienen disminuyendo desde hace 10 a 12 años, y son aproximadamente la mitad que en Chile o Uruguay.",
+      "entidades_detectadas": [
+        "argentina",
+        "chile"
+      ]
+    },
+    {
+      "frase": "El mal estado de las rutas incrementa el riesgo de accidentes.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Córdoba reportó un exceso de mortalidad del 14% en 2024 respecto al promedio de los cinco años anteriores, una cifra superior al incremento experimentado durante la pandemia de COVID-19.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    }
+  ]
+}

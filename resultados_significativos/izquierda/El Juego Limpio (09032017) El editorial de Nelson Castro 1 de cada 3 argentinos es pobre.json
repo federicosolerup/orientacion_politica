@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 4,
+      "derecha": 1
+    },
+    "score_promedio": 0.17,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy se conoció el nuevo índice de pobreza elaborado por el Observatorio de la Deuda Social de la Universidad Católica Argentina (UCA), una entidad de gran seriedad.",
+      "score": 0.611,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, durante todo el gobierno de Cristina Fernández de Kirchner y lo que va del gobierno de Macri, la pobreza ha crecido.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo elemento clave del estudio es la pobreza de ingresos, la cual efectivamente existe y se manifiesta en la falta de recursos económicos.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La persistencia de esta tendencia hace que Argentina sea un país cada vez más difícil para vivir.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ni este gobierno podrá resolverlo, aunque se propusiera hacerlo y aplicara las mejores medidas, ni tampoco lo pudo solucionar Cristina Fernández de Kirchner, ni lo podrá solucionar ningún político individualmente, si no se aborda en conjunto y con la dimensión que exige.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

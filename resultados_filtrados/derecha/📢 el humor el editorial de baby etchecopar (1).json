@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Una vez, Pachelbel me dijo que los recitales que hacían en la época de Alfonsín eran para que la gente vuelva a ganar la calle después de la dictadura.",
+      "entidades_detectadas": [
+        "alfonsín"
+      ]
+    },
+    {
+      "frase": "Entonces aparecía Alberto Fernández y decía, \"les voy a dar una alegría, les voy a dar un pan dulce\".",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Entonces, les digo a los dueños de los canales, a los dueños de la radio, con el máximo respeto a la mujer, lo más grande que Dios hizo, recuperemos el humor.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "No sé por qué da tantas vueltas bailando y no vuelve al *tira goma* y vuelve a la cámara oculta y vuelve a esas cosas que nos cagamos de risa, a Pachu y Pablo.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Hemos perdido la joya de la gente, hemos perdido la joya, lo único que teníamos gratis en la Argentina y que nos ayudaba a sobrevivir.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "```log\nCorrecciones realizadas:\n\n*   **Nombres y Apellidos:**\n    *   Bernadita -> Bernadita\n    *   Juan Verdaer -> Juan Verdaguer\n    *   Masoko -> Matzuko\n    *   Tente -> Tenti\n    *   Pachelbel -> Pachelbel\n    *   Olmedo -> Olmedo\n    *   Hugo Franco -> Hugo Arana\n    *   Lilita Carrillo -> Lilita Carrió\n    *   San Ysidro -> San Isidro\n    *   Pacho -> Pachu\n    *   Pinty -> Olmedo (Corregido por contexto.",
+      "entidades_detectadas": [
+        "carrió"
+      ]
+    },
+    {
+      "frase": "Pinty es apodo de Olmedo)\n    *   Alberto Fernández -> Alberto Fernández\n    *   Concha Fernández -> Concha Fernández\n*   **Ortografía:**\n    *   Vuelta a carnero -> Vuelta de campana\n    *   quedarlo de comer -> invitar a comer\n    *   vine como una onda -> vine con buena onda\n    *   me hinchó las pelotas -> me hincha las pelotas\n    *   ¿sabes qué pasa?",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    }
+  ]
+}

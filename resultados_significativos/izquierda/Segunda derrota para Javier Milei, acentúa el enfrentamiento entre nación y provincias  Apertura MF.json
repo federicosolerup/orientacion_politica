@@ -1,0 +1,231 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 29,
+      "derecha": 14
+    },
+    "score_promedio": 0.378,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El sol que se le nubló al gobierno en el día de ayer, y vaya que se le nubló.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También, aclarar que el decreto de necesidad y urgencia sigue vigente y que, ahora, en todo caso, la pelota la va a tener la Cámara de Diputados.",
+      "score": 0.408,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, una derrota política para el gobierno importante, en un gobierno que bueno, va a tener que empezar a hacer goles, van a tener que empezar a tener, más allá del relato que viene construyendo, ese relato que le da buenos dividendos, el relato binario, buenos y malos.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le damos la oportunidad al Congreso de que esté del lado de los buenos y no van a estar del lado de los malos.",
+      "score": 0.506,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los malos tienen que ver con la clase política, llámese casta, como le gusta al presidente.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, todo este relato que viene construyendo el gobierno nacional, especialmente Javier Milei, empieza a tener un correlato, o a necesitar un correlato, con la realidad.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el Congreso le empiezan a poner límites, primero la ley ómnibus, ahora en el Senado el decreto de necesidad y urgencia.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este enfrentamiento entre Javier Milei y Victoria Villarruel que no está saldado, más allá de la intención de bajarle los decibeles, por lo menos en lo formal.",
+      "score": 0.528,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, a la vez, la forma que tiene este gobierno de comunicar, que es a través de los tuits, especialmente a través de una red de trolls, a través de una red de gente en el anonimato que tuitea y que después el presidente este le da like o la retuitea.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno tiene que ver con el enfrentamiento de Milei con la vicepresidenta, otra, qué pasa con la oposición, qué va a pasar, especialmente con los radicales.",
+      "score": 0.31,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le acaban de decir al presidente: \"Ojo que nosotros tenemos poder de fuego, más allá de todos los ataques que recibimos por parte del gobierno, vamos a sentarnos a dialogar, pero con otra fortaleza.",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos al debate ayer en el Senado Nacional.",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decíamos, Martín Lousteau, uno de los puntos altos del debate, cuando tomó la palabra, el presidente del radicalismo, y decía lo siguiente: \"Voy a votar en contra del DNU y la razón es muy sencilla, el DNU es inconstitucional y eso es lo único que nosotros tenemos que evaluar, y no lo digo yo, lo dicen todo el espectro de constitucionalistas de la Argentina, desde Gargarella a Sazá y a Ramírez Calvo\".",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alfonso decía que en democracia las formas son el fondo.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué va a ser el radicalismo que está claramente dividido en cuanto a apoyar o no al gobierno de Javier Milei y se está plantando, en este caso, Martín Lousteau.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se vio al presidente de la bancada de Unión por la Patria, que sí se mostró monolítica.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuché cómo lo decía: \"¿Está bien que le digan que le van a colgar en la plaza pública a la vicepresidenta, al presidente del cuerpo?",
+      "score": 0.755,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora está publicando la lista acá de los senadores de la votación que salió el presidente de la Nación y para los senadores que están tratando el DNU, está prácticamente instigando al linchamiento.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, estaba Mayans, donde también le dijo al presidente: \"Presidente, hasta ahora estamos aguantando las agresiones\", hablaba como cuerpo, como este Senado, como Congreso de la Nación.",
+      "score": 0.418,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no podemos seguir tolerando estas agresiones permanentes al Congreso de la Nación, casi en forma de advertencia, lo decía Mayans, sobre el final de su alocución y antes de la votación.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "son un rosario de buenas intenciones\", dice, o algo similar.",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, y en este problema que tiene gran parte del PRO y especialmente de los radicales, es dónde pararse entre acompañar al gobierno y quedar pegados a Javier Milei, cuando muchas cosas no están de acuerdo, o ponerse y que le digan estás junto con el kirchnerismo.",
+      "score": 0.378,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Voy a discutir, señores presidentes, porque ninguno de los que está acá tiene facultades para discutir la constitucionalidad, para eso la Constitución dice que la Corte, no somos nosotros, por supuesto, por supuesto que es un manual de buenas intenciones con un montón de agujeros jurídicos horribles que deberían mejorar la técnica legislativa.",
+      "score": 0.329,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "que hay que llevarse un triunfo, lo piro a, le matamos el DNU\".",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se votó finalmente, efectivamente llegó el momento de la votación, como decíamos, le sobraron votos a la oposición.",
+      "score": 0.453,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Termina de, termina la sesión, va a su despacho y hace un video, es un video donde dice y es muy interesante ver lo que hace Victoria Villarruel, porque por un lado dice, \"este, yo acompaño al presidente, estoy al lado de la presidencia del presidente, no voy a ser este como Victoria, como este Cristina Fernández de Kirchner\", pero ya sé y ahí revalida este, y pone en valor una palabra casi prohibida en Casa Rosada: la política, la institucionalidad y la política.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi, casi en contra de lo que lo que viene diciendo el presidente en que todo el tiempo y cada vez que puede, justamente dice: \"Nosotros somos la antipolítica, estamos en contra de la política\".",
+      "score": 0.359,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Victoria Villarruel y presten atención a esto, más allá del comienzo, donde formalmente le quiere bajar los decibeles como contamos al principio, igual que Casa Rosada, bajar los decibeles de una pelea, de una confrontación.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Mi compromiso con Argentina y con Javier Milei es implacable.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el momento en que Javier Milei me pidió que lo acompañara como diputada y luego en la fórmula presidencial, nosotros sabíamos a lo que nos enfrentábamos y hemos trabajado espalda con espalda a pesar de los incansables intentos por dividirnos.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Senado es la casa de las provincias y es un poder independiente de la República Argentina.",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no me voy a convertir en Cristina Fernández de Kirchner, no me voy a convertir en aquello que vinimos a cambiar.",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca se lo ha escuchado, justamente, al presidente hablar de esto, es más, dice, este, \"la política está en contra de la gente\", suele...",
+      "score": 0.403,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habló de institucionalidad, \"el Senado es la casa de las provincias\", hay que respetar la institucionalidad.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, se da de bruces con el discurso oficial, con el discurso del presidente Javier Milei en cuanto al respeto que viene mostrando por las instituciones y, especialmente, por el Congreso, por eso hay que prestar mucha atención a este a este breve discurso de Victoria Villarruel, que tiene dos partes claramente.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La primera, la primera parte, donde dice, este, \"yo estoy al lado del presidente, no nos van a separar\", pero, a la vez, un discurso fuertemente político y fuertemente distanciado de lo que viene haciendo, lo que viene diciendo Javier Milei.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso no está cerrado el capítulo, más allá de lo formal, entre la pelea entre el presidente y la vicepresidenta de la Nación.",
+      "score": 0.755,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El día 1 de marzo de 2024, el presidente de la Nación extendió una invitación, en un acontecimiento histórico sin precedentes, a todos los integrantes de la elección política, sin distinción partidaria, para firmar el Pacto de Mayo.",
+      "score": 0.295,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este pacto constituye un acuerdo fundacional destinado a establecer 10 políticas de Estados que permitan edificar un nuevo orden económico, rescatando a la Argentina de la hacienda del fracaso y reinsertándola en el camino necesario para volver a ser una potencia mundial.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo acontecido hoy en la Cámara de Senadores de la Nación atenta contra la convocatoria del presidente, la misma Cámara que ha habilitado casi 500 decretos de necesidad y urgencia del kirchnerismo se ha encargado de rechazar el DNU del presidente Javier Milei a solo tres meses de su asunción.",
+      "score": 0.771,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno nacional y el cambio elegido por los argentinos, en su discurso acerca del estado de la nación, el presidente planteó dos alternativas: el acuerdo o la confrontación.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Oficina del Presidente de la República Argentina.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que, más allá del relato oficial y como reza el título de nuestra apertura de hoy, \"Congreso 2000 y Cero\", después de la derrota con la ley ómnibus, ahora una derrota en el Senado con respecto al decreto de necesidad y urgencia.",
+      "score": 0.549,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 43
+  },
+  "etiqueta_original": "neutral"
+}

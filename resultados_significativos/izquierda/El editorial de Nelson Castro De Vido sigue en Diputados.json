@@ -1,0 +1,36 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 3,
+      "derecha": 1
+    },
+    "score_promedio": 0.354,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer estuve en la Cámara de Diputados, siguiendo el debate por el caso de Julio De Vido, que tiene muchísima significación presente y futura.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos hablaron del artículo 66 de la Constitución Nacional.",
+      "score": 0.272,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Establece que la Cámara de Diputados tiene la potestad de juzgar las conductas de sus miembros.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, entre otras cosas, el silencio de Cristina Fernández de Kirchner es estrepitoso.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 4
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,5081 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "¡Hola, hola, ¿cómo están!",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "Muy buenas noches, cortame la música.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No gobiernan los *muppets*, ahí los tenemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy a la mañana dije, a ver, ¿qué me imaginaba yo cuando era niña, en mi infancia, en mi adolescencia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y me acordé de los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los *muppets* son un elenco de títeres, conocidos por su estilo de variedad, burlesco, absurdo y autorreferencial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Escucharon bien?",
+      "entidades_detectadas": [
+        "¿Escucharon"
+      ]
+    },
+    {
+      "frase": "Burlesco, absurdo y autorreferencial.",
+      "entidades_detectadas": [
+        "Burlesco"
+      ]
+    },
+    {
+      "frase": "Igual que el gobierno de Alberto Fernández y de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Exactamente esto, eso es el gobierno de Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Exactamente eso, son los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*, ahí los tenemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál de todos esos muñecos sería Alberto?",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "¿Cuál de todos esos muñecos sería Cristina?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Ahora va a haber un tape con los *muppets*, por si no los conocen, aunque lo dudo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y mientras los miran en su casa, mientras están cenando o preparando la comida, digan, este se parece a Alberto, esta es Cristina, este es *Roque*, este es Máximo, esta es la Cámpora.",
+      "entidades_detectadas": [
+        "Roque",
+        "Máximo",
+        "Cristina",
+        "Cámpora",
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "El último, para mí, cuando cierra este tape, se parece a *Cuervo* Larroque.",
+      "entidades_detectadas": [
+        "Larroque",
+        "Cuervo"
+      ]
+    },
+    {
+      "frase": "Mírenlo, nos gobiernan los *muppets*.",
+      "entidades_detectadas": [
+        "Mírenlo"
+      ]
+    },
+    {
+      "frase": "Bienvenidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de jugar, music!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de disfrutar de la vida!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de hacer *muppets* en la casa de la mazmorra!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de poner la mazmorra!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de prepararse!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de empezar!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de hacer lo mejor!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Es hora de empezar!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡En la más sensacional, inspiracional, celebracional, que no *mames* el que nos preste, en cuándo y cómo, a Máximo!",
+      "entidades_detectadas": [
+        "Máximo"
+      ]
+    },
+    {
+      "frase": "El último, sí, la música que estamos viendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El último se parece a *Larroque*, el héroe que tira cosas verdes.",
+      "entidades_detectadas": [
+        "Larroque"
+      ]
+    },
+    {
+      "frase": "Cortame la música, los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los *muppets* son títeres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual le pido perdón a los *muppets*, no por compararlos con ese gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero busquen el significado de títeres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué son los títeres?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Los títeres o marionetas son figuras de seres humanos, animales o seres fantásticos elaborados en todo tipo de materiales y dimensiones, que son manejados por una persona para hacer representaciones teatrales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Les suena que son manejados por una persona?",
+      "entidades_detectadas": [
+        "¿Les"
+      ]
+    },
+    {
+      "frase": "Títeres o marionetas es una definición que le va perfecto a Alberto Fernández y también a *Larroque*, porque ambos, de una manera u otra, son finalmente títeres de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Alberto Fernández",
+        "Cristina Fernández de Kirchner",
+        "Larroque",
+        "Títeres"
+      ]
+    },
+    {
+      "frase": "Y Cristina es la gran titiritera.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Hay muchos puntos en común con los *muppets* y este gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Profundicé sobre el tema y busqué.",
+      "entidades_detectadas": [
+        "Profundicé"
+      ]
+    },
+    {
+      "frase": "Por su forma de construcción y manipulación podemos encontrar diferentes clases de títeres y marionetas: de mano, de guante, de calcetín, de dedo, de varilla, de mesa, títeres de bocón, marotes, de sombras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta clase de títeres son muy versátiles, ya que pueden crear todo tipo de historias y cuentos con ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo depende de qué está hecho el títere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El nuestro está hecho de madera, por eso es Pinocho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto siempre nos miente.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Me apasiona el mundo de los títeres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces quise saber cómo se manipulan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Manipulación desde abajo, títeres, guantes, se mueven solo con la mano que se pone dentro del cuerpo del títere a modo de guante y el movimiento nace de la muñeca y los dedos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, que Alberto Fernández puede ser un títere manipulado desde abajo y ella lo tiene enganchado con el palo o enganchado de las bolas.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Ponele.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*Sherry Spierman*, le parece un montón.",
+      "entidades_detectadas": [
+        "Sherry Spierman"
+      ]
+    },
+    {
+      "frase": "¿Por qué digo que nos gobiernan los *muppets*?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá esto.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Una concejal de La Quiaca sesionó disfrazada de perro a modo de protesta.",
+      "entidades_detectadas": [
+        "La Quiaca"
+      ]
+    },
+    {
+      "frase": "Una concejal de La Quiaca sesionó disfrazada de perro a modo de protesta.",
+      "entidades_detectadas": [
+        "La Quiaca"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ustedes entienden que nosotros no deberíamos merecernos a esta clase de políticos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una concejal sesionó disfrazada de perro a modo de protesta, boludo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está en el consejo deliberante y se cree que está en un baile de disfraces.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Es una pelotuda mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirala, mirale la jeta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se comió el personaje, podríamos decirle, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No meó, nos cagó, mueve la cola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá la ves parada dando el discurso, vestida de perro.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Dios mío, nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirala.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dando un discurso parada con la cabeza de perro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Habrá dicho, wow, ¿qué dijo esta mujer?",
+      "entidades_detectadas": [
+        "Habrá"
+      ]
+    },
+    {
+      "frase": "Impresentable.",
+      "entidades_detectadas": [
+        "Impresentable"
+      ]
+    },
+    {
+      "frase": "Tenemos políticos en Argentina que se burlan de nosotros.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A estos porros habría que sacarlos a patadas en el culo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le pagamos el sueldo a esta gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hacen boludeces porque se sienten seguros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Total, nosotros, el rebaño de pelotudos, todos los meses le pagamos el sueldo del uno al cinco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vaya a ladrar a otro lado, concejal de La Quiaca.",
+      "entidades_detectadas": [
+        "La Quiaca"
+      ]
+    },
+    {
+      "frase": "Vergüenza ajena.",
+      "entidades_detectadas": [
+        "Vergüenza"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos gobiernan los *muppets* y son muy cínicos nuestros *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá esto.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Los dementes de la muestra \"neoliberalismo nunca más\", en la ex ESMA, ponen en un pie de igualdad a la dictadura, a Menem y a Macri.",
+      "entidades_detectadas": [
+        "ESMA",
+        "Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Más hijos de puta no se consiguen.",
+      "entidades_detectadas": [
+        "Más"
+      ]
+    },
+    {
+      "frase": "Esta es una demencia típica del kirchnerismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se enriquecieron durante la dictadura y ahora son los dueños de los derechos humanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se los apropiaron, cara dura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espert grabó indignado, sacó un video en la ex ESMA.",
+      "entidades_detectadas": [
+        "Espert",
+        "ESMA",
+        "grabó"
+      ]
+    },
+    {
+      "frase": "Lo escuchamos, por favor, nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que este cartel, en el que la ley, lo que demuestra esta muestra, la realidad es asociar el robo de bebés en una continuidad.",
+      "entidades_detectadas": [
+        "bebés"
+      ]
+    },
+    {
+      "frase": "Robo de bebés, asesinatos de fortuna, en una continuidad con políticas que uno puede discutir o no dentro del marco de la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más allá de que el gobierno de Menem y Macri ha deliberado que hubo pocos, y ni hablar del gobierno de Macri.",
+      "entidades_detectadas": [
+        "Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Por eso todos terminan mal, definitivamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El liberalismo en el mundo triunfa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno de Menem y Macri ha deliberado que hubo pocos, y ni hablar del gobierno de Macri.",
+      "entidades_detectadas": [
+        "Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Por eso todos terminan mal, definitivamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El liberalismo en el mundo triunfa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No genera las crisis que se generaron durante la dictadura, durante el gobierno de Menem y de la Rúa y durante el gobierno de Macri.",
+      "entidades_detectadas": [
+        "Rúa",
+        "Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "El liberalismo genera derechos, crecimiento, prosperidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así como Néstor bajó el cuadro de Videla, Alberto debería bajar este cuadro ya.",
+      "entidades_detectadas": [
+        "Néstor",
+        "Videla",
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "No puedes comparar la dictadura militar con gobiernos que eligió la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te gusta Menem, no te gusta, te gusta Macri, no te gusta, pero fueron elegidos por el pueblo de manera democrática.",
+      "entidades_detectadas": [
+        "Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Esto que están haciendo en la ex ESMA es una vergüenza.",
+      "entidades_detectadas": [
+        "ESMA"
+      ]
+    },
+    {
+      "frase": "Ustedes se apropian de absolutamente todo.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es una hija de puta, como dijo Espert.",
+      "entidades_detectadas": [
+        "Espert"
+      ]
+    },
+    {
+      "frase": "Espert decía que nos gobiernan los *muppets* y hablando de los *muppets*.",
+      "entidades_detectadas": [
+        "Espert"
+      ]
+    },
+    {
+      "frase": "La interna del gobierno no descansa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos contra Guzmán, bullying a Guzmán.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta que no lo echen no van a parar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina le está dejando la cabeza así a Larroque.",
+      "entidades_detectadas": [
+        "Larroque",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Mirá cómo habla mal Larroque del presidente Alberto Fernández.",
+      "entidades_detectadas": [
+        "Mirá",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Creo que nadie lo votó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A quién no votó nadie?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "A Guzmán.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece que si él es el 21, es un veredicto sobre la política que él desarrolló.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, nadie lo votó en el 19 y en el 21, un veredicto sobre Guzmán.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, yo creo que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todas las balas K apuntan a Guzmán.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo quieren fuera del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen en el Patria, en el Instituto Patria, porque de patria tienen solo el Instituto.",
+      "entidades_detectadas": [
+        "Instituto Patria",
+        "Patria",
+        "Instituto"
+      ]
+    },
+    {
+      "frase": "El Instituto tienen del Patria.",
+      "entidades_detectadas": [
+        "Patria",
+        "Instituto"
+      ]
+    },
+    {
+      "frase": "A la patria no la sienten.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen que lo quieren rajar a Guzmán para que en su lugar vaya Feletti o Felatio o Frousen o como carajo le quieran llamar.",
+      "entidades_detectadas": [
+        "Felatio",
+        "Feletti"
+      ]
+    },
+    {
+      "frase": "¿Quién ganará esta gran pulseada de Cristina?",
+      "entidades_detectadas": [
+        "Cristina",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Esta pulseada, vení, esta pulseada la van a ganar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina prepara el jaque mate final, renuncia Alberto y ella asume la presidencia, dice Perfil.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cristina",
+        "Perfil"
+      ]
+    },
+    {
+      "frase": "¿Ustedes se van a bancar esta jugada inesperada de Cristina?",
+      "entidades_detectadas": [
+        "Ustedes",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Yo no y vos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es tanta la gente que la odia en Argentina que sería imposible.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Millones de argentinos que la odian, que la detestan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece que la gente que la odia es la que más le gusta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es lo que más le gusta?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "La gente que la odia es la que más le gusta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es tanta la gente que la odia en Argentina que sería imposible.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Millones de argentinos que la odian, que la detestan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece imposible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero con la reina de Tolosa uno nunca sabe, nos gobiernan los *muppets*.",
+      "entidades_detectadas": [
+        "Tolosa"
+      ]
+    },
+    {
+      "frase": "Dicen que Alberto Fernández se agarró de los pechos, tipo \"la coca a Zar\", y le dijo a Cristina, ¿qué pretende usted de mí, que me vaya?",
+      "entidades_detectadas": [
+        "Zar",
+        "Cristina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Eso parece que le dijo a Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Qué hacen?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Se marchan contra el juez Horacio Rosatti.",
+      "entidades_detectadas": [
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "Si en vez de marchar en contra de Rosatti, de Horacio Rosatti, defendieran un poco los sindicalistas a los laburantes.",
+      "entidades_detectadas": [
+        "Rosatti",
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "No le hicieron ni un paro general al presidente y ahora van contra el juez Horacio Rosatti.",
+      "entidades_detectadas": [
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "¡Qué lamebotas de Cristina que son!",
+      "entidades_detectadas": [
+        "Cristina",
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Yasky, mamita.",
+      "entidades_detectadas": [
+        "Yasky"
+      ]
+    },
+    {
+      "frase": "Usted está grande, Yasky, para trabajar de alcahuete.",
+      "entidades_detectadas": [
+        "Yasky"
+      ]
+    },
+    {
+      "frase": "¿No le da vergüenza?",
+      "entidades_detectadas": [
+        "¿No"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy hice mucho zapping en la tele y ya la veo venir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya la veo venir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablaron todo el día del diluvio de anoche.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un ratito está bien el diluvio de anoche, pero todo el mundo hablando del diluvio de anoche era un montón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya empezaron con la pandemia otra vez, con la cepa de New York.",
+      "entidades_detectadas": [
+        "New York"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, el Senado trata la ampliación de miembros de la Corte, de 5 a 16.",
+      "entidades_detectadas": [
+        "Corte",
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Una locura total porque nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay sentido común y la reina de Tolosa solo quiere su impunidad.",
+      "entidades_detectadas": [
+        "Tolosa"
+      ]
+    },
+    {
+      "frase": "Escuchen lo que dijo el presidente Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Tengo cierta impotencia porque la Corte es un poder autónomo en la República.",
+      "entidades_detectadas": [
+        "Corte",
+        "República"
+      ]
+    },
+    {
+      "frase": "¿Este tipo da clases en la facultad de Derecho?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, tengo cierta impotencia porque la Corte es un poder autónomo en la República.",
+      "entidades_detectadas": [
+        "Corte",
+        "República"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso Culfas se anima a decir semejante huevada sin ponerse colorado.",
+      "entidades_detectadas": [
+        "Culfas"
+      ]
+    },
+    {
+      "frase": "La reactivación no se detiene y ya hemos recuperado casi todo lo perdido por la crisis de Macri.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Acá el rebaño de pelotudos escuchando la huevada que dice Culfas, que no va nunca al supermercado.",
+      "entidades_detectadas": [
+        "Culfas",
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Que no va nunca al supermercado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ven, porque Cristina, la reina de Tolosa, dice que hay funcionarios que no funcionan.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Ven",
+        "Tolosa"
+      ]
+    },
+    {
+      "frase": "Tiene razón, Culfas es uno de ellos.",
+      "entidades_detectadas": [
+        "Culfas"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets* y hablando de muñecos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se acuerdan que Tinelli lloraba en las redes sociales cuando el dólar estaba a 64 mangos?",
+      "entidades_detectadas": [
+        "Tinelli"
+      ]
+    },
+    {
+      "frase": "Ahora está a 210 y Tinelli no dice nada.",
+      "entidades_detectadas": [
+        "Tinelli"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A él solo le importan las 30 monedas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más traidor que Judas.",
+      "entidades_detectadas": [
+        "Judas"
+      ]
+    },
+    {
+      "frase": "Él labura para el que le pague, para el que le entregue las 30 monedas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese es Tinelli.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El patriota Marcelo no tiene nada.",
+      "entidades_detectadas": [
+        "Marcelo"
+      ]
+    },
+    {
+      "frase": "Es un sinvergüenza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En San Lorenzo ya no saben qué hacer para que se vaya.",
+      "entidades_detectadas": [
+        "San Lorenzo"
+      ]
+    },
+    {
+      "frase": "Y él puso este tuit: \"Muchos decían que ya había renunciado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No está confirmado\", dice Tinelli.",
+      "entidades_detectadas": [
+        "Tinelli"
+      ]
+    },
+    {
+      "frase": "\"San Lorenzo es mi vida, mi familia y representa el amor de millones de personas.",
+      "entidades_detectadas": [
+        "San Lorenzo"
+      ]
+    },
+    {
+      "frase": "En los próximos días voy a estar tomando la decisión más conveniente para el futuro del club\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Marcelo, ¿así cuidas a tu familia?",
+      "entidades_detectadas": [
+        "Marcelo",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Como a San Lorenzo, jodeme.",
+      "entidades_detectadas": [
+        "San Lorenzo"
+      ]
+    },
+    {
+      "frase": "San Lorenzo se convirtió en un festival de cheques voladores.",
+      "entidades_detectadas": [
+        "San Lorenzo"
+      ]
+    },
+    {
+      "frase": "Marcelo, paga lo que debes antes de irte.",
+      "entidades_detectadas": [
+        "Marcelo"
+      ]
+    },
+    {
+      "frase": "No seas rata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá cómo putean a los jugadores los hinchas de San Lorenzo.",
+      "entidades_detectadas": [
+        "San Lorenzo",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Tinelli lo hizo, mirá.",
+      "entidades_detectadas": [
+        "Tinelli",
+        "mirá"
+      ]
+    },
+    {
+      "frase": "A ver si tienen un poco de dinero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver si ganan un partido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver si ganan un partido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver si ganan una vuelta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver si ganan con todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver si ganan todos los partidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué cuento de piñudo tenemos para que pierdan todos los partidos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Un poco de dinero, loco?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuántos años nos vamos a bajar?",
+      "entidades_detectadas": [
+        "¿Cuántos"
+      ]
+    },
+    {
+      "frase": "Vamos.",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¿Cuántos años nos vamos a bajar?",
+      "entidades_detectadas": [
+        "¿Cuántos"
+      ]
+    },
+    {
+      "frase": "¿Cuántos años nos vamos a bajar?",
+      "entidades_detectadas": [
+        "¿Cuántos"
+      ]
+    },
+    {
+      "frase": "Vamos.",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¿Y después, llevándolos de vacaciones?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Pierden todos los partidos y después, llevándolos de vacaciones?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué tránsito tenemos los dos o los tres?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Se pone barbijo para que se veamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, vamos, vamos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Colitos, colitos, colitos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Hay que ganar mañana, viejo, dale!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Dale!",
+      "entidades_detectadas": [
+        "Dale!"
+      ]
+    },
+    {
+      "frase": "¡Vamos, buey!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos, buey!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos, buey!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "Bueno.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¡Vamos, buey!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos, buey!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos, buey!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "Tinelli, cría cuervos, cría cuervos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por el bien de San Lorenzo, que primero se vaya Tinelli y después, al instante, que se vaya Lammens.",
+      "entidades_detectadas": [
+        "Lammens",
+        "San Lorenzo"
+      ]
+    },
+    {
+      "frase": "Basta de chantas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ex mujer de Lázaro Báez, ayer les contamos que reclamaba a *Maguita* lo que le correspondía, ¿no?",
+      "entidades_detectadas": [
+        "Lázaro Báez",
+        "Maguita"
+      ]
+    },
+    {
+      "frase": "No se quedó conforme con los 800 palos, con el divorcio, y ahora parece que cambió de abogados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta señora tiene muchos abogados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiere Maguita.",
+      "entidades_detectadas": [
+        "Quiere Maguita"
+      ]
+    },
+    {
+      "frase": "La gorda quiere la nuestra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ven que la grieta es moral?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nunca hizo nada en su vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debe tomar todo el día mate con pan dulce.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y reclama nuestra guita, la ex mujer de Lázaro Báez.",
+      "entidades_detectadas": [
+        "Lázaro Báez"
+      ]
+    },
+    {
+      "frase": "Si todos sabemos que la guita de Lázaro es nuestra, la de los hijos es nuestra, o sea, la de ella también es nuestra.",
+      "entidades_detectadas": [
+        "Lázaro"
+      ]
+    },
+    {
+      "frase": "Señora, usted pide una fortuna por su divorcio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo le voy a contar una cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando yo me divorcié del señor Alejandro Borenstein, ¿sabe qué?",
+      "entidades_detectadas": [
+        "Alejandro Borenstein"
+      ]
+    },
+    {
+      "frase": "No le pedí un centavo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le dije, sé un buen padre con Martina Borenstein.",
+      "entidades_detectadas": [
+        "Martina Borenstein"
+      ]
+    },
+    {
+      "frase": "Yo, de la tuya, querido, no quiero nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llámenlo a Borenstein y pregúntenle si yo le pedí un centavo, una moneda, cuando me divorcié, nada.",
+      "entidades_detectadas": [
+        "Borenstein"
+      ]
+    },
+    {
+      "frase": "Viniste con lo tuyo, andate con lo tuyo, yo laburo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Soy feminista, no quiero un mango de ningún tipo.",
+      "entidades_detectadas": [
+        "ningún tipo"
+      ]
+    },
+    {
+      "frase": "¿Ve, señora, que la grieta es moral entre usted y yo?",
+      "entidades_detectadas": [
+        "¿Ve"
+      ]
+    },
+    {
+      "frase": "Yo al padre de mi hija no le pedí un centavo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me parecía, no me parecía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y usted le pide a Lázaro Báez la nuestra.",
+      "entidades_detectadas": [
+        "Lázaro Báez"
+      ]
+    },
+    {
+      "frase": "Mire a sus hijos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mire los hijos que, querido, mire cómo cuentan la plata en la rosadita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esos son sus hijos, señora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No le da vergüenza tener hijos que cuentan la plata?",
+      "entidades_detectadas": [
+        "¿No"
+      ]
+    },
+    {
+      "frase": "Mire.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Usted no sabía de qué trabajaba su marido, de qué trabajaban sus hijos, señora de Lázaro Báez?",
+      "entidades_detectadas": [
+        "Lázaro Báez"
+      ]
+    },
+    {
+      "frase": "¿Qué le pasa, señora de Lázaro Báez, mientras pide mucha más plata con nuevos abogados y ve a sus hijos choreando la de los argentinos?",
+      "entidades_detectadas": [
+        "Lázaro Báez",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Esa es nuestra plata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted es y fue millonaria gracias al rebaño de pelotudos, señora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se suspendió el recital de La Renga en La Plata?",
+      "entidades_detectadas": [
+        "La Renga",
+        "La Plata"
+      ]
+    },
+    {
+      "frase": "Parece que no, porque Kicillof estuvo brillante y dijo, esto es un bochorno, como si Garro, que espero que Garro haga que esto se termine, suspendiendo la próxima vez.",
+      "entidades_detectadas": [
+        "Garro",
+        "Kicillof"
+      ]
+    },
+    {
+      "frase": "Parece que uno de La Renga tuvo fiebre y lo suspendieron para la semana que viene.",
+      "entidades_detectadas": [
+        "La Renga"
+      ]
+    },
+    {
+      "frase": "A Kicillof igual le importa tres pitos la educación.",
+      "entidades_detectadas": [
+        "Kicillof"
+      ]
+    },
+    {
+      "frase": "Si no me creen, escúchenlo hablar al ministro, perdón, al gobernador de la provincia de Buenos Aires.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Escúchenlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El impuesto, el perdón, no, quiero poner.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, esas son las cosas que van a ir a la ley, pero el impulso...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Alguien tiene que pagar todo esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿O no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿O no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Que la economía crezca, tiene que haber distribución de las riquezas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si derrama, es de abajo para arriba y derrama con la acción decidida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Decide regresar para luchar por y junto a su pueblo por lo más básico, por lo más elemental, por lo primero, que es la independencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé a quién se le pudo ocurrir sacar al general San Martín de los billetes que tenemos en la Argentina y reemplazarlo por un animalito.",
+      "entidades_detectadas": [
+        "San Martín",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "La verdad ejemplar es que la provincia de Buenos Aires, ahora, en desmanicomializar, en desmanicomializar.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "No, *mafets*, no pudo, bueno, no se pudo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El que no pudo, no pudo, el que no pudo, no pudo, es más difícil hablar así que hablar bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Carajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se acuerdan que ayer les contamos, estábamos con todo el equipo, con jueces, ahí está el escándalo en Santa Fe?",
+      "entidades_detectadas": [
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Finalmente, a este muñeco lo echaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escándalo en Santa Fe, echaron al secretario de seguridad que viajó al Caribe en medio de la ola de crímenes en Rosario.",
+      "entidades_detectadas": [
+        "Escándalo",
+        "Santa Fe",
+        "Rosario",
+        "Caribe"
+      ]
+    },
+    {
+      "frase": "Le pedimos desde acá ayer que, la verdad, lo rajaran.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con todos los crímenes y lo que está pasando en Rosario, bueno, hoy lo echaron, hoy lo rajaron.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "En seguridad, de escándalo en Santa Fe, echaron al secretario de seguridad, ahí lo tenés, está en la casa con, no sé, con quién se casó.",
+      "entidades_detectadas": [
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Y solo lo rajaron porque se hizo público acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque ayer nadie habló de eso y finalmente lo echaron, se hizo justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué bueno que no sea \"viva la joda\" todo.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Qué rebaño de pelotudos.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Hablando de...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Papa Francisco les aconsejó a las suegras, están escuchando bien, el Papa Francisco les aconsejó a las suegras tener cuidado con la lengua.",
+      "entidades_detectadas": [
+        "Papa",
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Pero pidió tratarlas mejor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿El Papa está en pedido?",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Esto no es fake, ¿no, chicos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "En medio de la guerra, Ucrania, Rusia, lo que pasa en Rosario, lo que pasa en la Argentina, el Papa tiene tiempo para contar chistes de suegra.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Rusia",
+        "Ucrania",
+        "Papa",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Como diría Verdaguer, ¡ay, con mi suegra!",
+      "entidades_detectadas": [
+        "Verdaguer"
+      ]
+    },
+    {
+      "frase": "Me sale bien el requejo, feliz cumpleaños, requejo.",
+      "entidades_detectadas": [
+        "feliz cumpleaños"
+      ]
+    },
+    {
+      "frase": "¡Ay, con mi suegra!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Papa es un chiste, déjenme joder.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Yo, la verdad, no sé cómo hacer para respetarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que Dios me perdone, pero me está costando un montón.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Le aconsejó a las suegras tener cuidado con su lengua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no puedo querer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro que se lo tomó en joda y se mandó una cagada monumental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá este tuit, es el intendente de Morón.",
+      "entidades_detectadas": [
+        "Morón",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Dice de Morón que las drogas, de a poquito, hasta que conozcas sus límites, no hacen nada.",
+      "entidades_detectadas": [
+        "Morón"
+      ]
+    },
+    {
+      "frase": "Amy Winehouse, a los 18 y a los 27, cuando murió.",
+      "entidades_detectadas": [
+        "Amy Winehouse"
+      ]
+    },
+    {
+      "frase": "¡Vos dale!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dale de a poquito, mirá lo que era esta mina que era una diosa y cómo se murió.",
+      "entidades_detectadas": [
+        "Dale",
+        "mirá"
+      ]
+    },
+    {
+      "frase": "Dada vuelta de drogas, hecha mierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá, de 18 a 27 años, destruida.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Empezó de a poquito, seguramente, con la cocaína y con todo lo que le ofrecieron, hasta que se terminó muriendo por la falopa.",
+      "entidades_detectadas": [
+        "Empezó"
+      ]
+    },
+    {
+      "frase": "¿Qué espera para renunciar el intendente de Morón?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "No gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quieren que no pienses, que estés falopeado y que seas ignorante todo el día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá cómo ve al gobernador, el otro te quiere falopeado.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Cerraron las escuelas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creen que con un papelito, con un poco de falopa, te pueden manejar, eso es lo que quieren.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Encontré un meme buenísimo, nos gobiernan los *muppets*.",
+      "entidades_detectadas": [
+        "Encontré"
+      ]
+    },
+    {
+      "frase": "Muestran el \"acampo\" y se empezó a laburar, de a poquito, a ver cómo reacciona tu cuerpo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en inglés ponen el museo Juan Domingo Perón.",
+      "entidades_detectadas": [
+        "museo Juan Domingo Perón"
+      ]
+    },
+    {
+      "frase": "Nos quieren burros, nos quieren ignorantes, falopeados, gagos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Argentina es un lugar que cada día se pone más difícil para vivir.",
+      "entidades_detectadas": [
+        "La Argentina"
+      ]
+    },
+    {
+      "frase": "Este video explica a la perfección en una Argentina gobernada por los *muppets*.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Cómo es habitar este maravilloso suelo argentino.",
+      "entidades_detectadas": [
+        "Cómo"
+      ]
+    },
+    {
+      "frase": "Miralo.",
+      "entidades_detectadas": [
+        "Miralo"
+      ]
+    },
+    {
+      "frase": "Así vive la Argentina cada día.",
+      "entidades_detectadas": [
+        "Así",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un poquito más, nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Benny, pobre tipo, ¿no te sentís así?",
+      "entidades_detectadas": [
+        "Benny"
+      ]
+    },
+    {
+      "frase": "Estás comiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No te sentís un poco así cuando te levantás a la mañana a los inmigrantes?",
+      "entidades_detectadas": [
+        "¿No te sentís"
+      ]
+    },
+    {
+      "frase": "¿No te sentís así cuando te levantás a la mañana a los inmigrantes?",
+      "entidades_detectadas": [
+        "¿No te sentís"
+      ]
+    },
+    {
+      "frase": "¿No te sentís así cuando te levantás a la mañana a los inmigrantes?",
+      "entidades_detectadas": [
+        "¿No te sentís"
+      ]
+    },
+    {
+      "frase": "¿No te sentís así cuando te levantás a la mañana a los impuestos, la comida, el dólar se dispara?",
+      "entidades_detectadas": [
+        "¿No te sentís"
+      ]
+    },
+    {
+      "frase": "Ya empiezan de nuevo con la pandemia, te van a querer encerrar, por favor, que esta vez no nos pase.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así estamos los argentinos.",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El que no la pasó muy bien fue Macron.",
+      "entidades_detectadas": [
+        "Macron"
+      ]
+    },
+    {
+      "frase": "Acaba de ganar su reelección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Reelecto, estaba en una ciudad francesa y lo cagaron a tomatazos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tomates cherry, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Son mucho más cool que nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tomates cherry.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miralo, por favor.",
+      "entidades_detectadas": [
+        "Miralo"
+      ]
+    },
+    {
+      "frase": "Son muy, muy cool.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los franceses se tiran con tomates cherry.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El cagazo también del custodio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando empezó a ver la tomateada se volvió loco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos pies tienen que hacer una vuelta por Eco-Urban o bonaerense.",
+      "entidades_detectadas": [
+        "Eco-Urban"
+      ]
+    },
+    {
+      "frase": "Qué manga de cagones.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué tengo el micrófono mal?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Ahí está, gracias, requejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí está, mirá, mirá.",
+      "entidades_detectadas": [
+        "Ahí está",
+        "mirá"
+      ]
+    },
+    {
+      "frase": "Mirá, impresionante.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Ahora, el tipo acaba de ser reelecto y ya a los dos días le tiran tomates.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A Alberto no lo bancan ni los propios ni los ajenos y no le tiramos ni un pétalo de rosa.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Se da cuenta que los franceses no son tan rebaños de pelotudos como nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya empezaron a asustar a la gente en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Hoy vi un montón de médicos garpados hablando de las nuevas cepas, de la nueva ola en New York y la concha de tu madre.",
+      "entidades_detectadas": [
+        "New York"
+      ]
+    },
+    {
+      "frase": "Dejen de asustarnos con los contagios y la hepatitis con los chicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se metan con los chicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No exageren.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No jodan más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se los vamos a permitir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo, desde acá, no se los voy a permitir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezaron las hospitalizaciones, que a mucha gente la están encerrando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te dejes asustar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos gobiernan los *muppets*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ojo, ojito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te dejes asustar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te dejes encerrar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que no hagan con nosotros lo que están haciendo en Yangai.",
+      "entidades_detectadas": [
+        "Yangai"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Déjate de hablar!",
+      "entidades_detectadas": [
+        "Déjate"
+      ]
+    },
+    {
+      "frase": "¡Dé",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Escándalo",
+    "Burlesco",
+    "Rosatti",
+    "Manipulación",
+    "Esos",
+    "mirá",
+    "Martina Borenstein",
+    "bebés",
+    "Qué",
+    "Morón",
+    "Menem",
+    "Borenstein",
+    "museo Juan Domingo Perón",
+    "Culfas",
+    "Lázaro Báez?",
+    "La Argentina",
+    "Sherry Spierman",
+    "Alberto",
+    "Instituto",
+    "Encontré",
+    "Usted",
+    "San Lorenzo",
+    "¿Quién",
+    "Judas",
+    "Lázaro",
+    "Dice",
+    "provincia de Buenos Aires",
+    "Dicen",
+    "¿Les suena",
+    "Yo",
+    "Larroque",
+    "Así",
+    "La Renga",
+    "Alberto Fernández",
+    "Maguita",
+    "Santa Fe?",
+    "Esa",
+    "Vamos",
+    "ningún tipo",
+    "Miralo",
+    "Rosario",
+    "Rúa",
+    "Amy Winehouse",
+    "Cristina Fernández de Kirchner",
+    "Alberto?",
+    "Máximo",
+    "Más",
+    "Hablaron",
+    "Eco-Urban",
+    "¿No te sentís",
+    "El último",
+    "Argentina",
+    "El Instituto",
+    "Santa Fe",
+    "Cristina",
+    "Ustedes",
+    "Corte",
+    "Tinelli",
+    "¿",
+    "Viniste",
+    "Dios",
+    "Papa",
+    "Cuervo",
+    "Quiere Maguita",
+    "Senado",
+    "ESMA",
+    "Lammens",
+    "Hacen",
+    "Cerraron",
+    "Igual",
+    "New York",
+    "Kicillof",
+    "Mire",
+    "¿Qué",
+    "Cámpora",
+    "Lázaro Báez",
+    "San Martín",
+    "Alejandro Borenstein",
+    "Vaya",
+    "Acá",
+    "¿Cuántos",
+    "¿Cuál",
+    "¿A",
+    "La Quiaca",
+    "Zar",
+    "Tolosa",
+    "Benny",
+    "Felatio",
+    "Escúchenlo",
+    "Habrá",
+    "Ahí está",
+    "Dale",
+    "Roque",
+    "Garro",
+    "Espert",
+    "Macri",
+    "Empezó",
+    "Cómo",
+    "Rusia",
+    "Perfil",
+    "Papa Francisco",
+    "Ponele",
+    "Escuchen",
+    "¿Ustedes",
+    "Hola",
+    "grabó",
+    "Horacio Rosatti",
+    "Títeres",
+    "Profundicé",
+    "Macron",
+    "Mirá",
+    "Reelecto",
+    "Ucrania",
+    "feliz cumpleaños",
+    "Mírenlo",
+    "Feletti",
+    "Instituto Patria",
+    "¿Pierden",
+    "Debe",
+    "Quieren",
+    "Caribe",
+    "Vergüenza",
+    "Yasky",
+    "Creen",
+    "Ojo",
+    "República",
+    "Bueno",
+    "La Plata?",
+    "Mirala",
+    "Colitos",
+    "Dale! ¡Vamos",
+    "Señora",
+    "¿Escucharon bien?",
+    "Marcelo",
+    "la Argentina",
+    "Videla",
+    "Muestran"
+  ]
+}

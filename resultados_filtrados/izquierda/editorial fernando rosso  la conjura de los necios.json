@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El escritor y crítico literario Ricardo Piglia dijo alguna vez que las novelas de Roberto Arlt, como *Los Siete Locos*, funcionaban porque captaban el núcleo paranoico que habita en el Estado y, en última instancia, en el poder.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Si se lee, por ejemplo, *El Código Stiusso* del periodista Gerardo Young, que en realidad es una reedición ampliada de *CIDES: Inteligencia, la Argentina secreta*, parecería que gran parte de los hechos relevantes de la historia argentina de los últimos 70 u 80 años se explican por conspiraciones, desde los saqueos de 1989 y el fin del gobierno de Raúl Alfonsín hasta la renuncia de Carlos \"Chacho\" Álvarez durante el gobierno de la Alianza.",
+      "entidades_detectadas": [
+        "argentina",
+        "alfonsín",
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Algunos incluso opinan que Raúl Alfonsín y Eduardo Duhalde participaron en dicha conspiración, sin considerar las causas sociales profundas que llevaron a la crisis y a los movimientos sociales.",
+      "entidades_detectadas": [
+        "alfonsín",
+        "duhalde"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, en mayo de 2011, tras el descarrilamiento de un tren del Sarmiento, hubo disturbios e incendios en la estación Once (no estación de Hugo Fuego ni estación de Aedo) y Amado Boudou, jefe de Gabinete en ese momento, acusó a Fernando Pino Solanas (ya fallecido) de haber orquestado los hechos para promocionar un documental suyo y su candidatura a jefe de gobierno porteño.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Ante la protesta de sus compañeros de la UTA, que terminó con Sergio Berni golpeado, circularon teorías conspirativas.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, coincidió, señalando las características extrañas del hecho.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Más allá de la utilización política de la derecha, con Patricia Bullrich operando sobre el dolor de las personas, los acontecimientos posteriores a la muerte de Barrientos, incluyendo la agresión a Berni, reflejaron un malestar social profundo por la inflación, la pobreza, la precarización y la violencia.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Como afirmó Raúl Godoy, dirigente del PTS y obrero ceramista neuquino, en una entrevista con Diego Genoud en Radio con Vos: este mensaje vale para todos, incluido Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    }
+  ]
+}

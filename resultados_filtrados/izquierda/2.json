@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "A continuación, se presenta una versión corregida:\n\n**Texto corregido:**\n\nGregorio Obertxell, secretario de Turismo de la Cámara Argentina de Comercio y Servicios (CAME), conversó con nosotros sobre el impacto del turismo interno durante las vacaciones de invierno.",
+      "entidades_detectadas": [
+        "argentina",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Si bien el promedio de pernoctación bajó de 4,5 a 4,1 días,  el gasto promedio se mantuvo en 60.000 pesos diarios por persona, lo que generó un impacto económico de 1.246 millones de dólares (considerando el tipo de cambio oficial) en 21 días de vacaciones.\"\n\nAndrés León Arte se unió a la conversación:\n\n\"Buenos días, Andrés.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "El INDEC reportó una caída del 24,6% en la ocupación hotelera en mayo.\"\n\n\"Sin duda, el tipo de cambio es un factor crucial.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Además, eventos como la Copa América y las Olimpiadas motivaron viajes internacionales de un segmento de alto consumo que usualmente veraneaba en el país.\"\n\n\"Algunos argumentan que el tipo de cambio está atrasado, mientras que otros señalan la alta inflación interna, que hace que viajar al exterior sea casi tan conveniente como hacerlo dentro del país.",
+      "entidades_detectadas": [
+        "américa"
+      ]
+    }
+  ]
+}

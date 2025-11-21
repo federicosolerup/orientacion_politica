@@ -1,0 +1,376 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Es así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno se está durmiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No digan que no se los advertí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se están durmiendo, y todas estas cosas que después voy a discutir con todos los periodistas que están conmigo, mi equipo, mis amigos, todo esto que está pasando ya pasó con [Nombre y apellido de Magri].",
+      "entidades_detectadas": [
+        "Magri"
+      ]
+    },
+    {
+      "frase": "Todo esto es una copia, una copia de los barrabravas, las peleas en la calle, la violencia, los familiares del \"[Apodo de Pata] Medina\".",
+      "entidades_detectadas": [
+        "Medina",
+        "Apodo de Pata"
+      ]
+    },
+    {
+      "frase": "Además, calcule usted que un barrabrava no es una persona normal.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Un barrabrava es un tipo violento, es un tipo que, en muchos casos, no en todos, es capaz de hacer cualquier negocio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En muchos casos son mercenarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, digamos que el barrabrava es lo peor de la sociedad.",
+      "entidades_detectadas": [
+        "barrabrava"
+      ]
+    },
+    {
+      "frase": "Si usted le da poder a lo peor de la sociedad, está teniendo estos resultados que se acaban de ver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina decía que \"aguantaba los trapos\", que a ella le emocionaba ver a los muchachos en el paravalanchas de espaldas a la cancha, arengando a la tribuna.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Yo creo que hay un gen en la Argentina que todavía no se superó, que es un gen recesivo, que puede ser que venga del \"hombre mono\", que es estar permanentemente en conflicto.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "No lo entiendo, y le juro por Dios que no entiendo en la Argentina el problema permanente.",
+      "entidades_detectadas": [
+        "Dios",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Todos los días tenemos un problema diferente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos acostumbramos a ver la pantalla de televisión con dedos cortados, orejas cortadas, sangre, muertes en vivo, chicos que los arrastran en los autos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Allá también iban a robar un auto, se olvidaban de los chicos.",
+      "entidades_detectadas": [
+        "Allá"
+      ]
+    },
+    {
+      "frase": "Si yo le cuento un cuento de un tipo que roba un auto, de un nene discapacitado, que el padre usaba el auto para llevarlo a rehabilitación todos los días, que ahora no lo puede llevar, ustedes me dicen: \"No, eso es de Stephen King\".",
+      "entidades_detectadas": [
+        "Stephen King"
+      ]
+    },
+    {
+      "frase": "No, es Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Estos \"guachos\", hijos de puta, le roban el auto a un padre con el nene discapacitado arriba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El padre atina a manotearlo y se llevan el auto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es horrible que pase.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me da rabia que están usados como mano de obra, y que estos mismos \"mierdas\" eran los que marchaban, muchos reconocidos, el otro día en la fiesta de los jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En esa petición solidaria, \"venimos por los abuelos\", mentira, son mano de obra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la época de Isabel Perón se llamaban \"manos de obra desocupada\".",
+      "entidades_detectadas": [
+        "Isabel Perón"
+      ]
+    },
+    {
+      "frase": "Eran represores que formaban la AAA, era así.",
+      "entidades_detectadas": [
+        "AAA"
+      ]
+    },
+    {
+      "frase": "Y después los que quedaron, que fueron secuestradores, después de la dictadura, manos de obra desocupada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los barrabravas son mano de obra desocupada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les voy a contar una anécdota: En Martínez había un boliche en Alvear y la Avenida que se llamaba \"Las Olas Boulevard\", que era de los hermanos [Apellido de los Consi].",
+      "entidades_detectadas": [
+        "Avenida",
+        "Alvear",
+        "Olas Boulevard",
+        "Martínez"
+      ]
+    },
+    {
+      "frase": "Según se comenta, para que no abusen de uno de los [Apellido de los Consi] o no lo maten dentro de la cárcel, una barrabrava determinada, la de Boca, le cobraba todos los días una cosa como 30.000 pesos para cuidarlo dentro de la cárcel, o sea, la conexión de afuera con la de adentro.",
+      "entidades_detectadas": [
+        "Según",
+        "Boca"
+      ]
+    },
+    {
+      "frase": "Los pagos se atrasaron y los últimos dos años el boliche lo tomó la barrabrava.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces lo usaban para juntarse la barrabrava de Boca en \"Las Olas Boulevard\" en Martínez.",
+      "entidades_detectadas": [
+        "Olas Boulevard",
+        "Martínez",
+        "Boca"
+      ]
+    },
+    {
+      "frase": "O sea, son extorsionadores, apretadores, no sé si serán asesinos, no creo, no me consta, pero son capaces de cualquier cosa para el amo que los contrata, son como rottweilers.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El otro día los festejábamos y no nos dábamos cuenta cuál era el ejercicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En estos momentos vale más un barrabrava que 10 activistas de la izquierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son contratados para hacer desmanes, para hacer problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, imagínese la marcha en que se siente un barrabrava y termina en sangre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y nosotros lo permitimos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el gobierno de [Nombre del Presidente] cada vez se achica más.",
+      "entidades_detectadas": [
+        "Nombre del Presidente"
+      ]
+    },
+    {
+      "frase": "[Nombre y apellido de la Ministra] cada vez se achica más.",
+      "entidades_detectadas": [
+        "Nombre",
+        "la Ministra"
+      ]
+    },
+    {
+      "frase": "Mejor dicho, ya no se achica ella, achica el gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una mujer a la que, si le disgustaste, te echa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Horrible, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el presidente está muy ocupado en otras cosas y no se da cuenta de que el gobierno se va aislando y se va quedando solo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer me decía un amigo a la puerta del canal: \"Pero si le va bien económicamente...\", pero todo no es económicamente, porque enfrente usted tiene un adversario, y no como le dijo [Apellido de Balbín] a Perón: \"Este viejo adversario le pide un amigo\".",
+      "entidades_detectadas": [
+        "Ayer",
+        "Apellido de Balbín"
+      ]
+    },
+    {
+      "frase": "Es un adversario que es enemigo y que está esperando la debilidad de su gobierno para entrar como un misil al pecho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes no me dan bola cuando yo digo otras cosas, pero los ejercicios desestabilizadores son permanentes.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Cuando no son los jubilados es el hospital.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mañana será la marcha de otro lado, ¿no?",
+      "entidades_detectadas": [
+        "Mañana",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ayer era por los derechos humanos.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Y todos los días tienen una excusa para \"tocar pito\" a ver en cuánto tiempo se juntan para hacer \"mierda\" a todo lo que se les cruza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso mismo tengamos cuidado, es muy lindo el Mundial, es muy lindo el partido, es muy lindo que Argentina gane.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Nos llena de orgullo, de emoción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los chicos son divinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acabo de ver un gesto que me encantó: Un brasileño le pegó a uno de los argentinos y otro de los argentinos saltó y se puso en el medio y le puso el pecho al brasileño.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese es el espíritu del cuerpo que tienen todos los argentinos, porque existe nada más que en el fútbol.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que hay muchas antinomias, hay mucha bronca, estoy preocupado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este gobierno, no por el gobierno en sí, este momento de la Argentina me tiene muy intranquilo.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Lamentablemente, en tantos años de trabajar en esto, cada vez que yo dije algo, fue algo que pasó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me gustaría que tengamos que ir a Plaza de Mayo a defender al gobierno todos los argentinos.",
+      "entidades_detectadas": [
+        "Plaza de Mayo"
+      ]
+    },
+    {
+      "frase": "Por eso me parece que los estamos dejando crecer mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuando digo \"crecer mucho\", estoy diciendo, los estamos dejando que se desarrollen, los estamos dejando que opaquen la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos estamos acostumbrando a la sangre de recién, a la violencia de recién, a los tiros, a las bombas, a las caras tapadas, a los \"fierros\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esto es dañino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no es barra brava dentro de la democracia, son barra brava por la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo les sugeriría a todos ustedes, está muy lindo el partido, vayan a verlo, pero escuchen, no sigamos permitiendo tanta violencia en la calle y no lo tomemos como normal, porque yo pensé que a esta altura del gobierno íbamos a terminar con la inseguridad en las calles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No solo que no terminamos con la inseguridad en las calles, sino que la acrecentamos, poniendo nuevos protagonistas, como por ejemplo estos tipos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que creo que es un llamado de atención, está todo muy lindo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mañana los jugadores vuelven a su casa, la gente sale del estadio a su casa y el país sigue en peligro.",
+      "entidades_detectadas": [
+        "Mañana"
+      ]
+    },
+    {
+      "frase": "No quiero ser agorero, ¡viva la patria!, 3 a 1, ¡viva Argentina!, vamos a la mesa.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Apodo de Pata",
+    "Según",
+    "Magri",
+    "barrabrava",
+    "Horrible",
+    "Además",
+    "Olas Boulevard",
+    "Isabel Perón",
+    "Argentina",
+    "Nombre del Presidente",
+    "Ayer",
+    "Allá",
+    "Apellido de Balbín",
+    "Alvear",
+    "la Ministra",
+    "Medina",
+    "Cristina",
+    "Plaza de Mayo",
+    "Martínez",
+    "Boca",
+    "Stephen King",
+    "Ustedes",
+    "Mañana",
+    "Acabo",
+    "la Argentina",
+    "¿",
+    "Dios",
+    "Avenida",
+    "Así",
+    "AAA"
+  ]
+}

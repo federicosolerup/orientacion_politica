@@ -1,0 +1,21 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 1,
+      "derecha": 0
+    },
+    "score_promedio": 0.049,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Recuerdo aquellos días y una frase, un título, un artículo de opinión aparecido en *The New York Times*, que decía: “Si la consecuencia del ataque de Al Qaeda es que cada vez viviremos con más miedo, habrán triunfado”.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 1
+  },
+  "etiqueta_original": "neutral"
+}

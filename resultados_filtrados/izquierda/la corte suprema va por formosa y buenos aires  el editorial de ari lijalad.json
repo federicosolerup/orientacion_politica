@@ -1,0 +1,44 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En San Juan, el caso involucraba a Sergio Uñac; en Tucumán, a Juan Manzur.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Fernando Carvajal, un exjuez formoseño que ahora integra la oposición a Gildo Insfrán, solicitó una medida cautelar para suspender las elecciones y evitar la reelección de Insfrán, a pesar de que la Constitución de Formosa permite la reelección indefinida.",
+      "entidades_detectadas": [
+        "constitución",
+        "formosa"
+      ]
+    },
+    {
+      "frase": "Hoy se suma la provincia de Buenos Aires, con una presentación realizada por Oscar Héctor Alba, del partido Un País (anteriormente ligado al macrismo), representado por Andrés Gil Domínguez.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Domínguez, reconocido mediáticamente y en el ámbito académico, fue defensor del Grupo Clarín ante la Corte Suprema en el caso de la Ley de Medios, e integró el Consejo Consultivo para la Reforma Judicial convocado por el presidente Alberto Fernández, donde, según trascendidos, bloqueó una postura sobre la reforma de la Corte Suprema.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "clarín"
+      ]
+    },
+    {
+      "frase": "El gobierno de Axel Kicillof, en 2021, modificó la ley, manteniendo el límite a dos mandatos, pero considerando como primer mandato el iniciado a partir de la sanción de la ley de 2016.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Existen varios problemas: la retroactividad de la ley de Vidal y la cuestión de la competencia originaria de la Corte, tal como se planteó en los casos de Tucumán, San Juan y Formosa.",
+      "entidades_detectadas": [
+        "vidal"
+      ]
+    }
+  ]
+}

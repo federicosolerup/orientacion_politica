@@ -1,0 +1,43 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En su despacho del Senado entregó esa carpeta a mujeres de la OEA que integran una comisión dedicada a combatir la violencia contra la mujer.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "El **\"Cuervo\" Andrés Larroque** apuntó contra **Alberto Fernández** y dijo que, mientras **Macri** la pasaba muy bien, a **Cristina** le destrozaban el despacho del Senado e intentaban matarla.",
+      "entidades_detectadas": [
+        "andrés",
+        "senado"
+      ]
+    },
+    {
+      "frase": "En realidad, todas las acusaciones jurídicas que pesan sobre ella y sus cómplices no son una cuestión de género; son por ser la jefa de la asociación ilícita que saqueó al Estado Argentino con la mega corrupción más grande de la historia democrática.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Las fuertes críticas políticas, además, que recibió en su mayoría fueron por su autoritarismo descarnado y por el intento de llevar a nuestra Argentina al altar del chavismo nacional populista, no por ser mujer.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Evita decir que es su partido el que está en el gobierno, que el presidente es el que ella designó y que la vicepresidenta es, obviamente, ella misma.",
+      "entidades_detectadas": [
+        "presidente",
+        "evita"
+      ]
+    },
+    {
+      "frase": "Por extensión, la democracia argentina se encuentra en vilo\".",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

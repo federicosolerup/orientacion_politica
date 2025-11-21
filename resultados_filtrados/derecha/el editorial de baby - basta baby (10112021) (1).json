@@ -1,0 +1,32 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Me parece terrible que el Estado tenga que decir \"mátenlo\", \"ejecuten\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Parece que acá los choferes son premiados; el que sacó a Aníbal Fernández terminó siendo juez de Comodoro Rivadavia.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cristina Kirchner no es valiente, ni líder, es miedosa.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Hoy, el itinerario de Cristina Kirchner, el silencio de Máximo Kirchner y de todos los muchachos demuestra que nadie le tiene miedo.",
+      "entidades_detectadas": [
+        "cristina",
+        "máximo",
+        "kirchner"
+      ]
+    }
+  ]
+}

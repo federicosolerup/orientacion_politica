@@ -1,0 +1,96 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 5
+    },
+    "score_promedio": 0.319,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hay una especie de consenso entre los sectores políticos y los actores políticos de que el año termina con el comienzo del Mundial y que el comienzo del Mundial empalma con las fiestas de fin de año, luego con el verano, y que en marzo comienza el año verdaderamente electoral, porque hay que presentar las candidaturas para lo que van a ser las PASO de agosto.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento, según los libros de historia, la Argentina estaba en un proceso de industrialización espectacular, que fue uno de los momentos de mayor crecimiento de la historia de la Argentina.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, se hablaba de que Argentina, en ese momento, tenía el mismo tamaño de la economía argentina que la de Brasil.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar al propio Alsogaray diciendo \"hay que pasar el invierno\" y que cada uno vea cómo resuena esa frase, y cómo incluso habla del Fondo Monetario, y cuán vigente puede ser hoy, como aquel monólogo de Tato Bores, que he escuchado 30 años.",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "y no hubieran mediado el último depósito en dólares que nos ha hecho el Fondo Monetario Internacional.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos hablan de que se refirió a que quedarían solamente 10.000 millones de pesos para emitir dentro del compromiso para cumplir el compromiso con el Fondo Monetario Internacional, pero bueno, lo cierto es que, sin ninguna duda, julio, agosto, septiembre y octubre, son meses complejos que, si el gobierno logra cruzar, nos encontraremos en un escenario, y si no lo logra cruzar, en el escenario que define y que ya anticipa Juan Grabois, quien ayer tuvo un protagonismo en todos los medios como nunca antes en su vida.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "este audio es en un estudio de televisión, no es ya en la calle, como el que acaban de escuchar, de la calle ayer, es donde Grabois dice: \"Prefiero decirlo ahora y no cuando empiecen los saqueos\", y anuncia saqueos en un futuro cercano.",
+      "score": 0.392,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso lo decía clarito, Hugo Morales.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "a través de un decreto, y si hay que declarar un estado de excepción en la economía del país, hay que declararlo, hay que tener el coraje de declararlo, como se ha hecho en otros países del mundo que están sufriendo situaciones parecidas a la nuestra.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mañana vamos a volver al último audio de Grabois, el personaje ayer excluyente de la jornada, el uso de una figura de que están en un cumple, en un cumple, como que están aislados de la realidad, o cada uno en su cumple, y lo vamos a tener para cerrar esta apertura al presidente hablando en lo que parecía ser un cumple.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, escuchemos a Grabois cuando dice: \"Ellos tienen papas fritas, chiquitos, la torta y el pueblo se caga de hambre, están en un cumple, están dormidos, están en un cumple.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esta figura de estar en un cumple, que es una figura retórica del lenguaje moderno que implica estar aislado de la realidad, estar en otra, parecía responderle Alberto Fernández, en un discurso ayer, en el medio de toda esta jornada.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández dijo: \"Mi sueño no es ser el mejor presidente de la Argentina, sino ser el presidente del mejor país del mundo\".",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos a Alberto Fernández en lo que podría caber una calificación como la que hace Grabois, un cumple.",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es ser el mejor presidente de la Argentina, es ser el presidente del mejor país del mundo.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Álvaro Alsogaray (en lugar de \"alzo baray\" y \"alzo garay\")\n    *   María Julia Alsogaray (en lugar de \"maria julia alzo baray\")\n    *   Juan Grabois (en lugar de \"juan gravois\")\n    *   Gabriela Cerruti (en lugar de \"gaviria cerruti\")\n    *   Hugo Jasky (en lugar de \"hugo jasky\")\n*   **Corrección ortográfica:**\n    *   \"PASO\" (en lugar de \"paso\")\n    *   \"empalma\" (en lugar de \"empalma\")\n    *   \"industriaización\" (en lugar de \"industrialización\")\n    *   \"Franqui\" (en lugar de \"Franqui\")\n    *   \"Batakis\" (en lugar de \"batakis\")\n    *   \"inmediatamente\" (en lugar de \"a tiempo\")\n    *   \"Raffaella Carrà\" (en lugar de \"Rafael la Carga\")\n*   **Cohesión y coherencia:**\n    *   Se reordenaron oraciones para mejorar la fluidez.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 16
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,362 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El gobernador Raúl Jalil de Catamarca, en diálogo con Radio Díaz:\n\nBuenos días, Jorge.",
+      "entidades_detectadas": [
+        "Raúl Jalil de Catamarca",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Buenos días a toda la audiencia y al equipo de trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por atendernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entiendo que tiene una agenda apretada, pero quería aprovechar un momento para hablar con usted.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vi un tuit sobre el tema minero y me pareció relacionado con lo que la RETA comentó esta mañana,  afirmando que Jujuy es el modelo a seguir.",
+      "entidades_detectadas": [
+        "RETA",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "¿Cómo interpreta esa declaración?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, hemos estado trabajando seriamente con los gobernadores Morales (Jujuy) y Sáenz (Salta) en la Mesa del Litio.",
+      "entidades_detectadas": [
+        "Sáenz",
+        "Morales",
+        "Mesa del Litio",
+        "Salta",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Hemos presentado al Congreso de la Nación las políticas consensuadas sobre medio ambiente, impuestos e industrialización del litio.",
+      "entidades_detectadas": [
+        "Congreso de la Nación"
+      ]
+    },
+    {
+      "frase": "Hemos avanzado en conversaciones con YPF e ITECH, y estamos elaborando proyectos ejecutivos.",
+      "entidades_detectadas": [
+        "YPF"
+      ]
+    },
+    {
+      "frase": "Como las regalías mineras y los recursos naturales pertenecen a cada provincia, existen diferentes esquemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "San Juan, Santa Cruz y Catamarca tienen esquemas de fideicomisos, mientras que otras provincias, como Salta, tienen otros modelos con diferentes porcentajes de propiedad.",
+      "entidades_detectadas": [
+        "Santa Cruz",
+        "San Juan",
+        "Salta",
+        "Catamarca"
+      ]
+    },
+    {
+      "frase": "Trabajamos en equipo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, creo que hay información errónea circulando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Catamarca es la provincia que más empleo privado ha generado en los últimos 30 meses, gracias al turismo, al programa PreViaje y a la minería, que opera a un 90% de su capacidad.",
+      "entidades_detectadas": [
+        "Catamarca"
+      ]
+    },
+    {
+      "frase": "También contribuyen la obra pública (nacional, provincial y municipal) y la construcción de viviendas.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Tenemos un plan de inversión de 10.000 millones de pesos en la zona de influencia minera, e invitamos a la oposición a participar en el fideicomiso, aunque hay diferentes opiniones al respecto en la Legislatura Provincial.",
+      "entidades_detectadas": [
+        "Legislatura Provincial"
+      ]
+    },
+    {
+      "frase": "Creo que se ha subestimado el efecto multiplicador de la minería.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Leí una nota de Pablo [Falta apellido] en un diario nacional que menciona el impacto positivo del gasoducto, el petróleo y el litio en Jujuy y Salta, mejorando la situación de divisas de Argentina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Leí",
+        "Falta",
+        "Salta",
+        "Pablo",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Si bien la sequía es un problema, las inversiones siguen llegando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Próximamente anunciaré una inversión importante con capitales argentinos, coreanos, japoneses, chinos e ICF.",
+      "entidades_detectadas": [
+        "ICF"
+      ]
+    },
+    {
+      "frase": "En mi opinión, se ha difundido información incorrecta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Respecto a las regalías:**  Se habla mucho de la necesidad de equilibrar las ganancias de los inversores con los ingresos del Estado.",
+      "entidades_detectadas": [
+        "Estado",
+        "Respecto"
+      ]
+    },
+    {
+      "frase": "La matriz impositiva argentina difiere de la chilena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Chile, siendo un país unitario, centraliza la recaudación.",
+      "entidades_detectadas": [
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Argentina, siendo federal, tiene distintos esquemas provinciales.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Mientras que en Chile el impuesto a las ganancias es del 20%, en Argentina es del 35%.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Nosotros tenemos un 3,5% del precio mayor de exportación (diferente al esquema de Jujuy).",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "A esto se suman los derechos de exportación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aumentar los impuestos podría alejar a los inversores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros, en Catamarca, promovemos las inversiones y la industrialización.",
+      "entidades_detectadas": [
+        "Catamarca",
+        "Nosotros"
+      ]
+    },
+    {
+      "frase": "Recientemente visité Japón, China, Corea y Londres para promover inversiones.",
+      "entidades_detectadas": [
+        "China",
+        "Corea",
+        "Japón",
+        "Londres"
+      ]
+    },
+    {
+      "frase": "También es importante destacar las ganancias del turismo, como se mencionó ayer.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Respecto al subsidio de Aerolíneas Argentinas, se busca enfocarlo en zonas sin otras opciones de transporte aéreo.",
+      "entidades_detectadas": [
+        "Aerolíneas Argentinas"
+      ]
+    },
+    {
+      "frase": "Existen rentas económicas y sociales, como explicaron ayer Cristina Fernández de Kirchner, el Presidente y Sergio Massa.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Presidente",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "El Estado debe intervenir donde la rentabilidad privada no es suficiente.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Catamarca, después de Santiago del Estero, es la provincia con mayor porcentaje de propietarios, cerca del 80%, gracias a las políticas implementadas.",
+      "entidades_detectadas": [
+        "Santiago del Estero",
+        "Catamarca"
+      ]
+    },
+    {
+      "frase": "No estamos en una disputa política, sino trabajando seriamente en la Mesa del Litio con Morales, Sáenz, Massa, Fernando Ávila (Secretaria de Minería de la Nación y catamarqueña), [Falta apellido] (salteño).",
+      "entidades_detectadas": [
+        "Sáenz",
+        "Fernando Ávila",
+        "Morales",
+        "Massa",
+        "Falta",
+        "Mesa del Litio",
+        "Secretaria de Minería",
+        "Nación"
+      ]
+    },
+    {
+      "frase": "Nuestro espacio político tiene una visión federal, reflejada en nuestro gabinete.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Sobre la industrialización del litio:** La situación es compleja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He visitado fábricas en Japón, China y Corea, donde se trabaja en la economía circular y el reciclaje de baterías.",
+      "entidades_detectadas": [
+        "baterías",
+        "China",
+        "Corea",
+        "Japón"
+      ]
+    },
+    {
+      "frase": "Europa también lo hace.",
+      "entidades_detectadas": [
+        "Europa"
+      ]
+    },
+    {
+      "frase": "Se necesita una reingeniería, capacitando a los mecánicos en electricidad, ya que los vehículos eléctricos requieren menos autopartes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se necesitan créditos para la adquisición de vehículos y un plan a 30 años, que estamos elaborando en la Mesa del Litio con Morales, Sáenz, la Nación e IPEC (Roberto Salvarez, presidente de IPEC, estará en Catamarca el lunes o martes).",
+      "entidades_detectadas": [
+        "Sáenz",
+        "Catamarca",
+        "Morales",
+        "Mesa del Litio",
+        "IPEC",
+        "Roberto Salvarez",
+        "Nación"
+      ]
+    },
+    {
+      "frase": "IPEC está instalando un prototipo de fábrica de litio en La Plata y en Santiago del Estero.",
+      "entidades_detectadas": [
+        "Santiago del Estero",
+        "La Plata",
+        "IPEC"
+      ]
+    },
+    {
+      "frase": "Queremos priorizar la industrialización en las provincias productoras de litio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La meta es la reingeniería del sector, y estamos trabajando en ello.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por el tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los invito a la Fiesta del Poncho, con más del 90% de ocupación hotelera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajamos con Gerardo Zamora, Coqui Capitanich y otros, independientemente del partido político, en políticas comunes para el Norte Grande.",
+      "entidades_detectadas": [
+        "Norte Grande",
+        "Gerardo Zamora",
+        "Coqui Capitanich"
+      ]
+    },
+    {
+      "frase": "Que tengan una buena semana y buenas vacaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Norte Grande",
+    "También",
+    "Congreso de la Nación",
+    "Morales",
+    "Leí",
+    "Massa",
+    "Raúl Jalil de Catamarca",
+    "Jujuy",
+    "IPEC",
+    "Secretaria de Minería",
+    "Aerolíneas Argentinas",
+    "San Juan",
+    "Japón",
+    "Nosotros",
+    "Respecto",
+    "Roberto Salvarez",
+    "Buenos",
+    "YPF",
+    "Sáenz",
+    "Catamarca",
+    "Gerardo Zamora",
+    "China",
+    "Cristina Fernández de Kirchner",
+    "Estado",
+    "Nuestro",
+    "Falta",
+    "Mesa del Litio",
+    "Entiendo",
+    "Nación",
+    "ICF",
+    "Argentina",
+    "baterías",
+    "Europa",
+    "Sergio Massa",
+    "Santa Cruz",
+    "Santiago del Estero",
+    "Salta",
+    "Pablo",
+    "El Estado",
+    "Presidente",
+    "RETA",
+    "Corea",
+    "La Plata",
+    "Londres",
+    "Fernando Ávila",
+    "Coqui Capitanich",
+    "Legislatura Provincial",
+    "Chile",
+    "Jorge",
+    "Aumentar"
+  ]
+}

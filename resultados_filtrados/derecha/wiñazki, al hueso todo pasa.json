@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La situación en Argentina es extremadamente grave.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Un gobierno usurpador, que había abolido la Constitución y anulado al poder judicial (o lo había sometido a su juramento a la Constitución \"videlista\"), cometió esos crímenes.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Otro caso: Daniela Ruiz, en Orán, Salta (14 de abril, según el informe de Manzi).",
+      "entidades_detectadas": [
+        "salta"
+      ]
+    },
+    {
+      "frase": "Sé que Alberto Fernández se opuso al estado de sitio.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández",
+        "estado"
+      ]
+    }
+  ]
+}

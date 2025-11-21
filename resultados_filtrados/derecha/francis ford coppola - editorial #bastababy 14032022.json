@@ -1,0 +1,25 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Otra noticia: mientras Cristina Kirchner sufría un ataque contra su vivienda (le arrojaron una piedra a la ventana), el precio de la nafta subió un 10,5%, llevando al país al borde del colapso.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Sin estudio, sin preparación… ¡Una sola piedra golpea la foto de Maradona, el retrato de Néstor Kirchner!,  rompe dos toneladas de vidrio… cuando en realidad había un agujero que rompía la cortina, que rompía todo, que hacía una carambola digna de los hermanos Navarra… y fíjense cómo termina el video, señora, digno de Steven Spielberg, con su cara y la cámara enfocando el agujero por donde entró la piedra.",
+      "entidades_detectadas": [
+        "néstor",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Honestamente, permítanme no creerle más, como ya no le creo a Alberto desde hace tiempo.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

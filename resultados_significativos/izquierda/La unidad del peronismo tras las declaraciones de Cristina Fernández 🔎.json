@@ -1,0 +1,196 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 23,
+      "derecha": 13
+    },
+    "score_promedio": 0.415,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Necesitamos que los representantes de los tres poderes del Estado tomen el reclamo del pueblo reunido en esta plaza.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La dimensión emocional, quien quizás mejor lo resumió, fue el actual presidente del Partido Justicialista en la ciudad de Buenos Aires, Mariano Recalde, quien lo simbolizó en la frase \"tocarle el culo a la leona\" como motivo de esa afrenta.",
+      "score": 0.628,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos este fragmento de Recalde explicando qué sintió: \"Y ese lunes que tiraron esa munición gruesa pidiendo 12 años de prisión para Cristina, encima fueron a la casa de ella, a 'escrachar', a ejercer el más profundo odio que tienen adentro en la casa personal de Cristina y ahí se terminó.",
+      "score": 0.447,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí el pueblo despertó, le tocaron la cola a la leona, le tocaron la cola a la leona otra vez y finalmente se despertó, se despertó el peronismo y esta reunión de hoy es la demostración de ese despertar, que es un despertar también de la conciencia de que somos más, de que tenemos razón y de que no vamos a bancar que la toquen en Argentina\".",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me disculpo, al parecer, yo había escuchado \"le tocaron el culo, le tocaron la cola a la leona\".",
+      "score": 0.688,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era más elegante el presidente del partido peronista, pero fíjense que él habla de un despertar de la conciencia, que es exactamente la misma frase que usó Perón el 17 de octubre, cuando escuchamos hace unos instantes.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él venía de Martín García, o sea, lo traen de la prisión en la que lo tenían, y él le habla al pueblo y dice que en ese día, en ese acto, lo que se generaba era un despertar de la conciencia, en su caso, del pueblo trabajador.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, la tapa de \"Noticias\", que para quienes nos están viendo en perfil.com, en la aplicación de NTV van a poder verla -le voy a pedir al control que la coloque-, lo que plantea es una Cristina Kirchner en el balcón con una foto de ella en el balcón del Senado, diciendo que lo que hay que salvar es el relato.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a empezar nuevamente con el presidente del Partido Justicialista Porteño, Recalde, llamando a la movilización.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Si van a la casa de Cristina a hacer 'escraches' de la manera violenta que lo hicieron, como solamente lo hacen con los dirigentes populares, vamos a volver esta vez a la calle\".",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella es todo lo que nos oponemos a algo, pero lo principal es que son voces muy importantes como la de Cristina y son atacadas vergonzosamente, ¿no?",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que eso es con lo que hay que terminar, y si el pueblo sale a la calle a hacer una 'pueblada' bien hecha, le vamos a ganar, le vamos a ganar porque somos más, somos más y lo hacemos con amor\".",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, probablemente había una tapa de \"Noticias\" sobre el fiscal Luciani y recuerdo de hace dos o tres semanas que decía: \"El hombre iba a lograr santificar a Cristina\".",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, en el momento en que se lo coloca, lo mismo que pasó con Lula, lo mismo que pasó con Mandela, o sea, el ataque al líder lo que puede llegar a producir es la formación reactiva por el opuesto y lograr unir, como decíamos, unir al peronismo al punto de que puedan coincidir Hebe de Bonafini con Alberto Fernández.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos a Alberto Fernández de ayer.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Unidos\", desde Alberto Fernández a Hebe de Bonafini, algo que solamente el fiscal Luciani pudo lograr.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comparamos el 2x1 que hablaba Carlotto, el 17 de octubre que hablaba Alberto Fernández, y vayamos por partes.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de facto en ese momento le ordena que renuncie al secretario de Trabajo, que era Juan Domingo Perón.",
+      "score": 0.416,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, es incomparable respecto a la dimensión práctica que podría tener hoy una marcha, que no podría lograr que el presidente de turno, ni siquiera el presidente de la Corte Suprema de Justicia, pudiera modificar si hubiera un fallo que estuviera totalmente confirmado.",
+      "score": 0.519,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La dimensión práctica que podría tener en ese sentido, y aquí vamos, finalmente termina en indulto o amnistía.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vayamos al caso del 2x1, que sí se produjo en una situación de Estado de derecho.",
+      "score": 0.225,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había una ley aprobada en el año 2008, por la cual cada persona que estuviera en prisión se le podían contar por dos años cada año que haya estado en prisión, en el periodo en que todavía la condena no estaba firme.",
+      "score": 0.374,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el año 2015, uno de los condenados por delitos de lesa humanidad se presenta y pide por primera vez que se le aplique a él ese 2x1.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí teníamos el testimonio de Carlotto por un lado y luego el de Bonafini comparando lo que hubiera que hacer hoy con lo que se hizo en mayo de 2017.",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, si se llegara a producir una condena de la vicepresidenta en la causa de vialidad, primero en el Tribunal Oral, luego confirmado por Casación y finalmente por la Corte Suprema de Justicia, ¿cuál es la solución?",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que se podría lograr es generar un indulto que le devuelva a la hoy vicepresidenta su carácter de candidata.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya venimos explicando en este programa varios días que la posibilidad de que Cristina Fernández de Kirchner vaya presa es casi nula.",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, sí tendría un elemento político muy importante: no podría volver a ser candidata, es decir, una persona con condena firme no puede ser candidata.",
+      "score": 0.266,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, sí inhabilitaría la posibilidad de que Cristina Kirchner fuera candidata después de esa condena definitiva, si se produjese, imagina 2024-2025.",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, le devolvería lo que se llama la \"ficha limpia\".",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es la forma que va a tener de solucionar, dentro del Estado de derecho, como bien lo decía Zaffaroni en lo que pasamos ayer, esa va a terminar siendo la solución política.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, restaurar un relato, crear una condición para que se produzca un indulto, o, obviamente, también podría ser, como el caso del 2x1, una ley del Congreso; en ese caso sería una amnistía.",
+      "score": 0.191,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, le quedaría la posibilidad de volver a sumar alguna respuesta a la defensa de los fiscales.",
+      "score": 0.23,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al dejar expuestas, de una manera casi descarnada, situaciones que, para quienes no quieren a Cristina Kirchner, son una prueba concluyente, independientemente del fallo que se produzca.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo van a tener los defensores, luego los jueces en el momento en que se produzca el fallo, supuestamente en febrero del año próximo.",
+      "score": 0.209,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, el tema de fondo será 2024, 2025, 2026: crear las condiciones para que, si hubiese un fallo condenatorio de la hoy vicepresidenta, y en ese momento, supuestamente, senadora, pueda ser modificado para que ella pueda volver a ser candidata a presidente, a senadora, al puesto que fuese.",
+      "score": 0.566,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 36
+  },
+  "etiqueta_original": "neutral"
+}

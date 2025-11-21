@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Pero vamos a comenzar primero con Sergio Massa, escuchemos este primer audio de Sergio Massa.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Y nuestra tarea para el 2023 es tratar de sostener niveles de inversión pública y mejorar el ingreso como desafío más importante.\" Ese éxito efímero al que se refiere Massa está refiriendo a todas las medidas que toma todos los días.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Vamos a comenzar primero con el predecesor del actual presidente, que es Miguel Ángel Pesce, o sea, con Guido Sandleris, el último presidente del Banco Central de Macri.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar ahora la respuesta del actual presidente del Banco Central, de Miguel Ángel Pesce.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Entonces, lo único que hay que preservar es los efectos positivos que estamos teniendo y hay que buscar, y lo vamos a conseguir, moderar el proceso inflacionario.\" Bueno, allí tenemos al presidente del Banco Central con su mirada más gradualista en el coloquio de IDEA este viernes, en realidad el jueves, el viernes fue el cierre, de Menem, de Vasco de Menem, una de las personas más cercanas al ministro de Economía, Sergio Massa, habló de que hay un plan antiinflacionario en marcha, que, a diferencia de otros planes antiinflacionarios, no es contractivo ni del consumo ni del salario.",
+      "entidades_detectadas": [
+        "sergio",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Si, bueno, la discusión aquí de fondo es cuándo: ¿lo hace este gobierno, lo hace el próximo, se ponen de acuerdo la oposición y el oficialismo para hacerlo ahora, o le queda al próximo gobierno?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos Corregidos:**\n    *   Ringo Star -> Ringo Starr\n    *   Pesé -> Pesce (Miguel Ángel)\n    *   Sando Leris -> Sandleris (Guido)\n    *   Percibari -> Persio Arida\n    *   Sando Leris de Aridas -> Sandleris, Arida\n    *   Masa -> Massa (Sergio)\n    *   Meniguren -> Menem (Vasco de)\n*   **Ortografía:**\n    *   Se corrigieron errores de acentuación, puntuación (comas, puntos, puntos y comas, signos de interrogación), y ortografía general (por ejemplo, \"a cuento de\" en lugar de \"a cuento\").",
+      "entidades_detectadas": [
+        "massa",
+        "menem"
+      ]
+    }
+  ]
+}

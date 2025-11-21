@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Al día siguiente, las masivas protestas en todo el país contra el corralito, que afectó los ahorros de los argentinos, culminaron con el estado de sitio decretado por Fernando de la Rúa, hecho inédito tras el retorno de la democracia, y dejaron un saldo de casi 40 muertos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ayer, la ministra de Desarrollo Social (o el nombre correcto del ministerio),  Sandra Pettovello (nombre corregido),  cuyo ministerio —creado por Javier Milei y que agrupa diversas áreas—  carece de la idoneidad necesaria para gestionarlas, declaró que su gestión se basaría en el principio de \"el que corta la calle no cobra\".",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Este 19 de diciembre, recordamos a Pocho Leprati, y en vísperas del 20 de diciembre, fecha en la que se prevén movilizaciones —como ocurre cada año desde 2001 en conmemoración de los sucesos del corralito y el saqueo a los ahorros—, el ministro de Economía, Sergio Massa (si es el nombre correcto, de otra forma especificarlo), anunció lo que se puede considerar un saqueo organizado.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    },
+    {
+      "frase": "A 48 horas del anuncio del ministro de Economía, la ministra de Seguridad, Patricia Bullrich (si es el nombre correcto, de otra forma especificarlo), quien ya se desempeñó en ese cargo en 2001 (y durante el gobierno de Macri), implementó un protocolo que restringe la protesta social y habilita tareas de inteligencia sobre los manifestantes.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 26,
+      "derecha": 4
+    },
+    "score_promedio": 0.158,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei diciendo que tal vez a él mismo le iban a dar el premio Nobel de economía.",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece casi, decíamos, una síntesis humorística de lo que podría decirle el recientemente premiado Nobel de la Paz, Daron Acemoglu, al aspirante.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él mismo se había propuesto, Javier Milei, para el premio Nobel de la Paz.",
+      "score": 0.293,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Acemoglu, junto con Robinson, le escribieron un libro que se convirtió en un clásico de estudio de la relación entre política e institucionalidad, un libro que tiene algo más de 10 años y se llama \"¿Por qué fracasan las naciones?\".",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de la libertad, de lo que tanto le gusta justamente hablar al presidente Javier Milei.",
+      "score": 0.556,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Allá por febrero de 2022, cuando aún el auge de Milei era incipiente, el ahora Nobel Acemoglu fue entrevistado por Jorge Fontevecchia en \"Periodismo Puro\", en la saga de entrevistas que hace Jorge Fontevecchia, que se pueden leer en el diario Perfil, y también, claro, por Net TV los fines de semana.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Allí, Acemoglu habló acerca del vínculo entre liberalismo y libertarismo, esta idea que lleva adelante el presidente Javier Milei, además de analizar lo que tiene que ver con la realidad argentina.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En una entrevista que usted hizo en el momento de la salida de su último libro, usted dijo: \"Hoy en día hay una concepción estrecha de la libertad.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, la pregunta es: en este sentido, ¿el Estado sigue siendo fundamental para la existencia de ciertas libertades?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No, hoy en día no se puede tener el tipo de sociedad en la que vivimos la mayoría de nosotros, en América Latina, Europa, Estados Unidos y Asia, una noción de libertad sin que el Estado desempeñe algún papel en ella.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En segundo lugar, no se puede tener ningún tipo de libertad significativa sin algún mecanismo de resolución de disputas.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la mayoría de las sociedades, el Estado interviene en ello.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado proporciona bienes y servicios públicos y protege a los individuos.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo que no sé es si se podría haber organizado la sociedad de manera diferente.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De manera que, dicho, esos papeles podrían haber sido jugados por otras organizaciones que no fueran el Estado.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el último año hemos estado debatiendo propuestas políticas en Estados Unidos que reforzarían el Estado de bienestar de una forma que nadie habría creído factible hace tres o cuatro años.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A manera de los liberales en Europa de mediados del siglo XX, creo que los mercados, en contraposición a la planificación central, son la clave de la libertad.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es un entorno en el que la verdadera libertad pueda florecer.\" Sobre la Argentina, usted escribió: \"El Estado es arbitrario, pero hay incertidumbre y frustración.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Se produce un fenómeno en Argentina en que, en vez de hablar de un Estado fuerte y una sociedad fuerte, lo que tenemos es un Estado y una sociedad clientelares?",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No creo que se puedan contar los problemas que tiene hoy Argentina sin entender el papel que ha jugado el partido peronista.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los problemas de Argentina son anteriores al peronismo.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no formuló ninguna solución a estos problemas, pero como era una máquina clientelar exitosa se mantuvo únicamente influyendo en la política.\" Usted explica que nos hemos entrado en tres clases de leviatanes: el ausente, el despótico y el encadenado.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado argentino no parece ser ninguno de ellos, no es ausente, existe, tiene leyes complejas, un gran ejército, una burocracia, aunque los burócratas no estén muy interesados en hacer su trabajo y parece funcionar en cierta medida, especialmente en su capital, la ciudad de Buenos Aires.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reconozco completamente que Argentina es una economía moderna, más desarrollada que muchos de los otros ejemplos.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero Argentina no contiene algunos elementos de los otros ejemplos, y críticamente es esta combinación de instituciones existentes e, a veces, muy distantes de las instituciones estatales, pero sin embargo no funcionan y no tienen ningún interés en su función.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este tipo de comportamientos se perciben en la burocracia argentina, y por eso ponemos a Argentina como ejemplo principal del leviatán de papel, reconociendo que Argentina es una economía mucho más moderna que Kenia o Nigeria, o incluso Colombia, que es otro ejemplo latinoamericano.\" Profesor, en esta misma serie de entrevistas, cuando entrevistamos a Francis Fukuyama, él señaló que observaba rasgos comunes entre Donald Trump y Cristina Fernández de Kirchner.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Coincide usted con este análisis de Fukuyama?",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Se podría decir que hay una invariable populista que trasciende lo ideológico, sea de izquierda o de derecha?",
+      "score": 0.293,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me resulta mucho más fácil ver los paralelismos entre Donald Trump, Jair Bolsonaro, Marine Le Pen o...",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está muy claro que Cristina Kirchner, Hugo Chávez, Evo Morales tienen tendencias autoritarias muy fuertes.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 30
+  },
+  "etiqueta_original": "neutral"
+}

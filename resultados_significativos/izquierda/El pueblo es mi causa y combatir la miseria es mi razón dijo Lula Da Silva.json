@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 5
+    },
+    "score_promedio": 0.279,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El dulce, porque ganó Lula, felicidad enorme para el pueblo brasileño, justo el día, además, en que había ganado Alfonsín, como si fuese un puente de la historia argentina y de la historia de Brasil.",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sin embargo, el \"vira a vira\" no funcionó tanto, porque de la primera vuelta a la segunda vuelta, de los 11 millones de votos que se agregaron, solo dos fueron para Lula y 9 millones para Bolsonaro.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les importa un carajo la política, y Bolsonaro siempre está ahí hablando y haciendo barbaridades.",
+      "score": 0.446,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque sospecho que en el fondo del cerebro de cada votante inteligente y honesto de Bolsonaro vive un pequeño Paulo Guedes\".",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Paulo Guedes es el ministro de Economía de Bolsonaro y una persona que, en líneas generales, tiene opiniones muy contundentes y, muchas veces, políticamente incorrectas.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un \"Paulo Guedesiño\" que se pasa los días diciendo: \"Este nordestino no puede ser presidente porque, si este nordestino es presidente, habrá negros en la universidad.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el votante inteligente y honesto de Bolsonaro no puede decir en voz alta estas cosas que escucha de su \"Paulo Guedesiño\" mental, o, mejor dicho, puede en la peluquería, en el sauna del club o en el almuerzo de negocios, porque en esos lugares, entre sus compañeros, los \"Paulo Guedesiños\" se abrazan, se besan.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque ahora los votantes inteligentes y honestos de Bolsonaro pueden pensar como Paulo Guedes, pero comportarse como guardianes de la ética y defensores de la anticorrupción.",
+      "score": 0.604,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente conozcas a uno de esos votantes inteligentes y honestos de Bolsonaro.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La parte interesante aquí, en la que creo que hay una explicación de por qué Bolsonaro saca estos votos, que no es Bolsonaro, sino el anti-Lula, de la misma forma que está el pro-Lula, está en este párrafo que vuelvo a leer: \"Ese nordestino no puede ser presidente.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, esa cuestión de clase, en la que se explica cómo votaron 9 millones de personas más para Bolsonaro contra 2 millones más para Lula en estas elecciones.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar a compartir parte del hermoso discurso de Lula ayer.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo quiero comenzar esta pequeña charla con agradecimiento a Dios, porque toda la vida entera siempre pensé que Dios era muy generoso conmigo, permitiéndome salir de donde salí y llegar a donde llegué, y principalmente, en este momento, nosotros no enfrentamos a un adversario, nos enfrentamos a la máquina del Estado brasileño colocada al servicio del candidato de la situación, enfrentamos la máquina del Estado brasileño puesta al servicio de un candidato de gobierno para evitar que ganáramos las elecciones\".",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lula le habla, no a sus votantes, sino a los que votaron a Bolsonaro.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar este otro audio donde Lula dice: \"Esta victoria es de un inmenso movimiento democrático.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a pasar a otro audio donde Lula dice: \"No podemos aceptar que millones de hombres, mujeres, niños y niñas no tengan qué comer.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Brasil ya no puede convivir con este terrible pozo sin fondo, ese muro de concreto que separa a Brasil en partes desiguales que no se reconocen.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, decidí que Brasil es mi causa, el pueblo es mi causa y combatir la miseria es la razón por la cual voy a vivir hasta el fin de mi vida\".",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un texto especial que me parece que plantea una reflexión para la Argentina es cuando Lula termina agradeciéndole a la prensa, a la misma prensa que llevó adelante el \"Lava Jato\".",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero vamos a tener que escuchar después, porque tenemos en este momento a Alberto Fernández en línea, que está camino a tomarse un avión e ir a saludar a Lula.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Alfonsín (en lugar de Alfonso)\n    *   Nieto Mentor (en lugar de Nieto Mentor)\n    *   Paulo Guedes (en lugar de Pablo Guedes)\n    *   Alckmin (en lugar de Almi)\n    *   Bolsonaro (en lugar de Bolsonario o variaciones)\n    *   Tiririca (en lugar de Tiririca)\n    *   Amarelo (en lugar de Amare)\n\n*   **Corrección de ortografía:**\n    *   Se corrigieron errores ortográficos comunes y de tipeo a lo largo de todo el texto.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

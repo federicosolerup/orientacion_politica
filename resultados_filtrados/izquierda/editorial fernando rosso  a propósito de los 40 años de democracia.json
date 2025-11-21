@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Estoy leyendo uno de Fondo de Cultura Económica titulado *1983, un proyecto inconcluso*, de Jennifer Adair, que presenta interesantes aportes.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Este enunciado, pronunciado por Alfonsín —considerado el padre de la democracia— quien alguna vez dijo \"con la democracia se come, se cura, se educa\"— es directo y crudo.",
+      "entidades_detectadas": [
+        "alfonsín"
+      ]
+    },
+    {
+      "frase": "Si bien la derrota en Malvinas fue determinante, esta respondió a una crisis previa del régimen, ya muy desprestigiado y con una amplia oposición.",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    },
+    {
+      "frase": "La herencia económica de la dictadura se transformó en la política del partido del Estado bajo la democracia.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "En el gobierno alfonsinista, los ideales de reforma social rápidamente cedieron ante la realpolitik y las reformas estructurales —que ya venían de antes— para una presunta modernización que implicó ajustes, subordinación al Fondo Monetario Internacional, recortes salariales y privatizaciones.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 6,
+      "derecha": 46
+    },
+    "score_promedio": 0.782,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Decidí ponerlo allá a **Ginés González García** porque recién estaba en mi camarilla y lo escuchaba el presidente **Alberto Fernández**.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un especial en el Centro Cultural Kirchner que se llamaba \"Nosotras movemos al mundo\", ponele.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un aplauso pidió el presidente para Ginés y, por supuesto, el Centro Cultural Kirchner se caía abajo.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo, \"no, es para que le mande un beso de parte mía, que la admira un montón\".",
+      "score": 0.565,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado no tiene más plata, es verdad, porque se la robaron.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Te acordás cuando Cristina, antes de arreglar, viajó a Honduras y aprovechó para pegarle al Fondo Monetario Internacional?",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el Estado no puede generar, a través de políticas públicas activas, trabajo bien remunerado que permita a la gente acceder a una vivienda, darle educación y salud a sus hijos, ¿quién aparece?",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, mirá, yo me acuerdo, Dilma, no me acuerdo de una reunión que tuvimos, **Fernando**, hace muchos años, Néstor todavía estaba.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y charlando con otro presidente de la región, con **Álvaro Colom**, me acuerdo que contaba cómo el narco le iba ocupando la región porque era el que construía escuelas que él, desde el Estado, no podía construir porque no tenía recursos, porque tenían que aplicar las políticas de ajuste que dictan los fondos, bueno, que dictan, digamos, para evitar los organismos multilaterales de crédito.",
+      "score": 0.445,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos esperando la nueva carta de **Cristina Fernández de Kirchner** para ver si nos anuncia algo más sobre el acuerdo con el fondo.",
+      "score": 0.731,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensar que, durante la campaña, Alberto nos decía que nos íbamos a comer un asado, que volvía el asado, ¿se acuerdan el spot de la parrilla vacía?",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Máximo Kirchner** dejó la presidencia del bloque porque no está a favor del acuerdo con el Fondo Monetario Internacional y no se lo va a votar, entonces el presidente, por un lado, critica y maltrata a la oposición, pero, por otro lado, también la necesita.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podemos avalar con nuestro voto un acuerdo con el Fondo Monetario Internacional que es perjudicial para los argentinos\".",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la oposición parece que no van a aprobar el acuerdo si no lo prueba Máximo Kirchner.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero que les quede claro: si el Estado no tiene más plata es porque se la robaron toda, la tienen ellos.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente justifica a los ladrones y violadores y los liberan.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Te das cuenta que la Argentina es imposible, insoportable, insufrible.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escucha esto: el presidente dijo que necesitamos ponerle fin al problema de la inflación.",
+      "score": 0.544,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo a **Camarda**: \"Dale, macho, hacelo vos, sos vos el presidente, o sea, resolvelo vos\" y zaraza.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podría ser un buen panelista de C5N.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me olvido del Olivos Gate.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, si ella hacía las fiestas en Olivos, ¿qué carajo le importábamos nosotros?",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le importaba a la gente?",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le importaba a la gente?",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer el presidente hizo otro papelón.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un adolescente, un preadolescente, le dijo: \"Presidente, usted violó todo en la cuarentena\".",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme el video que van a ver después la foto del nene con él.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No grita, la clase, la educación, ya sabemos, y usted cerró las escuelas durante dos años.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ve que él levanta el brazo, viste, él le dijo al pibe: \"Venía a hacerme la selfie\", y el pibe no tenía ganas de hacerse la selfie.",
+      "score": 0.587,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cara de… que puso… Presidente, a usted no le cree nadie, no le cree nadie, y no lo quiere nadie.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted es una mentira con patas.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le importa tanto la educación, pero tanto, tanto la educación, todos los alumnos de secundaria pasaron de años sin importar cuántas materias aprobaron.",
+      "score": 0.435,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no sabía que se le cruzó un gallo o que se emocionó.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maxi, por favor, poneme \"Sobreviviendo\".",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof habló durante tres horas, pero, vida, yo entiendo que, en un momento, si no aguanto más.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dale, laburá, cómo vas a estar mirando un postre, es un postre, es un flan casero, qué hijo de… Qué hijo de… Lo que no es un huevo, huevo no le pone nadie, no le pone huevo, dale, dolapé, dolapé.",
+      "score": 0.784,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé realmente vivir en este país es sobrevivir, escuchar a la vocera, escuchar el furcio que se manda por estar en la pelotudez, porque cuando le preguntan no sabe qué contestar, lo dejo de no sé qué contestar, no, porque está pensando en derechos y derechas y dereches.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los derechos y las derechas, usted cuenta que no tiene rato, o sea, todo esto es apagado, no puedo hablar si tengo que pensar que todos estos derechos y derechas en todo el todo, no puedo hablar, o sea, se esmeran en esto que se ha hecho.",
+      "score": 0.497,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los derechos y las derechas, usted cuenta que no tiene rato, o sea, todo esto es apagado, no puedo hablar si tengo que pensar que todos estos derechos y derechas en todo el todo, no puedo hablar, o sea, se esmeran en esa estupidez.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Inclusión es decir: \"Gracias, permiso, perdón, buenas tardes, buenos días\", no es la letra E, es una cosa disparatada, absolutamente disparatada y le pagamos por eso.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el primer renglón justifica al violador, en el segundo son víctimas.",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy escuchaba a **Gonzalo Heredia**, el pésimo actor, para mi gusto, pésimo actor, que, porque leyó tres libros, se cree que es un intelectual y que opina de política y de todo, y dice que no le importa de qué bando sea el que violó.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo que los violadores de Palermo también eran pañuelo verde.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, si las ambulancias con la falopa ya llegaron a Croacia se le complicó todo, ¿no?",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se acuerdan que le pidió a la gente que se levantara contra los medios, son impresentables.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dejó el pedo, Chiche, ¿entendés?",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy te juro, ver al conductor, un pibe divino, le dice: \"No, aparte, Chiche parece que estás en un boliche y no te dejan entrar\".",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno nos tira el COVID y el otro nos tira la guerra.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero decía que me sorprende mucho la gente de TN que está obsesionada con los testeos, con la vacunación y con las pruebas de COVID, cuando realmente está la pobre Carolina y toda la gente que cubre la guerra, y le preguntan esa boludez.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estás en la guerra, te va a importar el bar de hijo, estás en la guerra, te van a matar a tus hijos, te van a matar a vos, tenés que escaparte y le preguntan por la vacunación, el pase.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se cambió mil COVID por una guerra, una guerra es una tragedia sin sentido, hoy pensaba cuando venía para acá y ya termino y me voy a la mesa, está **Patricia Bullrich**, está el Lacha y el Pollo Sobero para debatir todos los temas del día, pero pensaba hoy mis abuelos estuvieron en la guerra, vinieron de la guerra, y hoy estamos hablando de una guerra como si fuera… Es una locura, como ha retrocedido la humanidad, guerra, matan chicos, chicos llorando, los padres entregando a los hijos a cualquiera para que no se mueran, pero tiene el pase sanitario, nuestra guerra social, económica y sanitaria, no hay nada peor que una guerra, nada peor, y la guerra la está haciendo este loco, este hijo de puta de Putin, que es amigo de nuestro gobierno.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá qué contento estaba brindando con Cristina, la verdad que con Putin yo no brindaría, el problema es enorme, no aparece ningún char, chilacá, son todos hijos de puta, se borran todos, no todas son pálidas.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 52
+  },
+  "etiqueta_original": "neutral"
+}

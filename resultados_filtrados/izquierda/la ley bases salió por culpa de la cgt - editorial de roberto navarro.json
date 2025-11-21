@@ -1,0 +1,53 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "\"Oredo\" es una caricatura, pero hay muchos que critican al presidente públicamente, porque la gente desconoce el voto de cada diputado o el apoyo que brindan a determinado gobierno.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Estamos realizando un esfuerzo considerable para que Argentina salga del déficit fiscal, lo que impactará en la inflación y en la pérdida del poder adquisitivo, principalmente de las clases media y baja.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Hemos hecho esfuerzos para equilibrar las cuentas de los estados provinciales, pero el reclamo ante la Nación sobre el manejo de las cajas de jubilaciones…  …cuyo gobernador no solo no se queja, sino que reclama y envió a sus diputados a votar la entrega del país, a favor de la contratación de empleados en negro y la reducción de impuestos a los ricos.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Funes de Rioja, presidente de la UIA, se queja, pero fue quien elaboró la ley base.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Quiero mencionar el caso de [nombre omitido ya que no es claro en el texto original], porque si la CGT hubiese protestado el día de las detenciones, no habría habido represión ni detenciones.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Si la CGT hubiese participado, ¿habría existido la ley?",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Hay gente que confía en Stalvisser, el máximo exponente de esta situación, similar a Loredo.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Critico al gobierno, lo pongo en redes, la gente cree que lo combato pero lo apoyo votando, enviando a los diputados, haciendo leyes y no yendo al Congreso con los trabajadores.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    }
+  ]
+}

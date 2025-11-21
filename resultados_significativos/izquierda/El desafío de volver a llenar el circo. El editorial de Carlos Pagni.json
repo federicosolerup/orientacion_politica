@@ -1,0 +1,451 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 60,
+      "derecha": 27
+    },
+    "score_promedio": 0.348,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y volvemos a tener un problema donde los representados no se sienten identificados con esos actores que deben representarnos.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este experto, sociólogo, en la opinión pública de esas personas respecto de la política, le dice: \"Bueno, ¿y la política?",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y uno le contestó con una frase muy expresiva: \"La política es un circo vacío, no fuimos\".",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo se manifiesta este problema, por el cual vuelve a la Argentina de nuevo una crisis de representación como la del 2001, que nos emparenta, nos relaciona con muchas otras democracias de occidente donde se está viviendo lo mismo?",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, primero, hay una contracción del voto de esos dos actores, que ya la habíamos visto en el 2021 y que ahora se agudiza.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Unión por la Patria, que era el Frente de Todos en el 2019, en las primarias del 2019, las que gana en agosto del 2019 Alberto Fernández con Cristina Fernández de Kirchner, sacó en aquel momento 12 millones de votos.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que es Javier Milei, no hace falta aclarar la estrella de la hora.",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo entrevistaba hace muchos años, cuando Milei era una figura rara, todavía encerrada en el universo de la economía.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que el gran problema hoy de la política argentina es, con otras anécdotas, con otras motivaciones, con otra historia, otro libreto, aquella crisis de representación.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entre Milei y Juntos por el Cambio, Juntos por el Cambio en conjunto, es decir, los votos de Patricia Bullrich más los votos de Horacio Rodríguez Larreta, hay 300.000 votos de diferencia.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cual le plantea a Bullrich la expectativa de poder revertir la situación y pasar de segunda a primera, o, por lo menos, mantenerse como segunda en la elección del 22 de octubre.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, Sergio Massa también tiene la expectativa de poder revertir su situación de haber salido tercero.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque la diferencia entre Juntos por el Cambio y Unión por la Patria, que es la suma de Massa más Grabois, es de 200.000 votos.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, en esto van a estar, de aquí al 22 de octubre, Milei, Patricia Bullrich y Massa.",
+      "score": 0.343,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto vale para lo que va de una primaria que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección general en la Argentina a la elección general que tiene los rasgos de una especie de elección y, eventualmente, si es que va a ocurrir, entre la general y el balotaje.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Patricia Bullrich le sugirieron establecer acuerdos, sumar partes, como si fuera un lego, sumando sobre todo a Larreta y a la gente de Larreta a su campaña, en un intento de reabsorber el voto de Larreta, por si ese voto, o parte de ese voto, sobre todo el de los radicales, se tienta de irse a otro lugar.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich cree que ese no es el método.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene que cuidarse, porque si gira mucho al centro, por la puerta de atrás se le puede venir Milei.",
+      "score": 0.541,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver si, cuando habla de establecer un nuevo liderazgo, está pensando en Larreta o no, está pensando mucho más en Macri, que ayer apareció de nuevo como el líder del grupo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri está pasando horas de alegría, seguramente.",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, porque se le cumplió su pronóstico.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde muy temprano, él decía que había dos protagonistas: Milei y Juntos por el Cambio.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por momentos fue el jefe de campaña de Patricia Bullrich en muchos aspectos de esa campaña.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Probablemente, el pronóstico de Macri no le asignaba a Milei el éxito que tuvo ayer Milei.",
+      "score": 0.252,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Macri pensaba en un mayor protagonismo de Juntos por el Cambio, que sale interpelado de la elección de ayer.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno puede decir: \"Bueno, ¿cómo no, si Macri es calabrés?\".",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le presten atención a Larreta.",
+      "score": 0.608,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo el Pro Unido, menos Macri.",
+      "score": 0.659,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri lo leyó.",
+      "score": 0.56,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerda que lo bajaban de los actos, que una vez le ocultaron el micrófono.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el entorno de Larreta se interpreta que Seita fue el que le comió la cabeza a Larreta en contra de Macri.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y por qué está tan enojado Macri con Seita?",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, Macri descubrió que Seita se le metió en tierra sagrada, que es el deporte, el fútbol.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa tiene también que pensar de nuevo su campaña.",
+      "score": 0.224,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con una gran limitación: no podés defender a Alberto Fernández, porque se enoja Cristina.",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y otra corriente que probablemente predomine ahora, después del fracaso de Massa, que le decía: \"No, tenés que iniciar una gran polarización con lo otro\".",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero reproduce la misma lógica que tuvo en España el discurso de Pedro Sánchez, el socialista que finalmente logró recuperar algo de lo que había perdido y puso a España en una encrucijada complicada por no haber sido del todo derrotado.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Será creíble Massa hablando de defenderse respecto de la derecha?",
+      "score": 0.608,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Habrá un Massa de izquierda en este nuevo tramo de la campaña?",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, Milei pudo hacer grandes elecciones, obtener grandes resultados ayer en Tucumán, en San Juan, en San Luis, en Jujuy.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, en el intento de los caudillos peronistas, 14 del interior, de salvar su ropa, de poner a resguardo su casa y abandonar al PJ nacional y a Massa como cara de ese PJ su suerte, beneficiaron a Milei porque le dieron una ventaja competitiva.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con qué estructura, con qué aparato institucional Milei, si llegara a triunfar, le puede dar respuesta a los argentinos que no van a votar o que lo votaron a él como una manifestación de frustración, de desencanto por las malas prestaciones del sistema.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora hay que mirar algunos números que nos permiten ya intuir que Milei es un nuevo actor en la vida institucional también, no solo en la vida electoral.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Misiones, en estas elecciones del 22 de octubre, va a elegir senadores y Milei en Misiones sacó 43% de los votos.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, si Milei mete los dos senadores de Misiones y si mete al segundo un senador por Formosa, porque en Formosa salió segundo, sacó 25,5% en la Formosa de Insfrán, desplazó al radicalismo como figura de oposición ahí.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que no sería disparatado pensar que, si Milei logra arrastrar detrás de sí, en una buena elección de octubre, a sus listas de senadores, Milei va a ser un actor crucial en el Senado, aún con un bloque pequeño, porque lo que es evidente es que se acabó la hegemonía peronista en el Senado fundada en el año 83 y nunca puesta en cuestión hasta ahora.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de un Congreso del que se esperan reformas que permitan el plan de estabilización que nos salve de esta inflación de más de 120%.",
+      "score": 0.224,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Massa, la primera misión de Massa no se cumplió.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era garantizarle a Cristina un gran éxito en la provincia de Buenos Aires y, sobre todo, en el Conurbano bonaerense, donde el peronismo y el kirchnerismo se fue a refugiar desde hace tantos años.",
+      "score": 0.435,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el peronismo con los Kirchner siguió en la ruta de Duhalde, de conurbanización de la política.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo le fue al kirchnerismo en el Conurbano, en el reino de Cristina?",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de Unión por la Patria, votos que saca Massa ayer en el Conurbano.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le hicieron lo que le hicieron a Kirchner en el 2009, cuando Kirchner casi lo agarró a trompadas en el hotel donde recibían los resultados.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, Massa hizo en el 2009 lo que hicieron muchísimos intendentes a los que el kirchnerismo los había llevado a la derrota después del conflicto con el campo.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También los intendentes de Juntos por el Cambio, porque en Juntos por el Cambio el voto a presidente, es decir, los votos que recibieron en el Conurbano, Juntos, Larreta y Bullrich, son 68 mil votos menos de los que obtuvieron los intendentes del PRO en ese mismo distrito.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le prohibió a la justicia, con una gran presión de Massa, competir colgado de la lista de Massa, y Zamora fue colgado solo de la lista de Grabois, pero repartió también la lista de Massa.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le ganó a Malena Galmarini en Tigre, que iba con la lista de su esposo, un gracioso, decía hoy, ¿no le hubiera convenido más a Malena ir sin Massa?",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa era un impulsor o un salvavidas de plomo de la candidatura de su esposa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa perdió en Tigre, los Kirchner perdieron en Santa Cruz, las dos casamatrices hundidas.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una gran abstención para candidatos a senador, porque Milei no presentó candidato a senador.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei sacó 52 mil.",
+      "score": 0.405,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa tiene ahora un desafío: terminar con esa brecha, fidelizar a los intendentes, lograr que trabajen para él, que no le corten boleta en contra.",
+      "score": 0.473,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo va a lograr, porque el intendente, una vez que vio que a Massa le fue mal, probablemente se aparte más.",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora tiene, dicen los que conocen muy bien el entramado bonaerense, un puntero para relacionarse con los intendentes del PJ en el Conurbano bonaerense: Alejandro Granados de Ezeiza.",
+      "score": 0.334,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que Massa tiene que lograr inhibir estos movimientos por los cuales los intendentes salvan su ropa si el candidato que tienen no atrae demasiados votos.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son pavadas, son minucias, detalles, porque el problema de Massa, de ser ministro de Economía, tuvo que devaluar, que era lo que le había prometido al Fondo, para que el Fondo haga el desembolso con el cual él le tiene que devolver la plata prestada a Qatar y a la CAF, a la Corporación Andina de Fomento.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Devalúa Massa, aparecen estos otros números que son los de hoy: 21,79 el dólar mayorista, 22,45 el minorista, es lo que se había comprometido con el Fondo Monetario Internacional.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se conoce esta noticia, cuando se anuncia que va a suceder, Julio De Vido, que es una especie de voz del inconsciente, no inconsciente es, la voz del inconsciente del kirchnerismo, como si fuera Néstor que hablara desde otro lado, estaba en la radio siendo entrevistado por Daniel Tognetti, le dijeron: \"Acaba de devaluar Massa\".",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, acá aparece la pregunta: ¿Le conviene a Massa ser el vocero de esta política económica?",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No le convendrá recibir la plata del Fondo?",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y con un dato adicional, con Juan Grabois, que ayer le presentó un plan económico a Massa, seguramente a nombre de Cristina.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el pobre Massa está bajo la presión del Fondo que le pide estas medidas y la presión de Grabois, que, en nombre de Cristina, le pide un mega plan platita, un plan Marshall con 12 mil millones de dólares de reservas negativas.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, Massa sacó 27%.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los votos de Unión por la Patria en el Conurbano bonaerense.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta caída, que son los votos a presidente del kirchnerismo en el Conurbano, es esa otra caída.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única encuesta presencial en Villas de Emergencia de Lamba, donde Massa no sacaba más de 36% y donde, escúchenlo bien esto, si se indaga sobre los chicos de menos de 25 años, Milei pasa en las Villas de 7% a 21%, casi al lado de Massa.",
+      "score": 0.498,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya le vamos a preguntar a Roberto sobre esto, que es un experto en Milei.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿O le convendrá retirarse?",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, habrá que ver cómo resuelve Milei la pregunta de cómo gobernar sin casta.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estar en contra de la casta es lo que le permite impulsarse y ganar votos.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mensaje de Milei, de gran efectividad, de dolarización, Milei sube con el blue.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En otros términos, todos sabemos, tenemos claro, y él lo expresa muy bien, qué es lo que Milei quiere destruir.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé tan claramente, habrá que ver si Roberto sabe, qué es lo que Milei quiere construir.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Convulsiones en la historia argentina que han cambiado todo en dos momentos cruciales.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a plantear otra pregunta muy sencilla: \"¿Quién cree usted que va a ganar las elecciones el 22 de octubre?\".",
+      "score": 0.48,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, Bullrich o Massa.",
+      "score": 0.454,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quédese después de Odisea, porque Luis Novaresio, en más entrevistas aquí en La Nación Más, entrevista a una figura que va a ser interesantísimo escuchar esta noche: Jaime Durán Barba.",
+      "score": 0.647,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 87
+  },
+  "etiqueta_original": "neutral"
+}

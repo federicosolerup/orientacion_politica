@@ -1,0 +1,618 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No entiendo la situación inicial con el perro en la cocina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdón, me hacen decir cosas que no quiero.",
+      "entidades_detectadas": [
+        "Perdón"
+      ]
+    },
+    {
+      "frase": "Les pido disculpas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me refiero a lo que se dijo sobre [Nombre de la chica], que es una niña pequeña.",
+      "entidades_detectadas": [
+        "Nombre"
+      ]
+    },
+    {
+      "frase": "No la vi.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dejen de inventar historias sobre mí.",
+      "entidades_detectadas": [
+        "Dejen"
+      ]
+    },
+    {
+      "frase": "Levinas, colabora para que podamos avanzar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, ese es mi punto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mucha gente me pregunta por qué Levinas no responde.",
+      "entidades_detectadas": [
+        "qué Levinas"
+      ]
+    },
+    {
+      "frase": "Se lo percibe como alguien limitado…  ¿Cómo están todos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Disculpen, estoy un poco apurado, saludo a todos.",
+      "entidades_detectadas": [
+        "Disculpen"
+      ]
+    },
+    {
+      "frase": "Creo que te falta algo en el álbum.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lindo auto, un BMW.",
+      "entidades_detectadas": [
+        "BMW"
+      ]
+    },
+    {
+      "frase": "Impresionante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Lo sacaron en un plan de ahorro?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una excelente opción, mejor que un Duna.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ninguno tiene problemas, muchachos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿De qué me habla Papelola?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ah, pero es de hoy, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Iba a hablar de las visitas a la Quinta Presidencial, pero creo que hay un tema más importante que merece nuestra atención.",
+      "entidades_detectadas": [
+        "Quinta Presidencial",
+        "Iba"
+      ]
+    },
+    {
+      "frase": "Este tema tapa la realidad de la situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La realidad es que siguen muriendo personas por COVID-19, y la vacuna no llega a todos.",
+      "entidades_detectadas": [
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Hoy me enteré que los niños con discapacidad y asma no están siendo vacunados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Lo sabían?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es increíble que tengamos que estar diciendo que un niño con asma…  ¡Un niño con pie plano, uno con asma!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Vacunémoslos a todos!",
+      "entidades_detectadas": [
+        "Vacunémoslos"
+      ]
+    },
+    {
+      "frase": "Son niños, ¡no sean inhumanos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un chico con asma necesita la vacuna para evitar problemas respiratorios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy mismo, una señora –no revelaré su nombre–  recibió a un grupo en su casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su hijo con discapacidad sufrió un ataque de nervios, desmayaron a su marido y violaron a la señora, quien se comunica conmigo todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le dijeron que su hijo no podía vacunarse por tener asma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué más le va a hacer este país a esta mujer?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente, no lo entiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tema fundamental de hoy es que las listas electorales…  Sé que un día aparecerán caras desconocidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con respecto al payaso, ¿cómo se llamaba?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Marulito?",
+      "entidades_detectadas": [
+        "¿Marulito"
+      ]
+    },
+    {
+      "frase": "Me saqué una foto con él haciendo la “B”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo menciono porque quizá Marulito sea peronista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El resto, todos oportunistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por un lado, el DP, por el otro, Marulito, y por el otro, alguien de Gran Hermano.",
+      "entidades_detectadas": [
+        "Marulito",
+        "Gran Hermano"
+      ]
+    },
+    {
+      "frase": "Es una porquería.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy recordé una anécdota de Alfonso.",
+      "entidades_detectadas": [
+        "Alfonso"
+      ]
+    },
+    {
+      "frase": "Nosotros, de Franja Morada, custodiamos al Dr.",
+      "entidades_detectadas": [
+        "Franja Morada",
+        "Nosotros"
+      ]
+    },
+    {
+      "frase": "Armendariz, entonces gobernador, junto a Alfonso, quien no esperaba ganar.",
+      "entidades_detectadas": [
+        "Armendariz",
+        "Alfonso"
+      ]
+    },
+    {
+      "frase": "Estábamos en el comité provincial y habían sobrado 100.000 afiches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Salimos a repartirlos, y en un momento, los peronistas, “primos nuestros”, pasaron en colectivos, derrotados pero sin violencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La democracia era una promesa para todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue un momento de mucha emoción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos pidieron saludar a Alfonsín, que salió al balcón.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Hicimos una ronda alrededor de Armendariz y su esposa.",
+      "entidades_detectadas": [
+        "Armendariz"
+      ]
+    },
+    {
+      "frase": "Cruzamos Plaza del Congreso, rodeados de policías con cascos y bastones.",
+      "entidades_detectadas": [
+        "policías",
+        "Plaza del Congreso"
+      ]
+    },
+    {
+      "frase": "Esperábamos la represión, pero uno de nuestro grupo dijo: “Ahora pasa el gobernador”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El oficial se quitó el casco, lo puso bajo el brazo, y se hizo a un lado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se sometió a la fuerza de la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso era la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No la represión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo digo por Marulito, sino por la cantidad de personas desconocidas que uno ve y que dan vergüenza.",
+      "entidades_detectadas": [
+        "Marulito"
+      ]
+    },
+    {
+      "frase": "Se van acomodando en las listas…\n\nPero el tema principal de hoy es Chano.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "Escuché a su madre y me hizo llorar.",
+      "entidades_detectadas": [
+        "Escuché"
+      ]
+    },
+    {
+      "frase": "Todos hemos tenido hijos con problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi hija sufrió depresión y pánico, y encima murió su madre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "María, mi hija, ha sufrido mucho.",
+      "entidades_detectadas": [
+        "María"
+      ]
+    },
+    {
+      "frase": "Estuve a su lado durante su internación, que duró un año, después de seis meses.",
+      "entidades_detectadas": [
+        "Estuve"
+      ]
+    },
+    {
+      "frase": "Escuchaba a la madre de Chano y lloraba con ella.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "Uno no sabe qué se siente cuando un hijo sufre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puede ser la droga, el pánico, la bulimia, la anorexia, trastorno bipolar, esquizofrenia…  Debemos acompañar a nuestros hijos, pero hay momentos…  Disculpen la intensidad, pero quiero crear conciencia.",
+      "entidades_detectadas": [
+        "Disculpen"
+      ]
+    },
+    {
+      "frase": "Hablé con Héctor Caballero, y digo que afortunadamente me pasó de todo, porque te ayuda a entender a la gente.",
+      "entidades_detectadas": [
+        "Hablé",
+        "Héctor Caballero"
+      ]
+    },
+    {
+      "frase": "Alberto Cormillot, un gran amigo, me contó que internó a su hija, que pesaba 28 kilos con la ropa mojada.",
+      "entidades_detectadas": [
+        "Alberto Cormillot"
+      ]
+    },
+    {
+      "frase": "Adriana, su esposa, una gran madre, la llevaba a la clínica.",
+      "entidades_detectadas": [
+        "Adriana"
+      ]
+    },
+    {
+      "frase": "Yo lloraba afuera, y cuando miré hacia adentro, vi un esqueleto fumando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La internamos, y llegó el día de la primavera.",
+      "entidades_detectadas": [
+        "llegó"
+      ]
+    },
+    {
+      "frase": "Yo no podía estar tranquilo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vi a la gente feliz en la calle, y mi hija estaba internada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A las 6 de la tarde, fui a buscarla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le pedí a la enfermera que me la dejara media hora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella estaba en otro mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sus manos temblaban y le sudaban.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La llevé a pasear por Núñez, y vi a chicas de la edad de mi hija, felices con sus novios.",
+      "entidades_detectadas": [
+        "Núñez"
+      ]
+    },
+    {
+      "frase": "Y yo paseaba a mi hija, desnutrida por la anorexia y la bulimia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lloro por demagogia, pero se me destroza el corazón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después vinieron otros problemas, cuando murió mi madre.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Hoy escuché a la madre de Chano.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "Decía “no puedo, no puedo”.",
+      "entidades_detectadas": [
+        "Decía “"
+      ]
+    },
+    {
+      "frase": "No podemos contener ese dolor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es culpa de los presidentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo se contiene a un joven en esa situación?",
+      "entidades_detectadas": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "frase": "En Estados Unidos hay una ley que te permite hacerte cargo y evitar problemas legales.",
+      "entidades_detectadas": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Pero acá hay que nombrar un tutor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy no se cómo estará Chano.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "Espero que bien.",
+      "entidades_detectadas": [
+        "Espero"
+      ]
+    },
+    {
+      "frase": "Pero el policía está procesado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La culpa la lleva el chico, pero hay miles como él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Chano es visible, pero hay miles.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "En cada casa hay un caso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En un país donde hablamos del aborto y la marihuana libre…  Claro, soy un demagogo.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Pero yo firmaría por el aborto y la marihuana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando tu hija se va en sangre…  No es la madre la culpable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es el padre el que debe hacerse cargo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado legaliza la droga y el aborto por votos.",
+      "entidades_detectadas": [
+        "Estado legaliza"
+      ]
+    },
+    {
+      "frase": "Festejan la pobreza en las villas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el sufrimiento de enterrar a un hijo…  lo sufren los padres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O cuando un hijo queda discapacitado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi hija se dedica a la política, y es una persona maravillosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Participó en programas de televisión, y la destruyeron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue un bullying.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es mejor poner a Cescord.",
+      "entidades_detectadas": [
+        "Cescord"
+      ]
+    },
+    {
+      "frase": "Espero que Chano se recupere.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "Todos tenemos un Chano en la familia.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "No es moderno pedir legalización de drogas o aborto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es más fácil drogar a un chico que alimentarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los señores de Puerto Madero, Nordea, Punta del Este, Miami, y el gobierno siguen haciendo negocios.",
+      "entidades_detectadas": [
+        "Nordea",
+        "Punta del Este",
+        "Miami",
+        "Puerto Madero"
+      ]
+    },
+    {
+      "frase": "Sacrificando a nuestros hijos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso votamos al payaso Marulito, creo que así se llama.",
+      "entidades_detectadas": [
+        "Marulito"
+      ]
+    },
+    {
+      "frase": "Pero el tema es mucho más serio.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cescord",
+    "Dejen",
+    "Gran Hermano",
+    "Marulito",
+    "Duna",
+    "Vacunémoslos",
+    "COVID-19",
+    "Alberto Cormillot",
+    "Nombre",
+    "Ninguno",
+    "¿Marulito?  Me",
+    "Franja Morada",
+    "llegó",
+    "Lindo",
+    "Disculpen",
+    "Núñez",
+    "Armendariz",
+    "Cruzamos Plaza del Congreso",
+    "Punta del Este",
+    "Estuve",
+    "Hablé",
+    "Alfonso",
+    "Chano",
+    "Participó",
+    "Quinta Presidencial",
+    "Decía “",
+    "Dr. Armendariz",
+    "Escuché",
+    "Claro",
+    "Salimos",
+    "Impresionante",
+    "qué Levinas",
+    "Levinas",
+    "María",
+    "Espero",
+    "La llevé",
+    "Festejan",
+    "El Estado",
+    "Puerto Madero",
+    "Nordea",
+    "Bien",
+    "Hicimos",
+    "Iba",
+    "Después",
+    "BMW",
+    "Perdón",
+    "En Estados Unidos",
+    "Ah",
+    "¿",
+    "policías",
+    "Miami",
+    "Alfonsín",
+    "Sacrificando",
+    "Héctor Caballero"
+  ]
+}

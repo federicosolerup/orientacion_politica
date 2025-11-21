@@ -1,0 +1,96 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 7,
+      "derecha": 9
+    },
+    "score_promedio": 0.567,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Hace exactamente un año, el 15 de marzo, pero del año pasado, del 2022, el presidente de la nación, por suerte, le declaraba la guerra a la inflación.",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández lo decía así.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, yo espero que esta semana podamos empezar a poner orden al tema de la deuda tremenda que heredamos con el Fondo Monetario.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero esto no es nada más que un sombrero que le cabe al presidente Alberto Fernández.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni rompiéndose la cabeza los empresarios para pagar los sueldos de los trabajadores, ni el Estado de la misma forma para mantener la planta pública, ni nosotros en nuestras casas para saber cómo llegamos con lo que tenemos en el bolsillo hasta fin de mes y volver a cobrar para llenar la heladera.",
+      "score": 0.226,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri, recordemos, no le había declarado la guerra, pero más o menos los brotes verdes...",
+      "score": 0.705,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fijate, si no, el gobierno de Cristina Fernández de Kirchner se fue con un 25% y un 30% de inflación.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El doble: Macri se va con el 54%, el doble de lo que se fue Cristina, y Alberto duplica ahora la inflación de Mauricio Macri.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esas cosas que en Argentina son siempre actuales, no dejan de tener vigencia, por suerte.",
+      "score": 0.17,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tanto dolor de cabeza trajo este número al presidente de la nación que tuvo un susto.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hubo actividad del presidente en esos dos días y ayer tuvo que ir al sanatorio Otamendi para ver qué le pasaba.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora le quiero preguntar, y ya nos vamos a meter con el análisis del tema de inflación, a Pablo un poquito sobre de qué se trata.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, Claudio, esto de lo del presidente de la nación, después de lo que fue el anuncio de inflación que superó, inclusive, lo que se esperaba, en principio...",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "su vez que el presidente estaba siendo trasladado al Otamendi, hizo ruido tanto en el oficialismo como en la oposición.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo, ¿qué le pasa al presidente?",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a contar un poquitito más en qué consiste esto y cómo va a ser el procedimiento que le harán al presidente en las próximas horas, en una próxima emisión.",
+      "score": 0.705,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 16
+  },
+  "etiqueta_original": "neutral"
+}

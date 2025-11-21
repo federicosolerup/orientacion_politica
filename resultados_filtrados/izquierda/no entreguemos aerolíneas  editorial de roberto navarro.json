@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El presidente [Nombre del presidente] implementa medidas que generan consecuencias negativas en el presente (hambre, enfermedad, desempleo, pobreza) y en el futuro (situación de las universidades y la ciencia).",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El Estado debe garantizar servicios esenciales como el transporte ferroviario, la electricidad, las comunicaciones y la aviación.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Se critica la repetición de políticas privatizadoras, recordando las privatizaciones impulsadas en la década de 1990 por [Nombre del periodista] y [Nombre del Presidente en los 90].",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Carlos Menem, otorgándole amplios poderes al ejecutivo.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Se describe el estado de la empresa antes y después de la privatización de 1990, destacando la pérdida de activos, personal capacitado y la acumulación de una deuda de 900 millones de dólares y un patrimonio negativo de 2.500 millones de dólares en 2008.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Se incluye un fragmento del discurso de Cristina Fernández de Kirchner sobre la reestatización de la empresa en 2008, donde expresa el compromiso del Estado en su recuperación.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "estado",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Se menciona el pago de salarios por parte del Estado durante la privatización y la inversión necesaria para la reconstrucción de la empresa.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Se señala la necesidad de que el Estado controle sectores estratégicos como el petróleo, el gas, la electricidad y el agua.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

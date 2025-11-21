@@ -1,0 +1,216 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 33,
+      "derecha": 7
+    },
+    "score_promedio": 0.252,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y hoy, la Argentina y el mundo están muy consternados, tomados por la noticia del fallecimiento del **Papa Francisco**.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso no impide que haya un estado de mucha emoción y de reflexión alrededor de lo que ha significado este Papa para la historia de la Iglesia y también, obviamente, para la historia de la Argentina.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para desentrañar esas preguntas, hoy vamos a contar con la compañía que nos tiene muy honrados del arzobispo de Buenos Aires, **Monseñor Jorge García Cuerva**, con quien vamos a estar dialogando en un ratito acerca de justamente la figura del Papa Francisco y su legado.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué cosas hizo el Papa Francisco de las cuales es muy probable que la Iglesia no pueda volver atrás?",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Monseñor García Cuerva viene de celebrar una misa en la Basílica de Flores, el barrio del Papa, y en esa misa había muchísimos jóvenes y también había muchos transexuales que se vieron reconocidos, que se vieron aceptados por la modalidad que introdujo Francisco en el modo en que la Iglesia tramita estas cuestiones de carácter moral.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto ocasionó un revuelo tremendo en muchas comunidades, por ejemplo en la Iglesia de los Estados Unidos, donde hay corrientes muy conservadoras.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas posturas de Francisco pusieron a la Iglesia en tensiones enormes, en muchos casos hasta se habló de la posibilidad de cismas porque hubo obispos que se enfrentaron abiertamente con estas posiciones del Papa.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es Francisco mirado desde lo que sería la vida eclesiástica, pero hay otro mensaje u otro rol de este Papa que toca la vida de la Iglesia, pero toca a aquellos que no son religiosos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas ideas: solidaridad, inclusión, misericordia, lo convertían desde el punto de vista laico, desde el punto de vista profano, en algo así, podríamos decir, como el defensor de un estado de bienestar que entró en crisis, que es visto como una antigualla, como algo que pertenece al pasado.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era alguien, obviamente, muy politizado, pero los que lo conocieron bien, bien de cerca, a lo largo de los años, afirman: cuidado, no hay que confundirse, porque Bergoglio podría ver en determinadas organizaciones políticas, por ejemplo, en el peronismo, un instrumento estratégico más eficaz para promover sus ideas o sus valores, pero la organización de Bergoglio era la Iglesia.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las páginas de La Nación se ha descripto sistemáticamente esa postura y las vinculaciones entre el pensamiento de Bergoglio y la tradición nacionalista lorizanata.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este momento hay en la web de La Nación una nota de, que es un experto en la historia de la Iglesia.",
+      "score": 0.225,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay algunas figuras que le resultaban más simpáticas que otras en el elenco político argentino.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, **Joaquín Morales Solá**, que escribe un retrato de Bergoglio al que él estuvo muy ligado, destaca la relación o la predilección de Bergoglio por **Esteban Bullrich**.",
+      "score": 0.577,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era obvio que le gustaba mucho y tenía una relación muy cercana con **Juan Grabois**, lo cual molestaba a mucha gente por el carácter conflictivo de la figura de Grabois.",
+      "score": 0.307,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, todo esto puede producir un malentendido, insisto, que es ver solamente a Bergoglio desde el punto de vista de un político, de un político al que le gustaba la religión.",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, era un religioso al que le gustaba la política.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una teología o una forma de entender el fenómeno social desde la religión, que entiende los problemas sociales, pero también, sin olvidarse de la dimensión espiritual que hay detrás de esos problemas.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que el Papa hizo durante la presidencia de Obama un viaje muy significativo a los Estados Unidos y Obama escribe lo siguiente, dice: el Papa Francisco fue un líder excepcional que nos inspiró a ser mejores personas, con su humildad y sus gestos, y acá, esto me llamó la atención, porque describe muy bien quién era Bergoglio, sencillos y profundos a la vez.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era envidiable la forma en que Bergoglio podía expresar ideas muy profundas de manera muy sencilla, ideas que se notaban que estaban muy elaboradas, pero de manera muy simple, con su humildad y sus gestos, sencillos y profundos a la vez, abrazar a los enfermos, atender a las personas sin hogar, lavar los pies a los jóvenes presos, nos sacó de nuestra complacencia y nos recordó que todos tenemos obligaciones morales con Dios y con los demás.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que sigamos escuchando su llamado a nunca permanecer al margen de esta marcha de esperanza viva, es el mensaje del ex presidente Obama, que no es católico, que veía esto en el Papa, algo que trascendía el mundo del catolicismo.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque probablemente ha sido el líder religioso y no religioso que con mayor claridad y más temprano vio que en la Argentina se había producido una mutación y una mutación dolorosa, que es que la pobreza dejó de ocupar un lugar marginal y empezó a ocupar el centro.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que la Argentina había dejado de ser un país con pobres para ser un país con pobreza, con un fenómeno complejo, sistémico en su corazón.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos son todos problemas que ocuparon el centro de las preocupaciones de Bergoglio, ligados a toda esta ideología que tiene que ver con la teología del pueblo, la teología de la pobreza y que se expresaba en una dimensión política y que le da al mensaje a Bergoglio un significado especial ahora, sobre todo después de la derrota del peronismo, porque esos valores que muchos reprochan al peronismo por su manipulación en los últimos años terminaron teniendo en Bergoglio una voz extraordinariamente legítima cuando la política empezó a tener cierto conflicto con esa agenda, que es la agenda de la solidaridad.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo recuerdo que un amigo mío español, muy católico, al poco tiempo de que Francisco se hizo cargo de la conducción del Vaticano, habló con un cardenal que volvía de Roma a Madrid y mi amigo le pregunta: bueno, ¿y?",
+      "score": 0.637,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y este cardenal le dice: no sabemos muy bien quién es, no sabemos muy bien cómo piensa, esto, a los meses de que hubiera sido elegido como Papa, no sabemos muy bien quién es, no sabemos muy bien cómo piensa, de lo que sí estamos seguros es de que manda.",
+      "score": 0.457,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el líder político que hoy falleció y le vamos a preguntar también a Jorge García Cuerva por qué supone él que postergó tanto ese viaje a la Argentina, cuál fue la razón que él, el arzobispo de Buenos Aires, se plantea para explicarse por qué ese viaje finalmente, que lo había pensado el año pasado para realizar pronto, se hablaba de marzo de este año, pero finalmente no se hizo.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y bueno, porque está el eterno problema que tanto inquieta al presidente y lo pone tan nervioso del verdadero nivel de atraso cambiario que en la Argentina hiciera este dólar que el gobierno pretende que siga cayendo, es un dólar que es una palanca correcta para salir del estancamiento, para que la economía crezca.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, al gobierno lo que más le preocupa hoy no es el crecimiento, no es la preservación del tejido productivo, ni siquiera el empleo.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le preocupa no ir a las elecciones con un rebote inflacionario, porque lo que se valora de Milei hasta ahora es haber dado una pelea exitosa contra la inflación.",
+      "score": 0.43,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, porque es el desafío de las elecciones, pero porque reaparece en la Argentina este problema que estábamos mencionando, el problema del nivel de actividad, el problema de la preservación del empleo, el problema de la preservación del capital acumulado, sobre todo de las empresas más vulnerables o más débiles, y esto tiene todo que ver con la cuestión cambiaria.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese era Bergoglio, ese era su mensaje y ahora lo vamos a escuchar al arzobispo de Buenos Aires, hablarnos desde la plataforma en la que él está instalado, que es la conducción de la Iglesia, qué significa Bergoglio para la Iglesia como Papa y para la Iglesia argentina y para la Iglesia de Buenos Aires de la que fue líder.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es el principal puente entre Milei, nada menos que entre Milei y **Donald Trump**.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un hombre muy influyente dentro del gobierno, que tiene contratos con el Estado desde antes de Milei, pero que hoy está en un corredor importantísimo de poder entre la Argentina y los Estados Unidos.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya hay carteles hoy que dicen Cristina Kirchner 2025, candidata este año y no es en cualquier lugar.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta es, ¿por qué los consultores políticos, que antes eran meros asesores técnicos para que el líder político, el candidato, el presidente se relacione con la opinión pública, pasan a ser casi los jefes de gabinete de los gobiernos?",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué los presidentes le entregan el gobierno cada vez más frecuentemente a un consultor de opinión pública, en el caso de la Argentina, Milei, y la delegación de poder en el mago del Kremlin, en **Santiago Caputo**?",
+      "score": 0.381,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Volvemos al caso de Scaturice, que maneja la CIPAC desde Estados Unidos en vinculación con la Argentina y tiene una gravitación enorme en Santiago Caputo.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La problemática que encarnó en aquel momento el juicio a la junta, si todos los dilemas que trajo a la democracia recién nacida de la Argentina en los años 80.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque va a haber aquí en La Nación Más un programa especial en vivo dedicado a la figura, a la biografía, al significado del Papa Francisco a nivel universal y a nivel argentino.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 40
+  },
+  "etiqueta_original": "neutral"
+}

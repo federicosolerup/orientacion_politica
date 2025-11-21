@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 1,
+      "derecha": 4
+    },
+    "score_promedio": 0.754,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Muy bien, y obviamente, al final reapareció Cristina Fernández de Kirchner para festejar la victoria, confirmada por el escrutinio definitivo, de la cual la mayoría de los medios hemos hablado casi desde el día siguiente a la elección.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reapareció la Cristina contradictoria que llama a la unidad pero divide.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cristina que ve una conspiración universal de los medios, de los poderosos, de los comerciantes, de la gente, de todos, contra ella.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y reapareció la persona que cree que hay pobres en Argentina porque gobierna Macri, que los hay, pero que cuando ella gobernó, por la naturaleza del paraíso, todo era diferente.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Volvió la Cristina de siempre, total y absolutamente incorregible.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

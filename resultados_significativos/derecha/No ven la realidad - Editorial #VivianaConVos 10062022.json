@@ -1,0 +1,441 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 69
+    },
+    "score_promedio": 0.723,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Pero los voy a saludar porque hoy vamos a conversar, voy a tener un mano a mano con el candidato a presidente para el 2023 desde Paraguay, **José Luis Chilavert**.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No solo en la política, que ya lo viene haciendo, sino ahora como candidato a presidente por Paraguay.",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a arrancar con el editorial de hoy, pero no puedo dejar de decir, se lo decía recién a **Campolongo**.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y recién se lo decía a **Juan Manuel Dragani**.",
+      "score": 0.789,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dije a **Juan Manuel Dragani**, che, ¿culpas al final?",
+      "score": 0.572,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hacer tu vida ahí porque da lo mismo ser una cosa, ser decente, que ser un delincuente, lamentablemente, en la Argentina de hoy.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras la gente en la Argentina la pasa mal y se muere de hambre.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A un pibe que va a bailar le rompen la mandíbula por ser \"pincho\".",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el exministro **Matías Kulfas** declaró ante la justicia por la supuesta corrupción en la construcción del gasoducto Néstor Kirchner.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él se hizo bien el boludo, algo que le encanta hacerse a este gobierno.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"No, usted me merece el respeto, pero yo quiero saber si hubo corrupción o no.",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"No, usted me merece el respeto, pero yo quiero saber si hubo corrupción o no\".",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, cuando le preguntaron a Kulfas por Cristina Fernández de Kirchner, lo vamos a conversar y a debatir en la mesa hoy.",
+      "score": 0.731,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo huele mal en el gasoducto Néstor Kirchner.",
+      "score": 0.664,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos podés decir lo que se te cante del presidente **Alberto Fernández**, pero ojo si te metés con la vicepresidenta Cristina Fernández de Kirchner.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si te metés con Alberto no pasa nada, pero si te metés con ella, sos \"boleta\".",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el presidente, que anda de gira defendiendo a Venezuela en Los Ángeles, en los Estados Unidos, habló del tema, dijo que **Kulfas** es un gran ministro, pero que además cometió un gran error.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Matías fue un gran ministro que cometió un gran error que yo no acepté, dice Alberto Fernández.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo echó Cristina Fernández de Kirchner por un tuit.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no para de mentirnos, esto lo vimos todos los argentinos, por un tuit.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted cuidó su trasero, como siempre.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y usted sabe que de eso no se habla, no ven la realidad.",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ella no le arruinen los negocios, por eso son \"boleta\".",
+      "score": 0.699,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero también ha sido muy grande la pérdida de los valores morales de nuestra sociedad.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a conversar enseguida con José Luis Chilavert, de Paraguay, candidato a presidente por Paraguay para el 2023.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La corrupción en Argentina y la corrupción en Paraguay.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo igual no diría \"prohibió\", porque le ponen \"prohibido\" a todo, no es \"prohibido\".",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le quiero decir al oficialismo y a la izquierda que inclusión no es decir \"chiques\", \"todes\", arroba y qué sé yo.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pido al oficialismo, le pido a la izquierda y algunos también, otros opositores, que se ocupen.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra que no importa de qué partido seas, está lleno de burros el Congreso y nosotros, el rebaño de pelotudos, los elegimos.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, el dólar se dispara, tenemos 19 provincias sin combustible, pero ah, miren ahí a Alberto con la mujer.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Mantenemos a Alberto y Fabiola para que paseen por el mundo defendiendo a Nicolás Maduro mientras media Argentina se parte de hambre\", ¿entienden?",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros le estamos pagando a Alberto y a toda esta comitiva para que vayan a defender una dictadura como es Venezuela.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, mientras el presidente defiende a Maduro, ¿que se acuerdan lo que Maduro decía?",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández lo \"bardeaba\", lo \"basuriaba\", bueno, fue a quedar seguramente bien con Cristina, Alberto Fernández, pero fue a defender a Venezuela, era lo único que le importaba.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El presidente de la Comunidad de Estados Latinoamericanos y Caribeños, el presidente argentino Alberto Fernández, que es nuestro presidente de la Comunidad, ha hecho un discurso firme, claro, valiente, y puso todo en su lugar a nombre de América Latina y del Caribe\".",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después de protestar y rechazar la exclusión frente al propio presidente Biden, que lo tenía al frente, le dijo, \"nosotros tenemos nuestra Comunidad de Estados Latinoamericanos y Caribeños, que se reunirá en plenaria en los próximos meses\".",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, si lo tenemos a Nicolás Maduro de amigo, ¿para qué queremos enemigos?",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ir a esta cumbre a hablar y a defender a Maduro, a defender una dictadura, ¿en qué lugar nos pone el presidente y este gobierno frente al mundo?",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que va a la cumbre de las Américas a hablar por Venezuela y no por Argentina.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con los problemas económicos que tenemos en Argentina, este presidente va a Estados Unidos a defender a Venezuela y a Cuba.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este presidente va a Estados Unidos a defender a Venezuela y a Cuba.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, el presidente termina haciendo buena letra con Cristina Fernández de Kirchner.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un tape después para poner en Estados Unidos en una entrevista con un medio internacional, habla de Cristina como la presidenta.",
+      "score": 0.285,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este Alberto Fernández es el mismo que iba en la boleta con Cavallo y ahora lo defiende a Maduro.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podemos negar, nadie puede negar que tenemos un presidente \"todoterreno\".",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De Alberto Fernández y la primera dama, y el matrimonio presidencial.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le muestra la foto de su hijo recién nacido.",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, porque Alberto Fernández y Fabiola Yáñez, a diferencia del rebaño de pelotudos, tienen coronita.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que durante años ustedes nos mostraron un millón de inauguraciones con hospitales que se llaman Néstor Kirchner.",
+      "score": 0.81,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que mostraste es una maqueta y seguramente eso, ojalá me equivoque, va a ser una maqueta o una mentira como todos los hospitales Néstor Kirchner que inauguraron 60 veces.",
+      "score": 0.446,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad que si algo le envidio a Ofelia y a todos ellos, a Máximo, es el nivel de autoestima que tienen y lo bien que se sienten en ese mundo irreal en el que viven, con la nuestra y a la nuestra.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo, sobre todo, porque, por ejemplo, esos espacios no son una gran concesión del poder.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero escucharla dando clases de feminismo en el conurbano profundo, en Formosa, en esos lugares para empoderar a las mujeres formoseñas.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellas, de la banda de Grabois y compañía, se hacen los cul.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina en la que estamos viviendo es insoportable.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué quiere ser presidente de los paraguayos?",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué siente él que tiene para darle a Paraguay que no le han dado hasta ahora los últimos presidentes que han tenido?",
+      "score": 0.609,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gente que está trabajando y se le genera a esta gente que están trabajando, recién uno les ofreció una pala a los que estaban pasando.",
+      "score": 0.312,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quién fue el que le mostró la pala a la gente que pasaba?",
+      "score": 0.554,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no lo podemos mostrar porque a él le agarró un infarto alguno.",
+      "score": 0.676,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente que está trabajando y se le genera a esta gente que están trabajando, recién uno les ofreció una pala a los que estaban pasando.",
+      "score": 0.32,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quién fue el que le mostró la pala a la gente que pasaba?",
+      "score": 0.554,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no lo podemos mostrar porque a él le agarró un infarto alguno.",
+      "score": 0.676,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que están en las marchas, cortándote la ciudad, a vos que le pagás, que no podés circular, es gente sana, es gente que puede exactamente hacer lo mismo, o no sé.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá que se termine esta cultura y esta Argentina de vivir con la guita del otro, del que se fuerza.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién paga en la Argentina 165 impuestos?",
+      "score": 0.545,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie paga en la Argentina 165 impuestos.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le calienta nada.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le calienta nada.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuánto quilombo con casi 20 provincias sin gasoil?",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, de verdad, le digo a la gente de este gobierno, mientras Alberto y su mujer, y la comitiva de no sé cuánto, que agarramos nosotros, el rebaño de pelotudos, siguen de fiesta y de joda en Los Ángeles.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No le dan pena Moyano, Hugo, Pablo, los camioneros, tus camioneros tirados en la ruta porque no tienen gasoil, cagados de frío, de hambre?",
+      "score": 0.994,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta es, ¿no les importa, no les da vergüenza, no les causa horror, angustia, tener a todos esos camioneros tirados en la calle?",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Enseguida conversamos con José Luis Chilavert, candidato a presidente 2023 por Paraguay.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hubo casualidad que el presidente va a la cumbre de las Américas en Los Ángeles, en Estados Unidos, para hablar de un dictador y de una dictadura como la de Nicolás Maduro en Venezuela.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como buen político populista cholulo, le importa más la foto que la obra.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es Milei en vivo ahora.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que Argentina vuelva a ser potencia\".",
+      "score": 0.444,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no te gusta, no lo mires, no le des bola.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei es un montón.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero de verdad, contra Milei y no contra Alberto Fernández y contra Cristina Fernández de Kirchner, ustedes no ven la realidad.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ingresó al Senado el proyecto del gobierno para ampliar a 25 los miembros de la Corte Suprema.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos que compran perchas, ponen bancos rojos y que no sirven para absolutamente nada.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, Argentina 2022 tiene de todo.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 85
+  },
+  "etiqueta_original": "neutral"
+}

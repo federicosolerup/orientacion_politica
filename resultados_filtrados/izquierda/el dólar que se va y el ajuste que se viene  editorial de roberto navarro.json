@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Recordemos que al asumir [Nombre del Ministro], Argentina atravesaba una de las peores sequías de su historia,  posiblemente la más grave en más de un siglo.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Los argentinos viajan a países como Brasil y el Caribe, generando una mayor demanda de dólares.",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "Sin embargo, esta estrategia de reducción del Estado podría perjudicar a los sectores más vulnerables.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Clarín publicó que el 70% de los jubilados acceden a medicamentos gratuitos, dato que ha sido cuestionado.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Finalmente, se alerta sobre un potencial ajuste aún más severo, que podría incluir el cierre de hospitales, la eliminación del PAMI (Instituto Nacional de Servicios Sociales para Jubilados y Pensionados) y la privatización de universidades.",
+      "entidades_detectadas": [
+        "pami"
+      ]
+    }
+  ]
+}

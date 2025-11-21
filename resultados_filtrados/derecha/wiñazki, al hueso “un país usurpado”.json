@@ -1,0 +1,82 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Durante el fin de semana, el Ministerio de Seguridad bonaerense, a cargo de Sergio Berni, desactivó cuatro intentos, con detenciones.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Esto se debe a una combinación de factores: personas necesitadas de vivienda ante la ausencia del Estado (falta de cloacas, luz, etc.), y negocios de punteros políticos; en el caso de Moreno, la participación de una barra brava provocó un tiroteo con consecuencias fatales.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Grabois residió dos años en San Martín de los Andes,  vinculándose con grupos que se autodenominan mapuches, algunos con posturas más radicalizadas (incluyendo al supuesto cacique Facundo Jones Huala, en cuyo territorio murió Santiago Maldonado).",
+      "entidades_detectadas": [
+        "grabois"
+      ]
+    },
+    {
+      "frase": "Con la colaboración de Oscar Parrilli, se izó por primera vez en Argentina la bandera de la nación mapuche (no reconocida por el Estado) en el centro de San Martín de los Andes.",
+      "entidades_detectadas": [
+        "argentina",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Estos grupos, que rechazan al Estado argentino, buscan conformar una nación mapuche binacional que trascienda la frontera con Chile, recurriendo a la violencia (casas incendiadas, etc.).",
+      "entidades_detectadas": [
+        "nación",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Con el caso Maldonado, la situación cambió: el Estado tomó partido por quienes usurpan tierras.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Aníbal Fernández (Ministro de Seguridad de la Nación) minimiza la cuestión de seguridad en las usurpaciones, contradiciendo el Código Penal y las declaraciones de Sergio Massa (presidente de la Cámara de Diputados), quien propone desalojos y la quita de beneficios sociales.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa",
+        "fernández",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Sergio Berni también aboga por los desalojos.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Se rumorea que Berni habría sugerido a Fernández que traslade a los mapuches a su casa.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Finalmente, existe una disputa por el territorio del Congreso de la Nación.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "La oposición pretende sesionar presencialmente, mientras Massa opta por sesiones remotas, con apoyo del gremio legislativo.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Argentina está dividida y paralizada; ni siquiera los legisladores pueden desplazarse libremente.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

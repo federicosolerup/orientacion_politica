@@ -1,0 +1,66 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Tras tres semanas catastróficas que comenzaron con la corrida del dólar, siguieron el incendio en Misiones, la omisión en la compra de gas, la abrupta salida del jefe de Gabinete, la comida en mal estado y el consiguiente caos con historias de espías, amenazas, secuestros, presiones a un funcionario, denuncias falsas, atentados y otras irregularidades, la aprobación o no de la ley fundamental puede ser decisiva.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ayer, un hecho que pasó increíblemente desapercibido: Fitch, una de las calificadoras de riesgo más importantes del mundo, otorgó a Argentina la calificación de CC, un indicador previo al default.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Esto significa que Argentina está al borde del default; esto ocurrió ayer.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Los inversores están percibiendo que Argentina está a punto de caer en default.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Utilizo el término \"algunos dicen\" de la misma manera que lo hacen Clarín y La Nación [Se reemplazó \"Olazion\" por \"La Nación\", asumiendo una referencia a este medio].",
+      "entidades_detectadas": [
+        "nación",
+        "clarín"
+      ]
+    },
+    {
+      "frase": "¿Qué ha ocurrido en Argentina en los últimos años?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Ingresarían a Argentina importantes cantidades de dólares que podrían poner fin al ciclo de \"stop and go\" que comenzó en la época de Perón, donde la economía crece, se queda sin dólares, se contrae, vuelve a crecer, se queda sin dólares y así sucesivamente, generando corridas cambiarias, inflación e hiperinflación.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Entonces, Argentina podría convertirse en una Australia o una Canadá, un país desarrollado que impulsa su industria con insumos baratos y genera empleos de calidad.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La ley, en su estado actual, no contempla esto.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Se pensaba que solo el presidente y su círculo íntimo compartían esta postura, pero al parecer,  [Nombre del Diputado/a - se eliminó \"lustró\"], también está de acuerdo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

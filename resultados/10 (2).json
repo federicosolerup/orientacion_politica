@@ -1,0 +1,501 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El cruce de avenida, está bien.",
+      "entidades_detectadas": [
+        "avenida",
+        "está"
+      ]
+    },
+    {
+      "frase": "Hablo con Hernando Bocco, exdirector del Banco Central, que sigue funcionando e incluso interviene en el mercado.",
+      "entidades_detectadas": [
+        "Hernando Bocco",
+        "Banco Central",
+        "Hablo"
+      ]
+    },
+    {
+      "frase": "No puede ser que padezcamos un error, pero bueno… Hernando Jorge Rialde de Radio 10, buen día.",
+      "entidades_detectadas": [
+        "Hernando Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "— ¿Qué tal Jorge?",
+      "entidades_detectadas": [
+        "Jorge",
+        "¿Qué"
+      ]
+    },
+    {
+      "frase": "Buen día, ¿cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá me dicen que el Banco Central sigue funcionando.",
+      "entidades_detectadas": [
+        "Acá",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "— No, no, Hernando, mentira, esto lo… Sí, sin Banco Central, obviamente.",
+      "entidades_detectadas": [
+        "Hernando"
+      ]
+    },
+    {
+      "frase": "Están todas las regulaciones, maneja el tiempo, nada más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo puedo creer, esto no es un engaño electoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué tradición?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer empezó a correr la versión, a la que aludí, sobre el oro.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Lo estábamos hablando ahora, que se habían llevado las reservas de oro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá me dicen que es una especie de empeño, de caución.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "¿Esto es cierto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se puede hacer?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "— No tengo información precisa, pero si ocurrió algo así, creo que es parte de una garantía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me llama la atención que Basilea lo pida.",
+      "entidades_detectadas": [
+        "Basilea"
+      ]
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque Basilea es, en general, el banco central de los bancos centrales.",
+      "entidades_detectadas": [
+        "Basilea"
+      ]
+    },
+    {
+      "frase": "Tiene línea abierta con todos los bancos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si no presta Basilea para operaciones de corto plazo, lo hace el Banco de Francia o el Banco de España.",
+      "entidades_detectadas": [
+        "Banco de España",
+        "Banco de Francia",
+        "Basilea"
+      ]
+    },
+    {
+      "frase": "O alguno de los bancos centrales europeos generalmente intervienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero ese dato no lo tengo; no podría decirte si es real.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el pasado sí se pidió, pero nunca se movieron las reservas porque están depositadas en algún lugar del mundo, en las bóvedas que garantizan su seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— ¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "Andrés Lerner"
+      ]
+    },
+    {
+      "frase": "— Hola Andrés, buen día.",
+      "entidades_detectadas": [
+        "Hola Andrés"
+      ]
+    },
+    {
+      "frase": "— En la época de Sturzenegger no hubo una operación de ese tipo en 2017, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Sturzenegger"
+      ]
+    },
+    {
+      "frase": "— Sí, sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque Argentina puede acceder a dos o tres mil millones de dólares bastante rápido con esos bancos centrales.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Entonces, habitualmente se usan esas líneas en operaciones financieras a corto plazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— ¿Les sorprendieron estas últimas medidas del gobierno, Armando?",
+      "entidades_detectadas": [
+        "Armando",
+        "¿Les"
+      ]
+    },
+    {
+      "frase": "— Sí, la verdad que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me viene sorprendiendo un tema de fondo, Jorge, que me parece vital: el problema de Argentina no es fiscal.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "En cualquier parte del mundo el Estado se financia con colocación de deuda local o internacional sin problema.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Argentina no es sujeto de crédito a nivel mundial, pero sí localmente.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El problema de Argentina, históricamente (hace 120 años), es el sector externo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "No tiene divisas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tiene cuando crece porque las importaciones nunca se terminaron de sustituir y hay que destinar una parte de las reservas para comprar bienes importados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en las crisis, se fuga capital y se secan las arcas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si Argentina no reconstituye su patrón de solvencia, que es acumular reservas, toda la política macroeconómica es inconsistente.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El problema de fondos es ese.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Brasil lo resolvió.",
+      "entidades_detectadas": [
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, Lula impidió el endeudamiento en dólares desde 2003.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Y el inversor que quiere comprar bonos brasileños emitidos por el Estado lo hace en reales.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Entre 2003 y 2024, el real pasó de 3,70 a 4,70.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros tenemos un peso con un valor incierto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay necesidad de administrar el comercio exterior de otra manera, porque eso redunda en una mayor solvencia y eficacia del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Poner el eje en lo fiscal y provocar una recesión con una caída del 5% del producto interno bruto y 200.000 desocupados en seis meses es someter a la sociedad a un estrés innecesario, y todo indica que puede profundizarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy interviene el Banco Central, el Estado, genera otra perspectiva, y la gente confía por unos días, pero ayer el mercado cayó casi un 12%.",
+      "entidades_detectadas": [
+        "Banco Central",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Hay acciones argentinas que tuvieron una pérdida patrimonial importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bajó el dólar, pero también el patrimonio de las empresas que cotizan en bolsa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y hoy, antes de la apertura, los bonos argentinos ya están cayendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto significa que las medidas no han generado la confianza esperada en inversores locales e internacionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hay problemas con el FMI, es porque negociamos con una entidad que prestó una gran cantidad de dinero y Argentina no da certidumbre sobre determinados pasos.",
+      "entidades_detectadas": [
+        "FMI",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "— ¿Y si van a Trump, crees que eso puede inclinar la balanza en una nueva negociación con el FMI?",
+      "entidades_detectadas": [
+        "¿",
+        "FMI",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "— Somos un país muy poco relevante para que Trump se preocupe por Argentina.",
+      "entidades_detectadas": [
+        "Somos",
+        "Argentina",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Seguramente no lo hará, sobre todo si hay una elección que fortalece una línea en Venezuela distinta a la de Estados Unidos.",
+      "entidades_detectadas": [
+        "Venezuela",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Necesitará un aliado en la región, pero no confiamos en eso.",
+      "entidades_detectadas": [
+        "Necesitará"
+      ]
+    },
+    {
+      "frase": "Estados Unidos tiene bastantes problemas con la pérdida de poder internacional como para pensar en si Milei es amigo o no.",
+      "entidades_detectadas": [
+        "Milei",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Si le resuelven el problema una vez, no siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— Mauro, ¿qué tal?",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "— Ayer hablaba con un analista estadounidense, argentino, que trabaja para empresas y gobiernos, y me decía que hay gente que comete el error de comparar a Trump con Milei, como si Milei fuera un \"Trumpcito\".",
+      "entidades_detectadas": [
+        "Milei",
+        "Ayer",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Más allá de que ambos sean directos y se refieran a cuestiones de forma a veces brusca, no tienen nada que ver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno es la cabeza de una corporación enorme, el otro era panelista de televisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen historias y construcciones políticas distintas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trump tiene al Partido Republicano alineado, y Milei, cuatro gatos locos.",
+      "entidades_detectadas": [
+        "Milei",
+        "Trump",
+        "Partido Republicano"
+      ]
+    },
+    {
+      "frase": "Las comparaciones son ociosas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trump busca darle a Estados Unidos un papel protagónico que ha perdido.",
+      "entidades_detectadas": [
+        "Estados Unidos",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Estados Unidos tiene casi el mismo producto bruto que China, y China en 25 años ha crecido de forma relevante.",
+      "entidades_detectadas": [
+        "China",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Estados Unidos tenía el 33% del producto mundial hace 25 años, hoy tiene el 20%, China también el 20%.",
+      "entidades_detectadas": [
+        "China",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Trump tiene que ganar ese espacio.",
+      "entidades_detectadas": [
+        "Trump"
+      ]
+    },
+    {
+      "frase": "No digo que no se encamine a un compromiso con Argentina, pero no me parece central.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Tenemos que resolver el tema del FMI.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "En la década del 80, Raúl Alfonsín le pidió a Felipe González apoyo para resolver una crisis.",
+      "entidades_detectadas": [
+        "Felipe González",
+        "Raúl Alfonsín"
+      ]
+    },
+    {
+      "frase": "González le dijo que arreglara primero con el FMI.",
+      "entidades_detectadas": [
+        "FMI",
+        "González"
+      ]
+    },
+    {
+      "frase": "Si estamos peleándonos con el FMI, no estamos resolviendo el problema.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Me quedo más tranquilo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Arnaldo Gustavo, un abrazo.",
+      "entidades_detectadas": [
+        "Arnaldo Gustavo"
+      ]
+    },
+    {
+      "frase": "Gracias Jorge, gracias a la mesa.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Banco Central",
+    "¿Qué",
+    "Somos",
+    "Andrés Lerner",
+    "avenida",
+    "Lula",
+    "Sturzenegger",
+    "Bajó",
+    "Hernando Jorge Rialde",
+    "Hernando Bocco",
+    "Exacto",
+    "Mauro",
+    "China",
+    "Estado",
+    "Raúl Alfonsín",
+    "Banco de España",
+    "Banco de Francia",
+    "Felipe González",
+    "Trump",
+    "Acá",
+    "Estados Unidos",
+    "Jorge?",
+    "Argentina",
+    "Arnaldo Gustavo",
+    "Ayer",
+    "Gracias Jorge",
+    "FMI",
+    "González",
+    "Basilea",
+    "Tenemos",
+    "Brasil",
+    "Necesitará",
+    "¿Les",
+    "Hola Andrés",
+    "¿",
+    "Hablo",
+    "Venezuela",
+    "Jorge",
+    "Milei",
+    "Hernando",
+    "Partido Republicano"
+  ]
+}

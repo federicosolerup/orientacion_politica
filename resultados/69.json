@@ -1,0 +1,479 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En una entrevista en un crucero de lujo en Miami, se entrevistó a Victoria Toroza Paz, Ministra de Desarrollo Social de la Nación.",
+      "entidades_detectadas": [
+        "Ministra de Desarrollo Social de la Nación",
+        "Miami",
+        "Victoria Toroza Paz"
+      ]
+    },
+    {
+      "frase": "**Entrevista:**\n\n**Jorge Rialde (Radio Díaz):** Buenos días, Victoria.",
+      "entidades_detectadas": [
+        "Buenos días",
+        "Victoria",
+        "Jorge Rialde",
+        "Entrevista"
+      ]
+    },
+    {
+      "frase": "¿Qué tal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Victoria Toroza Paz:** Buenos días, Jorge, Mauricio, y a todo el equipo.",
+      "entidades_detectadas": [
+        "Mauricio",
+        "Jorge",
+        "Buenos días",
+        "Victoria Toroza Paz"
+      ]
+    },
+    {
+      "frase": "Comencemos por lo último.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer escuché el momento en que hablaba con [Nombre del entrevistador] sobre este tema.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "¿De qué se trata?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se refiere a esos planes sociales, a la gente que recibe estos beneficios y sus viajes de lujo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Victoria Toroza Paz:** Ustedes saben que la nómina del programa Potenciar Trabajo incluye a hombres y mujeres en Argentina que llegan al Ministerio de Desarrollo Social buscando un programa muy importante de inclusión laboral.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Ministerio de Desarrollo Social",
+        "Ustedes",
+        "Paz",
+        "Victoria Toroza"
+      ]
+    },
+    {
+      "frase": "Buscamos que las personas sin trabajo tengan un ingreso a cambio de una contraprestación en áreas educativas, productivas o sociocomunitarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, deben cumplir ciertos requisitos: no estar inscritos en ninguna categoría de la CIF, no tener ingresos y presentar vulnerabilidad social.",
+      "entidades_detectadas": [
+        "CIF"
+      ]
+    },
+    {
+      "frase": "Cualquier presunción de ingresos o riqueza implica la inmediata exclusión del programa, ya que contraviene la normativa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué ocurrió?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A partir de la semana pasada, el cruce de datos reveló debilidades en el sistema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde mi llegada al Ministerio, la primera medida fue una auditoría que generó mucho ruido, pero que permitió depurar el padrón.",
+      "entidades_detectadas": [
+        "Ministerio"
+      ]
+    },
+    {
+      "frase": "Dimos de baja a más de 110.000 beneficiarios en mi primer año de gestión, en línea con la postura del Ministro de Economía y el candidato presidencial Sergio Massa, de cuidar los recursos públicos.",
+      "entidades_detectadas": [
+        "Sergio Massa",
+        "Ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Aquello que no validaron su identidad fueron dados de baja.",
+      "entidades_detectadas": [
+        "Aquello"
+      ]
+    },
+    {
+      "frase": "Empezamos a incentivar el intercambio de información; creemos en un Estado inteligente y pedimos a todos los organismos que crucen datos, en este caso, para encontrar lo que encontramos a partir de la información de la Dirección Nacional de Migraciones.",
+      "entidades_detectadas": [
+        "Estado",
+        "Dirección Nacional de Migraciones"
+      ]
+    },
+    {
+      "frase": "¿Qué hay hoy en el padrón de Potenciar Trabajo?",
+      "entidades_detectadas": [
+        "Potenciar Trabajo",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Personas que, hace diez años sin ingresos, ahora, según sus declaraciones, iban a percibir el Potenciar Trabajo, pero luego se les detectó saliendo del país, no a países limítrofes, sino en vuelos aéreos con destinos como Europa, Estados Unidos, Sudáfrica o Turquía.",
+      "entidades_detectadas": [
+        "Sudáfrica",
+        "Turquía",
+        "Europa",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Esto evidencia ingresos no declarados, lo que lleva a la suspensión inmediata del programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:** ¿Qué requisitos había al solicitar el beneficio?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "¿Dónde está la falla, Victoria?",
+      "entidades_detectadas": [
+        "Victoria"
+      ]
+    },
+    {
+      "frase": "**Victoria Toroza Paz:** La informalidad es un gran problema en Argentina, con alrededor del 40% de la economía en la informalidad.",
+      "entidades_detectadas": [
+        "Paz",
+        "Argentina",
+        "Victoria Toroza"
+      ]
+    },
+    {
+      "frase": "Muchas personas no entienden que el Ministerio y el Estado deben cubrir las necesidades de los vulnerables; la informalidad no es sinónimo de vulnerabilidad social.",
+      "entidades_detectadas": [
+        "Ministerio",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Estas personas no figuran en las categorías de la AFIP, no pagan impuestos, pero reciben un plan social (Potenciar Trabajo) y presentan presunción de ingresos.",
+      "entidades_detectadas": [
+        "AFIP"
+      ]
+    },
+    {
+      "frase": "¿Quién puede comprar un pasaje aéreo a Europa?",
+      "entidades_detectadas": [
+        "Europa",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Están evadiendo la declaración de ingresos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La falla no está en el programa, sino en cómo construimos un Estado inteligente que cruce la información y en la responsabilidad ciudadana.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Los denunciados por el fiscal Marijuan son titulares de Potenciar Trabajo que declararon vulnerabilidad, pero que luego demostraron tener capacidad económica para viajar a Europa o Estados Unidos.",
+      "entidades_detectadas": [
+        "Marijuan",
+        "Europa",
+        "Potenciar Trabajo",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Un Estado que cruza más de 150 bases de datos:  nosotros cruzamos la nómina de Potenciar Trabajo mensualmente con la base de datos de CINTIS (más de 900 bases consolidadas), además de bases provinciales, registros de inmuebles, registros automotores, siempre respetando la Ley 25.326 (protección de datos personales).",
+      "entidades_detectadas": [
+        "Estado",
+        "Potenciar Trabajo",
+        "CINTIS",
+        "la Ley"
+      ]
+    },
+    {
+      "frase": "**Jorge Rialde:**  Victoria, en relación a la investigación de Marijuan… la semana pasada se habló de una filtración a los medios, que al parecer, no provino del Ministerio.",
+      "entidades_detectadas": [
+        "Ministerio",
+        "Marijuan",
+        "Victoria",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "El Ministerio constató 1.163 casos.",
+      "entidades_detectadas": [
+        "Ministerio"
+      ]
+    },
+    {
+      "frase": "El fiscal hablaba de cientos de miles de irregularidades, pero la información efectiva proviene del trabajo del Ministerio.",
+      "entidades_detectadas": [
+        "Ministerio"
+      ]
+    },
+    {
+      "frase": "¿Hablamos de 1.163 personas?",
+      "entidades_detectadas": [
+        "¿Hablamos"
+      ]
+    },
+    {
+      "frase": "**Victoria Toroza Paz:**  Hay una tendencia a la estigmatización.",
+      "entidades_detectadas": [
+        "Paz",
+        "Victoria Toroza"
+      ]
+    },
+    {
+      "frase": "Decir que 160.000 personas viajan en primera clase genera indignación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El fiscal obtuvo información de Migraciones y CINTIS, mezclando datos de 2009 a 2020, incluyendo personas fallecidas, lo que no refleja la realidad actual del Ministerio.",
+      "entidades_detectadas": [
+        "Ministerio",
+        "CINTIS",
+        "Migraciones"
+      ]
+    },
+    {
+      "frase": "Argentina tiene extensas fronteras terrestres (norte argentino, Bolivia, Jujuy, etc.), y es común que ciudadanos crucen la frontera por diversos motivos, incluso para asistir a funerales.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Jujuy",
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "La irregularidad no es salir del país, sino detectar un viaje de lujo, presunción de ingresos no declarados y falta de contraprestación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si alguien estuvo ausente tres semanas sin justificación, o no cumple con las cuatro horas semanales de trabajo, eso es una irregularidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:** Migraciones controla los cruces fronterizos.",
+      "entidades_detectadas": [
+        "Jorge Rialde",
+        "Migraciones"
+      ]
+    },
+    {
+      "frase": "¿Ustedes no lo hacen?",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "**Victoria Toroza Paz:** No nos dedicamos a eso.",
+      "entidades_detectadas": [
+        "Paz",
+        "Victoria Toroza"
+      ]
+    },
+    {
+      "frase": "Somos un ministerio que trabaja con personas en situación de vulnerabilidad social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Imponemos requisitos, pero en un contexto de informalidad, menos del 1% de los beneficiarios han vulnerado el sistema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tuvimos que profundizar en la información de Migraciones.",
+      "entidades_detectadas": [
+        "Migraciones"
+      ]
+    },
+    {
+      "frase": "Vamos a suspender a quienes obtengan ingresos del Estado de manera fraudulenta y construiremos un Estado inteligente que cruce información.",
+      "entidades_detectadas": [
+        "Estado",
+        "Estado de manera"
+      ]
+    },
+    {
+      "frase": "La baja de 110.000 planes en marzo fue dura, pero necesaria para proteger al 99% del programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 1% que intenta engañar al sistema deberá enfrentarse a la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay 1129 personas con vuelos aéreos a destinos no limítrofes y 34 que salieron en cruceros desde Buenos Aires.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "**Jorge Rialde:**  Hablemos de los planes sociales...",
+      "entidades_detectadas": [
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "Victoria, uno de los anuncios de Sergio Massa fue el \"Puente al Empleo\".",
+      "entidades_detectadas": [
+        "Puente al Empleo",
+        "Victoria",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "**Victoria Toroza Paz:**  Hay dos medidas previas a la anunciada ayer por Sergio Massa: el \"Puente al Empleo\" (generar condiciones para que los empleadores tomen a personas de Potenciar Trabajo durante 48 meses, el Estado paga la carga patronal y medio salario mínimo, vital y móvil), y la inclusión laboral a partir del 1º de enero de 2024.",
+      "entidades_detectadas": [
+        "Sergio Massa",
+        "Estado",
+        "Puente al Empleo",
+        "Paz",
+        "Potenciar Trabajo",
+        "Victoria Toroza"
+      ]
+    },
+    {
+      "frase": "Los 1.263.000 beneficiarios de Potenciar Trabajo pasarán a un programa de inclusión laboral, con 120 días de capacitación al año (4 meses).",
+      "entidades_detectadas": [
+        "Potenciar Trabajo"
+      ]
+    },
+    {
+      "frase": "Las capacitaciones se realizarán con las agencias de empleo locales, en función de las capacidades productivas de cada región.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un joven de Santa Cruz, con un salario superior al promedio nacional, no debería estar en Potenciar Trabajo.",
+      "entidades_detectadas": [
+        "Santa Cruz",
+        "Potenciar Trabajo"
+      ]
+    },
+    {
+      "frase": "El Estado busca reducir la brecha entre los planes y los salarios.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "**Jorge Rialde:**  ¿La capacitación es elegida por el beneficiario?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "**Victoria Toroza Paz:** Habrá una oferta de capacitación según las capacidades productivas de cada localidad.",
+      "entidades_detectadas": [
+        "Paz",
+        "Victoria Toroza",
+        "Habrá"
+      ]
+    },
+    {
+      "frase": "En el triángulo del litio, las capacitaciones estarán relacionadas con las inversiones en esa zona; en Caleta Olivia, con las industrias locales; etc.",
+      "entidades_detectadas": [
+        "Caleta Olivia"
+      ]
+    },
+    {
+      "frase": "En 36 meses de empleo registrado, 72.000 personas de Potenciar Trabajo consiguieron empleos registrados.",
+      "entidades_detectadas": [
+        "Potenciar Trabajo"
+      ]
+    },
+    {
+      "frase": "**Jorge Rialde:**  La capacitación es a cambio del plan social, no hay nada adicional.",
+      "entidades_detectadas": [
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "**Victoria Toroza Paz:**  Son 120 días obligatorios de capacitación.",
+      "entidades_detectadas": [
+        "Paz",
+        "Victoria Toroza"
+      ]
+    },
+    {
+      "frase": "El 40% de los jóvenes de 18 a 29 años están en Potenciar Trabajo.",
+      "entidades_detectadas": [
+        "Potenciar Trabajo"
+      ]
+    },
+    {
+      "frase": "El potencial no puede ser el techo para ellos; debe ser el primer piso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos acompañarlos con capacitación para lograr una verdadera inclusión laboral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Sudáfrica",
+    "Están",
+    "la Ley",
+    "Ministerio",
+    "Victoria",
+    "¿Hablamos",
+    "¿Qué",
+    "Vamos",
+    "Marijuan",
+    "Potenciar Trabajo?  ",
+    "Jujuy",
+    "Ministra de Desarrollo Social de la Nación",
+    "Turquía",
+    "CIF",
+    "Estado",
+    "Ministro de Economía",
+    "Empezamos",
+    "Dirección Nacional de Migraciones",
+    "Estados Unidos",
+    "Buenos días",
+    "CINTIS",
+    "Caleta Olivia",
+    "AFIP",
+    "Argentina",
+    "Europa",
+    "El Ministerio",
+    "Sergio Massa",
+    "Ayer",
+    "Comencemos",
+    "Estado de manera",
+    "¿Quién",
+    "Migraciones",
+    "Ministerio de Desarrollo Social",
+    "Aquello",
+    "El Estado",
+    "Victoria Toroza Paz",
+    "Ustedes",
+    "Paz",
+    "Victoria Toroza",
+    "Buscamos",
+    "Buenos Aires",
+    "Habrá",
+    "¿Dónde",
+    "¿",
+    "Miami",
+    "Un Estado",
+    "Decir",
+    "Bolivia",
+    "Jorge Rialde",
+    "Jorge",
+    "Entrevista",
+    "Mauricio",
+    "Puente al Empleo",
+    "Potenciar Trabajo"
+  ]
+}

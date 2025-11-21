@@ -1,0 +1,53 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer, en la entrevista con Luis Majul, se tocó el tema con Sergio Massa.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Hablar de subsidios implica que el Estado debe participar, generando un ingreso indirecto que beneficia a trabajadores, empresarios y al medio ambiente (al priorizar el transporte público, se reduce el uso del automóvil particular y, por tanto, las emisiones).",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Sergio Massa y nosotros llevamos dos años trabajando en que el subsidio llegue al usuario directamente, sin intermediarios, mediante la expansión de la tarjeta SUBE a toda la Argentina.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    },
+    {
+      "frase": "Hoy estamos con Sergio Massa en Córdoba, donde ya hay un acuerdo para la ciudad capital y seis localidades más.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    },
+    {
+      "frase": "Llegamos a Rosario este año y ahora avanzamos en Córdoba y seis localidades de la provincia.",
+      "entidades_detectadas": [
+        "rosario",
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Hoy Córdoba manifiesta su intención de unirse a la tarjeta SUBE, y Sergio Massa estará presente.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa",
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Una vez que se cierre el acuerdo con Córdoba y Tucumán, casi el 90% de los usuarios de transporte en Argentina utilizarán la SUBE, permitiendo personalizar el subsidio.",
+      "entidades_detectadas": [
+        "argentina",
+        "córdoba"
+      ]
+    }
+  ]
+}

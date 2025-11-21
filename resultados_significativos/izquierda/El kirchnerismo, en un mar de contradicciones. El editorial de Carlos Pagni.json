@@ -1,0 +1,456 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 63,
+      "derecha": 25
+    },
+    "score_promedio": 0.314,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fenómeno que, para muchos, está asociado, entre otros factores, no solo a la suba de precios que proviene del ataque de Rusia a Ucrania, sino a la gran expansión monetaria y fiscal que estuvo asociada a la pandemia y a atenuar los efectos de la cuarentena en los Estados Unidos.",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ese orden decreciente fue el daño que sufrieron hoy las acciones de esos bancos por culpa de esta crisis, que hizo que el presidente Biden saliera a decir: \"Vamos a garantizar como sea la seguridad de los depósitos de los ciudadanos americanos\".",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo primero que hizo el gobierno de Estados Unidos es absorber la crisis del Banco de California a través de un fondo de seguro de depósitos bancarios.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero claro, se escuchan voces de gente muy importante: Mitt Romney, que fue candidato a presidente por el Partido Republicano, Larry Summers, que fue secretario del Tesoro en la época de Clinton, y hoy aparece Bill Ackman, así que estamos hablando de palabras mayores.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que cualquier persona que tenga un depósito en el banco esté segura de que el Estado lo va a respaldar.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto le da una velocidad, un dramatismo mayor, porque hay una fluidez mayor al tratarse de gente que está apretando botones en la computadora de su casa o de su oficina.",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, la Reserva Federal le permitía a los bancos, por ejemplo, contabilizar bonos a la par y no al valor de mercado, con lo cual había una especie de ficción de respaldo, de solidez o de solvencia que ahora parece no tenían.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que muy probablemente la política americana, y sobre todo la de los demócratas, que son los que tienen que pagar en este momento esta factura, van a poner en el banquillo de los acusados a Jerome Powell, el presidente de la Reserva Federal.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué está pasando con Turquía, un país emergente enormemente importante en Europa y en Medio Oriente?",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cualquiera de esos fenómenos, que muchos expertos en finanzas están mirando como amenazas sobre el sistema general, y por lo tanto también sobre la Argentina, que está conectada con todo ese sistema, ahora quedan en un segundo plano, pero quedan ahí latentes frente a este tornado que se desata en California.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya sabemos cuál es la primera consecuencia que va a tener esto sobre nosotros: que Alberto Fernández a la deuda de Macri y a la pandemia, le va a poder agregar otra cuartada, una tercera cuartada, además de la guerra, una cuarta cuartada, diríamos, respecto de su mal gobierno o sus dificultades para administrar la economía sanamente.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bastante desconectados de todo este fenómeno, hubo este fin de semana dos discursos importantes de ambos Kirchner, de Cristina Fernández de Kirchner y de Máximo Kirchner.",
+      "score": 0.766,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina en la ceremonia del doctorado Honoris Causa que le dieron en la Universidad de Río Negro, que tuvo el tono de una reunión política, de una reunión partidaria, casi de campaña, mucho más que el marco de un acontecimiento académico, y el discurso de Máximo Kirchner en una reunión de militantes de la provincia de Buenos Aires convocada por el Partido Justicialista de la provincia de Buenos Aires, que él preside, en Avellaneda el sábado.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay varias observaciones para hacer sobre estos dos discursos, habría muchísimas, pero me parece que hay algunas que hay que enfocarlas, recuadrarlas, algunas afirmaciones tanto de Cristina Fernández de Kirchner como de Máximo Kirchner, porque nos ponen en evidencia el mar de contradicciones en el que hoy están navegando, no solamente políticamente, sino conceptualmente, los principales líderes de este oficialismo.",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una afirmación de Cristina verdaderamente llamativa, que indica algún tipo de confusión respecto de los términos con los que se está manejando, que es que el déficit fiscal no tendría importancia para la salud general de la economía.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y pone como ejemplo un país que ella después va a decir por qué está conectado con la Argentina –ahora vamos a hablar de eso–, que es Malasia.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese Malasia tiene un déficit mucho más grande, un déficit fiscal mucho más grande que la Argentina, y sin embargo no tiene los problemas que tiene la Argentina en su macroeconomía.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este tema, que es crucial, que está en el centro del drama argentino desde hace 20 años o más –podríamos remontarnos a la crisis de la convertibilidad en el 98, y de ahí hasta ahora–, la Argentina está atrapada en este problema, que es el problema del acceso al crédito, del costo del dinero para que funcione la economía, para que funcione cualquier emprendimiento, para cualquier cálculo de inversión que se plantee una tasa de retorno; el problema central es el costo del dinero.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este problema, que es el problema de cómo financiar el déficit, Cristina Kirchner ni se lo plantea en ese discurso.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que tiene la Argentina no es un problema solamente de mucho déficit; tiene un problema de financiamiento de su déficit, que se traduce en problemas de deuda permanente, como los que ella misma estaba describiendo en ese discurso.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque los líderes más radicalizados de la Argentina, a la izquierda y a la derecha, le hablan a un público que tiende a estar ya convencido previamente de que la palabra de ese líder es la verdad.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para el kirchnerismo más duro, y posiblemente para muchos macristas también, para muchos seguidores de Milei también, Cristina no tiene razón, Cristina es la razón.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero estamos ante un problema grave, que es que la principal líder de este movimiento político que gobierna la Argentina, la persona que puso al presidente a través de un tuit, cree que el problema es el déficit y no el financiamiento del déficit.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Insisto: el problema del déficit y del financiamiento del déficit es importante porque le pone un piso al costo del dinero, es decir, al crédito para cualquier actividad, no solamente para el Estado.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, las empresas argentinas pagan un costo adicional tomando deuda, tomando crédito para emprendimientos productivos porque viven en un país donde el Estado fija una tasa de riesgo delirante.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ejemplo: voy a tomar el ejemplo que dio la misma Cristina Fernández de Kirchner.",
+      "score": 0.431,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La empresa Petronas, que es una empresa líder en el mundo de los hidrocarburos, una empresa riquísima, dice Cristina Kirchner, va a invertir, como mínimo, para arrancar, 10.000 millones de dólares para hacer una planta de licuefacción de gas en Bahía Blanca, y eventualmente un gasoducto que va a ir desde los centros de producción de extracción de gas, centralmente Vaca Muerta, a esa planta de licuefacción.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que está diciendo Cristina Kirchner es de máxima importancia.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy importante que la Argentina pueda hacer esa obra de infraestructura y pueda comercializar su gas.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto revertiría muchísimo de los problemas que tiene la Argentina a nivel cambiario y monetario, sobre todo de uso de reservas, por tener que importar muchísimo en materia de hidrocarburos, perdiendo muchísimos dólares por ese lado, por no tener las condiciones de comercializar su propio gas.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, que de lo que está hablando Cristina Kirchner, en materia de gasoducto y planta de licuefacción, es un tema importantísimo para resolver una cuestión macroeconómica, no solamente energética.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, en medio de cepos, un Estado tambaleante, cambios de reglas permanentes, queremos estudiar el problema.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una diferencia entre lo que dijo Cristina, o lo que le dijo a Cristina el embajador malayo, y lo que dicen las autoridades de Petronas.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una nota muy interesante la semana pasada en La Nación, de Sofía Diamante, que narra una presentación del CEO de YPF y del CEO de Pan American Energy, Marcos Bulgheroni, en la principal reunión de la industria del gas, que se reunió en Houston.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando habla de la participación de Petronas en la Argentina, Sofía Diamante dice: \"Bueno, en realidad, el presidente de Petronas no estaba en la reunión donde hablaron los argentinos, prefirió ir a una reunión donde hablaban los brasileños\".",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso de Cristina Fernández de Kirchner tuvo otras peculiaridades.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo: \"Acá, en aquel momento, Miguel Pesce le pidió una reunión, el presidente del Banco Central\".",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Para qué le pidió la reunión?",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Para pedirle a su vez una entrevista con las autoridades del Fondo Monetario Internacional\".",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué Pesce quería que Cristina se reuniera con las autoridades del Fondo?",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Guzmán estaba demasiado duro, y las autoridades del Fondo preferían ablandar a la Argentina hablando con ella.",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella dijo: \"Bueno, obviamente no le voy a dar la posibilidad al Fondo Monetario Internacional de que encuentre diferencias entre nosotros, porque fortalecería su posición en la negociación\".",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero pasó casi inadvertido –no sabemos si para ella–, que lo que está diciendo Cristina Fernández de Kirchner es lo contrario de lo que pensábamos, según el relato de Cristina Fernández de Kirchner, y sobre todo de La Cámpora, que Guzmán era el blando, y aparentemente ahora Guzmán era el duro, y el blando era Pesce.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, ¿por qué le pedían la renuncia a Guzmán y no a Pesce?",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La crítica a Guzmán sigue siendo sistemática por parte del kirchnerismo, probablemente porque Guzmán tiene un antecedente que pesa sobre él, complicado para lo que es la lucha de poder interna en este movimiento, y es que era el ministro de Alberto Fernández, aquel al que Alberto Fernández no quería hacer renunciar, sobre todo en la pelea con Federico Basualdo y las autoridades de energía.",
+      "score": 0.332,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner dijo una segunda cosa sobre Guzmán en ese discurso, sin hablar de él.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo interesante es que, mucho tiempo después, Cristina Fernández de Kirchner viene a reconocer que la negociación de la deuda de su gobierno, del gobierno del Frente de Todos, puede ser mejor descrita con los argumentos de la oposición que con los argumentos del gobierno.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández se precia de haber negociado una deuda muy bien negociada.",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner ahora nos viene a decir lo que decía la oposición en el momento en que se estaba negociando, y el periodismo crítico, que decía: \"Están trasladando una deuda del mismo tamaño que la que tenemos hoy, impagable, al gobierno que viene y a los gobiernos subsiguientes\".",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es lo que dijo Cristina Fernández de Kirchner en Río Negro el viernes sobre la negociación de la deuda de este gobierno, del gobierno de Alberto Fernández, a quien ella, como sabemos, puso como candidato a presidente por un tuit.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay muchísimos argumentos para presumir que haber ido al Fondo fue un error, que había un camino alternativo para seguir, claro que iniciaba mucho más atrás, mucho antes de la crisis que se abrió en abril de 2018.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, lo curioso es que lo diga Cristina Fernández de Kirchner o Máximo Kirchner, que insistió en el mismo argumento citando a la vicepresidenta: \"El gran problema de la Argentina es la deuda contraída por Macri\", cuando la deuda contraída por este gobierno es muy superior a la que contrajo Macri.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, hay un detalle: el kirchnerismo, en general, no se hace cargo de la gravedad que tiene para el Estado la deuda en pesos.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, cuando se trata de fondos o de bancos, uno de los grandes problemas que tuvo Massa, y que acaba de postergar, no de resolver, es el problema de la gigantesca deuda en pesos asumida por el gobierno de Fernández, tanto por Fernández como por Guzmán, como por Massa y Batakis, emitiendo Leliq desde el Banco Central.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, no sé si Cristina Fernández de Kirchner conoce esto, o si lo conoce Máximo Kirchner, cuando hablan del escándalo de la deuda y de la relación entre el Estado soberano y el sistema financiero: se les permitió a los bancos distribuir el 40% de sus ganancias como dividendos, cosa que estaba prohibida desde 2022, creo que desde noviembre.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, la contracara de esto es la situación de asfixia en la que está Massa y el gobierno de Alberto Fernández, que incluye a Cristina Fernández de Kirchner y a Máximo Kirchner, que, entre otras cosas, tienen el poder suficiente como para que haya otro ministro de Economía con ideas más parecidas a las de ellos, pero, por alguna razón, no lo ponen, porque daría la impresión de que hay un discurso para la barricada y otra política económica, que es la que lleva Massa adelante, con el respaldo de Cristina Fernández de Kirchner.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se rumorea, no lo pude comprobar, nadie lo confirma, que hubo una reunión de Massa y Cristina Fernández de Kirchner antes de que se cierre este acuerdo que se comunicó hoy con el Fondo Monetario Internacional, donde el Fondo le hace un enorme favor al gobierno de Fernández, flexibilizando sus metas, una reunión donde Massa tendría que haber rendido examen, aparentemente, delante de Cristina Fernández de Kirchner, y lo más humillante para él, de Axel Kicillof, en la casa de Kicillof.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No lo sabemos, pero es evidente que hay un desajuste en la visión de la economía que puede tener, no sé si Cristina Fernández de Kirchner, pero seguramente Kicillof, y la relación con el sistema financiero, y toda esta concepción respecto del crédito, la deuda y el déficit, entre lo que está haciendo el gobierno con Massa, respaldado por todo el Frente de Todos, y lo que se dice en los discursos.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acaba de haber otro problema: hace media hora, la Argentina tuvo que ir a una renegociación con el Fondo Monetario Internacional, muy difícil.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo lograron, porque el Fondo quiere cobrar, y quiere que la Argentina no entre en inestabilidad en una región y en un mundo que está muy convulsionado; los mismos argumentos por los cuales le dieron la plata a Macri.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el Fondo, con la anuencia de Massa, sacó un comunicado diciendo: \"Bueno, ahora la Argentina va a tener que hacer deberes fiscales, que justifiquen, que permitan el exceso de gasto de una moratoria previsional que se acaba de aprobar con 800.000 beneficiarios\".",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Cámpora saca un mensaje ahora, acaba de salir, de crítica al Fondo Monetario Internacional por haber dicho que esto era un imprevisto, y la organización que conduce Máximo Kirchner dice: \"No, no, esto no fue ningún imprevisto; esto lo estamos tramitando en el Congreso desde junio del año pasado\".",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imprevisto fue lo de Macri cuando le dieron la plata.",
+      "score": 0.779,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, lo cierto es que si están criticando al Fondo, están criticando a Massa, que es el que admitió ese comunicado, quiere decir que empiezan fisuras internas en aquello que todavía no estaba fisurado, y es el respaldo de Cristina Fernández de Kirchner y Máximo Kirchner a la gestión del ministro de Economía.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa adquiriendo de a poco el lugar, o va ocupando de a poco, muy de a poco, el lugar que ocupó Guzmán, según explicábamos recién.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El centro del problema está en que tuvimos una etapa, del 2003, digamos, hasta el 2012-2013, ligada al ajuste que hizo Duhalde y a una situación internacional espectacular, donde el kirchnerismo –Néstor Kirchner y Cristina Kirchner, con Massa como jefe de Gabinete o como jefe de la ANSES–, constituyeron un Estado a la medida de esa situación, como si fuera eterna, y esa situación pasó, y ahora estamos viviendo, como otros países de la región, pero mucho más dramáticamente, el ajuste de aquello.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si miramos fotos, como muestra Cristina, sí, los números de Néstor Kirchner y de la primera parte de su gobierno eran espectaculares, ahora esa política que se hizo en aquel momento, si uno mira la realidad como un proceso, es la que estamos pagando ahora.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que Alberto Fernández quiere ser candidato a presidente, y voy a decir una broma: el kirchnerismo quiere proscribirlo.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el otro problema es que Cristina Fernández de Kirchner no quiere ser candidata a presidenta, aunque dice estar proscripta.",
+      "score": 0.391,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que mirar bien el discurso de ella en el día que le dieron el Honoris Causa en Río Negro, porque dice: \"Ayer se leyó la…\", y estuvo a punto de decir \"la condena\", y no puede decir \"la condena\", y se notó el costo personal que tiene este drama judicial para ella, que es también el que le hizo decir: \"Bueno, al final, si quieren, si me quieren tomar como una bandida que lo único que busca son fueros, no voy a candidata a nadie\".",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Néstor Kirchner, apenas llegó, le quitó facultades al ministro de Planificación en el manejo de la obra pública, para dárselas al secretario de Obra Pública.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner quería tener como interlocutor de él, y como gestor de la obra pública en Santa Cruz, a José López, el de los bolsos y la ametralladora.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero después aparece un segundo problema, que pasa inadvertido.",
+      "score": 0.312,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La justicia dice, en el año 2009, hubo otro decreto, un decreto que permitió que se usen fondos del fondo del combustible, del gasoil, que estaba destinada, destinado a determinados emprendimientos de gran dimensión de obra pública, para obra pública de otra categoría, para obras menores.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Cristina Fernández de Kirchner firmó ese decreto, si uno reconstruye la historia de esto, se lo objetaron desde jurídicos, de economía, se lo objetaron desde el Ministerio de Planificación, precisamente porque no se sabía qué obras se iban a financiar y porque no intervenía el organismo de coordinación de los fideicomisos de obra pública.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, acá está el problema, no sé si Cristina Fernández de Kirchner le pedirá cuentas a Zannini sobre aquella decisión bastante soberbia de alguien a quien los abogados inferiores del Estado le habían dicho: \"Cuidado, esto no…\".",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, de uno de sus récords, diciendo que él pretendía terminar con 20 años de kirchnerismo, había prometido nunca más pelearse con Cristina; bueno, otra promesa que no cumplió.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, cae muy mal en La Cámpora la foto que se saca Wado de Pedro con Jorge Rendo del Grupo Clarín en Expoagro.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero peor todavía que hay esto que va a ver usted ahora, que es el discurso de Wado de Pedro en Expoagro:\n\n\"Si no hay producción, es imposible que haya arraigo.",
+      "score": 0.327,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si al campo no le va bien… Entonces, quería hablarles como productor después de Mendoza.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El último que habló fue Máximo Kirchner, y como Kicillof dijo que había que bajar al territorio, para ser… Que tenemos que nuestro pueblo batalle.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof no sé si estaba escuchando, porque aplaudía.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le estaban hablando a él, digamos, el gobernador era él, no era Capitanich.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo interesante es que Máximo Kirchner le está diciendo: \"Tenés que abrir el gobierno de la provincia de Buenos Aires a La Cámpora, porque al final son lo mismo que Joly, que también nos cerró la puerta\".",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta contradicción es la que hace que, en privado, Máximo Kirchner o amigos de Máximo Kirchner dicen: \"Por suerte, en la provincia de Buenos Aires lo tenemos a Insaurralde en la jefatura de gabinete, porque si no estaríamos perdidos\".",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, porque probablemente, ante la idea de un fracaso electoral a nivel nacional, el kirchnerismo esté pensando en replegarse en la provincia de Buenos Aires, llevando como candidata a senadora, eventualmente, a Cristina Fernández de Kirchner.",
+      "score": 0.651,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y aquí la pregunta final: ¿cómo el Frente de Todos puede sobrevivir a estas tensiones que estamos describiendo, o se va a volver a partir, y Cristina Fernández de Kirchner va a refundar o a rescatar Unidad Ciudadana, que es el nombre del bloque que ella armó después de dividir el bloque de senadores peronistas para poder tener una banca más en el Consejo de la Magistratura?",
+      "score": 0.126,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa pregunta es muy importante, porque vemos fragmentación política en todos lados, y vamos –y probablemente la clase política va como un sonámbulo a una agenda económica complicadísima, donde va a haber que reducir el déficit fiscal, va a haber que atacar, por lo tanto, subsidios energéticos y de las jubilaciones, y también vamos a tener que renegociar la deuda–, como el próximo… como el mismo Máximo Kirchner y como Cristina Fernández de Kirchner dijeron que tiene que hacer el próximo gobierno.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 88
+  },
+  "etiqueta_original": "neutral"
+}

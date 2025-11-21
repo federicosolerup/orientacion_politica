@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La verdad de la milanesa es que a **Víctor Hugo Morales** lo echaron del canal de **Cristina Fernández de Kirchner** y **Cristóbal López**.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Se confirma de esta manera que los medios que tienen su interés en la búsqueda o en la conservación del poder y en la impunidad de una condenada a seis años de cárcel por ladrona como **Cristina Fernández de Kirchner** se agotan cuando los ciudadanos le bajan el pulgar.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Me indigna porque era capaz de humillar a humildes cronistas que estaban haciendo sus primeras armas en esta profesión por el solo hecho de trabajar en TN o en esta querida radio.",
+      "entidades_detectadas": [
+        "tn"
+      ]
+    },
+    {
+      "frase": "En Uruguay jugaba al fútbol y cantaba tangos en los cuarteles donde tenían alojados a los presos políticos.",
+      "entidades_detectadas": [
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "Y en Argentina tuvo que pedirle perdón por carta a **Estela de Carlotto** por haber expresado sus simpatías por **Videla** y compañía.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

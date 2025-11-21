@@ -1,0 +1,142 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Las manifestaciones de ayer, anticipadas incluso por altas autoridades del gobierno, fueron pacíficas pero contundentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se realizaron en todo el país, incluyendo El Calafate, ciudad natal de la vicepresidenta Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "La primera reacción de los funcionarios fue tildar a los manifestantes de desestabilizadores y canallas, vinculando a medios de comunicación y a la oposición con la movilización, que fue particularmente fuerte en Córdoba, Santa Fe y Mendoza.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Mendoza",
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Hoy, el jefe de Gabinete de Ministros, Santiago Cafiero, declaró que los manifestantes pertenecen a un sector del electorado de un partido político que no acepta el resultado de las elecciones de hace menos de un año.",
+      "entidades_detectadas": [
+        "Gabinete de Ministros",
+        "Santiago Cafiero"
+      ]
+    },
+    {
+      "frase": "Afirmó que la manifestación no representa al pueblo argentino, que es más diverso y amplio.",
+      "entidades_detectadas": [
+        "Afirmó"
+      ]
+    },
+    {
+      "frase": "Estas declaraciones, considerando la habitual moderación de Cafiero, resultan llamativas.",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "Las protestas no se limitaron a Buenos Aires;  se registraron en diversas provincias, incluyendo Córdoba, Mendoza, Entre Ríos, Chaco y la zona de Corubano-Bonerense.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Corubano-Bonerense",
+        "Córdoba",
+        "Mendoza",
+        "Entre Ríos",
+        "Chaco"
+      ]
+    },
+    {
+      "frase": "En una democracia, las movilizaciones deben ser aceptadas, aun si se oponen a las políticas del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El humorista Dady Brieva, figura pública con fuertes vínculos con el kirchnerismo, emitió declaraciones altamente controvertidas en una entrevista radial.",
+      "entidades_detectadas": [
+        "Dady Brieva"
+      ]
+    },
+    {
+      "frase": "Sus expresiones, criticadas incluso por algunos intelectuales afines al oficialismo, generaron gran tensión dentro del propio espacio político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Brieva manifestó su enojo con la situación política actual y con la marcha,  llegando a bromear —de forma que muchos consideraron inaceptable— con atropellar a los manifestantes con un camión.",
+      "entidades_detectadas": [
+        "Brieva"
+      ]
+    },
+    {
+      "frase": "Esta declaración le ha generado una denuncia penal por el artículo 510 del Código Penal, que sanciona amenazas de violencia motivadas por la ideología, la raza, etcétera.",
+      "entidades_detectadas": [
+        "Código Penal"
+      ]
+    },
+    {
+      "frase": "Sus dichos suscitan interrogantes sobre su responsabilidad y sobre la permisividad de este tipo de expresiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La comparación de la situación con un incidente ocurrido en Santa Cruz en 2007-2008, donde el entonces ministro de Gobierno, Danilo Barizat, atropelló a 23 docentes con su camioneta durante una protesta, refuerza la preocupación por el discurso del odio y la violencia.",
+      "entidades_detectadas": [
+        "Santa Cruz",
+        "Danilo Barizat",
+        "ministro de Gobierno"
+      ]
+    },
+    {
+      "frase": "Barizat,  pese a la gravedad del hecho, no recibió una condena efectiva y posteriormente fue ascendido.",
+      "entidades_detectadas": [
+        "Barizat"
+      ]
+    },
+    {
+      "frase": "Resulta llamativo que el jefe de Gabinete, Santiago Cafiero, acuse a la oposición de generar discursos de odio y noticias falsas, mientras que el discurso de Brieva, que incluye amenazas de violencia, no recibe una condena explícita por parte del oficialismo.",
+      "entidades_detectadas": [
+        "Brieva",
+        "Santiago Cafiero",
+        "Gabinete"
+      ]
+    },
+    {
+      "frase": "La magnitud de las manifestaciones no puede ser atribuida únicamente a la oposición, como lo señaló el analista político Javier Fernández al referirse a una movilización anterior.",
+      "entidades_detectadas": [
+        "Javier Fernández"
+      ]
+    },
+    {
+      "frase": "El apoyo al presidente se manifiesta de diversas formas, incluyendo movilizaciones a favor y el escrache en domicilios de figuras políticas, práctica cuestionable en términos democráticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En definitiva, la situación actual  requiere una reflexión profunda sobre el discurso político y los límites de la libertad de expresión, especialmente cuando involucran amenazas de violencia en el contexto de una crisis económica profunda y una sociedad polarizada.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Corubano-Bonerense",
+    "Mendoza",
+    "Javier Fernández",
+    "Afirmó",
+    "Dady Brieva",
+    "Gabinete de Ministros",
+    "Código Penal",
+    "Cristina Fernández de Kirchner",
+    "Córdoba",
+    "Entre Ríos",
+    "Chaco",
+    "Barizat",
+    "ministro de Gobierno",
+    "Santa Cruz",
+    "Santa Fe",
+    "Gabinete",
+    "Buenos Aires",
+    "Brieva",
+    "Danilo Barizat",
+    "Santiago Cafiero",
+    "Cafiero"
+  ]
+}

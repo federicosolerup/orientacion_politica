@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Estoy hablando de declaraciones que hizo el jefe de Gabinete de la provincia de Buenos Aires, la provincia con más muertos y contagiados de COVID en la República Argentina, que no da entrevistas con este programa.",
+      "entidades_detectadas": [
+        "covid",
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Les pido disculpas porque la verdad es que hablar sobre un comentario así en medio de una pandemia que mató en Argentina a 74.480 personas, que contagió, según los registros oficiales, a 3.562.035 personas y que hoy tiene, según los registros oficiales, a 354.472 argentinos sufriendo la enfermedad… Dijo Carlos Bianco, que es el jefe de Gabinete de la provincia de Buenos Aires –por eso lo remarco–, que efectivamente hubo una irresponsabilidad grave y seria de por lo menos dos grupos: de una parte de la oposición, y él dijo \"la oposición dura\", habló de Mauricio Macri, de Patricia Bullrich y de Elisa Carrió, a quienes hace responsables de que la gente no se inscriba para vacunarse y que dude de todo.",
+      "entidades_detectadas": [
+        "argentina",
+        "bullrich",
+        "carlos",
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Justamente, es uno de los delitos que está penado con una condena fuerte, el de propagación o instigación a la propagación de un virus, porque él habló con nombre y apellido de Macri, de Carrió y de Bullrich.",
+      "entidades_detectadas": [
+        "carrió"
+      ]
+    },
+    {
+      "frase": "Si tiene pruebas de que esos tres dirigentes… Carrió además está confinada y entiendo que haciendo estudios porque tuvo contacto con el COVID y no salió de su casa durante un año y medio.",
+      "entidades_detectadas": [
+        "covid",
+        "carrió"
+      ]
+    },
+    {
+      "frase": "Y lo digo con todo respeto, yo entiendo que puede ser una opinión de Bianco que esté direccionada por un objetivo político, que es provocar a Carrió y a Bullrich para que respondan que no son responsables de las muertes o de los contagios.",
+      "entidades_detectadas": [
+        "bullrich",
+        "carrió"
+      ]
+    }
+  ]
+}

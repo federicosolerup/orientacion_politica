@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 3,
+      "derecha": 2
+    },
+    "score_promedio": 0.379,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Efectivamente, en esa línea que vos planteás, el presidente necesita conservar algún lugar desde donde discutir esa oferta electoral, quiere discutirla.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el presidente tiene, puede utilizar un término que parece duro, pero es un término muy politológico.",
+      "score": 0.649,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, yo creo que Alberto todavía tiene potencial de chantaje para querer pretender discutir también los espacios de las candidaturas del año que viene.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, detrás de todo eso se explica la candidatura de Alberto Fernández\".",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Teníamos previsto hablar de quiénes son los posibles presidenciables, pero el video de Cristina vino a romper con esto una vez más, acusando en este caso a la oposición y puntualmente al diputado Milman por lo que sucedió frente a las puertas de su casa, poniéndolo casi en el lugar del autor intelectual del hecho y anunciando que va a recusar a la jueza Capuchetti, que es la que lleva adelante esta causa\".",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

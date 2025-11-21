@@ -1,0 +1,285 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Milei está muy contento porque logró tener superávit en enero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él mismo lo dijo, al igual que el ministro Luis Caputo.",
+      "entidades_detectadas": [
+        "Luis Caputo"
+      ]
+    },
+    {
+      "frase": "El portal \"La Derecha Diario\", administrado por Fernando Serimedo, lo celebró ampliamente.",
+      "entidades_detectadas": [
+        "Fernando Serimedo"
+      ]
+    },
+    {
+      "frase": "En Brasil, el tema es noticia principal en varios portales, y se relaciona con la organización del intento de golpe de Estado de Jair Bolsonaro contra Lula da Silva en los primeros días del nuevo gobierno.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula da Silva",
+        "golpe de Estado de Jair Bolsonaro"
+      ]
+    },
+    {
+      "frase": "Curiosamente, Fernando Serimedo, quien festeja el superávit de enero en su portal y a quien Caputo cita para celebrarlo, participó activamente en esa movida a través de una transmisión de YouTube donde afirmaba tener pruebas de fraude en las elecciones que Lula ganó a Bolsonaro.",
+      "entidades_detectadas": [
+        "Lula",
+        "Fernando Serimedo",
+        "Bolsonaro",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Esta afirmación contribuyó a la toma del poder legislativo, la Corte Suprema y el Palacio Presidencial en Brasil.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Palacio Presidencial",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Bolsonaro está siendo investigado por ello, y hay un testigo que está aportando información.",
+      "entidades_detectadas": [
+        "Bolsonaro"
+      ]
+    },
+    {
+      "frase": "(Pero dejo esto de lado).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Están muy contentos por el superávit.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué significa superávit?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Que ingresó más dinero del que se gastó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ellos lo explican diciendo que el Estado es como una casa: no se puede gastar más de lo que entra.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esto es absolutamente ridículo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema es que aplicar esta lógica al Estado termina mal, porque se empieza a ahorrar en áreas esenciales, donde el ahorro implica sufrimiento humano.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "La pregunta es: ¿a qué costo se logró el superávit?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comparto datos de la Oficina de Presupuesto del Congreso, una entidad técnica que evalúa sistemáticamente la ejecución presupuestaria.",
+      "entidades_detectadas": [
+        "Oficina de Presupuesto del Congreso",
+        "Comparto"
+      ]
+    },
+    {
+      "frase": "(Les sugiero ver el gráfico en YouTube para una mejor comprensión).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gráfico muestra qué gastos se redujeron (izquierda) y cuáles aumentaron (derecha) en enero de 2024.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los gastos totales se redujeron un 11,9% en términos reales año a año, lo que agrava la situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el detalle es preocupante: jubilaciones y pensiones cayeron un 32% en términos reales, con una incidencia del 15% en la reducción general.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la categoría \"otros programas\" (que detallaré más adelante), la caída fue del 59%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los gastos de personal (salarios de trabajadores públicos) disminuyeron un 18%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los gastos de capital (inversión) cayeron un 75%, las transferencias a provincias un 53% (el recorte de fondos a los que él llama \"corruptos\"), las asignaciones familiares un 17%, los bienes y servicios un 50%, las transferencias a universidades un 16%, las prestaciones del PAMI un 39%, y otros gastos un 60%, mientras que otros subsidios disminuyeron en un 98%.",
+      "entidades_detectadas": [
+        "PAMI"
+      ]
+    },
+    {
+      "frase": "Sin embargo, dos rubros aumentaron: el transporte (subsidios, un 144%) y los intereses de la deuda (un 139% en términos reales).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La incidencia de la subida de los intereses de la deuda fue similar a la caída de las jubilaciones y pensiones (15% cada una).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es decir, no hay dinero para jubilaciones y pensiones, pero sí para pagar la deuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Hay un segundo gráfico más detallado de la Oficina de Presupuesto del Congreso.",
+      "entidades_detectadas": [
+        "Oficina de Presupuesto del Congreso"
+      ]
+    },
+    {
+      "frase": "Les resumiré los puntos clave).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La reducción en jubilaciones y pensiones se debió principalmente a la falta de actualización de los haberes según la fórmula establecida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También se redujeron programas sociales por falta de registro de liquidaciones (ejemplo: Potenciar Trabajo y becas Progresar), los gastos de personal (con una reducción del 34% de los salarios del Poder Legislativo), los gastos de capital (inversión, con una caída del 94%), y las transferencias a provincias (incluyendo el FONID, Fondo Nacional de Incentivo Docente, con una reducción del 16%).",
+      "entidades_detectadas": [
+        "También",
+        "Fondo Nacional de Incentivo Docente",
+        "Poder Legislativo",
+        "Progresar",
+        "Potenciar Trabajo"
+      ]
+    },
+    {
+      "frase": "Las asignaciones familiares bajaron un 36%, y los bienes y servicios un 0,7%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En resumen, el gobierno de Milei logró el superávit, pero a un alto costo: reducciones drásticas en pensiones no contributivas, recortes en subsidios de transporte, etc.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Lo único que aumentó significativamente fueron los intereses de la deuda (139%).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El costo fue la reducción de fondos para el Hospital Garrahan, el Hospital El Cruce de Varela, la falta de aumento de jubilaciones y salarios.",
+      "entidades_detectadas": [
+        "Hospital Garrahan",
+        "Hospital El Cruce de Varela"
+      ]
+    },
+    {
+      "frase": "El superávit se logró a costa de la vida de jubilados, trabajadores, pensionados, docentes, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en medio de todo esto, se avecina un circo mediático, con causas judiciales que buscan desviar la atención.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, La Nación tituló \"Piden agravar hasta 12 años la condena contra Cristina Kirchner\".",
+      "entidades_detectadas": [
+        "La Nación",
+        "Ayer",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Sin embargo, la nota misma indica que el fiscal Mario Villalobos *prepara* la solicitud, no que ya la haya presentado.",
+      "entidades_detectadas": [
+        "Mario Villalobos"
+      ]
+    },
+    {
+      "frase": "Esto es similar a lo ocurrido con Morales Solá, que anticipó lo que luego escribió el fiscal Luciani.",
+      "entidades_detectadas": [
+        "Morales Solá",
+        "Luciani"
+      ]
+    },
+    {
+      "frase": "La presión sobre el fiscal Villalobos, designado por Macri, para que presente una solicitud de este tipo, es evidente.",
+      "entidades_detectadas": [
+        "Macri",
+        "Villalobos"
+      ]
+    },
+    {
+      "frase": "La solicitud será revisada por tres jueces designados durante la presidencia de Macri: Mariano Borinsky, Gustavo Hornos y Diego Barreta, quienes tienen antecedentes de acciones cuestionables en el marco de causas contra Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Diego Barreta",
+        "Mariano Borinsky",
+        "Gustavo Hornos",
+        "Cristina Kirchner",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "La revisión se realizará a finales de febrero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El superávit se logró a costa de docentes, jubilados, pensionados, etc., y se espera un nuevo circo mediático con las causas judiciales contra Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Es el costo de \"la ley de Milei\" y el gobierno de Caputo.",
+      "entidades_detectadas": [
+        "Milei",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Mario Villalobos",
+    "También",
+    "Hospital El Cruce de Varela",
+    "Caputo",
+    "Luciani",
+    "Diego Barreta",
+    "Comparto",
+    "Lula",
+    "Progresar",
+    "Lula da Silva",
+    "Villalobos",
+    "Estado",
+    "Morales Solá",
+    "Cristina Kirchner",
+    "Gustavo Hornos",
+    "Poder Legislativo",
+    "PAMI",
+    "Macri",
+    "Fernando Serimedo",
+    "Bolsonaro",
+    "Ayer",
+    "golpe de Estado de Jair Bolsonaro",
+    "Luis Caputo",
+    "Palacio Presidencial",
+    "Brasil",
+    "Corte Suprema",
+    "Fondo Nacional de Incentivo Docente",
+    "Mariano Borinsky",
+    "La Nación",
+    "Milei",
+    "Potenciar Trabajo",
+    "Oficina de Presupuesto del Congreso"
+  ]
+}

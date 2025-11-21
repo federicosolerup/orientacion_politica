@@ -1,0 +1,833 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Bueno, escucha una cosa, así como me pasó bien en el río, le pasó al fiscal **Diego Luciani**.",
+      "entidades_detectadas": [
+        "Diego Luciani",
+        "Bueno",
+        "río"
+      ]
+    },
+    {
+      "frase": "Recién estábamos castigándonos viendo a **Duggan**, que la llevó a la abogada, a la mujer de...",
+      "entidades_detectadas": [
+        "Duggan"
+      ]
+    },
+    {
+      "frase": "**Héctor \"El Artista\" López**.",
+      "entidades_detectadas": [
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Ahí está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A **Belén**.",
+      "entidades_detectadas": [
+        "Belén"
+      ]
+    },
+    {
+      "frase": "A **Belén**.",
+      "entidades_detectadas": [
+        "Belén"
+      ]
+    },
+    {
+      "frase": "Belén, a **Belinda**, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Belinda",
+        "Belén"
+      ]
+    },
+    {
+      "frase": "A **Belén**.",
+      "entidades_detectadas": [
+        "Belén"
+      ]
+    },
+    {
+      "frase": "**Héctor \"El Artista\" López**, como todos saben, es un panfletista de Cristina, un tipo que cuando le daban las encuestas 24, 28, 30, era 58 mil para Cristina, dos para más.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Tipo Cristina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tipo una remera que parece que se la pone debajo, toda hacia abierta, casi...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "y un saquito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es mal tipo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y eso cada vez que me lo encargaron a **Héctor**, le digo, **Héctor**, ¿qué haces?",
+      "entidades_detectadas": [
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Que me mata y me garpa, me chomo un huevo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un gracioso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Belén**, la novia, muy linda señora habrá sido.",
+      "entidades_detectadas": [
+        "Belén"
+      ]
+    },
+    {
+      "frase": "Es, es, pero se nota que...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya te vengo un poquito con mentirilla, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ahí estaba en el...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cambiando...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Con quién va a estar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que a ver, ¿qué periodista en la Argentina sacando al lagartote de **Navarro**?",
+      "entidades_detectadas": [
+        "Navarro",
+        "¿",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "¿Quién pues el pelotudo que se preste a escribir el libro de **María Marta García Belsunce**, de **Nisman**, el de **Graciana Peñafort**, y ahora de **Belén**.",
+      "entidades_detectadas": [
+        "María Marta García Belsunce",
+        "Graciana Peñafort",
+        "Nisman",
+        "Belén",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Sí, señor, se notó muy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vas a buscar el auto por el canal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Duggan**, **Duggan**.",
+      "entidades_detectadas": [
+        "Duggan"
+      ]
+    },
+    {
+      "frase": "Esto de todas las preguntas preparadas como un multivocalista, pero vos no lo acreditaste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, yo me paré para hablar, pero vos dijiste \"¡qué ganas de vomitar que tengo!\", porque te juro, cuando veo a ese hombre que dijo tantas barbaridades de Cristina, una mujer amada, por todo...",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "No, primero no dijo barbaridad porque no lo hubieran condenado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está condenada por chorra.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "A ver si me entendés.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Segundo, este...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto de la ganas de vomitar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se lo dijiste para hacerte la graciosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"¡Hay que ganar de vomitar!\" Porque tenemos los kirchneristas, ya lo conocemos como laburan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí me lo han dicho mil veces, no sé qué hace este tipo acá adentro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la gente se para y dice, \"no sabemos qué ha llegado acá adentro\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es el tipo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que a partir de esta fecha, se van a poner muy violentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer escribí una nota que la pueden leer en mi Instagram, arroba **Ángeles Checopar**.",
+      "entidades_detectadas": [
+        "Instagram",
+        "Ayer",
+        "Ángeles Checopar"
+      ]
+    },
+    {
+      "frase": "Una nota que habla de la deserción, la renuncia de Cristina, le llama ostracismo la nota.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "La deserción de Cristina preocupa más a la oposición que al gobierno.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Porque la oposición se sintió media cuando Cristina dijo \"no voy a ser candidata a nada\".",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Dije, \"no, espera, espera.",
+      "entidades_detectadas": [
+        "Dije"
+      ]
+    },
+    {
+      "frase": "Se nos rompe todo el proyecto\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque una mujer condenada, que ella tenía que haber renunciado a la vicepresidencia, pero como son moscaraduras, no renuncian.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es todo, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué querés?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ah, miren a **Duggan**.",
+      "entidades_detectadas": [
+        "Ah",
+        "Duggan"
+      ]
+    },
+    {
+      "frase": "Fíjense el barudito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miren lo que hace.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo como fue.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo te cuento lo que fue.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero fundamentalmente fue eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero dejar en claro que vine acá por violencia de género y amenaza por parte del fiscal a mí.",
+      "entidades_detectadas": [
+        "Quiero"
+      ]
+    },
+    {
+      "frase": "Eso fue fundamental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vení, vení, vení.",
+      "entidades_detectadas": [
+        "vení",
+        "Vení"
+      ]
+    },
+    {
+      "frase": "Cuando una mujer roba es una chorra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando una mujer agrede a un hombre es una sinvergüenza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay violencia de género, señora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Violencia de género es otra cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si usted insulta a alguien en la calle y le responde, no hay violencia de género.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted, señora, igual que todos los kirchneristas, no tiene ningún derecho a esconderse, a refugiarse en el género para insultar a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es lo mismo que me hacían a mí las que ahora van a volver a salir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las sordas, kirchneristas, feministas, cuando rompían teatros, puteaban.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La intendenta de Moreno, que ahora se enriqueció con Moreno, que mandaba a las mujeres a romperte la camioneta y todo, dice \"violencia de género\" si no la dejás que te rompa la camioneta.",
+      "entidades_detectadas": [
+        "intendenta de Moreno",
+        "Moreno"
+      ]
+    },
+    {
+      "frase": "Usted, a un fiscal de la nación, le dice que tiene ganas de vomitar, le dijo hijo de puta, le dijo de todo, y usted dice que es violencia de género.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina no la juzgaron por ser mujer, la juzgaron por ser chorra.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y si hubiera sido hombre, la chorro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si hubiera estado vivo el marido, la chorro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se escondan detrás del sexo porque ese fue otro invento de los kirchneristas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como mandaban a robar a las mujeres, decían \"violencia de género, no se la toca, piedra, piedra, piedra\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O **Donda**, porque acá era empleada doméstica por ser mujer, no la estafó.",
+      "entidades_detectadas": [
+        "Donda"
+      ]
+    },
+    {
+      "frase": "Vamos, déjense de joder con la violencia de género.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mire, le voy a explicar cómo es.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En principio, y la voy a cortar con este tema que me da asco, si usted insultó al fiscal, públicamente puso las pruebas que condenaban a Cristina por chorra.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Si usted está en un lugar donde está el fiscal y es educada, no empieza a putear y hace el conventillo que hizo.",
+      "entidades_detectadas": [
+        "putear"
+      ]
+    },
+    {
+      "frase": "Si el fiscal dijo \"vos también vas a ir presa\", y será porque tiene razones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el amigo del fiscal la agarró de los brazos para separarlo y usted es mujer, ¿qué hombre tiene al lado de un lagarto que no la defiende?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque si a mi mujer un hombre le pone una mano encima, lo cago a trompadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si a mi mujer un tipo se le acerca a putearla, lo cago a trompadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdadera violencia de género la ejerció su marido por maricón con usted.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque no se metió, porque ustedes fueron a propósito a hacerle un escrache al fiscal **Luciani**.",
+      "entidades_detectadas": [
+        "Luciani"
+      ]
+    },
+    {
+      "frase": "Entonces su marido no se metió para que el escrache sea más grande, y a lo mejor la reina de la Argentina los iba a premiar por la cagüetería.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Pero la verdad, yo me preguntaba mientras escuchaba a ustedes con todas las cosas que le hicieron en dos minutos, poco menos que la crucifican en la rambla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y su marido de qué la jugó, de pollerudo?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Me estaba filmando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque supuestamente en una pareja, si a mi mujer la tocan, yo lo cago a trompadas, sea a **Luciani**, sea quien fuere.",
+      "entidades_detectadas": [
+        "Luciani"
+      ]
+    },
+    {
+      "frase": "Pero evidentemente no tiene un hombre que la defienda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es violencia de género.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está bien que a la feminista no la tienen que defender los hombres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces no digan que es violencia de género.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si usted se jugó a molestar a alguien en un restaurante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si usted se jugó a basurear a alguien en un restaurante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si usted dijo las barbaridades que dijo de un fiscal que consiguió, gracias a Dios y la virgen, que condenen por delincuente a Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Que todo el mundo, como usted dice, no la quiere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que toda la Argentina no la quiere nadie.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Que no la quieren son los alcahuetes, genuflexos y obsecuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y como decía en esta nota, la desesperación de las rémoras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alcahuetas, rastreras, que vivieron de Cristina tantos años, cundió en estos días.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Como Cristina, como esas madres sin leche, echan a los hijos para que no les sigan lastimando la teta.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y yo renuncio para sacarse de encima a todos los alcahuetes, que viven colgados de sus tetas, para seguir haciendo pingües negocios con las atrocidades que ella comete.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero Cristina se acabó.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y por más que muchos no lo puedan creer, y se restrieguen los ojos, y digan \"no, es mentira, va a volver\", como dice mucho periodista, va a volver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por más que vuelva, no la quiere nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Puede volver el padre **García** a la iglesia?",
+      "entidades_detectadas": [
+        "García",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie va a ir a sus misas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con respecto a **Luciani**, lo que sería menester es que lo defendamos todos los argentinos.",
+      "entidades_detectadas": [
+        "Luciani"
+      ]
+    },
+    {
+      "frase": "Que no permitamos nunca que esta pareja de insolentes y maleducados insulten a un fiscal, a un actor o a un periodista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que el pueblo no diga \"yo estaba y no, no\", que se pare.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted no tiene derecho a hacer esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie tiene derecho a escrachar a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero lo malo, que ahora los odiadores van a empezar a escrachar a todo el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Van a escrachar a los periodistas, a los fiscales de nuevo.",
+      "entidades_detectadas": [
+        "Van"
+      ]
+    },
+    {
+      "frase": "Porque están como cuando...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin querer rompiste una avispero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No saben dónde volver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y andan dando vueltas rompiendo las pelotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mismo no va a ser igual que con **Macri**, que la palabra \"miedo\" daba vueltas durante 20 años.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Como digo en esta nota, el relato de hacer de un enano de jardín de yeso el coloso de **Rodas**, ya no nos corre más con la vaina.",
+      "entidades_detectadas": [
+        "Rodas"
+      ]
+    },
+    {
+      "frase": "Ya no le tenemos miedo ni a usted, señora, ni a su marido, ni al feminismo, ni a Cristina, ni a Máximo, ni a la Cámpora.",
+      "entidades_detectadas": [
+        "Cámpora",
+        "Máximo",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Porque nos rompieron el país 20 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque nos rompieron el país 20 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos destruyeron la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Entonces, por más que usted vaya al programa de **Duggan**, el obsecuente, al cagüete, a decir cómo fue, interjiversar, habían grabado todo el video, que lo tenían preparado para largarlo, pero la prensa los cagó, porque se la jugó primero.",
+      "entidades_detectadas": [
+        "Duggan",
+        "habían"
+      ]
+    },
+    {
+      "frase": "Por más que anden por los canales y se expliquen al filósofo de la nada cómo fue el hecho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes fueron a insultar a **Luciani**, porque le cagó el cagón.",
+      "entidades_detectadas": [
+        "Ustedes",
+        "Luciani"
+      ]
+    },
+    {
+      "frase": "Porque le cagó el cagón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y se le acudió a la nada a **Luciani** porque le condenó a la jefa de la banda a la que ustedes pertenecen.",
+      "entidades_detectadas": [
+        "Luciani"
+      ]
+    },
+    {
+      "frase": "Porque cuando usted defiende a Cristina, no es del mismo partido político, es cómplice, partícipe necesario, para que el país hoy esté fundido, con toda la plata que se robaron durante 20 años, con la bochornosa cantidad de guita que seguimos encontrando todos los días, que se afanaron durante 20 años, con el latrocinio que se mandaron con los pobres, con los pobres durante 20 años.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Por eso, esto de esperar que un fiscal o un periodista vaya a un boliche para salir corriendo con su marido a insultarlo, y le dé muy baja estopa, y por más que se le ponga la piel de gallina, el único gallina que había ahí era su marido, que no saltó a defenderla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque no dijo nada del marido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La tocó una.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tocó el otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el marido que le estaba filmando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va a hacer el escrache.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son muy obvios y muy ridículos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son muy berretas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son muy pocas cosas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son muy inmersos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son muy rastreros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos cansados de todos ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos podridos de Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "No la queremos ver más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No la queremos ni ver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como digo en esta nota que salió en arroba **Ángeles Checopar**, termina hablando de que lo único que queremos de Cristina, que no nos rompan las bolas.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Ángeles Checopar"
+      ]
+    },
+    {
+      "frase": "Igual que ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que no jodan más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual que su marido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y que se llamen al ostracismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ostracismo es el retiro de la sociedad, a veces por delincuentes y otras veces por vergüenza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antiguamente en Grecia, cuando alguno era insoportablemente corrupto o un delincuente, se lo condenaba al ostracismo.",
+      "entidades_detectadas": [
+        "Grecia"
+      ]
+    },
+    {
+      "frase": "Se lo llevaba en un bote a una isla y se lo abandonaba ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá mucha isla no tenemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y las que tenemos están quemadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero tenemos el mismo país que le va a provocar el ostracismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es esta historia que, aunque se vayan a Mar del Plata a comer cornalitos, de las cagadas que usted hace se entera toda la prensa.",
+      "entidades_detectadas": [
+        "Mar del Plata"
+      ]
+    },
+    {
+      "frase": "Y algunos nos atrevemos a decirlo en la cara.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dejen de romper las pelotas.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Mar del Plata",
+    "Belinda",
+    "Graciana Peñafort",
+    "Donda",
+    "Dejen",
+    "Luciani",
+    "Navarro",
+    "Mire",
+    "Vamos",
+    "Belén",
+    "Cámpora",
+    "río",
+    "Ahí",
+    "Nisman",
+    "Vení",
+    "Miren",
+    "Está",
+    "Máximo",
+    "Ángeles Checopar",
+    "Cristina Kirchner",
+    "Tocó",
+    "Acá",
+    "Diego Luciani",
+    "Instagram",
+    "Grecia",
+    "Ayer",
+    "García",
+    "Quiero",
+    "Usted",
+    "Van",
+    "Recién",
+    "¿Quién",
+    "habían",
+    "Duggan",
+    "Cristina",
+    "Vas",
+    "Ustedes",
+    "Bueno",
+    "Rodas",
+    "Moreno",
+    "María Marta García Belsunce",
+    "la Argentina",
+    "¿",
+    "putear",
+    "Héctor",
+    "Macri"
+  ]
+}

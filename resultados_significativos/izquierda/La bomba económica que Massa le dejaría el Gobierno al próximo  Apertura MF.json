@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 5
+    },
+    "score_promedio": 0.29,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Con toda la información, estamos junto a ustedes, con todo el equipo de **Jorge Fontevecchia**, que, como saben, está en Brasil donde se están cumpliendo los 30 años de la revista Caras.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Allí le preguntaban sobre la posibilidad de frenar esto que parece, según declaró la propia oposición, una bomba que le dejará este gobierno al próximo presidente.",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto decía el ministro **Massa**.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, no hay ninguna, absolutamente ninguna chance de que usted sea candidato a presidente.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Yo era joven\", decía en otro momento, diciendo que él tenía cierta arrogancia cuando hablaba en otro momento de su vida y ahora está más asentado.",
+      "score": 0.172,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, yo no diría olvidadas, pero sí es cierto que **Massa** está pagando haber roto una regla no escrita entre funcionarios económicos, que es nunca pronosticar, nunca pronostiques cuál va a ser la inflación, nunca pronostiques cuál va a ser el nivel del dólar, o esos indicadores tan sensibles.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Massa** hizo una carta muy fuerte hablando de un 3% o de un índice que empiece con 3 para la inflación del mes de abril, cuando todavía tiene muchísimo por delante, tiene por delante sobre todo no sólo lo más cotidiano, el programa de Precios Justos, digamos, los precios que tienen que ver con la canasta básica, sino sobre todo el tema de tarifas, todo el andamiaje de reducción de subsidios que tanto le costó a **Martín Guzmán** poner en marcha cuando fue ministro, es uno de los puntos clave y, por supuesto, es uno de los puntos que hace dudar a todo el mundo de que se pueda llegar a esa cifra.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, de todos modos, esto que decías vos, ¿no había aprendido **Massa** a esa lección que podría haberse aprendido después del gobierno de Macri, cuando hablábamos de los brotes verdes, te acordás, que como que cada vez se iba alejando más?",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, el gobierno de Macri tenía un esquema de metas de inflación, hay siempre una gran confusión en cuanto a que el esquema de metas de inflación no implica un pronóstico, sino que implica un objetivo, es decir, el gobierno se fija un objetivo a alcanzar, en el caso de Macri, naturalmente es claro que no lo consiguió, pero digo, en este caso es distinto, él hace un pronóstico, él dice \"vamos a llegar a tal nivel en los próximos meses\" y es claro que la inflación todavía tiene muchísimos desafíos por delante, en precios regulados, como decíamos recién, que tienen que ver con las tarifas, y también, por supuesto, en el esquema monetario, digamos, todavía hay muchísimos pesos dando vueltas por el mercado y eso, en algún momento, va a impactar en el índice inflacionario.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Ale**, políticamente, **Massa** también habló acerca de en cuánto puede jugar positivamente para el Frente de Todos su mejor desempeño, su buen desempeño en el Ministerio de Economía o cómo termine dejando la cartera de Hacienda, lo decía si, se lo analizamos.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo sabe **Massa**, lo sabe **Alberto Fernández**, lo sabe **Cristina Fernández de Kirchner**, que está haciendo un apoyo silencioso, si se quiere, a **Sergio Massa**, es decir, no explícito, pero tampoco pone piedras en el camino.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, señores, lamentablemente no se terminó de ir el COVID, se habla nuevamente de la vaca loca, y en algunos sí, y en la preocupación que genera esto en el sector agropecuario y, además, la gripe aviar.",
+      "score": 0.321,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habló **Sergio Massa**, el ministro de Economía, acerca de esto, decía: \"Ustedes saben, en las últimas horas o días, el sistema de sanidad animal argentino, que es la garantía de que nuestra producción tenga condiciones sanitarias para poder abastecer nuestro mercado interno y poder vender productos argentinos al mundo, ha detectado que junto con otros países, Argentina está viviendo el ingreso de aves, por ahora no en el proceso de producción, mucho menos en el proceso de consumo, que de alguna manera transportan lo que se denomina la influenza o gripe aviar, por eso hemos tomado la decisión de poner en el máximo alerta a todo el sistema sanitario y al sistema de la Secretaría de Agricultura, Ganadería y Pesca.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a llevar adelante, por un lado, un programa de detección con inversión del Estado para compensar al productor que tenga que denunciar la situación de algún animal que, de alguna manera, pierde, con un sistema de aumento de personal, dotación, infraestructura, logística y tecnología en el SENASA, a los efectos de garantizar que, de una manera cierta y efectiva, tengamos en los próximos cuatro meses un programa coordinado de barrera sanitaria que nos permita que nuestra producción siga abasteciendo normalmente mercados internos y siga además abasteciendo normalmente los mercados internacionales\".",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La preocupación del gobierno nacional, yo te decía, no se terminó de ir el tema del COVID, la alerta en Brasil por casos de vaca loca y ahora la gripe aviar, y está atado a lo que veníamos diciendo, no, la, el gobierno necesita recuperar la economía para las próximas elecciones, esto está atado a la inflación y está atado a las reservas.",
+      "score": 0.238,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Fernández Mera** (el especialista), por supuesto, es el especialista, pero hay preocupación por esto porque se puede afectar lo que tiene que ver con exportaciones en un momento en que lo que necesita la Argentina justamente son dólares.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Buen día, **Nuria**, así es, una inquietud que está empezando a asomar en científicos, en epidemiólogos, porque la virus afecta primordialmente a las aves, pero ya se están registrando centenares de casos que el virus también está llegando a mamíferos, en especial en Latinoamérica y vamos a ampliar en minutitos este tema, pero le quiero consultar también a **Jorge Elías**, ya que hablamos sobre la región, ¿qué pasa en torno a este tema fuera de los límites de la Argentina?",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bien, **Juan José Baillo**, otro de los funcionarios del gobierno que habló sobre este tema, decía exactamente lo siguiente: \"Trabajamos como lo venimos haciendo ya desde hace varias semanas, tanto con el Servicio Nacional de Sanidad Animal, como distintos organismos provinciales y distintos de fuerza, la fuerza de seguridad, perdón, a nivel nacional y también fundamentalmente con el sector privado, por las cámaras empresariales, para elevar todas las normas de bioseguridad, para preservar y proteger a nuestro sistema productivo.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos a muy poquito del primero de marzo, además apertura de las sesiones ordinarias del congreso de la nación y ya habría conflicto por las presencias en el congreso de quien obviamente tiene que abrir, el presidente de la nación, ¿no?",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el presidente de la Antártida hoy, de eso vamos a hablar en un ratito.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este, si llega, están usuarios de llegar a la Antártida, va a ser el primer presidente en casi 25 años en llegar allí y se ha planeado una cadena nacional en el marco de lo que ya es una campaña electoral y se supone que a las 12 del mediodía está prevista esta ventana de la que, de la que habla **Alejandro**, que es las posibilidades que tiene en este caso el Hércules de aterrizar.",
+      "score": 0.383,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

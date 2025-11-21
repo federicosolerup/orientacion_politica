@@ -1,0 +1,391 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 45,
+      "derecha": 30
+    },
+    "score_promedio": 0.423,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Veremos si están justificadas o no, es decir, si hay motivos razonables como para que haya semejante estado de tensión, no solo, no diría en la Argentina, pero sí en la ciudad de Buenos Aires.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se está juzgando y se ha pedido una condena muy severa para una figura importantísima, central de la vida política argentina, como es la ex presidenta Cristina Fernández de Kirchner, la actual vicepresidenta.",
+      "score": 0.679,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y como parte de esta discusión, de la que después vamos a hablar en términos muy generales con un gran invitado que tenemos hoy, que es Luis Moreno Ocampo, parte de esta discusión la introduce Cristina Fernández de Kirchner y sus acólitos, sus seguidores, quienes la siguen, cuestionando la legitimidad del tribunal que la está juzgando, es decir, la raíz del problema.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta forma de encarar su defensa en términos políticos ha adquirido una forma caricaturesca, si podríamos decir así, en las palabras, en el mensaje que le envía el hombre fuerte de Venezuela, que no es Maduro, que es Diosdado Cabello.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire lo que dice Diosdado Cabello para saludar, para respaldar, para solidarizarse con Cristina Fernández de Kirchner en este trance judicial.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde aquí nuestro abrazo solidario, nuestro cariño, nuestro respeto a la presidenta Cristina Fernández, el Partido Socialista Unido de Venezuela, se suma a todos los gestos de solidaridad con ella y con los que están siendo perseguidos por la justicia argentina.",
+      "score": 0.186,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No tenemos nosotros ninguna duda en la misma justicia argentina que tiene el avión venezolano allá y no sólo el avión sino que tiene retenidos, retenidos a los compañeros allá en compañeros tripulantes de ese avión y compañeras tripulantes de ese avión en Argentina sin ninguna justificación.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Secuestrado, vale el término secuestrado.\" Bueno, estas son las palabras de Diosdado Cabello que sintéticamente uno podría decir, afirma, que la está juzgando la ultraderecha y la está juzgando una justicia que es subordinada al imperio americano, a los Estados Unidos.",
+      "score": 0.458,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner establece como en casi todas sus discusiones dramáticas un puente entre quienes la contradicen, en este caso entre quienes la juzgan y la dictadura militar.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que la está juzgando en el fondo es la dictadura porque ella está envuelta en la bandera, tal vez la bandera más legítima que se puede encontrar en la vida pública en cualquier lugar que es la de los derechos humanos.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo diría, a ver, antes, me gustaría que usted mire un pasaje de la presentación que hizo Cristina Fernández de Kirchner después del alegato del fiscal Luciani el martes pasado por su canal de YouTube.",
+      "score": 0.455,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente, el presidente, el papá, el papá del presidente del tribunal oficial de la Marina Jiménez Uriburu postea contra mí en el mismo espacio del Liverpool.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente del tribunal, Jiménez Uriburu, no me puede juzgar.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dos, porque el mismo juez, presidente del tribunal Jiménez Uriburu, es hijo de un marino que fue edecán o jefe de protocolo de ceremonial, dice ella, de Galtieri y de Viola.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿De dónde saca esto Cristina Fernández de Kirchner?",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cosa que no le gustaría a Cristina Fernández de Kirchner que se haga, por ejemplo, con su hija o con su nieta, ni ahora ni más adelante, o con su hijo.",
+      "score": 0.847,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más, en el año 63, durante la presidencia de Illia, ese militar que ya estaba retirado, estamos hablando más de 60 años atrás o 60 años atrás, y era director, miembro del directorio de YPF durante el gobierno de Arturo Illia, un gobierno radical.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué nos enteramos de que este represor que le cargan a la familia de Hornos no era tal?",
+      "score": 0.541,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se le conoce actividad durante la dictadura militar.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Verbitsky no le yo a Verbitsky, pero la hizo confundir a Cristina.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora usted vio que yo mostré la nota inicial de Verbitsky, donde le imputa al juez que está juzgando a Cristina, Jiménez Uriburu, que el abuelo de su mujer era un represor.",
+      "score": 0.425,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo borró pero no aclaró que le está cargando a una familia, grupo de familia, ya no está.",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora Cristina Fernández de Kirchner hace una segunda imputación.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ¿qué no dice Verbitsky en su nota, porque también lo saca de las notas de Verbitsky y tampoco a Clara Cristina, que Jiménez Uriburu, el juez que es hijo del militar, del marino que trabajaba con Viola, en el año 2014 le dio 15 años de prisión a Viola?",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta condena, que es la condena por los crímenes del Hospital Posadas, el hospital donde le iban a dar la vacuna a Verbitsky si no fuera que se la dieron finalmente en el despacho de Ginés González García, en esta condena que Jiménez Uriburu aplica como miembro del tribunal oral del que forma parte ahora, es decir, la están juzgando en el mismo juzgado que juzgaron a Viola.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También se juzga Muiña, que es un caso que llamó a toda una movilización por el tema del 2x1, usted debe recordar, en el tema de la corte, y también dicta la misma condena el miembro de la Cámara Federal, Pablo Bertuzzi, a quien el kirchnerismo también vincula a Macri y, por lo tanto, vincula a la dictadura, con relaciones de transición y de contaminación que uno no termina de entender nunca.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero porque volvemos a encontrarnos con un problema extraordinariamente delicado para la sociedad argentina y es el uso de la bandera de los derechos humanos como una bandera de facción.",
+      "score": 0.224,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay una causa, un valor, algo que debería tener por definición carácter universal, es decir, que le vale igual a todos los seres humanos por ser humanos, es el tema de las garantías identificadas con los derechos humanos.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se volvió a conformar el directorio con miembros del anterior directorio, pero no creyeron del caso tener que volver a convocarlo y prefirieron que la Argentina esté representada por Roberto Gargarella y por Ricardo Gil Lavedra.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El viejo Vizcacha decía, \"hacete amigo del juez, no le des de qué quejarse\", no es un buen consejo, no son edificantes los consejos del viejo Vizcacha, pero el doctor Veraldi, que es el abogado de Cristina Fernández de Kirchner, le tendría que recomendar, \"no te hagas amiga del juez, pero tampoco te hagas enemiga\", porque ahora, humanamente hablando, y seguro no va a ser así, pero humanamente hablando, el doctor Jiménez Uriburu debe tener una actitud heroica para ser ecuánime e imparcial después de que le cargan lo peor de la dictadura a él que juzgó dictadores y los condenó.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las organizaciones de derechos humanos, muchas de ellas, otras no, muchas, en esta etapa de la historia argentina se han alineado políticamente y han tenido una manifestación últimamente a favor de Cristina Fernández de Kirchner y en contra de una figura, de una institución, y están en contra, muy razonablemente, ya lo dijimos acá muchas veces, que es la de la asociación ilícita.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La figura penal de la asociación ilícita es una figura resbaladiza, se usaba a comienzos del siglo pasado, cuando no se le podían encontrar vínculos penales concretos, hechos delitos concretos a personas que formaban parte de bandas, en general bandas ideológicas, violentas, esto fue sobre todo enfocado o pensado alrededor del anarquismo.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, se está dejando de lado otro problema, que es que a Cristina Fernández de Kirchner no se le imputa solamente asociación ilícita, se le imputa administración fraudulenta.",
+      "score": 0.383,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Basta demostrar que el imputado administraba bienes públicos, que los administró mal fraudulentamente, es decir, que le ocasionó un perjuicio objetivo al estado y que alguien se benefició, en este caso sería Lázaro Báez.",
+      "score": 0.723,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni siquiera es necesario demostrar que el que administró mal esos bienes del estado, que le confió la sociedad, esto es algo que olvidamos muy seguido, como decía Borges, no tenemos la noción de que el estado somos nosotros, esos bienes nuestros que ese servidor público administró mal para beneficiar a alguien, ni siquiera se tenía que haber beneficiado él.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque entra en el encuadramiento del artículo 36 de la Constitución Nacional que establece que para ese tipo de delito, que implica el enriquecimiento de alguien, no cabe ni el indulto ni la conmutación de penas.",
+      "score": 0.642,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está convencida que desde la casa de gobierno se empezó a hablar de indulto, probablemente ella crea que hasta capciosamente, porque si yo digo \"indulto\" estoy diciendo \"culpable\", no cabe el indulto para un inocente, no cabe el indulto para alguien que no fue condenado.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso Oscar Parrilli, que debe ser la persona más ligada a Cristina Fernández de Kirchner, la que mejor la expresa, fue él el que salió a emitir un tuit diciendo, \"no, no, no, no, queremos justicia, no indulto\".",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández fue a la televisión, fue al programa de Bonelli de Alfano a dos voces y dijo \"yo no la quiero indultar, no me gusta indultar\", no porque sea inocente, es un exostruo argumento, dijo \"porque es una institución monárquica\".",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una posición ambigua de Alberto Fernández en todo esto, es más, en todas estas manifestaciones que estamos viendo en Uruguay, Junkal no aparece mucha gente de Alberto Fernández, casi diría que no aparece nadie.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno tiene ganas de decirle a los que la quieren a Cristina y que la rodean, \"cuídenla más, no la intoxiquen con errores\".",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al propio Verbitsky daría ganas de decirle que si la quiere, no sabemos si la quiere, pero si la quisiera, bueno, que controle un poco la información que publique y que le da, porque no estamos para papelones a esta altura.",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner ahí usó el celular, los mensajes que hay en el celular de José López, que llegaron a la causa por pedido de los fiscales.",
+      "score": 0.66,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aparentemente, hasta donde yo sé, acá hay una zona gris, pero hasta donde yo sé, los defensores de Cristina y de los demás acusados no miraron esa material, no controlaron lo que había ahí y ahora vamos a ver si el tribunal lo incorpora o no.",
+      "score": 0.199,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una discusión de la calidad de esa prueba, del momento en que fue introducida en la causa, pero Cristina los hizo propios esos mensajes.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos mensajes no tienen que ver con la obra pública en Santa Cruz.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La denuncia por Santa Cruz la hace Macri a través de Javier Iguacel, que era funcionario de él.",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y porque Macri debe saber muy bien que si abrían el gran angular y en vez de buscar lo que pasaba en la obra pública de Santa Cruz, buscaban en todo el país y a la larga o a la corta se encontraban con Franco Macri, que tenía una relación estrechísima con Kirchner, hasta pidió que le gustaría tener un presidente de la Cámpora, con Angelo Calcaterra, que se cansó de hacer negocios con el kirchnerismo, inclusive de causas judiciales, donde está involucrado en coimas de Odebrecht, pactadas con Ricardo Jaime, y como aparecen en estos mensajes con su amigo Nicolás Caputo, que también forma parte del negocio de la obra pública de los negocios regulados por el Estado.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces Cristina aún a costa de inocularse más delitos, porque todo lo que dijo de la relación entre Caputo y López hay que investigarlo y a lo mejor aparece algo raro ahí, en lo que ella dijo hay solo mensajes de familiaridad, plantea, se pregunta si la plata que recibió López esos nueve millones de dólares, que ella denuncia estrepitosamente, apasionadamente, como si López no hubiera sido funcionario de ella y de su esposo, en la nación y en la provincia, ella dice \"esa plata de esos bolsos del convento con la ametralladora y los nueve millones de dólares, vino, estoy segura\", dice, \"estoy segura, de Caputo\".",
+      "score": 0.231,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina en defensa de que no fue Cristóbal López el que preciosó esa plata, nota al pie de página, no sabemos si venía de Caputo, supongamos que no, pero si venía de Caputo no debería extrañar que el banco fuera de Cristóbal López porque entre Caputo y Cristóbal López había una relación estructural durante todo el tiempo en que Macri gobernaba la ciudad de Buenos Aires y López era el dueño de los casinos que sigue teniendo en la ciudad de Buenos Aires, punto y aparte.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, pero señora, la pregunta que hay que hacerse es cuándo López, José López, recibió los dólares, no cuando entraron al banco y todavía no sabemos cuándo y por qué y de dónde venían esos dólares que López fue a arrojar detrás del muro de un convento a las 3 de la mañana en General Rodríguez.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la ciudad de Buenos Aires, porque hay algo curioso en esos mensajes que se cruzan José López y Nicolás Caputo, porque López le pide a Caputo gestiones como si él fuera el jefe del Instituto de la Vivienda de la ciudad de Buenos Aires.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después le vamos a preguntar a Luis Moreno Ocampo, que si algo fue en la vida fue fiscal en la Argentina a nivel internacional, etcétera, qué es un fiscal, cuál es su función y qué hay que esperar de él.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está diciendo De Vido es que Báez lo ponía Santa Cruz, obviamente que Santa Cruz son los Kirchner, pero administrativamente, documentalmente él está diciendo \"yo no tuve nada que ver\", pero lo más interesante es por qué no están involucrados en esta causa los jefes de gabinete y ahí se toca Alberto Fernández y Sergio Massa, entre otros, y los ministros de economía que tuvo Cristina Fernández de Kirchner, entre los cuales están Boudou, Kicillof, etcétera.",
+      "score": 0.423,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina, todo esto, emplea dos argumentos, dice \"me están culpando a mí por algo que ocurría 13 escalones más abajo\" y compara en cambio a Macri por cosas que pasaban en la AFI como espiar a las víctimas del Ara San Juan y la AFI dependía directamente de él.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y dice al final \"yo era la boluda\", que es una sensación que intuyo, esto es solo intuición, es una presunción difícil de mostrar, van a ver por qué, porque entra en una zona muy resbaladiza, muy brumosa, intuyo que cuando ella dice \"yo era una boluda\" está hablando de Néstor Kirchner, es decir \"yo ahora estoy heredando no solamente la fortuna que presuntamente puede haber acumulado Kirchner sino los problemas que me dejó Kirchner\".",
+      "score": 0.24,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque López tiene una causa por enriquecimiento ilícito desde el año 2008, entonces a nadie le llamó la atención desde el 2008 al 2015 la conducta de López, se enteraron de que López presuntamente, y su rayo presuntamente, porque tiene todo el derecho de la inocencia de cualquier ser humano, presuntamente robaba, se enteraron cuando aparecieron los bolsos en el convento, desde el 2008 podrían haber mirado, pero eso no se miraba o porque se consideraba que las denuncias contra López también eran lofer y no había derecho a denunciarlo y era la derecha ligada a los Estados Unidos la que quería saber de dónde sacaba la plata o los bienes que iba acumulando José López o porque todos sabían y miraban para otro lado que lo que había era un mecanismo de financiación de la política y esto también la indigna Cristina, que existe prácticamente en todas las jurisdicciones del país, solo que muy pocas tal vez solamente en Santa Cruz aquel con el cual se hacía el negocio de generar recursos para la política tenía una relación de intimidad insospechada que es Lázaro Báez con los Kirchner, el problema de Cristina no es López, el problema de Cristina es Lázaro Báez, eso es lo que hay que explicar y ahí estuvo la torpeza del que ideó este mecanismo de financiamiento que seguramente ha sido Néstor Kirchner, si es que esto se termina demostrando.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que estamos viendo es las verdades de la política que no siempre llegan o no siempre se pueden concretar en las verdades de los expedientes, por eso sería interesante que Cristina Fernández de Kirchner le preste más atención al expediente porque le va a resultar más fácil pelear en el expediente que pelear frente a la historia, que en estos temas daría la impresión que ya la condenó, solo que su grupo, su facción, su movimiento a estos temas que tienen que ver con la ética en la administración de recursos nunca le ha dado demasiada importancia, le da importancia a otros temas a los que ella también le está dando importancia, por eso está produciendo una movilización popular, está produciendo una movilización popular porque tiene que rescatar el proyecto político de la ciénaga de los tribunales o de la ciénaga de los expedientes y quiere convertirse de nuevo en central y se está convirtiendo en central.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llama la atención cómo ha desaparecido el presidente de la escena pública, tal vez estratégicamente frente a todas estas imputaciones, tiene una ventaja en la movilización y acá se ve que las piezas se han movido muy bien, el ajedrez del poder político se ha movido muy bien, el PJ de la provincia de Buenos Aires y el PJ de la capital los controlan ambos, La Cámpora, Máximo Kirchner en la provincia de Buenos Aires, Mariano Recalde en la capital federal, y produce una movilización alrededor de Cristina con el argumento de la victimización.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un argumento no tanto a favor de Cristina sino en contra de los que han sido siempre los enemigos del kirchnerismo y de una posición ideológica y convencidamente antiliberal del kirchnerismo y sobre todo de Cristina Fernández de Kirchner: son la justicia y la prensa, la justicia independiente y la prensa libre, son dos dispositivos que se da a la sociedad liberal para limitar al poder del estado y eso entra en contradicción con otra concepción y acá está el conflicto ideológico que hay hoy en la Argentina, que es la concepción según la cual el único poder legítimo es el de los votos o el de la movilización popular.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es que Cristina conoce el manual de la constitución, adhiere a él pero se equivoca, no tiene otro manual, es lo mismo pero visto desde otro ángulo, es como si yo escribiera en un papel un 6 y ve un 6, pero usted desde ahí ve un 9, para mí es evidentemente un 6 y para ustedes evidentemente un 9, son dos cosas distintas en los mismos datos en la misma figura.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta movilización está generando un problema, por eso al comienzo, al comienzo de todo, decía \"hay que ver si se justifica esta atención\" en un país con 100% de inflación, que es lo que anticipan que va a haber a fin de año los economistas, más de 50% de pobreza, más del 60% de pobreza en el conurbano, una mayoría de pobres de menos de 14 años en ese conurbano, con indicadores sociales y de consumo que se están deteriorando pero rapidísimamente.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos discutiendo si hay que poner una valla o no, fíjense la irracionalidad de esta historia, empezó con el temor de Larreta por las bengalas, Larreta estaba atemorizado el viernes a la noche porque empezaba a haber bengalas, fuegos artificiales, pirotecnia en toda el área que rodea el edificio de Uruguay y Juncal, donde vive la vicepresidenta, decidió poner las vallas por miedo a una especie de Cromañón al aire libre.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el kirchnerismo ve las vallas, se va desde Parque Lezama, donde iba a ser una movilización probablemente muy exitosa, se va atraído por las vallas, no es que a una movilización a la que se le ponen vallas, hay una valla que atrae la movilización, es todo al revés y en el ir contra las vallas se mueve la policía haciendo respetar el orden, es un enorme malentendido.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Voy a decir una exageración pero es para que se entienda: en el año 1961, el muro de Berlín tenía meses, había un protocolo de cruces por un pasaje que todavía usted lo puede ver en Alemania, está en el borde de lo que era Alemania Oriental, Checkpoint Charlie, era la zona de pasaje de una u otra Berlín, pactada protocolariamente por la Unión Soviética y sobre todo EEUU, se establecía un protocolo de pasaje, pasa un abogado, hay una discusión con los rusos, los rusos comienzan a resistir el pasaje de este abogado y hacer inspecciones especiales con la policía y los americanos, Kennedy, comienzan a poner tanques del lado occidental, contestan los rusos con tanques, empieza a crecer durante 16 horas en el mes de octubre esa tensión y está todo el mundo pensando que ahí empieza la Tercera Guerra Mundial por un problema y únicamente, lo digo, de vallado.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jorge Macri y Marcelo D'Alessandro, el ministro de seguridad de la ciudad de Buenos Aires, con Wado de Pedro y Aníbal Fernández intentaron establecer un teléfono rojo, al final del problema, no al comienzo, porque lo que hace gente normal es decir \"Cristina, estás en tu casa, hay inquietud alrededor tuyo, ¿qué hacemos con la movilización?\", es más, ¿querés controlar vos con la policía federal?",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, Larreta claro, está en una situación complicada, que a mi juicio viene manejando bastante bien, porque Larreta es intendente y tiene que, y subrayo la palabra intendente, para darle la dimensión municipal que tiene, barrial, tiene que custodiar la seguridad de los vecinos y a la vez es candidato a presidente y desde su partido le piden que maneje las vallas y la fuerza pública como si fuera candidato a presidente llevando a Buenos Aires y a la policía metropolitana a una especie de guerra contra el kirchnerismo, que es lo que le pidió de una u otra manera Patricia Bullrich cuando dice \"las vallas hay que ponerlas\" y cuando están puestas no se sacan aunque estén mal puestas, pero que estamos en la guerra.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante que Grabois promueva que se eliminen vallas puestas por el estado pero no promueva que se pueda disolver un piquete hecho por gente que protesta, como la que habitualmente protesta alrededor del, es decir, tendría más derecho un particular a interrumpir la vía pública que el estado.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner recupera la escena, va a ser candidata, ni ella sabe, lo que sí sabemos es que está buscando algo en particular que no es una candidatura, es la lapicera con la que se escriben las candidaturas.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para lo que necesita valla Cristina es para el ajuste de Massa que la va acorralando, recortes en educación, recortes en salud, inflación que no se detiene, alineamiento internacional absolutamente contradictorio con ese mensaje de Maduro que vimos al comienzo y una necesidad de, perdón, de Diosdado Cabello, que es el jefe de Maduro y una necesidad urgente conseguir dólares, tanto que al maldito sector agropecuario, a los malditos chacareros, Massa está a punto de darles un dólar especial para convencerlos de que vendan la soja y la pregunta que se hacen ellos es \"mi problema no es tener o no tener soja, mi problema es tener o no tener pesos\", ¿qué incentivo tengo no a no tener soja sino a tener los pesos que voy a tener cuando venga la cuando venda la soja con este nivel de inflación?",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está pensando en otorgar un dólar especial al campo que dure durante septiembre, sigue habiendo negociación, todavía no llegaron a nada y los 5.000 millones de dólares que pensaba cuando asumió, que ni lo sueñe, porque porque parten de un error.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El silo bolsa es un gran invento que le dio, le abrió el techo al campo argentino porque ya no se necesita tener gran capacidad de acopio, el acopio se puede hacer en el propio campo, con lo cual se puede producir mucho más.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, esto es lo que gana un productor, tomamos un productor promedio de la zona oeste de la provincia de Buenos Aires, tampoco es la zona núcleo, imaginemos Villegas y estamos hablando de alguien que arrienda, que es la gran mayoría, no nos metemos en el tema del propietario porque es otra cuenta bastante parecida a esta, supongamos alguien que arrienda un campo en una zona de un rinde que no es espectacular, tampoco es malo, General Villegas, en retenciones y aporte al fideicomiso aceitero, se le va el 34% de, no de lo que gana, de lo que tiene del silo bolsa, 34% se lo lleva el estado, 11% se va en flete y gastos de comercio, el arrendamiento le lleva 24%.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si vemos que el campo es propio, bueno, ahí hay otro cálculo con el costo del capital, pero supongamos 24% de alguien que arrienda, las semillas, los insumos, cosechar todo eso se lleva 19%, la estructura y el impuesto a las ganancias se llevan 6% del silo bolsa, estructura que es toda la administración sin contar la contabilidad porque hay campos que tienen su empresa que tienen la contabilidad adentro de la empresa y otras que la delegan en terceros, ¿qué le queda al productor?",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este silo es el silo patrón, podríamos decir, como el metro patrón, no solamente no hay oferta de dólares, el precio del gas que consumimos nosotros para generar energía se ha disparado estrepitosamente por el problema de la guerra y por una suspensión del gasoducto que lleva el gas desde Rusia al norte de Europa por mantenimiento, comillas, obviamente es una estrategia de Putin.",
+      "score": 0.422,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 75
+  },
+  "etiqueta_original": "neutral"
+}

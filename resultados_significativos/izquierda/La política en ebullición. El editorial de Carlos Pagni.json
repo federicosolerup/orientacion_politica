@@ -1,0 +1,511 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 73,
+      "derecha": 26
+    },
+    "score_promedio": 0.315,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Kirchner dijo hace un par de semanas: \"El objetivo es entrar al ballotage\".",
+      "score": 0.74,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy tenemos un invitado que conoce como nadie la maquinaria del peronismo y del kirchnerismo, que es Julio De Vido; le vamos a preguntar por esta idea, porque si Cristina Kirchner está diciendo \"el objetivo es entrar al ballotage\", está diciendo algo probablemente inconcebible, que es que el peronismo podría no entrar al ballotage, salir tercero.",
+      "score": 0.204,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, frente a una corriente de rechazo, que es la que se manifestó en los niveles de abstención de hace dos años y se manifiesta en esa reticencia, en esa retracción del público ante los encuestadores, las dos fuerzas políticas más importantes de la Argentina están enredadas en sus propias polémicas y probablemente, en la exhibición de esas polémicas, incentiven, refuercen la tendencia al desapego, a quitarle el cuerpo a la política, que se manifiesta en esos niveles de abstención, o alimenten el discurso antipolítico de candidatos como Javier Milei.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero claro, es natural y es saludable si esos conflictos pueden ser traducidos en términos de intereses generales, de valores, de objetivos a los que pueden ser convocados los ciudadanos detrás de esas peleas.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para entender esta idea, se podría recurrir a cosas que ha venido diciendo Larreta en los últimos años, o si uno quisiera ponerlo en otra perspectiva, desde una visión independiente, se podría releer un texto publicado por Juan Carlos Torre en La Nación en el mes de febrero, el 5 de febrero.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se llama \"Meditaciones en las vísperas\" y habla justamente de esta idea de armar una nueva transversalidad que termine con la era de la polarización que dominó la Argentina durante muchos años.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larreta propone incorporar a Schiaretti a \"Juntos por el Cambio\" y aparece una resistencia, sobre todo de parte de Patricia Bullrich y aliados de Patricia Bullrich en la interna del PRO.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich se niega, Macri, que es un aliado de Bullrich, también se niega.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pareciera que hay más afinidades en este y en otros temas entre Larreta y sus compañeros de partido en el PRO.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, le dicen a Larreta: ¿cómo traes a Schiaretti si Schiaretti votó en contra de la ciudad de Buenos Aires y de la coparticipación que te sacaba el gobierno?",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Larreta dice, lo acaba de decir: \"Bueno, eso fue antes.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le contestan desde el lado de Larreta a Macri: \"¿Vos fuiste amigo de Schiaretti?\".",
+      "score": 0.499,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más, se empiezan a exhumar anécdotas bastante desconocidas, como que hubo una reunión en el año 2019 donde, aparentemente, Macri le habría ofrecido a Juan Schiaretti ser su candidato a vice, antes de ofrecérselo a Miguel Pichetto.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo explicó el otro día Cristina Fernández de Kirchner.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es el problema de si Schiaretti sí o no, sino el procedimiento para introducir esta cuestión que los rivales de Larreta ven como una imposición, algo parecido a lo que pasó con el sistema electoral adoptado para la interna de la Ciudad de Buenos Aires.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se terminó imponiendo esta segunda posición, con resistencia también de los socios del PRO de Larreta, como si estuviera cifrándose en estas polémicas la discusión política, la disputa de poder entre Larreta y Bullrich.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Será verdad que a ella no le sirve que entre Schiaretti a \"Juntos por el Cambio\"?",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿O Larreta se equivoca respecto a Larreta y Bullrich?",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Schiaretti entra en \"Juntos por el Cambio\" como candidato a presidente, ¿a quién le quita votos?",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Le quita votos a Bullrich o le quita votos a esa amplia franja que pretende conquistar Larreta de peronistas desencantados, que ahora tendrían a un peronista más nítido que lo que puede ser Larreta como candidato del peronismo?",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Entiende bien Larreta sus propios intereses?",
+      "score": 0.174,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo problema, que es el que desata buena parte de la agresividad que tiene esta cuestión, es: ¿qué hacer con Córdoba?",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Córdoba tiene elecciones inmediatamente después que se inscriban las listas, el 25 de junio, tiene elecciones de gobernador, \"Juntos por el Cambio\" lleva a Luis Juez como candidato y toda la prédica de Juez es, obviamente, contra los años de gobierno de Schiaretti.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora, desde el Partido Nacional, desde \"Juntos por el Cambio\", le dicen a los cordobeses, a quienes Juez trata de conquistar hablando mal de Schiaretti, \"para nosotros, Schiaretti es una figura aceptable\".",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo le explican a Juez esto?",
+      "score": 0.261,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tampoco Pichetto es fundador de \"Juntos por el Cambio\".",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y apareció también Juez, que, obviamente, se tomó, agarró el auto en Córdoba y se vino enfurecido a decir: \"A mí me están traicionando\".",
+      "score": 0.375,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gerardo Morales, presidente del radicalismo, les pidió que se fueran porque eran ajenos.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está refiriéndose a la inadmisión de Bullrich por los piquetes.",
+      "score": 0.417,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya que hablamos de coherencia, hace un año Morales decía que quería formar una fórmula con Bullrich.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya hablamos de la idea de Larreta de decir: \"Yo quiero estar en el centro, hacer una jugada importante, y para eso, algo que a lo mejor tenía pensado para más adelante, lo hago ahora, sin consultar a nadie, para desequilibrar una interna que está muy pareja electoralmente entre él y Bullrich\".",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le saldrá bien.",
+      "score": 0.691,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Schiaretti se acobijó en medio de la elección cordobesa, que el partido de sus adversarios en Córdoba lo estén buscando para incorporarse o, por lo menos, una parte de ese partido; él se atiende para decirle a los cordobeses: \"Todo lo que dice Juez es falso, porque los amigos de Juez me quieren a mí\".",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También hay que preguntarse si en esta jugada no hay alguna desesperación de Schiaretti por cómo le estará yendo a su candidato, Martín Llaryora, en Córdoba.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No talpié página que no llega a ganar Juez Córdoba y ahora sí que no le debe nada a nadie.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un pacto político entre el radicalismo y el peronismo de Córdoba al que tal vez Larreta sea ajeno, entre Schiaretti y Morales para que Juez, que es una especie de outsider, vamos a ponerlo en términos comparativos, algo parecido a Milei, no termine tomando el poder en Córdoba.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué pasaría con el radicalismo de Córdoba si Juez es gobernador de Córdoba?",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Schiaretti es candidato a presidente, ¿le saca votos a Bullrich o le saca votos a Larreta?",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si le saca votos a Larreta, ¿por qué Larreta lo trae?",
+      "score": 0.191,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque probablemente le haya dado algún otro lugar en su tablero.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Raro, porque el que quiere ser, en realidad, candidato a vice de Larreta es Morales, y por eso esta asociación.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente de Larreta da un argumento bastante contundente.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Schiaretti no puede ser candidato a presidente, y solo hace esto para estar bien en Córdoba, porque para ser candidato a presidente en una interna, se necesitan por lo menos 15 millones de dólares.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gran problema es si se pueden conectar estas discusiones, estas peleas entre políticos, en un momento en que la política parece no tener tanto encanto con los intereses de gente que, en las encuestas cualitativas, cuando le dicen: \"Ustedes, ¿cómo están?\", empiezan a llorar, porque las prestaciones del Estado, porque las prestaciones de los gobiernos, porque las prestaciones de la política son calamitosas.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el mundo de Bullrich dicen: \"Larreta está haciendo todo esto para poder irse del PRO con los radicales, Carrió y un sector del peronismo\".",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el mundo de Larreta dicen: \"La intransigencia de Bullrich porque quiere romper e irse con Macri junto con Milei\".",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, la versión más novedosa de las últimas horas es que Patricia Bullrich le habría ofrecido ser candidato a vicepresidente en su fórmula a Facundo Manes.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que ese Facundo Manes, que no decidió, llega a decir que no, está pensando Bullrich en Maximiliano Abad, el presidente de la Unión Cívica Radical de la provincia de Buenos Aires.",
+      "score": 0.204,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo haría Abad para llegar hasta Bullrich pasándole por encima a Santilli, que es su candidato hasta ahora a gobernador?",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empiezan a enredarse con esos problemas.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo un viaje de Massa, Máximo Kirchner y una cantidad de funcionarios a China.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo más importante del viaje de Máximo Kirchner y Massa a China es un llamado que le habría hecho Máximo Kirchner a Axel Kicillof, que no tiene nada que ver con China.",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El llamado, ni Kicillof ni Máximo Kirchner en esto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le molestó a Máximo Kirchner, razonablemente?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le debe haber molestado también a su madre, a Cristina, que con esa definición que dio periodísticamente Axel Kicillof despejó una incógnita importante, que es que él no va a ser candidato a presidente.",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le daría la impresión de que Cristina Fernández de Kirchner y Máximo Kirchner no tienen todavía resuelto si va a ser o no candidato a presidente, o por lo menos no tienen resuelto si quieren decir que no va a ser candidato a presidente.",
+      "score": 0.825,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se nota que la voz de Máximo Kirchner tiene gravitación en Kicillof, porque, al otro día, Kicillof salió a aclarar que nada está definido.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien le explicará a Magario.",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuál es el centro del problema para Cristina Kirchner, que pretende definir este esquema de candidatura?",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner parte de una premisa de la que hablamos al comienzo: \"Lo más probable es que, como Frente de Todos, vayamos a una derrota.",
+      "score": 0.324,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tengo que preguntarme cuál es el candidato a presidente de los que yo dispongo más aceptable a los bonaerenses y a los bonaerenses herenses.",
+      "score": 0.552,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A pesar de que Wado de Pedro, mientras Máximo Kirchner y Massa estaban en China, lanzó, como hemos visto todos, un enorme esfuerzo para ganar protagonismo, más presencia, más densidad.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que cuando uno dice Wado, el de Cristina mide 16%.",
+      "score": 0.645,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Contra una Cristina que, sola, mide 24%.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entre esos movimientos, habría habido un movimiento muy interesante, que para los que entienden bien el tema no es del todo sorprendente y tiene que ver, de nuevo, con Manes, a quien Patricia Bullrich le habría ofrecido la candidatura, dice, y es que, a través de un intermediario, Wado de Pedro también le habría ofrecido a Manes la candidatura avise, lo cual indica que está pensando también él en otro formato y es verosímil, porque tienen una vieja relación personal de Pedro y Manes.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto lo mira, o lo miraba hasta anoche, Massa desde China, donde se comportó como una especie de presidente.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene mucho que agradecerle a Alberto Fernández a Massa, porque, en su hiperactividad, en su negación de las enormes dificultades con las que le toca operar, en su negación de que está al borde del abismo, a punto de caerse todo el tiempo, le pone un tono al gobierno que disimula la depresión que es el gobierno, el vacío de poder que hay en la presidencia y hasta genera una expectativa que hace que uno dude, pero entonces no están tan mal.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta tarea de fingir éxito, Massa también hace creer que Cristina le debe las últimas decisiones judiciales que le han beneficiado en la denominada causa de la ruta del dinero K.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, los que conocen bien como Doro Pi, dicen: \"No, no, no, que no se atribuya Massa este comillas mérito\".",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina sabe que no se lo debe a Massa.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, puede ser, eso genera corrientes de afecto, de simpatía, un vínculo.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está esperando los resultados de Tucumán.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora, los punteros y la gran maquinaria que tiene el peronismo en Tucumán, que tiene que trabajar por su candidatura, le dicen: \"Escúchame, Jaldo, gobernador, Manzur, ¿ya no gastamos la plata?",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que, que no se le ocurra a Rosatti, a Rosenkrantz, a Maqueda, volver a cambiar la fecha, porque pueden hacerlo, está en discusión la fecha.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un termómetro mucho más importante para que decida Cristina cuál es su capacidad electoral y son las reservas del Banco Central.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El viaje a China fue un viaje mediocre, fue un viaje sin grandes novedades, tenían que traer una novedad de vuelta y no la consiguieron, que es que el Banco de Desarrollo de los BRICS, de los países que integran el club de los BRICS, que son Brasil, Rusia, India, China y Sudáfrica, avale y financie a empresas brasileñas para que exporten bienes a la Argentina sin consumir dólares del Banco Central para pagar lo que serían importaciones argentinas.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dije: \"Mira, eso lo vamos a tratar, Sergio, en agosto, y probablemente antes tengas que entrar al banco, y para entrar al banco, tenés que ser BRICS\".",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi que le dijo lo mismo que le dijo Lula a Alberto Fernández en Brasilia.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pueden usar un poquito más de esos 19 mil millones de dólares.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay un mérito de esos dos empresarios.",
+      "score": 0.186,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablando de Caputo, ¿de qué habrán hablado Mauricio Macri con su viejo amigo Nicolás Caputo el martes pasado en el Aeroparque, perdón, en la Costanera, de Aeroparque?",
+      "score": 0.47,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque había tensiones entre ellos, pero más importante todavía porque Caputo es uno de los grandes engranajes del mecanismo de recaudación y financiamiento de la campaña de Larreta.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No nos vas a hacer que Larreta se quede sin plata.",
+      "score": 0.422,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen que hay un hotel, un hotel chiquito en Puerto Madero, donde, aparentemente, desde la Secretaría de Comercio, alguien le dice al que necesite importar: \"Anda a tal habitación, pedí la llave de la habitación, nosotros no vamos a estar, y en la habitación deja la plata y después te vas\".",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo las empresas que tienen que pagar deuda en dólares afuera le dicen: \"Ahora usas tus dólares?\".",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Córdoba tiene vencimientos por 147 millones de dólares, perdón, depósitos por, este es un cuadro de Fernando Marull, depósitos de 147 millones de dólares, tiene que pagar 155, que es el 60% de lo que le vence y se queda con nueve millones de dólares abajo.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Alguien estará conectando en el gobierno esto con la situación electoral de Córdoba y con la situación general del peronismo?",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa sigue estando con el mismo problema, con viaje a China o sin viaje a China, que son los vencimientos con el Fondo, que los vamos a ver ahora.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que le desembolsa 3.993 y paga 2.681, y le quedan 1.312.",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, en julio, no le entra a nadie y tiene que pagar 2.628; ya está 2.628 abajo en julio.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, le quedan de lo que viene teniendo 420, todavía está en una cuenta positiva, 420 millones de dólares.",
+      "score": 0.301,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya está, tenía 420, le restamos 766.",
+      "score": 0.535,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y así sigue la cuenta hasta que, en noviembre, está 1.240 millones de dólares abajo, en la relación con el Fondo Monetario.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cambio, entre marzo de este año y febrero del que viene, que es el periodo que estamos atravesando, los desembolsos del Fondo son 14.000 millones de dólares en DEGs contra 12.791 millones de DEGs.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está a 791 millones de DEGs abajo, que, en dólares, son 1.050 millones de dólares.",
+      "score": 0.577,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, que le juega también como viento en contra el diseño del programa.",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el problema de la economía, este problema le pega a la gente, nos pega todo el tiempo, porque del dólar depende la inflación, por cómo se comporta la economía argentina, y eso es lo que va alimentando, al final de todo, la caída del salario, la caída del ingreso, el desencanto político.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este punto, hay que recordar algo, hay un artículo excelente que publicaron dos politólogos, Rodrigo Barrenechea y Alberto Vergara, sobre Perú, pero más que Perú, donde sostienen lo siguiente: las democracias pueden debilitarse por autoritarismo, concentración del poder, es lo que pasó en muchas democracias latinoamericanas en la década pasada.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empezamos Odisea, vamos a hablar con Julio De Vido de estos y otros temas, y después vamos a escuchar a Daniel Bilotta; hoy Pancho no está, que nos va a hacer una semblanza de la provincia de Buenos Aires con eje o con poco, en un personaje, ¿quién es el candidato de Milei en la provincia de Buenos Aires?",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 99
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,301 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 43,
+      "derecha": 14
+    },
+    "score_promedio": 0.366,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está en una crisis extrañísima, es una crisis económica cuyo fondo todavía no vemos.",
+      "score": 0.405,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como si procesos recesivos de destrucción de empleo, de creación de pobreza y marginalidad que habitualmente se producen a cámara lenta, aquí se hubieran acelerado en pocos meses.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina tiene condiciones agravadas porque esta crisis viene como inscripta en otra crisis, la cual se originó en el año 2018, que a su vez se monta sobre un largo estancamiento de la economía argentina de prácticamente una década.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A este contexto complicado y doloroso, se le suman problemas políticos y una gran incertidumbre política, un problema que agrega el gobierno o el oficialismo.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es la pregunta central para hacer política en un movimiento político que fue creado por un coronel desde el Estado en el marco de un golpe militar.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo un sector de la vida pública argentina supuso que **Alberto Fernández** iba a armar su propio esquema de poder.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin ir contra **Cristina Fernández de Kirchner**, iba a dotarse de alianzas con la dirigencia tradicional del peronismo, la dirigencia provincial, los sindicatos privados, algún sector del empresariado y una buena comunicación con sectores de la prensa.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo eso le iba a dar a **Alberto Fernández** un margen de autonomía que le permitiría una capacidad de maniobra y una plataforma para ejercer el poder y ordenar su gestión en una dirección.",
+      "score": 0.229,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de las reuniones que han trascendido, como el almuerzo con **Luis Lushtó** y **Enrique Nosiglia**, que organizó **Eduardo Valdés**, y las conversaciones con el presidente del radicalismo, **Alfredo Cornejo**, eso se supo.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es posible que él íntimamente tenga la percepción de que necesita más autoridad, como presidente, pero nadie ve en **Fernández** demasiada vocación por generar el instrumental, el diseño de poder que le permita ese ejercicio de la autoridad.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, ¿eso implica que **Cristina** tiene un programa que le va a imponer a **Fernández** y entonces todo estaría claro?",
+      "score": 0.46,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner** tiene una orientación general de dónde quiere estar y hacia dónde quiere ir, pero lo más claro que tiene la vicepresidenta o la expresidenta es un inventario de conflictos.",
+      "score": 0.444,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es lo que define la política para ella y lo que le impone a **Fernández**: no un programa, sino peleas y vetos a determinadas alianzas o entendimientos.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de esos problemas, que está en la tapa de los diarios y en los medios todos los días, y frente al cual el oficialismo no sabe qué hacer, son las tomas de tierras.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el año 47 ya el secretario de Tierras de **Perón**, en la primera presidencia de **Perón**, a un año de asumir, que era el doctor **Guillermo Borda**, que después va a ser ministro de **Onganía**, desde la Secretaría de Tierras ya anuncia que la Argentina o el Gran Buenos Aires va a un colapso por el problema de viviendas y promete resolverlo.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero esa ley, interpretada de manera muy ambigua por la justicia, daría la impresión de que permite las usurpaciones y que no va a haber desalojo allí donde alguien se introduce en una propiedad privada que no le fue cedida por medio de un contrato, es decir, no hay alquiler, no hay ninguna forma contractual.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un efecto secreto de la pandemia que le ha hecho sentir a muchísimos argentinos que viven en villas que el hacinamiento trae probablemente la muerte, entonces buscan más espacio, tener la posibilidad de ir a montar una casa en otro lado, ¿dónde?",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto pasa en la Argentina ya desde hace tiempo, pero como es una película en cámara lenta, no tenemos demasiada noción de qué está pasando, salvo cuando aparecen hechos de esta naturaleza que le dan un tono operístico a lo que está sucediendo más bien en secreto o en silencio, con el paso del tiempo y el empobrecimiento del país.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí me ha tocado en algunos barrios muy sumergidos del conurbano escuchar a gente que alquila un cuarto de 4x4 para vivir con su mujer y sus hijos, con un baño que desborda ahí adentro, por un alquiler de 6.000, 7.000 u 8.000 pesos mensuales, que le paga a otro pobre que le había prometido que el baño no se iba a desbordar, y viven en condiciones infrahumanas amenazados por el desalojo de ese otro pobre que le presta esa piecita.",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado no planifica todo esto.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como me decía el otro día un intendente: “No queremos tomas”.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sale el **\"Chino\" Navarro** del movimiento Evita a decir que presente las pruebas ante la justicia.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El movimiento Evita forma parte del gobierno, Navarro tiene un despacho en la Casa de Gobierno, ocupan lugares importantísimos, estratégicos del ministerio de acción social, ocupan lugares importantísimos en el ministerio de hábitat y vivienda de **María Eugenia Bielsa**, es una pelea entre funcionarios del gobierno que están discutiendo si esto entra o no en algún artículo del código penal y que no nos lo pueden definir y que están atribuyéndose entre ellos si son o no los que están detrás de las usurpaciones.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo detuvieron con una camioneta, estaba llevando familias a la toma de Lago Mascardi, de Villa Mascardi, funcionario del Estado nacional.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dije: “¿No tiene seguro?”.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, la camioneta era del Estado nacional, sin seguro, no sé si él tenía licencia para conducir.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un funcionario del Estado nacional que llevaba gente en Río Negro a las tomas, lo detuvo la policía de Bariloche.",
+      "score": 0.48,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos 15 intendentes le plantearon el problema a **Kicillof**, ninguno sabe muy bien de qué se trata, todos acusando a los movimientos sociales, estén o no los movimientos sociales directamente vinculados con esto.",
+      "score": 0.184,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tweet de **Cristina Fernández de Kirchner**, en su cuenta de Twitter, no dice nada respecto de esto y el presidente **Fernández** balbuceó el otro día que sí, a ver, una toma es un delito.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soy hijo de un juez, profesor de la facultad de derecho, sé lo que es el Estado de derecho.",
+      "score": 0.498,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí están los votos de **Cristina Fernández de Kirchner**.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí está el trabajo territorial de **Máximo Kirchner**, que está pensando como su padre, y como aprendió su padre de **Eduardo Duhalde**, que la Argentina se maneja por prepotencia demográfica.",
+      "score": 0.453,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí están los fondos extraordinarios que le acaba de dar el gobierno central a **Axel Kicillof**.",
+      "score": 0.31,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Kicillof**, que forma parte de la maquinaria oficial, seguramente mucho más que **Fernández**, está referenciado a **Cristina Fernández de Kirchner**, recibe 65 mil millones de pesos, mucho más que cualquier provincia, que reciben de a mil, dos mil, en todo caso tres mil millones de pesos.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha armado ahora un jury para remover al procurador general de la nación **Eduardo Casal**.",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siguiendo algunos detalles de procedimiento, el kirchnerismo cambió a algunos de los miembros de ese tribunal de enjuiciamiento, **Casal** podría decir: “Me están poniendo jueces a medida”, y ahora hay un forcejeo para ver si se lo remueve o no a **Eduardo Casal**, que hereda el cargo de **Alejandra Gils Carbó**.",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es el que le dice a la Corte: “Acá hay un culpable o un inocente.",
+      "score": 0.231,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Imagínense para **Cristina Fernández de Kirchner** que tiene una cantidad de causas, todas terminan en un embudo seguramente en la Corte.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A **Casal**, además, se lo está investigando en una comisión bicameral del Congreso, donde el kirchnerismo primero lo acusó y le pidió el juicio político y después llamó a que haya pruebas por esa acusación.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“No tengo pruebas, pero tampoco tengo dudas”, dijeron los kirchneristas, como dijo aquella vez **Cristina Fernández de Kirchner** respecto de qué había pasado con el fiscal **Alberto Nisman**.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una investigación que se abrió en la nación y que llevó adelante **Diego Cabot** y que ya está llegando al juicio oral.",
+      "score": 0.777,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto le va poniendo un contexto a la reforma judicial.",
+      "score": 0.256,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la reforma judicial es absolutamente inentendible sin este contexto de manipulación de las reglas institucionales, donde lo que está clarísimo es que llega un gobierno y arma un poder judicial a su medida, poniendo en tela de juicio cualquier tipo de garantía respecto de los ciudadanos que esperan respuestas, sobre todo cuando ha habido un festival de corrupción durante 12 años en la Argentina, con secretarios privados del presidente que no uno, varios, llegaron a acumular 70 millones de dólares, de lo que se llegó a detectar.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recurrieron en Juntos por el Cambio a dos constitucionalistas muy destacados, **Juan Vicente Sola** y **Antonio María Hernández**, para presentar a la justicia un pedido de anulación de la última sesión de la Cámara de Diputados donde se aprobaron varias leyes, entre otras, una de auxilio al turismo, porque consideran que **Sergio Massa** les prohibió sesionar a los diputados que estaban en el recinto y además hizo aprobar esas leyes con una especie de Congreso trucho, que sería el Congreso virtual que **Massa** convocó con un protocolo vencido para regular o para sustituir el reglamento de las sesiones presenciales y llevarlas al terreno virtual.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Massa** estuvo a punto de llegar a un acuerdo con la oposición hasta que **Máximo Kirchner** le dinamitó ese acuerdo y **Massa**, obviamente, acató lo que le indicó el jefe del bloque oficialista y ahora llegamos a algo inédito, que un bloque opositor importantísimo de 90 diputados va a la justicia para que la justicia declare nula una ley que, según ese bloque, fue aprobada irregularmente, es decir, que hoy la Argentina tiene una especie de dicotomía, así como tiene dos poderes ejecutivos, uno en el Instituto Patria y otro en la Casa de Gobierno, tiene también dos congresos que reclaman para sí la legalidad o la legitimidad o la normalidad de la legislación que producen o que se niegan a producir.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero partir de este dato, **Martín Guzmán** va a mandar el presupuesto al Congreso, a uno de los Congresos, salvo que se pongan de acuerdo en cuál es el Congreso verdadero, con una hipótesis de superávit fiscal de cuatro puntos y medio del producto.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él supone que la economía argentina el año que viene va a crecer un 5%.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Armó un Estado a la medida de la soja a 600 dólares la tonelada.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cayó el precio de la soja y el Estado nos quedó grande.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Suspender la ayuda que le pasan a **Kicillof** en un año electoral, donde todos se juegan el conurbano.",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para que le cierren los números, dicen los expertos, tendría que hacer obra pública por medio punto del producto.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le tienen hecha la cruz en el Instituto Patria.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente porque este 12 de septiembre se va a elegir al presidente del BID, pretende ser un hombre de **Trump** y la Argentina es el país que lo obstruye, con la intención un poco quimérica de que ahí vaya **Gustavo Béliz**.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me hace acordar al presidente de una multinacional española que en los comienzos del gobierno de **Néstor Kirchner**, en un precoloquio de IDEA, habló en favor de la seguridad jurídica y **Kirchner** lo tomó como algo personal y le dijo al presidente de esa empresa: “O lo sacan o no vengan”.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, **Parrilli** entendió que la defensa de la independencia judicial que hacía el embajador de Estados Unidos era un ataque al kirchnerismo y ahora está tratando de ver qué jueces federales de la Argentina hicieron cursos en Estados Unidos auspiciados por el Departamento de Estado, porque en el fondo lo que se está pensando es si no habrá muchos **Sergio Moro**, porque **Sergio Moro** también está estigmatizado en Brasil, es el juez que puso preso a **Lula** por haber hecho cursos auspiciados por el Departamento de Estado en Estados Unidos.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como recordamos, **Moro** estuvo en la Argentina y se sacó una foto con **Claudio Bonadio** y escuche, porque eso le va a permitir entender las relaciones de **Cristina** con la corte y con **Ricardo Lorenzetti**.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno lo mira como si fuera algo ajeno, da la impresión de que **Cristina Fernández de Kirchner** le tiene prohibido a **Alberto Fernández** convocar a esas fuerzas económicas y sociales.",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 57
+  },
+  "etiqueta_original": "neutral"
+}

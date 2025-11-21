@@ -1,0 +1,241 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 31,
+      "derecha": 14
+    },
+    "score_promedio": 0.362,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei, en el mismo día, denunció un sabotaje en la entrevista que le realizó el periodista Antonio Laje en A24, recordando cuando se quejaba de que en el debate con Sergio Massa había \"operadores\" para perjudicarlo.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese tipo de pensamientos, que siempre atribuyen a una conspiración un interés espurio en cada crítica que se le hace a su gestión, tiene similitudes con los pensamientos persecutorios de la paranoia.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien a quien solo podría evaluar un psiquiatra.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a analizar algunos de los últimos hechos de la política nacional para ver si el presidente Javier Milei podría encuadrarse en alguno de estos adjetivos.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comenzaremos con un reportaje que le hicieron a Cristina Pérez en Radio Rivadavia, quien dijo que intentaron sabotearlo en la entrevista de A24, acerca de lo que fue la entrevista que le hizo Antonio Laje: \"Sí, lamentablemente parece que han intentado sabotear la entrevista, interfiriendo sobre el sonido cuando me estaban reportando.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por momentos uno, como periodista, tiene una contradicción entre la tristeza que le genera el sufrimiento que este tipo de gobierno genera en los sectores más vulnerables, y el tiempo apasionante que implica tratar de analizar un gobierno con un presidente con estas características psicológicas tan particulares, por utilizar un término moderado\".",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei denunció sabotaje y dijo que no le sorprende, porque ya lo habían querido sabotear en la campaña electoral.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría perfectamente, al mismo tiempo, con la inteligencia de las fuerzas federales a cargo de Patricia Bullrich, ¿cómo puede ser que no haya encontrado a los saboteadores en un micrófono de estudio de televisión?",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie le pregunta si tiene elementos para decir eso, que es una acusación grave; obtener una entrevista al presidente es un ataque que se hace contra el Estado argentino.",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no hay ninguna pregunta porque probablemente preguntar a Milei algo que a él le molesta implica luego no poder hacerle nunca más un reportaje.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de esta entrevista, Antonio Laje pidió disculpas por lo sucedido, pero en parte admite la hipótesis del sabotaje: \"Ayer hubo cortes de audio extremadamente raros, con un estudio sobrepasado de gente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, con mucha vergüenza, yo le pido mil disculpas, lo hice, por supuesto, con el presidente, como correspondía.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pido mil disculpas a todos ustedes del otro lado, que sufrieron algo que no debería haber pasado nunca, con un estudio extrañamente también lleno de gente, raro, también extrañamente sobrepasado de gente.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí le habla Antonio Laje.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más bien parece querer quedar bien con el presidente Milei para poder tener otra nota en el futuro con él.",
+      "score": 0.56,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego de unos artículos en su blog, el ministro de Economía señaló que el tipo de cambio atrasado era un problema, un problema que, además, todos los economistas marcan.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto despertó la ira del presidente, quien echó a su hija, Sonia Cavallo, representante de Argentina ante la OCDE.",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decir que Cavallo criticaría a Milei para salvarse de causas judiciales, todo esto mientras en realidad casi la totalidad del texto de Cavallo era un elogio a la economía del gobierno.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar al presidente hablar de los sabotajes de Cavallo al gobierno, al programa económico.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Usted, al margen de lo que usted diga del cepo, ¿cree que hay una intencionalidad en esto?\".",
+      "score": 0.423,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante la campaña electoral fue claro con quién se alineó, que llamaba a que yo no me presentara, que yo le hacía el juego al kirchnerismo\".",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Cristina Pérez...",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cavallo le respondió en su cuenta de X, ex Twitter, le contestó con el siguiente fragmento: \"En la propia campaña de 2023, Cavallo llamó a votar por Milei\".",
+      "score": 0.436,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"¿Cómo ve usted esta encrucijada?",
+      "score": 0.371,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa es un camino y el otro, Javier Milei\".",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Massa, obviamente, es la continuidad, y Javier Milei es el cambio.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora no tengo absolutamente ninguna duda que quien puede realmente producir el cambio en la dirección que se necesita es Javier Milei\".",
+      "score": 0.199,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo voto por Javier Milei\", había dicho Cavallo en TN.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, sin embargo, el presidente cree que trabajaba para otro candidato.",
+      "score": 0.264,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las acusaciones basadas en los, por ahora, hipotéticos pensamientos paranoides del presidente son varias.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algunas resaltan por su espectacularidad: se denunció, por ejemplo, golpe de Estado en su momento cuando subió el dólar, e, yendo más atrás en el tiempo, con el tema de los \"operadores\" ya citados durante el debate.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay testimonios que cuentan que Stalin, cuando enviaba a alguien a hacer una tarea política, luego enviaba a otro responsable a vigilarlo, y muchas veces a otro responsable a vigilar a los otros dos\".",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El genio del psicoanálisis francés Jacques Lacan, en su tesis doctoral que se titulaba \"El caso Aimée y la paranoia de autocastigo\", señaló que este tipo de patologías existe, existe en ella lo que se llama \"hipertrofia del yo\", es decir, un conjunto de ideas delirantes acerca de la enorme importancia de estas personas que le asignan a su propia personalidad y en esos delirios todos los persiguen porque ellos son los mesías o los enviados de Dios o tienen algún tipo de designación divina.",
+      "score": 0.431,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, luego de la visita de Roberto Piazza -aquí entendemos en unos minutos como entrevistado en este programa- se viralizó una foto de un pasillo en la Quinta de Olivos adornado con 13 imágenes alusivas a Milei, un retrato que lo pinta como león, otro que lo equipara al mutante Wolverine, un personaje de las películas X-Men, y una gigantografía de la tapa que le dedicó la revista norteamericana Time.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente cada vez que pasa por ese pasillo mira su cara y sus logros en una especie de representación como si fuera un superhéroe.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de la psicoanalista inglesa Melanie Klein decía que la posición esquizo-paranoide en los bebés, en que su psiquis aún no está constituida totalmente, ven a las personas totalmente malas o totalmente buenas.",
+      "score": 0.691,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez la sociedad argentina necesita una explicación ante tanta frustración, necesite una explicación de por qué el sueldo nunca le alcanza desde hace años y que muchos de sus sueños y planes no se logran realizar, o simplemente de por qué cada año se vive un poco peor que el año anterior.",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y una sociedad frustrada que creyó en diferentes proyectos políticos que terminaron mal, con un presidente que le dice vehementemente de quién es la culpa.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy decía que la paranoia, por momentos, hasta el analista sospecha si alguna -perdón- de las afirmaciones del paciente no serán reales.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre decimos que esperamos estar equivocados y que el presidente tenga razón, por el futuro de todos los argentinos.",
+      "score": 0.58,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, si Milei tiene razón y hay una conspiración aparentemente invencible para destruirlo porque es el único que puede derrotar a una casta política responsable de todos los problemas del país, deseamos que se muestren las pruebas y se los erradique de los sectores en los que generan este tipo de problemas.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que, si el presidente tiene razón, también estaríamos en problemas y, tarde o temprano, la democracia, a través del voto de la gente, se lo haría saber.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez haya algo de la táctica del \"loco\" que se le asignaba a Richard Nixon, quien utilizaba el método del garrote, haciéndose pasar por impredecible, por absolutamente obstinado, como un mecanismo de negociación.",
+      "score": 0.378,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese caso, de ser así, habría el riesgo de que \"el presidente se lo coma el personaje\", como suele decirse en el teatro, y aquello que comenzó siendo una táctica, una manera de negociar, de generar fuerza cuando no la hay, se convierta en un rasgo permanente de su manera de ejercer el poder.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Seguiremos de cerca este particular rasgo del presidente y su impacto en la política argentina.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 45
+  },
+  "etiqueta_original": "neutral"
+}

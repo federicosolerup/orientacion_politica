@@ -1,0 +1,61 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer, la Corte Suprema de Justicia de la Nación dictó dos fallos que han generado gran controversia.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "En el primero, se excedió en el caso de San Juan,  invalidando aspectos de la constitución provincial.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Esta situación se debe al Decreto 690/2020, firmado por el presidente Alberto Fernández, que declara las telecomunicaciones como un servicio público esencial y en competencia, sujetas a la regulación estatal de tarifas.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Clarín judicializó este decreto, obteniendo medidas cautelares que le permiten incumplirlo desde hace más de dos años.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Como consecuencia, desde enero de 2021, el Grupo Clarín ha repartido entre sus accionistas ganancias por aproximadamente 1300 millones de dólares,  mientras evade la regulación tarifaria.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "El fallo sobre San Juan, además de atentar contra el federalismo, anticipa intervenciones en otros procesos electorales provinciales, particularmente en Formosa y Buenos Aires.",
+      "entidades_detectadas": [
+        "formosa"
+      ]
+    },
+    {
+      "frase": "En Argentina, el Grupo Clarín actúa como portavoz de este poder económico, ejerciendo una influencia desproporcionada.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Ayer, la Corte Suprema demostró su sujeción a este poder, garantizando ganancias extraordinarias al Grupo Clarín e interviniendo en asuntos que competen a la dirigencia política, un espacio dejado vacante, en parte, por la persecución judicial a líderes políticos.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "En resumen, la Argentina se encuentra ante una situación donde un estado paralelo, representado por Clarín,  ha cooptado el poder judicial y condiciona las decisiones políticas, limitando las posibilidades de una distribución más equitativa de la riqueza y el acceso a servicios esenciales.",
+      "entidades_detectadas": [
+        "argentina",
+        "estado"
+      ]
+    }
+  ]
+}

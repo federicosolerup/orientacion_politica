@@ -1,0 +1,103 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Se junta el golpe con los diputados que le piden al Fondo que se venga a la tele.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Se junta el golpe con los diputados que le piden al Fondo que no nos den la guita, con las cagadas que se mandó el presidente: la cibermoneda, el avión ese famoso, la hermana a la cabecera de la mesa, la pelea con Lali Espósito.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Después no se quejen, porque después viene el helicóptero de cartón, Carlotto, los hijos, todos los delincuentes, Grabois y todos los sinvergüenzas.",
+      "entidades_detectadas": [
+        "grabois"
+      ]
+    },
+    {
+      "frase": "Apareció en un streaming diciendo esta barbaridad, y le pido a algún fiscal de la nación que urgentemente tome cartas en el asunto, porque si esto hubiera pasado en el gobierno de Macri, o de Alberto, dicho por nosotros, hubiésemos tenido una manifestación en la puerta, más o menos de cuatro cuadras, que nos hubiesen querido colgar de las pelotas.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Yo te voy a defender, y vos podés matar al presidente que yo te voy a...",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Al presidente del Club de Fans de otra cosa.\"\n\nBueno, evidentemente la piba esta debe sufrir lo que sufren los hermanos de los famosos en muchos casos, que es el ser nadie.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Vos podés matar al presidente que yo te voy a...?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Al presidente del Club de Fans de otra cosa.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y se puede incitar a la violencia y al golpe de estado desde un streaming.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "O sea, si nosotros no denunciamos un intento de golpe de Estado, hoy Cristina empezó a juntar a la tropa, esto pasó en el gobierno de Cristina, si nosotros no defendemos la democracia, no defendemos las instituciones, vuelve esa gente de mierda.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Esto para usted, ¿no es un conato de intento de desgaste del Estado para pegar el golpe?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "A ver, creo que el presidente está desangelado, creo que el gobierno está perdido, pero no que perdimos el gobierno, están perdidos en actitudes, en formas de tratar algunas cosas, creo que se le tiró la seguridad a Patricia Bullrich por la cabeza, que es la única que está poniendo los ovarios arriba de la mesa, creo que el presidente, no sé si a propósito o sin querer, está en otra historia, el presidente está...",
+      "entidades_detectadas": [
+        "bullrich",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Esto era antes de que a Alberto lo investigaran por el tema de los seguros, la violencia de Geni y todo, ¿no?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Pero bueno, les quería decir esto, humildemente, yo creo que es un conato de golpe de Estado que no van a parar hasta ver que el sueño dorado de ellos es que salga el helicóptero de la Casa de Gobierno con Milei, que se arrodillen y se rindan, verlos colgados en Plaza de Mayo, como dijeron ya muchas veces, \"los queremos ver colgados en Plaza de Mayo\", esto no va a parar hasta que usted no pierda la democracia que consiguió.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Realmente es al pedo para todos nosotros, pero no es al pedo para los que no quieren que Milei siga siendo presidente, no quieren que las causas de Cristina vayan a juicio, no quieren que vayan en cana los que tienen que ir en cana, y les digo a los señores jueces de la Nación, en cambio de pelearse para ver quién va a agarrar la manija, metan en cana urgentemente a los ladrones de la República que hace 44 años están afanando, están los expedientes durmiendo en tribunales, vamos de juicio en juicio y se cagan en la tapa del piano, metan presos a toda la gente urgentemente, necesitamos presos, necesitamos ver que el que las hace las paga, y no los que van a tirar piedras solamente, sino los de la casta noble, los políticos históricos que ahora están reunidos para ver cómo mañana sacan a Milei del gobierno, que vayan en cana.",
+      "entidades_detectadas": [
+        "cristina",
+        "milei"
+      ]
+    },
+    {
+      "frase": "*   pedete disculpas -> pedime disculpas\n    *   capocómico uno escampi -> capocómico, uno escaso\n    *   escampi -> escaso\n    *   ve, Antonio, se le fue -> viste, ve, Antonio, se le fue\n    *   descanses -> descanses\n    *   candombe -> candombe\n    *   quilombo -> quilombo\n    *   cibermoneda -> cibermoneda\n    *   incidación -> incitación\n    *   podes -> podés\n    *   pónelo -> pónelo\n    *   mi ley -> Milei\n    *   mil eis -> Milei\n    *   vergüenza que Vudú ande -> vergüenza que Boudou ande\n    *   las tonedades -> las toneladas\n    *   pochoclo ->pochoclo.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

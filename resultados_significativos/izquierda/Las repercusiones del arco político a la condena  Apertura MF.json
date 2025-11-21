@@ -1,0 +1,171 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 15
+    },
+    "score_promedio": 0.477,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Obviamente, porque hoy lo principal son las repercusiones de los fundamentos del fallo en primera instancia contra Cristina Fernández de Kirchner, que le da seis años de prisión e inhabilitación perpetua para ejercer cargos públicos.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más que nunca, la grieta, a flor de piel, con los fundamentos del fallo de la condena a seis años de prisión de Cristina Fernández de Kirchner.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer decía que lo más importante de la información era el contenido de los fundamentos de la decisión de los jueces.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después vendrá lo que termine resolviendo la instancia superior, que es la Corte Suprema de Justicia, frente a la apelación que presentará la defensa de Cristina en este sentido.",
+      "score": 0.289,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Cristina no está técnicamente imposibilitada para competir en la carrera electoral.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy todas las miradas están puestas en el sur, a las 18 horas, donde hablará Cristina Fernández de Kirchner después de conocerse los fundamentos.",
+      "score": 0.642,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un rato contaremos qué puede pasar esta tarde cuando hable Cristina Fernández de Kirchner.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reaparición de Cristina después de lo conocido ayer...",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quería comenzar, o sea, que varios de ustedes me llamaron preguntándome por la opinión del presidente con respecto a los fundamentos que fueron difundidos.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente ya ha dicho en más de una oportunidad que entiende que esta causa no tiene ni pies ni cabeza, creo que ha dicho textualmente, o que la vicepresidenta ha sido traída de alguna manera para ser metida en esta causa en la cual no tiene ningún tipo de relación, y eso está claramente expuesto hoy en los fundamentos de la causa, donde en varias oportunidades queda claro que no hay ninguna prueba para que esté allí la vicepresidenta, sino que, ante la duda, dice el tribunal en algún momento, o se supone que no hay ninguna prueba concreta de nada de lo que allí se sostiene.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que el presidente sigue sosteniendo que todo esto es una causa armada para perseguir a la vicepresidenta, para inhabilitarla para que pueda ejercer funciones políticas y también, cada vez que se hace esto con un dirigente político, es también una forma de intentar aleccionar a otros dirigentes políticos que intentan tomar medidas que vayan en favor de las grandes mayorías o de los ciudadanos y ciudadanas en situación de vulnerabilidad.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con lo cual, el presidente sigue sosteniendo la inocencia de la vicepresidenta y cree que uno de nuestros temas centrales tiene que ser defender, en el caso de la vicepresidencia, su inocencia y la búsqueda de que quede demostrada y clara su inocencia.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la nación habló a través de su portavoz, ya que el presidente no habló *per se*, en primera persona, sino a través de Gabriela Cerruti.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra voz oficial que se escuchó ayer, en defensa obviamente de Cristina Fernández de Kirchner y en contra de la decisión judicial, hablando además del rol de la justicia en este momento, es el ministro del Interior, **Eduardo \"Wado\" de Pedro**, que dijo lo siguiente: \"Para nosotros es otro día de persecución, es otro día donde el poder judicial vuelve a demostrar el rol que está cumpliendo, ¿no?",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les voy a recordar: el presidente Macri, asumiendo fallos de la Corte Suprema a favor de Santa Fe, a favor de Córdoba, a favor de San Luis.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Mariana Zuvic** también habló del tema, y recordemos que ayer hablábamos con uno de nuestros entrevistados sobre el delito de asociación ilícita, un delito que es muy difícil de probar y muchas veces al que la justicia le escapa.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordábamos el caso de Menem con la venta de armas a Ecuador y Croacia en su momento.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, recordemos, Menem recibió la condena por parte de Ursó también por la falsificación en ese momento de decretos presidenciales.",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de Cristina Fernández de Kirchner, la justicia también toma esto de que es muy difícil hablar de la jefatura de una asociación ilícita, pero habla directamente de \"colosal estafa\".",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Exactamente, no pudo no haber *probado* asociación ilícita, que es lo que pedía el fiscal Luciani, si da por probada la acción fraudulenta en contra del Estado y la relación con las empresas, para la justicia está absolutamente probada.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá se comprobó que el plan criminal fue permanente, sistemático y sistémico, que hubo una organización criminal que fue llevada adelante por el expresidente Néstor Kirchner y la vicepresidenta actual, Cristina Fernández de Kirchner, que se exportó esa estructura desde la provincia de Santa Cruz, que se crea el Ministerio de Planificación Federal en manos de Julio De Vido y luego de **Roberto Baratta**, a quien se le designa la cartera de su secretario de Obras Públicas para ser él el responsable directo de la obra pública.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, allí veremos en su momento si Casación decide cambiar la tipificación del delito en este caso de Cristina en el marco de esta causa.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Va a apelar la defensa de Cristina Fernández de Kirchner, va a apelar la fiscalía.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No está conforme con los seis años, no está conforme con lo que decía Zuvic, con que no esté aprobada la asociación ilícita, por eso las dos partes van a ir a una apelación.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen diez días, pero atención con esto, porque se pueden extender los plazos, ya que se puede pedir una prórroga de esos diez días.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque cuando se habla de proscripción, hay que tener en cuenta que tiene que venir primero la etapa de una segunda instancia de la cámara, y si la cámara ratifica el fallo, hay que ir a la corte, con lo cual los plazos no dan.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El kirchnerismo más duro, y que seguramente se verá en la voz de Cristina cuando reaparezca esta tarde.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablan de que no hay pruebas, que son patrañas, que son barbaridades, que no hay ningún tipo de comprobación de los delitos de los que se le acercan, de los delitos de los que se les acercan, de los delitos de los que se les acusa.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jueces, en cambio, toman como suficientes chats entre Cristina y otras personas que dicen, dan por sobreentendido que la relación con Lázaro Báez, esto que manifestaba recién Ale, la relación con Lázaro Báez existía, más allá de no haber sido Cristina o de no poderse probar que Cristina fue jefa de una asociación ilícita, un decreto de negocios con Lázaro Báez y chats particularmente que dejan demostrado que ambos buscaban obtener un rédito económico con esto.",
+      "score": 0.647,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso va a ser interesante escuchar a las partes, porque la defensa de Cristina va a decir, en ningún momento prueban, no hay ningún papel, nada que diga que hay una asociación entre Cristina y Lázaro Báez.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que decía Nuria: un decreto que dice la justicia, este hecho a medida de Lázaro Báez, los negocios anteriores que había entre Néstor Kirchner y el propio Lázaro Báez, y cómo se direccionó la obra pública hacia Santa Cruz.",
+      "score": 0.471,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 31
+  },
+  "etiqueta_original": "neutral"
+}

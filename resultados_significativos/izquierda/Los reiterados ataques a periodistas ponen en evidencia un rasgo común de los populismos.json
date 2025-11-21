@@ -1,0 +1,166 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 20,
+      "derecha": 10
+    },
+    "score_promedio": 0.369,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Al igual que Nietzsche, decíamos que un periodista debe poner en cuestión y tener un pensamiento crítico, pero esencialmente lo tomamos para la apertura de hoy por la idea de la repetición entre el ataque a los periodistas de Néstor Kirchner y de Milei.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que nos encontramos es que el presidente se pelea, se enoja, discute con una cantidad de periodistas a lo largo de los últimos dos meses, pero todos tienen en común haber sido críticos del kirchnerismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy curioso que no se pelea, no discute o confronta con periodistas claramente afiliados, cercanos al kirchnerismo, como podría ser Página/12 o C5N; se la agarra siempre con periodistas que fueron críticos del kirchnerismo, mostrando la repetición de que, finalmente, los populismos tienen en común, más allá de que sean de derecha o de izquierda, un encono especial con el periodismo.",
+      "score": 0.379,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hacer un repaso de algunas de esas actitudes del kirchnerismo de Néstor Kirchner, que él celebraba hace más de 18 años, y luego de las actuales del presidente con distintos periodistas, que, digo, todos tienen en común la repetición de haber sido críticos de Néstor Kirchner.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, en 2022, o sea, antes de que fuera presidente, ya en el vivo de *Aire* se enoja con *María Laura Santillán* en la mesa porque Javier prefería hacer notas solo:\n\n—Porque me habían dicho que era un mano a mano.",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "—No parece, y no se le miente a los invitados, no se los traiciona, y no se les cambia las condiciones una vez que lo sentaron.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Milei maltratando a *Jessica Bossi* el 15 de marzo de 2023, es lo que vieron antes, era de 2022, o sea, estamos a dos años demostrando una continuidad histórica en el caso de Milei de maltrato a los periodistas.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy interesante que había Milei en la creación del neologismo, ¿no?",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora a Javier Milei contra *Joaquín Morales Solá*:\n\n\"Hay un periodista que a mí, verdaderamente, me...",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "—Si fue *Joaquín Morales Solá*, fue tremendamente agresivo para con los votantes de la libertad avanza, que los trató de irracionales, de brutos, de ignorantes.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, conozco a *Joaquín Morales Solá* hace 30 años.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay algo que no se puede decir aquí Morales Solá es que sea violento y que sea agresivo.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se caracteriza casualmente por sus buenas maneras, así que si hasta *Joaquín Morales Solá* le parece violento y agresivo, estamos en problemas.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decíamos los universitarios, lo que hacen es le hacen la cabeza a la gente, los periodistas hacemos lo mismo, pero mintiendo.\"\n\nVamos ahora la respuesta de *María O'Donell*:\n\n\"La quinta presidencial de Olivos por vía terrestre.",
+      "score": 0.624,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como le gusta cerrarle los tuits al vocero Manuel Adorni, y descartando la posibilidad de que se trasladaran en helicóptero, como se había mencionado inicialmente.",
+      "score": 0.441,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira, recién acaba de salir justamente la gente de un vuelo que llegó justamente antes del vuelo de Frankfurt, en el que venía Javier Milei, acaban de salir, y están empezando recién a salir los pasajeros del vuelo de Lufthansa, a los que compartieron vuelo con la comitiva del presidente de la Nación, Javier Milei, con *Diana Mondino*, con *Nicolás Posse*, con *Luis Caputo*, con *Karina Milei*.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En principio, estamos viendo a ver si sale alguien de la comitiva, o se fueron todos directamente con Javier Milei, cosa que todavía no...",
+      "score": 0.416,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "se fue Javier Milei finalmente por vía terrestre, no va a salir por la zona donde estamos para la zona de arriba, ¿sabés?",
+      "score": 0.29,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora con otro tuit de Javier Milei, y esta vez es con *Alejandro Borensztein*, el columnista del diario *Clarín*.",
+      "score": 0.277,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jugó con Sergio Massa y los ca...",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei:\n\n\"Es una periodista que quiere destruir este espacio.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo, a esa periodista no le tiene que ni pesar del estudio, porque es una periodista que dijo, lo que quiere es destruir este espacio.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Javier Milei cruzó a *Jorge Lanata* por una crítica del periodista que había dicho que no le parecía bien que participara en una reunión de gabinete un embajador extranjero.",
+      "score": 0.58,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos ahora al tuit de Javier Milei contra Jorge Lanata, 15 de abril de 2024:\n\n\"Sería bueno que la retista, otra vez, nuevamente safaronista, o sea, la construcción de neologismos y el vocabulario de Milei realmente es muy creativo, pero vamos a escucharlo.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la reunión, el embajador contó la visión oficial de Israel y luego se retiró, dando así comienzo a la reunión formal del CC.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo vamos a analizar esto con mi abogada y mi abogado, pero si llegamos a esa conclusión, yo le voy a hacer una demanda al presidente por calumnias de injurias, a ver si así por lo menos se acostumbra a no insultar con la libertad, porque me parece que él no puede decir que uno recibe sobres, a menos que tenga la prueba, sea el presidente de las Naciones Unidas o el presidente de la Argentina.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, nos encontraremos en tribunales con el presidente y veremos si él lo puede sostener.",
+      "score": 0.528,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quiero aburrir a la audiencia, que supongo que si nos sigue ya debe conocer que con nosotros en particular ha tenido varios enfrentamientos, diría una docena de tuits.\"\n\nVamos a ir a lo que opinan distintos periodistas sobre esta situación, por ejemplo, *Fernando Ruiz*, miembro de la Academia de Periodismo, profesor, fue decano en la Maestría de Periodismo de la Universidad Austral, y vamos a escucharlo ahora opinando sobre esta relación del presidente con los periodistas:\n\n\"La nueva normalidad mundial es que en todos los países hay sectores políticos que tienen una gran hostilidad hacia ser primer profesional, el primer independiente, es el mismo crítico, y en algunos casos esos grupos políticos llegan al poder.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No ha pasado en los Estados Unidos, ha pasado en Brasil, y durante el kirchnerismo se vivió una situación así en la Argentina, y ahora con Milei se está o parece que se está...",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que ha sido, eso será; lo que fue hecho, eso se hará, y vemos la repetición de las continuidades del populismo, de Milei a Kirchner, en el cual el periodismo, y como decíamos, el periodismo que ha sido crítico del kirchnerismo y no de la fin al kirchnerismo, es criticado por Javier...\"\n\n---\n\n**",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 30
+  },
+  "etiqueta_original": "neutral"
+}

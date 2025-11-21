@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Ciudad de Buenos Aires, y además, el presidente de la Asociación Mundial de Fiscales, **Juan Bautista Mahiques**, hablando también sobre el tema de la relación entre la política y la justicia.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Lo que peyorativamente se llama mesa judicial, si a eso se refieren, es que los que participaban del proceso de designación de magistrados, ya sea subsecretario de justicia, secretario de justicia, ministro de justicia, jefe de asesores del presidente y consejero de la magistratura por el ejecutivo, se reunían a ver cuáles eran los nombres que habían accedido a la terna para que después el ministro le eleve...",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "o la conseja le recomienda al presidente un nombre.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "\"Por acá, muchachos, que estoy manejando, pienso que, aunque sea no denunciándolo ahora, pero por ahí talando en los medios la teoría, que por ahí que lo haga La Nación es más lógico que lo haga Clarín\".",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Obviamente ya vimos el caso de Clarín y La Nación.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Ahora vamos al fondo de la cuestión.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    }
+  ]
+}

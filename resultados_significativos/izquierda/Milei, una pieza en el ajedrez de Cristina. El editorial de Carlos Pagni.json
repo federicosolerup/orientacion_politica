@@ -1,0 +1,406 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 53,
+      "derecha": 25
+    },
+    "score_promedio": 0.341,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es una transformación en cámara lenta que se consolida y se fija con la disminución de la inflación.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿En 2011, querían vivir en un país donde el Estado hiciera la mayor parte de las cosas en lugar del sector privado?",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese fue el año en que Cristina ganó con el 54% de los votos.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La percepción sobre el Estado ha cambiado.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cree usted que el Estado es más ineficiente que el sector privado?",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Se autopercibe usted de clase media?",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los sectores más bajos tienen la sensación de una pendiente, de que la promesa, una vieja promesa argentina de movilidad social ascendente, se ve traicionada en aquellos que más la necesitan.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente sigue teniendo una buena situación, un 42% después de nueve meses de gobierno, pero las preferencias comienzan a cambiar, y habrá que ver si esto tiene que ver con el desplazamiento que está sufriendo en la percepción de la gente, de la inflación por los temas sociales, por el miedo al desempleo, por el miedo a la pobreza, por el avance de la pobreza.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Pablo Gershuni publicó en la red X que si hay expansión del crédito y apreciación cambiaria, es decir, si el dólar se vuelve cada vez más barato, debería haber inevitablemente reactivación.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pablo Lavigne está al frente de la política comercial del gobierno, quien es un liberal, además honesto, que no restringe las importaciones.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juan Carlos de Pablo y Ricardo Arriazu ven un horizonte mucho más despejado en materia cambiaria.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente elogió a todo su equipo económico en Mendoza, uno por uno.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo digo un poco irónicamente, porque su incorporación al gobierno se anunció hace más de 15 días, creo que el 28 de agosto, y todavía no está firmado el decreto de incorporación de Daza, un prestigioso economista nacido en Argentina, criado, y que ha desarrollado toda su vida en Chile, de familia chilena, con una gran trayectoria en Wall Street y en el mundo de las finanzas, quien quiere incorporarse al gobierno porque ve que la política de Milei tiene un mérito de carácter internacional para él.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luis Caputo lo convocó, lo anunció, pero todavía no se firmó el decreto de incorporación.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente todavía no lo mencionó.",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Habrá algún problema del presidente con las ideas de Daza?",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el contexto, el telón de fondo donde aparece el debate político entre Cristina Kirchner y Javier Milei.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Analicemos esto un poco, qué significa para la política de Milei, y sobre todo, qué significa para la política de Cristina Kirchner, y qué implica para la vida interna del peronismo, que está en ebullición, una ebullición controlada, pero con indicios de movimientos de reemplazo, de desafíos a la configuración que ha tenido el peronismo en los últimos 20 años.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei vuelve a polarizar con Cristina Kirchner.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él dice que hay dos figuras antagónicas: Javier Milei y Cristina Kirchner.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ellos ve, y Milei también, sujetos políticos que agotan su proyecto en especulaciones personales.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando surge esta polémica entre Milei y Cristina Kirchner, en un momento en que estaba sucediendo algo que quizás siga ocurriendo, algo muy novedoso.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la Cámara de Diputados, y veremos si no se repite en la Cámara de Senadores, con motivo del decreto de necesidad y urgencia que asigna fondos especiales, 100 millones de dólares, a la CIDE, un decreto muy polémico para un gobierno que dice que no hay plata, votaron juntos el PRO y el kirchnerismo.",
+      "score": 0.455,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno podría decir: Macri-Cristina.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no hubo un escándalo, ni una crisis interna, sobre todo en el PRO, por votar en contra de Milei junto con el kirchnerismo.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta posibilidad también se dio en una coalición entre el radicalismo y el kirchnerismo para votar la reforma de la fórmula de ajuste jubilatorio que el presidente vetó.",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta posibilidad de convergencia de eventuales aliados del gobierno con la bancada de Cristina Kirchner o del peronismo kirchnerista es un problema enorme para Milei.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, polarizar con Cristina significa, de nuevo, quebrar la posibilidad de esas composiciones que son agresivas para el gobierno.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es muy probable que este sea un objetivo principal en la mente del equipo político del gobierno, un objetivo principal que se expresa a través de esta discusión entre Milei y Cristina Kirchner.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa exaltación de la personalidad de Milei, ese elogio casi megalómano podríamos decir de Milei hacia sí mismo, coincide con un momento en que parece que se está moviendo el piso de \"La Libertad Avanza\".",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un bloque que ahora quedó en seis, se dieron el lujo de expulsar a Francisco Pautroni, no pudieron o no quisieron expulsar a Bartolomé Abdala.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cosa que el presidente y su equipo político piensan hacer si el esquema económico o la política económica les dan los éxitos que ellos piensan que van a tener, sobre todo si aparece la reactivación.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner está, al igual que Milei, pensando en que la confrontación con el otro afianza el frente interno.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es lógico que Milei salga a pelear con el otro cuando tiene un problema en su propio frente, problema al que se agrega, hay que mencionar, su disputa cada vez más evidente con la vicepresidenta.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner también tiene que afianzar su frente interno y sale a discutir en un terreno que probablemente sea el menos beneficioso para ella, sobre todo con un gobierno que está bajando la inflación, que es el tema de nuestro tiempo: el terreno económico.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner sale a repetir nuevamente su visión de la economía: el problema de Argentina no es el fisco; el problema de Argentina es que no genera dólares.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero si uno mira este documento de Cristina Kirchner, está hablando de que hay que modificar el régimen de relaciones laborales, está hablando de que hay que analizar de nuevo la cuestión del déficit fiscal.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner hablando de una sensibilidad por el régimen y por el déficit fiscal, y apunta algo muy curioso: dice que hay que mirar lo que se llama \"el gasto tributario\", los subsidios, actividades que están exentas.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una coincidencia extraordinaria entre Cristina Kirchner y Javier Milei.",
+      "score": 0.765,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Rubén Czernajowski y a Nicolás \"Nicky\" Caputo no se los toca, digamos, el régimen de Tierra del Fuego es sagrado, entre otras cosas, porque los partidos se financian con ese régimen.",
+      "score": 0.632,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Cristina Kirchner sugeriría que habría que tocar eso.",
+      "score": 0.745,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está hablando de una nueva política social no clientelista, Cristina Kirchner, que refuerce las asignaciones automáticas universales, como, por ejemplo, la Asignación Universal por Hijo, en contra de lo que podríamos llamar, por ejemplo, el Plan Trabajar o \"Argentina Trabaja\".",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, si yo soy Alberto Fernández y la estoy mirando por televisión, bien puedo pensar: si me hubiera dejado hacer estas cosas, llevar adelante un programa de esta naturaleza reformista, probablemente hubiéramos ganado las elecciones.",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner toma la iniciativa antes que la tomen otros.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes de que alguien la desafíe diciendo que la que nos llevó a esta derrota fuiste vos, la que nos llevó a este problema de un peronismo torcido, como dice ahí en su propio documento, si alguien la desafía y dice: \"No, fuiste vos, si fuiste la jefa durante 20 años, o por lo menos desde la muerte de Néstor en 2010.\"\n\n¿Quién mira a Cristina Kirchner?",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando aparecen peronistas de derecha, como Guillermo Moreno, que dice: \"Villarruel es peronista.\" Sergio Berni, \"me gusta Villarruel.\" José Mayans, nada menos que presidente del bloque de senadores de Unión por la Patria, \"chichonea\" con Villarruel en el Senado.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué está viendo Cristina Kirchner?",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Milei lo voy a bancar hasta las últimas consecuencias, porque lo votó la gente.\" Hay una idea de juicio político a Milei, con eje en Villarruel.",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner lo cree; el que seguro lo cree es Milei.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en alguna medida, el ruido con Macri tiene que ver con la idea de que Macri simpatiza con Villarruel, inventa reuniones que no existieron, etc.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La otra persona que Cristina mira, como alguien mucho más amenazante, es, nada menos, que Axel Kicillof.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto hay que mirarlo en combinación con otras jugadas que se están dando dentro del peronismo, y que insinúan una renovación que probablemente, y sin probablemente, no va en contra de Cristina Kirchner, pero va en contra de La Cámpora.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina es líder de una fuerza política y es mamá.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y habrá que ver hasta dónde la maternidad, el patrocinio sobre La Cámpora, la elección de La Cámpora como su principal instrumento de intervención en la política, no la limita como líder y le quita flexibilidad para conducir ese mismo proceso de renovación dentro del PJ.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí está, en la jefatura del PJ bonaerense, nada menos que Máximo Kirchner, que convocó a elecciones para esa jefatura, para discutir de nuevo quién va a ser el presidente del partido el 17 de noviembre.",
+      "score": 0.788,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner está reconstruyendo su tejido dentro del peronismo bonaerense.",
+      "score": 0.691,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reapareció en el cumpleaños de Federico Achával, intendente de Pilar; dicho sea de paso, Federico Achával, jefe, socio, amigo de Darío Genua, secretario de tecnología, personaje poderosísimo dentro de este gobierno, subordinado al \"mago del Kremlin\", a Santiago Caputo, viene de ser el secretario de Hacienda del municipio de Pilar, es decir, del señor que festejó su cumpleaños con dos amigos al lado, Máximo Kirchner y Martín Insaurralde, que volvió.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es muy interesante, esto es una página de Clarín, es una nota de Pablo de León contando la reaparición de Insaurralde, \"Insaurralde Juego,\" Achával \"Ejuego,\" es el hijo de Federico Achaval, socio de Cristóbal López, en el hipódromo de Buenos Aires, de Palermo.",
+      "score": 0.178,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una disputa por el control del PJ, esto es lo que está sucediendo, y por eso también Cristina aparece y convierte un poco a Milei en una pieza de su propio ajedrez.",
+      "score": 0.419,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Axel Kicillof es candidato a presidente para el 2027, asociado al gobernador de La Rioja, Ricardo Quintela, que quiere ser presidente del PJ.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, Quintela está haciendo actos por todo el país, y en esos actos, por ejemplo, en Paraná, va gente de Cristina, la diputada \"Blanca\" Suna, en La Rioja, una diputada muy ligada a Cristina, \"Beba\" Irri, también milita, obviamente, con el gobernador de La Rioja.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, en frente está Wado de Pedro, que no sabemos si se va a animar finalmente a ser candidato a presidente del PJ; si no es él, será alguien amigo de él o amiga de él, Vanessa Siley, muy ligada también a las cuestiones judiciales, también de Mercedes.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Wado de Pedro es el hombre de Cristina en esa negociación, y Cristina desbarató la candidatura del hijo, en contra de Wado de Pedro, Sergio Massa, a quien de Pedro acusó de tener gente en el gobierno.",
+      "score": 0.508,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa jugaba a favor del hijo, o sigue jugando a favor del hijo.",
+      "score": 0.358,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La operación Lijo pareciera que empieza a tener cada vez más inconvenientes, y hubo declaraciones muy importantes de una senadora muy ligada, de las más ligadas a Cristina Kirchner, antes de ayer, Juliana Di Tullio.",
+      "score": 0.342,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuche lo que decía sobre la candidatura del hijo, la candidatura de Manuel García-Mansilla, el papel de Santiago Caputo en toda esta jugada, y el papel de Ricardo Lorenzetti.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y va a tener una aproximación acerca de qué piensa Cristina de toda esa iniciativa.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo en el caso de Mancilla, en el caso del hijo, un hijo de Lorenzetti.",
+      "score": 0.196,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Lorenzetti es parte del poder ejecutivo, ahora me entero que un juez de la corte es parte del poder ejecutivo, que es el que le ofrece al hijo ser juez de la corte, y lo hace propio el poder ejecutivo, es peor, es todo irregular, todo es raro, todo irregular, ninguno es funcionario del gobierno.\"\n\nInteresante lo que plantea, dice García-Mansilla lo propone alguien que es un asesor del presidente, contratado por la hermana del presidente con un contrato de locación de servicios, Santiago Caputo, que maneja dos tercios del Estado, y en el caso del hijo, lo propone un juez de la corte, es decir, la corte se arma a sí misma en contra de cualquier principio republicano.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que Cristina Kirchner, al decir, como dice Di Tullio, \"no votamos candidatos del gobierno, si tenemos que votar candidatos a jueces, votamos candidatos propios\", abre una discusión adicional, que es: bueno, ya que no tenemos lugar para candidatos propios, rearmemos la corte, amplíenla.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso obviamente abriría toda una discusión complejísima en la Cámara de Diputados, y es muy difícil pensar que Milei pueda pactar con Cristina Kirchner ya la ampliación de la corte, si es que quiere seguir polarizando.",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son varios los conflictos que aparecen en toda esta jugada, también un conflicto entre Cristina Kirchner y el senador Mayans, en realidad, entre Cristina Kirchner e Insfrán, Gildo Insfrán, el gobernador de Formosa.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guadalupe Tagliaferri, del Pro de la Capital, dice: \"Yo no firmo a favor del hijo,\" se definió para ese lado.",
+      "score": 0.174,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Martín Loustó está entre la popularidad, los votos porteños, muy ligados a la agenda institucional, o lo que le pidan Daniel Angelici o Emiliano Yacobitti, socios del hijo en el radicalismo de la capital.",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un pacto entre Cristina Kirchner y Milei cada vez más difícil, a pesar de que coinciden en muchas cosas, sobre todo en una: el ataque a la prensa y la concepción de que el que piensa distinto es un enemigo.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juan Bautista Bueres, un revolucionario de un mundo que a Hugo le gusta mucho, que es el mundo de lo penal.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué grado de arbitrariedad va a ir en esos negocios?",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empezamos \"Odisea.\"\n\n**Cambios Realizados:**\n\n*   **Nombres y Apellidos:**\n    *   Hugo Haime (en lugar de Aime)\n    *   Mora Jozami (en lugar de Hosami)\n    *   Gonzalo de Janon (en lugar de de Janin)\n    *   Juan Sourrouille (en lugar de Surruel)\n    *   Pablo Gershuni (en lugar de Gertzunov)\n    *   Juan Carlos de Pablo (se repite, pero se mantiene correcto)\n    *   Ricardo Arriazu (se repite, pero se mantiene correcto)\n    *   José Luis Daza (se repite, pero se mantiene correcto)\n    *   Santiago Caputo (se repite, pero se mantiene correcto)\n    *   Nicolás \"Nicky\" Caputo (en lugar de Nicky Caputo)\n    *   Hernán Letcher (en lugar de Lezger)\n    *   Axel Kicillof (se repite, pero se mantiene correcto)\n    *   Mayra Mendoza (en lugar de Imaire Mendoza)\n    *   Darío Genua (en lugar de Genoá)\n    *   Ricardo Quintela (se repite, pero se mantiene correcto)\n    *   Guadalupe Tagliaferri (en lugar de Taliaferri)\n    *   Emiliano Yacobitti (en lugar de Giacobiti)\n    *   Hugo Alconada Mon (se repite, pero se mantiene correcto)\n    *   Juan Bautista Bueres (en lugar de Buce Tich)\n    *   Pancho Olivera (se repite, pero se mantiene correcto)\n    *   Daniel Vilotta (se repite, pero se mantiene correcto)\n    *   Aín Parraguirre (en lugar de Ánei Parraguirre)\n    *   Carolina Hill (en lugar de Karola Hill)\n    *   Jorge Giacobbe (en lugar de Jacobi)\n*   **Ortografía:**\n    *   Se corrigieron errores ortográficos y de tipeo en diversas palabras (por ejemplo, \"chisnerismo\" a \"kirchnerismo,\" \"consulturales\" a \"contextuales\").",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 78
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,61 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 5,
+      "derecha": 4
+    },
+    "score_promedio": 0.341,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Todo lo que pronosticamos nosotros y otros tantos respecto a la candidatura de Cristina Fernández de Kirchner se cumplió de manera total y taxativa.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, Cristina Fernández de Kirchner representa una clara intención de volver a ese pasado que muchos, una minoría pero representativa, valora, y el deseo de lo que hoy es, en cuanto a su dispersión, una mayoría, dispersión en distintos partidos, que no quiere más aquello.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juan Pablo Odessyale, de la Corriente de Militancia Popular, ex subsecretario de capacitación popular del Ministerio de Desarrollo Social.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Eduardo Montes, de la cooperativa gráfica Gráfica Patricios, hombre de La Cámpora, cercano a \"el Cuervo\" Larroque, y ex empleado del Ministerio, manejaba los programas de trabajo autogestionados, es decir, estaban allí marcando ese dominio territorial; es gente que, cuando estuvo el kirchnerismo, dominó desde el Estado esos planes, y lo hizo imponiendo, es decir, los planes iban fundamentalmente para los que eran de su propia tropa.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya ha hablado la familia, ha dicho que lo que le ocurrió nada tiene que ver ni con un problema de reclamo de ajuste de haberes, ni reclamo de haberes, nada por el estilo.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un hombre que estaba en un estado depresivo porque había muerto su esposa y su mejor amigo.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque, sobre todo, el kirchnerismo duro fue el que, en la época de Cristina Fernández de Kirchner, negó la aplicación de los fallos de la Corte Suprema de Justicia de la Nación en cuanto a reajuste de muchos jubilados.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tres hechos de esta semana que claramente desmienten este discurso de Cristina Fernández de Kirchner.",
+      "score": 0.506,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina habla del futuro, desentendiéndose del pasado, y lo que quiere para el futuro es imponer el pasado, su pasado, su pasado de poder.",
+      "score": 0.602,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 9
+  },
+  "etiqueta_original": "neutral"
+}

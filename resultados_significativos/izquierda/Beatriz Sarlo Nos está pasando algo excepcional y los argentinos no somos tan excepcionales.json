@@ -1,0 +1,116 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 6
+    },
+    "score_promedio": 0.278,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "**Beatriz Sarlo**, ¿cómo le va?",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y preocupada, Beatriz, preocupada porque la sensación que tengo, lo que expresaba recién un poco en ese breve comentario, es que no le permiten al pueblo ir a decidir con mayor tranquilidad.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reconstruyendo, y va a costar mucho y va a ser un proceso muy penoso, reconstruyendo la democracia, que no consiste solo en elecciones, no consiste solo en elegir entre Milei y Massa o en el Rey de los Pirineos, no consiste solo en eso.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y usted ya reflexionó o pensó a quién va a votar?",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea que mi voto tiene muy pocas posibilidades de opciones, si no podría votar por la izquierda o por cualquiera de los pequeños partidos de izquierda, que ya he hecho eso en otras elecciones, porque me parecería bien que entraran algunos representantes en el Parlamento de esa izquierda, eso es posible, y tampoco diría, si votar por Massa, me hago el araquiri, tampoco diría eso, porque tenemos tan pocas opciones que el araquiri puede ser la más segura.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, claro, vio que yo leí recién que Milei acaba de postear que la Argentina se divide entre tener dignidad, que el balotaje, él lo sintetiza bajo la idea de tener dignidad versus cagar en un balde.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podés esperar metáforas políticas que te sirvan para dentro de tres días para el mensaje de la Argentina, como sirven muchas de las metáforas políticas, las de Milei no sirven nunca.",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, Beatriz, pero sea cual sea el resultado, veis, un balotaje va a ser seguramente todo voto a voto, quiere decir que la mitad de la Argentina va a quedar disconforme.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es otra cosa, Milei no dijo eso, Milei dijo que la otra mitad es cagar en un balde, o sea, él no dijo eso, el que dice eso es vos y tenés razón, es posible que la mitad o el 30% o el 20% no lo sé, quede disconforme, como sucede en general con las elecciones.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pensando que precedía la elección de Trump en Estados Unidos, digo porque siempre nos pensamos verdaderamente que nos está pasando algo excepcional y los argentinos no somos tan excepcionales, pensando qué significó la elección de Trump en Estados Unidos, con movimientos de anti-Trumpistas caminando hacia la casa del Congreso de Estados Unidos y hacia la Casa Blanca, pensé en eso.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, entiendo que usted no lo firmó.",
+      "score": 0.56,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo entendió que fue un servicio de investigación en lo que le pasaron al entendimiento?",
+      "score": 0.558,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me parece una tradición a la patria decir lo que dice ese documento.",
+      "score": 0.787,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otras traiciones a la patria se han cometido en el mundo político, en el mundo periodístico, en gran escala siempre, y nadie llamaba por teléfono.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, usted le comentó a un amigo suyo algo así como que estaba de acuerdo con lo que el documento planteaba.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Beatriz, usted arrancó la nota y me dijo algo que se escucha mucho por estas horas.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene una Corte Suprema consolidada, que a uno le puede gustar más este juez o más este otro si analiza los fallos, a uno se pasa la vida analizando los fallos en la Corte Suprema, pero tiene una Corte Suprema consolidada, compare eso con las Cortes Supremas del pasado.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Beatriz, le mando un abrazo.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le gusta la comparación con Estados Unidos porque ven lo próximo de una figura.",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Usted cree que la Argentina puede ir hacia ese modelo de...?",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 20
+  },
+  "etiqueta_original": "neutral"
+}

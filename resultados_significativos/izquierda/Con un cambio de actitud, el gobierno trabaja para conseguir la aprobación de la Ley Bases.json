@@ -1,0 +1,241 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 34,
+      "derecha": 11
+    },
+    "score_promedio": 0.265,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Por eso, para analizar la extensa jornada de exposición de ayer, abrimos el programa de hoy escuchando \"La Sombra de tu aliado\" de Luis Alberto Spinetta, interpretada por Commodores y por Lito Vitale.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El debate en el Senado le plantea al Ejecutivo un doble desafío.",
+      "score": 0.392,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El texto que se había votado en la Cámara Baja no era el mismo que el que tenían enfrente los Senadores.",
+      "score": 0.506,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El encargado de compaginar todo y mandarlo al Senado es la presidencia de la Cámara, a través de la Secretaría Parlamentaria.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos ejemplos bastan para hacer nula la comunicación que realizó la Cámara de Diputados al Senado de la Nación.",
+      "score": 0.181,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede modificar, a la hora de comunicar al Senado de la Nación, algo que ha sido aprobado y votado por los diputados.",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el presidente de la Cámara de Diputados, Martín Menem, le respondió a Martínez en su cuenta de X.",
+      "score": 0.568,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a pedirle a nuestro locutor, Elian López Cavero, que nos lea la respuesta de Menem en su cuenta de X.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que no resulta casual es la actitud de Unión por la Patria ante otra derrota legislativa.\"\n\nSeguramente, para este sector, que siempre impuso sus leyes, convirtiendo al Congreso casi en una escribanía del Ejecutivo y sin articular consensos ni escuchar al resto de los sectores políticos de la Cámara, la aprobación de esta Cámara de la ley de bases debe haber significado un duro golpe para su conducción y para su forma de afrontar la agenda legislativa, más destinada a impedir que a reconocer la nueva realidad política de la Argentina.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debe llenar de interrogantes a la conducción de Unión por la Patria que, con algunos aliados de la izquierda, llegan a triplicar al bloque oficialista.",
+      "score": 0.631,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto tal vez no signifique un triunfo de La Libertad Avanza en sí mismo, sino que evidencia el fracaso de una forma de hacer política a la cual el 56% de los argentinos le dijo que no hace algunos meses.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pretender que sea malicioso que en donde decía \"autorización\" dice \"permiso\", cuando la ley en todo el artículo involucrado usa tales términos en varias ocasiones en forma indistinta y como sinónimos para referirse a lo mismo, y que por el error humano en la transcripción se pretenda tomar nula la comunicación, suena a desesperación.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aprovecho para destacar el enorme esfuerzo de los empleados de la Honorable Cámara de Diputados de la Nación, que han puesto toda su capacidad a disposición, a quienes una vez más agradezco su constante dedicación y profesionalismo.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La producción le preguntó a analistas políticos y periodistas de diferentes provincias sobre cómo venía la discusión en sus provincias y si sabían qué iban a votar los senadores representantes, por ejemplo, de Corrientes, de Salta y de Chaco.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, con Martín Varela, periodista de Corrientes: \"Los tres senadores nacionales por Corrientes comienzan a debatir y discutir la ley de bases, el proyecto del gobierno que obtuvo media sanción en Diputados y que amenaza con desembarcar en Senadores con un escenario de conteo muy cerrado y muy estrecho.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los senadores oficialistas del gobierno provincial, Gabriela Valenzuela y Eduardo Vischi, dan toda la sensación de respaldar la ley de bases y, obviamente, brindarle un apoyo significativo al gobierno de Javier Milei.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene muy buena relación con Guillermo Francos y además tiene como mentor político a Daniel Scioli, pero también está recibiendo muchas presiones de diferentes sectores gremiales de la provincia de Corrientes para que su voto sea negativo.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el medio de todo, la postura del gobernador Gustavo Valdés era de brindarle un firme respaldo a Javier Milei para darle las herramientas que el presidente considera necesarias para la transformación económica del país.\"\n\nBueno, Corrientes, por lo que dice Varela, es mayoritario el voto a favor.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El otro senador que ingresó por minoría justo en la elección en la cual ganó la presidencia Alberto Fernández hace cuatro años y medio, es Juan Carlos Romero.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A pesar de esto, claro, el oficialismo provincial que apoyó en Cámara de Diputados solamente tendría como senador a Juan Carlos Romero, también algo próximo a Juntos por el Cambio y, en estos momentos, a Milei.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo eso bajo la perspectiva que en las elecciones del año pasado, en las tres elecciones nacionales que hubieron, las PASO, la general y la segunda vuelta o ballotage, La Libertad Avanza ganó en las tres elecciones en la provincia de Salta con uno de los valores en provincia del interior más altos.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso, claro, le permitió colocar dos diputados nacionales que votaron a favor, junto a un tercero que ya venía con un mandato desde el año 2021, más los tres diputados nacionales que responden a Gustavo Sáenz.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que Víctor Zimmermann va a votar a favor porque el gobernador de la provincia, Leandro Zdero, le pidió a todos que se le dé una oportunidad al presidente, en el buen sentido de la palabra, porque las provincias están paradas en obras, en infraestructura, en servicios, en muchísimas cosas, porque se han cortado todos los fondos.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tenemos un fondo compensador con el INSSSEP, que es la obra social, que también está parada.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se juega una carta, viendo si puede salir esta ley ómnibus rápidamente y reactivar todo lo que se le dé a la provincia del Chaco.\"\n\nWaiman agrega un elemento de análisis muy concreto, que es el planteo que viene teniendo el gobierno de retacear el envío de fondos a las provincias como un subproducto de no votar la ley ómnibus.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos el exabrupto que se filtró al presidente cuando dijo que iba a dejarlo sin plata, refiriéndose a los gobernadores en el primer intento de la ley ómnibus, y había agregado: \"Los voy a fundir a todos\".",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras todo esto se desarrollaba en la Cámara del Senado, es que Cristina Fernández de Kirchner hizo una nueva aparición política.",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso Cristina aparece, por eso también el paro del día de mañana.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este fragmento, Cristina dice algo que viene repitiéndose mucho: trata de plantearse como alguien que está por encima de su propia ideología, que puede articular diferentes sectores.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que el presidente debería abandonar esa costumbre de estar hablando tonterías por el mundo acerca de un mundo que no existe, el comunismo, el socialismo.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un momento dado, cuando ingresa, le digo: 'Presidente, acá, coloque si a mi izquierda...'.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se sienta en la decisión de Rivadavia, se le van a caer unos cuantos prejuicios como se le están cayendo ahora en la realidad de todos los días.",
+      "score": 0.551,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo lo que anuncian, todo lo que dan como verdad absoluta, no tiene conexión con la realidad.\"\n\n¿Qué intenta hacer Cristina Kirchner con estas apariciones?",
+      "score": 0.313,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Brasil, fue Lula quien logró articular diferentes sectores que anteriormente le eran oposición y que, incluso, habían impulsado el juicio político contra Dilma Rousseff, para vencer a Bolsonaro.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Es Cristina capaz de generar eso que hizo Lula?",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por el contrario, la división que, asegura la ex presidenta, terminó siendo funcional a Milei porque impediría que la oposición se una.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina también se refirió a lo que estaba pasando en Senadores.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vamos a compartir nuevamente otro fragmento de Cristina Fernández de Kirchner, en este caso diciendo que el RIGI es el Estatuto Legal del Colonialismo Versión Siglo XXI: \"Que estén preocupadas.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que plantea Cristina Kirchner con el RIGI, pero que lo viene mencionando en general en relación a otra figura, que utilizó en lugar de anarcocapitalismo, anarcocolonialismo y al extractivismo.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien también criticó el RIGI es el senador por la Ciudad de Buenos Aires y presidente de la Unión Cívica Radical, Martín Lousteau.",
+      "score": 0.17,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en la distribución de dividendos es, si no recuerdo mal, 7%, pero luego del tercer año baja a 0%.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien puede decir excesivamente o no, me parece excesivamente generoso.\"\n\nEs probable que Cristina Fernández de Kirchner no haya utilizado el día que empieza el debate en el Senado para hablar por casualidad.",
+      "score": 0.766,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, tal vez, en el curso del debate, tanto en Diputados como en Senadores, se pueda responder con el mismo interrogante que nos hicimos anteriormente: ¿Es una Cristina Kirchner con dificultades de contención de los más cercanos, capaz de reunir a toda la oposición, o su presencia es un factor de división?",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo pronto, la buena noticia, entre tantas dificultades, es que los escenarios de deriva más autoritarios que se pronosticaban sobre el gobierno de Javier Milei no están sucediendo.",
+      "score": 0.304,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay lo que podríamos llamar una intuición antropológica en Milei al reconocer la importancia de la ley antes del pacto.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 45
+  },
+  "etiqueta_original": "neutral"
+}

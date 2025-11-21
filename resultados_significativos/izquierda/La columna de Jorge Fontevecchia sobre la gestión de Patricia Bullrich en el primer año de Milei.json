@@ -1,0 +1,71 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 7,
+      "derecha": 4
+    },
+    "score_promedio": 0.354,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Le vamos a dedicar el balance del año a la superministra de Seguridad, quien logró pacificar la calle, aplacar la protesta social a fuerza de protocolos antipiquete y gas pimienta.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, la antigua candidata a presidenta del PRO tuvo duros cruces con su examigo, Mauricio Macri.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece que va por \"la asesina de Villarruel\", y ahora que el PRO está profundamente debilitado, ella fue una de las artífices de ese debilitamiento, cruzándose sola y cortándose sola.",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich pasó de ser la candidata del PRO y Juntos por el Cambio a ser la ministra estrella del gobierno libertario.",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos dos grandes elementos eran controlar la inflación –en el caso de Bukele, la moneda, con directamente pasar a las monedas digitales– y fundamentalmente la seguridad.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la pimienta que utilizó para desalojar a los piquetes también condimenta sus declaraciones contra el fundador del PRO, lo que será un condicionamiento que podría terminar de dejar en el pasado su relación con Macri.",
+      "score": 0.784,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos números de la acción represiva específica se deben combinar con un análisis más amplio de Patricia Bullrich en su mandato como ministra de Seguridad del macrismo y en la actualidad.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante el caso de Santiago Maldonado, la puesta en pie de la imagen del mapuche terrorista que es un peligro para el sur argentino tuvo impacto en los medios, y tras las enormes movilizaciones que se sucedieron durante el caso, el balance político quedó a su favor: Bullrich salió fortalecida de esta situación.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la actualidad, Bullrich acusa a las organizaciones sociales, a dirigentes opositores, a personas que simplemente se movilizan por cualquier causa en la que están protestando, de un golpe de Estado.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo sucedió en Rosario, donde dicen que el mayor mérito no es de Patricia Bullrich, sino del gobernador Pullaro, pero no cabe ninguna duda de que la aprobación que cuenta la ministra Patricia Bullrich con su mano dura, algo que no es nuevo.",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y allí reside el crecimiento de su valoración y el de Patricia Bullrich en particular.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 11
+  },
+  "etiqueta_original": "neutral"
+}

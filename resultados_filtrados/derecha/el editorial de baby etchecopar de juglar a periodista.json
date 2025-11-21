@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Entonces, lo que pasó: una frenada de golpe, los que estaban en el fondo se vinieron para adelante; resulta que un diputado, un senador te caga.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Entonces, en honor a lo que hemos perdido, que es la libertad de expresión, aunque todos salgamos al aire todos los días diciendo… Ayer, cuando Alberto Fernández habló de la miniserie, lo que estaba diciendo era: \"Ojo, Cristina, que sé que me van a querer cagar como en la película\".",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Con Macri, con Alfonsín, con Kirchner, o con Alberto Fernández… digo medio fascista porque el otro medio labura.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

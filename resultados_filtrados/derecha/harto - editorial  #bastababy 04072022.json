@@ -1,0 +1,38 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Llevamos un año denunciando los acontecimientos, un año en el que hemos observado la conducta de Cristina Fernández de Kirchner,  cuyas acciones consideramos desestabilizadoras.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "La impresión generalizada es que un gran porcentaje de la población argentina ya no la tolera.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Su intento de golpe de estado el sábado pasado, cuando atacó públicamente al presidente Alberto Fernández,  es un ejemplo de su desmesurada ambición de poder.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Es necesario que la justicia actúe y que se investigue a fondo su conducta y la de su entorno.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "La situación actual recuerda a la crisis de Malvinas en cuanto al nivel de sometimiento a la voluntad de una sola persona.",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    }
+  ]
+}

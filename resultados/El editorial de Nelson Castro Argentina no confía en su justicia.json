@@ -1,0 +1,147 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "El texto corregido es el siguiente:\n\nMe refiero a un tema que ha sido rechazado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me quedo con esta reflexión, que tiene que ver con algo que mencionaba la diputada Margarita Stolbizer.",
+      "entidades_detectadas": [
+        "Margarita Stolbizer"
+      ]
+    },
+    {
+      "frase": "Es un tema que, confieso, me ha impactado personalmente y que hoy fue el motivo de un artículo estupendo de Carlos Cué, el gran corresponsal del diario El País en Buenos Aires, Argentina, un país donde la confianza en la justicia es fundamental.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "El País",
+        "Argentina",
+        "Carlos Cué"
+      ]
+    },
+    {
+      "frase": "Porque uno puede no creer en un presidente, pero la democracia no depende de un solo presidente; un día se va, hay elecciones y llega otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, un gobernador, un legislador o un juez, por lo general, permanecen en sus cargos por un período más extenso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Remover a un juez después de su nombramiento es un proceso muy complejo.",
+      "entidades_detectadas": [
+        "Remover"
+      ]
+    },
+    {
+      "frase": "Hemos tenido muchos jueces cuestionables y no ha sido posible destituirlos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es el núcleo del problema en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Cuando no se confía en la justicia, la República sufre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el problema es que, cuando la República sufre, sufren los ciudadanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así lo atestigua la familia Maldonado, cuyo dolor compartimos.",
+      "entidades_detectadas": [
+        "Maldonado"
+      ]
+    },
+    {
+      "frase": "Compartimos el dolor de la familia Maldonado en este momento tan difícil de sus vidas.",
+      "entidades_detectadas": [
+        "Maldonado"
+      ]
+    },
+    {
+      "frase": "Hasta la próxima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos:**\n    *   **Margarita Stolbiser** (Se corrigió la ortografía del apellido).",
+      "entidades_detectadas": [
+        "Nombres",
+        "Margarita Stolbiser",
+        "Cambios Realizados",
+        "Apellidos"
+      ]
+    },
+    {
+      "frase": "*   **Carlos Cué** (Se corrigió la ortografía del apellido, asumiendo que era una errata y no un apellido menos común).",
+      "entidades_detectadas": [
+        "Carlos Cué"
+      ]
+    },
+    {
+      "frase": "*   **Ortografía:** Se corrigieron errores de acentuación y escritura de palabras.",
+      "entidades_detectadas": [
+        "Ortografía"
+      ]
+    },
+    {
+      "frase": "*   **Cohesión y Coherencia:**\n    *   Se reorganizaron algunas frases para mejorar la fluidez y la claridad.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "*   Se eliminaron repeticiones innecesarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se añadieron conectores para mejorar la estructura del texto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se reemplazó \"Sino que lo diga la familia Maldonado\" por una frase más clara y directa.",
+      "entidades_detectadas": [
+        "Maldonado"
+      ]
+    },
+    {
+      "frase": "*   Se eliminaron las repeticiones de \"es lo que es\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se modificaron algunas expresiones para que la redacción fuera más formal y precisa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se reemplazó \"hasta la próxima hora\" por \"hasta la próxima\" para hacerla más concisa.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Buenos Aires",
+    "El País",
+    "Argentina",
+    "Cambios Realizados",
+    "Apellidos",
+    "Cohesión",
+    "Nombres",
+    "Margarita Stolbiser",
+    "Así",
+    "Ortografía",
+    "Margarita Stolbizer",
+    "Carlos Cué",
+    "Coherencia",
+    "Remover",
+    "Maldonado"
+  ]
+}

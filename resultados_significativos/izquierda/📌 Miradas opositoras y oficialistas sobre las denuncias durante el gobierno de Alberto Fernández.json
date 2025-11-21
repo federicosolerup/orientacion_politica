@@ -1,0 +1,126 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 17,
+      "derecha": 5
+    },
+    "score_promedio": 0.293,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Dicho esto, el tema del paroxismo de este señor Alfa, con Alberto Fernández, la cuestión de fondo es mucho más seria, pero, en el fondo, decíamos lo de este señor Alfa, lo que hace simplemente en su exageración es ampliarnos, como si fuera un microscopio, lo que sucede en menor medida en muchos otros temas.",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar simplemente, con el ánimo de hacernos reflexionar a todos, lo que se decía por entonces, hace pocos meses, sobre el tema del avión iraní y ayudarnos a todos a reflexionar cómo, a veces, la necesidad de espectacularizar la política crea este tipo de situaciones.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La experiencia argentina es que vienen a ponerte una bomba, entonces no quiero de ninguna manera sembrar incertidumbres, pero estos países son países muy complejos, de los que Argentina tendría que estar muy lejos, absolutamente lejos, especialmente Irán, que hay en la Argentina un antecedente realmente muy complicado que involucra a una organización terrorista que estaba relacionada y financiada por Irán, que es la AMIA\".",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo recuerdo la época de los carteles de la droga, yo vivía en Nueva York y los colombianos se quejaban de que, por el solo hecho de tener pasaporte colombiano, eran revisados de una manera exhaustiva en los aeropuertos norteamericanos porque su proceso suponía que, si era colombiano, era narcotraficante.",
+      "score": 0.648,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente la semana pasada en Estados Unidos defendiendo a Nicaragua, defendiendo a Venezuela, Maduro le agradeció defendiendo a Cuba.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer reflexionamos con el historiador Pablo Gertzunov.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él hacía una mirada muy aguda de Rodríguez Larreta, que era Menem al revés.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem proponía algo que luego, cuando asumió en su campaña como presidente, hizo lo contrario.",
+      "score": 0.216,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces él planteó una política por resistir y luego hizo una política conservadora.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Gertzunov lo que plantea es que Horacio Rodríguez Larreta es el Menem invertido.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar ahora a Patricia Bullrich hablar sobre el avión.",
+      "score": 0.492,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, es gracioso, pero en realidad es grave, porque vuelvo a decir, Argentina sufrió en la década del 90 dos atentados y, en el 2015, el asesinato del fiscal, justamente antes de hacer la acusación.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Exactamente, por el encubrimiento de esos atentados.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, a mí me parece que son cosas que tienen que quedar claras, porque es un tema muy, muy grave que Argentina no haya detectado esta actividad, porque el avión entró y salió de la Argentina.",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después volvió, porque Uruguay se negó a que utilizara el cielo uruguayo, el territorio uruguayo, para volar.",
+      "score": 0.636,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces volvió a la Argentina y ahí tomamos todos un poco, a partir de una denuncia incluso del diputado Gerardo Milman, en nuestro espacio que presentó el tema el viernes.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que ahí empezó a tomar conocimiento, pero hasta le habían dado la documentación, Joaquín.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el gobierno decidió ignorar que el gobierno de Irán es un gobierno con funcionarios que mandaron a matar a argentinos.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y aún así, desde el memorándum con Irán en adelante, este gobierno sostuvo esta política.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Respecto de México, la verdad que yo no, como diputado de la nación argentina, respecto del accionar de México, pero nosotros tenemos una historia más compleja con la República Islámica de Irán y con Venezuela también, que tiene México.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que debemos tener la óptica para mirar con nuestra historia y nuestra historia con Irán es sumamente compleja.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y con Venezuela también es compleja.",
+      "score": 0.651,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 22
+  },
+  "etiqueta_original": "neutral"
+}

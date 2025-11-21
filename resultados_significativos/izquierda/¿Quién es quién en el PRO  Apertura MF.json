@@ -1,0 +1,96 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 6
+    },
+    "score_promedio": 0.401,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es un libro escrito en el año 2007 en el que se propone que políticas económicas como las del premio Nobel Milton Friedman y la Escuela Económica de Chicago, es decir, políticas económicas ortodoxas y que podríamos llamar de ajuste, pudieron alcanzar importancia en países, a pesar de que no fuesen populares, solo a través de impactos en la psicología social y que a partir de esos desastres o contingencias, la conmoción que producían y la confusión que generaban hacían que esas reformas impopulares pudieran ser aceptadas por la sociedad en un estado de shock en el que había lo que se llamaba un desviamiento de la personalidad.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a pasar aproximadamente dos minutos de un documental que de alguna manera sigue la línea de *La doctrina del shock*, un documental que protagoniza la propia Naomi Klein y que luego tiene una explicación y un correlato en los países donde se han aplicado políticas económicas que necesitan ser muy radicales y van a ser rechazadas por la sociedad; por eso titulamos que la bomba en realidad es algo que precisa el PRO para poder generar el shock.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar con distintos personajes del PRO hablando de la \"bomba\".",
+      "score": 0.277,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un libro interesante que es *El PRO de las palabras*, las palabras cortas que generan un efecto de repetición: \"bomba\", \"circo\", siempre de dos sílabas y, si fuera posible, de una, que son las que más producen impacto y recordación.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Horacio Rodríguez Larreta está endureciendo cada vez más su discurso al ver el crecimiento de Patricia Bullrich, dice: \"La bomba ya estalló\".",
+      "score": 0.492,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le están diciendo a la gente de lo peor que va a venir?",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos a Patricia Bullrich, que es mucho más contundente, a la que se le pregunta: \"¿Shock o gradualismo?\".",
+      "score": 0.207,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Si Massa ha pasado de superministro a mini-ministro\".",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, porque Massa está volviendo a...",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es Guzmán.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de haber tenido una actitud, yo diría, de relativo apoyo al gobierno, incluso corriéndonos un poquito del rol de oposición dura que él, por la cual la gente nos votó, nosotros le aprobamos el acuerdo con el Fondo Monetario, sabiendo, diciendo que la política económica estaba atrás de ese acuerdo y va a llegar a esto que llegó a una crisis inflacionaria en la época de Guzmán.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le votamos el presupuesto a Sergio Massa en tiempo récord, con una aprobación muy criticada por un pedazo de la oposición más dura.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le dimos el crédito para que empezaran a sacar a los argentinos de esta pesadilla.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y creo que la mesa nacional de Juntos por el Cambio tomó la decisión de decir, bueno, hasta acá llegamos, le dimos crédito al gobierno para que empezara a corregir los desequilibrios.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta idea de que, para que se acepten medidas que son impopulares, es necesario producir un estado de conmoción y confusión que haga a las personas más tolerantes y más receptivas.",
+      "score": 0.264,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podríamos decir que la Escuela de Chicago es la continuación norteamericana de la Escuela Austríaca, de la economía austríaca, que sienta siempre Javier Milei.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 16
+  },
+  "etiqueta_original": "neutral"
+}

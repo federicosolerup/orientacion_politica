@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer, 2 de abril, se discutió sobre Malvinas y sobre el padre de la vicepresidenta, Victoria Villarroel.",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    },
+    {
+      "frase": "El día del fallecimiento de su padre, ella tuiteó:  \"El fallecido de mi papá vivió como pensó toda su vida: profundamente creyente, patriota, recto, un hombre que me transmitió que lo más importante que tenemos en la vida es el honor, fue veterano de la guerra de Malvinas como segundo jefe de la compañía comando 602 y condecorado por el Estado\".",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    },
+    {
+      "frase": "Presenta un diploma de honor por su participación en el Operativo Independencia (un operativo represivo en el norte del país) y otro diploma de honor por su participación en la guerra de Malvinas, además de un diploma oficial de Estado Mayor y un diploma de agregado en el ciclo intensivo de estudios.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Nuestro respeto y admiración se extienden a quienes participaron en la guerra de Malvinas, a quienes fueron obligados a participar, a los sobrevivientes, a las familias de los que se suicidaron tras el trauma, a los caídos en el crucero General Belgrano (decisión de Margaret Thatcher, reivindicada por el presidente Javier Milei), e incluso a los militares que tuvieron actuaciones destacadas en el conflicto.",
+      "entidades_detectadas": [
+        "javier",
+        "presidente"
+      ]
+    }
+  ]
+}

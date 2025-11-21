@@ -1,0 +1,109 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original es muy coloquial y carece de estructura clara.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para corregirlo, se necesita interpretar la intención del autor, ya que hay frases inconexas y un lenguaje informal que dificulta la comprensión completa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Asumiendo que se refiere a una rivalidad deportiva y a la figura de Román (probablemente Román Riquelme), intentaré una corrección que preserve el sentido general, aunque la falta de contexto limita la precisión.",
+      "entidades_detectadas": [
+        "Román Riquelme",
+        "Román"
+      ]
+    },
+    {
+      "frase": "**Texto corregido:**\n\nMe involucro porque aprecio a [Nombre de la persona] y porque existe una disputa que trasciende la rivalidad entre [Nombre del equipo rival de Oka] y [Nombre del equipo de Oka].",
+      "entidades_detectadas": [
+        "Oka",
+        "Nombre",
+        "Texto"
+      ]
+    },
+    {
+      "frase": "Considero importante participar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué significa esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se trata solo de ganar o perder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espero que [Nombre del equipo] gane y lucharé por ello.",
+      "entidades_detectadas": [
+        "Espero"
+      ]
+    },
+    {
+      "frase": "Mi compromiso es claro, pero en este momento hay mucho más en juego.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recientemente, [Nombre de la persona] mencionó la disputa con [Macri, si es correcto, o especificar a quién se refiere], y yo, como hincha de mi club, amo a mi club y a sus hinchas.",
+      "entidades_detectadas": [
+        "Nombre",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "En los últimos dos meses se han producido acontecimientos que me alegran, pues mucha gente está tomando conciencia de realidades que antes parecían impensables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para mí, es gratificante contribuir a que uno, dos o muchos argentinos se den cuenta de su potencial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso me llena de satisfacción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él ya lo veía venir y, lamentablemente, sucedió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, ¿cuál será el impacto en los hinchas de Boca Juniors?",
+      "entidades_detectadas": [
+        "¿",
+        "Boca Juniors"
+      ]
+    },
+    {
+      "frase": "Román Riquelme, aunque no sorprendido, ha expresado su opinión sobre esta situación.",
+      "entidades_detectadas": [
+        "Román Riquelme"
+      ]
+    },
+    {
+      "frase": "Como él mismo dijo, finalmente apareció \"la basura\" y llegó a Boca Juniors.",
+      "entidades_detectadas": [
+        "llegó",
+        "Boca Juniors"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "llegó",
+    "¿",
+    "Boca Juniors",
+    "Espero",
+    "Nombre",
+    "Román",
+    "Oka",
+    "Román Riquelme",
+    "Macri",
+    "Texto"
+  ]
+}

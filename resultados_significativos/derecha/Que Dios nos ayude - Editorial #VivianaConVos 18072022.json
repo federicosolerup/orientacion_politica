@@ -1,0 +1,501 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 24,
+      "derecha": 73
+    },
+    "score_promedio": 0.672,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Es una cosa Argentina que no se puede creer, que pocos patriotas quedamos.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos momentos que son absolutamente inmanejables, que no sabés qué hacer con tu vida y con la vida de las personas que están con vos.",
+      "score": 0.184,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estaba mirando hoy un poco de tele, informándome para este programa, escuchando radio, leyendo los diarios, y de repente pongo la tele y lo veo al presidente Alberto Fernández, más o menos como esta foto, hecho pelota, está hecho pelota este hombre, alguien debiera cuidarlo, ¿no?",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Todos los días nos quieren deprimir”, dice el caradura del presidente que tenemos.",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente parece un chonguito peleando solo en un bar, nadie lo respeta, nadie lo escucha, ya no le creemos nada al presidente Alberto Fernández.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en tiempos donde el desánimo lo siembran y en tiempos donde algunos le hacen creer que todo es lo mismo, quiero decirles: “No somos lo mismo, somos distintos y gracias a Dios que lo somos”.",
+      "score": 0.514,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vergüenza escuchar al presidente Alberto Fernández absolutamente sobreactuado.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le cree nadie nada de lo que está diciendo.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Catamarca, ya cuando vinimos con Ana Buenavira, que es el presidente de los argentinos, le juro que ya esto no es gracioso, no nos causa gracia, ya no sé si nos da pena, lástima, vergüenza, horror, no sabemos bien.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además, en ese tono y con esos furcios, es imposible creerle algo de lo que está tratando de decirnos y convencernos.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que lo veo al presidente Alberto Fernández, no sé a ustedes, yo lo miro por televisión y le veo la cara y siento que tiene un cartel gigante acá que dice: “Yo, Alberto Fernández, violé el DNU que yo mismo firmé.",
+      "score": 0.789,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso leo cuando miro al presidente Alberto Fernández.",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fin de semana, el presidente dijo que está muy preocupado por los allanamientos en comedores y en merenderos, pero no le preocupa la guita negra que encontraron.",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice este tuit de Alberto Fernández: “Me preocupan enormemente los allanamientos a comedores y merenderos.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Presidente Alberto Fernández, ¿sabe cuánta guita había en esos merenderos/comedores?",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es la guita que le sacan los planeros a los pobres giles que van a las marchas, creyéndoles.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obviamente que lo entiendo, Alberto Fernández, porque sin estos gerentes del podrimismo habría un estallido social impresionante en la República Argentina.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y dice Alberto Fernández: “Seguiremos con nuestras convicciones hasta que la economía se normalice”.",
+      "score": 0.237,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros, el rebaño de pelotudos, le paga el helicóptero a un tipo que no tiene la menor idea de lo que está pasando en la Argentina.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Alguna vez la vieron a Cristina Fernández de Kirchner referirse a alguna de las tragedias de la Argentina o por los muertos en pandemia?",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le importamos nada.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La deuda pública total de Argentina es récord y ya representa más de ocho veces el préstamo con el Fondo Monetario Internacional.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si la bola se corre y todo el barrio se entera, lo pongo en un tráiler verde al fondo de la heladera.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, ¿a quién no le viene el fantasma de los bancos en el año 2001?",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el presidente también habló del “dólar blue”.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de escucharlo a Alberto Fernández ahora.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina no es un lugar donde los “turistas” compran dólares para viajar.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina también es esta: la que produce, la que invierte, la que trabaja, la que da empleo, la que educa, la que sana.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos una patria formidable.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos una patria formidable.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un rato vamos a conversar con Patricia Bullrich y con el Lacha para que nos cuente todo acerca de la economía.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el presidente hablaba del dólar blue.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno siente que el presidente habla y no sabe de qué coño está hablando.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que todos al presidente le perdimos el respeto.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias Alberto Fernández y a Cristina Fernández de Kirchner.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La columna de Lanata, Alberto y Cristina: “La desconfianza mutua y una tregua atada con alambre que mucho no puede durar”.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él se le renunció tres veces.",
+      "score": 0.431,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno le da al presidente y no es de mala onda.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente está angustiada y si Alberto Fernández renuncia estamos ante un golpe de estado.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al presidente se lo contamos acá en primicia, tres veces, con la renuncia.",
+      "score": 0.776,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todos modos, creo que si el presidente renuncia no sería un golpe de estado.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A pesar de todo esto hay una mujer en este planeta, en este mundo, en esta Argentina, que quiere a Alberto Fernández.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una mujer tuvo su séptimo hijo varón y quiere que Alberto Fernández sea su padrino.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le haga esto al pibe.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le haga esto al pibe.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Quédate en casa\", le va a decir al nene.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya ni gracia nos causa el presidente Alberto Fernández.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al verso Fernández cuando era crítico de Cristina y de todo el kirchnerismo.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que Cristina va a dejar su gobierno con dos máculas indudables que es el de haber hecho dictar dos leyes para protegerse penalmente de dos delitos cometidos.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para los que esto yo se lo pregunté a Alberto Fernández varias veces.",
+      "score": 0.636,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es necesario que Cristina explique.",
+      "score": 0.616,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que decía que era necesario poner fin a la corrupción menemista ¿cómo explica a López con 9 millones de dólares en el baúl del auto?",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy tan indignado como usted con López.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo quiero tanto como usted que se descubra lo de Schiavi, lo de López.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque yo no puedo decir que los jueces no tienen que ver con los Schiavi y van al mausoleo de Néstor juntos.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando yo le decía a Cristina: “Cristina, tenés un déficit fiscal que se te está yendo de las manos”, me decían que me mandaba a De Vido.",
+      "score": 0.23,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le fue de las manos el déficit fiscal.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la pregunta digo es si defiende a la gente alguien que decía que la pobreza en Argentina había desaparecido.",
+      "score": 0.17,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque como le estás diciendo a la gente que no existe, nadie se ocupa de ellos.",
+      "score": 0.637,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, de ser el crítico número uno de Cristina a ser su fan número uno, se odian.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es lo que piensa realmente Alberto Fernández de Cristina.",
+      "score": 0.695,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero de verdad, le pareció mucho hasta Pinocho.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le importan los pobres?",
+      "score": 0.632,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El comedor de Alfa Juárez de Bolívar que dijo: “Yo me comprometo con la pobreza, con el hambre, con este gobierno, con Alberto Fernández”.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo me comprometo fervientemente a trabajar desde el primer minuto que me fui convocado por el presidente y por el futuro ministro de Desarrollo y Acción Social, Daniel Arroyo, para estar ahí, para estar en el Observatorio de la Pobreza, para trabajar contra el hambre.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy emocionado el abrazo que nos dimos con el presidente el otro día.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo me comprometo fervientemente a trabajar desde el primer minuto que me fui convocado por el presidente y por el futuro ministro de Desarrollo y Acción Social, Daniel Arroyo, para estar ahí, para estar en el Observatorio de la Pobreza, para trabajar contra el hambre.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy emocionado el abrazo que nos dimos con el presidente el otro día.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Confirman a que Silvina Batakis acompañará a Alberto Fernández a su visita a Estados Unidos, a Washington con Joe Biden.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le cuentes a Biden que sos comunista y que lo bancás a Fidel Castro.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si cuando viajan no pasa absolutamente nada con esos viajes presidenciales que hacen.",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que Alberto Fernández se va de viaje para estar lo más lejos que puede de Cristina Fernández de Kirchner.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me puede escuchar el presidente Alberto Fernández hoy, ver cómo se dispara el dólar, he contado con liquidación 305 mangos, me parece todo como un disparate, una locura, y te dicen que van a seguir haciendo lo mismo.",
+      "score": 0.793,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay plata, fuerte preocupación de Batakis por el estado de las cuentas que dejó Guzmán antes de irse.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la Argentina real.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No creen en la Argentina del mérito.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creen en la Argentina de los vivos.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Heller, usted gana mucho, banquero, diputado.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted gana mucho.",
+      "score": 0.737,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esos tipos te dicen que “los que ganan mucho tienen que ganar un poco menos para que los que ganan nada empiecen a ganar un poco”.",
+      "score": 0.162,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora a la clase media también le van a sacar el subsidio a las tarifas.",
+      "score": 0.199,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, además, es tan difícil ese trámite que le hacen hacer a las personas para pagar menos las tarifas.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, te bajás la aplicación “No Llego al Día 8” en tu iPhone Pro o algún otro de pobre.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, como quien sale a cazar un Pokémon, buscás un código QR en cualquier esquina Néstor Carlos Kirchner de tu barrio.",
+      "score": 0.648,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con lo cual nuestra presencia obedece a ser parte de un modelo sindical del movimiento obrero y no por una cuestión particular que le pase a nuestra organización.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero estos sindicalistas caraduras, ¿no?, están pensando la CGT y la CTA, che, hacemos algo, chicos.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé cómo Dios y la patria todavía no los demandó, ¿qué están esperando?",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el presidente hubiera sido Mauricio Macri ahora, en este momento, después de la pandemia, ¿qué hubieran hecho?",
+      "score": 0.769,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuántos paros le han hecho hoy a Mauricio Macri?",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Viste que estamos tan mal en la Argentina que todo funciona mal?",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le habla a los pobres trabajadores y él es rico.",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también con Patricia Bullrich que acaba de llegar de viaje y nos eligió para conversar esta noche mano a mano.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero decía que Dios nos ayude.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández no fue.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la historia de la tragedia delicada profundamente, salvo a este gobierno y al presidente Alberto Fernández, en una parte del mundo, un presidente se ausenta cuando se conmemora una tragedia semejante, un atentado semejante donde perdieron la vida muchísimos argentinos y el presidente no va a entender de qué lado está el presidente Alberto Fernández.",
+      "score": 0.458,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le parece Cuba a Francisco?",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le parece Cuba?",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 97
+  },
+  "etiqueta_original": "neutral"
+}

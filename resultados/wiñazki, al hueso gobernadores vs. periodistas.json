@@ -1,0 +1,161 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En estos tiempos, observamos cómo senadores afines al kirchnerismo intentan judicializar el trabajo periodístico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buscan incorporar artículos en la reforma judicial que permitan a los jueces denunciar a periodistas por supuestas presiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, que la crítica de un periodista a un juez sea motivo de denuncia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto ocurre principalmente en los grandes medios nacionales y en la política, donde la atención es mayor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, en el interior del país, la situación es mucho más compleja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El control político, lamentablemente, ha aumentado con el paso de los años y las décadas, dificultando enormemente el periodismo independiente, especialmente en provincias como San Luis, Formosa y Santa Cruz.",
+      "entidades_detectadas": [
+        "Santa Cruz",
+        "San Luis",
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "El ahogamiento económico, tanto por parte de auspiciantes estatales como privados, es significativo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los medios que critican al gobierno provincial sufren presiones para retirar su publicidad, lo cual es crucial para su subsistencia, ya que la prensa libre es fundamental en una democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras a nivel nacional se observa una fuerte, aunque habitual, presión sobre la prensa, en las provincias existen casos gravísimos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En San Luis, la jueza Laura Molino condenó al periodista Diego Massi por violación a la intimidad, imponiéndole una multa de 90.000 pesos.",
+      "entidades_detectadas": [
+        "San Luis",
+        "Diego Massi"
+      ]
+    },
+    {
+      "frase": "La causa: Massi difundió en su blog un video de Natalia Spinuzza, entonces ministra de Educación de San Luis, quien, estando en Holanda, se grabó consumiendo marihuana y alcohol.",
+      "entidades_detectadas": [
+        "Massi",
+        "San Luis",
+        "Educación",
+        "Holanda",
+        "Natalia Spinuzza"
+      ]
+    },
+    {
+      "frase": "Si bien el video tenía interés público, la ministra renunció a pedido del gobernador Alberto Rodríguez Saá, quien, junto a su hermano Adolfo, gobierna San Luis —con pequeñas excepciones— desde 1983.",
+      "entidades_detectadas": [
+        "Adolfo",
+        "tenía",
+        "San Luis",
+        "Alberto Rodríguez Saá"
+      ]
+    },
+    {
+      "frase": "La jueza Molino, respondiendo al poder político de los Rodríguez Saá, argumentó que la difusión del video violó la intimidad de la funcionaria, comparándolo con la prohibición de violar correspondencia privada.",
+      "entidades_detectadas": [
+        "Rodríguez Saá",
+        "Molino"
+      ]
+    },
+    {
+      "frase": "Sin embargo, el video ya se había viralizado antes de la publicación de Massi, y la propia Spinuzza se jactaba de su contenido.",
+      "entidades_detectadas": [
+        "Spinuzza",
+        "Massi"
+      ]
+    },
+    {
+      "frase": "Curiosamente, el gobernador Alberto Rodríguez Saá es mencionado 12 veces como testigo en la sentencia.",
+      "entidades_detectadas": [
+        "Alberto Rodríguez Saá"
+      ]
+    },
+    {
+      "frase": "Otro caso grave ocurrió en Formosa.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "El periodista Omar Hernández, miembro de la UCR,  difundió en su programa radial un mensaje de un oyente que vinculaba al gobernador Gildo Insfrán con la muerte de su hijo.",
+      "entidades_detectadas": [
+        "Omar Hernández",
+        "Gildo Insfrán",
+        "UCR"
+      ]
+    },
+    {
+      "frase": "Insfrán, gobernador desde 1995, demandó a Hernández y a otros periodistas, embargando sus bienes.",
+      "entidades_detectadas": [
+        "Hernández",
+        "Insfrán"
+      ]
+    },
+    {
+      "frase": "Lo extraño es que un escribano vinculado a Insfrán había grabado el programa dos meses antes, anticipándose a la difusión del mensaje.",
+      "entidades_detectadas": [
+        "Insfrán"
+      ]
+    },
+    {
+      "frase": "Esta acción sugiere una premeditación para perjudicar a Hernández, más allá de la existencia de malicia en la difusión del mensaje del oyente.",
+      "entidades_detectadas": [
+        "Hernández"
+      ]
+    },
+    {
+      "frase": "Estos casos muestran la creciente vulnerabilidad del periodismo en las provincias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se intenta silenciar las voces críticas, pero esta situación no nos callará.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si se reprime a los colegas del interior, nosotros amplificaremos sus voces, y viceversa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La libertad de prensa es fundamental, y no permitiremos que se la ataque, venga de donde venga.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Hernández",
+    "Molino",
+    "San Luis",
+    "Gildo Insfrán",
+    "tenía",
+    "Massi",
+    "Omar Hernández",
+    "Insfrán",
+    "Rodríguez Saá",
+    "Holanda",
+    "Diego Massi",
+    "Santa Cruz",
+    "Adolfo",
+    "Spinuzza",
+    "Natalia Spinuzza",
+    "Educación",
+    "Alberto Rodríguez Saá",
+    "Formosa",
+    "UCR"
+  ]
+}

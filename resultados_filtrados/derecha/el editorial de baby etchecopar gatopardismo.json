@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Te contaba, Caro, recién que la vi en la panza de Cristina Kirchner, su madre.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "A Alberto Fernández lo veo por un lado, que todavía puso la pelota, pero tomó más de 12 pasos para el penal, y se fue al arco contrario, porque no hace nada.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, explícame por qué Roberto Baradel va a empezar las clases en fecha y durante los cuatro años en el gobierno de Macri volvió locos a los chicos comiéndose tres meses de clases con los chicos parados en la plaza haciendo tequila.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Explícame por qué algún sindicalista dice que el bono este año no lo quieren, porque parece que este año crecieron los pandulces en la casa de los obreros, y parece que los Papá Noel llenaron de bicicletas los arbolitos, y de computadoras, y de PlayStation, y no quieren ese bono que tuvo a Macri con los huevos en la garganta durante cuatro años.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Un mal momento fue todo, desde que Cristina Kirchner sacó el paisaje.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Primero, si vas a ir con Nicolás Maduro a bailar en el barrio 15.",
+      "entidades_detectadas": [
+        "maduro"
+      ]
+    },
+    {
+      "frase": "Segundo, si vas a transar con Trump y nos vamos a casar con la madre patria.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "**Archivo de log (Correcciones):**\n\n* **Nombres y Apellidos:** Se corrigieron y completaron los nombres y apellidos de las personas mencionadas (Moria Casán, Dady Brieva, Hebe de Bonafini, Sofía Gala Castiglione, Cristina Kirchner, Diego, Roberto Baradel, Nicolás Maduro, Alberto Fernández, Mauricio Macri).",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina"
+      ]
+    }
+  ]
+}

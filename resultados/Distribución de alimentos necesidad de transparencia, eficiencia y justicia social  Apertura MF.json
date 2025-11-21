@@ -1,0 +1,836 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El lunes 3 de junio decidimos abrir la emisión de hoy con \"¿Qué te ha pasado, justicia?\" de Carlos Ramón Fernández, porque el protagonista del tema habla en primera persona de los problemas económicos que sufren muchos, los cuales también podrían compartir quienes asisten a los comedores barriales, a los que, además de ahora, les faltan alimentos.",
+      "entidades_detectadas": [
+        "Carlos Ramón Fernández"
+      ]
+    },
+    {
+      "frase": "Federico Sturzenegger presentó un nuevo sistema de asistencia social que vamos a intentar analizar.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Un texto de la Universidad Nacional Autónoma de México explica que el concepto de capital humano no es reciente; teóricos de la economía como Adam Smith y Karl Marx, por señalar solo a estos, ya se referían al personal de una empresa en términos de capital, considerándolo como un elemento que hace posible transformar las materias primas en productos y como sujetos que deben ser capacitados para incrementar la productividad de las empresas.",
+      "entidades_detectadas": [
+        "Karl Marx",
+        "Universidad Nacional Autónoma de México",
+        "Adam Smith"
+      ]
+    },
+    {
+      "frase": "Saliendo de ese ámbito académico, la página argentina del Banco Francés explica textualmente que el capital humano representa las inversiones que se realizan en los trabajadores a fin de que puedan producir más; es decir, una parte de los recursos de los que disponemos se dedica a la realización de actividades que mejoran la productividad de los trabajadores, logrando, en cierto modo, trabajadores de mayor calidad.",
+      "entidades_detectadas": [
+        "Banco Francés"
+      ]
+    },
+    {
+      "frase": "Esas inversiones en los trabajadores, para dotarlos de mayor capital humano, suponen un sacrificio de los recursos actuales que podrían destinarse a actividades alternativas que procurasen, de forma inmediata, la satisfacción de los consumidores, es decir, se pospone el consumo para invertir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, estos recursos se dedican a invertir en capital humano porque se espera que los trabajadores puedan producir más en el futuro, en una cuantía suficientemente importante como para compensar el sacrificio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este análisis textual de lo que está en la página del Banco Francés plantea la pregunta de si tales ideas se compatibilizan con la ideología de Javier Milei y su ministra Sandra Pettovello en los primeros seis meses del gobierno, es decir, si el Estado debe intervenir en la formación de capital humano.",
+      "entidades_detectadas": [
+        "Sandra Pettovello",
+        "Estado",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "El último capítulo del estándar de los alimentos hizo aparecer a uno de los cerebros del gobierno, Federico Sturzenegger, presentando un nuevo sistema de compra y entrega de alimentos.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Pero, para meternos de lleno en ese aspecto, primero queremos ver cómo funciona la ayuda social en otros países.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a hacer, como diría el filósofo francés Michel Foucault, una genealogía de los movimientos sociales, un fenómeno argentino que no se encuentra tan repetido en otras partes del mundo.",
+      "entidades_detectadas": [
+        "Michel Foucault"
+      ]
+    },
+    {
+      "frase": "Para entender cómo funciona en la Argentina la ayuda social, vamos a ver ejemplos similares en el extranjero.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Vamos primero al más cercano, Brasil.",
+      "entidades_detectadas": [
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Vamos a ver un fragmento en el que Luiz Inácio Lula da Silva presenta la Bolsa Família, un programa histórico que había sido suspendido durante el gobierno de Jair Bolsonaro y que relanzó en 2023.",
+      "entidades_detectadas": [
+        "Jair Bolsonaro",
+        "Bolsa Família",
+        "Luiz Inácio Lula da Silva"
+      ]
+    },
+    {
+      "frase": "Lula da Silva relanza la Bolsa Família: \"Yo quería que ustedes tuviesen en cuenta que este no es un programa de un gobierno; este no es un programa de un presidente de la República.",
+      "entidades_detectadas": [
+        "Bolsa Família",
+        "Lula da Silva"
+      ]
+    },
+    {
+      "frase": "Este es un programa de la sociedad brasileña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estamos prometiendo que la Bolsa Família va a resolver todos los problemas de la sociedad brasileña.",
+      "entidades_detectadas": [
+        "Bolsa Família"
+      ]
+    },
+    {
+      "frase": "Es el primer plato de sopa, es el primer plato de feijão, es el primer vaso de leche, es el primer pan, es el primer pedazo de carne, pero junto con eso, tiene que venir una política de crecimiento económico\".",
+      "entidades_detectadas": [
+        "feijão"
+      ]
+    },
+    {
+      "frase": "Allí, Lula planteaba que no se va a solucionar todo con la Bolsa Família.",
+      "entidades_detectadas": [
+        "Lula",
+        "Bolsa Família",
+        "Allí"
+      ]
+    },
+    {
+      "frase": "Creo que, más o menos, entendían el portugués de Lula: un primer plato de porotos, un primer plato de arroz, un primer plato de carne.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "En Brasil, por ejemplo, la ayuda social se financia a través de 101 cajas regionales y departamentales y una caja nacional que abona subsidios a todos; es como una especie de asignación universal, pero, a diferencia de lo que se hace en la Argentina con la entrega de alimentos, allí no se entregan alimentos, sino solamente dinero a través de estas 101 cajas, que funcionan a lo largo de todo el país, un procedimiento muy diferente al de Argentina.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Argentina",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Vamos a hacer primero una breve historia del movimiento piquetero para entender el conflicto que estamos viviendo actualmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los movimientos sociales nacieron a mediados de los 90.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al principio, estaban formados por los empleados despedidos de las empresas estatales que habían sido privatizadas, y, como recordarán, lo primero que hicieron la mayoría de ellos fue reducir la cantidad de personal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claramente, tenían empleados públicos como una forma de subsidio de desempleo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego se sumaron miles de trabajadores de pymes que habían cerrado por la apertura de las importaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde el principio adoptaron el método del piquete para reclamar al Estado asistencia de alimentos y trabajo.",
+      "entidades_detectadas": [
+        "Estado asistencia de alimentos"
+      ]
+    },
+    {
+      "frase": "El resultado fue que, como no podían, al ser un movimiento de desocupados, tener la capacidad de parar la producción con una huelga, la forma que tenían de hacerse visibles era con el piquete, parando la distribución de la producción de los que sí tenían trabajo y el traslado de las personas que sí tenían trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los piqueteros, como se los llamó en ese momento, fueron un actor clave de las movilizaciones del 19 y 20 de diciembre del año 2001, que terminaron con la caída del presidente Fernando de la Rúa.",
+      "entidades_detectadas": [
+        "Fernando de la Rúa"
+      ]
+    },
+    {
+      "frase": "Luego, con el kirchnerismo, algunos fueron cooptados por la gestión de Néstor y más tarde de Cristina Fernández de Kirchner, pero otros permanecieron independientes.",
+      "entidades_detectadas": [
+        "Néstor",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Más allá de los que fueron cooptados, los piquetes nunca cesaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado otorgó una gran cantidad de planes sociales, la Asignación Universal por Hijo, la Tarjeta Alimentar, y se generaron cooperativas de trabajo para los beneficiarios de las ayudas sociales.",
+      "entidades_detectadas": [
+        "Tarjeta Alimentar",
+        "Estado otorgó"
+      ]
+    },
+    {
+      "frase": "La falta de incorporación por parte del sector privado a una parte de la población y la ayuda estatal terminaron conformando lo que se llama la economía popular, un sector de la población que vive gracias a los ingresos de la ayuda estatal, en la combinación de changas, la venta ambulante, la recolección de cartones, por ejemplo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, el crecimiento de estas organizaciones les dio un poder importante a una capa dirigencial que era capaz de movilizar cientos de miles de personas al centro porteño y cortar los principales accesos de la ciudad.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "La entrega de alimentos y la gestión de las cooperativas de trabajo de un porcentaje de la población hacían que, en momentos de crisis, los movimientos sociales fueran un medio más político de gestión del conflicto social que de ayuda social propiamente dicha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos movimientos, además, generaron una red de comedores barriales que funcionan como nucleamiento de miles de familias que se generan en el centro de la ciudad, que funcionan como nucleamiento de miles de familias que luego participan de las actividades y marchas que se convocan desde la dirigencia del sistema de asistencia social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La asistencia social entró en crisis en la última etapa del gobierno anterior, obviamente por el crecimiento acelerado de la inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los llamados movimientos sociales mantuvieron un vínculo de convivencia aún con el gobierno de Mauricio Macri, especialmente, y mucho, a partir de la gestión de Carolina Stanley, muy unida a sectores de la Iglesia, pero sin dudas era un sistema que debía ser revisado.",
+      "entidades_detectadas": [
+        "Carolina Stanley",
+        "Mauricio Macri",
+        "Iglesia"
+      ]
+    },
+    {
+      "frase": "El tema es que, en toda transición, se necesita un agente que controle los cambios, que es el Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "La ideología minarquista del gobierno de Milei demostró que es bien diferente no hacer nada que liberar.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Con la llegada del gobierno de Javier Milei, se cerró el Ministerio de Desarrollo Social y se lo ubicó dentro del megaministerio.",
+      "entidades_detectadas": [
+        "Ministerio de Desarrollo Social",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Se iniciaron una serie de causas contra los dirigentes de las organizaciones piqueteras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno eligió dos adversarios: Juan Grabois y Eduardo Belliboni.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Eduardo Belliboni"
+      ]
+    },
+    {
+      "frase": "Esto tuvo un impacto muy importante en las movilizaciones de estos movimientos; se vio una importante merma de la asistencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El miedo que generó en muchas marchas de las familias que ingresaban a estos movimientos, cuando escucharon la campaña del gobierno que decía que no cobraban, y las constantes amenazas de represión hizo desistir de la asistencia a las marchas a muchos.",
+      "entidades_detectadas": [
+        "generó"
+      ]
+    },
+    {
+      "frase": "Además, según denunciaban Juan Grabois y otros dirigentes, la comida empezó a faltar en los comedores.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Además"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar el siguiente fragmento de Juan Grabois explicando esto: \"El día 2 de junio hablé con Javier Milei y le pedí que manden comida a los comedores.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Cortó el suministro de alimentos en enero a miles de comedores comunitarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Intentamos de todas las formas posibles, hablé con Javier Milei, me pude comunicar, hablé con él, me dijo que lo estaban haciendo a través de Cáritas.",
+      "entidades_detectadas": [
+        "Cáritas",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Le dije que no, no te confundas, Cáritas sacó un comunicado de que solamente representan el 4% de los comedores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablé con el presidente de la comisión episcopal, que es el Monseñor Ojea, le pasé el teléfono a Ojea para que hable porque Milei había dicho que la comida no va a faltar.",
+      "entidades_detectadas": [
+        "Milei",
+        "Monseñor Ojea",
+        "Hablé",
+        "Ojea"
+      ]
+    },
+    {
+      "frase": "La comida empezó a faltar en enero, después en febrero, y empeoró toda la situación desde ese momento\".",
+      "entidades_detectadas": [
+        "empeoró"
+      ]
+    },
+    {
+      "frase": "Además, las miles de bajas del programa Potenciar Trabajo también golpearon las finanzas de los movimientos sociales.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "El gobierno estaba a la ofensiva, hasta que una denuncia generó un escándalo que terminó con la comisión y se fue a la frontera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una denuncia generó un escándalo que terminó con que se eche a Pablo de la Torre, un importante funcionario de Capital Humano, el segundo de la ministra Sandra Pettovello.",
+      "entidades_detectadas": [
+        "Capital Humano",
+        "Pablo de la Torre",
+        "Sandra Pettovello"
+      ]
+    },
+    {
+      "frase": "El gobierno mantenía 5.000 toneladas de comida guardada (luego se comprobó que eran 6.000) y no las enviaba a los comedores barriales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La denuncia realizada por los dirigentes del Frente Patria Grande de Juan Grabois mostró a un gobierno insensible que tuvo la torpeza de hacer declaraciones como la siguiente: el periodista primero le pregunta casualmente sobre los alimentos guardados en los depósitos.",
+      "entidades_detectadas": [
+        "Juan Grabois"
+      ]
+    },
+    {
+      "frase": "Adorni respondió, a lo que sucedió, con una serie de conferencias de prensa.",
+      "entidades_detectadas": [
+        "Adorni"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar la del 24 de mayo, donde dice: \"Estos alimentos no vencieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay personas encargadas de que esto no ocurra, que no vencieron, y que, de hecho, hay personas encargadas de que esto no ocurra, y que, en general, son alimentos denominados no perecederos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Efectivamente...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "bueno, como te decía, venían de la gestión anterior, no se habían repartido, por suerte, porque no tenían trazabilidad, y, como hemos dicho, varias de las denuncias están en torno a comedores inexistentes, comedores que eran negocio, y alimentos que, además, se cambiaba el alimento comprado por un alimento de menor calidad\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego la justicia intervino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El juez Casanello planteó que el gobierno debe enviar la comida a los comedores, y el vocero presidencial contestó lo siguiente, el 27 de mayo: \"Vamos a apelar porque la justicia no se puede inmiscuir en la política pública.",
+      "entidades_detectadas": [
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Nosotros siempre fuimos respetuosos, y siempre lo vamos a ser, de la justicia, de los procesos judiciales y de la determinación que tengan los jueces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no quiere decir que no utilicemos los instrumentos legales que estén a nuestro alcance en cuestiones en las que no estemos de acuerdo, como bien es este caso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente, que vamos a apelar la resolución porque consideramos que esto no es una cuestión de índole judicial, sino una definición de política pública, y la justicia no se puede inmiscuir en la política pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto ya lo expliqué, entiendo que el viernes estos alimentos son reservados de forma preventiva para emergencias o catástrofes\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Finalmente, todo lo que dijo Adorni, y también la ministra Patricia Bullrich, no era así, o sea, había elementos perecederos en un porcentaje significativo, no eran comprados por el gobierno anterior, sino comprados por este gobierno, y esta semana, esa misma semana, en el Tedeum del 25 de mayo, el arzobispo García Cuerva dio un contundente mensaje.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Adorni",
+        "Tedeum",
+        "García Cuerva"
+      ]
+    },
+    {
+      "frase": "García Cuerva decía: \"Siguen doliendo algunas acciones de la dirigencia divorciadas de la ciudadanía de a pie...",
+      "entidades_detectadas": [
+        "García Cuerva"
+      ]
+    },
+    {
+      "frase": "texto actual y con mucha humildad, quisiera pedir a todos que sintamos también hoy sobre nosotros la mirada fuerte de Jesús, que nos interpela, que nos cuestiona, que nos alerta sobre nuestra insensibilidad con los más desprotegidos, que nos reclama mayor compromiso y cercanía con los que sufren, que cada uno y todos a la vez, desde la responsabilidad que tenemos en la comunidad, podamos dejarnos mirar por Dios, dejándonos cuestionar por la conciencia y nos preguntemos, en estos tiempos difíciles, qué estoy haciendo por los más pobres y los que sufren, porque fácilmente nos sale reclamar a otros que se comprometan, pero yo, ¿qué hago?",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Podremos mirarnos y responder esa pregunta sin echar culpas como adolescentes, sino desde la responsabilidad de hacernos cargo, incluso si es necesario, realizando una autocrítica madura, que tanto necesita escuchar alguna vez nuestro pueblo, porque nuestra gente está haciendo un esfuerzo muy grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros no podemos hacernos los tontos; hay que acompañar con hechos y no solo con palabras ese enorme esfuerzo de nuestra gente, y por eso siguen doliendo algunas acciones de la dirigencia divorciadas de la ciudadanía de a pie, como los tan comentados auto aumentos de sueldos de algunas semanas atrás\".",
+      "entidades_detectadas": [
+        "acompañar"
+      ]
+    },
+    {
+      "frase": "Y un día después, el 26 de mayo, la Iglesia siguió insistiendo con el problema de la crisis social y Monseñor Ojea hizo una declaración al respecto.",
+      "entidades_detectadas": [
+        "Monseñor Ojea",
+        "Iglesia"
+      ]
+    },
+    {
+      "frase": "Vamos a escucharlo: \"26 de mayo, Ojea, diciendo que se vaya perdiendo la sensibilidad es el presidente de la Episcopal Argentina.",
+      "entidades_detectadas": [
+        "Ojea",
+        "Episcopal Argentina"
+      ]
+    },
+    {
+      "frase": "El disco nos ha dicho muchas veces que hemos entrado en este tiempo en la globalización de la indiferencia, y en este punto quisiera hacer dos reflexiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos hemos enterado de que existen dos depósitos de alimentos en el Ministerio de Desarrollo Social que tienen 5 millones de toneladas de alimentos guardados, no por las razones por las que están guardados, pero pienso que, en un tiempo de emergencia alimentaria, esto debe llamarnos a la reflexión rápidamente.",
+      "entidades_detectadas": [
+        "Ministerio de Desarrollo Social"
+      ]
+    },
+    {
+      "frase": "Tienen que ser entregados; esto es lo que realmente nos preocupa, que se vaya perdiendo esta sensibilidad frente a un derecho que es esencial, frente a un derecho que es esencial y que es primario como es el derecho al alimento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dios quiera que rápidamente se abran esos depósitos para que los hermanos con tantísimas necesidades puedan disfrutar de su alimento diario\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y, entre las políticas, siguieron creciendo las críticas contra la ministra Sandra Pettovello, y Javier Milei salió a darle un fuerte respaldo.",
+      "entidades_detectadas": [
+        "Sandra Pettovello",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Esto dijo el 2 de junio Javier Milei: \"No voy a entregar a Pettovello de ninguna manera.",
+      "entidades_detectadas": [
+        "Pettovello",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Mire, no solo que Pettovello es una gran ministra, ¿sabe cuál es el mejor indicio de que es una gran ministra?",
+      "entidades_detectadas": [
+        "¿",
+        "Pettovello"
+      ]
+    },
+    {
+      "frase": "Que todos los corruptos están aterrados y están, digamos, tirándolos fuera todo el tiempo porque están desesperados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, si tengo un ministro como Pettovello, y si tengo una ministra como Pettovello, la abanderada de la lucha contra la corrupción, ¿usted cree que yo voy a entregar la lucha contra la corrupción?",
+      "entidades_detectadas": [
+        "Pettovello"
+      ]
+    },
+    {
+      "frase": "Es mi bandera, no voy a entregar a Pettovello de ninguna manera.",
+      "entidades_detectadas": [
+        "Pettovello"
+      ]
+    },
+    {
+      "frase": "Y sabe lo que le digo yo a Pettovello, seguir siendo el hueso.",
+      "entidades_detectadas": [
+        "Pettovello"
+      ]
+    },
+    {
+      "frase": "Yo creo que si usted entrega a Pettovello, después va por usted.",
+      "entidades_detectadas": [
+        "Pettovello"
+      ]
+    },
+    {
+      "frase": "No joda, en serio, yo creo lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si es mi espada contra la corrupción, es muy interesante este reportaje donde el periodista asiente lo que dice y aumenta el grado de lo que dice el entrevistado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver, yo creo que no es culpa de la ministra Pettovello necesariamente, sino del sistema que se plantea.",
+      "entidades_detectadas": [
+        "Pettovello"
+      ]
+    },
+    {
+      "frase": "Si una ministra tiene que hacerse cargo de cuatro ministerios, es muy difícil que pueda, al mismo tiempo, cubrir todo con eficiencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pascal decía que la presión es inversamente proporcional al espacio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Finalmente, la responsabilidad, sin ninguna duda, no es de la ministra de Capital Humano, sino del sistema, probablemente, ineficiente, en el que se distribuye la responsabilidad del gobierno.",
+      "entidades_detectadas": [
+        "Capital Humano"
+      ]
+    },
+    {
+      "frase": "En ese contexto difícil para el gobierno, apareció nuevamente Federico Sturzenegger, uno de los cerebros de la gestión libertaria, quien ideó el DNU y las leyes bases, y presentó un nuevo sistema de compra y entrega de alimentos mediante licitaciones al sector privado.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Esto busca, obviamente, sacar totalmente del juego a los movimientos sociales, algo que presupone una importante transformación política en el país, porque, como venimos historizando, es un movimiento que viene gestionando la ayuda social desde hace 30 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta es la perspectiva, pero, en realidad, de lo que se plantea, lo que solamente plantea Sturzenegger es para el caso de emergencias, una inundación, una tragedia, un terremoto, no para el 95% de la ayuda social que tiene que ver con que es crónica, que no es extraordinaria.",
+      "entidades_detectadas": [
+        "Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Frente a un evento, le vamos a pedir a nuestro locutor Elian López Caucero que nos lea el tuit de Federico Sturzenegger.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger",
+        "Elian López Caucero"
+      ]
+    },
+    {
+      "frase": "Ayer, el señor ministro Sandra Pettovello diseñamos un sistema alternativo.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Sandra Pettovello"
+      ]
+    },
+    {
+      "frase": "En este sistema alternativo, el objetivo de emergencias a cubrir se mantiene inalterado, pero la ejecución cambia radicalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el nuevo sistema, no se compran los bienes, sino que se compra una opción de compra de esos bienes, en jerga financiera, es un call.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El sector privado cobra por proveer ese seguro y, a cambio, se compromete a la entrega de los bienes cuando y donde se le requiera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una idea muy sencilla: el gobierno compra un seguro de entrega inmediata en la emergencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El sector privado usa toda su logística y capacidad de almacenamiento para proveer ese stock, y, como ese stock rota, los productos estarían siempre disponibles sin que el Estado tenga que tener inventarios o tener un solo depósito.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Que el Estado maneje el stock es como si yo, en vez de comprar un seguro de mi auto, decidiera tener en mi casa los repuestos por si tengo un accidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mucho más eficiente es tener un seguro que me provea esos repuestos cuando lo necesito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si los tengo en casa, necesito lugar, los tengo que traer, se me pueden dañar, me lo pueden robar, y, si tienen fecha de vencimiento, se me pueden vencer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos esos costos se evitan o serán muy inferiores con un contrato contingente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una cosa es proveer ayuda a los más vulnerables y otra es usar esa ayuda para sostener una red de negocios privados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto último es lo que la ministra Pettovello ha ido descubriendo durante su gestión y, por eso, los ataques.",
+      "entidades_detectadas": [
+        "Pettovello"
+      ]
+    },
+    {
+      "frase": "La migración a un sistema de contratos contingentes barrerá con otro más de los mecanismos con los cuales el sistema político ha lucrado con la pobreza, claro está, hasta la llegada de Javier Milei a la presidencia.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Bueno, como decíamos previamente, el sistema, tal como está planteado, es para cuestiones de emergencia.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Puede aplicarse a contingencias, como decíamos, una inundación, como hubo en el caso de Bahía Blanca, que dicho sea de paso, en ese momento, no se le dio ninguna ayuda, o un terremoto o alguna situación especial, pero no para la cotidianidad de los comedores.",
+      "entidades_detectadas": [
+        "Bahía Blanca"
+      ]
+    },
+    {
+      "frase": "Estos centros de alimentación de los sectores más vulnerables no precisan comida en momentos particulares o de emergencia, sino son comedores que necesitan comida constantemente, entregas periódicas, para darle de comer a miles de personas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se plantea que se cierren estos comedores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También el gobierno pretende reemplazarlos con el sector privado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Preguntas que el tuit de Stuzzenegger aún no respondió, pero obviamente, me parece que Stuzzenegger se refiere a una parte de la ayuda que es frente a situaciones de emergencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La producción le preguntó a Daniel Arroyo, un ex ministro de Desarrollo Social, y a Fernando \"Chino\" Navarro, otro dirigente de los movimientos sociales, ¿qué opinan del plan de Stuzzenegger?",
+      "entidades_detectadas": [
+        "¿",
+        "Fernando \"Chino\" Navarro",
+        "Desarrollo Social",
+        "Daniel Arroyo"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar primero al Chino Navarro: \"Quiero creer que puede ser mejor que el actual sistema que utiliza el Estado.",
+      "entidades_detectadas": [
+        "Chino Navarro",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "No me queda muy claro el Stuzzenegger como ejemplo, los seguros de autos no es el mejor ejemplo, más de cualquiera de nosotros tenemos seguros contratados, cuando a la hora de pagar son muy deficientes, cuando hay que reclamar el pago, pero cuando hay algún accidente, no siempre responden con la misma velocidad o siempre aparece una cláusula que vos no habías visto porque estaba en letra chica, pero pensemos con buena leche, pensemos con buena fe, y ojalá sea un sistema, una idea que pueda discutirse, que pueda aplicarse y que mejore el funcionamiento que tiene hoy el Estado en la distribución de alimentos, que no es el mejor, que no es transparente.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esa situación de falta de transparencia que Arroyo viene desde décadas, también nos envolvió a nosotros, a las organizaciones sociales, y todo lo que mejore, sobre todo, la prestación de alimentos, ayuda de todo tipo a familias, mujeres, hombres, niños que necesitan, bienvenido sea, ojalá se pueda implementar, pero me parece que la cuestión central es entender que una justicia salvaje va a dejar a mucha gente afuera, que no se resuelve con medida, por más inteligente que sean, de distribución o logística, que lo que resuelve, ordena, pacifica y genera justicia social, antes era un término que hoy está, un concepto hoy devaluado en una nación, en un pueblo, ese es el trabajo\".",
+      "entidades_detectadas": [
+        "Arroyo"
+      ]
+    },
+    {
+      "frase": "Y ahora vamos al audio de Daniel Arroyo: \"La propuesta de Federico Sturzenegger de compras contingentes para que las empresas privadas tengan reservado lo que el Estado les solicita y lo entreguen ante una emergencia me parece razonable, pero es útil solo para un punto, que es el caso de la emergencia climática, tener reservado un conjunto de compras en distintos, en frente a distintas empresas privadas de alimentos, tirantes, chapas, colchones para cuando hay inundación y hay que poner más un centro de evacuados, es razonable, pero ese no es el problema central, es una parte del problema.",
+      "entidades_detectadas": [
+        "Estado",
+        "Federico Sturzenegger",
+        "Daniel Arroyo"
+      ]
+    },
+    {
+      "frase": "El problema central hoy en Argentina es la falta de un plan alimentario.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Creo que el gobierno equivocó el camino creyendo que solo se resolvía esto aumentando la tarjeta alimentar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creé la Tarjeta Alimentar, claramente, creo que es un camino de transferir dinero a las familias para que compren los alimentos, sobre todo madres con chicos chicos, pero en el nivel de dificultad social, de crisis económica, de pérdida de empleo de hoy, no alcanza con eso.",
+      "entidades_detectadas": [
+        "Tarjeta Alimentar"
+      ]
+    },
+    {
+      "frase": "Hace falta un plan alimentario que apoye a los comedores, mientras tanto, miles de personas están mal alimentadas o se saltean comidas, un país productor de alimentos no puede permitirse, de ninguna manera, algo así, independientemente de la ideología del presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay algo que nos debe unir a todos, y el respeto básico por la dignidad humana, comida no le puede faltar a ningún habitante del país.",
+      "entidades_detectadas": [
+        "ningún"
+      ]
+    },
+    {
+      "frase": "Esperemos que todos los sectores involucrados puedan trabajar en conjunto para que a nadie le falte un plato de comida\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para cerrar, vamos a pasar el tráiler de una película llamada \"Capital Humano\", que muestra, a través de la historia, dos familias que hay detrás de la concepción ideológica del término capital humano, en el que se sitúa a las personas como una mera herramienta o insumo de producción, acentuando mucho el término de capital y, justamente, el de humano.",
+      "entidades_detectadas": [
+        "Capital"
+      ]
+    },
+    {
+      "frase": "\"Capital Humano\" es una película italiana de 2014, dirigida por Paolo Virzì.",
+      "entidades_detectadas": [
+        "Paolo Virzì",
+        "Capital"
+      ]
+    },
+    {
+      "frase": "Se centra en la vida de dos familias de diferentes niveles socioeconómicos, en las que sus hijos tienen una relación amorosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una camioneta atropella a un ciclista en la carretera, luego de la fiesta de graduación de los jóvenes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A medida que se van aclarando los hechos del accidente, las vidas de la familia Bernaschi, de la alta burguesía, que manejan fondos de inversión, se entrecruzan de manera inesperada con las de los Osola, de clase media.",
+      "entidades_detectadas": [
+        "Bernaschi"
+      ]
+    },
+    {
+      "frase": "Dino Osola te da la oportunidad de asumir socialmente invirtiendo en los fondos de Bernaschi, y ahora, lo que sea para conseguirlo.",
+      "entidades_detectadas": [
+        "Dino Osola",
+        "Bernaschi"
+      ]
+    },
+    {
+      "frase": "\"Le presento el punto sucesivo que prevé...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "obviamente que la cuota invertida debe representar una porcentual no superior al 20% del propio patrimonio\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Sí, son cosas de advertencia que voy a meter por fortes, no\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"No, no, no, no\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El accidente del ciclista parece que implica a la familia Bernaschi y cambiará el destino de estas dos familias.",
+      "entidades_detectadas": [
+        "Bernaschi"
+      ]
+    },
+    {
+      "frase": "Relato coral en el cual situaciones y personajes se entrecruzan desde distintos puntos de vista, es un ensayo sociológico basado en la obsesión por el dinero y en el reconocimiento social del capitalismo actual que permite desnudar las miserias e hipocresías de la burguesía, donde hasta la vida humana tiene un precio.",
+      "entidades_detectadas": [
+        "Relato"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Jair Bolsonaro",
+    "Néstor",
+    "También",
+    "Mire",
+    "Vamos",
+    "Carolina Stanley",
+    "Eduardo Belliboni",
+    "Esperemos",
+    "ningún",
+    "Luiz Inácio Lula da Silva",
+    "Fernando \"Chino\" Navarro",
+    "Javier Milei",
+    "Desarrollo Social",
+    "Lula",
+    "acompañar",
+    "Karl Marx",
+    "Sturzenegger",
+    "Federico Sturzenegger",
+    "Patricia Bullrich",
+    "Monseñor Ojea",
+    "Lula da Silva",
+    "Capital Humano",
+    "Cristina Fernández de Kirchner",
+    "Estado",
+    "Además",
+    "Bolsa Família.",
+    "Juan Grabois",
+    "Hablé",
+    "Pablo de la Torre",
+    "Chino Navarro",
+    "Jesús",
+    "Capital",
+    "Tarjeta Alimentar",
+    "Estado asistencia de alimentos",
+    "Banco Francés",
+    "Argentina",
+    "Claramente",
+    "feijão",
+    "Adorni",
+    "Bolsa Família",
+    "Allí",
+    "Fernando de la Rúa",
+    "Ayer",
+    "Bernaschi",
+    "Dino Osola",
+    "Sandra Pettovello",
+    "Ministerio de Desarrollo Social",
+    "Adam Smith",
+    "Paolo Virzì",
+    "República",
+    "Bueno",
+    "empeoró",
+    "Mauricio Macri",
+    "Brasil",
+    "Elian López Caucero",
+    "Iglesia",
+    "la Argentina",
+    "Daniel Arroyo",
+    "generó",
+    "¿",
+    "Pettovello",
+    "Ojea",
+    "Carlos Ramón Fernández",
+    "Arroyo",
+    "García Cuerva",
+    "Luego",
+    "Obviamente",
+    "Tedeum",
+    "Dios",
+    "Michel Foucault",
+    "Milei",
+    "Bahía Blanca",
+    "Cáritas",
+    "Episcopal Argentina"
+  ]
+}

@@ -1,0 +1,974 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¡Ah, ¿te vas a inaugurar?",
+      "entidades_detectadas": [
+        "Ah",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¡Vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos, vamos, vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡Vamos, vamos!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "¡No hay nadie en otro lado!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Miren lo que voy a hacer!",
+      "entidades_detectadas": [
+        "¡Miren"
+      ]
+    },
+    {
+      "frase": "Porque no hay nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ya sé, Levy!",
+      "entidades_detectadas": [
+        "Levy"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fuiste a Miami, yo me voy a retirar y me voy a vivir con vos a Miami, ¿eh?",
+      "entidades_detectadas": [
+        "¿",
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Y lo único que vamos a hacer es compartir la cama.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero ¿sabes qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo voy a vivir en Miami.",
+      "entidades_detectadas": [
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Comparto juegos, o sea, hasta te digo, dormimos de derecho y de revés en una plaza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque a Miami no puede ser...",
+      "entidades_detectadas": [
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Hay un problema, Babi, somos los dos pasivos, no va a pasar nada.",
+      "entidades_detectadas": [
+        "Babi"
+      ]
+    },
+    {
+      "frase": "No lo voy a hacer con una mujer, me voy a hacer el base combo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escúchame.",
+      "entidades_detectadas": [
+        "Escúchame"
+      ]
+    },
+    {
+      "frase": "¿A qué fuiste a Miami, Levy?",
+      "entidades_detectadas": [
+        "Levy",
+        "¿A",
+        "Miami"
+      ]
+    },
+    {
+      "frase": "¿A pasear, a vacunarte o a la vagancia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A lavar la plaza, Levy.",
+      "entidades_detectadas": [
+        "Levy"
+      ]
+    },
+    {
+      "frase": "Ok.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ser sincero, ¿viste?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A la vuelta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ve, Levy!",
+      "entidades_detectadas": [
+        "Levy"
+      ]
+    },
+    {
+      "frase": "¡Ve, Levy!",
+      "entidades_detectadas": [
+        "Levy"
+      ]
+    },
+    {
+      "frase": "Escúchame.",
+      "entidades_detectadas": [
+        "Escúchame"
+      ]
+    },
+    {
+      "frase": "No nos ve nadie, podemos hacer cualquier cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escúchame una cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pato Alagua.",
+      "entidades_detectadas": [
+        "Pato Alagua"
+      ]
+    },
+    {
+      "frase": "Hoy tuve muchos llamados a la radio Rivadavia por el tema de Patricia Bullrich.",
+      "entidades_detectadas": [
+        "radio Rivadavia",
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "Hay mucha gente de Cambiemos enojada.",
+      "entidades_detectadas": [
+        "Cambiemos"
+      ]
+    },
+    {
+      "frase": "Porque la verdad es que...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo digo por si le sirve a alguno de Cambiemos.",
+      "entidades_detectadas": [
+        "Cambiemos"
+      ]
+    },
+    {
+      "frase": "No están de acuerdo con este menjunje que se está haciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De que ponemos nuevos, sacamos viejos, cambiamos acá, nos hacemos dueños del partido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque dentro de Cambiemos está Ocaña.",
+      "entidades_detectadas": [
+        "Cambiemos",
+        "Ocaña"
+      ]
+    },
+    {
+      "frase": "Hoy se enojó mucho, como decía el director de cine, Campanella.",
+      "entidades_detectadas": [
+        "Campanella"
+      ]
+    },
+    {
+      "frase": "Se enojó mucha gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esto creo que le hace muy mal a la futura elección de estar cambiando la monta en medio del agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece que la gente se acostumbró a alguna gente que la sigue, que la quiere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que respetar eso, me parece.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso digo, esto de sacarse de encima a algunos para poner a otros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos cambios nunca resultan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a terminar justamente como el oficialismo, que termina poniendo al que más mire y no al más decente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y hablando de eso, ¿qué hace el boludo este?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está demostrando un barrilete.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "¿Qué tenés, un barrilete?",
+      "entidades_detectadas": [
+        "Qué tenés"
+      ]
+    },
+    {
+      "frase": "Aflójale, mira, está coleando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ves la luna?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tempachado.",
+      "entidades_detectadas": [
+        "Tempachado"
+      ]
+    },
+    {
+      "frase": "Ustedes vieron como en la luna de Miami, no es como la de Buenos Aires, tiene un agujero en el medio.",
+      "entidades_detectadas": [
+        "Ustedes",
+        "Buenos Aires",
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Es un eclipse constante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, es un eclipse permanente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiene agujero en el medio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escúchame, primero quiero desmentir que salió en todos lados sobre Reutemann; la hija tuiteó que no está bien, pero está vivo.",
+      "entidades_detectadas": [
+        "Escúchame",
+        "Reutemann"
+      ]
+    },
+    {
+      "frase": "Es una falta de respeto andar tirando esas noticias falsas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en segundo lugar, hablarle al chico Cafiero, que él tomó la rienda del gobierno y es el contestatario.",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "Ya me había dicho Alberto que cuando Mao Zedong le escribía a Perón siempre le ponía a tener cuidado con Cafiero.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cafiero",
+        "Mao Zedong"
+      ]
+    },
+    {
+      "frase": "Parece mentira lo que escribí, es mentira que se escribían.",
+      "entidades_detectadas": [
+        "escribí"
+      ]
+    },
+    {
+      "frase": "O sea, todo es mentira.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es verdad lo que decís hoy, Cafierito, este no es un país de mierda.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Mira si lo sé yo, te voy a contar brevemente.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Yo vengo de una Argentina donde el obrero era digno, donde el tipo que elaboraba era digno, donde Pergamino tenía Nam de Pergamino y ahí, ¿sabés qué hacían?",
+      "entidades_detectadas": [
+        "Pergamino tenía Nam de Pergamino",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Laboraba toda la ciudad fabricando ropa de trabajo porque había trabajo, había fábricas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ningún hombre hubiese permitido en ese momento que le regalen un plan porque tenían mucha dignidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que se la fueron robando de a poco y se la terminaron de robar ustedes, vos, Cafiero, tu jefe y tu jefa.",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "No, yo no puedo laburar con este pelotudo, sáquenlo hasta que termine de acomodar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mira cómo quedó la cortina, mira cómo quedó esa cortina.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "No es que sos un pelotudo, terminás de mudarte y salís a la...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿se puede hacer esto?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Es fácil esa semejanza como ahorita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aparte, con esa camisa, el aire de la fantasía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, pero hoy dice Cafierito como queriéndonos explicar cómo se nota que sos joven e inexperto.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "La Argentina, le dijo a los chicos, porque ahora llevan pibes para castigar, ¿viste?",
+      "entidades_detectadas": [
+        "La Argentina"
+      ]
+    },
+    {
+      "frase": "No es un país de mierda, no, es el mejor país del mundo, que ustedes lo hicieron mierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos, Cafierito y tu plantel de gente, lo hicieron mierda.",
+      "entidades_detectadas": [
+        "Vos",
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Es el mejor país del mundo, a los que Menem era peronista, Néstor era peronista, Cristina peronista, Alberto peronista, Isabelita peronista, López Rega peronista.",
+      "entidades_detectadas": [
+        "Néstor",
+        "Menem",
+        "Isabelita",
+        "Cristina",
+        "López Rega peronista",
+        "Alberto peronista"
+      ]
+    },
+    {
+      "frase": "Y si querés, soy muy ciego y todos los sindicalistas peronistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero claro que era un país maravilloso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo me acuerdo que ibas por la avenida Corrientes y podías dejar el auto porque no te robaba nadie nada.",
+      "entidades_detectadas": [
+        "Corrientes"
+      ]
+    },
+    {
+      "frase": "Y después te comías una pizza con la familia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después de poder pagar la entrada orgullosamente, te comías una pizza con la familia.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Y caminabas de noche mirando vidrieras por la calle Florida.",
+      "entidades_detectadas": [
+        "Florida"
+      ]
+    },
+    {
+      "frase": "Y no había problema, Cafierito, vos eras chico, no habías nacido, no habías nacido.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "No había nacido, no había nacido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es verdad que la Argentina es un país maravilloso.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Si vos lo ves desde un avión y ves la hidrovía, por ejemplo, que ahora se la quedaron ustedes, la riqueza de la hidrovía, el río que tenemos, que se lo están quedando ustedes como caja para hacer política.",
+      "entidades_detectadas": [
+        "río"
+      ]
+    },
+    {
+      "frase": "Pero claro, hermano, que era un país maravilloso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Banco Nación no estaba, no estaban los amigos.",
+      "entidades_detectadas": [
+        "Banco Nación"
+      ]
+    },
+    {
+      "frase": "Y es más, te digo que en el Banco Nación había lingotes de oro tirados en el piso hasta que llegó Perón, el amigo de tu abuelo.",
+      "entidades_detectadas": [
+        "Banco Nación",
+        "llegó Perón"
+      ]
+    },
+    {
+      "frase": "Pero claro que era un país maravilloso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es más, a Isabel Perón, que bailaba en un cabaret, se la presentó Roberto Galán y lo llevó a tu abuelo y se llevó el piano.",
+      "entidades_detectadas": [
+        "Roberto Galán",
+        "Isabel Perón"
+      ]
+    },
+    {
+      "frase": "Claro que era un país bárbaro, Cafierito.",
+      "entidades_detectadas": [
+        "Claro",
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Es un país bárbaro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos el mar, tenemos los campos que se quiere quedar al borde con Vicentín y Cristina.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Vicentín"
+      ]
+    },
+    {
+      "frase": "A los que le dijeron \"viscerales\", a los campesinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un país maravilloso, no es un país de mierda, Cafierito.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Los industriales antes, todo el mundo era industrial, todas las empresas se radicaban en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "En la época de un gran presidente como Frondizi vinieron gigantes, hipermercados, estos parecían todos unidos.",
+      "entidades_detectadas": [
+        "Frondizi"
+      ]
+    },
+    {
+      "frase": "Llegaban autos importados, se importaban cosas, se abrían fronteras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era un país bárbaro, Cafierito.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Es un país bárbaro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no hubiesen estado ustedes, esto sería un vergel.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a imaginar la Plaza de Mayo con los jubilados y las palomas en cambio de tener toda esta mugre de tirabombas, tipos con morteros y 120 trolas de piedra.",
+      "entidades_detectadas": [
+        "Plaza de Mayo"
+      ]
+    },
+    {
+      "frase": "Pero por supuesto que era un país bárbaro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá, Cafierito me acordó, yo al colegio del Estado, colegio número 11.",
+      "entidades_detectadas": [
+        "Mirá",
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Era el Manuel del Grano, calle Esperanza al 200.",
+      "entidades_detectadas": [
+        "Esperanza",
+        "Manuel del Grano"
+      ]
+    },
+    {
+      "frase": "Después se mudó al 100.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Y los chicos de la villa de la Cava, Cafierito, la misma que tu abuelo le hizo los departamentos enfrente y estiró la cava como 10 cuadras, la villa.",
+      "entidades_detectadas": [
+        "la Cava",
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Tenían el guardapolvo asurcido, pero 10 de promedio.",
+      "entidades_detectadas": [
+        "Tenían"
+      ]
+    },
+    {
+      "frase": "Y se tenían que recibir porque sin sexto grado no laburaban.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahorraban una monedita en la caja nacional de ahorro postal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y le daban de comer para el 9 de julio y el 25 de mayo a mí también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las manos, una chocolatada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tenían que ir a la opción de comer polenta porque le habían robado el futuro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Casualmente la gente que vos...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "porque no se explica por qué tu abuelo era rico, y el dueño del hotel Libertador y el hotel de Mendoza.",
+      "entidades_detectadas": [
+        "Mendoza",
+        "hotel Libertador"
+      ]
+    },
+    {
+      "frase": "¿Y por qué la gente de la villa de la Cava que ha ayudado a tu abuelo, que es tan bueno, que es tan pobre?",
+      "entidades_detectadas": [
+        "la Cava",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Claro que es un país maravilloso, la puta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué te crees que no nos fuimos a Miami como quiere alguno?",
+      "entidades_detectadas": [
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Porque todavía no tenemos la celeste y blanca para pelear y sacarlos a ustedes, Cafierito.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Los que están haciendo mierda a la patria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los que nos robaron la vacuna.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ustedes, los que nos hicieron morir 100.000 argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los que no nos atienden en hospitales caros, sanatorios caros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y hablamos de los pobres después de como hizo Mayra Mendoza.",
+      "entidades_detectadas": [
+        "Mayra Mendoza"
+      ]
+    },
+    {
+      "frase": "Pero claro que es un país maravilloso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién dijo que es un país de mierda?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Ustedes son de mierda, no el país.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Te equivocaste, pibe, en el discurso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sos jovencito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tendrías que haber arrancado diciendo: \"Argentina es un país maravilloso a pesar de este gobierno de mierda\", de mentiroso, de embustero, de sinvergüenza, que nos quieren llevar a China, a Venezuela, a Cuba, a los peores países del mundo.",
+      "entidades_detectadas": [
+        "China",
+        "Argentina",
+        "Cuba",
+        "Venezuela"
+      ]
+    },
+    {
+      "frase": "Te equivocás, hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te equivocás.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes no se conocía el maoísmo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo trajeron ustedes, los que hoy gobiernan con Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Antes éramos todos argentinos y sonábamos a Belgrano, San Martín, a Sarmiento, no a Néstor Kirchner.",
+      "entidades_detectadas": [
+        "San Martín",
+        "Belgrano",
+        "Sarmiento",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "No era un país de payasos, Cafierito.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Era un país de próceres, de héroes, de Güemes, de hombres que pusieron los cojones por la libertad.",
+      "entidades_detectadas": [
+        "Güemes"
+      ]
+    },
+    {
+      "frase": "Y le llamaban \"patadas en el culo\" a los realistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero ustedes están con los chinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, la Argentina es bárbara.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Argentina está llena de gauchos, de hombres de fe.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Hombres que plantan la soja para que ustedes se la roben, Cafierito.",
+      "entidades_detectadas": [
+        "Hombres",
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Por eso, hijo, sos joven todavía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no tendrías que decir a los chicos del colegio que la Argentina es un país de mierda, de mentir.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "No, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A esos chicos decirles, estamos robando el futuro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A los chicos que no tienen nada que ver con nosotros, para hacer que las escuelas se vengan abajo, dejarlos sin clases por la pandemia, hacerlos brutos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y que se pongan el guardapolvo en una mochilita de utilería para ir a escuchar lo que dice Cafierito.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Porque el colegio no va a ir a la vuelta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, Cafierito, pibe, vos sos chico todavía.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Vos no sabés lo que hizo tu abuelo.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Y a veces uno, por respeto, dice: \"Tu abuelo fue un grande\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puede ser.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente, vos sos mucho más chico que tu abuelo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y por lo menos tu abuelo tenía kilómetros gastados en la política para contestarme a mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero vos sos un insolente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie dice que el país es de mierda, Cafierito.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Lo que decimos algunos periodistas es que Alberto Fernández, Cristina, vos y toda la cría lo están haciendo mierda.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Nos dejaron piedra sobre piedra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le hicieron prender el fuego a la gente con la promesa de la tira asado y se lo llenaron de polenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hicieron al pobre muy pobre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y a los ricos les chupan ustedes un huevo porque agarran todo y se van a Miami a blanquear guita.",
+      "entidades_detectadas": [
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Cafierito, Cafierito.",
+      "entidades_detectadas": [
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "El problema no es de la Argentina, es quién la conduce.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Y ustedes la chocaron y la arruinaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que no hagas más esos discursos diciendo: \"Dicen que este es un país de mierda\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las mierdas son ustedes, muchachos.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "radio Rivadavia",
+    "hotel Libertador",
+    "Mao Zedong",
+    "Vamos! ¡Vamos",
+    "Menem",
+    "Manuel del Grano",
+    "Patricia Bullrich",
+    "La Argentina",
+    "Mayra Mendoza",
+    "Aflójale",
+    "Isabel Perón",
+    "Pergamino tenía Nam de Pergamino",
+    "Claro",
+    "Esperanza",
+    "Reutemann",
+    "¿Quién",
+    "Frondizi",
+    "Fuiste",
+    "Ningún",
+    "Corrientes",
+    "Tenían",
+    "Aparte",
+    "Miami",
+    "Así",
+    "Realmente",
+    "Alberto Fernández",
+    "Vamos",
+    "Tempachado",
+    "Levy",
+    "Mendoza",
+    "río",
+    "Porque",
+    "Hombres",
+    "Florida",
+    "llegó Perón",
+    "Vos",
+    "Campanella",
+    "Argentina",
+    "Babi",
+    "Roberto Galán",
+    "Cristina",
+    "Plaza de Mayo",
+    "Pato Alagua",
+    "Ustedes",
+    "Después",
+    "la Cava",
+    "¿",
+    "¿Ves",
+    "Venezuela",
+    "Néstor",
+    "China",
+    "San Martín",
+    "Néstor Kirchner",
+    "López Rega",
+    "Sarmiento",
+    "¿A",
+    "Cafierito",
+    "Escúchame",
+    "escribí",
+    "¡Miren",
+    "Cambiemos",
+    "Vicentín",
+    "Cafiero",
+    "Cuba",
+    "Alberto peronista",
+    "Isabelita",
+    "Mirá",
+    "Está",
+    "Güemes",
+    "Laboraba",
+    "Banco Nación",
+    "Buenos Aires",
+    "Hicieron",
+    "Belgrano",
+    "la Argentina",
+    "Ah",
+    "Ocaña",
+    "Mira"
+  ]
+}

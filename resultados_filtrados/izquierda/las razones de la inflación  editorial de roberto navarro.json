@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La historia argentina muestra que la restricción externa (falta de dólares) provoca subas del dólar, seguidas por aumentos de precios.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La restricción externa como factor principal es evidente en los gobiernos de Mauricio Macri (suba del dólar y consecuente aumento de precios) y durante la sequía (falta de dólares y aumento de precios).",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Néstor Kirchner, por ejemplo, mantuvo superávit fiscal.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Insisto en la necesidad de analizar lo ocurrido, las razones del fracaso de las gestiones de Mauricio Macri y de (nombre censurado por solicitud de privacidad), ya que la situación de Argentina es grave.",
+      "entidades_detectadas": [
+        "argentina",
+        "macri"
+      ]
+    }
+  ]
+}

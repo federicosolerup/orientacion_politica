@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "**Entrevistador:** ¿Y antes había estado aquí, o fue simplemente la vía de escape que encontró en esta situación?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Luego salí de Venezuela y me vine a Argentina.",
+      "entidades_detectadas": [
+        "venezuela"
+      ]
+    },
+    {
+      "frase": "**Abdelá:**  ¿Puede haber dos estados en Argentina, Argentina e Inglaterra?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Ni Trump ni ningún presidente del mundo puede decidir sobre Palestina.",
+      "entidades_detectadas": [
+        "presidente",
+        "trump"
+      ]
+    }
+  ]
+}

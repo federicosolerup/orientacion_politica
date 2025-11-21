@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Lo conversamos con Facundo Moyano y lo mencionó Jorge Fernández Díaz.",
+      "entidades_detectadas": [
+        "fernández",
+        "moyano"
+      ]
+    },
+    {
+      "frase": "Argentina necesita construir acuerdos políticos que le den al país, como bien dijo Jorge, un rumbo definido.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Argentina es un país impredecible.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Cuando Macri va a Fray, le dicen: \"Mire, no sabemos si vamos a invertir en Argentina porque, tal vez, mañana cambie la situación\".",
+      "entidades_detectadas": [
+        "argentina",
+        "macri"
+      ]
+    },
+    {
+      "frase": "Si ese concepto de que el otro puede tener tanta razón como yo se consolida en la política, entonces sí, Argentina comenzará a caminar en pos de un futuro mejor, que hoy nos sigue pareciendo lejano.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

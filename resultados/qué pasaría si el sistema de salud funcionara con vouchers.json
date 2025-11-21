@@ -1,0 +1,143 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El siguiente texto es una ficción basada en el texto original, ya que no es posible corregirlo manteniendo la coherencia y el sentido original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El texto original parece ser una transcripción caótica y ofensiva de una conversación, posiblemente una escena dramática o satírica,  que no puede ser \"corregida\" en el sentido de que se le pueda dar un significado lógico y coherente sin una reescritura completa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He intentado crear una narrativa coherente basándome en los elementos que sí se pueden entender del original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Texto corregido (Ficción):**\n\nEl doctor Álvarez observó al paciente con atención.",
+      "entidades_detectadas": [
+        "Ficción",
+        "Álvarez",
+        "Texto"
+      ]
+    },
+    {
+      "frase": "\"Buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué le sucede?\"\n\nEl paciente, visiblemente nervioso, balbuceó: \"Doctor, estoy mareado...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "y con los ojos hinchados.\"\n\n\"Entiendo.",
+      "entidades_detectadas": [
+        "Entiendo"
+      ]
+    },
+    {
+      "frase": "¿Tiene algún dolor?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Ha sufrido algún golpe?\"\n\n\"No, doctor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es… complicado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vine a una consulta, pero...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "hay un problema con el pago.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dijeron que el voucher de 5000 pesos no era suficiente.\"\n\n\"El costo de la consulta es mayor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto dispone?\"\n\nEl paciente vaciló.",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "\"Tengo… 50.000 pesos.\" Extendió un sobre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El doctor Álvarez frunció el ceño.",
+      "entidades_detectadas": [
+        "Álvarez"
+      ]
+    },
+    {
+      "frase": "\"¿De dónde sacó esa cantidad de dinero?\"\n\nEl paciente, visiblemente incómodo, evitó la mirada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"No importa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solo necesito atención médica.\"\n\nEl doctor lo examinó nuevamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Su vista parece estar afectada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Necesitaré hacerle algunas pruebas.\"\n\nTras las pruebas, el doctor Álvarez informó:  \"Tiene una afección ocular.",
+      "entidades_detectadas": [
+        "Necesitaré",
+        "Álvarez"
+      ]
+    },
+    {
+      "frase": "Necesitará tratamiento.",
+      "entidades_detectadas": [
+        "Necesitará"
+      ]
+    },
+    {
+      "frase": "Y debo insistir: su respuesta a mis preguntas sobre el origen del dinero es fundamental para poder brindarle el mejor cuidado posible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La honestidad es crucial en este tipo de situaciones.\"\n\nEl paciente,  aún más inquieto,  murmuró algo incoherente sobre una \"bota Walker\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El doctor,  con paciencia, lo ayudó a explicar que necesitaba esa bota para una lesión en el pie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Finalmente,  después de una larga conversación donde el paciente intenta justificar la procedencia de sus fondos, el doctor le indica que necesita realizar nuevos estudios y que deberá volver con la documentación correspondiente para proceder con el tratamiento de su pie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La consulta termina en una atmosfera tensa, con la incertidumbre sobre la transparencia del dinero del paciente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Necesitará",
+    "¿Cuánto",
+    "Vine",
+    "Necesitaré",
+    "Ficción",
+    "Álvarez",
+    "Texto"
+  ]
+}

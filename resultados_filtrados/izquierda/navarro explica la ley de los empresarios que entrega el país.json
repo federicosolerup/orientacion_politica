@@ -1,0 +1,61 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Se sabe que el Presidente de la Nación permaneció varios meses en un hotel propiedad de un empresario, sin registros de entrada ni salida, y donde diariamente se reunía con empresarios.",
+      "entidades_detectadas": [
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Me refiero al presidente de la Unión Industrial Argentina, quien diseñó la reforma laboral.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Han redactado alguna vez leyes que luego el Congreso votó?",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Atribuir la culpa a una sola persona – como se suele hacer en Argentina – simplifica excesivamente la situación.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Se culpó a Menem, a Alberto Fernández, a [Nombre]; pero nadie gobierna solo.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, una presidenta con gran poder, reconoció al dejar el cargo que controlaba aproximadamente el 25% del poder en Argentina, mientras que el resto estaba en manos de las corporaciones.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Hay que ser tan sinvergüenza, tan delincuente, tan traidor a su pueblo y a su patria para votar una ley que entrega los recursos argentinos y perjudica a los trabajadores.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "Ayer, el ministro Caputo dijo a los empresarios que la ley era para ellos.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Son tiempos difíciles, y en el Congreso hay muchos sinvergüenzas entregando el país.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    }
+  ]
+}

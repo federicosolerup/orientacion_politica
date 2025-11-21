@@ -1,0 +1,25 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Un grupo de diputados del Frente para la Victoria ha solicitado al presidente Mauricio Macri que se le inicie un juicio político, acusándolo de mal desempeño, incompatibilidad de funciones y abuso de autoridad, entre otras cosas.",
+      "entidades_detectadas": [
+        "macri",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "A esos diputados les pregunto, y me sorprende especialmente que el diputado José Luis Gioja haya firmado esa solicitud: en la época de Cristina Fernández de Kirchner, cuando se cometían abusos de poder, un enriquecimiento ilícito descarado y actos de corrupción, ¿dónde estaban ustedes?",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres/Apellidos corregidos:**\n    *   \"Macri\" (se mantuvo, pero se capitalizó)\n    *   \"Cristina Fernández de Kirchner\" (se corrigió la ortografía y se mantuvo el formato de nombre y apellido)\n    *   \"Gioja\" (se corrigió la ortografía de \"Gioja\" y se completó con el nombre \"José Luis\")\n*   **Ortografía corregida:** Se corrigieron errores ortográficos como \"desopirantes\" por \"hilarantes\", y acentuación faltante.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    }
+  ]
+}

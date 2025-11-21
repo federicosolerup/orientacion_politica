@@ -1,0 +1,401 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La parte no tan buena es que el fallo establece que el Estado sí tiene una responsabilidad y condena a la Argentina a pagar una indemnización a los accionistas minoritarios (ahora entenderán por qué digo \"supuestos\") de aquella expropiación de 2012.",
+      "entidades_detectadas": [
+        "argentina",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Quien va a cobrar es un fondo buitre.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Y ustedes se preguntarán por qué va a cobrar un fondo buitre.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Este fondo, llamado Burford Capital, ¿era accionista de YPF en 2012 cuando se expropió el 51% de las acciones?",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Lo que sucedió es que este fondo buitre se dedica a comprar juicios como este contra países.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Burford Capital compró este juicio contra el país, contra Argentina y contra YPF (contra los dos era) por 18 millones de dólares, y hoy obtuvo una sentencia que, como les decía, desliga a YPF, lo cual es una gran noticia.",
+      "entidades_detectadas": [
+        "argentina",
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Pero condena al Estado, condena al Estado argentino a pagarle (no todo lo que quiere, ese es otro dato).",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "No hay un monto todavía establecido y, de hecho, la jueza dice que le tienen que pagar por daños, pero el Estado no obró de mala fe, con lo cual eso reduce incluso una parte del monto.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Hoy aparecerán muchos que dicen: \"Bueno, pero es lo que Argentina firmó\", \"Bueno, pero son las reglas que había en el contrato\", \"Bueno, pero es lo que está en el estatuto de YPF\", \"Bueno, pero es lo que dicen los tratados de protección de inversiones\", \"Bueno, es lo que dice el código civil y comercial argentino\".",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "No es justo que un fondo buitre compre un juicio amañado, además, porque es un juicio hecho a partir de una trampa que dejaron Carlos Menem y Roberto Dromi cuando privatizaron YPF.",
+      "entidades_detectadas": [
+        "carlos",
+        "menem",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Es una trampa que dejaron para que nunca el Estado pudiera recuperar el control de la petrolera de bandera creada por el Estado, sostenida por el Estado, mega endeudada por la misma dictadura cívico-militar que secuestró y desapareció a Gregorio Nachman, que escribió este texto, y privatizada luego por Menem con un estatuto donde pusieron que si alguien, y sobre todo el Estado, quería recuperar el control de esa empresa, tenía que pagarle a los accionistas minoritarios mucho más de lo que sus acciones valían.",
+      "entidades_detectadas": [
+        "menem",
+        "estado"
+      ]
+    },
+    {
+      "frase": "A este fondo buitre no le interesa la energía, no le interesa el desarrollo de Argentina, no le interesa el destino de millones de argentinos.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "En este caso, y ahora lo vamos a desarrollar, es evidente que tenemos a un país y a su petrolera de bandera frente a una corporación que se dedica a fundir estados, como es un fondo buitre.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Y con el salvataje de YPF fuera de este juicio, donde no ha sido condenada, quedan a salvo los recursos naturales, queda a salvo Vaca Muerta, queda a salvo la producción de gas, queda a salvo la producción de litio y queda a salvo la producción de dólares a futuro del país.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Pero queda también, otra vez, el registro de los fondos buitre contra Argentina y el peligro que eso significa, no solo contra Argentina, sino contra cualquier país que quiera llevar adelante políticas soberanas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La noticia del día es el fallo de la jueza Loretta Preska del estado de Nueva York, vinculado al juicio por la expropiación de YPF.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Para hacérselo corto: el juicio era contra el Estado, por un lado, e YPF como empresa, por el otro.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Y el fallo dice: YPF no tiene nada que ver en todo lo que tuvo que ver con la expropiación del 51% de las acciones en el año 2012, decisión del Congreso argentino.",
+      "entidades_detectadas": [
+        "ypf",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Pero el Estado sí.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y este es un dato clave que seguramente no lean en las crónicas de todo esto, y que tiene que ver con el estatuto de YPF que armaron Carlos Menem y Roberto Dromi (y Manzano que andaba por ahí también) cuando la privatizan.",
+      "entidades_detectadas": [
+        "ypf",
+        "carlos",
+        "menem"
+      ]
+    },
+    {
+      "frase": "Y esta es la puerta por la cual se metieron para hacerle este juicio a YPF: que si alguien, una vez que YPF se privatizó, tomaba el control, adquiría, dice el estatuto, el 51% de las acciones de YPF, tenía que hacer lo que se llama una oferta pública de acciones.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Era esa cláusula, una cláusula anti retorno del Estado a YPF, porque lo que impedía era justamente que el Estado volviera a comprar las acciones de YPF de las cuales se había desprendido, porque si las compraba, le tenía que comprar las acciones a los demás a un precio muchísimo más alto.",
+      "entidades_detectadas": [
+        "ypf",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Junto con otra cuestión que hizo Menem, que fue que cuando privatizó YPF, privatizó también las acciones de YPF que estaban en la bolsa de Estados Unidos, las famosas ADR.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Entonces, a partir de estas dos cuestiones, por un lado, habilitaron a que cuando el Estado argentino expropia el 51% de YPF, vinieran los accionistas minoritarios a pedir esa oferta pública de acciones, cosa que el Estado no hizo y por eso es que ha sido condenado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y la sede de Nueva York es por el tanto que el juicio se hace allá, además de que siempre recuerden que Martínez de Hoz habilitó la posibilidad de que las empresas hicieran juicio contra el Estado en el extranjero, y Menem firmó muchos tratados de protección de inversiones que hacían lo que se llama la extraterritorialidad en los juicios contra el Estado.",
+      "entidades_detectadas": [
+        "menem",
+        "estado"
+      ]
+    },
+    {
+      "frase": "El Grupo Eskenazi era un grupo supuestamente con el cual se había apostado al famoso empresario nacional: decile a YPF a Repsol, que es una multinacional española, que entre Grupo Eskenazi de las familias Eskenazi y Grupo Petersen a YPF y con eso tenemos un empresario nacional dentro de la petrolera de bandera.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Y también había otro fondo buitre que se llama Eton Park.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Cuando el Estado dice \"no, voy a tomar el control, expropiado del 51% de YPF\", la decisión, una vez que el Estado toma el control, es en vez de repartir dividendos todo el tiempo y eso es fugar guita, voy a reinvertir esos dividendos en Argentina, por ejemplo, cosas como Vaca Muerta.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La clave es que en 2015 hay un fondo buitre que se llama Burford Capital que se dedica a hacer juicios contra países, que le compró el juicio a los Petersen y a Eton Park, y pagó por eso a la familia Petersen, por lo menos, que es lo que está público, 18 millones de dólares.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Ahora, yo les dije recién que YPF se expropió en el año 2012.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Sí, efectivamente, el juicio no lo hace ni la familia Eskenazi ni el fondo Eton Park, sino que lo hace un fondo buitre que se llama Burford Capital.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "¿Qué decía el Estado argentino?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La expropiación de una empresa es un acto soberano decidido por el Congreso argentino, por lo tanto no está sujeto a ningún tribunal extranjero y todo lo que vas a discutir es bajo ley argentina.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Bueno, el Estado argentino perdió esa discusión.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Para la jueza, y esto es un dato importante para que entiendan este juicio, está por encima el derecho privado, que es el estatuto de YPF, por sobre el derecho público, que es el derecho soberano de Argentina de expropiar una empresa.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Entonces, condena a Argentina por no cumplir con el estatuto.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Dice, por otro lado, que YPF, como empresa, no es responsable de que Argentina, como Estado, no cumpliera el estatuto y por eso YPF zafa.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Por eso YPF ha quedado liberada de todo esto.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Y es una gran noticia, es una gran noticia este fallo para YPF como empresa y para Argentina como país.",
+      "entidades_detectadas": [
+        "argentina",
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Porque si YPF era condenada en este fallo, corría serio riesgo de quedar descapitalizada, serio riesgo de quedar descapitalizada.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Ahora, YPF es una empresa que, más allá de la evaluación en una bolsa que puede subir y bajar, etcétera, por cuestiones ajenas, YPF (de hecho, cuando yo estuve en Wall Street), YPF bajó 10% en un día, pero porque se había caído un banco, no por culpa de YPF, y eso te hace subir y bajar el valor de la empresa.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Pero el valor de YPF para el país es que tenés soberanía energética, tomar las decisiones, tenés Vaca Muerta para exportar hidrocarburos y generar dólares, tenés los gasoductos para empezar a producir y generar dólares, y se va a meter también en el litio, que es también un futuro generador de dólares.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Entonces, que YPF no se funda es una gran noticia.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Vos decías, no, que esto es importante para YPF, y te quería agregar una cosa también del fondo de Burford, que también el caso YPF no es un caso más en la cartera de negocios de Burford, porque cuando en 2020 empezó a cotizar en bolsa, tuvo que presentar su informe a los accionistas y los balances reglamentarios.",
+      "entidades_detectadas": [
+        "ypf",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Y ahí lo que quedó expuesto es que este juicio con YPF era uno… es uno de los principales activos de este fondo buitre.",
+      "entidades_detectadas": [
+        "ypf",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Tiene una parte negativa este fallo para Burford, que es que se lo va a tener que cobrar al Estado argentino, no a YPF.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Porque digo, fue el gobierno anterior de Juntos por el Cambio el que terminó pagando también aquel juicio que Argentina fue prorrateando y prorrateando, que a los buitres, y fue la decisión de Mauricio Macri la que hizo que Argentina terminara pagando ese fondo para cerrarlo.",
+      "entidades_detectadas": [
+        "argentina",
+        "macri",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Bueno, durante el gobierno de Macri, en este juicio, Argentina bajó la defensa.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "O sea, el actual gobierno, que se defendió de esto con Carlos Zannini, que es el Procurador del Tesoro, y con Sebastián Soler, que es el subprocurador que está a cargo específicamente de estos juicios, tuvo que levantar muertos que eran… No solo Macri había levantado la defensa, había desarmado el equipo de defensa de Argentina frente a este tipo de juicios, y tuvieron que rearmar el juicio, reasumir este y volver a decir \"No, pero esto…\".",
+      "entidades_detectadas": [
+        "argentina",
+        "macri",
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Macri y Bernardo Saravia Frías, que fue el que estaba antes… Yo sé que hay continuidad en el Estado, pero no tenemos nada que ver con eso.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Argentina tiene prórroga de jurisdicción, tiene tratados de percusión de inversiones, tiene este estatuto que está firmado y está atada de manos en ese sentido.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En términos legales, lo que hacen en la Procuración del Tesoro es casi que reducción de daños.",
+      "entidades_detectadas": [
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "A ver, este fondo Burford Capital está pidiendo por menos… El dinero que trascendió, esos 18 mil millones, 20 millones, es cuatro veces lo que se le pagó a Repsol por menos cantidad de acciones.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Otra cosa es que Argentina igual tiene la posibilidad de apelar, ¿verdad?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Sí, ahora repito, el fallo dejó a un lado a YPF y ahora es cuál es el monto.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Argentina puede apelar ese número y seguir a una instancia siguiente.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Por lo que encontré es que es el mismo fondo que cobró por los Cupones PBI también.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Algo que linkado… Lo que siempre habla es Aquiles Arrebatos ahorita, que está metiéndose cada más… No, está con todo este… Con todo lo que es la cartera deportiva, las acciones… Bueno, uno de los principales accionistas de Burford Capital es un fondo de Arrebatos ahorita.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "La clave es el estatuto y que la justicia norteamericana prioriza el derecho privado sobre el público y acaba de condenar a Argentina por esa línea, por esos tres cuatro párrafos en el estatuto de YPF que dejó escrito Dromi.",
+      "entidades_detectadas": [
+        "argentina",
+        "ypf"
+      ]
+    },
+    {
+      "frase": "¿Qué interés tiene el fondo buitre en este juicio?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "¿Por qué se puede meter un fondo buitre en un juicio de este tipo y meter miles y miles y miles de millones de dólares para abogados en cosas, en lobby, en medios para lograr este tipo de fallos?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Buena noticia, YPF está salvada.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Y lamentablemente buenísima para el fondo buitre que se va a forrar en guita por un juicio donde ni debería meter la nariz.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    }
+  ]
+}

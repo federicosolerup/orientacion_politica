@@ -1,0 +1,44 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En Argentina, el caso de Mauricio Macri es ilustrativo.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Su victoria electoral en 2015 se construyó, en parte, sobre promesas que resultaron difíciles de cumplir, considerando el buen estado económico del país en ese momento (récord de industria, cosecha y consumo).",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Si bien Macri prometió un futuro aún mejor, su gestión generó una rápida desilusión y, finalmente, perdió la reelección.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "El peronismo tampoco ha estado exento de recurrir a la mentira.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La asunción de Sergio Massa como ministro de Economía, en medio de la gestión de Alberto Fernández, se justificó con argumentos que resultaron falsos.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "massa"
+      ]
+    },
+    {
+      "frase": "El posterior operativo clamor para impulsar la candidatura presidencial de Massa,  a pesar de la obvia reticencia de Cristina Fernández de Kirchner, es otro ejemplo de manipulación.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Bueno, arrancamos la semana y estamos hablando, desde la cámara de Espitufo, grabando… ¡Buenas noches con todo el equipo!",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Pero toda la gente que converge en la Nación TV, de Canal 13 y Canal 11, que están completamente desahuciados de ver todo el día lo mismo… Y acá también, todo el día Alberto, Alberto, Alberto… Bien, ¿de quiénes voy a hablar?",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Vieron que ahora se usan las microconferencias… No se… Alberto hoy salió a dar una charla.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Yo creo que hay que marchar un solo día, que es el domingo que haya que votar y acordarse de todo lo que nos hicieron este año y medio, y meterle un voto contundente en contra para sacarle poder en el Congreso y que dejen de aletear estos tartagales.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Juan Carr es un muchachito que es tan bueno, tan bueno, que en el gobierno de Macri un día descubrió el frío en julio en la puerta del Club River y llevó las cámaras de TN… ¡Pues acuérdense de ese Juan Carr!",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Y yo le pregunto, Alberto y Cristina: ¿En qué casa se va a quedar la gente si viven en un charco con piso de tierra, cagados de frío?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Y le pido un favor, señor Presidente, con todo respeto: deje de cortar la transmisión de programas interesantes para salir 18 minutos a decir “hoy dijo todo el mundo trabaja y yo soy Presidente o algo así”… Bueno, menos mal que nos enteramos, señor Presidente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Yo siempre le decía que haga fuerza para no hacer el peor Presidente de la historia argentina, pero llegué tarde… Ahora trate de hacer fuerza para no hacer más papelones.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

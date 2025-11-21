@@ -1,0 +1,3623 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "El que depositó dólares recibirá dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hola, ¿cómo están?",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "Buenas noches, bienvenidos a \"Viviana con Vos\".",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Cortame, José, si querés la música.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "Dios mío, qué día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "317, se va todo al carajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ya se fue.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Pero todo puede pasar en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Hoy elegí este nombre para la editorial, \"impunidad\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque la Argentina es pura impunidad política, mirá.",
+      "entidades_detectadas": [
+        "mirá",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Los impunes en la Argentina no reciben castigo.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "En la Argentina es muy complejo hacer preguntas difíciles.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina, muchas personas todavía tienen miedo de hablar, de decir, de hacer críticas a este gobierno.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Se las reprimen, se las guardan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El poder no se deja desafiar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Violentan la libertad de expresión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Argentina, la ley no existe.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina, la justicia está ausente.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina se niegan a respetar los derechos del otro.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina amenazan.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina se encubren crímenes, asesinatos, impunidad.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina hay corrupción, mucha, de toda.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina no hay castigo, impunidad.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina no tienen consecuencias los actos delictivos, impunes, impunidad.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En Argentina todo es impunidad.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "La vocera que tenemos es impune.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice que el dólar blue no afecta demasiado, impune.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podría estar diciendo lo que dice en una Argentina prendida a fuego, impune.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El pibe que en la UBA no deja de hablar, a López Murci.",
+      "entidades_detectadas": [
+        "López Murci",
+        "UBA"
+      ]
+    },
+    {
+      "frase": "Impune.",
+      "entidades_detectadas": [
+        "Impune"
+      ]
+    },
+    {
+      "frase": "Hasta Madbudú habla en la UBA.",
+      "entidades_detectadas": [
+        "Madbudú",
+        "UBA"
+      ]
+    },
+    {
+      "frase": "La justicia, la economía, el choreo, todo en la Argentina es impunidad.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Estamos como estamos en la Argentina por la impunidad.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "La impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hablamos de impunidad, tenemos a la reina de la impunidad, impunes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella y su marido saquearon la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Se la chorearon, se la afanaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hicieron rica a mucha gente, hicieron ricos a choferes, amigos, secretarios, a todos los testaferros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunes, impunidad.",
+      "entidades_detectadas": [
+        "Impunes"
+      ]
+    },
+    {
+      "frase": "Ella es millonaria y sus hijos también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero saben que cuando ella vuelve de laburar, como vuelvo yo de laburar, mis vecinos y los tuyos se dicen: \"Buenas noches, ¿cómo le va?, ¿qué dice?, ¿cómo se siente?, ¿cómo está su hija, su hijo, su perro?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ella le gritan \"chorra\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El día que este rebaño de pelotudos, que falta muy poco para que se despierte, van a correr, impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos con la mecha tan corta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Decía esto, pueden tener toda la guita del mundo.",
+      "entidades_detectadas": [
+        "Decía"
+      ]
+    },
+    {
+      "frase": "Van a llegar a ser los más ricos del cementerio, pero cuando llegan a sus casas, en sus autos importados, no pueden entrar porque los vecinos les gritan, les gritan \"chorra\", impunidad.",
+      "entidades_detectadas": [
+        "Van"
+      ]
+    },
+    {
+      "frase": "¡Mirá!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¿Estaba ahí?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¡Llora!",
+      "entidades_detectadas": [
+        "¡Llora"
+      ]
+    },
+    {
+      "frase": "¿Estabas ahí?",
+      "entidades_detectadas": [
+        "¿Estabas ahí?"
+      ]
+    },
+    {
+      "frase": "¿Estaba ahí?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen que la voz del pueblo es la voz de Dios.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no le tiene miedo a nada ni a nadie, impunidad absoluta, impune.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Pero de la UDI no se pudo bajar porque la gente, sus vecinos, le gritaban \"chorra\".",
+      "entidades_detectadas": [
+        "UDI"
+      ]
+    },
+    {
+      "frase": "Tienen mucha plata pero ya no pueden caminar por la calle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos sabemos que es delincuente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puso al títere para que sea el presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy hago un paréntesis y me contaron que están tan enojados con él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los kirchneristas, los que están en el gobierno, porque no pueden creer el nivel de cinismo de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Muchos dicen: \"Pobre, está quemado, no da más\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ellos dicen: \"No, él es tan cínico como ella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él sabe que está terminado, él sabe todo lo que está sucediendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero sabe que la opinión pública cree que la máxima culpable de todo es Cristina y con eso él se cubre.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Si él se va, la máxima responsable obviamente es Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Lo puso por tweet un sábado por la mañana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina maneja el país desde el Instituto Patria e Impunidad.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Instituto Patria e Impunidad"
+      ]
+    },
+    {
+      "frase": "Y también cumple el doble rol, vicepresidente y oposición, todo al mismo tiempo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora Cristina quiere poner más jueces en la corte.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Para tener poder y tener impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero recordemos, hoy encontré este tape porque tanto a Rosatti como a Rosencratz, los miembros de la corte están ahí porque también los votó el Frente de Todos Contra Todos, los votó la oposición.",
+      "entidades_detectadas": [
+        "Rosatti",
+        "Frente de Todos Contra Todos",
+        "Rosencratz"
+      ]
+    },
+    {
+      "frase": "Los votaron los cumbas, recordalo, impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a votar el orden del día número 10, correspondiente al dictamen de la Comisión de Acuerdo para la designación como ministro de la Corte Suprema de Justicia de la Nación del doctor Horacio Daniel Rosatti.",
+      "entidades_detectadas": [
+        "Horacio Daniel Rosatti",
+        "Comisión de Acuerdo",
+        "Corte Suprema de Justicia de la Nación"
+      ]
+    },
+    {
+      "frase": "Se vota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Resultan afirmativos 60 votos, negativos 10 votos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Reúne los dos tercios previstos por el artículo 99 y su cuarto de la Constitución.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Reúne"
+      ]
+    },
+    {
+      "frase": "Ahí está, los cumbas, los cumbas, votaron a Rosatti y a Rosencratz.",
+      "entidades_detectadas": [
+        "Rosatti",
+        "Rosencratz"
+      ]
+    },
+    {
+      "frase": "Ahora, como no les conviene, ambos son enemigos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Crisis en la economía, en el gobierno reconocen que se acabó la plata y el temor es cómo pasar el invierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Saben cómo vamos a pasar este invierno?",
+      "entidades_detectadas": [
+        "Saben"
+      ]
+    },
+    {
+      "frase": "Como el culo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo va a nacer el populismo sin plata?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el gobierno reconocen que se acabó la plata y el temor es cómo pasar el invierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde está Batakis?",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "¿En qué anda Batakis?",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Yo siempre estaba reunida a esta hora con el presidente para ver si pueden anunciar algo para mañana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todavía a esta hora no saben qué van a anunciar, no tienen un plan, no tienen nada, impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso sí, eso sí les sobra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Contame con esta sonrisa que estamos viendo.",
+      "entidades_detectadas": [
+        "Contame"
+      ]
+    },
+    {
+      "frase": "Mamita.",
+      "entidades_detectadas": [
+        "Mamita"
+      ]
+    },
+    {
+      "frase": "¿A quién puede seducir Batakis en Estados Unidos?",
+      "entidades_detectadas": [
+        "Estados Unidos",
+        "¿A",
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "¿A Biden?",
+      "entidades_detectadas": [
+        "¿A Biden"
+      ]
+    },
+    {
+      "frase": "¿Al Fondo Monetario Internacional?",
+      "entidades_detectadas": [
+        "¿Al Fondo Monetario Internacional?"
+      ]
+    },
+    {
+      "frase": "Es una pinturita, Batakis.",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "No me pregunto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Batakis, te pregunto.",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "¿De qué te reís?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánta impunidad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El dólar blue.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "317, mamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras preparaba este editorial, cambié dos veces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era 312 en un momento, 317.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Batakis, hacé algo.",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Alberto, hagan algo.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "¿Qué van a anunciar mañana?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Cuánto tiempo más se van a tomar para contarnos qué?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunes.",
+      "entidades_detectadas": [
+        "Impunes"
+      ]
+    },
+    {
+      "frase": "Creemos que efectivamente el dólar blue no tiene impacto en la economía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice esta bestia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto que dice es impunidad al palo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunes.",
+      "entidades_detectadas": [
+        "Impunes"
+      ]
+    },
+    {
+      "frase": "Escuchala a la portavoz por ahora del presidente Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ministra Batakis hizo un informe de la situación durante la reunión de gabinete.",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Ella va a tener mañana reunión de gabinete económico, donde se van a analizar diferentes medidas y va a ser ella y el gabinete económico quienes las van a comunicar, o hacia el fin de esta semana o la semana que viene.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente comprendemos y tenemos absoluta empatía con la sensación de incertidumbre que generan las informaciones alrededor del dólar blue y de cómo se maneja ese tipo de información.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creemos que efectivamente no tiene impacto en la economía real, pero es la ministra la que va a comunicar los temas económicos después de la reunión de gabinete económico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánta impunidad, no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué dice esta mujer?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este gobierno es una mezcla explosiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son burros y son hijos de puta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando sube el dólar blue, para que aprendan, esta mujer que no va ni al supermercado a comprar un paquete de azúcar, suben los precios, te mata la inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sube todo, no hace una sola compra, viven en nubes de pedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuánta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto que te voy a mostrar ahora es pura devaluación en un chanito, mirá.",
+      "entidades_detectadas": [
+        "mirá"
+      ]
+    },
+    {
+      "frase": "Año 2018, año 2022, con mil pesos, ¿qué hacés ahora?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué hacías antes?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá, es para morirse.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Causa Hoy vamos a preguntarle todo esto, mucho más, a Hernán Lacunza, que va a estar conversando con nosotros hacia dónde vamos, a dónde vamos a parar, qué va a pasar con nuestro salario, con la inflación, con esta devaluación, con un dólar que hoy tocó los 317 pesos.",
+      "entidades_detectadas": [
+        "Hernán Lacunza",
+        "Causa"
+      ]
+    },
+    {
+      "frase": "Lacunza hoy conversa mano a mano con nosotros.",
+      "entidades_detectadas": [
+        "Lacunza"
+      ]
+    },
+    {
+      "frase": "Lo único que crece en la Argentina es la pobreza y el hambre, pero no para Víctor Hugo Morales, el rey del relato K.",
+      "entidades_detectadas": [
+        "Víctor Hugo Morales",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Dice Víctor Hugo Morales que el salario le ganó a la inflación.",
+      "entidades_detectadas": [
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "¿Estás escuchando?",
+      "entidades_detectadas": [
+        "¿Estás"
+      ]
+    },
+    {
+      "frase": "Víctor Hugo Morales hoy dijo que el salario le ganó a la inflación.",
+      "entidades_detectadas": [
+        "Hugo Morales"
+      ]
+    },
+    {
+      "frase": "Y culpa a los medios de comunicación por el desánimo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También dice que quieren voltear a Alberto Fernández e impedir que Cristina sea candidata.",
+      "entidades_detectadas": [
+        "También",
+        "Cristina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Víctor Hugo Morales, el relator K, el relator del relato.",
+      "entidades_detectadas": [
+        "K",
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "Cuánta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál ha sido la relación de la inflación con el salario en la Argentina?",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cuál"
+      ]
+    },
+    {
+      "frase": "Escuchen esto, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El salario está un punto por arriba de la inflación con este gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aunque les resulte un poco asombroso lo que les estoy diciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que el trabajador ha perdido son los 20 puntos que quedaron para atrás de salario de la época del neoliberalismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y también en materia de jubilación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No puedo creer que se animen a hablar, pero es porque tienen detrás toda la mafia mediática que ustedes conocen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué pelo tuvo.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "La clase política, las mafias de Clarín, de la Corte Suprema.",
+      "entidades_detectadas": [
+        "Clarín",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "En estos años y lo que se quiere hacer en la Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Sacar a Alberto Fernández e impedir que vuelva a ser candidata Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "El plan es diabólico, pero lo están llevando a cabo minuto por minuto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En todos los canales, en todos los medios de comunicación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos correspondiéndose con el mismo sentido mafioso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hacer lo mismo que en Brasil.",
+      "entidades_detectadas": [
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Sacar a Dilma y después impedir que Lula fuese candidato.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Es lo que quieren hacer acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos, che.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A quién le quieren hacer creer esto?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "No hay que mentirle más a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me pregunto cuánto tiempo soportarían a Víctor Hugo Morales y los uruguayos en la televisión uruguaya.",
+      "entidades_detectadas": [
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "Dios mío.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dios mío.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dijo que el salario le ganó a la inflación y culpa a los medios de comunicación por el desánimo de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice que los medios de comunicación lo quieren echar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto Faraday.",
+      "entidades_detectadas": [
+        "Alberto Faraday"
+      ]
+    },
+    {
+      "frase": "Alberto Faraday se está echando solo, Víctor Hugo.",
+      "entidades_detectadas": [
+        "Víctor Hugo",
+        "Alberto Faraday"
+      ]
+    },
+    {
+      "frase": "Se está echando solo, hace todo mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está para atrás, hace todo mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora me pregunto, bueno, yo sé cuánto le pagan igual a Víctor Hugo Morales en dólares, además, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "Por eso no le importa incendiarse por televisión defendiendo lo indefendible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué ven de patria todos estos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras esté la tarasca, todos siguen mintiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una vergüenza, como si el rebaño de pelotudos no supiera que está de mal en peor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad, cuánta, impunes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El lema comunicacional del gobierno es, miente, miente que algo quedará ahí si a mucha gente...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablando de impunes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aníbal Fernández, que ahora parece que es el nuevo ministro de Economía de los Argentinos y no lo sabíamos.",
+      "entidades_detectadas": [
+        "ministro de Economía",
+        "Argentinos",
+        "Aníbal Fernández"
+      ]
+    },
+    {
+      "frase": "No resuelve nada como ministro de Seguridad y ahora se hace el ministro de Economía.",
+      "entidades_detectadas": [
+        "ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Dijo que no va a haber devaluación, hay devaluación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dijo que no va a haber devaluación y que el mercado del dólar blue es muy chiquito.",
+      "entidades_detectadas": [
+        "muy chiquito"
+      ]
+    },
+    {
+      "frase": "Cuánta impunidad, por Dios mío.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "¿Cuánto resulta, ministro, el aumento del dólar informal?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "¿Es inminente una devaluación para usted ante este contexto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no lo explico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué significa, ministro, el mercado debe estar rondando los mil millones de dólares en el mercado oficial y solo tres millones de dólares en el mercado blue o como le quieran llamar, negro o lo que sea?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Es inminente, simplemente que está siendo inyectado por alguno de los tantos que pretenden generar corridas y ventajas para ellos, no para los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ser cuidadosos y decir las cosas como son.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero entiende que no tiene ninguna implicancia en el mercado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, porque es un enemigo muy chiquitito, no tiene ningún impacto realmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo quieren hacer tener para sacarle ventaja para sí, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No sabe nada Aníbal Fernández de Economía.",
+      "entidades_detectadas": [
+        "Aníbal Fernández de Economía"
+      ]
+    },
+    {
+      "frase": "Se hace el ministro de Economía.",
+      "entidades_detectadas": [
+        "ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Habla el ministro de Seguridad de la Economía en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Cuánta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen cualquier verdura, cualquier cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos los días se devaluó el peso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con la misma cantidad de guita comprás menos cosas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No les importa porque ellos viven de la nuestra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo van a correr ustedes?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Van a correr de a uno.",
+      "entidades_detectadas": [
+        "Van"
+      ]
+    },
+    {
+      "frase": "Impunes todos.",
+      "entidades_detectadas": [
+        "Impunes"
+      ]
+    },
+    {
+      "frase": "Tanta impunidad como la de Axel Kicillof.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "Mirá este tweet del gobernador del 17 de julio de 2017.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "El valor del dólar lo maneja el gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo maneja mal como todo y solo pensando en los que más tienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así nos va bien.",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    },
+    {
+      "frase": "Este tweet se podía haber escrito en el día de ayer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tema es que la realidad que tenemos es mucho peor que la del 2017.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que no digo que estaba buena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ápero Macri, ápero el dólar blue, ápero el neoliberalismo, ápero la impunidad, ápero...",
+      "entidades_detectadas": [
+        "Ápero Macri",
+        "ápero"
+      ]
+    },
+    {
+      "frase": "¡Human!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El frente de todos contra todos es como...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son como los reyes de las excusas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué no dejan de poner excusas y se ponen a gobernar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya chocaron, ya chocamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánta impunidad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mostrándote el alto grado de impunidad que maneja esta gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos hoy al ministro Kicillof.",
+      "entidades_detectadas": [
+        "Kicillof"
+      ]
+    },
+    {
+      "frase": "Hizo un discurso por el otorgamiento de unas viviendas y aprovechó...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "para pegarle a la oposición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen tiempo aún de pegarle a la oposición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué oposición tan tibia que tenemos los argentinos!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Dice que quieren conquistar a la gente con las mismas mentiras que antes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Cuánta impunidad!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Porque veníamos de una época donde todo era promesa, donde todo era mentira, donde hubo una estafa electoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy la estamos viviendo un poco, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Porque los que llevaron adelante la estafa electoral anterior...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "ahora nos están diciendo que todos los problemas, en buena medida...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "producto del desastre que dejaron, ellos sabrían arreglarlos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que a ellos sí les preocupa abrir escuelas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces uno se pregunta si les preocupa abrir escuelas...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "porque cuando fueron gobierno, en vez de abrirlas, las cerraron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué si les preocupa crear trabajo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué cuando fueron gobierno lo destruyeron?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué si les interesa la vivienda, cuatro años se dedicaron a no terminar viviendas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué fácil que de nuevo volver a ser comentarista de la realidad.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Pero qué difícil estafar de nuevo con las mismas mentiras de antes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué vergüenza seguir hablando de \"Ápero Macri\".",
+      "entidades_detectadas": [
+        "Ápero Macri",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "La verdad que son una vergüenza absoluta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él fue ministro de Economía en el gobierno de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Me gustaría escucharlo al gobernador de la provincia de Buenos Aires, Axel Kicillof, decir...",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "que lo que están armando con Batakis, con Alberto Fernández y con este gobierno, su gobierno, tuvo...",
+      "entidades_detectadas": [
+        "Batakis",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "estamos yendo por buen camino, pero no lo puede decir porque ya chocamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuánta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Ápero Macri\", por favor, impunes.",
+      "entidades_detectadas": [
+        "Ápero Macri"
+      ]
+    },
+    {
+      "frase": "Tan impune como Batakis.",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "En plena crisis de Macri, Silvina Batakis, la actual ministra de Economía, escribía esto.",
+      "entidades_detectadas": [
+        "Economía",
+        "Macri",
+        "Silvina Batakis"
+      ]
+    },
+    {
+      "frase": "Batakis, el 15 de enero de 2019.",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Hiperinflación programada, buscada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Default, devaluación violenta, incumplimiento con el Fondo Monetario Internacional, control de capitales y administración de venta de dólares, fuga de dólares.",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional",
+        "Default"
+      ]
+    },
+    {
+      "frase": "Esto decía Batakis el 15 de enero de 2019.",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Hoy tenemos a Hernán Lacunza.",
+      "entidades_detectadas": [
+        "Hernán Lacunza"
+      ]
+    },
+    {
+      "frase": "Imagínense si Lacunza, antes de venir a este programa o después del mano a mano que vamos a hacer...",
+      "entidades_detectadas": [
+        "Lacunza"
+      ]
+    },
+    {
+      "frase": "para que nos hable de la economía en Argentina, pone un tweet y dice todo esto.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Que es un golpista, un gorila golpista, pero no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ella la premiaron después de ser golpista y hoy es la ministra de Economía de todos los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy me preguntaba la tarde, ¿dónde está Guzmán?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Impunidad en la Argentina toda.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Cuando ellos son oposición, no dejan de pegar por debajo del cinturón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuanta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Alguien sabe ya a esta hora, 21:21, cuál es el plan de Batakis que va a anunciar mañana la ministra de Economía?",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Dólar a 317.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy me pasaron la cifra del dólar a fin de año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me animo ni a decirla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta gente no se da cuenta que el pueblo no llega a fin de mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que los jubilados llegan con suerte al 10 de cada mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que la gente no tiene plata, que la gente no tiene vida, que la estamos pasando mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pedías helicóptero con el dólar a 40.",
+      "entidades_detectadas": [
+        "Pedías"
+      ]
+    },
+    {
+      "frase": "Hoy tendrías que pedir el Apolo 13.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer mostré un tweet de Gabriela Cerruti del 2018 pidiendo que se vaya Macri.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Gabriela Cerruti",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "¿Faltan 512 días para que se vayan?",
+      "entidades_detectadas": [
+        "¿Faltan"
+      ]
+    },
+    {
+      "frase": "¿Cuánto tiempo más vamos a aguantar?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "¿Aguanta el país con esta gente gobernando 512 días más?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Vos qué pensás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que Juan Grabois, por ejemplo, cree que no se aguanta más.",
+      "entidades_detectadas": [
+        "Juan Grabois"
+      ]
+    },
+    {
+      "frase": "Dice que va a ir a Macri.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "¿Y qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Vos qué pensás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que Juan Grabois, por ejemplo, cree que no se aguanta más.",
+      "entidades_detectadas": [
+        "Juan Grabois"
+      ]
+    },
+    {
+      "frase": "Dice que va a haber sangre si es necesario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánta impunidad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este video, ponelo gracioso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miralo a Alberto Fernández después de enterarse de que el dólar blue estaba a 317 mangos.",
+      "entidades_detectadas": [
+        "Miralo",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Impunidad, miralo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto después de subir el dólar.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Mirá, Alberto Fernández.",
+      "entidades_detectadas": [
+        "Mirá",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¡Chau Alberto!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Chau işiroanishos!",
+      "entidades_detectadas": [
+        "Chau"
+      ]
+    },
+    {
+      "frase": "¡Chau Papá!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto después de subir el dólar, mirá Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¡Chau 아니o!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Chau İşirojeong!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Chau Papá!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto después de subir el dólar, mirá Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¡Manners patern 척!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Chau maestro!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Chau papá!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es mentiroso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estás igual, Alberto, estás hecho mierda, mirá.",
+      "entidades_detectadas": [
+        "Alberto",
+        "mirá"
+      ]
+    },
+    {
+      "frase": "Es una tragedia la Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Cuanta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es igual, este es igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es Alberto, pero le pongo la cara de Macri para ver si se enojan de esta manera por el aumento del dólar, la nafta, la pobreza, la inflación y el riesgo país.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Tienen razón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Imaginate si este gobierno tuviera en la cabeza a Mauricio Macri hoy con un dólar blue a 317 mangos.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Otra que 14 toneladas de piedras, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Hubieran hecho mierda la Casa de Gobierno y más.",
+      "entidades_detectadas": [
+        "Casa de Gobierno"
+      ]
+    },
+    {
+      "frase": "Cuanta impunidad que tienen, por Dios.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Mirá lo que dijo Hugo Moyano, la marcha de la CGT va a ser en apoyo al gobierno.",
+      "entidades_detectadas": [
+        "Hugo Moyano",
+        "CGT",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "No en contra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A toda la gente de la CGT, a los gordos, a la CGT, a todos hay que rajar, zapatadas en el culo.",
+      "entidades_detectadas": [
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Son todos impunes, van a hacer una marcha la semana que viene para apoyar el gobierno de Alberto Fernández con más pobres.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¿Cómo pueden salir a bancar este gobierno?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por la caja, por la guita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto les pusieron para que hagan una marcha a favor de este gobierno?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "Cuanta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un PBI completo, seguramente ya le pagaron a Hugo Moyano y a su gente.",
+      "entidades_detectadas": [
+        "Hugo Moyano"
+      ]
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El que no se lo fuma ni un poco al presidente, Juan Grabois, recién lo decíamos.",
+      "entidades_detectadas": [
+        "Juan Grabois"
+      ]
+    },
+    {
+      "frase": "Y hoy me impactó porque lo había escuchado, lo había visto en diferentes móviles, pero de repente encontré este video que me pareció un montón.",
+      "entidades_detectadas": [
+        "encontré"
+      ]
+    },
+    {
+      "frase": "Y obviamente cuando habla Juan Grabois está hablando Cristina Fernández de Kirchner, está hablando del Instituto Patria.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Instituto Patria",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "En este acto Juan Grabois, y es muy preocupante, está hablando en voz del Instituto Patria.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Instituto Patria"
+      ]
+    },
+    {
+      "frase": "Dice que está dispuesto a dejar la sangre en esta pelea por los pobres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina es una tragedia, miralo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¿Por qué no se dan cuenta que no es política la p***a Varde?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es obvio que esto no da para más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué nos pusimos ahí?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué es menos pobreza?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No, para qué es más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es matemática, hermano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Queremos que sea menos pobreza, no que sea más pobreza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si no te gusta el salario universal, inventá otra cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Traé una propuesta mejor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué se paga la sangre?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Para qué se paga la sangre?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No, para que sea menos pobreza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si no te gusta el salario universal, inventá otra cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Traé una propuesta mejor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos hayas a decir que hay que calmar a los mercados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Calmá a nosotros porque vamos a hacer 5.000, 200.000, no sé cuánto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay algunos gauchos acá y algunos gauchos acá que estamos dispuestos a dejar nuestra sangre en la calle para que nos siga viendo este hambre en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández y Juan Grabois te desean un muy feliz día del amigo.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Cuanta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, la amenaza de Grabois es directa, es una amenaza.",
+      "entidades_detectadas": [
+        "Grabois"
+      ]
+    },
+    {
+      "frase": "Es muy grave lo que está haciendo Grabois.",
+      "entidades_detectadas": [
+        "Grabois"
+      ]
+    },
+    {
+      "frase": "Está hablando por boca de Cristina Fernández de Kirchner, Instituto Patria, de toda la Cámpora.",
+      "entidades_detectadas": [
+        "la Cámpora",
+        "Cristina Fernández de Kirchner",
+        "Está",
+        "Instituto Patria"
+      ]
+    },
+    {
+      "frase": "Está diciendo que va a haber un estallido.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Pero entienden que Juan Grabois está hablando de su gobierno.",
+      "entidades_detectadas": [
+        "Juan Grabois"
+      ]
+    },
+    {
+      "frase": "Imagínense a la oposición hablando así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ellos son la oposición de este gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Amenazan con derramamiento de sangre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese no es el camino, Juan.",
+      "entidades_detectadas": [
+        "Juan"
+      ]
+    },
+    {
+      "frase": "Cuanta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta el ministro de Economía de Bolivia nos recomienda cosas.",
+      "entidades_detectadas": [
+        "ministro de Economía de Bolivia"
+      ]
+    },
+    {
+      "frase": "Dice que paremos con el despilfarro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ministro de Economía de Bolivia recomendó al gobierno kirchnerista controlar el déficit fiscal.",
+      "entidades_detectadas": [
+        "ministro de Economía de Bolivia"
+      ]
+    },
+    {
+      "frase": "Nos tapó el agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ministro de Economía de Bolivia recomienda al gobierno kirchnerista controlar el déficit fiscal.",
+      "entidades_detectadas": [
+        "ministro de Economía de Bolivia"
+      ]
+    },
+    {
+      "frase": "Le está diciendo el ministro de Economía de Bolivia al kirchnerismo que demasiado populismo no está bueno.",
+      "entidades_detectadas": [
+        "ministro de"
+      ]
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, esta gente no está escuchando absolutamente a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No escuchan al pueblo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No escuchan al ministro de Economía de Bolivia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuanta soberbia y qué poco talento tiene este gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No escuchan a la oposición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No escuchan lo que está pasando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No escuchan lo que le dice el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No escuchan a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este gobierno está perdido ya, chocó, y no tiene rumbo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué están hablando a esta hora?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto Fernández con la ministra de Economía, Batakis.",
+      "entidades_detectadas": [
+        "Economía",
+        "Batakis",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¿Qué van a anunciar?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Se llegó Hernán Lacunza y vamos a conversar con él un mano a mano después de la editorial.",
+      "entidades_detectadas": [
+        "llegó Hernán Lacunza"
+      ]
+    },
+    {
+      "frase": "¿Qué va a pasar en la Argentina?",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Cuál es el plan?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "No tenemos plan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no me crees, mirá este tape y fijate qué tiene en la cabeza, en qué está pensando el presidente Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Leía un reportaje muy interesante a un psiquiatra o psicólogo, no sé muy bien qué era, que hablaba de los efectos de la pandemia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablaba obviamente en términos universales, no hablaba de la Argentina puntualmente.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Y me preguntaba cuánto tenemos que hacer para ayudar a que esa gente salga de ese estado depresivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el año...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El nivel de ejecución de inversión ejecutado en el 2021, represión de la inversión de la inversión, y el nivel de ejecución de la inversión de la inversión, el nivel de ejecución de inversión ejecutado en el 2021, representó un crecimiento real de más de un 90% ¿Por qué se dedica a Catamarca?",
+      "entidades_detectadas": [
+        "Catamarca"
+      ]
+    },
+    {
+      "frase": "¿Qué va a llevar mejor agua al este de...",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué dice?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De Catamarca, de Catamarca, al este de Catamarca.",
+      "entidades_detectadas": [
+        "Catamarca"
+      ]
+    },
+    {
+      "frase": "Escuchar el círculo de decir con atención recién al gobernador de Mendoza, 2.000 colectivas, 1.000 camiones, 2.000 colectivas, 1.000 camiones pasan hoy por esa carretera.",
+      "entidades_detectadas": [
+        "Mendoza"
+      ]
+    },
+    {
+      "frase": "La verdad que últimamente entender al presidente Alberto Fernández es una misión imposible.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Qué vergüenza que este hombre sea nuestro presidente.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Villaderne, que se lleve al borracho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se le entiende nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este hombre es el capitán del barco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De verdad, ustedes creen que Alberto Fernández puede seguir manejando este país por una mano en el corazón.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Sinceramente, no somos golpistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablamos en serio, se nos va la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Faltan 512 días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Alguien cree que Alberto Fernández puede seguir siendo el capitán de este barco?",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Por Dios.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Igual entre tantas malas para el gobierno encontramos a una fan de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández tiene una fan y es esta mujer.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Le pide a Alberto Fernández que no renuncie.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Y que si renuncia, le deje el país destruido a Mauricio Macri.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Mirá lo que es la fan, la única persona que en Argentina apoya al presidente Alberto Fernández.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Mirá",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Impunidad al palo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, estamos todos a favor de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Alberto, no renuncies.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "No renuncies porque nos morimos todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si vas a renunciar, hacé c*** al país a Macri.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Pero dejáselo bien hecho, recontra c***a como él hizo con vos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dejáselo hecho mierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Agarrá la poca plata que queda y tirásela a todo el mundo, a todos los pobres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Menos los p***os que votaron por Macri.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Que vos sabés quiénes son porque votan ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hacéle mierda al país.",
+      "entidades_detectadas": [
+        "Hacéle"
+      ]
+    },
+    {
+      "frase": "Dejale un país ahí medio flotante al hijo de r1000 p***a.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros te bancamos y si nos hundimos, nos hundimos con vos, Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Ay, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si nos hundimos, nos hundimos todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo te digo la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta mujer pobrecita tiene una cantidad de odio encima que no puede ser.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta mujer, señora, le digo algo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted no tiene patria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted no ama a la Argentina.",
+      "entidades_detectadas": [
+        "Usted",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "¿Cómo que se hunde?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos hundimos todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero lo dice con...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le juro que esto es muy difícil remontar esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ponemos un poquito la parte final.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Podés ponerlo otra vez?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hacéle mierda al país.",
+      "entidades_detectadas": [
+        "Hacéle"
+      ]
+    },
+    {
+      "frase": "Dejale un país ahí medio flotante al hijo de r1000 p***a.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros te bancamos y si nos hundimos, nos hundimos con vos, Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Imaginate si el presidente hoy fuera Mauricio Macri.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "¿Se acuerdan del show de los helicópteros?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Cuánta impunidad!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entre tanta mala onda, mala energía y tanta mala vibra, tanta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te quiero presentar al otro Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Hoy encontré en las redes a un señor que se llama Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Es un Alberto laburante, trabajador.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Un Alberto que no viola la ley, que no viola el DNU.",
+      "entidades_detectadas": [
+        "Un Alberto"
+      ]
+    },
+    {
+      "frase": "Es alguien que tiene palabra, que le cuesta un Perú llevar el morfio a su casa, llegar a fin de mes.",
+      "entidades_detectadas": [
+        "Perú"
+      ]
+    },
+    {
+      "frase": "Quiero que conozcas ahora la vida del otro Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Un ciudadano de bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miralo.",
+      "entidades_detectadas": [
+        "Miralo"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "El Perú es un país muy grande.",
+      "entidades_detectadas": [
+        "El Perú"
+      ]
+    },
+    {
+      "frase": "Rahul?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen el mismo nombre, solo eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más las imágenes, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay la la vez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen el mismo nombre, pero son distintos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno viaja en helicóptero, el otro toma bondi, tren, subte, todo, no para.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno labura y el otro es presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno cumple la ley.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El otro es Alberto Fernández, el violador de su propio DNU.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Ahí ves las dos Argentinas.",
+      "entidades_detectadas": [
+        "Argentinas"
+      ]
+    },
+    {
+      "frase": "Ahí ves la impunidad que hay en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Hoy fue, supongo, un día bastante duro para Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Y no por el dólar a 317.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy es el día del amigo y Alberto Fernández ya no tiene amigos.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Hoy, mientras escribía, pensaba que fue un tipo absolutamente desleal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que traicionó a todos sus amigos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer a la madrugada me mandaron un mensaje de dos personas que habían estado muy cerca de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "No lo voy a nombrar, pero me desearon un feliz día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son personas que ya no están en el gobierno con Alberto Fernández porque él los echó.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Pensaba en toda la gente que dejó y que rajó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se acuerdan de su mejor amiga, su socia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lozardo.",
+      "entidades_detectadas": [
+        "Lozardo"
+      ]
+    },
+    {
+      "frase": "La echó por C5N.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A Culfas, a Felipe Solá, a Roslo.",
+      "entidades_detectadas": [
+        "Felipe Solá",
+        "Roslo"
+      ]
+    },
+    {
+      "frase": "A los que eran incondicionales y amigos de muchísimos años o de toda la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es bueno recordar que en el día del amigo Alberto Fernández los traicionó a todos.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "De ilegal, ingrato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los defraudó a sus amigos al igual que a los millones de argentinos que lo votaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Seguimos con el día del amigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Encontré esta perla que me pareció maravillosa.",
+      "entidades_detectadas": [
+        "Encontré"
+      ]
+    },
+    {
+      "frase": "En el día del amigo fue a lo de Mirtha Legrand, en \"Gisela Bernal\".",
+      "entidades_detectadas": [
+        "Gisela Bernal",
+        "Mirtha Legrand"
+      ]
+    },
+    {
+      "frase": "Te pido ese día de este vídeo para el día de hoy, pero mirá lo que dice la locutora cuando la presenta y las caras de Gisela Bernal porque le están invitando como asesina de sus amigas, ¿entendés?",
+      "entidades_detectadas": [
+        "Gisela Bernal",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Impunidad absoluta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se le diga el amigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá a Gisela Bernal.",
+      "entidades_detectadas": [
+        "Gisela Bernal",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Almorzan hoy con la señora Mirtha Legrand.",
+      "entidades_detectadas": [
+        "Mirtha Legrand",
+        "Almorzan"
+      ]
+    },
+    {
+      "frase": "La señora Gisela Bernal estuvo presa, acusada de envenenar a sus amigas.",
+      "entidades_detectadas": [
+        "Gisela Bernal"
+      ]
+    },
+    {
+      "frase": "¿Cómo te pueden invitar y presentarte como \"Gisela Bernal, estuvo presa, acusada de envenenar a sus amigos\"?",
+      "entidades_detectadas": [
+        "Gisela Bernal"
+      ]
+    },
+    {
+      "frase": "Y ya se ríe, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¡Qué buena onda!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué es eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Y ya se ríe, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¡Qué buena onda!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Eso también es impunidad total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirtha es lo más.",
+      "entidades_detectadas": [
+        "Mirtha"
+      ]
+    },
+    {
+      "frase": "Mirtha en la tele es impune.",
+      "entidades_detectadas": [
+        "Mirtha"
+      ]
+    },
+    {
+      "frase": "Hablando de comidas en la tele.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este gobierno solo te vende polenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, en la TV pública, en \"Cocineros Argentinos\" se la pasan haciendo cualquier cosa con polenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La técnica para la polenta más cremosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son coherentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo único que le dan de comer al pueblo es polenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No van a cocinar con carne si la gente no come eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, con la polenta uno siente que todo el tiempo se están burlando de los pobres.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "¡Cuánta impunidad!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina se convirtió en un país absolutamente berreta, mediocre.",
+      "entidades_detectadas": [
+        "berreta",
+        "Argentina",
+        "mediocre"
+      ]
+    },
+    {
+      "frase": "Somos una Argentina \"todo por dos pesos\".",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¡Cuánta impunidad!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto me lo mandó una televidente desde Mar del Plata.",
+      "entidades_detectadas": [
+        "Mar del Plata"
+      ]
+    },
+    {
+      "frase": "La policía llama a la gente que está en la calle para que empuje el auto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A quién quieren salvar si no le dan ni un auto como la gente a la policía?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "Esto pasó en Mar del Plata.",
+      "entidades_detectadas": [
+        "Mar del Plata"
+      ]
+    },
+    {
+      "frase": "¡Mirá la impunidad!",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "¡Mirá la impunidad!",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Lamentablemente estamos en la Argentina y lo atamos con alambre.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Esto me lo mandó una televidente y le mandó un beso de Mar del Plata.",
+      "entidades_detectadas": [
+        "Mar del Plata"
+      ]
+    },
+    {
+      "frase": "¿Cómo hacen los policías para detener delincuentes, chorros, asesinos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos en desventaja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es impunidad absoluta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Alguien tiene la plata que le falta a estos patrulleros?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La policía en Argentina no tiene ni para la nafta, impunidad.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Estos militantes K de la UBA también tienen mucha impunidad.",
+      "entidades_detectadas": [
+        "K",
+        "UBA"
+      ]
+    },
+    {
+      "frase": "¿Sabés que nadie los va a sancionar después de lo que hicieron ayer con López Murci?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le bloquearon el ingreso a la sala para que no pueda hacer su charla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuchaba parte del diálogo de López Murci con estos pibes impunes, a los que sí dejan hablar en la UBA, esa amado Budú, y además lo aplauden de pie.",
+      "entidades_detectadas": [
+        "López Murci",
+        "Budú",
+        "UBA"
+      ]
+    },
+    {
+      "frase": "A López Murci le bloquearon la entrada.",
+      "entidades_detectadas": [
+        "López Murci"
+      ]
+    },
+    {
+      "frase": "Impunidad absoluta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Venimos a hacer acá una manifestación pacífica pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo que pacífica si no dejan entrar al salón?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y respetó el presupuesto educativo en el 2001.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Vamos a contestar la libertad académica o no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo estoy dispuesto a contestar las preguntas que ustedes...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero pongamos que la charla se haga acá, así es visible a los estudiantes que pasan y no que se escondan en el tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se esconden en el tiempo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Debería esconderme alguna vez?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, desde que era en el 2001 que se está escondiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es verdad, no es verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Viajo todos los días en colectivo como López Murci, jamás ninguno lo diría.",
+      "entidades_detectadas": [
+        "López Murci",
+        "jamás"
+      ]
+    },
+    {
+      "frase": "No se animan a caminar por la calle sin custodia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos militantes casi creen ser los dueños de la UBA, no los van a sancionar.",
+      "entidades_detectadas": [
+        "UBA"
+      ]
+    },
+    {
+      "frase": "Se dan cuenta de que hay mucha, demasiada impunidad, impunidad al palo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son adoctrinados, ideologizados, no escuchan nada, totalitarios, dan vergüenza, tienen impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablando de militantes K, ¿se recuerdan de esta actriz?",
+      "entidades_detectadas": [
+        "¿",
+        "K"
+      ]
+    },
+    {
+      "frase": "Anina Gleser publicó este tweet en 2019.",
+      "entidades_detectadas": [
+        "Anina Gleser"
+      ]
+    },
+    {
+      "frase": "\"Qué lindo es votar con Axel Kicillof\".",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Ahora publicó este otro: \"Me voy a trabajar a Brasil por tiempo indeterminado\".",
+      "entidades_detectadas": [
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Entonces, en las redes le pusieron: \"Empezó votando al carnerista Axel y terminó huyendo a los brazos de Bolsonaro\".",
+      "entidades_detectadas": [
+        "Axel",
+        "Bolsonaro",
+        "Empezó"
+      ]
+    },
+    {
+      "frase": "La única verdad es la realidad, decía el general.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá tenemos a Los Ángeles y Alberto Fernández.",
+      "entidades_detectadas": [
+        "Los Ángeles",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¡Dios mío!",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "¡Qué decadencia en la Argentina!",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "¡Me estoy deprimiendo mal!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los Ángeles y Alberto.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Ángeles"
+      ]
+    },
+    {
+      "frase": "Las tres flores de la costa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no sé cómo estamos vivos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te digo, no sé cómo estamos vivos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajamos en equipo para garantizar la salud de todas las argentinas y los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Viscotti, te choreaste las vacunas.",
+      "entidades_detectadas": [
+        "Viscotti"
+      ]
+    },
+    {
+      "frase": "Hiciste un vacunatorio VIP.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tu jefe era el delincuente de Ginés.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora estás vacunando con vacunas vencidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y vos querés cuidar nuestra salud?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Paso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos todavía esperando, Viscotti, que le pidas perdón a los padres de Solange, de Abigail, a los millones de argentinos.",
+      "entidades_detectadas": [
+        "Abigail",
+        "Solange",
+        "Viscotti"
+      ]
+    },
+    {
+      "frase": "¿Sabés lo que pasa, Viscotti?",
+      "entidades_detectadas": [
+        "Viscotti"
+      ]
+    },
+    {
+      "frase": "Vos tenés impunidad.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Ustedes van a correr de a uno, de a una.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Argentinos y argentinas.",
+      "entidades_detectadas": [
+        "Argentinos"
+      ]
+    },
+    {
+      "frase": "El rebaño de pelotudos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los vamos a hacer correr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin vergüenza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está claro que ninguna de las tres que ves en la foto están preparadas para el cargo que ocupan.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Ninguna de las tres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es impunidad absoluta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no supieras que estas tres son ministras, ¿qué te imaginarías quiénes son?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De la cúpula de la Escuela Científica de Asilo.",
+      "entidades_detectadas": [
+        "Asilo",
+        "Escuela Científica de"
+      ]
+    },
+    {
+      "frase": "Esas que se comunican con los muertos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad absoluta, estas tres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que nos queda una sola oportunidad en el 2023, por lo menos, a la gente de mi generación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no da para más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta frase me encantó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La tolerancia es un crimen cuando lo que se tolera es la maldad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé vos, yo siento que ya a este gobierno le estamos tolerando tantas maldades que no podemos más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablando de maldad, el Papa.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Con lo que yo quería, Francisco.",
+      "entidades_detectadas": [
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "El Papa Francisco no quiere hacer lío.",
+      "entidades_detectadas": [
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Esto lo leí en los diarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto lo leí en \"Presli\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Papa Francisco prohibió que el Vaticano invierta en armas, pornografía y prostitución.",
+      "entidades_detectadas": [
+        "Papa Francisco prohibió",
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "Si el Papa prohibió que inviertan en esto, es que en algún momento invirtieron en el Vaticano en armas, pornografía y prostitución.",
+      "entidades_detectadas": [
+        "Vaticano",
+        "Papa"
+      ]
+    },
+    {
+      "frase": "¿Entendés la impunidad del Vaticano y del Papa?",
+      "entidades_detectadas": [
+        "Papa",
+        "¿Entendés",
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "El Papa Francisco no quiere hacer lío.",
+      "entidades_detectadas": [
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Prohibió que el Vaticano invierta en armas, pornografía y prostitución.",
+      "entidades_detectadas": [
+        "Vaticano",
+        "Prohibió"
+      ]
+    },
+    {
+      "frase": "¿Puedo más?",
+      "entidades_detectadas": [
+        "¿Puedo"
+      ]
+    },
+    {
+      "frase": "El amigo de los cubanos, de los derechos humanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De los hermanos Castro, el Papa Francisco.",
+      "entidades_detectadas": [
+        "Castro",
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Mirá este meme de la Zafata con pollitos de Cuba, Venezuela y China.",
+      "entidades_detectadas": [
+        "China",
+        "Mirá",
+        "Venezuela",
+        "Zafata",
+        "Cuba"
+      ]
+    },
+    {
+      "frase": "Cansado de vivir en el capitalismo, tú puedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Descuentos especiales para Corea del Norte.",
+      "entidades_detectadas": [
+        "Corea del Norte"
+      ]
+    },
+    {
+      "frase": "Se puede ir para allá, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "El Papa, las armas, las prostis, la pornografía, los Castro, un Castro, Evo Morales, Alberto Fernández, que lo va a pasar...",
+      "entidades_detectadas": [
+        "Castro",
+        "Evo Morales",
+        "Papa",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Van a volver en cinco minutos todos.",
+      "entidades_detectadas": [
+        "Van"
+      ]
+    },
+    {
+      "frase": "Mucho de pico, mucho de pico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un horror toda esta gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son comunistas, pero, ¿conoces?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuánta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá esto, sos Cuba.",
+      "entidades_detectadas": [
+        "Cuba",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "El mundo debe saber lo que está pasando en Cuba.",
+      "entidades_detectadas": [
+        "Cuba"
+      ]
+    },
+    {
+      "frase": "Escuchá el testimonio de esta cubana para saber lo que está pasando en Cuba.",
+      "entidades_detectadas": [
+        "Cuba"
+      ]
+    },
+    {
+      "frase": "Esta mujer pide desde Cuba que se vayan.",
+      "entidades_detectadas": [
+        "Cuba"
+      ]
+    },
+    {
+      "frase": "Impunes.",
+      "entidades_detectadas": [
+        "Impunes"
+      ]
+    },
+    {
+      "frase": "Mirala.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mátenme, hijos de puta.",
+      "entidades_detectadas": [
+        "Mátenme"
+      ]
+    },
+    {
+      "frase": "Váyanse y déjennos a nosotros los cubanos.",
+      "entidades_detectadas": [
+        "Váyanse"
+      ]
+    },
+    {
+      "frase": "Déjennos que nos vamos a arreglar como podamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros somos un pueblo unido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros somos un pueblo trabajador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo ahora estoy jodida pero me pondré bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me pondré bien y con mi mano derecha trabajaré.",
+      "entidades_detectadas": [
+        "trabajaré"
+      ]
+    },
+    {
+      "frase": "Y lo haré también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Déjennos.",
+      "entidades_detectadas": [
+        "Déjennos"
+      ]
+    },
+    {
+      "frase": "Váyanse.",
+      "entidades_detectadas": [
+        "Váyanse"
+      ]
+    },
+    {
+      "frase": "Váyanse.",
+      "entidades_detectadas": [
+        "Váyanse"
+      ]
+    },
+    {
+      "frase": "Nos tienen sin corriente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hijos de puta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comunismo.",
+      "entidades_detectadas": [
+        "Comunismo"
+      ]
+    },
+    {
+      "frase": "Abajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abajo la dictadura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abajo todos los",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Escuchala",
+    "Rosatti",
+    "Gisela Bernal",
+    "mirá",
+    "Dólar",
+    "encontré",
+    "Víctor Hugo Morales",
+    "K. Dice",
+    "Un Alberto",
+    "Qué",
+    "Viajo",
+    "Abajo",
+    "Silvina Batakis",
+    "Hernán Lacunza",
+    "Además",
+    "Mirtha",
+    "Constitución",
+    "Madbudú",
+    "Mamita",
+    "Grabois",
+    "Abigail",
+    "Váyanse",
+    "Alberto",
+    "CGT",
+    "Estados Unidos",
+    "Perú",
+    "Vaticano",
+    "Encontré",
+    "Lacunza",
+    "Paso",
+    "Viscotti",
+    "Ponemos",
+    "ministro de Economía",
+    "provincia de Buenos Aires",
+    "Dicen",
+    "la Cámpora",
+    "Corte Suprema",
+    "¿Cuánto",
+    "Hugo Moyano",
+    "Tan",
+    "Corea del Norte",
+    "Castro",
+    "Aníbal Fernández",
+    "Pedías",
+    "¿Vamos",
+    "Así",
+    "Juan",
+    "Batakis",
+    "Mar del Plata",
+    "Instituto Patria e Impunidad",
+    "Alberto Fernández",
+    "Vamos",
+    "Venimos",
+    "Default",
+    "Mendoza",
+    "Rosencratz",
+    "Miralo",
+    "Mostrándote",
+    "Descuentos",
+    "Hugo Morales",
+    "Anina Gleser",
+    "jamás",
+    "Cristina Fernández de Kirchner",
+    "Evo Morales",
+    "Argentina?",
+    "Juan Grabois",
+    "Comisión de Acuerdo",
+    "Vos",
+    "Zafata",
+    "Cansado",
+    "Asilo",
+    "Argentina",
+    "Agarrá",
+    "Ayer",
+    "Es Alberto",
+    "Impune",
+    "Los Ángeles",
+    "Argentinos",
+    "Cristina",
+    "Ustedes",
+    "Lamentablemente",
+    "Impunidad",
+    "Ápero Macri",
+    "Francisco",
+    "¿",
+    "Todavía",
+    "Villaderne",
+    "Hiciste",
+    "Déjennos",
+    "Dios",
+    "Venezuela",
+    "Papa",
+    "UBA",
+    "Kicillof",
+    "Felipe Solá",
+    "¿A Biden?",
+    "¿Qué",
+    "Impunes.",
+    "Lula",
+    "llegó Hernán Lacunza",
+    "¿Cómo",
+    "Lozardo",
+    "Contame",
+    "¿Puedo más?",
+    "¿Estás",
+    "China",
+    "Imagínense",
+    "Horacio Daniel Rosatti",
+    "Amenazan",
+    "Budú",
+    "Acá",
+    "K",
+    "Cuanta",
+    "¿Cuál",
+    "UDI",
+    "¿A",
+    "El Perú",
+    "Corte Suprema de Justicia de la Nación",
+    "Alberto Faraday",
+    "Almorzan",
+    "Chau",
+    "Bolsonaro",
+    "Mátenme",
+    "López Murci",
+    "Sacar",
+    "Dejale",
+    "Escuela Científica de",
+    "¿Debería",
+    "Mauricio Macri",
+    "Brasil",
+    "Gabriela Cerruti",
+    "¿Vos qué pensás?",
+    "Me",
+    "Imaginate",
+    "Solange",
+    "Macri",
+    "Cuba",
+    "También",
+    "Clarín",
+    "Empezó",
+    "Fondo Monetario Internacional",
+    "Casa de Gobierno",
+    "Papa Francisco",
+    "Escuchen",
+    "¿Sabés",
+    "Hola",
+    "Roslo",
+    "Víctor Hugo",
+    "Catamarca",
+    "Impunes",
+    "Prohibió",
+    "Economía",
+    "Mirá",
+    "Está",
+    "José",
+    "ápero",
+    "Escuchá",
+    "¡Qué",
+    "Frente de Todos Contra Todos",
+    "Por Dios",
+    "ministro de Economía.",
+    "Instituto Patria",
+    "Al Fondo Monetario Internacional?",
+    "Van",
+    "Quiero",
+    "muy chiquito",
+    "Sube",
+    "Decía",
+    "Aníbal Fernández de Economía",
+    "Economía?",
+    "¿Entendés",
+    "Comunismo",
+    "Bueno",
+    "Axel Kicillof",
+    "Axel",
+    "Mirtha Legrand",
+    "la Argentina",
+    "Resultan",
+    "Batakis?",
+    "Reúne",
+    "Sí"
+  ]
+}

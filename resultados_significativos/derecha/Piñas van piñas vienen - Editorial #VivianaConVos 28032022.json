@@ -1,0 +1,501 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 81
+    },
+    "score_promedio": 0.756,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Ahí vemos a **Cristina Fernández de Kirchner**, que deja a su gente en las principales cajas del país con su plata, que es la nuestra, y lanza una candidatura nueva para reemplazar a **Alberto Fernández**.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no opina públicamente sobre lo que piensa del Fondo Monetario Internacional y manda a **La Cámpora** a rodearle la manzana al presidente Alberto Fernández.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina sabe que los votos son suyos y lo dejó clarísimo su vocera **Fernanda Vallejos**.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que todos esperábamos que el \"enfermo\" de Alberto Fernández, el \"ocupa\" de Alberto Fernández, el lunes a las ocho de la mañana estuviera haciendo una conferencia de prensa en un escritorio con todas las renuncias sobre la mesa, diciéndole a la Argentina que no había escuchado el mensaje de las urnas, como dijo hipócritamente el domingo, porque obviamente se ve que además el ciego es sordo, porque jamás ha escuchado nada y tampoco aprendió nada de **Néstor** ni de nadie.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si le sacás la cara a Vallejos, era como Cristina Fernández de Kirchner hablando del mequetrefe ocupa de presidente.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única que mide en el kirchnerismo es Cristina Fernández de Kirchner.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente sabe que no tiene votos.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El silencio de Cristina tiene peso político.",
+      "score": 0.397,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y su pensamiento lo hace conocer la claque de Cristina Fernández de Kirchner.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Will Smith** le metió una piña en vivo a **Chris Rock** por bardear a su esposa en los Oscar.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto a **Luis Ventura** nunca le pasó.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no puede decir semejante barbaridad.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no puede decir semejante barbaridad.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted tiene que arrepentirse de lo que dijo.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted se tiene que arrepentir porque yo no hice nada de eso.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No tengo la menor duda de que Will Smith estuvo mirando este programa, este recuerdo increíble.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, yo me acuerdo de la ñapi que le metió a **Carlos Kunkel**, a **Carlos Kunkel**, cómo olvidarla.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, tiene la música de los Martín Fierro, la necesito porque realmente no sé cuál es la mejor trompada, si la de Will Smith, Chris Rock, la de Mauro Viale, para mí, para mí, Will Smith, sorry, sorry, sorry Los Ángeles, para mí la de Carlos Kunkel es la cosa.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí lo vemos a Alberto Fernández, se encontraron unos memes ayer a la madrugada, ganador del Oscar al mejor actor secundario, Alberto Fernández.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto, es triste, es lamentable, pero el presidente se ha convertido.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya nadie le cree, tiene peor imagen que **Fernando de la Rúa**.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora el presidente y la primera dama quieren garpar un palo, un millón de pesos para zafar del **Olivos Gate**.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Esto es lo que cuesta que el presidente Alberto Fernández haya violado su propio DNU un millón de pesos con la nuestra?",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al presidente se le ocurrió que era un buen momento, medio vergüenza ajena, para comunicar su teoría con respecto a la inflación.",
+      "score": 0.739,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le cuento que la inflación no está en mi cabeza.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como se nota que usted y Fabiola no hacen las compras.",
+      "score": 0.613,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay otra frase del presidente que no tiene desperdicio.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un crimen que gracias a usted ahora es legal.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está tan perdido el presidente que cree que está **Satanás** en el supermercado remarcando los precios.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está al mando de la inflación ETA.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto maneja este bondi.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Venezuela hoy puede decir.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insólito, da vergüenza ajena, Maduro y el Nobel de Economía.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo que se lo dice Alberto y también se prende la nominación.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Total nuestro presidente tiene autocrítica cero.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En 2018 el gobierno de **Mauricio Macri**, ah, pero Macri y sus aliados de Juntos por el Cambio tomó la mayor deuda de la historia con el Fondo Monetario Internacional y la cargó en las espaldas de las argentinas y los argentinos.",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo el presidente con un país incendiado tiene tiempo para seguir escribiendo tweets absurdos, ridículos con el texto a Macri y el Fondo Monetario Internacional?",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Macri fracasó, por eso no fue reelecto.",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que es un impostor.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque vos, según Cristina en su carta, eras uno de los funcionarios que no funcionan.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy apareció la ciudad de Buenos Aires empapelada con carteles con esta foto de Cristina que dice Cristina asesina, 35.000 muertes, Cristina asesina, 35.000 muertes, elegiste los negocios con **Putin** en lugar de salvar vidas.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por su parte, el presidente se solidarizó con Cristina.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Unidad o Macri es el mensaje que baja el albertismo.",
+      "score": 0.779,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que aprovechó el golazo fue **Víctor Hugo Morales**, **Página 12**, dijo Macri es un bandido sin vergüenza, es el gran ladrón nacional, esto lo dice en Página 12 Víctor Hugo.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Víctor Hugo antes decías algo parecido, pero de Néstor Kirchner.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero que lo escuchen en varias partes cuando Víctor Hugo Morales era crítico, no de Mauricio Macri, de Néstor Kirchner.",
+      "score": 0.49,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el tema del campo ya resultó particularmente irritativo y siguen buscando la venganza con Cobos, a ellos, la venganza con Esqueret y a la que ahora por razones políticas le van a poner final.",
+      "score": 0.343,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y salió, no sé si Mariotto directamente o instruido especialmente, a buscar a quienes podía castigar de la gente que no le resultó simpática por lo que había dicho.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablaba Víctor Hugo Morales de los medios comprados por Néstor Kirchner y hablaba de la pauta oficial.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También habló Víctor Hugo Morales de la fortuna de en ese momento la pareja oficial.",
+      "score": 0.664,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un caso que ha sido denunciado y que nunca le mueve un pelo a la pareja presidencial.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y te da clase de moral que te dice que Macri es un chorro.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También contó cómo lo intimidaron, cómo llamó un día a Aníbal Fernández a su casa.",
+      "score": 0.421,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo, le he llamado a su casa a Aníbal Fernández, y cómo le ensucian las manos a los periodistas.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le ensucian las manos a los periodistas.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí un día me llamó Aníbal Fernández a mi casa, y qué grave, porque me está haciendo sentir que ellos te siguen todo y que saben todo lo que vos hacés, así que cuidado.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O cuando Kirchner, en esa actitud del grandote del barrio, que haga las copas a todos, que todos se ríen de sus chistes aunque sean horribles, que todos van a estar siempre a favor de él, le dijo a un periodista, un movilero, nuestro, su hacer, donde se dice, y todos se reían, no, no, no, pará, no te pongas nervioso.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si yo tuviese que definir la personalidad de Kirchner, no podría no incorporar este dato, que me merece ejercicios mucho más severos de lo que estoy diciendo, me contengo porque finalmente es el expresidente y uno no puede zafarse demasiado, pero la impresión que me provocó, la pobreza, esa claque infame de diputaduchos y pequeños nestos, seres tan desagradables, esos alcahuetes del poder, que se reían porque él estaba tomando el pelo, estaba poniendo en adiestros a un movilero, que además me había hecho una pregunta absolutamente pertinente.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de escuchar todo lo que Víctor Hugo Morales decía, Néstor Kirchner, el patotero, que tenía una claque, o sea, te convertiste en esa claque, Víctor Hugo.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le pueden creer los kirchneristas a un tipo como Víctor Hugo Morales, que decía todo lo que decía el kirchnerismo?",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que a Víctor Hugo, o a la gente como Víctor Hugo, le da lo mismo putear a Macri o a los kirchner.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Fuerte el aplauso para recibir acá del estudio al candidato presidente de la nación, el amigo Daniel Scioli, que carina a Raúl Iribes!",
+      "score": 0.419,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que le ponga a Macri 25.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese es el voto que querría un 41 de **Polino** que le ponga un 25 a Mauricio.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, él quería ser el presidente de la AFA.",
+      "score": 0.336,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él iba a la calle Viamonte y Scioli iba a ser presidente.",
+      "score": 0.371,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le da plata a la gente del fútbol, le da plata a la gente de la tele y no le importa.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Arrancó siendo en ese gobierno amigo de Alberto Fernández, ahí se volvió a acercar a la política, volvió a coquetear con la política sin escrúpulos.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de gente a la que le gusta más la guita que el dulce de leche, me contestó **Calu Rivero**.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen que uno se jacta de lo que le falta.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro que le hizo muchísimo daño a este país, al nuestro.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Calu Rivero le hizo un elentar a María Magdalena.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Carlotto apoya a Maduro, sabiendo que en Venezuela se violan los derechos humanos.",
+      "score": 0.507,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El cuerpo de La Rroque y dijo que el presidente tiene la lapicera, pero solo le queda el 4% de tinta y salió a contestarle **Aníbal Fernández**.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente sacó casi el 50% de los votos.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ministro, Aníbal Fernández, no aceptar que el presidente Alberto Fernández rifó su poder también es negligencia.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Rroque quiere seguir molestando a Alberto Fernández.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mejor pídale a Kicillof que se ocupe de la provincia de Buenos Aires, que es un quilombo.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mejor pídale a Kicillof que se ocupe de la provincia de Buenos Aires, que es un quilombo.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gerardo Morales juega fuerte en la interna de Cambiemos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le salió una competidora.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice Patricia que sos un tibio y que no le servís.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro que salió a pegarle a Alberto Fernández fue **Sergio Berni**.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente gobierna con el diario que le escriben cinco amigos.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer me tomé el trabajo de ver al presidente en la entrevista que estaba haciendo.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad, ¿quién vio bien al presidente ayer?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tantas dudas tiene Alberto Fernández que le preguntaron la fecha de nacimiento de su hijo.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, pero le quiero preguntar por el embarazo de Fabiola, de su esposa.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evita trabajar por la mujer y por nosotros.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo va a ser la pregunta más difícil, presidente, cuando le preguntan por su intimidad?",
+      "score": 0.612,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era la única pregunta que le hicieron donde usted podía lucirse, mostrar humanidad, amor por la familia, por su hijo.",
+      "score": 0.634,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no, recordemos que en el Olivos Gate juró por su hijo.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es cierto, será recordado como el presidente que legalizó el aborto.",
+      "score": 0.784,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mostrame a Cristina y a los senadores.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le ha dicho?",
+      "score": 0.458,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que no se le ha dicho nada.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mostrame a Cristina y a los senadores.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 97
+  },
+  "etiqueta_original": "neutral"
+}

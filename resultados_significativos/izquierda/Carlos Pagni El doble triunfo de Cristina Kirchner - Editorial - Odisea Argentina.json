@@ -1,0 +1,531 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 64,
+      "derecha": 39
+    },
+    "score_promedio": 0.372,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "A partir del año 2001 hubo una gran innovación en la política argentina, probablemente uno de los trazos más importantes y significativos que diseñan el juego político en la Argentina, y que tiene que ver con la emergencia, la aparición o la irrupción en el Estado nacional de un poder bonaerense, sobre todo del conurbano bonaerense, liderado por **Eduardo Duhalde**.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno tuviera que sintetizar políticamente qué significó el año 2001, significó que la provincia de Buenos Aires, que había sido encuadrada dentro de la nación, subordinada a la fuerza nacional por más de un siglo, tomó el poder con Duhalde, tomó el poder del Estado nacional.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y una región, además, que se va degradando por un problema económico que trae la Argentina desde hace más de 40 años: no encontrar un modelo de crecimiento y desarrollo sustentable a largo plazo.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los Kirchner aprendieron esa lección.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kirchner primero la aprendió defensivamente.",
+      "score": 0.749,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Cristina gobierna desde esa base territorial y sociológica: los pobres del conurbano bonaerense.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este pasaje de una protesta sindical de policías piqueteros a una manifestación política que termina en la quinta de Olivos generó una cantidad de sospechas muy importantes, muy inquietantes, en **Cristina Kirchner** y su entorno.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La interpretación que hace Cristina Kirchner y su entorno de este fenómeno es la correcta.",
+      "score": 0.633,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una tendencia en la política en general, en el kirchnerismo ni que hablar, en la Argentina, en la política argentina: es una propensión muy argentina —desde otros países se asombran de esa forma de pensar de nosotros— que consiste en pensar que quien se beneficia de una convulsión o de un problema político es el que lo ocasionó.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algo de eso hay en la forma en que se están implantando dudas en la cabeza de Cristina Kirchner y de su entorno.",
+      "score": 0.651,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podría decir sí.",
+      "score": 0.494,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, en el kirchnerismo más duro, el de Cristina y su entorno, empiezan a hacerse la pregunta.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El aparato clásico del conurbano bonaerense, el de Cristina y su entorno, ese entramado de, podríamos decir, oligarquías locales que culmina cada una en un caudillejo que es el intendente, está sometido a tres amenazas.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese es el experimento de Cristina Kirchner, que pone en la provincia de Buenos Aires a alguien que depende exclusivamente de ella.",
+      "score": 0.737,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof no tiene otro vínculo político de dependencia ni con **La Cámpora** ni con Alberto Fernández; es Cristina.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, acá tenemos una primera amenaza implantada por Cristina y que es Kicillof.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, todos los que aspiran a hacer una carrera en la provincia de Buenos Aires ahora no tienen el problema de Kicillof —que es una amenaza para cualquiera que quiera hacer su carrera política en la provincia, empezando por **Maza**—, sino que tienen ahora el problema de Berni, que aparentemente se construye a sí mismo como un candidato.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese personaje, también puesto por Cristina ahí, es una amenaza para el establishment político del PJ bonaerense.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, curiosamente, nadie le pidió la renuncia a una declaración de los organismos de derechos humanos llamándolo al recato.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de que el presidente de la justicia de Buenos Aires, Mauricio Macri, un poco corrigió, solo mantuvo su pelea con **Horacio Verbitsky**.",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, en este caso, un desembarco sobre la estructura de la provincia de Buenos Aires, que esa estructura ve como agresivo, se le suma un detalle importantísimo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el año 2016, cuando **Massa** estaba en contra del kirchnerismo, Massa pactó con **María Eugenia Vidal** una ley que se aprobó en aquel momento, poniendo restricciones a los intendentes para poder resultar reelectos.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que estamos hablando no solamente de que la base electoral de Cristina es el Conurbano, y eso condiciona absolutamente todo su proyecto, como sucede con cualquier grupo político —la estrategia, la visión del futuro, la visión del país, etc., está determinada por su territorio y por su base social—, sino que, además, introduce en ese territorio, de por sí convulsivo, una fenomenal disputa de poder.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, la pregunta que se hace el entorno de Cristina Kirchner y, posiblemente, la propia Cristina, es: \"¿esta rebelión policial está totalmente desacoplada de este fenómeno político?\".",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando iban a pedirle a Kicillof —y Kicillof no los atendió— a los intendentes, cuando se enteró de qué es lo que le venía a la cabeza a Berni, ¿es que están molestos con la política de seguridad o están molestos con mi liderazgo?",
+      "score": 0.462,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primera pregunta de Cristina Kirchner.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Dónde está Alberto en este juego?",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuál es la vinculación de Alberto con esos intendentes que ven amenazado su poder?",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Habrá algún intendente de ese grupo que le ofrece a él una base de poder alternativa a la que le ofrece a la gente?",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Hay una disputa ficticia, imaginaria, entre Cristina Kirchner y Alberto Fernández?",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros podemos pensar que los intendentes del conurbano y la estructura tradicional del conurbano se beneficiaron con el desgaste de figuras implantadas por Cristina desde afuera, con estos paracaidistas que son Kicillof y Berni.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Onoszes sim acknowledge que hay una argumentación de que los commandes pequenos один breakup, de la vez que un prefecto que dependía de Berni le entró en la casa a robar.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y las consecuencias a corto plazo se resumen en dos victorias de Cristina Kirchner.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La primera tiene que ver con la ruptura, probablemente provisoria, por mil motivos, entre **Horacio Rodríguez Larreta** y Alberto Fernández.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández decidió producir un enorme conflicto con Rodríguez Larreta por los recursos de la capital federal que Macri le había asignado a Larreta.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo una charla el día en que el presidente hace el anuncio, una charla a la que asistieron —porque estaban ocasionalmente con Larreta— tres personas; uno de ellos, el diputado **Álvaro González**, con **Wado de Pedro**.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "15 minutos antes de que Alberto Fernández anuncie lo que iba a hacer con los recursos de coparticipación de la ciudad de Buenos Aires, Wado de Pedro se comunicó con Horacio Rodríguez Larreta y le dijo: “Volvemos al tema de la coparticipación”.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Ah, volvemos”, le dice Larreta.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“No, no, no, va a haber un anuncio del presidente ahora en diez minutos”.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“¿Cómo en diez minutos?”, le dice Larreta.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“¿Vos me estás diciendo que al tipo que más colaboró con ustedes, que más cooperativo estuvo en esta tragedia de la cuarentena y la pandemia, ustedes le anuncian que le van a quitar recursos sin una conversación?”.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Bueno, es que esto lo veníamos hablando”, le dice De Pedro.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Mira lo que yo entiendo”, Wado le dice a Larreta, “es que ustedes han decidido romper políticamente conmigo y, en lo personal, no encuentro otra palabra que ‘traición’”.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De Pedro quedó balbuceando, obviamente, por una conversación bastante difícil de sostener, y le dijo: “Mira, yo me limito a comunicarte lo que va a pasar”.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“No, no, no, yo ya lo entiendo”, le dice Larreta, “el poder ejecutivo es unipersonal y el que lo ejerce, el que tomó esta decisión, es el presidente”.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, diez minutos antes de la conferencia de prensa y del anuncio de Alberto Fernández.",
+      "score": 0.527,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un minuto antes, Fernández le mandó un WhatsApp, un mensaje por WhatsApp a Larreta diciendo: “Quédate tranquilo, lo vamos a arreglar” y después hizo el anuncio.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, una destrucción suicida de credibilidad por parte de Alberto Fernández.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un problema que tiene Fernández con Fernández.",
+      "score": 0.353,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo problema es el siguiente: nos está gobernando una coalición, una coalición de peronistas, pero el peronismo tiene tantas diferencias internas que el mismo partido compone en sí mismo una coalición gobernada por Cristina Kirchner con dos o tres elementos más.",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno es Fernández y lo que él representa, un peronismo porteño urbano, digamos; Massa, que expresa a los sectores medios y medios-bajos del conurbano bonaerense, y con una intervención o una participación muy, muy minoritaria, casi despreciable, los gobernadores.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Dónde está el capital de Fernández en esta sociedad y, en todo caso, el capital de Massa?",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el papel de Massa y el papel de Fernández era —y por eso fueron convocados— comunicar a Cristina que tiene una base muy sólida, una especie de fortaleza donde no sale nadie, pero tampoco entra nadie, comunicar a esa fortaleza con lo que hay del otro lado del muro.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa era el papel de Massa y ese era el papel de Fernández.",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reta, que expresa en la política argentina el puente más importante que tenía montado Fernández con la oposición, aquello que alimenta su lugar en la coalición.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su capital político frente a Cristina es poder tener esa interlocución que Cristina, diciéndolo con la frase de Alfonsín, o no sabe, o no puede, o no quiere tener.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que el factor Fernández en el polinomio frente de todo se va achicando cada día más en beneficio de Cristina.",
+      "score": 0.789,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay otra dimensión del mismo fenómeno, que es el beneficio que le produjo a la reta.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Fernández lo puso en la escena y le dijo: “A ver cómo te manejás en un conflicto”, y se manejó impecablemente.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos argumentos con los que Fernández pretende legitimarse a sí mismo, inclusive frente a Cristina —“que yo vengo a romper una contradicción que hay en la sociedad argentina que no nos conduce a ningún lado, vengo a escuchar al otro, vengo”, como dijo cuando abrió las sesiones del Congreso, el primer párrafo del discurso, “es: vengo a restaurar el valor de la palabra”—.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo eso lo pronunció la reta, es decir, lo enfrenta a Fernández con los valores supuestamente de Fernández y lo nacionaliza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la primera vez que lo vemos a la reta, no como un —voy a usar deliberadamente la palabra— intendente, sino como un líder que trasciende su distrito, por eso le está hablando de argentinos que viven en Buenos Aires, no de porteños.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo, hay un segundo beneficiario, que es Macri, porque lo que le está diciendo Fernández a Juntos por el Cambio es: “Ni se gasten en hacer el esfuerzo de venir a pactar conmigo, porque les va a pasar como a la reta”.",
+      "score": 0.801,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene razón Macri, y la nota que escribió ayer en el diario *La Nación*, esto es intolerable, con esto solo puede haber ruptura, porque esto va hacia un proceso autoritario, esa es la tesis Macri frente a su propia interna.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la reta, mejor dicho, Fernández, en el trato que le diera la reta, en el fondo, suscribe lo de Macri.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Síntesis: si Fernández tenía alguna fantasía de establecer un diálogo con la oposición, en el que ya había empezado, hablando con **Cornejo**, hablando con la reta, hablando con **Nociglia**, hablando con **Lushtó**, de tender un puente hacia el otro lado, y en ese puente ganar alguna autonomía, él frente a su fuerza política, él mismo dinamitó esa posibilidad, y, en todo caso, la tendrá que reconstruir con mucha dificultad.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora hay un segundo aspecto donde gana Cristina, que no es solamente aislar a Fernández, o que Fernández se aísle solo, es en lo fiscal.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese dirigente que ella implantó en la provincia de Buenos Aires, a quien Fernández ya le había pasado, en la última ampliación presupuestaria, 64 mil millones de pesos, que fueron asignados, a ver, estamos hablando de cómo Macri le pasaba plata a la reta; bueno, a Fernández le pasa a Kicillof 64 mil millones de pesos y ahora 35 mil más.",
+      "score": 0.392,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando, prácticamente, de 100 mil millones de pesos del Estado nacional a la provincia de Buenos Aires.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los intendentes están mirando a ver hacia quién apunta Kicillof con ese cañón y hacia dónde apunta La Cámpora con ese cañón.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Será para repartir la plata o será para enfrentarlos a ellos en ese proceso de renovación o de instalación o de avasallamiento que lleva adelante Cristina sobre el conurbano?",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof no es Yoli, Kicillof no es Solá.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Kicillof no lo hacen ir de rodillas a la Casa Rosada todos los fines de mes a pedir lo que falta para poder pagar los sueldos y, principalmente, a fin de año, para el...",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Kicillof le dan la plata a él.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En todo caso, será Fernández el que alguna vez le tendrá que pedir a Kicillof.",
+      "score": 0.649,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un cambio en el juego de poder muy importante porque es una señal definitiva de que Cristina cree haberse apropiado del poder en la provincia de Buenos Aires poniendo un gobernador que es ella.",
+      "score": 0.499,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante el decreto porque, si uno mira con lupa los considerandos del decreto, dicen más de lo que parece, porque lo que están diciendo es: “Te quito esto, pero cuidado, porque te puedo quitar todo”, es decir, puedo iniciar una revisión de todo lo que te pasó Macri desde el 2016 en adelante y, si me ponés muy nervioso la reta...",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso, por supuesto, el decreto no lo dice en esos términos, es el discurso político que hay detrás del decreto; podría revisar, inclusive, la transferencia de funciones que está en la ley Cafiero.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Antonio Cafiero** —del Senado— generó la ley que producía el traspaso de la policía y la justicia a la ciudad de Buenos Aires y, en el año 2001 —escuchen esto, que es interesante—, Alberto Fernández, **Eduardo Valdez** y **Julio Vitobello** firmaron en la legislatura porteña una declaración diciendo: “Nos negamos a que se han trasladado los recursos a trasladados los servicios y no se trasladen también los recursos”, en una defensa de los recursos de la ciudad de Buenos Aires.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández firmaba esa declaración.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces tenemos un debate legal sobre estos recursos que le son repuestos a la provincia de Buenos Aires.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández, que tiene una relación bastante problemática con el relato histórico, dice: “Fue don **Raúl Alfonsín** quien le quitó a la provincia de Buenos Aires aquellos recursos”.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El otro día, **Jorge Yoma**, que fue parte de la discusión porque era ministro de Gobierno de La Rioja, se encargó de escribirlo en una columna en *El Cronista*: el que le restó esos recursos a la provincia de Buenos Aires se llama Antonio Cafiero.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el abuelo del actual jefe de gabinete, candidato de todo el peronismo, de todos los gobernadores peronistas, resignó recursos de la provincia de Buenos Aires para dárselo a sus aliados en contra de Menem en el año 88, pensando: “Gano la presidencia y retomo para Buenos Aires esos recursos”.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tanto que le quitó recursos a Buenos Aires que fue una forma de conquistar la adhesión de los caudillos del peronismo en la interna y, a La Rioja después, a La Rioja esos recursos se los pusieron con aportes del tesoro nacional.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la historia de esta disputa territorial, pero como vemos, se repartían la comunicación para una estrategia electoral en una interna, digamos, no hay nada nuevo en todo esto en cuanto a la arbitrariedad en el manejo de los fondos del Estado argentino, sobre todo los fondos federales.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, detrás de esto, vuelve el diseño territorial, porque ¿qué es lo que hace Alberto Fernández?",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesito recursos para la provincia de Buenos Aires y le aplica un impuesto a los porteños; por supuesto, no es un impuesto, pero le quito recursos y después la reta pone el impuesto para compensar los recursos.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los recursos que le quita y esto está en el corazón del problema económico y, en la Argentina, esto se inauguró con Kirchner y ahora se va a acelerar y profundizar.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El kirchnerismo, fiscalmente, lo podríamos reducir a una maquinaria política que le quita recursos a los sectores más dinámicos de la economía, le quita recursos a los sectores que crean riqueza, no necesito ir a las 125 y el año 2008 para volcarlos en forma de subsidios en la provincia de Buenos Aires, no solo de subsidios a los pobres, de subsidios a una cantidad de empresarios que viven de los impuestos del Estado o viven de la protección del Estado y a los cuales el kirchnerismo les asignó un monopolio en su mercado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Difícilmente, y el presidente lo sabe.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La semana pasada, debajo del ruido de la policía, ocurrió un hecho que es un hecho de esos que pueden quedar en la historia para recordar una época por su simbología.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández fue a Almirante Brown a festejar la inauguración de una fábrica de motocicletas cuya inversión había sido cinco millones de dólares.",
+      "score": 0.788,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el presidente de la Nación se traslada a festejar una inversión de cinco millones de dólares, y aún así, resulta una inversión rara, porque cuando todo el mundo está con la expectativa de una devaluación que se ve en la brecha cambiaria, es raro que alguien haya puesto los cinco millones de dólares con esta paridad cambiaria, no espera la devaluación.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cinco millones de dólares, moneda, quiere decir que Alberto Fernández tiene clarísimo que el motor no es la actividad privada, que el motor no va a hacer la inversión privada, por lo tanto, más controles, porque dólares no van a venir y más fantasías estatales.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No digo que lo vayan a hacer, pero hay en el corazón del kirchnerismo la fantasía de inventar una empresa telefónica estatal de telefonía celular aprovechando las redes que van a ser servicio público, por lo tanto, se le puede exigir que presten esas redes para una telefonía celular que se llamaría, se llamaría, si la hacen, *Puma*, digamos.",
+      "score": 0.458,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este modelo, el paraíso de llegada es volver a Tel, en este contexto, vamos a una negociación con el Fondo Monetario Internacional, que es una negociación con los EEUU, sencillo como eso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, se podrá disfrazar de Georgieva, el directorio, lo que opina Merkel, la negociación con el Fondo es una negociación con EEUU.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a hablar con **Diego Velar** de esto, no, suponiendo que Biden va a ser menos hostil de lo que puede ser Trump, porque a Trump le hemos declarado la guerra dónde, en el BID.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump ha avanzado sobre el BID, que es una institución clásicamente dirigida por latinoamericanos, decidió tomar el BID, sobre todo, en su conflicto con China, pensando que en la pospandemia va a haber un avance enorme de los chinos sobre Sudamérica o sobre Latinoamérica y pone a su hombre para Latinoamérica, que se llama **Mauricio Claver-Carone**, al frente del BID.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un solo disidente armando la disidencia, Alberto Fernández, para ponerlo a **Gustavo Béliz** en una operación bastante incomprensible, porque no está muy claro quién iba a votar a Béliz.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Brasil estamos peleados, Uruguay estamos peleados, Chile estamos peleados, con Colombia estamos peleados, Ecuador estamos.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me quejo de que entremos en un conflicto con EEUU, a lo mejor el gobierno entiende que ese es el camino, lo que no entiendo es cómo se compatibiliza eso y la negociación con el Fondo y esto va a ser la próxima disputa dentro del oficialismo, seguramente, porque, como aquel *remes* de Duhalde, Guzmán va a venir en algún momento, si es que pretende negociar en serio con el Fondo, con las condiciones de esa negociación y en las condiciones va a haber seguramente cuestiones fiscales difíciles de asimilar por Cristina y, en las condiciones, va a haber, además, dos cosas: gane Biden o gane Trump, Venezuela y China, que son dos temas complejos para el gobierno.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 103
+  },
+  "etiqueta_original": "neutral"
+}

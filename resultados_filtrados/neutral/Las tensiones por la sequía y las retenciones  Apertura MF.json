@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Bueno, por suerte tenemos un presidente muy, ¿cómo decirlo?, muy atento a la realidad de lo que está sucediendo y está preocupado, por ejemplo, porque los docentes dicen que van a tener que pagar ganancias.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Ustedes escuchaban **mañana campestres de arcoíris**, porque hubo acuerdos después de las reuniones con el ministro de Economía, Sergio Massa.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Desde principio de año, lamentablemente, se están esperando lluvias que no llegan y eso, por supuesto, se traduce directamente en una menor cosecha y, por tanto, en un menor ingreso de divisas por exportación, sobre todo de soja y, sobre todo, de trigo también, que es de todos los cultivos el que hasta ahora ha estado más dañado y más golpeado por la falta de lluvias.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

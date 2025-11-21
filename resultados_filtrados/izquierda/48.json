@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Nada, simplemente expresé mi opinión, para decirle a él —que es un amigo y comparte nuestras ideas— que ojalá tengamos la suerte de tener un presidente como la gente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Bueno, nos encontramos y me dice: \"Estela, tanto tiempo sin vernos, ¿por qué no vienen a Córdoba a visitarnos?\".",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Las Abuelas de Plaza de Mayo hemos estado con el gobernador, con toda la gente joven que está trabajando acá en Córdoba.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

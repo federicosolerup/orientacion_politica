@@ -1,0 +1,55 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El desesperado viaje del presidente argentino a Estados Unidos para intentar obtener ayuda económica del presidente estadounidense resulta llamativo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Independientemente de la cantidad de dólares que ingresen al país, el Fondo Monetario Internacional (FMI) exige una devaluación previa como condición para otorgar préstamos.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "El FMI estima que un tipo de cambio entre 1500 y 1600 pesos por dólar sería adecuado para el funcionamiento de la economía y la acumulación de reservas.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "La Sociedad Rural Argentina solicita una devaluación a 1800 pesos, mientras que algunos inversores en el sector petrolero y de gas natural licuado (GNL) exigen 2000 pesos por dólar.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Sin embargo, las recientes medidas económicas de Donald Trump podrían alterar significativamente el panorama.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "Trump impuso aranceles a diversos países: un 34% a China, un 32% a Taiwán, un 24% a Japón, un 26% a India, un 20% a Europa y un 10% a países de la región como Argentina, Brasil, Chile y Colombia.",
+      "entidades_detectadas": [
+        "chile",
+        "europa",
+        "trump"
+      ]
+    },
+    {
+      "frase": "La situación económica de Argentina se agrava por la creciente incertidumbre.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El viaje del Presidente a Estados Unidos para reunirse con Trump, un encuentro que no está confirmado, pone de manifiesto esta estrategia.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

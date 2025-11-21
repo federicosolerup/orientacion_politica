@@ -1,0 +1,146 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 11
+    },
+    "score_promedio": 0.402,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esta cuestión, que de alguna manera refleja lo que la CGT en este momento debe estar sintiendo, es la contradicción ontológica, en este caso, entre ser o no ser oficialista.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De las declaraciones de ayer, tanto en la marcha como luego en la conferencia de prensa de distintos representantes, tanto de la CGT como de la CTA, surge esta contradicción, que de alguna manera Shakespeare plantea siempre los problemas universales de los seres humanos.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gertrudis, que sería la reina de Dinamarca, la viuda, la madre de Hamlet, que muere accidentalmente al beber de una copa ofrecida realmente por Claudio, sería el partido peronista y desde la CGT siente que ella fue tomada por lo que podría ser un usurpador.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese usurpador, siguiendo en el terreno casi del humor, podría ser Claudio, el actual rey de Dinamarca, el tío de Hamlet, quien para usurpar el trono asesina al rey vertiendo veneno en su oreja mientras dormía y se casa con su cuñada Gertrudis: ese sería el Frente Renovador y sería Sergio Massa.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El rey Hamlet, el padre que murió, el príncipe Hamlet, que muere asesinado en manos de su hermano Claudio, podría ser, en este sentido, y que aparece en la obra como espíritu hablando desde el más allá, sería el fundador del partido peronista, o sea, el general Perón.",
+      "score": 0.534,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siguiendo la línea de interpretación totalmente peripatética y simplemente como modo de chanza, pero para ver que la contradicción es inherente al ser humano, está Polonio, que es el chambelán del reino, padre de Laertes y de Ofelia, que muere asesinado por Hamlet cuando, oculto detrás de una cortina, este lo confunde con Claudio; ese podría ser el presidente Alberto Fernández.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro personaje que podríamos asociar aquí, que es Laertes, el hijo de Polonio, hermano de Ofelia, que muere también en un enfrentamiento cuando Hamlet le quita la espada y lo hiere sin saber que la espada estaba envenenada, podría ser Martín Guzmán.",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y finalmente, Ofelia, la hija de Polonio y la hermana de Laertes, que tuvo una relación amorosa con Hamlet y enloqueció, es Cristina Fernández, esto para tomárnoslo un poco sin broma y alegrarnos esta mañana de jueves 18 de agosto y pasar a escuchar los distintos audios de cada uno de los integrantes de la marcha de ayer con sus grandes contradicciones de no saber hacia dónde ir.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El culpable son los formadores de precios, el culpable es el gobierno, ¿quién es el culpable de este crimen, que podría ser el crimen al pueblo argentino que ha empeorado su calidad de vida?",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a escuchar la versión de Pablo Micheli: \"Los formadores de precios están haciendo una sangría contra el pueblo argentino.\" \"En unidad de acción se está recuperando la calle con dos mensajes claros: un mensaje hacia los especuladores, a todos los formadores de precios que están haciendo la sangría con los alimentos de Argentina contra el pueblo argentino.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a escuchar la versión de Pablo Moyano: \"Poné lo que hay que poner, que los trabajadores te van a bancar\".",
+      "score": 0.672,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Queremos decirle al presidente Alberto: poné lo que tenés que poner, sentá los fijos, aplicá las multas, aplicá lo que tengas que hacer, que los trabajadores te van a bancar.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podemos con el feo que tenemos en la liberalización, donde todos los días seguimos perdiendo parte del salario, reposando en los especuladores, y decirle al presidente Alberto, sacá los bonos, la asignación suma fija para los trabajadores que no llegan a la CTV.",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vamos a volver a escuchar nuevamente a Pablo Moyano, que ahí dice: \"Hay que estatizar las balanzas portuarias\".",
+      "score": 0.667,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos este audio de Pablo Moyano a la tarde: \"Una medida que podría tomar el gobierno, que se ha transmitido varias veces, acá están los compañeros rurales, el sindicato camionero que transporta los granos.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y las balanzas que cuando entran los camiones a los puertos de Rosario o cualquier puerto del país, son de las cerealeras.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llevan los minerales por Chile y te los procesan en destino.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y sigue Pablo Moyano en su conferencia de prensa: \"Si le siguen sacando el plato de comida a la gente, vamos a seguir movilizando.",
+      "score": 0.375,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Denunciar a los remarcadores de precios, que día a día remarcan y se burlan, como fue en Aérea, el empresario riéndose que remarcaba todos los días los precios, lo que le quita un plato de comida a millones de argentinos.",
+      "score": 0.256,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta aquí el gran protagonista, evidentemente, Pablo Moyano, más allá de su portación de apellidos, hay algo de liderazgo de camioneros que trasciende a los demás representantes del movimiento.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero de cualquier forma tenemos dos más: Roberto Baradel y luego vamos a tener a Héctor Daer, formalmente de la misma jerarquía que Pablo Moyano.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, Daer no habla como un sindicalista, habla como una persona, como un profesor universitario, como podría ser un ejecutivo en una empresa, mientras que Pablo Moyano, igual que su padre, que a veces se come las \"eses\" o que por momentos tiene errores en las palabras, invierte el orden de las sílabas o le cambia alguna consonante, habla más popularmente.",
+      "score": 0.195,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En síntesis, *The Tragedy of Hamlet, Prince of Denmark*, o simplemente *Hamlet*, y aquel famoso soliloquio de \"ser o no ser, esa es la cuestión\", es en el fondo el problema que sufre hoy el peronismo, el *quismerismo*: ser con Massa, no ser con Massa, ser con Alberto Fernández, no ser con Alberto Fernández, el famoso problema ontológico de la existencia.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí, ayer, el camionero, como decíamos, Pablo Moyano, protagonista de *Primos Interpares* de la marcha de ayer, por la importancia que tienen los camioneros en la vida económica argentina.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Brasil, también los camioneros tienen una enorme importancia, de hecho, la telenovela más exitosa de la historia de Brasil se llamaba *Carga Pesada*, que era la historia de un camionero.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que vamos a pasar sin escalas de la tragedia del príncipe de Dinamarca a los camioneros brasileños, y vamos a cerrar esta apertura también tratando de ponerle un poco de humor con la canción cantada por Roberto Carlos sobre los camioneros, y así damos comienzo a este día de la CGT como *Hamlet* II.",
+      "score": 0.475,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 26
+  },
+  "etiqueta_original": "neutral"
+}

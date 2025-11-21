@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La inflación en Argentina es un dato central, parte de nuestra vida cotidiana.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El INDEC realiza una encuesta sobre el gasto de los argentinos.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Situaciones similares ocurren hoy; el INDEC incluye un auto 0 km, por ejemplo, algo que muy pocos compran.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "La precariedad laboral en Argentina es alta.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "De hecho, el director del INDEC ha solicitado al gobierno una nueva encuesta, probablemente consciente de la discrepancia.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    }
+  ]
+}

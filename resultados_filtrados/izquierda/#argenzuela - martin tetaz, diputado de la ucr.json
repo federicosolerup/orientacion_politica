@@ -1,0 +1,91 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Bueno, no sé si es que perdieron la compostura, pero me dio la impresión de que el presidente y sus ministros se mostraron muy beligerantes con los otros poderes del Estado.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Pero cuando el Congreso es tan contundente y tiene una mayoría como la que tuvimos para aprobar esta ley (dos tercios), el veto no tiene mucho sentido.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "La Constitución es clara: si el presidente veta y el Congreso insiste con dos tercios, la ley queda vigente y el Congreso prevalece.",
+      "entidades_detectadas": [
+        "constitución",
+        "presidente",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "El argumento de vetar como vetó Cristina Fernández de Kirchner, además de ser políticamente torpe por su asociación con ella, carece de sentido porque el presidente no cuenta ni siquiera con un tercio del Congreso.",
+      "entidades_detectadas": [
+        "cristina",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "No veo hoy ningún comportamiento del presidente que merezca un juicio político.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El argumento era que, al tener el presidente menos de un tercio del Congreso y estar siempre a tiro de un juicio político, si abusara de sus facultades, el Congreso podría iniciar un juicio político.",
+      "entidades_detectadas": [
+        "presidente",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Pero eso no está en la agenda del Congreso hoy.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Buenos días, Andrés Lerno.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "No sé si pudiste leer o escuchar, pero el presidente ha estado dando a entender que la caída de los activos argentinos en los mercados (bonos y acciones) es culpa del Congreso y de la oposición.",
+      "entidades_detectadas": [
+        "presidente",
+        "congreso",
+        "estado"
+      ]
+    },
+    {
+      "frase": "¿Por qué antes de que votara el Congreso estaba en 1500?",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Todo esto no tiene nada que ver con el Congreso, que ha sido muy constructivo para un presidente con solo 37 diputados y 7 senadores.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Para cerrar, hablemos de Milei, quien se autodefine como un topo que llegó al Estado para destruirlo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El intento del presidente de conseguir estabilidad para Argentina, ese pacto de estabilidad que logró América Latina (Chile, Colombia, Perú, Brasil), es algo que vamos a acompañar.",
+      "entidades_detectadas": [
+        "américa",
+        "presidente"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Bueno, había civilización en América desde por lo menos 10.000 años antes.",
+      "entidades_detectadas": [
+        "américa"
+      ]
+    },
+    {
+      "frase": "En este estado está la cuestión y como las cámaras del Congreso están también formadas por ganaderos, veremos mañana la canción de siempre, al pachá de la guitarra, a la sombra del ombú de la pampa y a la puerta del rancho de paja.",
+      "entidades_detectadas": [
+        "congreso",
+        "estado"
+      ]
+    },
+    {
+      "frase": "El modelo que hoy se quiere volver a, dice Milei que se quiere volver a 1910.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Yo me siento menos libre, pero ¿qué podría ser, qué expresa en la idiosincrasia argentina la palabra libertad?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

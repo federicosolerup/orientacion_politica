@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Tenemos en línea al productor rural y presidente de la Federación Agraria Argentina, filial Laguna Nueve, Esperanza y Loayza.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Cuando hay sobreproducción, se suma el ingreso masivo de fruta extranjera a Argentina, prácticamente legalizado por el gobierno del presidente Alberto Fernández, que se venía dando sin regulación ni control.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "En septiembre, el día 1, estuvimos en la Secretaría de Agricultura de la Nación planteando la crisis de la producción de mango, y hasta hoy no hemos recibido respuesta del Gobierno Nacional.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Insistimos en que el Estado debe mirar al interior del país y saber que existen pequeños agricultores que somos la garantía de la ruralidad.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

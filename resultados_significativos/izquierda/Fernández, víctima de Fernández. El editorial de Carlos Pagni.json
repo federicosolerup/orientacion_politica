@@ -1,0 +1,356 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 36,
+      "derecha": 32
+    },
+    "score_promedio": 0.47,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, extrañamente es el presidente el que no nos deja abandonar el tema y pasar a otra cosa, porque va enredándose él mismo en distintas discusiones y ahora en una discusión insólita, una discusión penal, justamente la especialidad que él enseña en la Facultad de Derecho, acerca de si es punible o no lo que sucedió en Olivos.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, de nuevo tenemos al presidente diciendo, en algo que le compete a él, que le atañe a él, donde el responsable es él, que es delito y que no es delito.",
+      "score": 0.226,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cual es una indicación sutil o no tan sutil al juez o a los jueces y al fiscal que debe investigar, que ya se ve condicionado por la palabra del presidente que dice: \"Acá no se cometió un delito\".",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, lo importante es que lo dice Alberto Fernández, que nos vive recordando todos los años que ha dado cátedra de derecho penal en la Facultad de Derecho.",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te voy a leer un texto de un decreto que el mismo Fernández firmó el 12 de marzo del 2020.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si eso es así, el decreto de Fernández es bien constitucional.",
+      "score": 0.659,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segunda, para mí la más grave políticamente, es que le está dando una indicación al fiscal.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le conocen pocas investigaciones importantes que hayan dado buen resultado cuando está el poder en el medio, al fiscal González.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A él le toca investigar y ya Fernández le dijo, \"Mira González, acá no hay delito\".",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto que le han premiado poniendo a su hijo como, escucha Pancho, como secretario de la Comisión de Disciplina.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, me cuesta muchísimo pensar que el fiscal González, después de esta instrucción prácticamente que le da el presidente, esté dispuesto a ir muy a fondo con la investigación de lo que pasó en Olivos durante el cumpleaños de la primera dama del año pasado.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuesta pensar por qué se enreda el presidente en esto.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la opinión de Cristina Kirchner, la opinión de Axel Kicillof, la opinión de las figuras más poderosas de este oficialismo, no se están sintetizando en lo que dice Cristina.",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina dice, \"Esto no me lo pueden computar, este mandato de Alberto, porque llegó la pandemia y no pudimos hacer nada\".",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De hecho, después de ella dijo, \"Hicimos goles, después de esos pesares\", raro, en un partido, y un partido que no se jugó.",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri reaparece dando entrevistas.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dio una entrevista ayer con Luis Majul, la semana pasada dio otra con Joaquín Morales Solá.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aparentemente Macri habría recuperado 10 puntos de imagen entre diciembre del año pasado y hoy.",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué dice Máximo Kirchner habitualmente?",
+      "score": 0.764,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice, \"El error del gobierno de Macri fue no darse cuenta de que Cristina, su madre, no había desaparecido de la escena pública.",
+      "score": 0.735,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta su primo dijo, \"Yo soy más Macri que Jorge\".",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo veremos a Jorge Macri decir ahora, \"Soy más Macri que Jorge\".",
+      "score": 0.419,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un duelo entre Larreta y Macri, hay un duelo entre el radicalismo y el Pro.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, todo eso se reaviva ahora con esta presencia de Macri que vuelve a escena.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el otro Macri, Jorge, del cual hay que observar algo también, Pancho, llegó finalmente Diego Santilli a Vicente López, una foto que todo el mundo estaba capciosamente esperando, porque todos sabemos que entre Santilli y Jorge Macri es una pelea de fondo por la candidatura a gobernador del 2023.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, seguramente Santilli, abanderado con Larreta, Jorge Macri abanderado con su primo.",
+      "score": 0.249,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí aparece una discusión, a mí me parece, probablemente, la discusión más importante que hay en la Argentina en este tiempo, es una discusión que, curiosamente, la oposición no se prende, no entra en esa discusión, es una discusión entre actores del propio oficialismo, que tiene que ver con qué hacemos con la pobreza.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A quién le piden eso?",
+      "score": 0.445,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Centralmente, el movimiento Evita y estos movimientos que están arraigados dentro del gobierno, que son funcionarios del gobierno, y que empiezan a ser amenazantes para la política, para los intendentes, para La Cámpora, porque tienen una lógica distinta de la lógica partidaria, administran un programa, que es el programa estrella, que se llama Potenciar Trabajo.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de la gestión de Carolina Stanley, que claro, le hacían manifestaciones, se entregaba planes.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al grupo Los Cacetanos, este grupo que está ligado a San Cayetano, es muy interesante, porque en el fondo no somos cifilistas, lo que dicen, en el fondo, todos somos el Papa.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Horacio Verbistch, que en sus notas al movimiento Evita lo llamaba movimiento Carolina, por Carolina Stanley.",
+      "score": 0.638,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, Cristina dejó, estamos hablando de un solo programa, Potenciar Trabajo.",
+      "score": 0.34,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri pasó a 500.000.",
+      "score": 0.468,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández con Pérsico y el movimiento Evita que trabajan dentro del gobierno pasaron en un año de 500.000 a 750.000.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahí hay un tema importantísimo de peso político, de capacidad de movilización política, de alguien que como Pérsico le dice a sus amigos, en voz baja, \"Yo puedo movilizar un millón de personas en contra del gobierno\".",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a algunos que son más mal pensados que yo, dicen que Pérsico un poco los anima, porque le muestra a Cristina, le muestra a Alberto, le muestra a La Cámpora.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pues sabes que la ROC, el viernes pasado, no sé si se le escapó, en una radio dijo, \"Este tema no tiene solución\", y fue una gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran, gran.",
+      "score": 0.683,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene solución si la Argentina hace un pacto de crecimiento durante muchos años y hace una revolución económica que cree empleo genuino.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y cómo recuperar el dominio del Estado sobre la política social?",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el Estado ha resignado la política social y lo ha puesto en manos de estos dirigentes que ahora aspiran a tener un sindicato.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le creó un sindicato.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le creó un sindicato para darle un modo de vida.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De golpe, Lissalde, el presidente de AUBASA, porque es Sociedad Anónima, recibe una presión para cambiar todo el parque automotor de los vehículos que mantienen la...",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mucho malestar del gremio de Facundo Moyano porque no se aceptaba en la provincia cambiar esos vehículos.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como si tuviera que ver algo Facundo Moyano en la provisión de esos vehículos.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Será por este conflicto que Moyano se volvió opositor?",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Alberto Fernández le preguntó a Hugo Moyano, \"¿Qué pasa con Facundo?\", que es de cosas del PIB, dijo.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es un modus operandi que me hace acordar a ciertos conflictos que aparecían en algunas municipalidades del conurbano, cuando el intendente decía no contratar más con Covelia, la empresa de Depetri.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y de golpe, Moyano se ponía nervioso.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso permite que le devuelvan la empresa, que le devuelvan las empresas.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, Cristóbal López, como sabemos, es un gran empleador del presidente Alberto Fernández, que tiene una vinculación mucho más estrecha con Cristóbal López que con Cristina Fernández.",
+      "score": 0.384,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mucha gente dice que cuando iba a hacer gestiones judiciales al Palacio de Tribunales, a ver a Lorenzetti en la Corte, o a encontrarse con Ercolini, no era para pelear contra el supuesto Loffert contra Cristina, como dice ahora Alberto, sino que iba por cuestiones que tenían que ver con las empresas de Cristóbal López, lo cual no era ningún delito porque era un abogado de la matrícula defendiendo a un cliente, cliente al que él le había dado con Fernández, a través de un decreto de beneficio de urgencia, un negocio inconmensurable que fue la extensión del contrato de las máquinas tragamonedas en el hipódromo de Palermo, que vencía en el 2017 y en el año 2007, antes de que llegue Cristina, porque suponían que Cristina esto no lo iba a hacer, le extendieron la concesión hasta el 2037.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, Cristóbal López pretende ahora ir en contra de los que supuestamente los persiguieron, ya sabemos la polémica con Rodríguez Simón y con Macri, con Mauricio Macri, que aparentemente se publicó ahora en la revista Noticias, tiene un gran conflicto con Nicolás Caputo a raíz del conflicto con Cristóbal López, porque Nicolás Caputo, mientras Macri gobernaba la ciudad, tenía una gran relación con Cristóbal López, que algunos dicen consistía también en financiamiento para las campañas de Macri.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estaría operando sobre la justicia del Estado en este caso.",
+      "score": 0.276,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la época de Néstor Kirchner, acordate el conflicto con el campo, no mandaban la policía a reprimir.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te decía que en la época de Néstor Kirchner, supongamos el conflicto con el campo, no aparecía la gendarmería reprimiendo.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá no es el gobierno de Alberto Fernández el que te hace el \"lofer\".",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un problema entre privados, decía Alberto Fernández.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A la cuánto en esto incide la debilidad de Alberto Fernández o el momento político y económico para estos tironeos?",
+      "score": 0.534,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que es más Alberto que Cristina.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que ese acuerdo con el Fondo implica una discusión fiscal.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el Fondo es un problema de Cristina también.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámara Comercial dispuso que eso no era correcto.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo, \"No voy a cumplir con la sentencia\", además le inició juicio político a dos jueces, a dos de los miembros de la Cámara Comercial que se animaron a faltarme el respeto.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una sentencia de la Cámara Comercial que no tenía apelación y que, por lo tanto, desobedece.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el Estado desobedeciendo un fallo judicial.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y además, para que entiendan los jueces que pueden ser díscolos, se le inicia un juicio político en el Consejo de la Magistratura a Elizabeth.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 68
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,336 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 44,
+      "derecha": 20
+    },
+    "score_promedio": 0.322,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Claro, es el nombre de la número dos del Fondo Monetario Internacional que estuvo aquí en la Argentina.",
+      "score": 0.24,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Gita Gopinath*, que estuvo, como decíamos, aquí en la República Argentina con el presidente *Milei*.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Gita Gopinath* es el apellido de la número dos del Fondo Monetario Internacional que, efectivamente, decíamos que ayer estuvo con Javier Milei, antes de ayer estuvo con el ministro de Economía, Luis Caputo, y el fenómeno Milei que ha logrado por primera vez que el Fondo Monetario Internacional quede a la izquierda del gobierno argentino.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo decía ayer el propio Milei.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando yo le contaba los ajustes que estábamos haciendo, *Gita* abría los ojos como el dos de oro y se sorprendía del ajuste y de lo ortodoxo que soy.",
+      "score": 0.81,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El periodista le preguntaba, ¿más ortodoxo que el Fondo?",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, decía Milei.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Casi que termino siendo más ortodoxo que el Fondo Monetario Internacional.",
+      "score": 0.577,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De hecho, el presidente dijo, ¿no?",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo está diciendo el Fondo Monetario Internacional.",
+      "score": 0.224,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso decimos la curiosidad, entre otras cosas, de este periodo de Javier Milei, que casi que el fondo parece quedar a la izquierda de los ajustes de Javier Milei, como dijo el presidente.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero pasaron varias cosas y es interesante lo que pasaba con Javier Milei en el día de ayer, en esta entrevista que dio a la cadena TN, la cual dio a *John Iñaki*, y también los anuncios que tuvieron que ver con el cierre del INADI.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar a repasar lo que tiene que ver con los principales audios del día, con las principales declaraciones del día, y el primero tiene que ver con Javier Milei, justamente Javier Milei hablando del ajuste, que dice, estamos haciendo el ajuste más grande de la historia.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí lo decía el presidente Javier Milei.",
+      "score": 0.798,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en esa misma entrevista Milei y lo que viene sucediendo con el tema de la realización y las idas y vueltas.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por un lado, el anuncio que tiene que ver con este proyecto de ley, hablamos de hablar de cosas que no son el fondo de la cuestión, este proyecto de ley que tiene que ver con meter preso a aquel que emita y será de bruces con lo que está planteando Milei.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, en ese mismo zigzaggeo que hay con respecto a la dolarización, ayer el gobierno y el presidente hablaba ya de una canasta de monedas, hablaba de una confluencia de monedas, ¿dónde está el peso?",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí le preguntan sobre si esto es un paso previo a la dolarización.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Teníamos ese audio de un presidente que hablaba de una confluencia de monedas, con una ley que vamos a estar enviando al Congreso, que básicamente es definir al *señoreaje* como delito, como un delito penal, donde básicamente si el Banco Central financia al fisco, ya sea de manera directa o algún mecanismo indirecto, terminarían en la cárcel el presidente del Banco Central, el directorio, el presidente de la nación y todos los diputados y senadores que voten un presupuesto que tengan como financiamiento la emisión de dinero, es decir, que no se pueda emitir dinero para financiar el fisco y que eso sea penado por el presidente de la nación.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, este anuncio de meter preso al que emita pesos, que obviamente está hablando de un gobierno posterior, que venga después de su gobierno, por eso decíamos de la contradicción y a la vez está hablando de que ante su gobierno no va a existir más el peso.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una parte de la entrevista, y aquí lo hablábamos con la producción, interesante que es cuando habla de los jubilados, porque *Jonathan Bialet* le dice, bueno, pero no se puede ajustar más a los jubilados.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Milei habla de esto, dice que no hay plata.",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, es que el problema en Argentina es que todos los argentinos se empobrecieron.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La forma en que se calcula el aumento jubilatorio, porque siempre han quedado debajo de la inflación y por eso Alberto Fernández comenzó con los bonos que achataron la pirámide, que fueron bonos solamente para la mínima.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso empezaron los bonos de Alberto Fernández.",
+      "score": 0.73,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, tenía la posibilidad de hacer un bono más generoso si estaba la intención que los jubilados le traten de empardar a la inflación.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la explicación de Milei es bastante clara.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, protagonista, por supuesto, del día de ayer, hoy también va a ser protagonista.",
+      "score": 0.547,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Prácticamente de todos lados le ha venido el repudio al cierre del INADI.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo explicó ayer incluso el presidente Milei.",
+      "score": 0.256,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos no creen en este tipo de instrumentos, no creen en el Estado, no creen en el Estado intercediendo en la sociedad.",
+      "score": 0.181,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está en las antípodas de lo que marca, por ejemplo, el Papa Francisco en cuanto al concepto de solidaridad dentro de una sociedad.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo anticipaba Milei en un TikTok y decía por qué el INADI afuera.",
+      "score": 0.793,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "INADI afuera, Milei en TikTok.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "INADI afuera, lo decía Javier Milei.",
+      "score": 0.788,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El título es una sociedad estresada donde compara la actualidad de Milei con otros dirigentes de autoridad como Donald Trump.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Donald Trump fue un caso extremo de ruptura de reglas formales e informales.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El republicano Trump captaba el significado de lo noticiable y despreciaba las consecuencias de esas rupturas.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lamentablemente la polarización ha destruido el espacio común, moral y perceptivo.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y que tiene que ver con lo que veíamos de TikTok y Milei hablando del instituto contra la discriminación.",
+      "score": 0.223,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Volvíamos a lo que decía Grimson, la forma de comunicar y de romper las reglas.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Javier Milei ordenó atacar, disolver todos aquellos organismos inútiles, cargados de empleados políticos, de estructuras ineficientes que no cumplen su función.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es algo similar de lo que pasa con Javier Milei cuando habla de la casta de los gobernadores.",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rompe relaciones, después va Guillermo Francos, y en Salta se reúne con un grupo importante de gobernadores.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una forma de comunicar y que le da buenos resultados hasta aquí al presidente Javier Milei.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para esta apertura de modo *fontevecchia* está la reunión con el Fondo Monetario Internacional, hoy la reunión con Blinken, lo que comentábamos y se habló mucho acerca del Inadi.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se llegó a una situación donde estos fondos de FONID, Fondo Compensador y estas partidas las están poniendo los gobiernos provinciales, pero muchos de esos gobiernos aclararon que el próximo mes no lo van a poder seguir pagando porque además tenemos el tema del transporte y un montón de fondos que a las provincias no se les están enviando.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La lectura que nosotros hacemos o que hoy compartimos en el Congreso Nacional de CTERA es que es un ajuste brutal, que a lo que se nos está sometiendo a todos los trabajadores y trabajadoras, a los papás, a nuestros niños y niñas, es un ajuste.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué va a pasar con las clases a lo largo del año y con el Fondo Incentivo Docente?",
+      "score": 0.297,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Donde todas las jurisdicciones, las 23 provincias y la Ciudad de Buenos Aires pidieron que se mantenga el Fondo de Incentivo Docente para poder mantener el salario, algo que hasta ahora el gobierno se niega y es un conflicto abierto.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro conflicto abierto y ayer se discutió en el Congreso es la validez del Decreto de Necesidad y Urgencia, el 70-20-23.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Logró imponer el oficialismo al presidente de la Comisión Bicameral?",
+      "score": 0.428,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso el presidente finalmente es de La Libertad Avanza, con lo cual ha sido un avance importante para el oficialismo en esta Comisión.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver qué dice Luis Juez con el estilo de cordobés, con el estilo de Luis Juez sobre lo que se viene en el Congreso a partir de lo que dijo el presidente, cómo lo dijo al Congreso, el famoso nido de ratas de Milei al Congreso.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si tuviera la oportunidad de hablar personalmente con el presidente Milei le diría, Póngale nombre y apellido al presidente.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Córdoba, por ejemplo, *Gravois* fue a Córdoba en la campaña electoral y lo puso ya ahora allá casi como presidente de la ONU.",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, desde el peronismo de Unión por la Patria están intentando justamente voltear el decreto del DNU en el Congreso Nacional.",
+      "score": 0.335,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que fundamentalmente acá lo que hay es un DNU muy perverso, es un DNU que ataca a la gente, que ataca al ciudadano común, al hombre de a pie, que tiene un nombre y apellido que se llama *Sturzenegger*, es el ideólogo de este DNU que con una perversidad, con una animosidad contra la gente y además burlándose, no ya de los legisladores de la oposición como somos nosotros, sino de los mismos legisladores, sacó un video mostrando que él había hecho el DNU o la ley Ómnibus y después cuando hace la conferencia de prensa el presidente, él como custodio se muestra allí diciendo acá estoy yo para garantizar que esto se aplique y este DNU le está causando graves perjuicios a la medicina prepaga, le está causando graves perjuicios a los que tienen escuelas privadas, obviamente la tarifa de transporte, los servicios públicos, los inquilinos, es decir, no hay sector del pueblo argentino que él no haya querido con esta perversidad, animosidad y alevosía que tiene en contra de la gente afectarla.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esa jornada movidita que hubo en el Congreso el día de ayer, al filo del mediodía nuestro compañero Bruno Guizoday desde el Congreso nos contaba asombrado las declaraciones de José Mayans cuando entraba al Congreso acerca de las facultades mentales de Javier Milei, es el primero que lo dice, ni el último, y hay algunas dudas sobre esto, pero vamos a recordar lo que decía José Mayans sobre el propio Milei cuando le preguntaban las cosas que había dicho Milei de los diputados y de los senadores.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habría que hacerle alguna petición psicológica realmente, lo que él le pidió a los gobernadores que se vayan a hacer es tener un producto psicólogo, me parece que habría que ver las formas si este muchacho está en condiciones de seguir conduciendo los destinos del país.",
+      "score": 0.538,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Pero usted lo va a pedir aquí dentro de la Mondeja de la Máquina?",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En campaña electoral y en una entrevista al propio Javier Milei le preguntaron si estaba loco, si realmente él estaba loco.",
+      "score": 0.521,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Milei no se sorprendió por la pregunta, miró fijo a su entrevistador y le dijo, como le gusta hacer muchas veces a él, respondió con una pregunta, ¿sabes cuál es la diferencia entre un loco y un genio?",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y eso es lo que se juega en los próximos meses Javier Milei.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 64
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,94 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Bien, una breve conclusión sobre el significado de lo que ha dejado este programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tema central es la necesidad que tiene Argentina hoy de que quienes detentan el poder y aquellos que aspiran a tenerlo mañana, alcancen un acuerdo fundamental, esencial, para enfrentar los problemas de fondo que aquejan al país.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Como ustedes saben, estos problemas persisten a través de los diferentes gobiernos y no se resuelven.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es el clamor de la mayoría de la sociedad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entramos ahora en un periodo electoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La pregunta clave es: ¿quienes aspiran a ser elegidos son conscientes de esta necesidad, o nos encontraremos en una campaña electoral donde el triunfo se basará en la profundización de la grieta?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De la respuesta a esta pregunta dependerá si el deseo de trabajo conjunto de quienes tienen poder se concreta en una realidad o sigue siendo una utopía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta el próximo jueves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Ortografía:** Se corrigieron errores de ortografía como \"lo que es el significado\" por \"sobre el significado\", \"ustedes, pasan\" por \"ustedes saben\", \"quienes\" (con tilde) para preguntas, y la omisión de tildes.",
+      "entidades_detectadas": [
+        "Ortografía",
+        "Cambios Realizados"
+      ]
+    },
+    {
+      "frase": "*   **Cohesión y Coherencia:** Se reformularon frases para mejorar la fluidez y claridad del texto.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, \"Este tema de la necesidad que hoy tiene la Argentina...\" se modificó para hacer la frase más directa.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Se eliminaron muletillas como \"¿no es cierto?\" y \"¿no?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se ajustó la redacción para hacerla más formal y precisa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Nombres y Apellidos:** Dado que el texto original no contenía nombres propios, no se realizaron correcciones en ese sentido.",
+      "entidades_detectadas": [
+        "Nombres",
+        "Dado",
+        "Apellidos"
+      ]
+    },
+    {
+      "frase": "Si el texto original los hubiese tenido, se habrían revisado para asegurar su correcta escritura.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Argentina",
+    "Cambios Realizados",
+    "la Argentina",
+    "Cohesión",
+    "Apellidos",
+    "Ortografía",
+    "Dado",
+    "Coherencia",
+    "Nombres"
+  ]
+}

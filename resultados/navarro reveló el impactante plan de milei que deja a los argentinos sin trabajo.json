@@ -1,0 +1,119 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "La crisis generada por las medidas económicas implementadas en diciembre, que incluyeron un aumento del precio del dólar del 120% sin una regulación de precios completa y la apertura de la economía, está teniendo consecuencias devastadoras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En primer lugar, observamos una drástica disminución del poder adquisitivo de los trabajadores e inversores, comparable a la situación de 1989,  que muchos no habían experimentado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como consecuencia, la Cámara de Industria y Comercio (CIC) estima una caída del ingreso real del 25-30% en pocos meses.",
+      "entidades_detectadas": [
+        "Cámara de Industria y Comercio"
+      ]
+    },
+    {
+      "frase": "Actualmente, y con creciente intensidad, se observa un fuerte aumento del desempleo en empresas y comercios, resultado de la baja en las ventas, a su vez provocada por la caída de los ingresos reales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A esto se suman las subidas de alquileres, electricidad, gas y agua, que agravan la situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La apertura de inversiones, aunque positiva a largo plazo, se ha realizado sin los estudios previos necesarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La falta de tiempo y una estructura inadecuada dificultan la realización de estudios industriales que permitan una apertura controlada y responsable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como miembro de la EFAC, abogo por una apertura gradual y regulada para evitar los abusos de monopolios y oligopolios que, aprovechándose de una economía cerrada, incrementan desmesuradamente los precios, perjudicando a los consumidores.",
+      "entidades_detectadas": [
+        "EFAC"
+      ]
+    },
+    {
+      "frase": "La problemática reside en la precipitada apertura de diversos sectores (motos, bicicletas, etc.), sin un análisis previo de la situación de cada uno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abrir la producción en un sector que ya se encuentra en crisis, en lugar de generar un aumento moderado de la oferta (por ejemplo, del 10%), podría provocar una sobreoferta que reduzca drásticamente los márgenes de ganancia, llegando incluso a la quiebra de empresas.",
+      "entidades_detectadas": [
+        "Abrir"
+      ]
+    },
+    {
+      "frase": "Se observan datos preocupantes en provincias como Santa Fe, Córdoba, Entre Ríos y Buenos Aires, donde empresas de diferentes sectores (plásticos, textiles, automotriz, electrodomésticos, etc.) están despidiendo personal a gran escala.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Santa Fe",
+        "Buenos Aires",
+        "Entre Ríos"
+      ]
+    },
+    {
+      "frase": "Como señaló Mariano Martín recientemente, el mecanismo de conciliación del Ministerio de Trabajo no es eficaz ante la magnitud del problema, ya que no hay suficientes empleados disponibles para atender la gran cantidad de despidos.",
+      "entidades_detectadas": [
+        "Mariano Martín",
+        "Ministerio de Trabajo"
+      ]
+    },
+    {
+      "frase": "Miles de argentinos se están quedando sin trabajo sin una indemnización adecuada que los proteja, agravado por las dificultades para el cobro de la misma y por la precaria situación social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos entrando en una segunda fase de la crisis: tras la caída de los ingresos, se produce ahora una multiplicación de despidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Respecto a la inflación, se minimizó el impacto inicial, asegurando que se evitaría una hiperinflación del 15.000%, para luego afrontar una inflación del 100% en cuatro meses.",
+      "entidades_detectadas": [
+        "15.000%"
+      ]
+    },
+    {
+      "frase": "Del mismo modo, se intenta minimizar el desempleo incluyendo en las cifras los planes sociales, cuando la mayoría de quienes los reciben también trabajan y los planes complementan sus ingresos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En definitiva, el desempleo ya es una realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buen día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo están?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Buenos Aires",
+    "EFAC",
+    "Córdoba",
+    "Santa Fe",
+    "15.000%",
+    "Mariano Martín",
+    "Entre Ríos",
+    "Cámara de Industria y Comercio",
+    "Ministerio de Trabajo",
+    "Buenos días"
+  ]
+}

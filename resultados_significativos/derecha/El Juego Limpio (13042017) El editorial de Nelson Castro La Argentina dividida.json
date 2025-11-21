@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 3
+    },
+    "score_promedio": 0.561,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "El desafío de la Argentina es la Argentina plural.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina antinómica, en cambio, es una involución de la democracia.",
+      "score": 0.74,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo primero que hizo Alfonsín cuando ganó la elección fue llamar a Ítalo Luder, quien había sido su rival, para ofrecerle ser presidente de la Corte Suprema de Justicia de la Nación.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, le ofrecía quedarse en el poder, con el poder que tiene un presidente de la Corte Suprema de Justicia de la Nación.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   Se cambió \"Hoy en la Argentina la antinomia reina\" por \"Hoy, en la Argentina, la antinomia reina\" para una mejor estructura.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

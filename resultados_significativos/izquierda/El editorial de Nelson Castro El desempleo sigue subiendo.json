@@ -1,0 +1,36 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 3,
+      "derecha": 1
+    },
+    "score_promedio": 0.349,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El INDEC, al cual todos hoy le creemos, y es un mérito del gobierno haber logrado un INDEC absolutamente creíble, dice exactamente lo contrario.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que el gobierno, y en especial el Presidente de la República, debe abordar esta situación con seriedad y gran atención para darse cuenta de que hay una realidad que no concuerda con su discurso actual.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y debe hacerlo de cara al futuro, porque efectivamente lo que el INDEC ha demostrado y comunicado es que todo este discurso, insisto, tanto del Presidente como de sus funcionarios, de que el empleo en Argentina está aumentando, no es verdad.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y como decía Aristóteles, la única verdad es la realidad.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 4
+  },
+  "etiqueta_original": "neutral"
+}

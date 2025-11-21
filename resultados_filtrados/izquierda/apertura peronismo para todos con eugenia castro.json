@@ -1,0 +1,51 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Imagínese a Patricia Bullrich en lugar de Macron, bajándole el 13% de su jubilación; incendiaría la Torre Eiffel, el Louvre y el Arco del Triunfo.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Fue el único presidente que nunca inició una guerra.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Mauricio Macri quiere a Jorge Macri, y eso ya está decidido, pero la lista pactó hace tiempo con [Nombre omitido].",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Suena difícil que se pongan de acuerdo, y Carrió quiere a Quiroz solo para perjudicar.",
+      "entidades_detectadas": [
+        "carrió"
+      ]
+    },
+    {
+      "frase": "Patricia Bullrich dijo contenta que Horacio Rodríguez Larreta sería ministro si ella fuera presidenta; Horacio se puso firme y le señaló: \"Me estás bajando el precio, presidenta, voy a ser yo\".",
+      "entidades_detectadas": [
+        "bullrich",
+        "larreta"
+      ]
+    },
+    {
+      "frase": "Feliz regreso de Alberto Fernández con los logros de su viaje, aunque es una opinión diferente a la de los expertos.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández volvió orgulloso de una reunión con Biden, y Biden está tan distraído que ignora quién es Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández",
+        "biden"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La posible incorporación de Federico Sturzenegger al gabinete, junto a Carlos Heller, diputado nacional de Unión por la Patria y presidente del Partido Solidario (PSol), ha generado debate.",
+      "entidades_detectadas": [
+        "carlos",
+        "patria",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El presidente, con claridad, ha definido su objetivo de destruir el Estado desde adentro;  no es una interpretación mía, él mismo lo ha dicho.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Se dice que el FMI presiona por una devaluación, pero ni el actual ni el potencial nuevo funcionario parecen dispuestos a asumir esa responsabilidad.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "En el reporte del FMI sobre la octava revisión, se proyecta una caída del PBI del 3,5% para este año.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "El FMI advierte que la recesión podría prolongarse, dificultando la desinflación y generando penurias y tensiones sociales, incluso con un refuerzo del gasto fiscal.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Los problemas del país son estos, no el posible reemplazo de [nombre del funcionario a reemplazar] por Sturzenegger.”\n\nCarlos Heller, diputado nacional de Unión por la Patria, finaliza la entrevista.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    }
+  ]
+}

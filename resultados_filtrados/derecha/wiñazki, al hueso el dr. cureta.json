@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El aumento de casos de COVID-19 en la Ciudad Autónoma de Buenos Aires ha provocado un incremento en la provincia de Buenos Aires, Rosario y Córdoba.",
+      "entidades_detectadas": [
+        "rosario"
+      ]
+    },
+    {
+      "frase": "El decreto presidencial que prohíbe las reuniones sociales, dictado por el presidente Alberto Fernández, es un llamado a la responsabilidad ciudadana.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El Estado debe garantizar el cumplimiento del confinamiento si así lo establece, como ocurrió en este caso.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Por último, Gollán, ex ministro de salud de la Nación durante el gobierno de Cristina Kirchner, junto a su actual viceministro,  Kreplak, están procesados en la causa \"Cunita\" por direccionamiento de una licitación de 1097 millones de pesos para kits de recién nacidos.",
+      "entidades_detectadas": [
+        "cristina",
+        "nación"
+      ]
+    }
+  ]
+}

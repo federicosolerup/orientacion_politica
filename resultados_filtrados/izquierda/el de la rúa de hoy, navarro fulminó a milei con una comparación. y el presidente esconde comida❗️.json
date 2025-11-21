@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "**Texto Corregido:**\n\nLa situación en Argentina genera interrogantes.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Por un lado, se presenta una imagen del presidente como un líder mundial admirado.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Cuál es la imagen real del presidente ante su pueblo?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Parece existir una desconexión entre la percepción del presidente sobre su liderazgo mundial y la grave crisis que atraviesa el país.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Se menciona que el presidente lleva un mes sin presidir reuniones de gabinete y solo asiste a la Casa Rosada dos veces por semana, dejando entrever una falta de gestión efectiva.",
+      "entidades_detectadas": [
+        "presidente",
+        "gabinete"
+      ]
+    }
+  ]
+}

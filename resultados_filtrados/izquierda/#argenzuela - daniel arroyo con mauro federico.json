@@ -1,0 +1,61 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Este acuerdo debe contemplar una mayor distribución de recursos del Estado hacia los sectores más vulnerables.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "**Pregunta:** ¿Cómo se compatibiliza la necesidad de volcar más recursos con el acuerdo con el Fondo Monetario Internacional (FMI)?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "**Arroyo:** El acuerdo con el FMI es restrictivo en cuanto al gasto público y al manejo de recursos.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "**Pregunta:**  A pesar de las significativas inversiones sociales del gobierno, hay un crecimiento del electorado de Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "**Pregunta:** ¿Cree que Sergio Massa, como ministro de Economía, ha intentado acercarse a la gente?",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "**Arroyo:**  Sí, creo que una parte de la sociedad reconoce el esfuerzo de Sergio Massa, su trabajo constante.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "¿Qué opina sobre la posibilidad de que Cristina Fernández de Kirchner sea candidata?",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Creo que se está agotando un modelo y hay que explorar otras alternativas, como las que Cristina ha planteado (economía bimonetaria, nuevas políticas).",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Cristina ha hecho un aporte importante al debate, planteando la necesidad de un cambio.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 5,
+      "derecha": 2
+    },
+    "score_promedio": 0.396,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fíjese lo que le ocurrió al fiscal, ¿verdad?",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le retiraron toda la seguridad y protección.",
+      "score": 0.44,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien podría haber asesinado a Cartacía, y también al fiscal.",
+      "score": 0.239,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, insisto en la gravedad de la situación, más allá de cuál haya sido la causa que llevó a lo que le pasó a Cartacía.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, los fiscales y los hombres de la justicia que trabajan con honestidad e investigan a las mafias, pueden convertirse en otro Nisman sin problema alguno.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el caso Nisman demostró esto.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Nisman murió, la investigación sobre el pacto con Irán y otros asuntos relacionados con la AMIA se detuvo.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 7
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,86 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 7,
+      "derecha": 7
+    },
+    "score_promedio": 0.537,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Con la que cerró **Raúl Alfonsín** la campaña que lo llevó el día 30 de octubre de 1983, exactamente hace 40 años, a ser el primer presidente que ganó una elección en la democracia recuperada, la democracia argentina.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese 30 de octubre de 1983, hace exactamente 40 años, luego de la elección de **Raúl Alfonsín** como presidente, él obtuvo el 52% de los votos y comenzó el camino de recuperación de la democracia que culminó días después, el 10 de diciembre, fecha en la que asumió, como hacen todos los presidentes de la Argentina, salvo la rarísima excepción de **Néstor Kirchner**, que asumió un 25 de mayo, porque, como ustedes saben, hubo un proceso de adelantamiento de las elecciones tras la renuncia de **De la Rúa** y la asunción temporal de **Eduardo Duhalde**.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Voy a comenzar con uno: \"La Argentina afronta la necesidad de construir un futuro capaz de sacarla de los largos años de decadencia y de frustraciones.",
+      "score": 0.254,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el poder a la democracia se la da el pueblo, y el pueblo unido, sin distinciones entre peronistas y antiperonistas, radicales o antirradicales, hará su tarea para defender los derechos de todos, para preservar a la sociedad argentina de cualquier aventura golpista.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo había regresado prácticamente ese día a la Argentina después de un año de vivir en el exilio, y **Alfonsín** había sido el abogado de mi habeas corpus en aquel momento.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fuimos a una cena, entonces estaba este funcionario norteamericano, y le presenté a **Raúl Alfonsín** en broma, diciendo: \"El futuro presidente de los argentinos\".",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era un chiste, nadie, ni él imaginaba, ni yo imaginaba que iba a ser el futuro presidente de los argentinos.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obviamente, cuando **Alfonsín** terminó siendo presidente de los argentinos, me llamaron del Departamento de Estado, creyeron que yo era una especie de oráculo de Delfos, que tenía visiones del futuro.",
+      "score": 0.73,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De la misma manera, también tengo que decir que **Raúl Alfonsín** fue el que trató de convencerme, infructuosamente, de que no publicara la tapa de la revista en aquella época, la semana que publicamos la que **Déligo Góngora** me puso a disposición del Poder Ejecutivo, que fue la primera tapa de **Astiz**, y recuerdo aquella frase de **Déligo**: \"No publique eso, lo necesitamos vivo para la democracia\".",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y así, a lo largo del tiempo, marco que esto que vemos hoy como normal, como democracia, lo que vamos a escuchar ahora, luego del juicio a los militares, que nos parece hoy absolutamente normal, en aquel momento era absolutamente inimaginable y extraordinario.",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero haber contado aquí también a nuestra audiencia, en alguna otra entrevista, que durante el año que viví fuera de la Argentina, el último año de la dictadura militar, me tocó entrevistar en Nicaragua al gobierno recién surgido de los sandinistas, a su famoso ministro de Cultura, **Ernesto Cardenal**, el mismo que el Papa Juan Pablo II hizo arrodillarse y pedirle disculpas.",
+      "score": 0.277,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Ernesto Cardenal**, además, era cura, y me decía que **Alfonsín** era un iluso que creía que iba a poder juzgar a los militares, porque nunca en la historia de la humanidad se había juzgado a un ejército que tuviese las armas.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a seguir entonces con los testimonios ahora, con el célebre mantra, podríamos decir, del alfonsinismo, que era el prólogo del preámbulo de la Constitución Nacional.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí se me pone la piel de gallina, de su modo, que a las personas, a lo mejor también de mi generación, que lo estén escuchando o viendo, pasa lo mismo, como algo tan simple, como recitar el preámbulo de la Constitución Nacional podía producir ese efecto en esa Argentina devastada por los siete años de dictadura, y fundamentalmente el colofón, que fue la derrota y la caída de cualquier certeza, digamos, la caída de cualquier convicción que significó la derrota en la guerra de Malvinas.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 14
+  },
+  "etiqueta_original": "neutral"
+}

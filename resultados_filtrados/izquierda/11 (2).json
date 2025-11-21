@@ -1,0 +1,55 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "De hecho, lo que dijo el presidente Milei es diferente a lo que había dicho Caputo.",
+      "entidades_detectadas": [
+        "presidente",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Si bien Argentina ganó un juicio en Estados Unidos en 2015, donde se estableció que las reservas del Banco Central, independiente del Tesoro por ley, no podían ser embargadas, han pasado muchas cosas desde entonces.",
+      "entidades_detectadas": [
+        "argentina",
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Me parece sumamente peligroso, considerando los numerosos litigios abiertos que tiene Argentina en el exterior (YPF, fondos buitre, etc.), que se esté transportando o manipulando el oro de manera tan poco transparente.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Me preocupa especialmente la posibilidad de que se estén realizando operaciones especulativas con el oro, considerando la reputación de Luis Caputo en este tipo de transacciones.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Si los bancos centrales de China, India y países árabes están comprando oro debido a la gravedad del contexto internacional, el hecho de que no sepamos si Argentina lo venderá, alquilará o usará como garantía resulta muy sospechoso.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Sin embargo…\n\nDesde un punto de vista objetivo, más allá de las simpatías o antipatías políticas, me preocupa la visión miope del Presidente y el Ministro de Economía respecto a las finanzas.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Andrés Leal Marte saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Como usted fue presidente del Banco Central, ¿qué le recomendaría hacer al Banco Central en este contexto, dado que venía interviniendo en la brecha cambiaria vendiendo dólares en los mercados paralelos?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

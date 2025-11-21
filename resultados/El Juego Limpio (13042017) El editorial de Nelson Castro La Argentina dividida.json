@@ -1,0 +1,177 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Voy a volver al principio porque creo que es la conclusión que surge de lo que fue el programa de hoy y del desafío argentino, después de lo que vivimos en marzo y, sobre todo, a principios de abril.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El desafío de la Argentina es la Argentina plural.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Es una exigencia de la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Argentina antinómica, en cambio, es una involución de la democracia.",
+      "entidades_detectadas": [
+        "La Argentina"
+      ]
+    },
+    {
+      "frase": "Hoy, en la Argentina, la antinomia reina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando hay antinomia, la democracia sufre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la involución que vivimos es impactante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es de hace ochenta años, sino más reciente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recordamos a Alfonsín, y es importante recordarlo.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "No para idealizarlo, pues tuvo errores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay que recordar sus actitudes fundacionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo primero que hizo Alfonsín cuando ganó la elección fue llamar a Ítalo Luder, quien había sido su rival, para ofrecerle ser presidente de la Corte Suprema de Justicia de la Nación.",
+      "entidades_detectadas": [
+        "Ítalo Luder",
+        "Alfonsín",
+        "Corte Suprema de Justicia de la Nación"
+      ]
+    },
+    {
+      "frase": "Es decir, le ofrecía quedarse en el poder, con el poder que tiene un presidente de la Corte Suprema de Justicia de la Nación.",
+      "entidades_detectadas": [
+        "Corte Suprema de Justicia de la Nación"
+      ]
+    },
+    {
+      "frase": "Eso lo hizo Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Ocurrió hace treinta años en la Argentina, pero parece que fuera hace ocho siglos.",
+      "entidades_detectadas": [
+        "Ocurrió",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Hasta el próximo jueves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Feliz Pascua a todos.",
+      "entidades_detectadas": [
+        "Feliz Pascua"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de Nombres/Apellidos:**\n    *   \"Ito Alulú\" fue corregido a \"Ítalo Luder\".",
+      "entidades_detectadas": [
+        "Cambios Realizados",
+        "Apellidos",
+        "Corrección de Nombres"
+      ]
+    },
+    {
+      "frase": "*   **Corrección de Ortografía:**\n    *   Se corrigieron errores ortográficos como \"principio\" (en el contexto correcto), \"antinómica\" (en el contexto correcto), \"impotulo\" (inexistente, se presume error de transcripción) y \"Tancuapara\" a \"Pascua\", asumiendo un error de transcripción/pronunciación y considerando el contexto temporal.",
+      "entidades_detectadas": [
+        "Corrección de Ortografía",
+        "Tancuapara"
+      ]
+    },
+    {
+      "frase": "*   Se corrigieron algunos acentos y tildes faltantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Mejora de Cohesión y Coherencia:**\n    *   Se añadieron comas y puntos para mejorar la fluidez y claridad de las oraciones.",
+      "entidades_detectadas": [
+        "Mejora de Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "*   Se ajustó la redacción para evitar repeticiones y clarificar el significado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, se reemplazó \"el principio de abril\" por \"a principios de abril\" para mayor precisión temporal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se cambió \"Hoy en la Argentina la antinomia reina\" por \"Hoy, en la Argentina, la antinomia reina\" para una mejor estructura.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "*   Se reemplazó \"Eso lo hizo Alfonsín\" por \"Eso lo hizo Alfonsín.\" para una mejor fluidez.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "*   Se cambió \"Hasta el próximo jueves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Feliz Tancuapara a todos.\" por \"Hasta el próximo jueves.",
+      "entidades_detectadas": [
+        "Feliz Tancuapara"
+      ]
+    },
+    {
+      "frase": "Feliz Pascua a todos.\" para una mejor fluidez y coherencia con el contexto temporal (se asume que la referencia a \"Tancuapara\" es incorrecta y se reemplaza con \"Pascua\").",
+      "entidades_detectadas": [
+        "Tancuapara",
+        "Feliz Pascua"
+      ]
+    },
+    {
+      "frase": "* Se añadieron algunas palabras para que el texto fuera más claro y se entendiera mejor el sentido de las oraciones.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Argentina",
+    "Cambios Realizados",
+    "Corte Suprema de Justicia de la Nación",
+    "la Argentina",
+    "Corrección de Nombres",
+    "Apellidos",
+    "Tancuapara",
+    "La Argentina",
+    "Corrección de Ortografía",
+    "Mejora de Cohesión",
+    "Alfonsín",
+    "Feliz Tancuapara",
+    "Feliz Pascua",
+    "Coherencia",
+    "Ítalo Luder",
+    "Ocurrió"
+  ]
+}

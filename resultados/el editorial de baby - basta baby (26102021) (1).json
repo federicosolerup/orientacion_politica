@@ -1,0 +1,396 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Cierro la transmisión, toca el cementerio radial, toca el grito de la hinchada, toca la canción tranquila, que no pase nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Toca el cementerio radial, toca el grito de la hinchada, toca la canción tranquila, que no pase nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Toca el cementerio radial, toca el grito de la hinchada, toca la canción tranquila, que no pase nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Toca el cementerio radial, toca el grito de la hinchada, toca la canción tranquila, que no pase nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo mucho miedo de que venga la maga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Transmitiendo desde algún lugar del mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para que vean esto, estoy descansando porque no doy más; no me da la voz, ni las fuerzas, nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy agotado, no me tomé vacaciones, lo cuento todas las noches, pero les dejo esto a mis compañeros y al público para que no los abandone.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mejor es que te atrae a las cámaras, ya lo dije anoche.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Gracias por el aguante!",
+      "entidades_detectadas": [
+        "¡Gracias"
+      ]
+    },
+    {
+      "frase": "Arriba, Tato, con ese oído maravilloso y privilegiado, ¡parece Barenboim!",
+      "entidades_detectadas": [
+        "Tato"
+      ]
+    },
+    {
+      "frase": "Todos los chicos: Willy, Ale, Piri, Midi, Lily, Tipi, todos son de Acuario.",
+      "entidades_detectadas": [
+        "Acuario",
+        "Ale",
+        "Lily",
+        "Piri",
+        "Willy",
+        "Midi",
+        "Tipi"
+      ]
+    },
+    {
+      "frase": "Hice una presentación, quería evitar más presentaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vieron al tipo de esa mujer, dijo algo grabado, diciendo que nos quería a todos, todos peleándose por la herencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tuve un problema porque querían ver quién iba a conducir mientras yo no estaba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jesse, por supuesto, codició todo y quería ser él.",
+      "entidades_detectadas": [
+        "Jesse"
+      ]
+    },
+    {
+      "frase": "El show de Jesse, que se parecería bastante al de Benny Hill, lo hace él.",
+      "entidades_detectadas": [
+        "Benny Hill",
+        "Jesse"
+      ]
+    },
+    {
+      "frase": "Pero bueno, les dejo este recuerdo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, aún nos verán cuando termine este video, donde la comunidad mundial está bastante alterada por algo que veníamos sabiendo desde hace rato; Javi lo sabe mejor que nadie, él me acompañó cuando tuve la primicia.",
+      "entidades_detectadas": [
+        "Javi",
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Un día estaba comiendo en un boliche de Pilar que se llama Tinto y Soda y me encontré con Claudio Huberti, a quien no conocía.",
+      "entidades_detectadas": [
+        "Pilar",
+        "Tinto",
+        "Claudio Huberti",
+        "Soda"
+      ]
+    },
+    {
+      "frase": "Nos saludamos y me contó toda la historia del desfalco de Néstor Kirchner, los bolsos con la plata, cuánto robaba, Muñoz, los 200 millones de dólares de Muñoz.",
+      "entidades_detectadas": [
+        "Muñoz",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Y me contó que esta mujer aparece ahora, porque comienzan las delaciones de arrepentidos de Maduro.",
+      "entidades_detectadas": [
+        "Maduro"
+      ]
+    },
+    {
+      "frase": "Y tiene que ver con una historia que yo cuento siempre, que es ficción, no sé si es real, la del Mercosur.",
+      "entidades_detectadas": [
+        "Mercosur"
+      ]
+    },
+    {
+      "frase": "¿Se acuerdan de Al Pacino en *Scarface*, cuando llega un momento en que el gerente del banco miraba las bolsas de dinero que bajaban de las combis y decía: \"No puedo más, no puedo blanquearte ni un centavo más\"?",
+      "entidades_detectadas": [
+        "Al Pacino",
+        "Scarface"
+      ]
+    },
+    {
+      "frase": "Bueno, el narcotráfico en Latinoamérica es tan fuerte y grande que los bancos colapsaron.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Latinoamérica"
+      ]
+    },
+    {
+      "frase": "Los países necesitaban un salvoconducto, digo yo en mi historia (tómenlo como ficción, aunque no lo es).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los países necesitaban blanquear el dinero del narcotráfico, que son los financieros de Latinoamérica; o sea, Latinoamérica es de los narcotraficantes.",
+      "entidades_detectadas": [
+        "Latinoamérica"
+      ]
+    },
+    {
+      "frase": "Había dos hombres más vivos que el resto, Néstor Kirchner y Hugo Chávez, que armaron el Mercosur: Lula, en ese momento; el obispo de Paraguay; el padre de Pedro, mi hijo; el padre de Pedro de Paraguay.",
+      "entidades_detectadas": [
+        "Pedro de Paraguay",
+        "Néstor Kirchner",
+        "Paraguay",
+        "Había",
+        "Pedro",
+        "Hugo Chávez",
+        "Mercosur"
+      ]
+    },
+    {
+      "frase": "Bueno, en San Martín, el padre de la patria, Hugo también.",
+      "entidades_detectadas": [
+        "San Martín",
+        "Hugo"
+      ]
+    },
+    {
+      "frase": "Evo Morales, todos empezaron a armar lo que es el Mercosur, el poder de la jefatura en Latinoamérica.",
+      "entidades_detectadas": [
+        "Latinoamérica",
+        "Mercosur",
+        "Evo Morales"
+      ]
+    },
+    {
+      "frase": "No necesitamos préstamos del FMI porque los narcos financian todo.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Es ficción, repito, en esta película que estoy escribiendo, mueren, por casualidad del destino, Chávez y Néstor Kirchner, que eran los dos intermediarios que se quedaban con una parte de los negocios del Mercosur.",
+      "entidades_detectadas": [
+        "Mercosur",
+        "Chávez",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Y el narcotráfico de Buenos Aires se quedó, por eso se explica lo de Rosario y la tranquilidad con la que se maneja el narcotráfico de Latinoamérica hasta que llegó el brasileño, el chileno, el uruguayo, y se fueron cerrando algunas puertas.",
+      "entidades_detectadas": [
+        "llegó",
+        "Buenos Aires",
+        "Latinoamérica",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Pero aquí, por ejemplo, es más fácil conseguir cocaína que un cigarrillo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, por esas cosas del destino, muere Néstor Kirchner y muere Chávez en poco tiempo, con diferencia.",
+      "entidades_detectadas": [
+        "Chávez",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Y veo que los cabecillas de los demás países de Latinoamérica, en esta ficción, se quedan sin negociadores, sin el vínculo y sin paraguas de protección, porque esos dos países juntos eran la protección de los demás países más pequeños.",
+      "entidades_detectadas": [
+        "Latinoamérica"
+      ]
+    },
+    {
+      "frase": "Entonces necesitan un paraguas de protección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue más o menos en la época que nombran al Papa Francisco.",
+      "entidades_detectadas": [
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Es ficción, pero es mucha casualidad que el Vaticano, por primera vez en la historia, vea a otro.",
+      "entidades_detectadas": [
+        "el Vaticano"
+      ]
+    },
+    {
+      "frase": "Porque el Vaticano, como todos sabemos, acuérdense de Lucio Gelli, Propaganda Due, el Banco Ambrosiano, la cantidad de dinero que maneja es increíble.",
+      "entidades_detectadas": [
+        "Banco Ambrosiano",
+        "Lucio Gelli",
+        "Vaticano",
+        "Propaganda Due"
+      ]
+    },
+    {
+      "frase": "Y no solo te blanquean los pecados, sino que te pueden blanquear todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con esto no le echo la culpa al Vaticano.",
+      "entidades_detectadas": [
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "Es ficción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero quería contarles esto para dejarles para esta noche, para que ustedes escuchen a los chicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta historia me sorprende porque después de haber escrito esta ficción hace seis años, aparece ahora que un general arrepentido habla del dinero del narcotráfico, habla del dinero negro de Venezuela y casualmente nombra a Néstor Kirchner.",
+      "entidades_detectadas": [
+        "Venezuela",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Néstor Kirchner era el marido de Cristina Fernández de Kirchner, padre de Máximo Kirchner, a quien en un momento quisieron emular como un prócer.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Máximo Kirchner",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "¿Saben quién está en la avenida Néstor Kirchner, la calle Néstor Kirchner, el estacionamiento Néstor Kirchner y el centro CFK?",
+      "entidades_detectadas": [
+        "Saben",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Entonces, esto para que vayan descubriendo a quién tienen que votar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como estoy lejos ahora, se los dejo por si me pasa algo en el avión, este recuerdo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acuérdense, el Mercosur.",
+      "entidades_detectadas": [
+        "Mercosur"
+      ]
+    },
+    {
+      "frase": "Todos los países de Latinoamérica se dedican a blanquear el dinero del narcotráfico.",
+      "entidades_detectadas": [
+        "Latinoamérica"
+      ]
+    },
+    {
+      "frase": "No necesitan el FMI porque tienen como financiamiento al narcotráfico.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "¿Pero qué pasó?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dios, que parece que la droga no le gusta, se llevó a los dos intermediarios entre los narcos y los gobiernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es ficción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es una linda historia para llenar unos 15 minutos mientras yo descanso y mis compañeros llevan este programa sobre los hombres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, cuando me vaya, van a escuchar a la mujer que habla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si se atreven a decir que estoy equivocado, piensen que es ficción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto nunca pasó y se me ocurrió con esa chispa de inspiración que uno tiene.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta mañana, lo retomaremos mañana.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Tato",
+    "Hugo",
+    "Estoy",
+    "Papa Francisco",
+    "Había",
+    "Javi",
+    "llegó",
+    "Hugo Chávez",
+    "Rosario",
+    "¡Gracias",
+    "Jesse",
+    "Arriba",
+    "Máximo Kirchner",
+    "Benny Hill",
+    "Muñoz",
+    "¿Saben",
+    "Cristina Fernández de Kirchner",
+    "Acuario",
+    "San Martín",
+    "Evo Morales",
+    "Néstor Kirchner",
+    "Ale",
+    "Banco Ambrosiano",
+    "Willy",
+    "Midi",
+    "Vaticano",
+    "Tipi",
+    "Latinoamérica",
+    "Chávez",
+    "Pedro de Paraguay",
+    "Transmitiendo",
+    "Lily",
+    "Lucio Gelli",
+    "el Vaticano",
+    "Bueno",
+    "Piri",
+    "Al Pacino",
+    "Pedro",
+    "FMI",
+    "Soda",
+    "Claudio Huberti",
+    "Buenos Aires",
+    "Scarface",
+    "Tinto",
+    "¿",
+    "Maduro",
+    "Venezuela",
+    "Paraguay",
+    "Dios",
+    "Mercosur",
+    "Propaganda Due"
+  ]
+}

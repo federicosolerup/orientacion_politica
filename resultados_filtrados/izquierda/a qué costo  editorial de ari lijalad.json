@@ -1,0 +1,87 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Milei está muy contento porque logró tener superávit en enero.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "En Brasil, el tema es noticia principal en varios portales, y se relaciona con la organización del intento de golpe de Estado de Jair Bolsonaro contra Lula da Silva en los primeros días del nuevo gobierno.",
+      "entidades_detectadas": [
+        "bolsonaro",
+        "estado",
+        "lula"
+      ]
+    },
+    {
+      "frase": "Curiosamente, Fernando Serimedo, quien festeja el superávit de enero en su portal y a quien Caputo cita para celebrarlo, participó activamente en esa movida a través de una transmisión de YouTube donde afirmaba tener pruebas de fraude en las elecciones que Lula ganó a Bolsonaro.",
+      "entidades_detectadas": [
+        "lula",
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Bolsonaro está siendo investigado por ello, y hay un testigo que está aportando información.",
+      "entidades_detectadas": [
+        "bolsonaro"
+      ]
+    },
+    {
+      "frase": "Ellos lo explican diciendo que el Estado es como una casa: no se puede gastar más de lo que entra.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El problema es que aplicar esta lógica al Estado termina mal, porque se empieza a ahorrar en áreas esenciales, donde el ahorro implica sufrimiento humano.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Los gastos de capital (inversión) cayeron un 75%, las transferencias a provincias un 53% (el recorte de fondos a los que él llama \"corruptos\"), las asignaciones familiares un 17%, los bienes y servicios un 50%, las transferencias a universidades un 16%, las prestaciones del PAMI un 39%, y otros gastos un 60%, mientras que otros subsidios disminuyeron en un 98%.",
+      "entidades_detectadas": [
+        "pami"
+      ]
+    },
+    {
+      "frase": "También se redujeron programas sociales por falta de registro de liquidaciones (ejemplo: Potenciar Trabajo y becas Progresar), los gastos de personal (con una reducción del 34% de los salarios del Poder Legislativo), los gastos de capital (inversión, con una caída del 94%), y las transferencias a provincias (incluyendo el FONID, Fondo Nacional de Incentivo Docente, con una reducción del 16%).",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "En resumen, el gobierno de Milei logró el superávit, pero a un alto costo: reducciones drásticas en pensiones no contributivas, recortes en subsidios de transporte, etc.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Ayer, La Nación tituló \"Piden agravar hasta 12 años la condena contra Cristina Kirchner\".",
+      "entidades_detectadas": [
+        "cristina",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Esto es similar a lo ocurrido con Morales Solá, que anticipó lo que luego escribió el fiscal Luciani.",
+      "entidades_detectadas": [
+        "morales"
+      ]
+    },
+    {
+      "frase": "La solicitud será revisada por tres jueces designados durante la presidencia de Macri: Mariano Borinsky, Gustavo Hornos y Diego Barreta, quienes tienen antecedentes de acciones cuestionables en el marco de causas contra Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "El superávit se logró a costa de docentes, jubilados, pensionados, etc., y se espera un nuevo circo mediático con las causas judiciales contra Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

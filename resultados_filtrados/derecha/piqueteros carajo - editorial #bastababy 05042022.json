@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Dicen que Francisco es peronista porque, si Jesús hubiera sido obeso, nadie lo habría crucificado; si hubiera sido feo, nadie lo habría tatuado; y si hubiera sido hijo de un millonario, dirían: \"Ah, pero Jesús...\".",
+      "entidades_detectadas": [
+        "francisco"
+      ]
+    },
+    {
+      "frase": "Los ricos de Argentina (Cristina, Alberto… todos los oligarcas, los que tienen la plata que se robaron) le hacen creer a los pobres que piquetar es digno.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿Alguna vez vio a Cristina con un cucharón de sopa?",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "¿A Alberto preocupado por un niño o una mujer muerta, salvo que sea una pintora con piernas bonitas?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Mariel Fernández recibe fortunas de los planes sociales y no hace nada.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cristina y Alberto quieren ver a los pobres mal vestidos, en los charcos.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina"
+      ]
+    }
+  ]
+}

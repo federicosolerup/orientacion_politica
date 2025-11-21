@@ -1,0 +1,76 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 9,
+      "derecha": 3
+    },
+    "score_promedio": 0.337,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hay cosas que quiero transmitir, porque ya vamos a estar hablando este año, en el año electoral, de lo que va a ser y demás, pero siento la necesidad de transmitir las cosas que uno percibe de la Argentina como argentino, a este bendito país que quiero.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes se maravillan por los paisajes de la Argentina, por la riqueza, por la gente con la que están en contacto, y luego la sorpresa de ver la pobreza.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La experiencia de estar afuera permite ver, primero, el maravilloso país que es la Argentina y, segundo, los debates que nos faltan.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si este debate sobre cómo combatir la pobreza de cara a la tecnología no se da, podrían estar Macri, Massa o cualquiera.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué cara es la Argentina para los que vivimos acá y para los que viven afuera?",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para que abaratar la Argentina no signifique llevar a la gente a la miseria.",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un debate que yo veo ausente, y que necesitamos para generar una Argentina que sea accesible para todos.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ver las colas que van a Chile es algo impresionante en el sur.",
+      "score": 0.554,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la frontera argentina hay dos personas, en la chilena 20-25, que hablan el idioma, facilitan todo.",
+      "score": 0.181,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la gente que va a Chile dice: \"¿qué orden hay ahí?\".",
+      "score": 0.469,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son impresiones que quiero transmitir de estas vivencias personales que le pasan a un periodista, que tiene la suerte de que la gente se nos acerca y nos comenta cosas.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si aspiramos a que la Argentina sea el país de bendición que es.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 12
+  },
+  "etiqueta_original": "neutral"
+}

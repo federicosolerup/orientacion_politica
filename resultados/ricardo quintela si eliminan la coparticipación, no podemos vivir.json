@@ -1,0 +1,418 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "¿Qué tal, Daniel?",
+      "entidades_detectadas": [
+        "Daniel"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué piensas de lo que decía el compañero Pablo Moyano?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, es correcto; deberíamos actuar en bloque para apoyar la medida y nuestro proyecto y propuesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y por qué no se está haciendo, Quintana?",
+      "entidades_detectadas": [
+        "¿",
+        "Quintana"
+      ]
+    },
+    {
+      "frase": "Lo vamos a reunir seguramente el viernes o el sábado en Tucumán para compartir una charla con Massa y también participaremos en un acto con el gobernador de la provincia de Tucumán.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Nos juntaremos varios gobernadores, los que puedan asistir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay problemas para lograr la presencia física de los compañeros, fundamentalmente del sur, porque deben viajar a Buenos Aires y encontrar un vuelo que combine con su provincia y luego el retorno.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Por eso se dificulta cuando se realiza en el interior del país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quintana, ¿notas que son pocos los que realmente hacen fuerza para que esto ocurra, y hay otros que no ponen la misma dedicación?",
+      "entidades_detectadas": [
+        "¿",
+        "Quintana"
+      ]
+    },
+    {
+      "frase": "Bueno, también es cierto que muchos gobernadores ya dieron aumentos.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, Tucumán dio un aumento del 45% al básico hace un mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto incluye los 30.000 y 30.000 pesos, creo, que planteaba Massa.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Hay gobernadores que están en paritarias y lo dijeron claramente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo tanto, creo que es importante considerar eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es una crítica gratuita, sino que simplemente me parece que hay muchos gobernadores que están conversando, otros que tal vez no puedan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece extraño, porque en nuestro caso, siendo la provincia más pobre de la República Argentina en cuanto a recursos financieros que recibe de la Nación, estamos pudiendo dar 55.000 pesos que están cobrando las personas; esos 55.000 pesos, más un 5% al básico, y otras medidas como el congelamiento de tarifas públicas de agua, energía, Internet para Todos, el transporte público de Capital y Chilecito.",
+      "entidades_detectadas": [
+        "República Argentina",
+        "Nación",
+        "Capital",
+        "Chilecito"
+      ]
+    },
+    {
+      "frase": "También hemos implementado líneas de crédito para jóvenes profesionales, para la compra de insumos o bienes de capital.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hemos liberado hasta 100 millones de pesos en créditos de hasta 200.000 pesos subsidiados para microemprendedores, Pymes y Mipymes.",
+      "entidades_detectadas": [
+        "Mipymes"
+      ]
+    },
+    {
+      "frase": "También hemos destinado 200 millones de pesos en créditos de hasta 500.000 pesos para ellos, con una tasa subsidiada al 50% del valor de mercado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo tanto, varias medidas similares a las que creo que varios gobernadores han tomado para aliviar el bolsillo de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que a partir de esta reunión que podemos tener los gobernadores con Massa, todos vamos a apoyar fuertemente, pero más que todo, en lo expresivo, que es muy importante porque se comunica a toda la Argentina; y en lo concreto en cada territorio.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "En nuestro caso, estamos trabajando fuertemente en un sistema organizacional que nos permita estar con nuestros equipos en todos lados: barrios, empresas, industrias, comercios, oficinas públicas; invitando a los privados a compartir un momento de reflexión sobre la situación del país y los temores, y visualizando qué pasaría con las medidas que estamos conversando con algunos sectores, que tienen una perspectiva muy positiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También quiero decirte que aquí todas las escuelas privadas se sumaron a un pedido del gobierno, a través del equipo del servicio educativo, y con la presencia del gobernador, hemos congelado las cuotas del sector privado educativo.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Gobernador, discúlpeme que lo interrumpa, pero tengo una consulta muy concreta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando uno lee la plataforma o escucha las propuestas de un candidato a presidente como Javier Milei, hay un punto que me gustaría saber su opinión.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Él dice que eliminará la coparticipación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué significaría para las provincias que se elimine la coparticipación?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para su provincia, por ejemplo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es imposible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una medida que generaría una convulsión social terrible en todas las provincias argentinas, y en las del norte y la Patagonia fundamentalmente.",
+      "entidades_detectadas": [
+        "Patagonia"
+      ]
+    },
+    {
+      "frase": "No podríamos sobrevivir; no solo no podríamos pagar sueldos, sino que sería imposible vivir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eliminar la coparticipación, que tiene un sentido solidario… queremos que La Rioja exista, y La Rioja tiene viabilidad y potencial, fundamentalmente en sus recursos humanos.",
+      "entidades_detectadas": [
+        "La Rioja"
+      ]
+    },
+    {
+      "frase": "Sin hablar del desarrollo turístico, industrial, minero, agrícola, ganadero, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos un potencial importantísimo, pero obviamente son provincias que han sido marginadas, separadas del desarrollo de la República Argentina, que se concentró en el centro y, más precisamente, en Capital Federal (sin agredir a los capitalinos), pero lamentablemente no tenemos el nivel de desarrollo e infraestructura para el desarrollo.",
+      "entidades_detectadas": [
+        "Capital Federal",
+        "República Argentina"
+      ]
+    },
+    {
+      "frase": "Ricardo, ¿La Rioja no se da cuenta de esto?",
+      "entidades_detectadas": [
+        "¿La Rioja",
+        "Ricardo"
+      ]
+    },
+    {
+      "frase": "Porque hay una especie de “comarquización”, donde el gobernador tiene su espacio armado, saben que ganan por un amplio porcentaje (lo hemos charlado en algún momento), y después te cortan la obra pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si te opones, tarde o temprano te rodean.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ricardo no se da cuenta de eso?",
+      "entidades_detectadas": [
+        "Ricardo"
+      ]
+    },
+    {
+      "frase": "Estamos tratando de informarlo, de darle nuestro punto de vista, para que pueda tener… ahora tenemos para comparar lo que fue el 2001 y el gobierno de Macri.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "En términos de vivienda, en el gobierno de Macri se construyeron 400 viviendas en 4 años; en el gobierno de Alberto Fernández y Cristina Fernández de Kirchner, vamos a terminar nuestra gestión con más de 5.500 viviendas entregadas.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Macri",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Hay una diferencia sustancial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Habíamos perdido 1800 puestos de trabajo en el parque industrial con Macri, y las empresas trabajaban con anticipos de vacaciones, salarios bajos, etcétera, y varias fábricas cerradas.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Con el gobierno de Alberto Fernández y Cristina Fernández de Kirchner, no solo recuperamos esos 1800 puestos de trabajo, sino que hemos creado más de 3500 nuevos puestos de trabajo.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "La Rioja ocupa los primeros lugares en generación de empleo genuino (estábamos segundos detrás de Catamarca, hoy terceros porque nos pasó Neuquén por el gasoducto).",
+      "entidades_detectadas": [
+        "La Rioja",
+        "Catamarca",
+        "Neuquén"
+      ]
+    },
+    {
+      "frase": "Estamos a la vanguardia en cantidad de propietarios de viviendas (82%; CABA tiene 1.800.000 inquilinos de 3 millones de habitantes).",
+      "entidades_detectadas": [
+        "CABA"
+      ]
+    },
+    {
+      "frase": "Estamos a la vanguardia en seguridad, siendo la provincia más segura de la República Argentina.",
+      "entidades_detectadas": [
+        "República Argentina"
+      ]
+    },
+    {
+      "frase": "Son cosas que nos enorgullecen y muchas veces el ciudadano común no las conoce porque no se informa adecuadamente, solo de lo negativo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ricardo, para finalizar, dime qué sientes que va a pasar, cuál es tu sensación.",
+      "entidades_detectadas": [
+        "Ricardo"
+      ]
+    },
+    {
+      "frase": "Tienes muchos años en política, conoces el territorio… ¿con qué nos vamos a encontrar?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Creo que este voto que nos sorprendió a todos, a mí también, nos indica que no hemos trabajado adecuadamente, ni visualizamos bien al adversario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo visualizábamos como adversario en primer lugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Competíamos con otras circunstancias, y teníamos a Milei en 14-15 puntos y Juntos por el Cambio en 22-23 puntos.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Queríamos poner todo nuestro trabajo en eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue un voto de advertencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las sociedades no se suicidan colectivamente, dar un salto al vacío sin previsibilidad… las palabras del General Perón: la gente vota por conveniencia material, por quien le garantice el presente y futuro para ellos, sus hijos y nietos.",
+      "entidades_detectadas": [
+        "General Perón"
+      ]
+    },
+    {
+      "frase": "Lo más racional es el esfuerzo del gobierno nacional para atenuar el impacto de la inflación, frenar la inflación… la oposición se centra en la seguridad, que es grave, pero no a los niveles que se exagera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente existe la delincuencia, pero existe la justicia y las fuerzas de seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, Ricardo, gracias.",
+      "entidades_detectadas": [
+        "Ricardo"
+      ]
+    },
+    {
+      "frase": "Entramos al balotaje y seguimos siendo gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo absoluta seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Viva Perón!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entramos al balotaje y es posible que nos acerquemos con una diferencia sustancial para el próximo 21 de octubre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias, Ricardo.",
+      "entidades_detectadas": [
+        "Ricardo"
+      ]
+    },
+    {
+      "frase": "Un abrazo grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Saludo a todos los riojanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias al panel.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que la pasen lindo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Peronismo para todos, PPT.",
+      "entidades_detectadas": [
+        "PPT"
+      ]
+    },
+    {
+      "frase": "¡PPT!",
+      "entidades_detectadas": [
+        "PPT"
+      ]
+    },
+    {
+      "frase": "Gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ricardo Quintela, Gobernador de La Rioja.",
+      "entidades_detectadas": [
+        "Ricardo Quintela"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "¿La Rioja",
+    "Alberto Fernández",
+    "General Perón",
+    "¿Qué",
+    "Massa",
+    "Mipymes",
+    "Javier Milei",
+    "Ricardo Quintela",
+    "Ricardo",
+    "Peronismo",
+    "Patagonia",
+    "Catamarca",
+    "Neuquén",
+    "Saludo",
+    "Cristina Fernández de Kirchner",
+    "Queríamos",
+    "Chilecito",
+    "Capital Federal",
+    "República Argentina",
+    "Nación",
+    "Capital",
+    "Tienes",
+    "Bueno",
+    "Bien",
+    "La Rioja",
+    "Quintana",
+    "Buenos Aires",
+    "Competíamos",
+    "la Argentina",
+    "CABA",
+    "¿",
+    "PPT",
+    "Milei",
+    "Sí",
+    "Macri"
+  ]
+}

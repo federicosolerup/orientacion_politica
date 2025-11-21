@@ -1,0 +1,259 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original presenta problemas de ortografía, cohesión, coherencia y algunos nombres propios parecen incorrectos o incompletos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A continuación, una versión corregida:\n\n\"Buenos días, José Urtubey, expresidente de la Unión Industrial Argentina.",
+      "entidades_detectadas": [
+        "Unión Industrial Argentina",
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Estamos hablando sobre los anuncios del gobierno que impactan en la industria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "José Jorge Rialde de Radio 10, buenos días.",
+      "entidades_detectadas": [
+        "José Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "— Buenos días.",
+      "entidades_detectadas": [
+        "Buenos"
+      ]
+    },
+    {
+      "frase": "Estábamos conversando con [nombre del entrevistador] sobre estos anuncios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo los recibieron en la Unión Industrial y cómo se están preparando para esto, José?",
+      "entidades_detectadas": [
+        "Unión Industrial",
+        "José"
+      ]
+    },
+    {
+      "frase": "— Algunos conceptos clave son: la actividad industrial en el primer semestre de este año cayó un 14,5% respecto al mismo período del año pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto implica una capacidad industrial instalada ociosa del 50%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El consumo energético también ha disminuido debido a la caída de la actividad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las políticas de incentivo para industrias con reducciones de actividad son bienvenidas, pero hay que ver el modelo que se presente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El desafío principal es reactivar la economía y, en particular, la industria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— José, se anuncian panoramas alentadores, pero las cifras diarias muestran otra realidad.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "Hace cuatro meses, cuando muchos economistas hablaban de una pronta recuperación (incluso el gobierno), yo ya advertí que eso era improbable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Considero positivo el objetivo macroeconómico, pero las políticas productivas no pueden limitarse a cinco sectores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos trabajar en todos los sectores productivos y las economías regionales; para ello se necesitan políticas consensuadas entre el sector público y el privado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, sigo viendo una meseta, no una recuperación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo lo definirías?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—  Algunos sectores muestran una leve recuperación, pero no hay un rebote económico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Persisten muchas preocupaciones en diversos sectores productivos e industriales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien la inflación está bajando, es un dato a valorar, pero no se puede mantener una política cambiaria sin considerar que el margen de maniobra disponible desde enero se ha agotado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La competitividad, que debería lograrse a través de reformas estructurales, es baja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina es muy cara en dólares en casi cualquier producción, lo que nos quita competitividad.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "— Andrés [Apellido], buenos días.",
+      "entidades_detectadas": [
+        "Apellido",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "¿Crees que habrá pronto una devaluación?",
+      "entidades_detectadas": [
+        "¿Crees"
+      ]
+    },
+    {
+      "frase": "—  En algún momento habrá que hablar de la eliminación del cepo cambiario y la unificación del tipo de cambio para evitar la pérdida de competitividad del sector productivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No deberíamos entrar en especulaciones sobre cuándo ocurrirá, sino trabajar en las flexibilizaciones necesarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La rigidez genera daños estructurales en los sistemas productivos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— Mucha gente cercana al gobierno destacó la repercusión de la intervención del presidente en la ONU y Wall Street.",
+      "entidades_detectadas": [
+        "ONU",
+        "Wall Street"
+      ]
+    },
+    {
+      "frase": "Sin embargo, hubo críticas en medios económicos internacionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué opinas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— El concierto internacional ha cambiado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los organismos internacionales han perdido peso relativo después de la pandemia y la invasión de Ucrania.",
+      "entidades_detectadas": [
+        "Ucrania"
+      ]
+    },
+    {
+      "frase": "La integración al mundo debe considerar el *nearshoring* y el *friendshoring*,  con la protección de las cadenas de producción, tal como se observa en Estados Unidos y Europa.",
+      "entidades_detectadas": [
+        "Europa",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Si bien organismos internacionales han perdido peso, la alineación de Argentina con determinados países en iniciativas internacionales no refleja necesariamente una apertura plena al mundo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Debe haber coherencia en el criterio de integración económica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una desregulación excesiva podría ser perjudicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— ¿Cómo ha impactado en la industria el auge de las empresas tecnológicas?",
+      "entidades_detectadas": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "frase": "Se ve, por ejemplo, la relación entre [nombre del entrevistador] y Elon Musk, donde se anuncian inversiones que muchas veces no se concretan.",
+      "entidades_detectadas": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "frase": "¿Es positivo o negativo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— Existe un debate internacional al respecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Grandes empresas y empresarios tienen hoy un peso relativo superior al de la institucionalidad representada por los presidentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La concentración económica y el poder de las grandes empresas son temas centrales a considerar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Autores como Thomas Piketty o el exministro de economía griego (que habla de \"tecno-feudalismo\") lo analizan.",
+      "entidades_detectadas": [
+        "Thomas Piketty"
+      ]
+    },
+    {
+      "frase": "El mundo tendrá que encontrar un equilibrio institucional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una discusión compleja que excede el alcance de esta entrevista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "— José, como siempre, un placer.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "— Gracias, un abrazo.\"\n\n\n**",
+      "entidades_detectadas": [
+        "Gracias"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Gracias",
+    "Elon Musk",
+    "Andrés",
+    "Buenos",
+    "Apellido",
+    "Unión Industrial",
+    "José",
+    "Persisten",
+    "Ucrania",
+    "Estados Unidos",
+    "Thomas Piketty",
+    "Argentina",
+    "¿Crees",
+    "Europa",
+    "Debe",
+    "Unión Industrial Argentina",
+    "José Urtubey",
+    "José Jorge Rialde",
+    "Wall Street",
+    "ONU",
+    "¿"
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 49,
+      "derecha": 15
+    },
+    "score_promedio": 0.301,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Que la Cata se nos venga humilde, y que al Estado lo deje limpito, que no haya ni un senador, ni un diputado, ni un milico.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es mi ilusión de libertario sacar subsidios al agro, poder vender usted y Ancap, y, por supuesto, Cerro TV Ciudad.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si viene para Uruguay toda esta moda de libertarios, hay que dejar de gastar en el Estado y sus funcionarios.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que pretenda comer, que trabaje, y si trabaja y no le alcanza, que sea libre de morirse de hambre.",
+      "score": 0.555,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta de sueldos incompetentes, que le lavan el bocho a tanta gente y que te dicen estupideces que van en contra de la libertad.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo con reír, nunca hay que subestimar, no se descuiden, viven esperando.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy buenos días, bienvenidos a Modo Fontevecchia, en este Modo Fontevecchia especial que vamos a tener durante unos días, porque Jorge se tomó algunos días de merecido descanso, así que todo el resto del equipo de Modo Fontevecchia aquí estaremos al frente del envío y abriamos con lo que podría ser ya la victoria del programa, realmente un hallazgo de esta murga.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Cayetana, un hallazgo que es la murga La Cayetana con la mirada que tienen desde el otro lado del Río de la Plata, de lo que está pasando en Argentina, y casi si prestaron atención a la letra, una descripción bastante acertada de lo que viene pasando en la Argentina en los últimos tiempos, especialmente con la llegada de Javier Milei al poder.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un Javier Milei que bueno, sigue dándole primera entrevista a los amigos, siempre cada dos o tres días está apareciendo en La Nación+ y sigue apuntando contra todos, o contra casi todos, abriendo frentes de conflicto, casi como...",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "bueno, mostrando que esa es un poco la estrategia que está teniendo Milei a esta hora, confrontar con todos.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, aquí Gustavo Córdoba del otro día nos decía que esto empieza a variar, empieza a cambiar, que la gente ya empieza a distinguir como el culpable de la crisis, al principio de diciembre era toda la culpa de la crisis era el gobierno anterior, un poco de este gobierno, y que esos porcentajes empiezan a cambiar.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ayer hubo otro capítulo de Milei contra la casta, en este caso una vez más, la Cámara de los Diputados, \"nido de ratas\", le dijo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero además, no distinguió unos u otros, habló de la Cámara de Diputados como un nido de ratas.",
+      "score": 0.801,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pelea que viene teniendo con todo el ámbito de la cultura, con Lali Espósito a la cabeza, una vez más, ayer le quisieron tirar un centro diciendo \"¿Te parece la pelea con Lali Espósito?\", y volvió Lali Espósito le respondía a su entrevistador favorito, seguía con esta pelea.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, un poco de todo, decíamos que está pasando en el día de hoy, la murga La Cayetana, con eso empezábamos, que parodió lo que tuvo que ver con estos primeros días de Javier Milei en el poder.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Presidente tiene que abrir las sesiones ordinarias del Congreso, allí tiene que ir Milei.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 1 de marzo, un símbolo de una tradición democrática, donde el Presidente le habla al legislativo, el poder ejecutivo le habla al legislativo.",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Allí estuvieron todos, allí recordaba Pablo Gelo, Néstor Peréz Alfoncín sentó las bases de nuevas formas de convivir socialmente.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner dijo que no dejaría sus convicciones en la puerta de la Casa Rosada.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También Mauricio Macri habló de pobreza cero.",
+      "score": 0.24,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri, sí, se dice, habló de pobreza cero y su deseo de unir a los argentinos en la obra de Javier Milei, que parece querer llegar a ese día tan importante, no solo poniendo en duda qué hará con su discurso, sino además dinamitando los frentes con toda la oposición, llega diciendo literalmente que se trata de un nido de ratas el Congreso Nacional, especialmente los diputados.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar a repasar lo que fueron las últimas declaraciones de Javier Milei en el día de ayer, que habló en dos lugares, se habló en un mitin libertario allí en la provincia de Corrientes y después en una entrevista televisiva, si, algunas señales que empieza a dar el gobierno y hay que también tener en cuenta, fue a Corrientes y tuvo un breve encuentro con el gobernador, con Valdés, empezó a tender algunos puentes, al mismo tiempo que los rompe.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toda esa posición tan drástica que los uruguayos con su tradición del humor político en la murga contaban también, al mismo tiempo que, por ejemplo, el ministro de Economía, Luis Caputo, decía que el gobierno estaba planeando volver a la carga con la Ley Ómnibus, a cambio de que los gobernadores se sienten a discutir el pacto fiscal.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras decía eso, que por supuesto tiene un correlato inmediato en el Congreso, el propio presidente Milei decía que el Congreso era un nido de ratas, con lo cual siempre con la marcha y la contramarcha, el gobierno sigue desarrollando este plan, del cual vamos a hablar después de cómo se está licuando todo, pero digo, siempre con marchas y contramarchas en el plano político.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pese a esto, romper relaciones con casi todos los gobernadores, empieza a querer volver a tejer una relación ayer con Valdés, hoy va a estar Guillermo Francos también en Salta, con algunos gobernadores del norte y tratar de recomponer ahí algún tipo de relación, el discurso duro de Milei y después hay algunos de sus funcionarios que tratan de tender algún puente.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, decíamos ayer estuvo en Corrientes Milei, en este, el empresario del club de la libertad se llama, habló, disparó hacia todos y no casualmente habló de Leandro Santoro.",
+      "score": 0.191,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos, el viernes aquí, Gustavo Córdoba, el consultor, dijo que era uno de los que sorprendentemente aparecía como antagonista del propio Milei, y Milei habló de Leandro Santoro, pero también habló de nosotros de Modo Fontevecchia.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escucha lo que decía Javier Milei de Modo Fontevecchia y del propio Leandro Santoro.",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Leandro Santoro, en este momento oficiaba como el hombre de los medios de Alberto y después, con lo cual, a eso tuve una alerta, y después vi a Leandro Santoro directamente pidiendo por que se me censurara a mí directamente, directamente que se me censurara.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Javier Milei hablando de Santoro, digo nada casual, no lo está subiendo al ring a Santoro, pero lo nombra a él cuando es alguien que aparece bien en las encuestas.",
+      "score": 0.461,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei está en la listita de los traidores, la listita negra López Murphy, y les hablaba a los liberales que estaban ayer unidos en Corrientes, y hasta les decía, yo sé que a ustedes por ahí esto les duele, pero López Murphy es esto, esto, esto y esto.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei contra López Murphy.",
+      "score": 0.352,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El señor Larreta creó una lista alternativa encabezada por el traidor López Murphy, que imagino que les duele escucharlo, pero que es un traidor de las ideas, un señor que, por ejemplo, entre otras cosas, me hacía por su gente tratar de nazi o decirme que era quicerista de buenas modales, quicerista de derecha, o castrista, alguien que trabajaba para un socialdemócrata con vocación intervencionista, y en lugar de disputarle la interna, se dedicaba a ensuciarme a mí, con lo cual, bueno, lo que yo he hecho, con lo cual, bueno, que estén quienes son los que se disfrazan de liberales y son verdaderas basuras que van en contra de las ideas, y obviamente que eso vale para los que venían atrás en la lista también, tómenlo como quieran.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí estaba, fuerte Milei en contra de López Murphy y dijo no, yo no voy a salir a responder públicamente, pero escribió en Twitter, a través de las redes sociales, hizo una suerte de respuesta a esta agresión que recibió del presidente en la noche de ayer.",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le vamos a pedir a Elian López Caucero, nuestro compañero, que lea por favor el posteo de lo que escribía López Murphy allí en la red social.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, mis muchos años luchando con coherencia y civismo por nuestra patria hablan por mí.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le deseo templanza, sabiduría y que Dios lo acompañe en el importante trabajo que tiene por delante.",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decíamos, habló y mucho Javier Milei.",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei otra vez saliendo duro, es casual que salga y cite duro justo cuando aparecen lo que hablamos ayer, no todos los datos de pobreza y los indicadores de lo que está sucediendo en la Argentina.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que aparentemente la inflación va a seguir en baja, y eso desde luego es un punto que el gobierno puede anotarse en términos de gestión y en términos también de opinión pública, digamos, eso va a tener un impacto.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer el ministro de Economía, Luis Caputo, dijo que la inflación de febrero estará más cerca del 10 que del 20, es decir, que va a haber otra baja de unos 5 puntos aproximadamente, y desde luego eso también tiene varias implicancias, una de ellas es que cuanto más rápido caiga la inflación, más rápido se va a detener la licuadora, ¿no?",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es en base a esos dos puntos, y no en base a un ahorro real y a un recorte o reorganización del estado, que se está frenando el gasto, y con eso se está frenando el déficit.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí nos vamos a meter en un ratito con todo lo que dijo Caputo que también habló en el día de ayer, donde habló.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el canal oficial, no hablan todos en La Nación+, pero volvíamos a Javier Milei, en modo campaña, en modo campaña presidencial, en modo Trump, se parece en eso al ex Presidente de Estados Unidos.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decía esto de los diputados de la nación del Congreso Nacional, el 56% de los argentinos lo vio y se despertó y que por la lógica del sistema electoral todavía no tenga esa representación en ese nido de ratas que es la Cámara de Diputados, porque es el Congreso de la Nación.",
+      "score": 0.779,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La opinión del presidente Javier Milei de la Cámara de Diputados y muestra un poco también la percepción que tiene de las instituciones democráticas Javier Milei.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordamos aquí varias veces en el programa aquella famosa entrevista que dio de candidato, donde le preguntan \"¿Creen el sistema democrático?\", y él nunca responde la pregunta, responde con una pregunta, con una pregunta.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siguiente pregunta, pero no, él nunca responde esto, y a eso nos recordamos ahora cuando tiene que hablar de otra institución, él es el poder ejecutivo, el poder legislativo, y dice lo que escuchamos, lo que acaba de decir, evidentemente cuando habla de los gobernadores o de los intendentes, todavía no le han pedido tanto con la justicia, pero ya va a llegar, cuando llegue fachos, también contra la justicia seguramente cuando llegue el momento.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el propio Estado quien debe hacer las reformas que él ansía tanto, y que son tan ambiciosas, y al mismo tiempo es ese Estado el que él critica, denigra, y de algún modo está subestimando todo el tiempo, con lo cual es complejo saber cómo va a ser con esa organización a la que él tanto detesta para implementar las reformas que dice que va a implementar exactamente y es toda una intriga de cómo va a seguir efectivamente esa relación donde va a necesitar una relación con los gobernadores, con el congreso, y a la vez son instituciones que él desprecian, desprecian públicamente.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También habló del tema educación, habló bastante Caputo, lo vamos a ir tratando con Ferre, pero sí sorprendió esto porque desde el gobierno, desde la Casa Rosada venían diciendo que la ley de ómnibus estaba enterrada, que iba a haber algunos llamaban hasta ley \"fitito\", digamos, varias leyes para que el congreso a partir del 1 de marzo vaya tratando los distintos temas de lo que era la ley de ómnibus, pero Luis Caputo, el ministro de Economía, no descarta que se vuelva a tratar la ley y esto sí sorprendió en la noche de ayer.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted me está diciendo que no descarta la ley, que se vuelva a tratar la ley en el congreso.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le está diciendo, ustedes quieren plata, quieren paquete fiscal, bueno, sentémonos a hablar de la ley ómnibus, algo así le está diciendo.",
+      "score": 0.551,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es algo de eso, por un lado, el gobierno, por eso se rescinden las marchas y contramarchas, al mismo tiempo que retiró la ley, y dijo, si la ley no es como la quiero yo, no quiero ley, y al mismo tiempo en que, digamos, casi al mismo tiempo en que Luis Caputo decía esto por La Nación+, el presidente Milei en el foro libertario en la ciudad de Corrientes decía que el congreso era un nido de ratas.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No obstante eso, Caputo también dejó otras definiciones, habló de inflación, como decíamos hace un rato, y también habló del cepo cambiario.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí estaba Luis Caputo hablando de esto de que esto se sale.",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había algo más de Caputo que hablaba de los gobernadores, nos había quedado uno de los gobernadores que es interesante, lo decía Fer, la relación con los gobernadores, ¿qué va a pasar de aquí en más?",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto que está mostrando también Javier Milei y su gobierno.",
+      "score": 0.424,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei cada vez que hace declaraciones, son duras, golpea con la ley, decía la Ley Ómnibus, a todo o nada, y después terminó sacándole muchos artículos.",
+      "score": 0.277,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Caputo hablaba también de los gobernadores y decía que algunos ya incluso están arrepentidos, hay muchos gobernadores que, por lo que es el paquete fiscal, que es en lo que ellos más se fijan, bueno, están reconsiderando oposiciones.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El de Córdoba me parece que no.",
+      "score": 0.591,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En definitiva, Javier Milei contra todos, contra todos, con esta murga uruguaya que escuchábamos al principio del programa, que casi era la editorial perfecta.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y con Uruguay hay una noticia ahora, Ferdinand.",
+      "score": 0.604,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la ANSES no tiene conducción, y además ayer en esa misma entrevista el ministro Caputo hablaba del esfuerzo que están haciendo las segundas y terceras líneas de las distintas reparticiones del gobierno, y lo cierto es que también hay muchos de esos cargos que están vacíos, donde directamente no se designó a nadie.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, día 72.",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 64
+  },
+  "etiqueta_original": "neutral"
+}

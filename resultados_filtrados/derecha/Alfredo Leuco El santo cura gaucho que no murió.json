@@ -1,0 +1,43 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El primero involucra a una niña sanjuanina llamada Camila Brusotti, quien quedó en estado vegetativo después de ser brutalmente golpeada por su madre y su padrastro, quienes fueron detenidos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "José Gabriel del Rosario Brochero fue un verdadero gladiador del Evangelio, que, montado en su mula, con su poncho y un cigarro colgando de los labios, cruzó una suerte de cordillera de los Andes cordobesa, como son las Altas Cumbres, para integrar a esos gauchos olvidados en sus necesidades básicas, en medio de la humildad de sus ranchos.",
+      "entidades_detectadas": [
+        "rosario"
+      ]
+    },
+    {
+      "frase": "Dicen los historiadores que, como buen hombre de campo, experto en tareas agrícolas, \"puteador\" y corajudo, se despidió de la vida con un rosario en las manos, diciendo: \"Ahora tengo puestos los aparejos, estoy listo para el viaje\".",
+      "entidades_detectadas": [
+        "rosario"
+      ]
+    },
+    {
+      "frase": "Brochero cursó en la Universidad de San Carlos junto a Miguel Juárez Celman, quien después sería presidente de nuestro país, y a Ramón J.",
+      "entidades_detectadas": [
+        "carlos",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El genio popular de Lucas Demare lo inmortalizó en una película que protagonizaron Enrique Muiño y Carlos Difulio.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Ojalá el papa Francisco pueda recuperar ese espíritu y condenar la violación de los derechos humanos, los crímenes, el hambre y los presos políticos que la dictadura de Nicolás Maduro ha multiplicado en Venezuela.",
+      "entidades_detectadas": [
+        "francisco",
+        "maduro"
+      ]
+    }
+  ]
+}

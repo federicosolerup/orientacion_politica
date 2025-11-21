@@ -1,0 +1,31 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 1,
+      "derecha": 2
+    },
+    "score_promedio": 0.641,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En el kirchnerismo hay sectores que quieren que al gobierno le vaya mal para poder volver.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que en la Argentina, en democracia, un gobierno se tuvo que ir antes -y esto ocurrió con los dos únicos gobiernos no peronistas de estos 33 años: el de Alfonsín y el de De la Rúa- el costo lo pagó la gente.",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es importante que quienes, hoy, porque no lo quieren, a pesar de su legitimidad, quisieran que se fuera mañana, para aquellos que sueñan con el \"efecto helicóptero\" -en recuerdo de lo de De la Rúa-, tengan presente que todas esas crisis las pagó la gente.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 3
+  },
+  "etiqueta_original": "neutral"
+}

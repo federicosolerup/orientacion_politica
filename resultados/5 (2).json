@@ -1,0 +1,961 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La actualidad del automovilismo en la voz de Eduardo Ruiz.",
+      "entidades_detectadas": [
+        "Eduardo Ruiz"
+      ]
+    },
+    {
+      "frase": "Radio 10, la radio del turismo carretero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La siguiente sección llega con toda la potencia y aceleración de la nueva Shelby GT500.",
+      "entidades_detectadas": [
+        "Shelby GT500"
+      ]
+    },
+    {
+      "frase": "Bien, dice, no se viene una nueva fecha del Turismo Carretera (TC), lo tengo a Eduardo Ruiz, que es el relator aquí en Radio 10 de las carreras del TC.",
+      "entidades_detectadas": [
+        "TC",
+        "Eduardo Ruiz",
+        "Turismo Carretera"
+      ]
+    },
+    {
+      "frase": "Eduardo, ¿cómo andás?",
+      "entidades_detectadas": [
+        "Eduardo"
+      ]
+    },
+    {
+      "frase": "Eduardo: ¿Cómo andás, Jorge?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¿Qué decís vos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Todo bien?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge: Muy bien, acá impregnados con olor a combustible porque trabajando en el auto que está en la esquina, lo prendí y ¡no sabés lo que es esto!",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Eduardo: Hermoso.",
+      "entidades_detectadas": [
+        "Eduardo: Hermoso"
+      ]
+    },
+    {
+      "frase": "Qué lindo, qué lindo.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Y vos sabés que esto tiene que ver con todo lo frío que se va a vivir respecto del próximo domingo, el domingo 20 de agosto, que corre el TC en Buenos Aires, después de dos años.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "TC"
+      ]
+    },
+    {
+      "frase": "Incluso la anterior edición, la del 2021 que ganó Urcera, fue sin público por el tema de la pandemia.",
+      "entidades_detectadas": [
+        "Urcera"
+      ]
+    },
+    {
+      "frase": "Jorge: Claro.",
+      "entidades_detectadas": [
+        "Claro",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Eduardo: Así que hay muchas ganas de la gente de ver el TC en Buenos Aires, que por otro lado está reinaugurando el autódromo que fue repavimentado en su totalidad en todos sus circuitos.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "TC",
+        "Eduardo: Así"
+      ]
+    },
+    {
+      "frase": "Así que, incluso la parte deportiva: el TC corre un calendario de 15 carreras, de las cuales las 10 primeras conforman la llamada temporada regular, y las últimas 5 conforman la Copa de Oro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en este punto, al caso es la décima carrera que termina la temporada regular y clasifica a los 12 primeros de la tabla para disputar la Copa de Oro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que mucha expectativa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo sé que por ahí estabas con Nicolás Trossetti.",
+      "entidades_detectadas": [
+        "Nicolás Trossetti"
+      ]
+    },
+    {
+      "frase": "Lo tengo acá, enfrente mío, a Niki.",
+      "entidades_detectadas": [
+        "Niki"
+      ]
+    },
+    {
+      "frase": "Bueno, Niki se está jugando todo en Buenos Aires porque está a 9 puntos de entrar en la Copa de Oro.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Niki"
+      ]
+    },
+    {
+      "frase": "Viene de probar el martes en La Plata y creo que es uno de los que va con el cuchillo entre los dientes para tratar de quedarse con la carrera y los puntos.",
+      "entidades_detectadas": [
+        "La Plata"
+      ]
+    },
+    {
+      "frase": "O sea, Niki, bienvenido primero.",
+      "entidades_detectadas": [
+        "Niki"
+      ]
+    },
+    {
+      "frase": "Nicolás: ¿Qué tal, chico?",
+      "entidades_detectadas": [
+        "Nicolás"
+      ]
+    },
+    {
+      "frase": "Buen día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eduardo: ¿Es así?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se te juega todo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nicolás: Totalmente, totalmente.",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Totalmente"
+      ]
+    },
+    {
+      "frase": "El campeonato es con un \"Play-Doh\", como decía Edu, a quien aprovecho a saludar.",
+      "entidades_detectadas": [
+        "decía Edu"
+      ]
+    },
+    {
+      "frase": "Estamos con chances serias, así que bueno, tenemos que apretar todas las clavijas porque estamos en el puesto 15, entran los 12 mejores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que bueno, imagino que para nosotros no va a ser nada relajado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso estuvimos probando el martes pasado en La Plata.",
+      "entidades_detectadas": [
+        "La Plata"
+      ]
+    },
+    {
+      "frase": "Eduardo: ¿Y cómo te fue?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo lo sentiste?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nicolás: Bien, bien.",
+      "entidades_detectadas": [
+        "Nicolás"
+      ]
+    },
+    {
+      "frase": "¿Vosotros sentís los autos, no?",
+      "entidades_detectadas": [
+        "¿Vosotros"
+      ]
+    },
+    {
+      "frase": "Eduardo: Sí, sí, se prueba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son dos pruebas en el año que nos da la categoría.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, obviamente fue el objetivo puro y neto pensando en Buenos Aires.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "La verdad que lo veo bien, me sentí bien en la prueba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está todo muy fino hoy en la categoría, o sea, a nivel piloto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge: ¿Qué significa?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¿Muy emparejado?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nicolás: Sí, sí, imagínate que somos 55, 53 autos, capaz que tenés en un segundo y medio a 40 autos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge: Claro, sí.",
+      "entidades_detectadas": [
+        "Claro",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Es muy parejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nicolás: Y bueno, eso te da obviamente la obligación de no marginar a nadie, de tener todo el auto perfecto para que la obvia entienda.",
+      "entidades_detectadas": [
+        "Nicolás"
+      ]
+    },
+    {
+      "frase": "Así que bueno, nosotros en nuestro caso estamos en esa situación que tenemos que ir a por todo y pelear contra grandes rivales como Matías Rossi y Christian Ledesma.",
+      "entidades_detectadas": [
+        "Matías Rossi",
+        "Christian Ledesma"
+      ]
+    },
+    {
+      "frase": "Así que bueno, no nos vamos a achicar, por eso fue la prueba, nos fue bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hizo un circuito lindo y bueno, en el contexto que se da, que el autódromo…\n\nEduardo: Es hermoso.",
+      "entidades_detectadas": [
+        "Eduardo"
+      ]
+    },
+    {
+      "frase": "Todos quieren ganar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se da justo la vuelta a Agustín Canapino, de Arrecifes.",
+      "entidades_detectadas": [
+        "Agustín Canapino",
+        "Arrecifes"
+      ]
+    },
+    {
+      "frase": "Jorge: Así que bueno, ojalá… En Arrecifes hay alguien que no corra, la verdad pregunto.",
+      "entidades_detectadas": [
+        "Arrecifes",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "En Arrecifes es muy loco.",
+      "entidades_detectadas": [
+        "Arrecifes"
+      ]
+    },
+    {
+      "frase": "Pero mirá el ambiente ese, no… Hay un dicho: cuando sos chiquito ahí no te dan la mamadera con leche, te dan nafta.",
+      "entidades_detectadas": [
+        "chiquito ahí"
+      ]
+    },
+    {
+      "frase": "Nicolás: No, no, no, no, son todos de Arrecifes.",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Arrecifes"
+      ]
+    },
+    {
+      "frase": "Jorge: Sí, es increíble.",
+      "entidades_detectadas": [
+        "Jorge: Sí"
+      ]
+    },
+    {
+      "frase": "Ya de chiquito yo tengo a mi primito, Mateo, el hijo de Norberto Fontana que ya…\n\nNicolás: Claro, porque Norberto Fontana es tu tío.",
+      "entidades_detectadas": [
+        "chiquito",
+        "Norberto Fontana",
+        "Nicolás",
+        "Mateo",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Jorge: Exactamente, y bueno, ya de chiquito la pelota te pasa por el costado, no le das ni bolilla.",
+      "entidades_detectadas": [
+        "chiquito",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "O sea, el fútbol ni bolilla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el karting.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y es una cosa que se da de generación en generación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso el olor a combustible se transforma en perfume para ustedes, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Nicolás: Exactamente.",
+      "entidades_detectadas": [
+        "Nicolás"
+      ]
+    },
+    {
+      "frase": "Perdón que hice un poquito de ruido recién, pero…\n\nJorge: No, no, no.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Nicolás: …claro, no, no.",
+      "entidades_detectadas": [
+        "Nicolás"
+      ]
+    },
+    {
+      "frase": "Jorge: Y sí, es algo de Arrecifes, es único, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Arrecifes",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Agradecido a los pilotos a nivel nacional que somos, hay mucho zonal también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre en la ruta escuchas ruido de auto de carrera porque siempre hay uno tirando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, eso se va dando, como les decía recién, de generación en generación y es una sensación única, ¿no?",
+      "entidades_detectadas": [
+        "generación",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Además, como que ves, no digo bueno, vos sobrino de Fontana, pero los Di Palma, digo, hay tradiciones dentro del TC que se van como… ¿no?",
+      "entidades_detectadas": [
+        "Di Palma",
+        "Además",
+        "Fontana"
+      ]
+    },
+    {
+      "frase": "Transmitiendo esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y va a seguir, eh.",
+      "entidades_detectadas": [
+        "eh"
+      ]
+    },
+    {
+      "frase": "Va a seguir porque hoy veo muchos chicos en karting, en Fórmula, que son los primeros pasos del automovilismo.",
+      "entidades_detectadas": [
+        "Fórmula"
+      ]
+    },
+    {
+      "frase": "La condicionante de nuestra disciplina es lo económico, el presupuesto que se maneja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, la pasión, yo siempre digo, tira más sobre ese tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que es algo lindo y bueno, si van a venir al autódromo, que creo que van a venir, van a ver lo que se siente, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Que es algo muy lindo para nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eduardo: ¿A qué hora arranca esto, Eduardo?",
+      "entidades_detectadas": [
+        "Eduardo"
+      ]
+    },
+    {
+      "frase": "Jorge: El sábado empieza todo a las 10 de la mañana, el sábado son entrenamientos y las clasificaciones.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Y el domingo tenemos muy temprano, a la 1:30, la primera serie; después se larga a las 10 de la mañana la segunda, a las 10:30 la tercera y a partir de la 1:15 del mediodía aproximadamente está la largada de la final, que por otro lado bien vale recordar que los colores que estaremos relatando desde el domingo a las 12:30 con una transmisión realmente muy grande que vamos a estar armando con toda la gente de la radio.",
+      "entidades_detectadas": [
+        "mediodía"
+      ]
+    },
+    {
+      "frase": "Eduardo: Perfecto, día de elecciones, día de carrera, lindo, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Es el 20, el 20, el 20.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge: Ah, voy a ir, boludo, me gusta.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Te invito a mi box a que vengas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eduardo: Dale, sí, me gusta, me gusta mucho, me gusta mucho.",
+      "entidades_detectadas": [
+        "Eduardo: Dale"
+      ]
+    },
+    {
+      "frase": "Si vas a una fiesta… y lo que decía recién se agrega.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es una fiesta, el TC?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál es el lugar donde de verdad se vive muy fuerte?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "¿Provincia o interior?",
+      "entidades_detectadas": [
+        "Provincia"
+      ]
+    },
+    {
+      "frase": "Nicolás: El interior es fortísimo, en el caso nuestro todo, bueno, yo soy de Arrecifes, como decía, pero toda la zona, el núcleo de la provincia de Buenos Aires es fortísimo y se da justo con la cuestión de distancia que bueno, el autódromo imagino que va a explotar porque es un lugar cercano para la mayoría, ¿no?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "provincia de Buenos Aires",
+        "Arrecifes"
+      ]
+    },
+    {
+      "frase": "Buenos Aires en sí es fierrero, pero nada, aparte siempre es extraño correr en el autódromo, siempre tiene el…\n\nJorge: ¿Por qué?",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¿Por la mística?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué es un circuito lindo para correr?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nicolás: Por la historia y el circuito en sí, o sea, siempre los pilotos buscamos la adrenalina, que es la alta velocidad; imagínate que el curvón que tiene Buenos Aires es al otro lado y la misma… El otro lado, es verdad, y ahí uno queda, las calles, ¿no?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Buenos Aires",
+        "¿"
+      ]
+    },
+    {
+      "frase": "La exigencia, la exigencia, las calles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, el curvón del \"Ovalo\", la mínima que se transita son 200 kilómetros, doblando.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Jorge: ¿Doblando a 200 kilómetros?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Nicolás: Sí, esa sensación para el piloto es única y obviamente te lleva a imprimir demasiado en el auto valores aerodinámicos, o sea, pone en jaque al equipo, al piloto, al motorista y todo fino, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "O sea, ahí parpadea… ¿Cómo estás en tu auto particular cuando te encontrás a máxima 60?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te volvés loco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge: ¿Ves que lo tomo con Carlos porque no soy… en este día te relacionan, que sos piloto…\n\nNicolás: No, no, yo no soy de relacionarse.",
+      "entidades_detectadas": [
+        "Carlos",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "No, loco, me pasa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero calculo que… Mirá, te cuento una anecdota, ¿me has pasado viendo mi auto particular?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Jorge: No, no veo un piloto, no se lo vende a nadie.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Y no, todo lo contrario, yo ando tranquilo, pero sí, es loco, obviamente, las velocidades… O sea, ¿conviene comprar un auto a un…\n\nNicolás: A mí sí.",
+      "entidades_detectadas": [
+        "Nicolás",
+        "¿"
+      ]
+    },
+    {
+      "frase": "A un piloto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si vos mi auto cómo estás… Como la viejita, te conozco la idea… Era de un abuelito, el olor se acabó a los dos…\n\nJorge: Es gracioso, no, era de un piloto, aparte ahí no conocemos todo, demasiado en el exterior.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "No, es un piloto, no, todo lo contrario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay pilotos, obviamente, que… Todo lo que da, pero bueno, en el caso mío… Me descinto una pista que bueno, este es el lugar donde tenemos que hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eduardo: Qué lindo, 200 kilómetros por hora.",
+      "entidades_detectadas": [
+        "Eduardo"
+      ]
+    },
+    {
+      "frase": "¿Te tuvieron ustedes una vez, un auto de… Eso es… ojo, esto es velocidad de tránsito, velocidades finales estamos…\n\nJorge: ¡Maravilla!",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Lo que máximo llegamos es en Rafaela…\n\nNicolás: ¿Cuánto?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Rafaela"
+      ]
+    },
+    {
+      "frase": "295, estamos llegando más o menos, 290…\n\nJorge: ¡Casi!",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¡Tremenda!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ni en sueños se me pasó!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eduardo: ¿Nunca subieron?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No lo sentís?",
+      "entidades_detectadas": [
+        "¿No"
+      ]
+    },
+    {
+      "frase": "Nicolás: No, no, no… Yo subí con Martín Di Palma, que lo contaba… El hijo de puta me decía, \"vení que vamos cerca del par de hoy\"… Ese sí que está loco, ¿verdad?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Martín Di Palma"
+      ]
+    },
+    {
+      "frase": "Jorge: Sí, está, no, me di cuenta que está loco.",
+      "entidades_detectadas": [
+        "Jorge: Sí"
+      ]
+    },
+    {
+      "frase": "Y a punto de que me subí a un Fórmula 1, un Punta del Este, y subí a un Fórmula 1… Hacer un recorrido… despacio, en Fórmula 1, pero…\n\nNicolás: ¿Manejas vos?",
+      "entidades_detectadas": [
+        "Punta del Este"
+      ]
+    },
+    {
+      "frase": "¿Qué voy a manejar, sobra?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero vos… Habría salido en los diarios, boludo, pero vos me estás cargando, es imposible, manejar… Esto es un tipo común, vos me das a mí ahora este auto.",
+      "entidades_detectadas": [
+        "Habría"
+      ]
+    },
+    {
+      "frase": "Yo digo, yo sé manejar bien todo, el auto, es imposible…\n\nJorge: No, no, no es imposible, vas a girar, pero obviamente no vas a girar…\n\nNicolás: No, no, no, pero a 60 voy a ir…\n\nJorge: No, no, lo puedes poner, eh, porque te da seguridad el auto… Te la podés poner… Pero, hombre… También, también… Ahora, la concentración tiene que ser total…\n\nNicolás: Sí, sí, sí, entre… 1.000 segundos y… Sí, de hecho, hasta se entrena, hoy el nivel… El automovilismo ha cambiado muchísimo…\n\nJorge: Claro… Y no puedes marginar nada… No besas, no besas, es increíble, porque los besa todo, están todos físicamente… Uno lo bebía fan, que ofrecía González con los pantalones de acá arriba…\n\nNicolás: No, güey… Te comían tres platos de ravioles… De hecho, a ver, no sé, me voy un poquito del tiempo para atrás, que no hace tanto… Hoy, antiguamente un piloto se bajaba fumando… Hoy…\n\nJorge: Claro, claro… Hoy se ve, prácticamente… Hoy la demanda física que tiene un auto, para que la audiencia entienda, no tiene dirección hidráulica…\n\nNicolás: Claro, o sea que tiene que tener uno…\n\nJorge: Exacto, y te combina… Normalmente una carrera de calor, 35 grados ambiente, en el interior del auto te hace el doble, 70 grados… Entonces te combina la fuerza con el oxígeno…\n\nNicolás: Claro… Me sacaste la gana, me iba a hacer piloto… Si, pero no te supo… Sigo acá, sigo acá que estoy bien, estoy bien acá…\n\nJorge: ¿Cuántos kilos bajan por carrera?",
+      "entidades_detectadas": [
+        "También",
+        "Exacto",
+        "Nicolás",
+        "Jorge",
+        "Sigo",
+        "González",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Yo una vez hice la prueba, en una carrera en diciembre, y un kilo bajé… Que es líquido prácticamente…\n\nNicolás: Sí, claro… Pero es impresionante, es un horno adentro, o ya hay facilidades de rehidratación… ¿Tiene algún tipo de… algún aparato, algo que tenga un poquito de aire?",
+      "entidades_detectadas": [
+        "rehidratación",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Jorge: Sí, sí, tiene remeras con serpentinas, que es con circulación, digamos, una gomita de agua… En el caso mío no la uso, sí voy hidratado, tipo la mochila de CamelBak que usan los atletas… Que tenés un… cantante… Atrás de la mochila, ahora es una mochilita, que la usan los atletas, y tengo dos litros que lo tengo que regular, porque me quedo sin…\n\nNicolás: Claro, no te lo puedes tomar todo… La carrera es una hora más o menos, y si te lo tomas todo de golpe, te quedas…\n\nJorge: Me ha pasado, en la desesperación y nada…\n\nNicolás: ¿En serio?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Atrás",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Sí, sí… Los valores de pulsaciones y tensión que se manejan son altos, y bueno, tenés que… Es experiencia como todo, te vas haciendo y curtiendo, y bueno, después vas aspirando… Para… no, no, no… ¿Tiene?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No hay que… ¿Tiene como aura?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Él quiere correr para ir bajando de un kilo, no boludo… Yo estaba pensando en eso… No, no… No, no, no, no, es así, no, eso… Tienen que estar preparados… Nada, nada, nada… Además, si salís y te comés tres alfajores… Nada, el supo… Es una colación, no, no sean agresivos… Ya, si haces así… Bueno, entonces…\n\nJorge: Perdón, ahora hay una concentración, en el día anterior… El piloto… ¿Qué es eso?",
+      "entidades_detectadas": [
+        "Perdón",
+        "Además",
+        "Jorge",
+        "Nada",
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Yo… no, odio… Yo te digo, yo soy de la Pampa… Una marcha… Ustedes corren en toda la hora…\n\nNicolás: En toda la hora, sí… Pero, antes… estaba el Supercart…\n\nJorge: Sí, sí, sí… O el Mi… toda aquella época… Yo lo veía en el boliche el sábado de la noche… No voy a dar un mes… Y el domingo corrían… Ah, bue, que botón… Es pura… No está en semana… Sí, está muy sobrado el piloto para hacer eso… Bueno, eran los más conocidos, no digo muy… No, bueno… Pero no está… En toda la hora… ¿Cómo es el entrenamiento?",
+      "entidades_detectadas": [
+        "Jorge: Sí",
+        "la Pampa",
+        "Supercart",
+        "Nicolás",
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "El entrenamiento… En el caso de mí hago mucho karting… Es el primer paso del piloto… Eso te entrega muchísimos reflejos… Después es gimnasio… Mucha pesa, sobre todo la parte superior… El tren superior, porque es lo que más sufre… Con respecto a pedir un futbolista… Que por lo general más la parte inferior… Y después oxigenación… O sea, mucho aeróbico, porque bueno… Tienes capacidad pulmonar…\n\nNicolás: Exactamente… El precepto de Bilardo acá no se aplica, ¿no?",
+      "entidades_detectadas": [
+        "Después",
+        "¿",
+        "Bilardo",
+        "Tienes"
+      ]
+    },
+    {
+      "frase": "Jorge: ¿Cuál?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "El sexo antes…\n\nNicolás: No… No combina el sexo… No saca pierna, pero saca cabeza creo yo… No… Pero nada… A ver… Lo lindo de esto es que año a año… El TC se… O sea, no te da margen a nada… Se va elevando muchísimo la vara… Los pilotos, los equipos… Y está todo muy fino… O sea, el motorista tiene que estar fino… El chasis está lo mismo, el ingeniero… ¿Vos tenés que saber de todo?",
+      "entidades_detectadas": [
+        "¿Vos"
+      ]
+    },
+    {
+      "frase": "Digo, ¿el piloto tiene que saber de todo?",
+      "entidades_detectadas": [
+        "¿",
+        "Digo"
+      ]
+    },
+    {
+      "frase": "Jorge: Sí… Nosotros en el auto tenemos una adquisición de datos… Como para que la gente entienda… Es como hacer un estudio al corazón… Un electro… Y eso va marcando picos máximos y mínimos… En el caso nuestro de velocidades… Donde frenas, cómo doblas… ¿Qué velocidades tan ácidos tenés?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero vos bajar del auto y decir… Che, escuché tal cosa… La otra adquisición de datos es el piloto…\n\nNicolás: Claro… Que bueno, tenés que interpretar bien… Y sentir el auto, ¿no?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Che",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Porque es poco el tiempo que se tiene para entrenar… Y hay que estar rápido para tomar una decisión…\n\nJorge: Claro, pues luego el piloto… Bueno, bueno… No le reúte, más que todo el mundo lo elogiaba… Como un tipo que tenía un oído… Que tenía un oído y sabía de qué se trataba… Oír… Saber lo que le haces al auto… Tiene una información agregada… Para el fin de semana… Valiuosísimo… En el caso mío de Corro Confort… Es un auto complejo para poner a punto… Es variable a toda la pista… Al viento… Al cambio de clima… Y tenés que estar atento…\n\nNicolás: Claro… Porque son décimas… Que te pasan de estar primero a estar quince…\n\nJorge: Claro, sí, sí… O sea, es terrible… O sea, si te abrís de ojo y ya te fuiste… ¿Qué?",
+      "entidades_detectadas": [
+        "Valiuosísimo",
+        "Nicolás",
+        "Jorge",
+        "Bueno",
+        "Oír… Saber",
+        "Corro Confort",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Los Churros son el Boca River… De los autos del TC… ¿Cuál es Boca y cuál es River?",
+      "entidades_detectadas": [
+        "Boca River",
+        "River",
+        "Cuál",
+        "Boca",
+        "Churros"
+      ]
+    },
+    {
+      "frase": "Nicolás: Qué pregunta… Buena… Yo creo que… Churros Boca… Y Ford River hoy por hoy… Está muy pareja… Si vas a la estadística… Muy parejo… Pero bueno… Si lo mirás en la gente… Las hinchadas son terribles… De hecho, lo vamos a ver en el autódromo… La 15, la 4… Es impresionante el empuje que tienen…\n\nJorge: ¿Qué es la 15 y la 4?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "Qué",
+        "Jorge",
+        "Boca",
+        "Ford River"
+      ]
+    },
+    {
+      "frase": "Nicolás: Son los nombres de las hinchadas… Son los nombres… ¿Y cuál es?",
+      "entidades_detectadas": [
+        "Nicolás",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Churros 15 y ¿por qué ese nombre?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Por las tribunas del autódromo…\n\nJorge: Ah, bien… Por las tribunas del autódromo… O sea, están enumeradas… Las cuatro… Y nada, la realidad es que lo van a ver… Explota… Ya es temprano… Están… Cuando fui… Me dieron mucha noticia… Las caravanas, los cazarros… Bueno, lo sabes… Pero no pueden acampar… Pero, espera… No, acá no… No, pero este fin de semana, el 20… No pueden acampar… En la ordenanza de la ciudad… Había rosca con ellos… Acaba de salir un decreto, sí…\n\nNicolás: Sí, sí… Y la verdad es que es tan mítica que es… La realidad… Imagino que es todo nuevo, ¿no?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿",
+        "Jorge",
+        "Había"
+      ]
+    },
+    {
+      "frase": "Porque bueno, se ha hecho el autódromo… Se ha resfaltado íntegro… O sea… Está buenísimo… Voy a ir, voy a ir… Porque me gusta, me gusta…\n\nJorge: Micky, bueno, ja, te veo muy bien… Vamos a estar ahí pendientes… Todos los que vinieron acá y se sentaron… Ganaron…\n\nNicolás: ¿Ah, sí?",
+      "entidades_detectadas": [
+        "Vamos",
+        "Está",
+        "Jorge",
+        "Voy",
+        "Micky"
+      ]
+    },
+    {
+      "frase": "Bueno… Ahí antes… Amar, más cerca también… Amar, más cerca también… Te fuiste campeón… Después de esto… Gracias por venir…\n\nJorge: Dale… Déjame agradecer, obviamente… A toda la gente que me acompaña… Imitarlo a toda la audiencia… Me gusta cuando ustedes agradecen… Y que empiezan a agradecer… Y un imaginante que el proyecto nuestro… De… Hay que ponerle… De terceros… Y bueno, hoy es… Grande el esfuerzo que me ha hecho… Junta mayor… Pero invitar a… Veo a mucha gente en las redes sociales… Que bueno, quiere venir a la carrera… Un sorteo… En el caso mío, en mis redes sociales… Estoy haciendo un sorteo… Con el principal responso… Nicolás… @Nicolás Trossetti… Bien… Así que bueno, veo a mucha gente afuera… Que bueno, vi… Que están por todas las entradas… Viste… Por todas las entradas… Y bueno… Que se sumen al sorteo… Y bueno, espero que… Que estén asignando el sorteo… Dale, bien…\n\nEduardo: Eduardo, contame otra vez… Vas a el inicio de la gente… Lo que va a ser el próximo domingo…\n\nJorge: Próximo, próximo… El próximo, décimas de hecho el campeonato… Termina la temporada regular… Vayan… Hay muy pocas entradas disponibles… Yo te diría que casi están agotadas… Lo que tiene que ver con las populares… Y las… Entradas para voces… Y nosotros también en la radio… Vamos a estar sorteando entradas…\n\nEduardo: Jorge…\n\nJorge: Sí… Sigan el Instagram de Radio 10… @Radio10… Que la próxima semana… Estamos sorteando entradas… Para… Estas entradas… Para… La próxima semana… Estamos sorteando entradas… Para… Este magnífico evento… Del Autódromo de Buenos Aires… Eduardo, abrazo grande…\n\nEduardo: Abrazo Jorge… Gracias como siempre… 12:31 Noticias… Vamos… Ahora estás informado… El 100… Como la nueva… (repetición innecesaria omitida)\n\n\n**",
+      "entidades_detectadas": [
+        "Gracias",
+        "Estoy",
+        "Eduardo",
+        "@Nicolás Trossetti",
+        "Dale",
+        "Viste",
+        "Próximo",
+        "Nicolás",
+        "Vamos",
+        "Amar",
+        "Abrazo Jorge",
+        "Vas",
+        "Jorge: Sí… Sigan el Instagram",
+        "Jorge",
+        "Grande",
+        "Entradas",
+        "Después",
+        "Veo"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Totalmente",
+    "Qué",
+    "Nada",
+    "Había",
+    "Christian Ledesma",
+    "Habría",
+    "Además",
+    "Jorge: Sí… Sigan el Instagram",
+    "Claro",
+    "Amar",
+    "Boca",
+    "Entradas",
+    "Provincia",
+    "provincia de Buenos Aires",
+    "Urcera",
+    "Jorge",
+    "Así",
+    "Sigo",
+    "Gracias",
+    "¿Vos",
+    "Estoy",
+    "Vamos",
+    "Nicolás",
+    "Fontana",
+    "Niki",
+    "Boca River",
+    "Norberto Fontana",
+    "River",
+    "Cuál",
+    "Corro Confort",
+    "Jorge?",
+    "Di Palma",
+    "generación",
+    "Niki.",
+    "TC",
+    "Después",
+    "Ford River",
+    "Martín Di Palma",
+    "Jorge: Sí",
+    "Fórmula",
+    "¿",
+    "Supercart",
+    "decía Edu",
+    "Micky",
+    "chiquito",
+    "rehidratación",
+    "¿Qué",
+    "Abrazo Jorge",
+    "Turismo Carretera",
+    "Los Churros",
+    "eh",
+    "¿Vosotros",
+    "Eduardo Ruiz",
+    "Punta del Este",
+    "Viste",
+    "Shelby GT500",
+    "Atrás",
+    "Agustín Canapino",
+    "Eduardo: Así",
+    "@Nicolás Trossetti",
+    "TC?",
+    "Mateo",
+    "Perdón",
+    "Dale",
+    "Eduardo: Hermoso",
+    "Veo",
+    "También",
+    "Agradecido",
+    "Nicolás Trossetti",
+    "Valiuosísimo",
+    "Matías Rossi",
+    "Grande",
+    "Voy",
+    "Digo",
+    "Exacto",
+    "Está",
+    "Bilardo",
+    "Arrecifes",
+    "Carlos",
+    "mediodía",
+    "Eduardo",
+    "la Pampa",
+    "Transmitiendo",
+    "Vas",
+    "Tienes",
+    "Bueno",
+    "Oír… Saber",
+    "González",
+    "Buenos Aires",
+    "La Plata",
+    "Rafaela",
+    "Próximo",
+    "Che",
+    "chiquito ahí"
+  ]
+}

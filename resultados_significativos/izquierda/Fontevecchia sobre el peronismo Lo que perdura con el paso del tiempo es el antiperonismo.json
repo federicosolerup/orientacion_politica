@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 5
+    },
+    "score_promedio": 0.261,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Él decía que si Perón volviese a la vida y hubiese la \"peronidad\" que tiene su partido político, se asombraría.",
+      "score": 0.498,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como decía Alan Ruquier, la perdurabilidad del peronismo tenía que ver con la fuente aglutinante que generaba el antiperonismo.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para Ruquier, el kirchnerismo era la nueva vida del peronismo plástico, luego del paréntesis de Menem.",
+      "score": 0.293,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿O hay distintos peronismos y eso es lo que le da la grandeza al peronismo, y hay un solo antiperonismo?",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le voy a leer un pedacito de este texto.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es, a nuestro juicio, la causa que hace que la Argentina viva en una crisis ininterrumpida, apenas disimulada por algunos momentos de bonanza económica que funcionan como anestesia de las inteligencias.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta mirada cáustica, esta mirada negativa respecto de lo que representa el peronismo, es la que tiene el antiperonismo, que me parece muy aguda la visión de Alan Ruquier, de que es lo que le ha dado perennidad al peronismo iconoclasta, heterogéneo, que permite todas las alternativas, casualmente porque lo que lo unifica es el antiperonismo.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar, como es común en este programa, una serie de audios que hilvanan distintos momentos del 17 de Octubre: el primero, el primer acto, no, no el primero, uno de los últimos actos de Evita del 17 de Octubre, luego el propio Perón, y luego vamos a ir pasando por los distintos presidentes: Isabel Perón, Carlos Menem, Néstor Kirchner, Cristina Fernández de Kirchner y Alberto Fernández, todos sobre el 17 de Octubre y poder ir construyendo, en ese hilván, a lo largo de ya más de 70 años, bueno, la historia argentina y si realmente hay un concepto antropológico de ser peronista, es ser argentino.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Evita:** Compañeros, como la señora está un poco débil para no esforzarse demasiado, que le puede hacer mal, guarden el más absoluto silencio mientras ella les dirige la palabra.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a un Perón rememorando lo que fue el 17 de Octubre, pero ya un Perón en el exilio, ya un Perón que le habían pasado bastantes años; hay 20 años de diferencia entre el audio de Evita que ustedes escucharon y el que van a escuchar ahora de Perón, en 1971.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Allí empezaron todos a venir a ver y el 17 de Octubre ya, a mediodía, comenzaron las columnas a salir de Avellaneda, de Villa Vallecer, venían avanzándose de la Plaza de Mayo, pero yo tranquilo, tranquilo, porque estaba viendo cómo se producían las cosas y sabía perfectamente que un gobierno militar, como le digo, es fuerte, sí, pero frágil, usted está en un poco, funciona en el aire y sabía que en un momento cualquiera podía ser crecido en ese abajo del gobierno, como efectivamente sucedió ante la acción popular.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, este audio no es del 17 de Octubre sino del 1 de Mayo, pero como habla de la lealtad y de la fidelidad, de Beníaco, esto es muy interesante, la etimología y el propio significado que le asigna la Real Academia Española a la palabra lealtad y la conecta con fidelidad, o sea, quien guarda a alguien o algo de vida fiel, digno, benéfico, fiel en el trato del desempeño de un oficio o cargo.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ¿qué tendrán que ver el peronismo de Menem, la interpretación del peronismo de Menem con esta que van a escuchar ahora de Néstor Kirchner?",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Néstor Kirchner:** No hay que hagamos tampoco en ver quién hace el acto del 17 de Octubre más peronista y quién es el dueño del 17 de Octubre, dijo Néstor Kirchner.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora a Cristina Fernández de Kirchner, 17 de Octubre de 2008.",
+      "score": 0.291,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner:** Recordar el 17 de Octubre nos remite siempre a un valor, al valor de la lealtad.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, una Cristina Fernández de Kirchner pura.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora vamos a escuchar el último 17 de Octubre, en este caso de Alberto Fernández, 17 de Octubre del año 2020.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández:** Antes del 17 de Octubre, un mes antes, en Argentina, el 19 de Septiembre, llenaron las calles muchos argentinos que en nombre de la República, de la Constitución, reclamaban la renuncia de un coronel que le estaba dando muchos derechos a la gente.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque cuando el pueblo vio a su coronel, al que le había dado derechos, al que les había reconocido un lugar en la sociedad, y salió a la calle a reclamar por ese redactor de derechos que era el coronel Juan Domingo Perón, ahí la historia cambió para siempre.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y entonces todos entendieron que había una Argentina invisible, que muchos creían que no existía.",
+      "score": 0.566,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

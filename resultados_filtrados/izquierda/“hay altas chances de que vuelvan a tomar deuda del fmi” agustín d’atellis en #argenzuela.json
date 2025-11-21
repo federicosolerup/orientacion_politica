@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "D'Atellis explicó que el directorio del Fondo Monetario Internacional (FMI) aprobó un préstamo de US$ 20.000 millones a Argentina.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Históricamente, estos experimentos han fracasado en Argentina debido a la falta de reservas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La posibilidad de que los US$ 15.000 millones (o una parte significativa) del desembolso del FMI se utilicen de manera similar a ocasiones anteriores, sin un cambio sustancial en la situación económica, es muy alta, según D'Atellis.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "En resumen, D'Atellis considera la situación económica de Argentina muy grave, con un futuro incierto.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

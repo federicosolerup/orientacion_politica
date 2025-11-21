@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El estado es como ese tipo que tiene cuatro hectáreas, ¿no?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Esto es exactamente lo que va a pasar en la Argentina con el Estado elefantiático que tenemos, que consume desproporcionadamente y no da nada a cambio.",
+      "entidades_detectadas": [
+        "argentina",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Tenemos un Estado desastroso generado por el kirchnerismo y el peronismo, que mientras la Argentina \"daba\", se compraban votos.",
+      "entidades_detectadas": [
+        "argentina",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está desesperada porque, más allá de los amigos que le perdonan las causas, las investigaciones judiciales avanzan.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "El Estado se agranda y la nación se achica; es al revés de lo que se suele decir (\"achicar el Estado es agrandar la nación\").",
+      "entidades_detectadas": [
+        "nación",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Han agrandado tanto el Estado que la nación no alcanza, y mucho menos lo que producimos.",
+      "entidades_detectadas": [
+        "nación",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirby sigue siendo nefasta y destruye todo lo que encuentra.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

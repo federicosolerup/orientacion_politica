@@ -1,0 +1,281 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 35,
+      "derecha": 18
+    },
+    "score_promedio": 0.376,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La semana pasada nos puso frente a un fenómeno que transcurre en la Argentina en cámara lenta.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me estoy refiriendo a que el Observatorio de la Deuda Social de la Universidad Católica, que es junto con el INDEC una de las dos instituciones que produce estadísticas sociales en gran dimensión en la Argentina.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El último dato de esta encuesta de la Universidad Católica, de ese observatorio, es que en la Argentina hoy hay un 44,2% de pobres.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, uno podría decir, bueno, hay 44,2% de pobreza porque este año hubo una pandemia, cuarentena, etcétera.",
+      "score": 0.426,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno mira la serie, lo que está pasando en la Argentina desde hace cinco o seis años es un ascenso, un aumento de la pobreza bastante constante y en una proporción que se va manteniendo.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el segundo dato importante.",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Leonardo Gasparini**, que es un economista, probablemente el que más intensamente se ha dedicado a estudiar los fenómenos de pobreza en la Argentina, señala que en los últimos 25 años -escucha este dato, que ya lo hemos mencionado otras veces en Odisea, es un dato muy importante- en los últimos 25 años, la Argentina es el único país del mundo que ha aumentado su nivel de pobreza.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la Argentina es al revés.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O que va a la prepaga a que le reduzcan el plan de cobertura porque la cobertura médica que tenía hasta ahora no la puede solventar.",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, la economía argentina está estancada desde hace 10 años.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mitad de la población argentina trabaja en la informalidad, trabaja fuera de la ley, trabaja en negro.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo lo que hizo, significa contrastado con lo que **Perón** Donguey llamaba la Argentina peronista o lo que los sociólogos llaman la sociedad salarial, con vacaciones pagas, con cobertura de salud, con jubilación.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 50% de la fuerza de trabajo en la Argentina está fuera de esas condiciones.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un país con 43% de pobreza va a tener mucho Estado mucho tiempo.",
+      "score": 0.349,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente del Fondo Monetario Internacional cuando viene a las misiones acá quiere hablar con esos, con los dirigentes sociales, ver ese mundo.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si yo soy pobre y sé que no llego a fin de mes o que no llego a la noche, voy a tratar de cambiar mi voto por comida, por prestaciones muy elementales y eso empieza a regir a la política porque, como decía Santo Tomás, el que maneja la necesidad maneja la libertad y empieza a ver en los grandes partidos políticos tradicionales un sesgo pobrista a responder a este mercado de pobres que domina la demografía.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El kirchnerismo es incomprensible sin este fenómeno que se viene produciendo en cámara lenta en los últimos 20 años o más.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es lógico que el kirchnerismo sea el nombre del peronismo en toda esta época y que, tal vez, lo siga siendo, con el nombre kirchner o con otro nombre, va a haber una variante populista dominante, que también la hay en Juntos por el Cambio porque, mire qué curioso, ahora hay un debate de si **Larreta** gobierna una ciudad que es Bruselas, una ciudad pulenta, rica, ahora el principal proyecto político de **Larreta**, su nave insignia, su *showroom*, cuando quiere mostrar su gobernación, su administración, es la villa 31, es decir, lo que más le interesa a él en su configuración como líder político es mostrarle a la sociedad lo que él hace con la pobreza, toda la política empieza a estar regida por esto.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, es la figura más competitiva que tiene la política argentina en los grandes conurbanos y, sobre todo, en el conurbano bonaerense, representando este fenómeno que es un fenómeno no coyuntural, no episódico.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son más difíciles las negociaciones de **Guzmán** con su propio frente interno que las que tiene con el Fondo Monetario Internacional por esta razón de la que estamos hablando.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esto se agregan, además, los ajustes promisorios, no es solamente un ajuste del Estado nacional, la ciudad de Buenos Aires agrega ahora el impuesto a las tarjetas de crédito, empieza a haber diputados porteños kirchneristas que le reprochan a **Larreta**, como si fueran liberales ortodoxos.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El argumento principal es que está el COVID, por lo tanto no podemos ir a votar en agosto con COVID, el mismo COVID que no va a estar más en agosto porque llega la vacuna ahora en marzo, pues vamos a ir a votar con COVID sin COVID, no saben si elegir el argumento del COVID para bajar las PASO o el argumento del COVID para decir que el COVID desaparece por la vacuna.",
+      "score": 0.722,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En agosto, además, hay la posibilidad de que haya gente que vota por opciones como, por ejemplo, los libertarios, que le restan votos, obviamente, al maquerismo.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las internas son una herramienta principal del que no gobierna, de la oposición, del que le quiere dar pelea al gobierno.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El caso más notorio lo tenemos en Brasil, donde los jueces que pusieron preso a Lula y lo sacaron de la carrera, bueno, modificaron enormemente la carrera electoral, porque están sacando, excluyendo a un jugador principal de esa competencia.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este problema, este problema se ha convertido en el eje principal del conflicto entre **Cristina Fernández de Kirchner** y **Alberto Fernández**.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner** no denunció ninguna política del gobierno, salvo una, la política judicial.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La causa más relevante que tiene en curso **Cristina Fernández de Kirchner**, que es la causa por los gastos, por las operaciones en Vialidad Nacional, de la obra pública, ahí se discute si hubo o no sobreprecios.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que objetivamente -y **Cristina Fernández de Kirchner** lo sabe- es muy difícil una vez que uno fue condenado en un Tribunal Oral, donde está todo el despliegue, hasta diríamos teatral, de la justicia, con testigos enfrentados, acusaciones, respuestas, que eso se pueda dar vuelta en la Cámara de Casación Penal y aún en la Corte.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, si había sobreprecios en la obra pública, estoy lavando las coimas de esos sobreprecios, por lo tanto, esta causa de la obra pública es la que podría alimentar otras dos condenas en las causas por lavado de dinero de los hoteles de la familia Kirchner.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería importantísimo para **Cristina Fernández de Kirchner** que la Corte le dé la razón en algo que ella está pidiendo, que es: \"No, no, no, paren acá la película, que paren el juicio oral y que se haga una auditoría de toda la obra pública que se hizo para poder ver si hubo o no sobreprecios\".",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo similar pidió Julio De Vido hace poco tiempo, la Corte le dijo que no.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No son los únicos problemas que tiene **Cristina Fernández de Kirchner** y que la tienen, obviamente, inquieta, respecto de **Alberto Fernández**.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámara de Casación Penal acaba de convalidar la institución del arrepentido.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un largo debate del que participó la misma **Cristina Fernández de Kirchner** en el Congreso, cuando se empezó a discutir el tema del arrepentido en el caso Cabezas, 1997.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahora la justicia, el principal tribunal penal del país que es la Cámara de Casación, convalidó que esa figura es correcta.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de los cuadernos, hubo muchísimas versiones de que hubo una manipulación, de que se apretaba a la gente con la posibilidad de la prisión preventiva si no se arrepentía en tal cual sentido, si no involucraba a **Cristina Fernández de Kirchner** determinadas declaraciones.",
+      "score": 0.635,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La última razón de disgusto por parte de la Vicepresidenta es la designación del procurador, ella debe estar viendo, si yo me meto en la cabeza de **Cristina Fernández de Kirchner**, debe pensar: \"Pasó un año, sigo igual o peor en materia judicial y ahora me viene a proponer **Alberto Fernández** que al procurador, que es el que acusa, lo quiere poner en combinación con mis opositores, con los opositores de Juntos por el Cambio\", entonces va a tratar mis temas un procurador sostenido por dos piolines: uno, la Casa de Gobierno, el otro, Macri, Carrió, la oposición radical, no es para lo que vinimos al poder de nuevo, no es para lo que estoy denunciando, Lo Fer durante tanto tiempo.",
+      "score": 0.384,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Budu** en un vídeo directamente le dijo al Presidente: \"Ya hace un año que estamos en el poder y los temas judiciales no se cerraron\", o sea, dando por que el que tiene que cerrar los temas judiciales del kirchnerismo es el titular del Poder Ejecutivo, no un juez, que es la teoría del Lo Fer.",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos a hablar de las dificultades que tiene esta teoría, pero lo interesante es que alguien que dice que fue víctima de la persecución del poder político, como **Budu**, le pide al poder político que revierta esa situación, es decir, una especie de contra Lo Fer, le pide que siga cometiendo el mismo vicio solamente para garantizar ahora la impunidad y le pide a **Alberto Fernández**, al Presidente: \"Vamos, **Alberto**, ponete las pilas y resolvenos el problema porque para eso te bancamos llegando a la presidencia\".",
+      "score": 0.601,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A partir de ahí, una manifestación frente a la Corte culpando a la Corte de perseguir a quien fue Vicepresidente, con el argumento de que fue Vicepresidente, es un argumento extraordinario, porque supone la desigualdad ante la ley, como fue Vicepresidente merecería un tratamiento especial por parte de la Corte, pero el otro extraordinario es que fueron a presionar a la Corte aquellos miembros de un oficialismo que tiene una ministra de Justicia que la semana pasada le dijo a **Larreta**: \"Deje de presionar a la Corte con el tema de la coparticipación de la ciudad de Buenos Aires\", hay presiones buenas y hay presiones malas, si presiono yo no expresión, si presiona mi adversario expresión.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, hay una dimensión de todo lo que le pasó a **Budu** que tiene que ver con las humillaciones, es cierto, fue detenido no en la causa Chicón, en otra causa con las cámaras de televisión, lo imputaron y lo detuvieron al mismo tiempo, todo eso lo hizo el juez **Ariel Lijo**.",
+      "score": 0.403,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente que no, debería haber una sanción para el que dispone eso, del mismo modo que tendría que haber una sanción para el que después a los presos le pasó a **Budu**, también los espían en la cárcel a través de los servicios de inteligencia, como pasó durante el gobierno de **Macri**.",
+      "score": 0.377,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto insiste es una versión, esto podría haber llegado a quisner y Kirchner decidió que no lo iba a hacer esta gente el negocio con Chicones, sigo diciendo que es una versión y le había entregado el tema a **Budu**.",
+      "score": 0.599,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los dramas de **Budu** se originan en el resentimiento de este uso porque le arrebataron el negocio de las manos, esta escena tan rara de un señor que llama **Jorge Pacífico** que viene de las fuerzas armadas, que curiosamente tuvo algún protagonismo muy marginal y raro en el tema de la AMIA que dice: \"Yo escuché en un bar todo el tema Chicón, etcétera, lo anoté en un papel y fui a hacer la denuncia\", y quienes eran: \"No sé porque no me di vuelta, no los pude ver\", fueron cosas que escuché en un bar.",
+      "score": 0.209,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este programa, contamos, lo contó **Pancho Olivera** el año pasado, que hubo una denuncia que aparentemente provendría de un hermano de **Budu**, de que hay un una casa en la calle Misseto Vega, en cuyo subsuelo hay dos millones de dólares de **Budu**, fue poder ciudadano a hacer la denuncia al juzgado, el juez **Lijo**, el juez **Lijo** mandó unas máquinas de reconocimiento subterráneo de la Gendarmería, no detectaron nada, pero después se explicó, le explicó a **Pancho Olivera** el propio juez **Lijo** es que no podemos romper el piso porque desde que **Bonadio** le destrozó el departamento a **Cristina Kirchner** decidimos no romper ningún tipo de mampostería, por lo tanto, puede estar ahí la plata o alguien se la habrá llevado, vaya a saber quién, de dónde viene esa plata, existe o no existe.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no sé si le hace bien a **Cristina Fernández de Kirchner** estar como dirigiendo a un grupo humano donde allá atrás está, por ejemplo, **Ricardo Jaime** que él dijo: \"Sí, yo coimé, sí, yo cobré una coima y lo digo para que me bajen la pena porque quiero colaborar con la justicia\", casi que la presentan en esta foto como la jefa de una banda, no habría que cuidarla un poco más a la Vicepresidenta, más allá de **Budu**, más allá del Lo Fer, hay otras contradicciones interesantes.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy interesante que un gobierno que presta con tanto, con tanta minuciosidad, atención a la calidad de los procedimientos judiciales, todavía no puede decir que las elecciones en Venezuela han sido una truchada, 18 gobiernos en América Latina se han pronunciado diciendo que han sido un fraude, en el que además la participación fue del 30%, la Cancillería argentina sigue en silencio.",
+      "score": 0.457,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Unión Europea dice que esas elecciones son fraudulentas por las cuales **Maduro** se quiere quedar con el Congreso, que es lo último que le queda por quedarse para voltearlo a **Guaidó**, el gobierno argentino que se envuelve en la bandera del Lo Fer, ahí no ve una dictadura, en un gobierno que fue acusado por violación de los derechos humanos por Basel y por la comisión de Derechos Humanos de Ginebra de las Naciones Unidas.",
+      "score": 0.533,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Caetano** compara a la Argentina con Uruguay, compara partidos, vinculaciones, tradiciones y, en el final de la entrevista, dice: \"Nuestro presidente no es el presidente de la nación, es el presidente de la república, con todo lo que significa la palabra república, limitación del poder, periodicidad de los mandatos, división de poderes\", que él tan no dice entre nosotros \"la división de poderes es un dogma\".",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habla de Uruguay y dice algo más, dice: \"Entre nosotros, jamás el impulso político, la voluntad de poder se pone por encima del derecho\".",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El riesgo país del uruguayo es 146 puntos, el riesgo país de la Argentina es 1422.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uruguay toma deuda al 5%, la Argentina, si pudiera tomar deuda, la tomaría al 16%, saque sus conclusiones y reflexione acerca de si todo este desbarajuste institucional de demasiada corrupción tendrá que ver con la demasiada pobreza.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 53
+  },
+  "etiqueta_original": "neutral"
+}

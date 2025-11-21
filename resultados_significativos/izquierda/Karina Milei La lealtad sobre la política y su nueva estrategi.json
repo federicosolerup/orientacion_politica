@@ -1,0 +1,111 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 5
+    },
+    "score_promedio": 0.36,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Luego, esta fue una definición de un biólogo que se llamaba Anton de Bary, en el siglo XIX, pero luego la retoma el psicoanálisis.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar una intervención de **Karina Milei** en otro acto partidario, no el de ayer, que tiene pocos trascendidos por lo que la Secretaría General de la Presidencia del Presidente de La Libertad Avanza no dejó entrar a la prensa siquiera.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vuelvo a decir, es lo que mucha gente le asigna.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo decía siempre Nietzsche: que el ser humano puede soportar cualquier cosa, menos que no haya una explicación.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, frente a lo desconocido, le encontramos una explicación y suponemos que este es el resultado de que la gente quiere algo por el estilo.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a dar algunos de estos fragmentos de casos importantes a lo largo de la historia, y luego vamos a volver sobre específicamente ellos dos y qué le aporta a ellos.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego tenemos otro ejemplo de hermanos, hermanos en Roma, en el origen del poder de Roma, Rómulo y Remo.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de la revolución, el menor de los siete hermanos Castro-Ruz tuvo a cargo estructurar sus dos pilares institucionales, el Partido Comunista y las Fuerzas Armadas Revolucionarias.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En diferentes entrevistas, **Victoria de Masi**, autora del libro \"Karina, la hermana, el jefe y la soberana\", la periodista cuenta que el presidente necesita a su hermana para todo.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella le organiza la agenda de actividades, se ocupa de que coma, en ocasiones hasta de contarle la comida, se ocupa de que duerma, de organizar sus gastos, de administrar su dinero, del cuidado de la alimentación de sus perros y de la organización de su vestimenta.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando él quiso ser arquero, luego estrella de rock, luego estudiante de economía y, por último, dirigente político, siempre estuvo ella dándole su apoyo, su visto bueno y ayudando a quienes cuentan que gran parte de la seguridad personal del presidente se basa en poder sostenerse en la mirada amorosa y deslumbrada de su hermana.",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la imagen que le devuelve el espejo de su mirada, la mirada, la visión que tiene la hermana de su propio hermano.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto hace que el presidente tenga una sensación de fuerte gratitud con su hermana, que es absolutamente meritoria, que demuestra muy seguido.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y entonces Dios le mandó a Aarón para que, digamos, divulgue.",
+      "score": 0.475,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El primero es su capacidad de trabajo y organización: no solamente se encargó del día a día del presidente en todos los aspectos de su vida, sino que viaja por el país tratando de construir La Libertad Avanza y, efectivamente, está poniendo de pie un partido nacional.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto mismo le genera grandes problemas porque, finalmente, en lugar de ampliar su base, lo que hace es reducirla, como en un proceso de regreso del kirchnerismo, exclusivamente a La Cámpora, quedarse exclusivamente con aquellos que son absolutamente incondicionales, que no tienen el más mínimo gris ni la más mínima disidencia.",
+      "score": 0.379,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego confía en **Sebastián Paredez** en la provincia de Buenos Aires y en **Pilar Ramírez** en la capital federal, a quien reemplazó y desplazó a **Ramiro Marra**.",
+      "score": 0.324,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si a **Karina** le generás desconfianza, vas a ser apartado o tratado con lejanía.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el presidente y su hermana política, el Congreso es un nido de ratas, un consorcio de ladrones que se dedica a sostener curros, son capaces de hacer cualquier cosa, contratar, mantener su privilegio y, más allá de que esta sea una visión absolutamente cegada y que la política ha hecho grandes cosas en la historia de nuestro país, incluido la de dar estándares sociales históricos ubicados muy por encima de cualquiera de los países de la región, estos últimos años se ha visto un importante deterioro en la relación de los dirigentes políticos con sus representados y esto fue claramente aprovechado por este fenómeno que hoy nos encontramos.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 19
+  },
+  "etiqueta_original": "neutral"
+}

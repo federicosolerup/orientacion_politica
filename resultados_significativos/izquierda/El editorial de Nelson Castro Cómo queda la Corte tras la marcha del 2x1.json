@@ -1,0 +1,26 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 0
+    },
+    "score_promedio": 0.052,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Aquí está el texto corregido:\n\nQuiero, para finalizar, reiterar algo que mencioné al principio, refiriéndome a lo sucedido en el Congreso el martes y el miércoles.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No 80.000, sino 10 temas que Argentina necesita: educación, salud y seguridad social.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 2
+  },
+  "etiqueta_original": "neutral"
+}

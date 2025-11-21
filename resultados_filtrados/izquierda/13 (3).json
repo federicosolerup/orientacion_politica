@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La medida tomada elimina el precio máximo para la venta al consumidor, reemplazándolo por un precio de referencia que ya ha aumentado un 15%.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Si bien en las grandes ciudades empresas como YPF podrían respetar más el precio de referencia, en áreas más alejadas la situación es diferente.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Las empresas dictarán el precio, ya que la eliminación del precio máximo les otorga esa libertad.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Si bien la incidencia de las garrafas en las mediciones del INDEC es baja, para los cinco millones de argentinos que las utilizan, un aumento del 15% (y los futuros incrementos) tendrá un impacto significativo.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Pagamos energía como en Europa o Estados Unidos, pero con salarios mínimos que no superan los 500 dólares, en comparación con los 4500 dólares de Estados Unidos o los 1700-1800 dólares/euros de Europa.",
+      "entidades_detectadas": [
+        "europa"
+      ]
+    }
+  ]
+}

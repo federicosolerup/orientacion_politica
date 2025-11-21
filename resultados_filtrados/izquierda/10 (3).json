@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En áreas esenciales para la vida cotidiana, el Estado debe tener poder de regulación, como se demostró con el caso de los prepagos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Las hemos acotado al máximo; en el Senado se redujeron a cuatro.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "El Congreso ejercerá control y, si hay excesos, se suspenderá mediante una ley.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández pidió facultades delegadas, al igual que Mauricio Macri (quien pidió menos).",
+      "entidades_detectadas": [
+        "alberto",
+        "macri",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Bienes personales es un proyecto que Mauricio Macri intentó, disminuyendo el impuesto para eliminarlo.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "El actual presidente y vicepresidente de la Nación es…[se omite para brevedad].",
+      "entidades_detectadas": [
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "La cuestión constitucional es si la Cámara de Diputados puede plantear el proyecto original, más allá de las modificaciones del Senado.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "No todos los bloques estuvieron de acuerdo (Unión por la Patria no).",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    }
+  ]
+}

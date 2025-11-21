@@ -1,0 +1,55 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Entiendo que la amistad entre Alberto Fernández y Cristina Fernández de Kirchner con Vladimir Putin dificulte mantener una verdadera neutralidad.",
+      "entidades_detectadas": [
+        "alberto",
+        "putin",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Como víctima de la violencia, y como lo puede corroborar Javier (Javi),  fui atacada por no apoyar al kirchnerismo.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "¿Dónde están Ophelia Fernández y [nombre de la persona a la que se refiere]?",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Recuerdo cuando se criticó a Víctor Hugo Morales por supuestamente censurar a  [nombre de la persona a la que se refiere] por ser judío.",
+      "entidades_detectadas": [
+        "morales"
+      ]
+    },
+    {
+      "frase": "¿Qué les da Cristina Fernández de Kirchner?",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "El gobierno de Cristina Fernández de Kirchner se enfocó en la legalización del aborto y de la marihuana,  priorizando esto por encima de la seguridad de las mujeres.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "La juventud que comete delitos ahora pagará las consecuencias;  ni Cristina Fernández de Kirchner, ni Ophelia Fernández, ni La Cámpora los salvará.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

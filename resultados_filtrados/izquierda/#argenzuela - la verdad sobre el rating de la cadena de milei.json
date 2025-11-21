@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El pico máximo fue de 40 puntos.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Este fenómeno se replicó en México con *La Casa de los Famosos* en la plataforma VIX.",
+      "entidades_detectadas": [
+        "méxico"
+      ]
+    },
+    {
+      "frase": "El auge de los canales de noticias (ocho en Argentina, en comparación con los dos principales en Estados Unidos) ha impactado en la televisión abierta, creando una competencia interna, como se evidencia en la competencia entre *Telenoche* y los conductores de TN a las 21 horas.",
+      "entidades_detectadas": [
+        "tn"
+      ]
+    }
+  ]
+}

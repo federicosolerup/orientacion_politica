@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "**Jorge Rial:**  Gerardo  Huarte fue presidente del Comité Olímpico, ¿no es cierto?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Le pedí alojamiento en Brasil a [Nombre de la persona en Brasil] para un seleccionado nacional.",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "El gobierno de Cristina Kirchner lo creó en el 2010.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:**  ¿Cómo es la incidencia del Estado en el deporte olímpico en otros países?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "En otros países, no necesitas ese dinero del Estado porque hay un sistema que te da apoyo en estudios, transporte, etc.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Pero puedes cortar la dependencia del estado en cualquier momento.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Hay que empezar por algo, pero mientras tanto, el Estado debería hacer mucho más.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El Estado debe estar presente.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

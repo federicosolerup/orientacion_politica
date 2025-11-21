@@ -1,0 +1,44 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Un testigo escuchó a Milman decir, 48 horas antes del atentado contra Cristina Fernández de Kirchner del 1° de septiembre de 2022: \"Cuando la maten, yo estaré camino a la costa\".",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Bullrich negó las acusaciones, calificándolas de \"verso total\", tanto en declaraciones públicas como en un tuit.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Sin embargo, la declaración completa de Bottegal, disponible hoy, indica que Milman le comentó que Bullrich les conseguiría un perito para analizar la información de sus celulares, temiendo filtraciones.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Curiosamente, tras estas visitas, su candidatura fue aceptada, y Macri la nombró en el juzgado.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "La declaración de la asesora implica que Bullrich sugirió el uso de un perito a Milman.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "En este caso, medios como Clarín y La Nación han minimizado la información, posiblemente para proteger sus intereses comerciales con candidatos presidenciales, como Patricia Bullrich.",
+      "entidades_detectadas": [
+        "nación",
+        "clarín"
+      ]
+    }
+  ]
+}

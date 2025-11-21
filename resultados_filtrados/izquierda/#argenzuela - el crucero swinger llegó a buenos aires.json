@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El *swinging* es una tendencia que en Argentina se conoce desde hace, al menos, 20 años, aunque seguramente mucho más en la última década.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Existen lugares, incluso ciudades enteras en Francia (una muy conocida en el sur) donde se practica desde hace décadas.",
+      "entidades_detectadas": [
+        "francia"
+      ]
+    },
+    {
+      "frase": "Esto generó controversias en Argentina, donde no está tan instalado como en otros lugares, como México (donde hay hoteles específicos) o Estados Unidos.",
+      "entidades_detectadas": [
+        "méxico"
+      ]
+    }
+  ]
+}

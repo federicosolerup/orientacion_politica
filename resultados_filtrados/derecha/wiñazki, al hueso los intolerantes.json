@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Se realizaron en todo el país, incluyendo El Calafate, ciudad natal de la vicepresidenta Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Hoy, el jefe de Gabinete de Ministros, Santiago Cafiero, declaró que los manifestantes pertenecen a un sector del electorado de un partido político que no acepta el resultado de las elecciones de hace menos de un año.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "La magnitud de las manifestaciones no puede ser atribuida únicamente a la oposición, como lo señaló el analista político Javier Fernández al referirse a una movilización anterior.",
+      "entidades_detectadas": [
+        "javier",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "El apoyo al presidente se manifiesta de diversas formas, incluyendo movilizaciones a favor y el escrache en domicilios de figuras políticas, práctica cuestionable en términos democráticos.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

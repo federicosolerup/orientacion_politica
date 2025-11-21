@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El miércoles viajamos a Brasil por la final de la Copa Libertadores.",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "Y cuando el Atlético de Madrid, pongamos, manda a una persona que trabaja para ellos acá a Argentina a ver los partidos, tienen que mandar un mail a Boca pidiendo una entrada.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿Cómo es que cuando nosotros vamos a Europa a ver un partido mandamos un mail y nos dan la entrada?",
+      "entidades_detectadas": [
+        "europa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Boudou insistió hasta que asumió como procurador del Tesoro de la Nación Carlos Zannini, quien firmó numerosos decretos durante las presidencias de Néstor y Cristina Kirchner.",
+      "entidades_detectadas": [
+        "carlos",
+        "néstor",
+        "cristina",
+        "nación",
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Zannini, actualmente procurador del Tesoro Nacional y jefe de los fiscales del Estado (con el juicio de YPF en Estados Unidos entre otros asuntos), se ocupó del caso Boudou.",
+      "entidades_detectadas": [
+        "ypf",
+        "estado",
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Zannini, amigo y colega de gabinete de Boudou, firmó, por ejemplo, las leyes de expropiación de la ex Ciccone cuando Boudou era vicepresidente del Senado.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Zannini argumenta en su dictamen que la Procuración del Tesoro no se ocupa de determinar si un vicepresidente debe o no cobrar una jubilación; eso corresponde a la justicia.",
+      "entidades_detectadas": [
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "El autor señala la incongruencia entre su situación y la de Núñez Carmona, quien, junto a Boudou, declaró en su declaración jurada dos empresas inmobiliarias (Hábitat Natural y Aspen) pero ocultaba otras (Roca Argentina, WSM, Beaver Chic, Embarcaciones Argentina y Action Media), que conformaban un conglomerado que recibió un crédito del Banco Macro.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

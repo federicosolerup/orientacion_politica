@@ -1,0 +1,21 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 1,
+      "derecha": 0
+    },
+    "score_promedio": 0.035,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estuve en la frontera entre México y Estados Unidos y conversé con numerosos inmigrantes que habían sido detenidos.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 1
+  },
+  "etiqueta_original": "neutral"
+}

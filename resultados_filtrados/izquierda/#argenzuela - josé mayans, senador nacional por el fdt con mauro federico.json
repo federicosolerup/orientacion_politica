@@ -1,0 +1,102 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "He estado con Agustín y hemos repasado la estrategia para el debate.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La visita del Jefe de Gabinete tiene un aspecto positivo: la oposición, tanto en Diputados como en Senadores,  luego de realizar consultas sobre políticas públicas, ejecución presupuestaria y el presupuesto nacional (cuestiones ya respondidas por el Jefe de Gabinete), recibirá un mensaje sobre el panorama nacional actual y la interacción con las provincias, dado que el Senado representa a los estados provinciales.",
+      "entidades_detectadas": [
+        "senado",
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Posteriormente, se abrirá un debate con los presidentes de los distintos bloques, incluido el presidente del bloque mayoritario, y se espera la presencia del Jefe de Gabinete.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Ayer, el Presidente de la Nación se pronunció al respecto.",
+      "entidades_detectadas": [
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "En respuesta, el Procurador General de la Nación señaló que la Corte no puede intervenir en este tema, ya que se trata de una cuestión de competencia provincial (elecciones provinciales), a menos que se siga un procedimiento legal estricto, que se salte todos los procedimientos normales estableciendo un amparo inmediato para realizar las elecciones, que ya estaban prácticamente listas para llevarse a cabo.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "El problema radica en el mensaje político subyacente: la posibilidad de que se impida la candidatura de Cristina Fernández de Kirchner faltando pocos días para las elecciones.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Macri habló de \"feudos provinciales\", pero luego se retractó ante las críticas de la oposición,  porque  afirmarlo representaba una división en Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Si lo hubiese hecho cuando Macri violó la Constitución Nacional y la ley de Administración Financiera, al contraer una deuda impagable para la Argentina (100.000 millones de dólares), la situación sería diferente.",
+      "entidades_detectadas": [
+        "constitución",
+        "argentina",
+        "macri"
+      ]
+    },
+    {
+      "frase": "Incluso Macri intentó crear una imagen de candidato peronista.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "La situación de la Corte Suprema de Justicia de la Nación es vergonzosa.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Con respecto a Formosa, la Constitución establece que la reelección depende del voto popular.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Macri ofendió gravemente al presidente de la Unión Cívica Radical, Gerardo Morales, al tildarlo de feudal.",
+      "entidades_detectadas": [
+        "macri",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La ofensa fue grave, Morales es quien ha dirigido el país y su rendición de cuentas de 2016 fue rechazada por falta de sustento legal, luego de 500 auditorías.",
+      "entidades_detectadas": [
+        "morales"
+      ]
+    },
+    {
+      "frase": "Macri, quien criticó el \"feudalismo\", actuó sin respeto al Congreso y a la Constitución.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Desde entonces, Macri lo atacó, acusándolo de feudal.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    }
+  ]
+}

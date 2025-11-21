@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Fuimos viendo cómo, cuando llegaron los Kirchner, o Cristina Kirchner, al poder, empezaron a salir los presos que eran exfuncionarios K.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "En la causa del Presidente de la República sobre la fiesta de Olivos, el fiscal está diciendo que no está imputado y que si no va mañana sobrado no lo imputa.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Desde la Casa Rosada se deja trascender una supuesta solución para un delito que el Presidente todavía no sabe cuál es.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Todo eso podría complicar al Presidente, que está hablando de un expediente cuando la Constitución Nacional determina que un presidente no puede hablar sobre causas en curso.",
+      "entidades_detectadas": [
+        "constitución",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Ya sacaron a dos camaristas a través del Congreso que no le gustaban a Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Ayer el ministro de Justicia, Martín Soria, atacó al presidente de la Corte Suprema.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Ellos están haciendo esto en medio de un país que tiene una crisis económica histórica, donde no hay vacunas, donde el Presidente tiene que explicar por qué rompió el ASPO, donde la educación fue una catástrofe, una tragedia, un millón de chicos dejaron el colegio en cuarentena.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

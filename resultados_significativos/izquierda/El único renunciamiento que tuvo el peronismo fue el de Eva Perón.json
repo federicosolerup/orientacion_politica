@@ -1,0 +1,146 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 11
+    },
+    "score_promedio": 0.438,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sin prensa y con gran parte de la militancia afuera del estadio, Cristina Fernández de Kirchner le pidió a sus funcionarios que salgan a militar para recuperar la esperanza en la política que la gente perdió en estos últimos años.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a hacer un balance del propio balance que Cristina hace de sí misma y de la política argentina, a través de ocho audios que sintetizan lo que ayer dijo en Avellaneda.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, desde cierto punto de vista, como siempre en la ambivalencia con la que Cristina además atrapa a la audiencia, porque siempre es polisémica, tiene algo de verdad y algo de mentira.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, no está proscripta para comenzar a ser candidata en el año 2023, pero si se confirmara su sentencia en el futuro, sí podría quedar proscripta para cargos públicos a partir de, por ejemplo, 2027.",
+      "score": 0.338,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos el audio: \"Venía por acá y veía algunos videógrafos en los canales de televisión o en los diarios, y es el primer discurso de Cristina después de su renunciamiento.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Proscripción obviamente sería lo que tendría, como tuvo Lula, si realmente terminara siendo condenada en segunda instancia, y claramente después de las elecciones de 2023, podría ser eventualmente en las elecciones de medio término de 2025, si quisiera ser candidata a legisladora, o la de 2026, si volviera a querer ser candidata al poder ejecutivo.\"\n\nVamos al segundo audio, sobre la agrupación política \"amague y recule permanente\", que todo el mundo interpretó como una crítica a Alberto Fernández.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Donde, después de la pandemia, me acuerdo Sergio Massa, ministro de Economía, en ese momento no era ministro de Economía, era presidente de la Cámara, decía que íbamos a crecer, y yo dije que íbamos a crecer, pero que era importante que ese crecimiento no se lo quedaran tres o cuatro vivos.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos: \"Yo no sé si ustedes se acuerdan, seguramente ningún argentino se acuerda, pero luego de un juicio armado, Ercolini era el juez, y no sirvo sin nada, y no digamos nada, de tres años, decidieron que el juicio oral en el que me iban a sentar en el banquillo de los acusados, era el 21 de mayo del 2019.",
+      "score": 0.455,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque yo, tres días antes, el 18 de mayo, desarticulé esa maniobra francamente proscriptiva cuando anuncié que íbamos a ir a un frente electoral con quien hoy es Presidente de la República Argentina.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y luego siguió el juicio, que podría haber terminado en un año, no, no, lo estiraron, lo estiraron, lo estiraron, para que llegara el próximo turno de la presidencia, el próximo turno electoral.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque lo que está hablando además de que va a quedar proscripta el día que se confirme el fallo en primera instancia, lo que no afecta nuevamente las posibilidades electorales de 2023, lo que está diciendo es que eligió a Alberto Fernández, que no podía haber hecho otra cosa, porque si no, hubiera quedado proscripta ya desde ese momento, cosa que obviamente no es cierto.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo pasó con una decisión de la Comisión Nacional de Defensa de la Competencia que obligaba a los shoppings y centros comerciales a respetar el precio de la indumentaria que figuraban en los programas de los bancos, y tampoco le hicieron lugar.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le decía a un grupo de compañeros con los cuales me tocó compartir una cena el mismo día en que no hice el renunciamiento, anuncié que yo no iba a someter a la fuerza política nuestra a llevar de candidata a alguien que le dijeran está condenada y de esta manera ser absolutamente funcional a lo de ellos.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No lo dije ahora, lo dije hace mucho tiempo y lo vemos en esta decisión de la coparticipación donde le van a dar para la campaña electoral al jefe de gobierno de la ciudad que seguramente va a ser el candidato de la oposición.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le van a incrementar lo que tiene en seis presupuestos de la localidad de Avellaneda.",
+      "score": 0.245,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora al audio 7, donde Cristina dice que cada dirigente tiene su \"bastón de mariscal\" en la mochila.",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Saquenlo.\" \"Yo creo que el peronismo en esto, y lo decía otro día a los compañeros, cada compañero, cada dirigente, cada militante, tiene su bastón de mariscal en la mochila.",
+      "score": 0.224,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no le pidan permiso a nadie para sacarlo.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En todo caso, si se equivocan con el bastón, bueno, pidan perdón, porque siempre cuando uno se equivoca debe pedir perdón, pero a permiso no le pidan permiso a nadie.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora vamos al audio donde Cristina dice que hay una patente de impunidad para todo aquel que no sea peronista.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque le besaba, no sé, una teta a la novia.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No estoy justificando nada, por favor, mañana Clarín dice...",
+      "score": 0.538,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina dijo que estaba bien besarle a la novia.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le inventan cosas y afuera.",
+      "score": 0.632,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sumada a esta falta de Estado de Derecho, porque en definitiva, y para ser un poco futbolera porque a tono, es como que si vos estás jugando un partido y el árbitro te 'trombetea' y dale, que dale, y al otro te hace penales, faltas, no le cobran nada, eso es lo que está pasando.",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos que vuelva a haber un árbitro en serio del Poder Judicial en la República Argentina que aplique el derecho y que tenga la garantía para todos los ciudadanos y ciudadanas de que todos son iguales ante la ley.\"\n\nA partir de acá, múltiples interpretaciones para quienes ven en una retirada del kirchnerismo y de Cristina Kirchner, uno caso de Cristina Kirchner en esta serie de discursos, quienes ven por el contrario que se coloca en una posición no de candidata a presidente, sino de líder, que no importa quién sea el candidato, la líder, el poder dentro del Frente de Todos y el peronismo lo tiene Cristina Fernández de Kirchner, siempre polisémica, una verdadera Cristina.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 26
+  },
+  "etiqueta_original": "neutral"
+}

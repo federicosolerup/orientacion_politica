@@ -1,0 +1,491 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 9,
+      "derecha": 86
+    },
+    "score_promedio": 0.859,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández, se me pone la piel de gallina.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, Macri, como expresidente, le entregaba la banda y el bastón al nuevo presidente.",
+      "score": 0.689,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie se imaginó, por lo menos yo no me lo imaginé, a un presidente tan débil con una vicepresidenta tan cínica como la dueña del gobierno.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, y ya vamos a escuchar a Cristina, yo creo que ni a Mauricio Macri, el expresidente de los argentinos, se le ocurriría públicamente decir lo que dijo hoy Cristina Fernández de Kirchner, aunque a Mauricio Macri se le hubiera cruzado eso mismo por la cabeza.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos por favor, después del \"regalo envenenado\" de Cristina con el libro de la hiperinflación, este \"regalo envenenado\" públicamente que humilla un poco más a Alberto Fernández.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por estas actitudes la Argentina está de rodillas, señores, y esta claque impresentable la aplaudía a la vicepresidenta.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos quieren su impunidad y por eso Argentina está de rodillas.",
+      "score": 0.66,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el INDEC confirmó la inflación de marzo en 6,7%.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para muchos países podría ser la inflación anual, no, acá es en un mes te dicen 6,7%.",
+      "score": 0.383,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy en Argentina te sale una fortuna.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, mirá cómo le saca la fruta al árbol.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bernie apuntó al amigo de Máximo, a Juan Grabois, definió a Grabois como un multimillonario.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está de rodillas.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pongo un poco de leche y lo derrito.",
+      "score": 0.486,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los pibes de la Cámpora tomaron el Centro Cultural Kirchner y cantaban \"De la mano de la jefa, vamos a volver\".",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos de la Cámpora, no se olviden que Cristina le puso a dedo a Alberto.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchémosla a Cristina Fernández de Kirchner.",
+      "score": 0.496,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina está invitando al presidente a irse.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le está diciendo, \"dale flaco, o gordo, renuncia\".",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina hoy le pidió en el Centro Cultural Kirchner, en el Eurolab, la renuncia oficial a Alberto Fernández, que estaría cambiándole los pañales al hijo en la clínica, Néstor Kirchner o Tamendi.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es como un matrimonio separado cuando la mina le dice: \"no te quiero ver más acá, yo me quedo con los pibes, vos dormís en el sillón\", y el tipo le dice, \"no tengo dónde irme\", andate igual, \"no tengo dónde irme\", andate igual y el tipo no se va.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí no me importa que no tenga a dónde irse y el tipo le dice, por favor, andate.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Cristina le dijo, \"Andate, Alberto Fernández, andate, renuncia, tené dignidad\".",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El maltrato de Cristina a Alberto es descomunal.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entre otras cosas, Cristina en su cinismo también aprovechó para hablar, justo ella, de desigualdad.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que alguien siga afirmando que el Estado no es importante en la vida de las personas, yo diría, definitorio, las políticas del Estado, o es un necio o es un cínico\".",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo es que le cantan los pibitos de la Cámpora?",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su discurso, tomé nota, Cristina usó en un minuto la palabra \"desigualdad\" cuatro veces.",
+      "score": 0.288,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina está de rodillas por tu culpa.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner habla como si ella no fuera gobierno.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy le pidió la renuncia pública a Alberto Fernández.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, Cristina le pidió la renuncia a Alberto Fernández en el Centro Cultural Kirchner.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le estará pidiendo Cristina a Alberto?",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Que Alberto se resiste tanto?",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es una extorsión de Cristina a Alberto?",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Cristina y Alberto se conocen de memoria.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No puede Cristina decir ahora que Alberto es tibio.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Cristina había dicho, renunció a Alberto.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quien diga que el Estado no es importante es un necio cínico.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quien diga que el Estado no es importante es un necio cínico.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para Cristina sin el Estado no se puede y yo la entiendo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está de rodillas.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy venía para acá y le saqué una foto a un tipo levantando cartones en la calle.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme el tape de la Cámpora homenajeando a la morocha, por favor.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando Cristina decía, \"vamos por todo\"?",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina de rodillas.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está la cara de Alberto, la primera dama, Cristina, Kicillof y Cafiero.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la música de Gran Hermano, ¿quién se va primero?",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la música.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pongo 30 segundos de humor por no \"corcharme\" en vivo.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie más opositor y golpista de este gobierno que la vicepresidenta Cristina Fernández de Kirchner.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Gravísimo y cobarde ataque de Cristina Kirchner a una persona que no se puede defender.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo soy católica, creo en Dios y Cristina tiene un rosario puesto.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ponchámela, diré, un rosario puesto.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no le tiene miedo a nada ni a la muerte.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina dijo que el Centro Cultural Kirchner es muy...",
+      "score": 0.81,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto está más preocupado en cambiar pañales que cambiar el gabinete.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, usted está durmiendo con el enemigo, ¿eh?",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, no le tenga miedo a Cristina.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un tape gracioso de Tarico haciendo de Alberto y de su hijito Francisco.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pues sí que me vas a ayudar a poner a la Argentina de pie.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ah, esos pañales son marca Ping-Pong, Alberto.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente acá soy yo.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta lo que Alberto Fernández y la primera dama dicen.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Astróloga, Alberto Fernández y la primera dama dicen.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Eligió Alberto Fernández y Fabiola Yáñez y nació para ser emperador\".",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francisco nació con un plan bajo el brazo.",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ojo que en cualquier momento puede ser su papá un desocupado.",
+      "score": 0.703,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acuérdense que la tía Cristina es muy mala.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acuérdense que la tía Cristina es muy mala.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pusieron tatuajes en un acto escolar.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo cuando la chica tenía lo del colegio, ¿viste?, que le agarraba la lengua y me lo freía.",
+      "score": 0.79,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la imagen de la mujer que trabajaron de la peor manera en el colectivo.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dejo por la vida escrachada en las redes sociales.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que le tengo la vida escrachada igual que ella escrachó a la otra.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente vos no puteaste el Olivos Gate, el vacunatorio VIP, ¿no?",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la foto de la rapada, a la \"verde\" esta.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le escrachan a Cristina porque se afanó toda la Argentina, ni a Lázaro Báez, ni el vacunatorio VIP, no hay Olivos Gate.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está de rodillas, te querés hacer famosa.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le molesta a esta escrachadora de colectivos.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina de rodillas, ¿eh?",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no escrachás a Alberto y a Fabiola, que violaron el DNU?",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vos le escrachás a la pobre mina del bondi.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Vos defendés a los parásitos del Estado y no a un laburante que va en colectivo?",
+      "score": 0.473,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y puedo decírselo al archivo, yo le pedí a Ginés y me trajo un despelote con Canal 9.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta del colectivo rapada le puso la gorra.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Cristina no, con Máximo no, con Axel no, con ellos no.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la del colectivo no le molesta que la gobiernen ladrones.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le molesta que una señora que va a trabajar, que quiere respirar aire puro.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque durante dos años le cagaron la vida como a todos nosotros.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Ah, le molesta!",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está de rodillas.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En La Pampa, Ernesto Franco, el ministro de Hacienda, confesó que le inventaron un alquiler a una empresa para que paguen menos impuestos.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evidentemente, ahora le digo a todos, decir, nosotros cuando empezó el tema del Panpetrol, nosotros inventamos el tema del alquiler para bajar impuestos a la ganancia.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina de rodillas.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 95
+  },
+  "etiqueta_original": "neutral"
+}

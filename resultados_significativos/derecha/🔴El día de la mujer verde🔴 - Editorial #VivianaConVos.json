@@ -1,0 +1,116 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 6,
+      "derecha": 14
+    },
+    "score_promedio": 0.667,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "El presidente del Centro de Estudiantes del Carlos Pellegrini y Gonzalo Cardona, Centro de Estudiantes.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alcorta puede decir esto, ponéle que lo piense o que le convenga por la guita de su clienta.",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, que le estamos pagando el sueldo a la ministra Gómez Alcorta para que defienda a delincuentes como Miriam (o Myriam) Salá.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo a la ministra Gómez Alcorta que no es una \"beca\" el ministerio, aunque ella creía que sí.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si todavía no sabés quién es Miriam (o Myriam) Salá, te recomiendo que veas este documental, esta parte que te vamos a mostrar ahora, de esta señora delincuente que defiende a la otra, que cree que tiene una \"beca\", pero que todos nosotros con la nuestra le pagamos el sueldo a la ministra de Género y de la Mujer.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, con eso de decir lo que a ella le gustaba, su hija, Claudia, me quedaron con un cigarro en la deje.",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy se armó un lindo quilombo a la mañana en el programa de Florencia Peña con Nancy Pazos.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nancy Pazos dice que ser machista es ser un violador, ser machista es ser un violador, y se armó un quilombo de aquellos, ¡muchos!",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le cuento a Nancy y a muchas, a las que estaban en la movilización, que los violadores de Palermo del otro día eran feministas, eran feministas, pañuelos verdes, y se violaron a una chica de 20 años a siete cuadras de acá.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El lema podría ser: ¡Viva la vagancia!",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya lo decía Goyán.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le agradezco a un amigo mío, Teddy, que estuvo tomando imágenes de La Marcha.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dicen a las minas que tienen que denunciar a un violador al marido que le pega.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la canción.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es qué Argentina querés?",
+      "score": 0.702,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente es feminista, menos feminista, mejor que Jorge Corona.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chica, le digo a Donda, que ya que no hace un carajo en todo el día.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le pareció una buena idea grabarlo.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después tenés a Donda y a Pablo de Charly, que, por supuesto, cada día lo quieren más \"Elegante\".",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero tengo la buena noticia del día, ya converso con Jorge Macri y con Carlos Sá.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 20
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Argentina no es un país con miles de empresas en cada sector; hay cuatro empresas que producen nafta, cuatro que prestan servicios de salud, cuatro que importan granos y oleaginosas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Andrés te saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Dicen que antes financiaba al Tesoro y ahora no, lo cual desmiente que la inflación se deba a la emisión monetaria.",
+      "entidades_detectadas": [
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Materialmente, la dolarización no es posible, sin contar los bonos del tesoro que también deberían dolarizarse.",
+      "entidades_detectadas": [
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "¿Pueden Sturzenegger y Caputo trabajar juntos?",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Es un gobierno extraño, con un presidente con problemas de lectoescritura lanzando un plan de \"suavización\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

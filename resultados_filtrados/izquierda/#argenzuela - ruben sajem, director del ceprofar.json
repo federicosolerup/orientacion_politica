@@ -1,0 +1,53 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Andrés Lerner lo saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Entonces, aquí el precio no se equilibra, y esto se ha evidenciado en muchas notas periodísticas y, últimamente, a pesar de que nosotros venimos denunciándolo desde hace tiempo: el elevado precio de los medicamentos, el uso habitual en Argentina de medicamentos muy antiguos que, como digo, en todos los países del mundo están regulados por distintos mecanismos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "No puede ser que la gente no esté comprando medicamentos porque no puede pagarlos, que el PAMI no pueda pagarlos porque primero permitió que aumentaran los precios y ahora se da cuenta de que no puede pagarlos.",
+      "entidades_detectadas": [
+        "pami"
+      ]
+    },
+    {
+      "frase": "Ahora, ningún país del mundo va contra su propia industria farmacéutica importando medicamentos, porque es una industria estratégica, porque es una industria que da trabajo, que genera valor agregado, pero bien, acá hay que lograr un equilibrio también para que haya precios racionales en Argentina en productos que son muy antiguos, que tienen 40 o 50 años, como ibuprofeno, paracetamol, antialérgicos, antiácidos, antihipertensivos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Había otros mecanismos antes de esta importación para fomentar la competencia de precios, como la prescripción por nombre genérico, que se hace mucho en Europa, en España principalmente; la fijación de precios de referencia, por ejemplo, se comparaban mucho los precios con España.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "España publica, de forma accesible para todos, los precios de referencia de los medicamentos.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "La prescripción por genérico, el abaratamiento de los precios en España se debe a la implementación de la política de genéricos.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "Hay un 40% de los medicamentos que se recetan en España que son genéricos, bastante más baratos que los de marca, y eso mantiene a raya los precios de los medicamentos de marca.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    }
+  ]
+}

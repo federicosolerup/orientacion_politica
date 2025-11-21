@@ -1,0 +1,476 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 77
+    },
+    "score_promedio": 0.757,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En un rato, como les decía el doctor **Crescenti**, que amablemente va a venir a conversar con nosotros.",
+      "score": 0.538,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le he puesto, de todos modos, a esta editorial el nombre \"Es una tragedia\".",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina pareciera que nada tiene solución.",
+      "score": 0.447,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina uno siente que no hay respuestas para ninguna pregunta que nos hacemos a diario.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, nosotros, el rebaño de pelotudos, vamos perdiendo el ánimo segundo a segundo, hora tras hora, día tras día.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es un **Cromañón** en cada esquina.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina todo está atado con alambre.",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina todo está flojo de papeles.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una cámara ahí al lado, loco.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina estamos rodeados de tragedias.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La tragedia en Argentina es una cosa cotidiana.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero que veas, por favor, a este héroe del día, para mí, con su grúa, ahí en un séptimo piso, tratando de rescatar a esos niños que murieron y a esa gente que falleció.",
+      "score": 0.401,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un tremendo trabajo, en medio del humo, con los chicos gritando adentro, salvando a las personas que pudieron salvar y a otros que lamentablemente terminaron muriendo.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, ellos ahora necesitan recuperar el voto de los pobres, esos pobres que ellos tienen como rehenes.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No están pensando que esos pobres tengan trabajo o una mejor vida, están pensando en cómo seguir cagándoles la vida, tratando de repartirse la plata y seguir siendo tan miserables como siempre.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una manera de cuidar a esos pobres que tienen tomados como rehenes, para que la vida que tienen de mierda sea un poco más de mierda.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La **GITA** ahora no la quieren compartir ni Cristina, ni su gente, ni la Cámpora con los gerentes de la pobreza, pero esto es un tema porque Alberto sí quiere que sigan los movimientos sociales.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces Cristina decide querer cuidar un poco más a los pobres que tiene tomados como rehenes, para que no se lleven la plata a los gerentes de la pobreza.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que ya lo dijo Pérsico, si le sacas la **GITA** a estos gerentes de la pobreza, te da en cinco segundos un estallido social que te prende fuego el país.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es igual a Cristina, no le importa, porque para ella el gobierno de Alberto Fernández ya está terminado.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora solo le queda a ella culparlo de todo a él.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es una tragedia y Alberto es una tragedia.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, Cristina está full y quiere mucho más poder para los intendentes.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y de paso, creo que también Cristina quiere generarle mucho más quilombo al presidente de la República.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina quiere generarle mucho más quilombo al presidente con todos los gerentes de la pobreza.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De esta manera, **Pérsico** le está diciendo a Alberto Fernández, controlame a la loca porque se pudre todo.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Pérsico** le dice al presidente, a mí no me toques la mía, controlame a la loca.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina con esta gente es una tragedia.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No les importan los pobres, por eso Argentina es una tragedia.",
+      "score": 0.529,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la portavoz del gobierno, Gabriela **Cerruti**, que tuvo varios puntos para destacar en el día de hoy, la contradijo y le contestó de parte de Alberto Fernández.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina pensó que garganta profunda iba a terminar no contestándole absolutamente nada, pero no, se animó y le contestó, ¿vas a escuchar ahora a Gabriela **Cerruti**, la portavoz del gobierno de Alberto Fernández?",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque no solo le contesta, sino que le corrige los dichos a la vicepresidente.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En principio, **Cerruti** le dijo, mentirosa Cristina.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O como mínimo le dijo a la reina de Tolosa que está mal informada.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes se dan cuenta que esta feroz interna del gobierno de Alberto con Cristina, de Cristina con Alberto, es una tragedia.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le molestó que le pregunte si la vicepresidenta sigue formando parte del gobierno.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dijo golpista.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que no merece respuesta a esa pregunta, pero qué quieren que le diga.",
+      "score": 0.529,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digo, salvo que usted sea un golpista, presidente y vicepresidenta son votados juntos y se van juntos del gobierno, cuando se van del gobierno.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque además, **Cerruti**, nadie es más cruel y más filosa con el gobierno de Alberto Fernández que Cristina Fernández de Kirchner.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella es más opositora que la oposición con el gobierno de Alberto Fernández.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto lo que me contaron el otro día, cada vez que Cristina lo ataca, el presidente se desequilibra.",
+      "score": 0.434,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros, el rebaño de pelotudos, vos y yo, nosotros le pagamos a la portavoz para que diga lo que ella quiere.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le ganaste?",
+      "score": 0.562,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ella le puede decir golpista a un periodista?",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, dice que como el presidente y la vice llegaron juntos, se van a ir juntos.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es como una especie de joda televisada.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pedirle dignidad al presidente Alberto Fernández es mucho porque no tiene.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incluido el DNU que violó con el famoso Olivos Gate.",
+      "score": 0.801,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner espera a Lula para decidir si va otra vez por la presidencia.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahí está Mauricio Macri tomándose un café en La Biela.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de tragedias, la agresión al hijo de Valeria Massa fue tremenda.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le rompieron la mandíbula por ser cheto.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé, le intentaba buscar una explicación lógica a por qué.",
+      "score": 0.403,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dijeron Tincho, miró, le pegaron un golpe.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este joven había estado detenido, había salido de prisión y cuando salió de prisión, vengó a su hermano, presunto ladrón, también muerto.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una cámara de seguridad.",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién le abrió a este tipo la puerta de la calle para que se escape de la cárcel?",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que Argentina es una tragedia.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La seguridad en Argentina es una tragedia.",
+      "score": 0.596,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La educación en Argentina es una tragedia.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, vas a escuchar a una estudiante del colegio secundario, a un adolescente, preguntar si Argentina es una ciudad, si Argentina es una ciudad, una provincia o un país de la que hay una gran mayoría de los alumnos.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina es una ciudad, una provincia o un país.",
+      "score": 0.256,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto pasa con la educación en la Argentina mientras ellos piensan en la letra de Miralo.",
+      "score": 0.761,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, provincia Argentina y ciudad es Mar del Plata.",
+      "score": 0.191,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, provincia Argentina no suena bien.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y la provincia es Argentina o Buenos Aires?",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Provincia Argentina o provincia Buenos Aires?",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y la Argentina qué sería entonces?",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ah, no sé si tengo una ciudadanía Argentina o la ciudadanía cuando vas a Estados Unidos.",
+      "score": 0.395,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer Kicillof, sin nombrarlo, salió a pegarle a Horacio Rodríguez Larreta por el tema del lenguaje inclusivo que los tiene obsesionados.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le dijo a los pibes que se rebelaran.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo le dije a los pibes, rebelense, pero no con la letra E, por la educación lamentable que estamos teniendo.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy le contestó Danilo Villanueva Prieto, exdirector de la RAE.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero escuchemos al gobernador de la provincia, le digo a la chica de Buenos Aires.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy, a tanto tiempo de la Revolución de Mayo, no van a ser desde España que nos van a explicar cuáles son las palabras que usamos, ¿no?",
+      "score": 0.621,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un edificio de la RAE apuntó contra Axel Kicillof tras sus dichos sobre el lenguaje inclusivo.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Darío Villanueva Prieto salió a responderle y le mintió en sus dichos.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé a quién se le pudo ocurrir sacar al general San Martín de los billetes que tenemos en la Argentina y reemplazarlo por un animalito.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No lo hizo porque donde no hay negocio, el Estado no llega, el Estado no llega, ahí, perdón, el mercado no llega.",
+      "score": 0.31,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque yo creo que Kicillof habla para el traste, porque estudió con Baradel, pero le quiero decir algo a los chicos.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuánta plata le dan a Moyano para que no haga despelote con esto que pasa con los camioneros sin gasoil?",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos tipos hicieron un vacunatorio VIP, un Olivos Gate y andá a saber todas las cosas que hicieron que no nos enteramos.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta Argentina con ellos es una tragedia.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tener una pyme hoy en Argentina también es una tragedia.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Confirman que otro avión aterrizó en Chile desde la misma aerolínea que sancionó a Estados Unidos.",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo sé que le dijeron a sus mujeres, mi amor, tengo que ver el partido con mis amigos.",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, en Argentina se robaron todo.",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 92
+  },
+  "etiqueta_original": "neutral"
+}

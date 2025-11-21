@@ -1,0 +1,718 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El 27 de enero, Día Internacional de la Memoria del Holocausto, se cumplen 80 años de la liberación del campo de Auschwitz-Birkenau, donde murieron más de un millón cien mil judíos durante el genocidio nazi.",
+      "entidades_detectadas": [
+        "Día Internacional de la Memoria del Holocausto",
+        "Auschwitz-Birkenau"
+      ]
+    },
+    {
+      "frase": "Paralelamente, decenas de miles de palestinos comenzaron a regresar a sus hogares arrasados tras 14 meses de la ofensiva de las Fuerzas de Defensa de Israel, después del ataque terrorista de Hamás.",
+      "entidades_detectadas": [
+        "Hamás",
+        "Fuerzas de Defensa de Israel"
+      ]
+    },
+    {
+      "frase": "Me parece que es una buena ocasión para que un judío converse con un palestino sobre lo sucedido y sobre cómo evitar que vuelva a ocurrir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abdelá Tibi, tiene la gentileza de acompañarnos.",
+      "entidades_detectadas": [
+        "Abdelá Tibi"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** Gracias por venir, Abdelá.",
+      "entidades_detectadas": [
+        "Entrevistador",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Gracias a usted.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿Cuánto tiempo lleva viviendo en Argentina?",
+      "entidades_detectadas": [
+        "¿Cuánto",
+        "Argentina",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Hace un año.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿Y antes había estado aquí, o fue simplemente la vía de escape que encontró en esta situación?",
+      "entidades_detectadas": [
+        "¿",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** No, antes estuve en Venezuela, donde estudié.",
+      "entidades_detectadas": [
+        "No",
+        "Venezuela",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Luego salí de Venezuela y me vine a Argentina.",
+      "entidades_detectadas": [
+        "Venezuela",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿A qué edad dejó Gaza?",
+      "entidades_detectadas": [
+        "¿A",
+        "Entrevistador",
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** A los 19 años, hace cuatro años.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Ahora tengo 23.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿Cómo vivió su familia todo esto?",
+      "entidades_detectadas": [
+        "¿Cómo",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "Me imagino que tiene familiares allí…\n\n**Abdelá:** Sí, tengo toda mi familia en Gaza: mis hermanos, mis sobrinos, mis padres.",
+      "entidades_detectadas": [
+        "Sí",
+        "Abdelá",
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "Pasamos cinco meses lidiando con todo lo que sucedió, desde el 7 de octubre hasta hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le agradezco que sea uno de los pocos que hablan de la verdad sobre lo que está pasando en Palestina.",
+      "entidades_detectadas": [
+        "Palestina"
+      ]
+    },
+    {
+      "frase": "Lamentablemente, los medios de comunicación del mundo, no solo aquí, muestran solo una parte de la historia, el ataque del 7 de octubre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, ¿cuántos \"7 de octubre\" ha vivido Palestina desde 1948 hasta hoy?",
+      "entidades_detectadas": [
+        "¿",
+        "Palestina"
+      ]
+    },
+    {
+      "frase": "¿Cuántos palestinos han sido asesinados desde 1948 hasta hoy?",
+      "entidades_detectadas": [
+        "¿Cuántos"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿Algún familiar suyo murió durante estos años?",
+      "entidades_detectadas": [
+        "Entrevistador",
+        "¿Algún"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Mi hermano resultó gravemente herido al ir a comprar pan con mi padre y mi hermano menor; los tres fueron heridos.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿Hoy empezaron a regresar?",
+      "entidades_detectadas": [
+        "¿",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "¿Vivían en la ciudad de Gaza, en el norte?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Abdelá:** Sí, vivíamos en el norte, en uno de los barrios más bonitos de Gaza.",
+      "entidades_detectadas": [
+        "Sí",
+        "Abdelá",
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "Toda Gaza es una ciudad muy bonita.",
+      "entidades_detectadas": [
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "Tres de mis hermanos han regresado, pero mis padres no pudieron porque mi madre está muy enferma y mi padre también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mi madre le dio un infarto por el estrés y la tristeza, una parálisis que le impide moverse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin auto, hay que caminar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿Dónde vivieron durante ese tiempo?",
+      "entidades_detectadas": [
+        "¿",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Fuimos desplazados unas ocho o diez veces.",
+      "entidades_detectadas": [
+        "Fuimos",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "De nuestra casa, fuimos a la de mi abuelo, que también fue bombardeada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego a la de mi hermano mayor, también bombardeada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mismo con la de mi hermana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Finalmente, fuimos al sur, a Rafah.",
+      "entidades_detectadas": [
+        "Rafah"
+      ]
+    },
+    {
+      "frase": "Quedamos allí hasta que… la ocupación llegó a Rafah.",
+      "entidades_detectadas": [
+        "llegó",
+        "Rafah"
+      ]
+    },
+    {
+      "frase": "Nos fuimos al centro de la Franja de Gaza, a Al-Bureij.",
+      "entidades_detectadas": [
+        "Al-Bureij",
+        "Franja de Gaza"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿En qué condiciones vivían allí?",
+      "entidades_detectadas": [
+        "¿",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** En una carpa de refugiados, como todos los desplazados del norte de Gaza.",
+      "entidades_detectadas": [
+        "Abdelá",
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "Imagínese, 17 personas en una sola carpa.",
+      "entidades_detectadas": [
+        "Imagínese"
+      ]
+    },
+    {
+      "frase": "En verano mueres de calor, y en invierno de frío.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, conseguir alimentos es casi imposible.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Hemos visto cómo se bloqueaba la entrada de alimentos y cómo, incluso cuando llegaban, los pisoteaban para que no entraran a Gaza.",
+      "entidades_detectadas": [
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿Cómo fue vivir esto desde lejos?",
+      "entidades_detectadas": [
+        "¿Cómo",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Fue un año y tres meses muy difíciles.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Dormía solo tres horas al día.",
+      "entidades_detectadas": [
+        "Dormía"
+      ]
+    },
+    {
+      "frase": "Tengo ojeras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿Tenía comunicación con ellos?",
+      "entidades_detectadas": [
+        "Tenía",
+        "¿",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Por suerte, cuando hay señal, puedo comunicarme con ellos.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Cuando mi hermano resultó herido, lo vi en las noticias y lo reconocí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llamé internacionalmente y hablé con mi hermana, que estaba en el norte y no sabía lo que había pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí me enteré de la gravedad de la herida de mi hermano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi padre y mi hermano menor también sufrieron heridas, pero las de mi hermano fueron las más graves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿Qué hace aquí?",
+      "entidades_detectadas": [
+        "Entrevistador",
+        "¿Qué"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Actualmente trabajo, pero con la ayuda de Dios, comenzaré a estudiar.",
+      "entidades_detectadas": [
+        "Dios",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿Piensa radicarse aquí o volver?",
+      "entidades_detectadas": [
+        "¿Piensa",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "¿Qué desean quienes se quedaron allá?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** La idea es volver con un título para poder ayudar a mi país y a mi pueblo.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Mi sueño, y el de mis padres, es que yo estudie medicina, como mis hermanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así podré lograr sus sueños y seguir adelante.",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:**  Aquí vemos imágenes de este regreso, a partir del cese del fuego.",
+      "entidades_detectadas": [
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "También tenemos imágenes de sus conversaciones con su familia, muy impactantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las imágenes de las viviendas muestran una demolición total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Abdelá:** (Mostrando un video)  Aquí hay un video de una bomba de tanque que explotó en nuestra casa.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Es peligroso quedarse allí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi padre trabajó 40 o 50 años para construir su casa, su sueño, y en segundos fue destruida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es muy difícil y triste ver mi sueño, mi casa, mi habitación, mis recuerdos, destruidos en un segundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿Cómo lo tratan aquí?",
+      "entidades_detectadas": [
+        "¿Cómo",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Muy bien, gracias a Dios.",
+      "entidades_detectadas": [
+        "Dios",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "He encontrado personas admirables y amables que me han ayudado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿En qué trabaja?",
+      "entidades_detectadas": [
+        "¿",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** En un restaurante.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:**  Más allá de lo que ha dicho sobre los muchos \"7 de octubre\" que han vivido los palestinos, ¿qué siente al ver imágenes de Hamás entrando en los kibutzim, masacrando civiles inocentes, incluso mujeres con el pelo ensangrentado?",
+      "entidades_detectadas": [
+        "Más",
+        "Hamás",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:**  No estamos hablando solo de Hamás, sino de un pueblo, el pueblo palestino, defendiendo su tierra.",
+      "entidades_detectadas": [
+        "Hamás",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Todos los días vemos amigos y familiares asesinados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lamentablemente, el mundo solo ve el 7 de octubre, no los muchos \"7 de octubre\" que ha vivido Palestina.",
+      "entidades_detectadas": [
+        "Palestina"
+      ]
+    },
+    {
+      "frase": "No solo hablo de Gaza este año, sino de las masacres de 1948 (Sabra y Chatila, etc.), hasta 2023.",
+      "entidades_detectadas": [
+        "Sabra y Chatila",
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "¿Cuántos palestinos han sido asesinados sin culpa, solo por ser palestinos?",
+      "entidades_detectadas": [
+        "¿Cuántos"
+      ]
+    },
+    {
+      "frase": "¿Cuántos esperan horas en los controles para poder llegar a sus hogares?",
+      "entidades_detectadas": [
+        "¿Cuántos"
+      ]
+    },
+    {
+      "frase": "Eso es lo que quiero decir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:**  Está claro que su voz se está escuchando en este medio.",
+      "entidades_detectadas": [
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:**  Sí, por eso le agradezco.",
+      "entidades_detectadas": [
+        "Sí",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Es uno de los pocos que hablan de lo que está pasando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:** ¿Cómo ponemos fin a esta pesadilla?",
+      "entidades_detectadas": [
+        "¿Cómo",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "Todos ven la agresión del otro, pero no la suya.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más allá de las asimetrías, de la potencia de un lado (EE.UU., su armamento, bombas, drones), ¿cree que alguna vez habrá paz y convivencia pacífica?",
+      "entidades_detectadas": [
+        "¿",
+        "EE.UU."
+      ]
+    },
+    {
+      "frase": "¿Qué piensa de los métodos de Hamás?",
+      "entidades_detectadas": [
+        "Hamás"
+      ]
+    },
+    {
+      "frase": "¿Cree que fueron contraproducentes?",
+      "entidades_detectadas": [
+        "¿Cree"
+      ]
+    },
+    {
+      "frase": "¿Habría una forma más hábil de negociar?",
+      "entidades_detectadas": [
+        "¿Habría"
+      ]
+    },
+    {
+      "frase": "**Abdelá:**  Sobre lo del 7 de octubre, se dice que murieron más de 1300 personas.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Un medio israelí, Eudotas Ranot, publicó una nota después del 7 de octubre, que luego fue retirada por el Mossad, según se dice.",
+      "entidades_detectadas": [
+        "Mossad",
+        "Eudotas Ranot"
+      ]
+    },
+    {
+      "frase": "Los misiles de Gaza, yo he vivido cinco guerras, no causan el daño que se muestra.",
+      "entidades_detectadas": [
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "Los aviones israelíes actuaron de esa manera, según dijeron Netanyahu y sus ministros, porque preferían que los líderes de Gaza murieran.",
+      "entidades_detectadas": [
+        "Netanyahu",
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** ¿Cree que algún día podrán coexistir dos estados, uno judío y uno palestino?",
+      "entidades_detectadas": [
+        "¿Cree",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:**  ¿Puede haber dos estados en Argentina, Argentina e Inglaterra?",
+      "entidades_detectadas": [
+        "¿",
+        "Argentina",
+        "Inglaterra",
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi abuelo, que vivió la Nakba en 1948, tenía un cristiano a la derecha y un judío a la izquierda como vecinos.",
+      "entidades_detectadas": [
+        "tenía"
+      ]
+    },
+    {
+      "frase": "Los judíos vivían en Palestina, en paz con cristianos y musulmanes.",
+      "entidades_detectadas": [
+        "Palestina"
+      ]
+    },
+    {
+      "frase": "Hay una diferencia entre el judaísmo y el sionismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El sionismo es la ocupación, no el judaísmo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos judíos en todo el mundo se oponen a la política de Netanyahu y a su guerra.",
+      "entidades_detectadas": [
+        "Netanyahu"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** Es difícil imaginar un entendimiento entre ambos bandos.",
+      "entidades_detectadas": [
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:**  Jamás renunciaremos a Palestina, jamás a Gaza.",
+      "entidades_detectadas": [
+        "Jamás",
+        "Palestina",
+        "Abdelá",
+        "Gaza"
+      ]
+    },
+    {
+      "frase": "Palestina es para los palestinos.",
+      "entidades_detectadas": [
+        "Palestina"
+      ]
+    },
+    {
+      "frase": "Ni Trump ni ningún presidente del mundo puede decidir sobre Palestina.",
+      "entidades_detectadas": [
+        "Palestina",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Palestina es para los palestinos.",
+      "entidades_detectadas": [
+        "Palestina"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** Álvaro Alá, muchísimas gracias por venir esta noche.",
+      "entidades_detectadas": [
+        "Álvaro Alá",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**Abdelá:** Gracias a usted por la invitación.",
+      "entidades_detectadas": [
+        "Abdelá"
+      ]
+    },
+    {
+      "frase": "Ojalá no tengamos que volver a hablar de estas masacres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Entrevistador:**  Gracias.",
+      "entidades_detectadas": [
+        "Gracias",
+        "Entrevistador"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "No",
+    "Fuerzas de Defensa de Israel",
+    "Entrevistador",
+    "Palestina",
+    "¿Cree",
+    "Jamás",
+    "¿Habría",
+    "Abdelá",
+    "¿Qué",
+    "llegó",
+    "Día Internacional de la Memoria del Holocausto",
+    "Inglaterra",
+    "tenía",
+    "Fuimos",
+    "Gaza",
+    "¿Cómo",
+    "Abdelá Tibi",
+    "Auschwitz-Birkenau",
+    "Además",
+    "Hamás",
+    "EE.UU.",
+    "Los misiles de Gaza",
+    "Pasamos",
+    "Ni Trump",
+    "Más",
+    "Dormía",
+    "Tenía",
+    "Imagínese",
+    "Al-Bureij",
+    "Llamé",
+    "¿Cuántos",
+    "Quedamos allí",
+    "Argentina",
+    "¿A",
+    "Rafah",
+    "Sabra y Chatila",
+    "Así",
+    "Mossad",
+    "Lamentablemente",
+    "¿Algún",
+    "Franja de Gaza",
+    "¿Piensa",
+    "¿Cuánto",
+    "¿",
+    "Álvaro Alá",
+    "Vivían",
+    "Eudotas Ranot",
+    "Venezuela",
+    "Dios",
+    "Netanyahu",
+    "Sí"
+  ]
+}

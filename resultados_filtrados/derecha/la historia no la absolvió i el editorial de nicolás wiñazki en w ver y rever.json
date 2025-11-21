@@ -1,0 +1,77 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El alegato del fiscal en la causa Vialidad Nacional, que tiene como principal acusada a la vicepresidenta Cristina Fernández de Kirchner, fue una de las sorpresas del juicio.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Raúl Muñiz fue el primer presidente indagado y procesado en funciones.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La situación política argentina es tensa.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El presidente Alberto Fernández se encuentra debilitado políticamente; la vicepresidenta está siendo juzgada por corrupción y guarda silencio; la presidenta provisional del Senado, la esposa de Gerardo Zamora, observa la situación con cautela; Zamora criticó duramente al presidente; y Sergio Massa asumió el Ministerio de Economía, dejando la presidencia de la Cámara de Diputados, en una decisión de alto riesgo.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "massa",
+        "presidente",
+        "fernández",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Un presidente que asumió de manera anómala (vía tuit), debilitado; una vicepresidenta en un juicio oral y público por corrupción; y un presidente de la Cámara de Diputados que asume el Ministerio de Economía.",
+      "entidades_detectadas": [
+        "presidente",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Solo ocurrió algo similar en la época de Raúl Alfonsín, cuando  Antonio Cafiero dejó la presidencia de la Cámara de Diputados para asumir en Economía (una comparación no del todo afortunada dado el desenlace de aquella situación).",
+      "entidades_detectadas": [
+        "cafiero",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está siendo investigada por un esquema de corrupción que involucra a su fallecido esposo, Néstor Kirchner, y a Lázaro Báez, quien obtuvo de manera irregular 51 contratos de obra pública en Santa Cruz, por un monto equivalente a aproximadamente 3 mil millones de dólares.",
+      "entidades_detectadas": [
+        "néstor",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "El economista Matías Surt señaló que durante el gobierno de Mauricio Macri se utilizó un 18% más de asfalto y cemento, con un 27% menos de gasto que durante el gobierno de Cristina Kirchner.",
+      "entidades_detectadas": [
+        "macri",
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Lázaro Báez, un \"magnate súbito\", ya tenía vínculos con el poder antes del ascenso de Néstor Kirchner, incluso participando en transacciones financieras internacionales sospechosas.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Las declaraciones de Soria y Amena, defendiendo a Cristina Kirchner, parecen un guion preestablecido.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

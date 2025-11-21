@@ -1,0 +1,446 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 53,
+      "derecha": 33
+    },
+    "score_promedio": 0.432,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, con clima ya 100% electoral, ha recrudecido esta especie de confrontación personal entre Alberto Fernández y Mauricio Macri.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La estrategia de Alberto Fernández es muy parecida a la estrategia de Macri durante sus cuatro años de gobierno.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El papel que hoy ocupa en el discurso de Alberto Fernández, Macri, es el papel que ocupaba en el discurso de Cambiemos Cristina, es decir, la idea de imputarle todo a Cristina.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjate que Macri inclusive hoy sigue haciendo eso.",
+      "score": 0.5,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema de su gobierno fue o que Cristina estaba antes o que Cristina estaba por llegar.",
+      "score": 0.62,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es cierto, es decir, la perspectiva de que volviera Cristina es lo que desbarató la economía en el último período, con todo lo que puede tener de incorrecto históricamente eso, porque la crisis de Macri se desata muchísimo antes de que se supusiera, se desata cuando él termina de vencer a Cristina después del 2017.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es una lógica que domina toda la polarización y que hace que Macri vuelva a la escena.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces aparece Macri en defensa propia, su entorno de funcionarios, fíjate que reapareció Nicolás Dujovne escribiendo una nota explicando cuál era el problema de la deuda y qué significa el problema del crédito público desde su perspectiva, **Sturzenegger** metiéndose en el mismo tema, **Lilita**, es decir, reaparece el elenco de Macri pero no son los candidatos los que reivindican como propia la gestión del ex presidente.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La figura de Macri específicamente en la campaña ha sido muy administrada por **Larreta**.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un par de fotos con algunos candidatos sólo para demostrar que no hay una quiebra dentro de la oposición y que las cosas con Macri están bien.",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri que sale, y esto es muy interesante, porque esto sí tiene consecuencias prácticas futuras, en una posición de mucha intransigencia, también parecida a la de Cristina.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay dificultades, digamos, colabora poco Alberto Fernández con esa imagen que da Macri del gobierno, porque si algo pareciera que no es este gobierno, por lo menos en la imagen de Alberto Fernández es una dictadura, pero Macri trabaja para hablarle a su electorado más recalcitrante.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí está Macri y ahí está Cristina.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que viene haciendo Macri desde hace tiempo?",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El argumento que si yo fuera Macri miraría como para alentarme con un retorno.",
+      "score": 0.523,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Cristina volvió cuando nadie pensaba que iba a volver.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo parecido a lo que pasa entre Larreta y Fernández hoy, que también se parecen.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se le ha prestado demasiada atención al tema.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández logró contra la voluntad de Cristina que la candidata en la provincia de Buenos Aires sea Tolosa Paz y no Cafiero, que era lo que quería Cristina.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tengo entendido que en la primera reunión que tuvo con Tolosa Paz, Cristina Kirchner, cuando ella fue a pedir la bendición de Cristina, le dijo con toda sinceridad, como hace Cristina, que es un temperamento que a mí me gusta mucho.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dijo, mirá querida, vos no sos mi candidata.",
+      "score": 0.348,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le digo con todo cariño, mi candidato era Cafiero, porque era el que liberaba la jefatura de Gabinete, que es una posición **naftalínica** que Cristina, Máximo Kirchner, la Cámpora, quieren tomar todavía.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en la capital Leandro Santoro, que no sé si era el candidato de Cristina tampoco.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y estas dos candidaturas, si terminan siendo exitosas, le van a permitir decir a Fernández, bueno, de alguna medida gané yo, porque ganaron mis candidatos.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después va a ser muy difícil hacer creer que él preside este oficialismo, porque Cristina tiene algo que Fernández no tiene, que son los votos propios en el **conurbanobonaerense**.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este problema de Macri para aparecer colabora con esa aspiración de **Larreta**.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy yo miraba una publicidad de Jorge Macri avalando a los candidatos juntos de la oposición en Vicente López, y ¿sabes cómo es el eslogan?",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfaro, que está apadrinado por Horacio Rodríguez Larreta, Cano y Silvia Pérez, que están apadrinados por Macri y por Carrió, y una lista de renovación que la conducen Campero y Sánchez, que tienen la protección o el auspicio de también una figura nacional que tiene mucho arraigo en Tucumán, porque hace política en Tucumán también, que es Alfonso **Pradgay**.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, en la interna de que cambiemos de Tucumán, vamos a ver una interna de figuras nacionales.",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una provincia interesante para mirar, porque es una provincia importante del norte, donde Alberto tiene mucho que decir, porque es un aliado cada vez más secreto de Manzur, porque vos sabes que Cristina Manzur lo tiene condenado desde que quiso jubilarla.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Córdoba es otro distrito interesante, como Pancho...",
+      "score": 0.405,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso fue lo que planteó y no le gustó a Cristina.",
+      "score": 0.383,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirá cómo le salió, ¿no?",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Córdoba es otro lugar donde hay una interna muy encarnizada en la oposición, que es una interna básicamente radical.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los expertos en imagen le tienen prohibida la camisa a Larreta.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le pusieron barba a Larreta también.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces en Córdoba se juega mucho poder la oposición.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque ahí está la candidatura de **Rossi**, de Agustín **Rossi**, que va en contra de la lista de Cristina en nombre de Cristina.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso Cristina apoya al candidato, a Lewandowski, que es el candidato de Perotti, que como Mansur también se anotó como suplente.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que es esta forma de distribuir los cargos que tiene la interna de Juntos por el Cambio, por el cual si Ricardo López Murphy obtiene un número de votos tal que hace que su posición le corresponda al lugar de una mujer, debería ceder ese lugar a una mujer de su lista y él debe quedar postergado y por ahí en el reparto del sistema **D'Hont** vuelve a quedar en el lugar de una mujer.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira, del 17 al 20% si sacara López Murphy dentro del espacio de Juntos por el Cambio, aclaremos bien, no estamos hablando lo que saca López Murphy en el total de la elección, sino el porcentaje que puede sacar dentro del universo de los que votaron Juntos por el Cambio, o sea la lista de Vidal a la lista del propio López Murphy o a la lista de Rubinstein del radicalismo.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si dentro de eso saca esos números que vos decís, mira los escenarios que se van planteando.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le va mejor.",
+      "score": 0.765,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, le fue mejor, pero él queda fuera.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le conviene que le vaya peor.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solamente sacando más del 34, entra segundo Ricardo López Murphy.",
+      "score": 0.549,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy interesante esto, Carlos, que, bueno, lo planteamos el lunes pasado, pero Ricardo López Murphy se refirió esta semana a este tema y dijo, está en vía de solución, veremos qué solución se le encuentra, ¿no?",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque ganaría Vidal esta interna, todos suponemos.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo es un hombre.",
+      "score": 0.767,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si a López Murphy le va muy bien, entra segundo.",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero supongo que no le va tan tan bien.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vidal le tendría que ceder el cuarto lugar a él.",
+      "score": 0.394,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy yo charlaba la tarde con el director de la Nación, con Fernán Zaguier, que me decía, a mí me interesan tres temas en esta elección, porque pueden ser los más novedosos, que son la abstención, si hay o no abstención, cómo le va López Murphy y cómo le va mi ley.",
+      "score": 0.209,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo termina en Menem alineado a los Alsogaray.",
+      "score": 0.462,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo termina en Menem alineado a los Alsogaray.",
+      "score": 0.462,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de las versiones de que Massa esté detrás, de que el Massa liberal alsogaraísta, ucederísta esté detrás de **Espert**, por ejemplo, que muchos creen eso.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un Massa para cada opción.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, digo, ¿se inaugura una tendencia con esto que va a dominar en alguna medida, que le va a poner un cejo, que le va a poner un color, un matiz, a los próximos dos años de Acal 2023?",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, decía un resultado exitoso.",
+      "score": 0.327,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿O hay un electorado que votará a Manes porque no tolera a Santilli, no tolera al Pro, no tolera a Macri, todo lo que el Pro representa?",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, todos nos olvidamos, pero Massa tuvo una interna con De La Sota, ¿no es cierto?",
+      "score": 0.327,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "6% del voto a De La Sota terminó en Macri, no fue a Massa en la elección general, en la elección donde después Massa compite con Macri.",
+      "score": 0.278,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es que Cristina se mantuvo en estos últimos días medio al margen, y lo que dicen es que va a cerrar.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí me llama la atención que Cristina se ha eclipsado, aquí misma, se ha puesto al margen.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que también Alberto Fernández quiso tener un protagonismo, no solamente en la escena metropolitana, por decir, del gran Buenos Aires, de la capital, de la provincia, sino en el interior, que no sé si a ella la convence demasiado ese protagonismo.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno mira lo que dice Cristina para pedirle el voto a la gente, los argumentos son elogios de su propia gestión y la de su marido.",
+      "score": 0.486,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando uno se mete a ver lo que dice Todesca, son todos elogios respecto de cómo se recuperó el salario real en tiempos de Néstor y de Cristina Kirchner.",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver qué dice el jueves, si logra elogiarlo Alberto en algo.",
+      "score": 0.825,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicho sea de paso acaba de salir un libro interesantísimo, interesantísimo lleno de reflexiones generales sobre la política a propósito del periodo de Alfonsín y la gestión de Juan Sourrouille que es un diario, una especie de diario intimo de la gestión de Sourrouille en la que él participó de Juan Carlos Torre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ese libro nos trae también al pasado de Alfonsín que se parece mucho a esto que estamos viviendo.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, acá aparece una agenda complicada ligada a un tema Pancho, por eso la presidencia de Cristina sobre el ojo al gobierno de Fernández es tan inquietante.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay cuatro billones de pesos emitidos en Lelix escuchaste, cuatro billones de pesos emitidos en Lelix que ya eran un problema para Macri y eran menos.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eran las Lelix de las que se ufanaba Alberto Fernández que iba a bajar para pagarle más a los jubilados, a los que le recortaron las jubilaciones en términos reales.",
+      "score": 0.801,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se está armando una escena para leer el libro de Torres La conversación con el FMI va a ser muy difícil porque ya lo que hagas con el gasto público, con los subsidios, con el gasto del tesoro es intranscendente lo que te van a preguntar es cómo vas a hacer para que el mercado te absorba toda esta masa de dinero que emitís eso te van a pedir los del Fondo es decir, el problema está en el Banco Central y voy a decir algo más el problema sigue estando en el Banco Central porque en el gobierno de Macri no renunciaban los ministros de Economía renunciaban los presidentes del Banco Central y esto está en relación directa con el tipo de cambio y está en relación directa con los depósitos bancarios y con el problema de la brecha este es el tema con el que se va a encontrar el gobierno una vez que terminen las elecciones entonces, este es un tema que lo puede manejar Santiago Cafiero no me hago yo la pregunta, ¿sabes quién se la hace?",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina todo muy finito hay que desactivar una bomba con una precisión de experto milimétrica y no te olvides que el Fondo te pide un acuerdo con la oposición entonces reaparece Macri siendo que con este gobierno no se puede hablar entonces, Macri tampoco se puede hablar de un acuerdo con el Fondo con este gobierno es un mensaje que Macri le está mandando también a la reta y al radicalismo ¿están todos de acuerdo con Macri que con este gobierno no hay que hablar?",
+      "score": 0.245,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "a ver vuelvo a la época de Alfonsín en el año 88 se produce un fenómeno importante que es una competencia entre Cafiero y Menem Cafiero venía de ganar las elecciones como gobernador de la provincia de Buenos Aires era el presidente del PJ y todos los gobernadores del PJ se alinearon detrás de él Alfonsín convoca un acuerdo para un ajuste impositivo en el Congreso aumento de impuestos, entre otros impuestos al cigarrillo Cafiero que dice yo voy a ser el próximo presidente prácticamente ya estoy designado si la economía que quiere ordenar Alfonsín es la economía que me va a tocar gobernar a mí fue y se abrazó por los palos ganó Menem con el salariazo y la revolución productiva si la reta es el candidato cantado de Juntos por el Cambio ¿le conviene ir a un acuerdo o no?",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "o le conviene que hace una fractura en el peronismo para que hace un balotaje?",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "en que escenario los gobernadores y los intendentes se pueden enojar con Alberto y con Cristina?",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "con una economía ordenada después de un acuerdo con el fondo o sin acuerdo con el fondo y en medio de una situación más caótica?",
+      "score": 0.493,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "lo segundo de otra manera a Juntos por el Cambio ¿le conviene colaborar en que al gobierno le vaya mejor y el peronismo vaya unificado?",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "vos decís que Rodríguez Larreta lo está viendo así se siente el cafiero de este momento todos lo ven así si lo veo yo, ¿cómo no lo van a ver ellos?",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿qué Macri cuando dice con este gobierno no hay que hablar?",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "entonces la pregunta Pancho en el fondo es esta clase política que estamos viendo que estamos viendo en el escenario electoral estos que vemos ¿están a la altura de este drama?",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "entonces tiene cierta lógica que Cristina se esconda con una versatilidad que a mi me resulta muy llamativa que tiene ella un día podríamos hablar de eso ¿por qué?",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "tres semanas y después desaparece se convierte en Hipólito Irigoyen que no hablaba en medio de toda esta complejidad dejame ser mal pensado dejame leer debajo del agua creo que hay sectores que toman posición los movimientos sociales que ahora no se llaman más peronistas son los Cayetanos, ya lo dijimos el otro día son la iglesia casi Pérsico, el chino Navarro el movimiento Evita en su conjunto Gravois casi que se enfrentan al propio gobierno son gobierno y por las dudas son oposición también porque están viendo esta escena económica que estamos hablando están viendo la dificultad del acuerdo con el fondo pero ahora aparece otro actor la CGT hubo una novedad el otro día, relevante un asado en la casa de Guado de Pedro en San Telmo Guado de Pedro y Máximo Kirchner con Gerardo Martínez, Andrés Rodríguez Cloro Lingeri y Daher fue amable la novedad cual es Pancho la novedad es que la Cámpora quiere abrirse de su hermetismo y relacionarse con sectores con los que no venía dialogando importante yo creo que Máximo Kirchner que tiene una formación de una casa política y tiene la sensibilidad política diría yo más de su padre que de su madre en términos de el papel de los actores orgánicos de la política, de la burocracia política, está mirando que aquí hay un problema y quiere hablar con los gordos que le dijeron nosotros tenemos nuestra propia lógica tenemos nuestro propio juego no queremos que ustedes nos asignen que lugar ocupamos en la obra entonces 18 de octubre ahora va a haber una movilización al monumento del trabajo ahí frente a la facultad de derecho cerca de la Cgt perdón a la facultad de ingeniería cerca de la Cgt frente a lo que era la fundación de Vaperón aspiran a juntar muchísima gente con tres consignas desarrollo, producción y trabajo que anoten los movimientos sociales y que anote Alberto y que anote Cristina les aparece otro comensal en la mesa que son los gremios orgánicos que antes de la elección para que no cedía que la elección de sus autoridades es un derivado del triunfo de alguien en las elecciones generales van a elegir un nuevo secretario general probablemente colectivo no un solo secretario general varios la pregunta es va a estar Moyano incorporado ahí van a estar los camioneros en esa conducción a los de la Cámpora les gustaría que sí porque tienen cierta afinidad con Pablo Moyano ahora te digo los que estuvieron en ese asado no he hablado con ellos pero me juego a que no lo quieren a Pablo Moyano en la Cgt no claro bueno entonces vamos a una configuración sindical conflictiva con alta inflación y vuelvo a que estamos en un revival del alfoncinismo vuelvo al libro de torre estamos ante novedades Pancho digamos estamos ante un ritmo político distinto y por debajo de toda esta escena por debajo del radar un tema central que es la justicia del que ya hablamos el lunes pasado vuelvo al tema en el consejo de la magistratura en los próximos 15 días se va a resolver la justicia y la justicia y en los próximos 15 días se va a resolver nada menos que la composición de la Cámara Federal Penal la de Brulli y Bertucci por donde pasa toda la política y todas las causas de corrupción y de la Cámara Contencioso Administrativo que tiene también un poder político enorme y de tres juzgados federales el de Canicova el de Bonadio y el de Torres Torres fue a formar parte de la corte de la provincia Bonadio falleció y Canicova se jubiló hasta ahora había una tesis dentro de Juntos por el Cambio defendida por la RETA hay que hacer un acuerdo con el gobierno y garantizarnos equilibrio en esa composición de la justicia federal Contencioso Administrativo y Penal se impuso a la voz de Macri de nuevo intransigente fíjate esto no resistamos que Brulli y Bertucci dure todo lo que tengan que durar no les demos los votos en el Consejo de la Magistratura donde necesita nueve votos el oficialismo para aprobar los candidatos a jueces para esa resistencia depende que no haya acuerdo con dos personas el juez culota que pertenece a una lista de centro-izquierda no quisnerista muy interesada esa lista de jueces en la Cámara Contencioso Administrativo porque ahí está Sergio Torres el hermano de José de la Cámara y el hermano de Sergio Fernández que opera mucho en ese sector él es Camarista Contencioso Administrativo y la otra figura a la que hay que mirar es Silvina Jacopo senadora representante en el Consejo de la Magistratura de Gerardo Morales porque es importante porque Gerardo Morales tiene intereses en la justicia federal y le pide reoleo al juez federal electoral de Jujuy hay quien dice que ya hubo, no lo tengo verificado una asignación de recursos para la ciudad judicial federal de Jujuy por 650 millones de pesos ¿habrá asumido algún compromiso Gerardo Morales por esa asignación de recursos para su provincia en el Consejo de la Magistratura?",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "él jura que no, pero todo el mundo la está mirando a Jacopo sería interesante que en materia judicial haya un acuerdo entre el gobierno y Morales al que buena parte del gobierno del quiesnerismo le reprocha una política judicial muy reprochable por la situación de Milagros Sala Pancho sería un acuerdo con el carcelero de Milagros Sala vamos a ver que diría por",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 86
+  },
+  "etiqueta_original": "neutral"
+}

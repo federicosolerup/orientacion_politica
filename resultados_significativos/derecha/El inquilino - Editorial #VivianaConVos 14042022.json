@@ -1,0 +1,476 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 17,
+      "derecha": 75
+    },
+    "score_promedio": 0.744,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Así que en un rato le voy a contestar; puse hoy en mis redes sociales: \"Esta noche respondo\".",
+      "score": 0.534,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la de *House of Cards*.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta editorial se llama \"El Inquilino\", porque Alberto Fernández es el inquilino del poder.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él es el inquilino del poder, y ella, Cristina Fernández de Kirchner, es la dueña de la casa.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, Alberto es el inquilino de la señora.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema es que, para ella, Alberto es un muy mal inquilino.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente se sabe inquilino.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está dejando que la casa se caiga en mil pedazos.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensar que venían a prender la economía y le prendieron fuego a este señor, el inquilino, que, aunque tenga, como dijo ella, la banda y el bastón, no tiene poder.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella le dijo que te den la banda y el bastón no quiere decir que tengas el poder.",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le quiero hacer, desde acá, mientras cambia pañales en la Quinta de Olivos al hombre que, según Cristina Fernández de Kirchner, tiene la banda, el bastón, pero no tiene poder?",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a entrevistar a Alberto Fernández.",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto, ¿cuánto le pagaron?",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuánto le pagaron?",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuánto le pagaron?",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuánto le pusieron para decir que usted era el candidato a presidente?",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto, ¿cuánta guita le transfirieron al exterior para ser presidente?",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, ¿cuál fue el arreglo que usted hizo con Cristina y que nosotros no conocemos para soportar todas estas humillaciones?",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, cuando Cristina, la que tiene el poder, la dueña, mientras usted es el inquilino con banda y con bastón, le hace decir por [apellido] que usted es un mequetrefe y un ocupa, ¿cómo se siente?",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, ¿usted, cuando escucha que le dicen mequetrefe y ocupa, se angustia, se siente humillado?",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, cuando Cristina Fernández de Kirchner, que lo puso a dedo, le dice que usted tiene la banda y el bastón, pero que no tiene el poder, ¿cómo se siente?",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando un periodista le decía algo en las redes que no le gustaba o en una entrevista a usted, lo \"guardeaba\".",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insultaba a cualquiera en Twitter cuando no le gustaba lo que le decía, ni con Cristina.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué pasa, presidente, con Cristina no se anima?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, ¿por qué usted y su mujer violaron el DNU e hicieron el \"Olivo Gate\"?",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, ¿usted siente que ya le vendió su alma al diablo?",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, ¿cuál es el costo que usted está pagando?",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Presidente, a la noche, cuando usted se va a dormir, ¿piensa en qué país le va a dejar a su hijo Francisco?",
+      "score": 0.572,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de todo lo que ayer le dijo Cristina Fernández de Kirchner, ¿usted tiene ganas de irse?",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Ustedes le creen?",
+      "score": 0.659,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cámara maneja las cajas más importantes de este país.",
+      "score": 0.737,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre lo arrancó con el \"Olivo Gate\", y esto fue como la exposición mediática pública y humillante de Alberto Fernández.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá podemos decir que comenzó el fin de la presidencia de Alberto Fernández.",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así como hay un dólar oficial y un dólar blue, también tenemos un gobierno, un presidente oficial y un gobierno blue.",
+      "score": 0.518,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía Dady Brieva y se cumplió su profecía.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero que se queden como esos jugadores que jugaban mal y que putean al árbitro para irse silbados y \"tribuneados\".",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero justo no era en el gobierno de Macri, que podría haber empezado, sino que es ahora, en el gobierno del que tiene la banda, el bastón, pero que no tiene poder: el inquilino.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el presidente hablaba de la guerra contra la inflación.",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le pedimos ahora al inquilino?",
+      "score": 0.32,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pues ya le podemos decir inquilino si Cristina le dice que no tiene poder.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández es el inquilino, y Cristina Fernández de Kirchner es la dueña.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vos, Dady, trabajaste para que todo esto esté pasando, para que Alberto y Cristina sean la dueña y el inquilino.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí me hace re mal que a la gente le vaya mal y que la gente coma de la basura.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Iba al supermercado, hacía videos con el hijo y decía que estaba todo carísimo, que todo se iba al carajo.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Puede ser a la doble, triple ojo o uro ojo?",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parecía que era la niñera cuando lo hacía, y todos le festejaban a Dady, a Florencia, que nos decían casi de lo peor a los argentinos, que nos fuera mal.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién quiere que a Argentina le vaya mal?",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuché lo que decía Alberto Fernández, el inquilino, en julio de 2019.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Esta es la inflación que pagan los argentinos\", se lo decía a Obvia Macri.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este año podemos elegir entre una Argentina para todos o seguir con este gobierno que solo se ocupa de unos pocos\".",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un despelote con el tema de los alimentos y, mientras tanto, estamos esperando que llegue la gente del campo a poner un poco de huevos que le falta a un montón de gente, incluida la oposición.",
+      "score": 0.648,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto estuvo tres días en la clínica pensando: \"Tengo que romper la toya, tengo que romper la toya\".",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, si se confirma este nuevo IFE que leía hoy y escuchaba en Radio Mitre, ¿qué va a pasar con el acuerdo que hizo Guzmán con el Fondo Monetario Internacional y Cristina?",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Le están dando la razón a Cristina con un IFE, entonces?",
+      "score": 0.516,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El subconsciente, el inconsciente, le obligó a Milagros a decir, por una vez, la verdad.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, Alberto con la heladera vacía.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, en el brindis se decía por esta patria, por la Argentina, por salir de la pobreza, por la educación.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vos le decís: \"Un minuto de silencio para Macri, que está muerto\".",
+      "score": 0.695,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fijate cómo era la Argentina en el gobierno.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme un pañito el G20.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo me acuerdo que estaba en Uruguay y lloraba.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estaba en Uruguay mirando esto con mi familia y me emocioné.",
+      "score": 0.249,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Donald Trump de ahí para arriba y para abajo, todos.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque no era un presidente, era la Argentina que volvía a tener una incorporación en el mundo.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Qué bien estábamos cuando estábamos mal, como decía Macri.",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo quiero ver hoy a Macri llorando.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo quiero ver a Macri llorando.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Abrimos de gambas con Putin a 30 segundos de que le declararan la guerra, la invasión a Ucrania.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Abrimos de gambas unos días antes del despelote de Rusia con Ucrania.",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que me molesta es que lo contrata el Estado con la nuestra.",
+      "score": 0.522,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente que está a diez pies y re en hambre, si ustedes le pagan a estos muñecos disfrazados con la nuestra.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy La Roque salió a tuitear, tuiteó contra la OTAN, y le hablaron de la base china en la Patagonia.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"En Malvinas hay una base de la OTAN\", dice La Roque.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Héctor, un tuitero, le contestó que en la Patagonia hay una base china.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"A 50 kilómetros de mi casa, en Neuquén, hay una base china, ocupan tierras, no pagan impuestos y tienen un contrato secreto con tu presidente Cristina Elizabeth\".",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le clavaron base china en Neuquén.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A 50 kilómetros de mi casa, en Neuquén, hay una base china, ocupan tierras, no pagan impuestos y tienen un contrato secreto con tu presidente Cristina Elizabeth.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Van a escuchar ahora la cámara oculta que le hicieron los alumnos.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"En el caso de Viviana Canosa, en una comunicadora, si se le puede dar una comunicadora, está sostenida por un medio que está en América, o en la A24, un medio hegemónico, grande, y lo que pasa es que no es todo culpa de que ésta esté ahí, permanece en este lugar, es lo que yo he hablado con mi clase de prácticas, no es todo culpa del medio, es de la audiencia, de aquellos que consumen ese programa.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Qué miedo, qué miedo que le tienen, profe, a la libertad de expresión!",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué le tiene tanto miedo?",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le gustaría sentir eso.",
+      "score": 0.327,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un peligro para la democracia es Cristina cuando le dice a tu presidente, a tu gobierno, le dice: \"Tiene banda, tiene bastón, pero no tiene poder\".",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, a ver, ¿ustedes se acuerdan cuando pusimos el año pasado a la otra adoctrinadora, que encima gritaba y que el pibe le contestaba muy bien y lo recontra\"verdiaba\", porque \"atugo, atugo, atugo\", que vos decís que atentamos nosotros contra...",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y preguntarle cómo califica a esta docente, con perspectiva de género, así cuadradita, que dice lo que le piden que diga, que piense lo que dijo Cristina con respecto a Alberto Fernández allá.",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordémosla, la propia adoctrinadora de La Matanza, que cómo había dicho el presidente de esta mujer, que era un lindo debate, que se había armado, un lindo debate o algo así...",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández dijo que este debate de la docente de La Matanza, adoctrinadora con el niño que hablaba bien de Macri, era un debate enriquecedor.",
+      "score": 0.702,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Enriquecedor, es usted que se la lleva toda, macho, míralo.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡También te tocó el \"carapota\", te le tocó la pédica!",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Macri cagó tanto el país y ellos buscan salir...",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese presidente no era un debate enriquecedor.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poneme la foto.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 92
+  },
+  "etiqueta_original": "neutral"
+}

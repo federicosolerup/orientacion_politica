@@ -1,0 +1,694 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Yo lo resumiría como se hace en Twitter.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una frase en Twitter que dice: \"No tengo pruebas, pero tampoco dudas\", y este sería el resumen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que titularlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo tengo a **Oscar Parrilli**, que es senador nacional por el Frente de Todos, para sacarme de esa banalidad tan pequeña de decir ese título.",
+      "entidades_detectadas": [
+        "Oscar Parrilli",
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Hay cosas un poco más importantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Oscar**, **Jorge Rial**, de Radio 10, buen día.",
+      "entidades_detectadas": [
+        "Oscar",
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "Buen día, Jorge, y buenos días a toda la audiencia de Radio 10.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Bueno, ya pasadas 24 horas, no tuve más tranquilidad de leer los fundamentos, y sonaba raro ayer y hoy suena más todavía.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Sí, a confesión de parte, relevo de prueba, eso es lo que yo estudié en derecho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claramente, los mismos jueces admiten que es un fallo político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablan del *Laufer*, hablan de las consideraciones políticas hechas por la doctora del pelotón de fusilamiento.",
+      "entidades_detectadas": [
+        "Laufer"
+      ]
+    },
+    {
+      "frase": "Hablan de que la presidenta dijo hace tres años que el fallo estaba escrito y bueno, como vos decías, no tengo pruebas, pero tengo dudas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo estudié en la facultad que, en el derecho penal, existían los indicios, la semiplena prueba, la prueba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá no hay nada de eso; acá hay convicciones, suposiciones, deducciones y dudas, y en el fallo eso falla.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Claramente este es un fallo político, y hay que decirlo con todas las letras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es de los jueces y fiscales que iban a jugar al fútbol a la quinta Los Abrojos con Macri, que jugaban al pádel en la residencia presidencial de Olivos, que iban a visitar a Macri a la Casa Rosada, que viajaron en un avión pagado por Clarín y por Rendo a una fiesta en Lago Escondido, de la cual no se sabe qué tipo de fiesta era.",
+      "entidades_detectadas": [
+        "Clarín",
+        "Casa Rosada",
+        "Los Abrojos",
+        "Rendo",
+        "Lago Escondido",
+        "Macri",
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Estos jueces, estos fiscales, estos fiscales designados a verlos, claramente, este es un pelotón de fusilamiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos en el peor de los mundos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta no es la justicia la que está condenándola, como dicen, obviamente, los grupos mediáticos que fomentaron y propiciaron esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es la jueza especial, esto es el antiderecho, la antijusticia, cambiaron el código electoral por el código penal, como ella dijo, \"presa o muerta\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No pudieron matarla, por suerte falló ese magnicidio y entonces ahora la quieren presa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es lo que están haciendo los grupos económicos, los medios de comunicación, sectores del partido judicial y sectores de Cambiemos.",
+      "entidades_detectadas": [
+        "Cambiemos"
+      ]
+    },
+    {
+      "frase": "Ninguna duda, son violentos, agresivos y han roto el pacto democrático que se fundó en el año 83 y que el peronismo dio muestra cuando fueron los intentos de golpe de estado con Alfonsín y fue y se puso al lado de Alfonsín defendiendo, y salió la foto en la Rosada.",
+      "entidades_detectadas": [
+        "Alfonsín",
+        "la Rosada"
+      ]
+    },
+    {
+      "frase": "En la Sierra, en esa época empezó todo lo que era el peronismo dual.",
+      "entidades_detectadas": [
+        "Sierra"
+      ]
+    },
+    {
+      "frase": "Todos, todos apoyamos, ellos no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Están claramente con el partido judicial y esta nueva versión de los golpes de estado en América Latina.",
+      "entidades_detectadas": [
+        "América Latina"
+      ]
+    },
+    {
+      "frase": "Esto se dio no solamente en esta presunción judicial en la Argentina, se dio en Chile contra **Marco Enríquez-Ominami**, se dio en Brasil contra Lula, se dio en Uruguay contra Evo Morales, se dio en Ecuador contra Rafael Correa, se dio en Honduras contra Mel Zelaya, que también le hicieron un juicio para prohibirlo definitivamente, pero como dijo Cristina, \"los pueblos siempre vuelven\", y allí volvió, después de 15 años, Xiomara Castro y ganó las elecciones, no la esposa Messera, Lula es presidente, Evo no, pero Arce ganó la presidencia y, bueno, solo queda Ecuador, con un gobierno que se está cayendo a pedazos, no producto de este partido judicial que suplanta todos los golpes de estado tradicionales.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula",
+        "Evo",
+        "la Argentina",
+        "Honduras",
+        "Ecuador",
+        "Mel Zelaya",
+        "Evo Morales",
+        "Xiomara Castro",
+        "Uruguay",
+        "Rafael Correa",
+        "Cristina",
+        "Chile",
+        "allí volvió",
+        "Arce",
+        "Marco Enríquez-Ominami",
+        "Messera"
+      ]
+    },
+    {
+      "frase": "Sí, pero Lula cayó preso, o sea, cuando se presentó.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Hola, **Oscar**, cuando se presentó Lula, lo metieron preso.",
+      "entidades_detectadas": [
+        "Lula",
+        "Hola",
+        "Oscar"
+      ]
+    },
+    {
+      "frase": "Vos tenés todas las dudas.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Claro, ¿ustedes tienen el temor de que esto pueda ocurrir?",
+      "entidades_detectadas": [
+        "¿",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Pero no tengas duda que lo van a intentar hacer, claro que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, eso es lo que están preparando y están preparando que si Cristina es candidata, 10 días antes o 15 días antes, salga un fallo que diga que no puede ser candidata porque puede ser condenada, porque equipo.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "**Oscar**, cuando decimos \"presa\", la imagen que a mí se ve en la cabeza, y me preguntás, ¿le van a poner los ganchos, se la van a llevar?",
+      "entidades_detectadas": [
+        "Oscar",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Pero eso es lo que quieren, esa es la imagen de Cristina que quieren, no tengas duda, la imagen de Lula.",
+      "entidades_detectadas": [
+        "Lula",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Lo hicieron con Vudú.",
+      "entidades_detectadas": [
+        "Vudú"
+      ]
+    },
+    {
+      "frase": "Y vos decís, yo conozco Brasil, he estado varias veces en Brasil, tengo diálogo con muchos dirigentes y he conversado con la gente, con el pueblo, y a mí, muchos sectores en Brasil, que no son de Bolsonaro, pero votaron en contra de Lula porque Lula era un corrupto, y si no era Lula, los amigos de Lula.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula",
+        "Bolsonaro"
+      ]
+    },
+    {
+      "frase": "Esto lo instalaron en una gran parte de la ciudadanía brasilera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No obstante eso, Lula pudo ganar por escaso margen, pero pudo ganar porque van generando estos microclimas.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Obviamente, que tienen poder, tienen mucho poder, y se llegan a la cabeza de la gente, no tengas duda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el golpe del 55 llenaron la Plaza de Mayo, bombardearon, mataron, se robaron un cadáver, 18 años, demolieron la casa de la residencia presidencial donde había muerto Evita porque iba la gente a ponerle velas, la demolieron.",
+      "entidades_detectadas": [
+        "Plaza de Mayo",
+        "Evita"
+      ]
+    },
+    {
+      "frase": "Estaban todos con la \"flor no me olvides\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El objetivo era el progreso demoledor, era el objetivo demoler la casa donde había muerto Evita porque ahí iba la gente a prenderle velas a Evita, recordar a Evita.",
+      "entidades_detectadas": [
+        "Evita"
+      ]
+    },
+    {
+      "frase": "Mucho más atrás, no te olvides lo que hicieron con Yrigoyen cuando le hicieron manifestaciones en la casa por corrupto, llegaron, encontraron la mesita de Lula, que no había nada.",
+      "entidades_detectadas": [
+        "Lula",
+        "Yrigoyen"
+      ]
+    },
+    {
+      "frase": "Lo mandaron a Martín García.",
+      "entidades_detectadas": [
+        "Martín García"
+      ]
+    },
+    {
+      "frase": "Lo mandaron a Martín García, lo metieron preso.",
+      "entidades_detectadas": [
+        "Martín García"
+      ]
+    },
+    {
+      "frase": "Bueno, ni que hablar lo que hicieron con Rosas y lo que hizo Mitre con los coroneles de Mitre que salió a matar y asesinar a caudillos federales.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Mitre",
+        "Rosas"
+      ]
+    },
+    {
+      "frase": "Dinamitaron la casa donde está la residencia de Rosas, ahí en Sarmiento y Libertador.",
+      "entidades_detectadas": [
+        "Sarmiento y Libertador",
+        "Rosas"
+      ]
+    },
+    {
+      "frase": "La dinamitaron, no le pusieron dinamita, ni rastro le daban.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que hacía durante mucho tiempo, la residencia de esa sede del colegio militar fue sede del colegio de la Armada y allá cerca de 1900 la dinamitaron para que no quedaran ni rastros, y allí construyeron el monumento a Sarmiento como una muestra de ese revanchismo, ese odio, esa venganza.",
+      "entidades_detectadas": [
+        "Sarmiento",
+        "Armada"
+      ]
+    },
+    {
+      "frase": "Eso es lo mismo que tienen hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esos sectores son los mismos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué se hace?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Pero no me lee el fallo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Disfundir las ideas propias, insistir con esto, debatirlo, denunciarlo y yo creo que, finalmente, como ocurrió más tarde y más temprano, la verdad aparece y se rompe la mentira.",
+      "entidades_detectadas": [
+        "ocurrió más tarde"
+      ]
+    },
+    {
+      "frase": "No hay que tener impaciencia, no hay que dejarse llevar por los ímpetus.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Oscar**, una candidatura de Cristina, ¿podría acelerar los tiempos a la justicia para intentar meterla en cana?",
+      "entidades_detectadas": [
+        "Oscar",
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Podría acelerar eso?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tengas duda, claro que lo van a hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella lo ha dicho y lo ha demostrado, nunca prioriza su interés personal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es que ella no quiere, ella está pensando lo mejor para la Argentina, lo mejor para el Frente de Todos.",
+      "entidades_detectadas": [
+        "Frente de Todos",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Y ella sabe que eso puede llevar a un enfrentamiento muy violento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Hasta dónde podría llegar Cristina?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Porque es cierto lo que decís, porque si se lanza y pasa lo que pasa, estamos al borde de eso, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Movimientos sociales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero un periodista, no voy a decir quién, del grupo TN dice que le preguntó un día a Macri por qué no le ha metido presa y él dijo: \"Bueno, yo di la orden de no meterla presa porque vi que era conveniente\".",
+      "entidades_detectadas": [
+        "Macri",
+        "TN"
+      ]
+    },
+    {
+      "frase": "Macri definía a Cristina y va a no presa, lo dijo él.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Él dijo que quien le aconsejó nombrar a Rosenkrantz y a Rosatti fue Pepín Rodríguez, y Macri está prófugo de la justicia de ellos, hace tres años.",
+      "entidades_detectadas": [
+        "Rosatti",
+        "Pepín Rodríguez",
+        "Macri",
+        "Rosenkrantz"
+      ]
+    },
+    {
+      "frase": "Y, **Oscar**, ¿qué tiene que hacer el peronismo con respecto a esta proscripción?",
+      "entidades_detectadas": [
+        "Oscar",
+        "¿qué"
+      ]
+    },
+    {
+      "frase": "Unirse, mantener el Frente de Todos, debatir este tema, discutirlo con otros partidos, con otros dirigentes, con otros sectores, estar convencido de que esta es la verdadera lucha.",
+      "entidades_detectadas": [
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "La lucha es por la idea, la lucha es por las condiciones y, obviamente, cuando uno gobierna, mejorar la calidad de vida de la gente, sin duda, ese es el objetivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero digo, alinearse detrás de la figura de Cristina como candidata y diciendo: \"Che, la candidata es Cristina, si la sacan de la cancha a Cristina, sacan de la cancha al peronismo\".",
+      "entidades_detectadas": [
+        "Che",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Bueno, eso se verá, por eso digo, todas sus medidas son en esa medida.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Pero sería una alternativa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, hay muchas alternativas posibles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo, por lo pronto, creo que mañana va a ser muy importante este encuentro en la *Vellanera*, obviamente lo voy a concluir.",
+      "entidades_detectadas": [
+        "Vellanera"
+      ]
+    },
+    {
+      "frase": "¿Y hoy?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y hoy qué habla Cristina?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Hoy, por problemas personales, no pude viajar, la verdad que lo lamento mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, ¿qué esperamos de lo de hoy?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No, hoy de lo que diga ella, sin duda, como siempre, va a poner temas en debate, en discusión, que hoy nadie habla, que son los temas existenciales y fundamentales de la Argentina y que nos dedicamos a dar consignas y persecuciones y no debatir los temas de fondo, porque, en realidad, los grupos económicos, financieros y demás quieren que los políticos nos dediquemos a discutir las bobadas y las cosas importantes las deciden ellos y nosotros nos peleamos.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Cristina es la única que tiene, por lo menos desde mi punto de vista, la visión de poner esto en valor y demostrar al conjunto de la sociedad cuáles son los temas estructurales y fundamentales que tenemos que debatir los argentinos, y cuáles son los temas que tenemos que llevar a la discusión en las elecciones de 2023.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "No solo se trata de candidatos, sino también de proyectos y propuestas de gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Oscar**, como siempre, un gustazo, abrazo a vos.",
+      "entidades_detectadas": [
+        "Oscar"
+      ]
+    },
+    {
+      "frase": "No, por favor, muchas gracias por tu disposición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Oscar Parrilli**, senador nacional con el Frente de Todos.",
+      "entidades_detectadas": [
+        "Oscar Parrilli",
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Esto es lo que yo planteo un poco y digo, pero ¿y el peronismo, cuando hablo del peronismo, permítame que hago lo que entro todo dentro, kirchnerismo, La Cámpora, todo?",
+      "entidades_detectadas": [
+        "¿",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Es que eso es el peronismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, está bien, pero lo digo así porque si no es un quilombo, tengo que hacer una disección y me vuelvo loco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a hablar del peronismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el peronismo es que una de sus líderes más importantes, o la más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, sí, lo es.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Te gusta o no te gusta?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está legalmente no proscrita, pero está claro por los fundamentos que la quieren fuera de la cancha.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Está claro, la quieren fuera de la cancha de la política.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Y el próximo paso, según dicen todos, puede ser meterla presa, meterla en cana, con los ganchos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, para, cuando es \"impresa\", ¿de quién me hablás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿De que le van a mandar una cédula judicial o que lo van a buscar y le van a poner los ganchos y lo van a ver a Cristina con una campera, con una remera de Boca en la cabeza?",
+      "entidades_detectadas": [
+        "Cristina",
+        "Boca"
+      ]
+    },
+    {
+      "frase": "Viste, es impresionante.",
+      "entidades_detectadas": [
+        "Viste"
+      ]
+    },
+    {
+      "frase": "Digo, no, no, no, ¿cómo es esto?",
+      "entidades_detectadas": [
+        "Digo"
+      ]
+    },
+    {
+      "frase": "Entonces yo lo que digo, si pasa eso, ¿qué tendría que hacer el peronismo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es decir, el señor es padre en un cacho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si la proscriben a nuestra líder, que además va a ser candidata, nos proscriben a todo el peronismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos tenemos que retirar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La democracia no se puede bancar eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se puede bancar una proscripción masiva de un partido político del 51% del país.",
+      "entidades_detectadas": [
+        "51% del país"
+      ]
+    },
+    {
+      "frase": "Entonces yo digo, ¿qué van a hacer?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué van a hacer?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque esta proscripción...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Rosatti",
+    "Clarín",
+    "Frente de Todos",
+    "Vamos",
+    "¿Qué",
+    "51% del país",
+    "Uruguay",
+    "TN",
+    "América Latina",
+    "Lula",
+    "Jorge Rial",
+    "Hola",
+    "La Cámpora",
+    "Digo",
+    "Olivos",
+    "Laufer",
+    "Pepín Rodríguez",
+    "Sierra",
+    "Evo",
+    "Oscar Parrilli",
+    "Evo Morales",
+    "Disfundir",
+    "Viste",
+    "Oscar",
+    "Está",
+    "Yrigoyen",
+    "Unirse",
+    "Vos",
+    "Sarmiento",
+    "Acá",
+    "la Rosada",
+    "Claro",
+    "Rosas",
+    "Armada",
+    "Claramente",
+    "Estaban",
+    "Casa Rosada",
+    "Rosenkrantz",
+    "Cambiemos.",
+    "Los Abrojos",
+    "Bolsonaro",
+    "Martín García",
+    "Rafael Correa",
+    "Cristina",
+    "Lago Escondido",
+    "Arce",
+    "Plaza de Mayo",
+    "Marco Enríquez-Ominami",
+    "Bueno",
+    "Evita",
+    "Boca",
+    "Sarmiento y Libertador",
+    "Vellanera",
+    "Brasil",
+    "¿qué",
+    "la Argentina",
+    "Honduras",
+    "¿",
+    "Ecuador",
+    "Mel Zelaya",
+    "Xiomara Castro",
+    "ocurrió más tarde",
+    "Obviamente",
+    "Él",
+    "Alfonsín",
+    "¿Podría",
+    "allí volvió",
+    "Chile",
+    "Jorge",
+    "Mitre",
+    "Che",
+    "Sí",
+    "Macri",
+    "Messera",
+    "Rendo"
+  ]
+}

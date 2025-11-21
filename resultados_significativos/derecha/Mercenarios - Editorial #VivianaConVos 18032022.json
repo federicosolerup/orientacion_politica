@@ -1,0 +1,356 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 52
+    },
+    "score_promedio": 0.688,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Te puedo pedir algo de Macri, porque esto que escuché de Alberto Fernández, nos va a contar es una perorata.",
+      "score": 0.676,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más fácil que Ucrania le gane a Putin, que Alberto le gane a la inflación.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les quiero decir que este programa es solo apto para la gente que disfruta cuando le dicen la verdad.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguimos ganando, dice Alberto en su \"Fernandezlandia\".",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguimos ganando con el Olivos Gate, seguimos ganando con el vacunatorio VIP, con encerrarnos a nosotros, con sacar a los presos de la cárcel, con el florero de la primera dama.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras la gente se caga de hambre, Alberto pateando penales.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con que Cristina decide no bajar en la votación, porque la señora no está de acuerdo con el arreglo, con el acuerdo con el FMI.",
+      "score": 0.672,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con los caprichos de \"Ña ña ña ña\", Máximo Kirchner.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente acaba de informarnos una vez más que estamos en guerra contra la inflación.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, usted es un meme.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, estamos tan locos que mi cámara y todos nosotros le hablábamos al televisor como si Alberto nos escuchara.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gana Alberto por amplia diferencia, dice Navarro desde C5N.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque vos tenés pauta, pero Cristina tiene las cajas.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gana Alberto por amplia diferencia, dice Navarro.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, este fracaso de Alberto es de Alberto y es suyo también.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fracaso de Alberto Fernández, Cristina Fernández de Kirchner, es también tu fracaso.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a la gente le dan polenta.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a la gente le dan carne, proteínas, a los chicos, vitaminas.",
+      "score": 0.522,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos el anuncio del presidente cuando dice que le declara la guerra a la inflación.",
+      "score": 0.541,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando asumí mis funciones en diciembre de 2019, Argentina registraba una inflación que orillaba el 54% anual.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pero Macri, presidente, la guerra, se lo digo y lo miro, la guerra contra la inflación usted ya la perdió antes de empezar.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cambiemos de bombero, no se puede más, con Fernando Fernández Landa.",
+      "score": 0.742,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya nadie le cree, presidente, extremendo.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Le comprarías a Alberto Fernández un auto usado?",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que dijo ayer, para el presidente no hay ajuste.",
+      "score": 0.318,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy en el Senado se está debatiendo la aprobación del acuerdo que hemos firmado con el Fondo, una regla que nosotros nunca hubiéramos tomado, pero que la Argentina tomó y que tiene que hacer frente al problema.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y escucho hablar mucho de que esas ideas que nosotros proponemos para poder hacer frente a las obligaciones que la Argentina asumió, van a significar ajustes.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos si el presidente es o se hace.",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es increíble que Corea del Centro le quiera lavar la imagen a un tibet tan impresentable que se lleva la nuestra y se cagan los argentinos.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él le hizo un chiste de mal gusto a Jorge Lanata.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá cómo se le mueve todo a Corea del Centro.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Cafiero habla de la nata no hay problema, y si habla no sé de Víctor Hugo, o hace un chiste con una mina sobre el culo o las tetas de Corea del Centro, ¿qué pasa?",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Argentina de mercenarios en la que vivimos, tenemos un canciller que no habla inglés y tenemos una senadora que no habla castellano.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo primero que tenemos que considerar a la hora de evaluar los términos de este acuerdo es que cuando asumió el gobierno de Alberto Fernández, el Fondo Monetario Internacional ya estaba entre nosotros.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señora, usted, senadora de la nación es una mercenaria que hace sentada ahí.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vaya al colegio, no se coma las \"S\", le pagamos para que defienda a quién.",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un traductor para Cafiero y una traductora para esta señora.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se comió todas las \"S\", no le quedó una.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Congreso se convirtió en una guarida para toda esta gente, para lo peor de la Argentina, lo peor.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El diputado Chupateta, recordémoslo, estábamos en pandemia, el tipo le chupaba las tetas, perdón, es lo que estaba haciendo a la novia, mujer, amante, no tengo ni idea.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sacar este lumpenaje del Congreso a patadas en el culo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Ibarradell mostrándonos las camitas para los enfermos de COVID.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le agradezco la paciencia a todos.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, el Senado aprobó el acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Cristina se rajó del Senado en un momento porque ella no estaba a favor de este acuerdo con el Fondo.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cada día Alberto está más parecido a Fernando.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Formación de activos externos, dijo el presidente del Banco Central.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Formación de activos externos, dijo el presidente del Banco Central, que hoy se llama comúnmente \"fuga\".",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerdo que el presidente del Deutsche Bank, de las finanzas internacionales en Argentina, vino personalmente a nuestro departamento de Juncal, Uruguay, en Recoleta, para que firmáramos la documentación.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Matan a la gente por un celular y Alberto Fernández baila con el agua de Jimmy y las señoras en la piscina.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo con la Agenda 2030, con la que insisto.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora hemos vuelto a hablar de la familia del hermano, le ha faltado mi primo y algunos amigos más del pueblo, señoría, para dar otra lección de suadradidad.",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todas las amigas del pueblo, le voy a dar el piso de los 4.000 habitantes de Sotillo de la Trada y póngase uno a uno a sacarme relación con cada uno de ellos.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, si usted hubiera donado su suelo durante la pandemia, en lugar de cobrar por dos, a lo mejor podría dar lecciones a los demás de por qué tienen que trabajar gratis.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y por cierto, le recuerdo que si nos ponemos a la familia, mi hermano nunca ha sido un cargo público.",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La propuesta de Mónica García de la semana, que esta semana le ha dado por ser liberal y saber también de economía.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted se ha enterado que se inherió en el bolsillo de los ciudadanos y no en manos de la administración, que no sabe gestionar.",
+      "score": 0.514,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que mujeres como esta me representan.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Larreta contó que desde el lunes va a sacar la obligatoriedad del tapabocas.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo: \"Mire, si le muestran mi facu, les pido perdón\".",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todos modos, poneme la foto de la ministra de Educación.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al que no le pareció bien esto que dice Garro es al Ministro de Salud de la Provincia de Buenos Aires, Nicolás Kreplak.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le dice cualquier cosa a Garro que toma una decisión, a mi humilde modo de ver, muy inteligente.",
+      "score": 0.289,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este comerciante no promete cosas que no puede cumplir, como el presidente Alberto Fernández, por lo menos es honesto.",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dale, le toco un poco más, ya voy a la mesa.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirá, apropiándose de un lugar que estaba vacío en la TV, le grita todas las noches al poder que...",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen que yo le grito todas las noches al poder para que cuenten conmigo.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos Corregidos:**\n    *   Alberto Castilma -> Alberto Fernández\n    *   Fernándezlandia -> Fernandezlandia\n    *   Vir -> VIP\n    *   Ña Ña Ña Ña -> Máximo Kirchner\n    *   Ibaradell -> Ibarrondo\n    *   Pedro Khan -> Pedro Kahan\n    *   Fablito Iglesias -> Fabián Iglesias\n    *   Caciro -> Cafiero\n    *   Mallan -> Mallmann\n    *   Lusto -> Lousteau\n    *   Campolongo -> Campolonghi\n    *   Diana Canosa -> Viviana Canosa\n    *   Jimmy -> Jaime\n    *   Feletio -> Felatio\n    *   Cheruti -> Cherutti\n    *   Maciel -> Maciel\n    *   Veneno -> Benegas\n    *   Diego Iglesias -> Fabián Iglesias\n    *   Julio Garro -> Garro\n    *   Horacio -> Horacio Rodríguez Larreta\n\n*   **Ortografía y Puntuación:** Se corrigieron errores ortográficos (tildes, palabras mal escritas, etc.), se agregaron o eliminaron comas y puntos para mejorar la fluidez y claridad de la lectura, y se ajustaron las mayúsculas y minúsculas.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 68
+  },
+  "etiqueta_original": "neutral"
+}

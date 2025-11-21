@@ -1,0 +1,126 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 6
+    },
+    "score_promedio": 0.321,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Carlos Reutemann ganó las elecciones de 1991 para gobernador en la provincia de Buenos Aires con el eslogan \"Mano Dura\" frente a la \"garantista\" Graciela Fernández Meijide.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francisco de Narváez ganó la elección de medio término en la provincia de Buenos Aires en el año 2009 con el eslogan \"Tengo un plan contra la inseguridad\".",
+      "score": 0.558,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente en la Argentina se da este fenómeno.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar con lo que generó la polémica en estos días, primero con Florencio Randazzo diciendo: \"Patricia Bullrich dobla todas las curvas a 180 y no se puede dejar muertos en los estallidos.",
+      "score": 0.275,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado no puede desalojar con un muerto, dejando muertos en los desalojos, porque así no funciona el Estado\".",
+      "score": 0.17,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí tenemos luego a Patricia Bullrich: \"También, el 1 de febrero, cuando la gente me elija presidente, el orden va a ser la regla y no el desorden.",
+      "score": 0.243,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Maldonado tuvo una profundidad que, si nosotros no hubiéramos entendido de entrada cuál era el sentido que le buscó el kirchnerismo y los organismos de derechos humanos que mintieron desde el primer día, nos hubiéramos comido el tecnicismo, hubiéramos entregado a los gendarmes y hubiéramos dicho: 'Pasamos a dos o tres a disponibilidad'\".",
+      "score": 0.506,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que el desorden le gane al orden, y en mi concepción, cuando fui ministra y, si la gente me elige como presidenta, el orden va a ser la regla y no el desorden\".",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora tenemos a Sabina Frederic, la ex ministra de seguridad de la Nación, diciendo que hay cierto punto de contacto entre lo que decía Florencio Randazzo y lo que decía ella.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo hacía memoria: el 22 de enero de 2020 nosotros le pedimos, por resolución, le pedí yo por resolución, como ministra, al director nacional de gendarmería, que era otro, porque yo tuve, yo tuve el director de gendarmería, Woodley, durante tres semanas, pero al nuevo le pedimos que inicie una investigación interna sobre ese operativo.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa investigación se terminó a principio de julio de 2020, y el 3 de agosto, en homenaje a Santiago Maldonado, nosotros presentamos el resultado de ese informe, y con ese informe iniciamos una causa penal contra Pablo Noceti, el director de gendarmería de ese momento, Otero y el segundo.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo voy a tomar el atrevimiento, obviamente, no le llego a los tobillos de lo que dijo Churchill cuando tenía que enfrentar a los nazis: 'Sangre, sudor y lágrimas'.",
+      "score": 0.637,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, a la provincia de Buenos Aires hay que entrar con metra, y luego no se puede dejar un muerto en cada uno de los desalojos, parece claramente una contradicción supina.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 17 de 2017, Randazzo decía algo similar, o sea, está diciendo que en el 2017, Randazzo decía lo mismo que dijo hace dos días.",
+      "score": 0.282,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después ellos dejaron de trabajar con Bullrich y evidentemente lo han cambiado por la postura.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es todo medio, porque en realidad lo que se está diciendo es algo que ya dijo Sabina Frederic, cuando el gobierno reconoció o el Estado diciendo que la gendarmería había hecho un pésimo procedimiento, y de hecho es verdad, no había una orden para ingresar al lugar, y es por eso que se mandan, y después empieza todo esto que está todo grabado, cuando los gendarmes empiezan a realizar testimonios, en ese momento, barbaridades para que vean y hagan creer que fue con la ley antiterrorista, esto de perseguir y entrar en un igual que no tiene el orden.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, acá tenemos finalmente, el último de Florencio Randazzo: \"El Estado no puede matar\", del año 2017, o sea, el momento en el que Maldonado dice que Randazzo tenía la misma posición que tiene ahora.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que tiene que quedar claro, yo escuchaba a Noceti es: \"Así el RAM sea terrorista, el Estado no puede matar, el Estado no puede capturar sin orden, el Estado no puede lastimar, el Estado no puede torturar\".",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, tenemos que dejar en claro que el Estado tiene la responsabilidad de aplicar la ley y proteger y aplicar los protocolos tal cual lo dicen, porque si no, pareciera que demonizar, como pretende este gobierno desde que asumió, a una identidad política, a un grupo o a alguien comete delitos y sea un delincuente, habilita a hacer cualquier cosa, habilita la bala, habilita la tortura, habilita el armado para ponerle la rodilla en la 100 a un pibe desarmado en la calle, habilita a que los policías estén de civil y, para disimular, una vez que capturaron a algunos, se pongan un chaleco para disimular, entonces eso, eso es ir a un estado policial, es dictadura, no es un estado policial\".",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, aquí tenemos entonces, tiene razón Sergio Maldonado de que Florencio Randazzo opinaba en el 2017 lo mismo que dijo criticando a Patricia Bullrich hace dos días.",
+      "score": 0.499,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a cerrarla con una Cristina Fernández de Kirchner diciendo: \"Terminemos con este debate de 'vereta' de mano dura y garantistas\".",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Un tema complejo, creo que hoy sufre el conjunto de la sociedad argentina, hay que terminar con debates absurdos, porque la democracia tiene una deuda en materia de seguridad de la vida de los vecinos, de las vecinas, de los habitantes, ningún partido político lo ha podido solucionar, y por favor, terminemos con ese debate de 'vereta' de los 'manos duras', de los garantistas, por un lado, los 'manos duras', miren, muy 'vereta', muy 'vereta' el debate y muy cínico y mentiroso, además, miren, si para algo sirvió lo que me pasó, fue para demostrar que cuando estuvieron en el Ministerio de Seguridad, los 'manos duras', a la política de inteligencia criminal le pusieron una \"misa\" argentina para que la condujera, que no nos 'vereteen' más con que saben de inteligencia y de seguridad, y a la hermana de la \"misa\" argentina a controlar los gastos reservados del Ministerio de Seguridad.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 22
+  },
+  "etiqueta_original": "neutral"
+}

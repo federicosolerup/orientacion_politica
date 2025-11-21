@@ -1,0 +1,166 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Prepárense.",
+      "entidades_detectadas": [
+        "Prepárense"
+      ]
+    },
+    {
+      "frase": "Fernando Iglesias acaba de informar que TAM se retiró de Argentina, dejando a 1700 personas sin trabajo.",
+      "entidades_detectadas": [
+        "Fernando Iglesias",
+        "Argentina",
+        "TAM"
+      ]
+    },
+    {
+      "frase": "Hace instantes, conversamos con el titular de una cámara de comercio, quien mencionó el cierre de 25.000 comercios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un hecho sin precedentes en la historia de la República Argentina.",
+      "entidades_detectadas": [
+        "República Argentina"
+      ]
+    },
+    {
+      "frase": "Según él, la recuperación llevará muchos años.",
+      "entidades_detectadas": [
+        "Según"
+      ]
+    },
+    {
+      "frase": "Es probable que el proyecto de expropiación de Vicentín ingrese al Senado el viernes.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "La posibilidad de que la Cámara de Diputados se trabara por el fin de las sesiones virtuales se resolvió: la oposición acordó con Sergio Massa la continuidad de las sesiones virtuales.",
+      "entidades_detectadas": [
+        "Cámara de Diputados",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, el proyecto probablemente se trate en un clima tenso, con la presión de empresarios y ruralistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Malvoufar indicó que el presidente de la República podría hacer anuncios hoy sobre los permisos de ingreso y egreso de la Ciudad Autónoma de Buenos Aires.",
+      "entidades_detectadas": [
+        "República",
+        "Ciudad Autónoma de Buenos Aires",
+        "Malvoufar"
+      ]
+    },
+    {
+      "frase": "Es la primera vez que el presidente se encuentra aislado en la residencia presidencial de Olivos.",
+      "entidades_detectadas": [
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Quiero destacar el comunicado del doctor Fernando Federico Saavedra, médico de la unidad presidencial, que describe con precisión la situación de la Argentina respecto al COVID-19.",
+      "entidades_detectadas": [
+        "Fernando Federico Saavedra",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "No es un dato menor que el médico presidencial deba recomendar al presidente que no abandone la Quinta de Olivos, salvo en casos excepcionales.",
+      "entidades_detectadas": [
+        "Quinta de Olivos"
+      ]
+    },
+    {
+      "frase": "Saavedra explica que, dada la situación actual del COVID-19 y la progresión de casos positivos en el AMBA, que muestran un significativo aumento de la circulación viral, es su responsabilidad recomendar a Alberto Fernández que permanezca en la Residencia de Olivos, realizando sus tareas habituales y restringiendo al máximo sus contactos.",
+      "entidades_detectadas": [
+        "Saavedra",
+        "Residencia de Olivos",
+        "COVID-19",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "El médico presidencial indica que, dado el aumento de la circulación viral en el AMBA, el presidente debe permanecer en su residencia, restringir al máximo sus contactos y extremar las medidas de prevención para evitar riesgos para su salud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sé que ministros de salud, como Ginés González García, entre otros, habían recomendado a Alberto Fernández mayor cuidado, pero, como suele ocurrir con los presidentes, él no les hacía caso.",
+      "entidades_detectadas": [
+        "Ginés González García",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Ahora, el médico presidencial emite un comunicado que deja en evidencia la incertidumbre sobre la circulación del virus en el AMBA.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando el presidente se desplaza, se realizan exhaustivos controles de seguridad, incluyendo rutas de escape, lo cual es habitual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este contexto de post pandemia económica, con el caso TAM, Vicentín, el cierre de comercios y la imposibilidad del presidente de viajar a Rosario, no creo que el comunicado de Saavedra se deba a eso.",
+      "entidades_detectadas": [
+        "Saavedra",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Estamos en un país confinado, con un presidente confinado por primera vez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo saldrá el presidente de este aislamiento y cómo saldremos nosotros?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta situación, que debe anunciar una persona aislada, es preocupante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiero alarmar ni generar psicosis, pero algo está pasando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso digo: prepárense.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al presidente le gusta Bob Dylan, y hay una canción de él que habla de la soledad compartida… escuchémosla.",
+      "entidades_detectadas": [
+        "Bob Dylan"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Prepárense",
+    "Alberto Fernández",
+    "Ciudad Autónoma de Buenos Aires",
+    "COVID-19",
+    "TAM",
+    "Según",
+    "Rosario",
+    "Olivos",
+    "Residencia de Olivos",
+    "Malvoufar",
+    "Fernando Iglesias",
+    "República Argentina",
+    "Ginés González García",
+    "Argentina",
+    "Sergio Massa",
+    "Quinta de Olivos",
+    "Quiero",
+    "Bob Dylan",
+    "Saavedra",
+    "República",
+    "la Argentina",
+    "Cámara de Diputados",
+    "Fernando Federico Saavedra",
+    "Senado"
+  ]
+}

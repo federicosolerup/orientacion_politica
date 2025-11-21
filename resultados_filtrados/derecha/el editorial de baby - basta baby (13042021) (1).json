@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Al preguntarle por su estado de embriaguez y su destino, el hombre respondió ser Jesús.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Un obispo corrupto, amigo de Néstor Kirchner, que había sido obispo de Mercedes,  era dueño de campos de viudas fallecidas, prestamista y cambista de cheques.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Un año y medio a favor de Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Parece la China comunista o la Rusia de Lenin.",
+      "entidades_detectadas": [
+        "rusia",
+        "china"
+      ]
+    },
+    {
+      "frase": "He visto asesoras del Congreso con uñas largas y iPhones 12.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    }
+  ]
+}

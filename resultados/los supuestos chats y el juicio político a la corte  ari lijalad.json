@@ -1,0 +1,767 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "6 de la tarde, 6 minutos, 31 grados la temperatura en la ciudad de Buenos Aires, 87 grados la temperatura en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "En este momento sigue la Comisión de Juicio Político.",
+      "entidades_detectadas": [
+        "Juicio Político",
+        "Comisión"
+      ]
+    },
+    {
+      "frase": "Primer día de desfile de testigos que han sido convocados por la Comisión en base a los distintos pedidos de juicio político que hicieron diputados y diputadas.",
+      "entidades_detectadas": [
+        "Comisión"
+      ]
+    },
+    {
+      "frase": "Arrancó tempranito, tipo las 11 de la mañana y todavía están ahí en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Y pasaron cosas realmente interesantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El primero que fue citado a declarar fue el juez federal Sebastián Casanello, que es el juez federal a cargo del juzgado número 2 de Comodoro Py.",
+      "entidades_detectadas": [
+        "Sebastián Casanello",
+        "Comodoro Py"
+      ]
+    },
+    {
+      "frase": "¿Y por qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Bueno, porque Casanello estaba durante la feria como juez de feria en Comodoro Py e intervino en una de las denuncias que hizo un abogado que se llama Gastón Marano, que denunció justamente que se tenía que investigar qué pasaba con los supuestos chats que se habían filtrado del ministro de Justicia y Seguridad porteño, Marcelo D'Alessandro, conversando con Silvio Robles.",
+      "entidades_detectadas": [
+        "ministro de Justicia y Seguridad",
+        "Comodoro Py",
+        "Casanello",
+        "Silvio Robles",
+        "Gastón Marano",
+        "Marcelo D'Alessandro",
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Silvio Robles, por si se olvidaron, es la mano derecha de Horacio Rosatti.",
+      "entidades_detectadas": [
+        "Silvio Robles",
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "Es el que le maneja el despacho, el jefe del despacho de Horacio Rosatti, el presidente de la Corte.",
+      "entidades_detectadas": [
+        "Corte",
+        "Horacio Rosatti"
+      ]
+    },
+    {
+      "frase": "Y lo que aparecía en esta filtración de chats entre D'Alessandro y Robles era que estaban hablando de causas judiciales que estaban en trámite, que estaban en manos de la Corte y que involucraban a la Ciudad.",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "Corte",
+        "Ciudad",
+        "Robles"
+      ]
+    },
+    {
+      "frase": "Por un lado, la causa por la coparticipación y por el otro lado, qué pasaba con el Consejo de la Magistratura y los integrantes del consejo, la causa en la cual también se metió y se sigue metiendo la Corte.",
+      "entidades_detectadas": [
+        "Corte",
+        "Consejo de la Magistratura"
+      ]
+    },
+    {
+      "frase": "Y eso, obviamente, era una irregularidad fuerte porque significa que hay un hombre que le maneja el despacho a Rosatti que coordina las causas con el ministro de Justicia de una de las partes que estaba involucrada, que es la Ciudad de Buenos Aires, el ministro de Justicia de Horacio Rodríguez Larreta.",
+      "entidades_detectadas": [
+        "ministro de Justicia",
+        "ministro de Justicia de Horacio Rodríguez Larreta",
+        "Rosatti",
+        "Ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Hubo muchas denuncias sobre ese hecho puntual, muchas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ese es uno de los temas por los cuales se convocó al juez Sebastián Casanello.",
+      "entidades_detectadas": [
+        "Sebastián Casanello"
+      ]
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque Casanello no le tocó esa causa en el juzgado II, sino que él estaba subrogando, o sea, estaba suplantando a la responsable del juzgado número 5.",
+      "entidades_detectadas": [
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "¿Quién es?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "¿María Eugenia Capuchetti?",
+      "entidades_detectadas": [
+        "¿María Eugenia Capuchetti"
+      ]
+    },
+    {
+      "frase": "Ustedes la conocen bien porque es la jueza que tiene a su cargo la investigación por el atentado contra Cristina.",
+      "entidades_detectadas": [
+        "Ustedes",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Pero Capuchetti estaba de vacaciones, entonces Casanello se hizo cargo.",
+      "entidades_detectadas": [
+        "Casanello",
+        "Capuchetti"
+      ]
+    },
+    {
+      "frase": "Y se hizo cargo también el fiscal Carlos Stornelli.",
+      "entidades_detectadas": [
+        "Carlos Stornelli"
+      ]
+    },
+    {
+      "frase": "Y fue bastante conocido lo que hizo Casanello porque la propia Cristina tuiteó durante enero cuando se enteró que el fiscal Stornelli agarró un voto particular de la jueza Ana María Figueroa en el caso memorándum en el cual la jueza Ana María Figueroa en la Cámara de Casación quedó en minoría y dijo que una escucha ilegal obtenida sobre el ex canciller Héctor Timerman con el ex presidente de la DAIA, Guillermo Borger, donde no se hablaba de ningún delito, simplemente Borger le recriminaba a Timerman porque estaban hablando con los iraníes y Timerman le decía, ¿con quién querés que hablemos si los imputados son iraníes?, vinculado al atentado a la AMIA.",
+      "entidades_detectadas": [
+        "Borger",
+        "Ana María Figueroa",
+        "Timerman",
+        "Guillermo Borger",
+        "¿",
+        "Casanello",
+        "ningún delito",
+        "Cámara de Casación",
+        "Héctor Timerman",
+        "Cristina",
+        "AMIA",
+        "Stornelli"
+      ]
+    },
+    {
+      "frase": "Bueno, la jueza Figueroa quedó en minoría cuando dijo: \"No hay que reabrir la causa memorándum por esto porque esto es algo obtenido de forma ilegal\".",
+      "entidades_detectadas": [
+        "Bueno",
+        "Figueroa"
+      ]
+    },
+    {
+      "frase": "Y los jueces Borinsky y Hornos votaron que sí había que reabrir la causa, justo después de juntarse con Macri en la quinta de Olivos.",
+      "entidades_detectadas": [
+        "Borinsky",
+        "Hornos",
+        "Olivos",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Bueno, Stornelli agarró el voto de Figueroa y dijo: \"Los chats supuestamente obtenidos del teléfono de D'Alessandro fueron obtenidos de manera ilegal, por lo tanto acá no hay nada que investigar, hay que cerrar todo\".",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "Stornelli",
+        "Figueroa"
+      ]
+    },
+    {
+      "frase": "Y el juez Sebastián Casanello agarró lo que dijo Stornelli y dijo: \"Cerramos todo\".",
+      "entidades_detectadas": [
+        "Sebastián Casanello",
+        "Stornelli"
+      ]
+    },
+    {
+      "frase": "Y la denuncia, justo la había presentado un abogado de los \"copitos\", de los que quisieron matar a Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Entonces el abogado, obviamente, frente a esta resolución, no apeló y la cosa quedó ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hoy fue Casanello a declarar por esto.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque tiempo después el juez Alejo Ramos Padilla, que también le tocó una causa parecida y que declaró hoy también en la Comisión de Juicio Político, justo después de Casanello, hizo lo que tenía que hacer.",
+      "entidades_detectadas": [
+        "Juicio Político",
+        "Alejo Ramos Padilla",
+        "Casanello",
+        "Comisión"
+      ]
+    },
+    {
+      "frase": "En vez de cerrar la causa apenas le llegó a él, le llegó una denuncia del gobernador Axel Kicillof que denunció que había una connivencia entre un miembro de la Corte y un miembro de la ciudad en una causa donde la provincia de Buenos Aires se vio afectada, que es la causa por la coparticipación.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Corte",
+        "provincia de Buenos Aires",
+        "le llegó"
+      ]
+    },
+    {
+      "frase": "Y también había una denuncia igual en La Rioja y también había una denuncia igual en Santiago del Estero, presentada por Ricardo Quintela en La Rioja y por Gerardo Zamora en Santiago del Estero.",
+      "entidades_detectadas": [
+        "Santiago del Estero",
+        "Ricardo Quintela",
+        "La Rioja",
+        "Gerardo Zamora"
+      ]
+    },
+    {
+      "frase": "¿Y qué hizo Ramos Padilla?",
+      "entidades_detectadas": [
+        "¿",
+        "Ramos Padilla"
+      ]
+    },
+    {
+      "frase": "Le dijo: \"Bueno, a ver, voy a ver lo que se llama, me voy a fijar si hay causas parecidas para no duplicar y hacer una causa gemela y ver también si hay causas parecidas a quién le toca investigar\".",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Bueno, Ramos Padilla hizo el trabajo, ¿sí?",
+      "entidades_detectadas": [
+        "Ramos Padilla"
+      ]
+    },
+    {
+      "frase": "Certificó el expediente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pidió todas las causas que había y cuando vio...",
+      "entidades_detectadas": [
+        "Pidió"
+      ]
+    },
+    {
+      "frase": "Oche, hay un montón de causas parecidas, pero se trata de dos funcionarios que trabajan en la ciudad de Buenos Aires...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, esto está bien, le corresponde a Comodoro Py.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Comodoro Py"
+      ]
+    },
+    {
+      "frase": "Pero dijo: \"Ojo, una de las causas que yo pedí ya la cerraron\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién la cerró?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Casanello.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la cerró sin investigar por pedido de Stornelli y en medio de la feria judicial, cuando no había ningún apuro en cerrarla.",
+      "entidades_detectadas": [
+        "Stornelli"
+      ]
+    },
+    {
+      "frase": "Bueno, hoy fueron los dos, Casanello y Ramos Padilla, a esto.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Ramos Padilla",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Cuando le tocó el turno a Casanello, le empezaron a preguntar por su fallo y era muy tremendo para los que lo seguimos porque le preguntaban: \"¿Y usted qué piensa?\".",
+      "entidades_detectadas": [
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "\"Bueno, yo solamente voy a decir lo que dice mi fallo\".",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "\"Bueno, pero había pruebas para cerrar...\".",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "\"Solo voy a decir lo que dice mi fallo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Pero el fiscal aportó algo para cerrar...\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Solo voy a decir que tomé lo que dijo el fiscal y lo que dice mi fallo\".",
+      "entidades_detectadas": [
+        "tomé"
+      ]
+    },
+    {
+      "frase": "Y no se movió de ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no se movió de ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero al final, al final del interrogatorio, hubo una pregunta que es muy relevante, por lo que les voy a contar ahora, que le hace Germán Martínez, el presidente del bloque del Frente de Todos.",
+      "entidades_detectadas": [
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Escuchen lo que le pregunta Germán Martínez y el que contesta es el juez Sebastián Casanello: \"¿Además de conocerlo, hay algún vínculo que usted tenga sistemático con Marcelo D'Alessandro y Silvio Robles?\".",
+      "entidades_detectadas": [
+        "Silvio Robles",
+        "Sebastián Casanello",
+        "Marcelo D'Alessandro"
+      ]
+    },
+    {
+      "frase": "\"No, señor\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está claro, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, el diputado le pregunta, ¿usted tiene un vínculo con Marcelo D'Alessandro y con Silvio Robles?",
+      "entidades_detectadas": [
+        "Silvio Robles",
+        "Marcelo D'Alessandro"
+      ]
+    },
+    {
+      "frase": "Y el juez Sebastián Casanello, que cerró de forma exprés la causa donde estaban involucrados Marcelo D'Alessandro y Silvio Robles, dijo: \"No, señor\".",
+      "entidades_detectadas": [
+        "Silvio Robles",
+        "Sebastián Casanello",
+        "Marcelo D'Alessandro"
+      ]
+    },
+    {
+      "frase": "Bueno.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Mientras decía: \"No, señor\", apareció una nueva filtración de presuntos chats de Marcelo D'Alessandro hablando con Sebastián Casanello.",
+      "entidades_detectadas": [
+        "Sebastián Casanello",
+        "Marcelo D'Alessandro"
+      ]
+    },
+    {
+      "frase": "¿Y dónde, y dónde, en esa conversación donde hablan con Casanello, hay una relación de amistad?",
+      "entidades_detectadas": [
+        "¿",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Se dicen amigos, se hacen favores, eh, D'Alessandro le consigue un auto, un auto directamente.",
+      "entidades_detectadas": [
+        "D'Alessandro"
+      ]
+    },
+    {
+      "frase": "O sea, le dice: \"Che, gracias por el auto, me mandaste un Focus, che, muchas gracias\".",
+      "entidades_detectadas": [
+        "Che",
+        "Focus"
+      ]
+    },
+    {
+      "frase": "Eh, le pide que saquen un cuerpo rápido a una morgue.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo, sí, digamos, se hablan de amigos, se hablan de amigos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Casanello estuvo como testigo hoy, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Casanello hoy estuvo como testigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Puede mentir?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Bueno, ese era un buen punto que me olvidé de decir, gracias.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Cuando vos vas como testigo, vas con el juramento de decir verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo tanto, lo que hizo Casanello fue cometer un delito hoy.",
+      "entidades_detectadas": [
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Porque mintió, si tiene relación con Marcelo D'Alessandro y los chats que hay, presuntamente, de D'Alessandro y de Casanello son del 2020, del 2021.",
+      "entidades_detectadas": [
+        "D'Alessandro",
+        "Marcelo D'Alessandro",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "\"Hola amigo, sano, ¿cómo andás?\".",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "\"El fin de semana estuve hablando de vos\", \"Usted no molesta\", o sea, todo el tiempo están con una relación de amistad cercana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, lo que hizo, lo que hizo el juez Casanello, fue mentir.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Mentir en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Con lo cual, vamos a ver cómo se resuelve.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después vino, insisto, Ramos Padilla y lo que hizo Ramos Padilla fue muy impresionante porque al igual que Casanello dijo: \"Yo no voy a agregar nada de lo que puse en mi fallo, pero les voy a explicar mi fallo punto por punto\".",
+      "entidades_detectadas": [
+        "Después",
+        "Ramos Padilla",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Entonces les fue mostrando cómo en Comodoro Py hay una cadena de favores donde se van encubriendo unos a otros para que las causas que los involucran no se investiguen.",
+      "entidades_detectadas": [
+        "Comodoro Py"
+      ]
+    },
+    {
+      "frase": "Y Ramos Padilla mostró lo que se tenía que hacer, que era certificar todas las causas que había de esto, ver si efectivamente se podía o no tomar la filtración de chats como prueba, pero aparte de eso, investigar si efectivamente existe una relación promiscua entre el jefe del despacho de Robles y el ministro de Justicia de Larreta porque la corte tenía que resolver un caso que involucraba a la ciudad de Buenos Aires y eso está prohibido que lo hagan.",
+      "entidades_detectadas": [
+        "Robles",
+        "Ramos Padilla",
+        "ciudad de",
+        "ministro de Justicia de Larreta"
+      ]
+    },
+    {
+      "frase": "Y hay obviamente elementos más allá de los chats, hay elementos más allá de los chats para investigar esta cuestión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y fue realmente muy impresionante si pueden ver al lado, no es la primera vez que Ramos Padilla se ha ido al Congreso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Ramos Padilla"
+      ]
+    },
+    {
+      "frase": "De hecho, él recordó, apenas arrancó, que le preguntaron si él tenía algo que decir para antes de arrancar, y dijo: \"Bueno, sí, yo tuve muchos problemas por haber venido acá al Congreso\".",
+      "entidades_detectadas": [
+        "Congreso",
+        "tenía"
+      ]
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque allá por 2019, sí, él fue a la Comisión de Libertad de Expresión a dar cuenta de que había iniciado una causa por espionaje ilegal donde estaba involucrado ¿quién?",
+      "entidades_detectadas": [
+        "Comisión de Libertad de Expresión"
+      ]
+    },
+    {
+      "frase": "Carlos Stornelli, el mismo que ahora dijo que no se podía hacer un caso, dijo que no se podía tomar en cuenta una prueba porque era producto de espionaje ilegal y Stornelli estaba involucrado en maniobras de apriete junto con el espía ilegal Marcelo D'Alessio en la causa que empezó a investigar el juez Alejo Ramos Padilla.",
+      "entidades_detectadas": [
+        "Carlos Stornelli",
+        "Alejo Ramos Padilla",
+        "Stornelli",
+        "Marcelo D'Alessio"
+      ]
+    },
+    {
+      "frase": "Y Ramos Padilla fue al Congreso a dar explicaciones y le iniciaron un juicio político por eso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Ramos Padilla"
+      ]
+    },
+    {
+      "frase": "Y entre las razones del juicio político iniciado por Juan Bautista Mahiques, que, como todo se relaciona, viajó con D'Alessandro al lado escondido, aparece en los chats de Marcelo D'Alessandro y aparece también en esta filtración y Mahiques fue el que pidió el juicio político a Alejo Ramos Padilla por estar investigando el caso D'Alessio, el espionaje ilegal y todas las ramificaciones que eso tuvo.",
+      "entidades_detectadas": [
+        "Mahiques",
+        "Juan Bautista Mahiques",
+        "D'Alessandro",
+        "Alejo Ramos Padilla",
+        "D'Alessio",
+        "Marcelo D'Alessandro"
+      ]
+    },
+    {
+      "frase": "Ramificaciones que llegaban ¿saben hasta dónde?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También hasta Rosencrantz.",
+      "entidades_detectadas": [
+        "Rosencrantz"
+      ]
+    },
+    {
+      "frase": "Porque Rosencrantz aparecía entre los espiados por Marcelo D'Alessio.",
+      "entidades_detectadas": [
+        "Marcelo D'Alessio",
+        "Rosencrantz"
+      ]
+    },
+    {
+      "frase": "Todos en cadena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está todo tan podrido que cualquiera de estos personajes que yo les menciono vamos a poder hacer una línea y unirlo en alguna de las tantas cabezas que hay en el mundo por espionaje ilegal, por promiscuidad, por intercambio de favores, etcétera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De las cuales hemos venido investigando y publicando en todo este tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, eso es lo que sucedió hoy en el Congreso, pero justo cuando se conoció esta nueva filtración donde, repito, la noticia, Casanello dijo: \"Yo no conozco a D'Alessandro\" y en la filtración de unos supuestos chats de D'Alessandro aparece como \"c*lo y calzón\" con Casanello.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Bueno",
+        "D'Alessandro",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Y en el Congreso se conoció que el caso de Casanello era un caso de la policía que se había presentado en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "Y en el Congreso se conoció que el caso de Casanello era un caso de la policía que se había presentado en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Casanello"
+      ]
+    },
+    {
+      "frase": "¿La de Robles?",
+      "entidades_detectadas": [
+        "Robles"
+      ]
+    },
+    {
+      "frase": "Justamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Parece que hubiera...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alguien dejó la computadora cerca de una cañería de agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que esa me la perdí, ahora voy a buscar la respuesta, pero parece que el diputado de Leopoldo Moreau tenía el dato y le dijo: \"Che, ¿qué pasó?\".",
+      "entidades_detectadas": [
+        "Che",
+        "Leopoldo Moreau"
+      ]
+    },
+    {
+      "frase": "Y ahí...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasa?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé qué pasa, ¿no es casualidad eso en la vida?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Justo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo menos no mataron a nadie esta vez, inundando, quemando cosas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, eso pasó hoy en la Comisión de Juicio Político y en esta nueva filtración.",
+      "entidades_detectadas": [
+        "Juicio Político",
+        "Bueno",
+        "Comisión"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Rosatti",
+    "Juicio Político",
+    "Silvio Robles",
+    "Cámara de Casación",
+    "ministro de Justicia",
+    "Comisión de Libertad de Expresión",
+    "AMIA",
+    "Mahiques",
+    "Pero Capuchetti",
+    "Marcelo D'Alessandro",
+    "provincia de Buenos Aires",
+    "Juan Bautista Mahiques",
+    "Marcelo D'Alessio",
+    "ministro de Justicia de Horacio Rodríguez Larreta",
+    "Héctor Timerman",
+    "Así",
+    "Rosencrantz",
+    "Congreso",
+    "Comisión",
+    "D'Alessandro",
+    "Ramificaciones",
+    "Ramos Padilla?",
+    "Guillermo Borger",
+    "Santiago del Estero",
+    "Cristina",
+    "Ramos Padilla",
+    "Ustedes",
+    "Después",
+    "Leopoldo Moreau",
+    "Porque Rosencrantz",
+    "Borinsky",
+    "Corte",
+    "le llegó",
+    "¿",
+    "Alejo Ramos Padilla",
+    "D'Alessio",
+    "Robles",
+    "Carlos Stornelli",
+    "Stornelli",
+    "Borger",
+    "Frente de Todos",
+    "tenía",
+    "Olivos",
+    "Sebastián Casanello",
+    "Gerardo Zamora",
+    "Comodoro Py",
+    "María Eugenia Capuchetti",
+    "Consejo de la Magistratura",
+    "Hornos",
+    "Ana María Figueroa",
+    "ningún delito",
+    "La Rioja",
+    "Focus",
+    "Macri",
+    "También",
+    "Ciudad",
+    "Timerman",
+    "Oche",
+    "Casanello",
+    "Gastón Marano",
+    "Figueroa",
+    "Escuchen",
+    "Ricardo Quintela",
+    "Hola",
+    "Horacio Rosatti",
+    "Ciudad de Buenos Aires",
+    "Pidió",
+    "Justo",
+    "Está",
+    "ciudad de",
+    "ministro de Justicia de Larreta",
+    "Bueno",
+    "Axel Kicillof",
+    "tomé",
+    "ministro de Justicia y Seguridad",
+    "Che",
+    "Certificó"
+  ]
+}

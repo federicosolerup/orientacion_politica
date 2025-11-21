@@ -1,0 +1,266 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 37,
+      "derecha": 13
+    },
+    "score_promedio": 0.308,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El centro político de este gobierno, no solo económico sino político, es revertir el proceso inflacionario que deterioró los ingresos de manera muy importante en la Argentina en los últimos años, probablemente en los últimos 20 años.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya hablamos el lunes pasado de esto, y seguiremos hablando hoy y seguramente los días que vienen, porque al menos por lo que conocemos hasta ahora del gobierno de **Milei** -no sabemos lo que va a pasar en adelante, sobre todo no sabemos qué va a pasar en los segundos dos años del gobierno de **Milei**- pero hasta ahora esta novedad, que vamos a conocer a mediados de abril, es el hecho más importante de todo el período, y es un acuerdo con el Fondo Monetario Internacional que no solamente supone un desembolso (cuya cifra no conocemos, pero muchos calculan alrededor de 20 millones de dólares), considerando un desembolso del Fondo Monetario Internacional que estaría acompañado por el Banco Mundial y el BID.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, otro capítulo de ese acuerdo con el Fondo, que siguen negociando el presidente del Banco Central, **Santiago Bausili**, y el viceministro de Economía, **José Luis Daza**, es nada menos que el levantamiento del cepo cambiario.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Milei** venía hablando de que la restricción o la intervención del Estado sobre el mercado de cambio se iba a producir, se iba a despejar, se iba a remover después de las elecciones, diciembre, enero del año que viene.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, porque ya lo mostramos el lunes pasado, hubo una entrevista de **Luis Caputo**, el ministro de Economía, con **Horacio Cabak**, aquí en \"La Nación +\" en la que, cuando **Cabak** le pregunta a **Caputo**, \"bueno, ¿y sigue todo igual, el 'crawling peg', la devaluación del 1% por mes que viene llevando adelante el gobierno respecto del dólar oficial?\", **Caputo** da una respuesta tramposa, dice \"todo sigue igual\", pero cuando dice \"todo\", no es el \"crawling peg\", es la estabilidad cambiaria, y empieza a explicar que no hay suficiente cantidad de pesos como para poner en tela de juicio la estabilidad del dólar, porque no hay suficiente cantidad de pesos como para que haya una corrida a favor del dólar, y eso produzca una depreciación brusca de la moneda.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay economistas muy serios, muy prestigiosos, como **Miguel Kiguel**, por ejemplo, que dicen: \"Cuidado, **Caputo**, porque hay pesos, hay muchos depósitos en pesos, hay muchos instrumentos financieros, bonos en pesos emitidos por el Tesoro, que muy bien puede suceder que quienes están en posesión de esos pesos o están en posesión de esos bonos, decidan desmontar esas posiciones para ir a comprar dólares\".",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora tenemos un segundo indicio muy importante, que pasó tal vez inadvertido.",
+      "score": 0.397,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno mandó un DNU al Congreso para que el Congreso convalide el acuerdo con el Fondo.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un DNU que, como todos sabemos, no tiene detalles, pero en los considerandos de ese DNU va diciendo \"considerando qué, considerando qué, considerando qué\", dice que es muy importante contar con un nivel satisfactorio de reserva para reducir el riesgo del país, que para eso hay que mejorar los activos del Banco Central y por eso el Tesoro le va a comprar, le va a pagar al Banco Central una letra o los instrumentos financieros con los cuales el Tesoro se endeudó en el Central, y va a mejorar así el activo del Central.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie hace esta afirmación de que el cepo cambiario reduce la eficiencia de la economía y dificulta la inversión de largo plazo para mantener esa disposición, porque uno le diría al gobierno: \"estás desalentando la inversión y estás manteniendo la ineficiencia de la economía\".",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esas bandas, si existieran, la capacidad de intervención del Banco Central en el mercado para mantener un determinado precio y que el dólar, por ejemplo, no se dispare, van a tener un piso, es decir, el Fondo le va a decir al Banco Central argentino: \"Te dejo intervenir, pero siempre y cuando no abarates demasiado el dólar\".",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el gran desafío de **Milei**, si uno mira la historia en la larga duración, es que no le pase a **Milei** lo que le pasó a **Menem** y lo que le pasó a **Macri**.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En los dos intentos anteriores de establecer en la Argentina una economía francamente de mercado, digamos, una aproximación más intensa de la Argentina y de la economía argentina a los términos clásicos del capitalismo, el problema de esos dos experimentos es que terminaron con recesiones, terminaron haciendo daño a la calidad de vida de la gente porque la gente perdía el empleo, las empresas empezaban a cerrarse, el tejido productivo, la acumulación de capital por parte de inversores argentinos empezaba a deteriorarse.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el gobierno, al tener atado el precio del dólar con un cepo, en alguna medida, voy a decir algo un poco exagerado para entendernos, establece algún tipo de censura política, porque el mercado de cambios es un termómetro muy fidedigno del estado de la opinión pública y del estado de satisfacción de la gente con el gobierno, sin tener que esperar a las elecciones o a estudios específicos sobre el tema como los índices, por ejemplo, de la Universidad de **Itela**.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, para que este acuerdo se termine de negociar y se firme, hace falta que el Congreso apruebe el DNU, y para eso se tiene que constituir la comisión bicameral que trata los decretos de necesidad y urgencia, que todavía no se constituyó.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que se constituya, tiene que haber una mayoría oficialista dispuesta a aprobar un dictamen favoreciendo la convalidación por parte del Congreso de este decreto.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí había una incógnita: el diputado **Oscar Zago** era el presidente del bloque de \"La Libertad Avanza\", se pelea con **Martín Menem** por una discusión sobre la titularidad de la comisión de juicio político en la Cámara de Diputados, que todavía sigue, esa discusión, se tiraron agua en la cara de dos diputadas, etcétera, y se va de \"La Libertad Avanza\" **Zago** y arma un bloque aparte con el MID.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se pelearon a trompadas en el recinto de la Cámara de Diputados.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, a este **Zago**, que está tan enojado con su ex compañero de partido, **Almirón**, ahora había que traerlo para que vote a favor el DNU, y misteriosamente hubo un **lazarillo** que lo trajo al redil oficialista: **Cristian Ritondo**, el entrañable \"Pucho\", que siendo presidente del bloque del PRO en la Cámara de Diputados, tiene una misteriosa ascendencia sobre el diputado **Zago**, y consiguió que el diputado **Zago** mañana, integre la comisión bicameral de decretos de urgencia y apoye al gobierno en la sanción de ese decreto.",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Personas que conocen bien la Cámara de Diputados y tienen una posición más bien independiente, dicen: \"el gobierno tiene el número para tratar el decreto en el recinto\", y este acuerdo con el Fondo va a ser convalidado, obviamente con la oposición del kirchnerismo, que dice: \"No, no, no, no, acá habría que cumplir con la ley Busman\", la ley que hizo sancionar **Martín Busman**, que dice que tiene que haber una ley que apruebe este acuerdo, que tiene que haber una ley que exprese que el Congreso está de acuerdo con el endeudamiento que adopta el Poder Ejecutivo al firmar este acuerdo con el Fondo.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No va a haber ley, va a haber un DNU que le extiende casi un cheque en blanco al gobierno, porque no sabemos los términos del acuerdo, pero el gobierno está siempre al borde de conseguir el número.",
+      "score": 0.283,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Coalición Cívica, que lidera **Elisa Carrió**, que lidera en la Cámara de Diputados **Juan Manuel López**, se pronunció a favor de votar y aprobar este decreto, quiere decir que para el gobierno se despeja una incógnita muy importante y tendría el número.",
+      "score": 0.425,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces mucha gente de la oposición dice: \"Me pedís que te apoye un acuerdo con el Fondo el día que tengo la presión de la plaza sobre el recinto\".",
+      "score": 0.784,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El segundo problema es que ese día va a haber diputados echando sal sobre una herida del oficialismo, una herida de **Milei**, y una herida sobre todo de su hermana **Karina**.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se va a discutir en el Congreso, en la Cámara de Diputados, si se convoca a una interpelación a alguien del oficialismo: **Guillermo Francos**.",
+      "score": 0.327,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Karina Milei** y usted se imagina que, **Reina de Milei**, frente al Congreso, frente a la Cámara de Diputados, una interpelación, desafío, **Manuel Adorno**, y que tiene más training en contestar preguntas, alguien que vaya a dar explicaciones por el caso de la criptomoneda \"Libra\", o si no es una interpelación, la creación de una comisión investigadora que establece, va a establecer como todas las comisiones investigadoras, un show permanente de meses en el gobierno, metiendo el cuchillo en esa herida, que al gobierno no le preocupa demasiado porque no tiene un gran impacto electoral, pero sí genera un clima de inquietud, que lo obliga al oficialismo a tener cierta lógica en un terreno donde vive resbalando, que es el terreno parlamentario, como se vio en las trompadas de la semana pasada.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al día siguiente, en teoría, el Senado debería tratar el pliego de **Manuel García-Mansilla** y haría el **lijismo**.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo puede pasar, todo puede pasar, pero es bastante impensable que haya semejante manifestación en contra del gobierno el miércoles y que el jueves **Cristina Kirchner** y sus senadores coincidan con el gobierno en aprobar esos dos pliegos, más allá de que **Cristina** no muestra el juego todavía, y eso da lugar a que amigos del hijo del juez **Lijo** digan: \"No, no, **Cristina** va o va a dar la orden de voltear a **García-Mansilla**, pero mantener a **Arriellijo** como candidato a juez de la Corte, como juez de la Corte\".",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Gustavo Ybarra**, que es un cronista parlamentario, sigue la vida del Senado con mucha lucidez en el diario \"La Nación\", diciendo que el juez **Lijo** extorsiona a senadores que le votarían en contra.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero así estamos, amigos del **Lijo**, ligados a los servicios de inteligencia, como por ejemplo, **Lucas Nejam**, que es el secretario privado del tenebroso **Jaime Stiuso**, envía mensajes a dirigentes políticos que han estado en contra de la sanción de la aprobación del pliego **Lijo**, diciendo: \"Ustedes están dispuestos a caminar tribunales todo este tiempo, porque Comodoro Py se va a vengar de los que no aprueben a **Lijo**\".",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con toda esta, con todo este clima de tan baja calidad moral que rodea la candidatura y la marcha del **Lijo** hacia la Corte, si es que llega, todavía no sabemos, pero hay un dato interesante para la política, para entender el estado de la institucionalidad en la Argentina.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy hablando de **Carina Andrade**, una jueza, los que la conocen dicen, \"zafaroniana\", ultra garantista, puede tener una ideología cercana al kirchnerismo, que hizo que ponga una lupa enorme sobre los motivos por los que hubo detenidos en la manifestación tan convulsiva, tan agresiva del miércoles pasado, y liberó a esos presos, por lo cual encendió la ira de **Patricia Bullrich**, que estaba tan enojada, tan enojada, y sus colaboradores, que terminó yendo a denunciar a **Andrade** al Consejo de la Magistratura Nacional.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dijeron: \"No, no, no, acá no, estamos hablando de funcionarios del Ministerio de Seguridad y de Justicia\".",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les costó encontrar el nombre, todo bastante desordenado, todo generando mucha polémica, tanta polémica que hoy, desde Chacarita, le envía una carta documento a **Patricia Bullrich** para que corrija las imputaciones que hizo sobre **Capriotti**, dirigente de Chacarita, y sobre todo sobre **Luis Barriuevo**, a los que acusó de estar detrás de barras bravas de muchos clubes que había, entre ellos, de Chacarita, en la manifestación del miércoles pasado.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a mirar una encuesta de la consultora **Mide**, que lidera **Gonzalo de Anin**, que un poco convalida los datos que vimos la semana pasada de la consultora Atlas Intel brasileña, que decía que la imagen del gobierno se mantiene, pero la de **Milei** había caído.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Maquiavelo ya decía que la principal preocupación de un líder cuando llega es acuchillar al que ayudó al que lo ayudó a llegar.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y desde el gobierno le dice, a que eso lo querés municipalizar, este conflicto, no te vamos a ir a buscar ahí, y la elección porteña se empieza a transformar en una elección de extraordinaria importancia para la película nacional, donde hay una estrategia principal del gobierno nacional, que es ir contra el PRO, en un momento en que el PRO atraviesa una crisis que empieza con la crisis de \"Juntos por el Cambio\", se empieza a desarmar esa coalición, los radicales se van, los radicales de **Lousteau** de **Jacob** se van de la coalición que habían formado con el PRO, y ahora la noticia de hoy, alguien tan identificado con esa fuerza política que tuvo un protagonismo central en los ocho años del gobierno de **Macri** en la ciudad y en sus propios ocho años de gobierno como jefe de gobierno, que es **Horacio Rodríguez Larreta**, nos va a explicar ahora por qué va a competir para llegar a la legislatura por fuera del PRO.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es obvio que esos votos que se lleve **Larreta** son votos que van a afectar la estabilidad de **Jorge Macri**.",
+      "score": 0.231,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno le puso su jefe de gobierno, después le puso a su ministro de seguridad, que fue un jefe de policía del propio **Macri**, **Horacio Giménez**, y ahora está buscando **Mauricio Macri** un candidato a la legislatura, que no sea funcionario de **Jorge Macri**, para que el que vaya a competirse al PRO, y no el gobierno porteño.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Busca en esta elección local, que se va a realizar el 18 de mayo, mostrarle a **Milei** que el PRO sigue vivo en la Ciudad de Buenos Aires.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que el PRO salga tercero o cuarto, es un objetivo importante en el \"Anillaco\" de los **Macri**, por decirlo en términos menemistas, o en el Calafate de los **Macri**, por decirlo en términos kirchneristas, es decir, en su principal base de poder.",
+      "score": 0.488,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, donde **Macri** necesita tener a todo el PRO detrás, no solo **Larreta** inicia su propia carrera hacia la legislatura con una fuerza propia, sino que el gobierno ofende hoy a **Macri** con esta foto, cuando **Macri** necesita todo el PRO detrás para negociar con **Milei**.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Pucho Ritondo** y **Diego Santilli** participan de una reunión con **Javier Milei** en la Casa Rosada con **Karina Milei**, que ocupa la cabecera, por algo el hermano le dice el jefe **Lule Menem**, que es el principal operador político de **Karina Milei**, primo del presidente de la Cámara de Diputados, **Martín Menem**, y **Sebastián Pareja**, que es el operador que arma a las fuerzas del cielo en sobre todo el Congreso de la obediencia.",
+      "score": 0.715,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después nos va a decir bien quién es **Daniel Bilotta**, y le dicen a **Macri**, \"No necesitamos que vengas, porque ya tenemos a tus hombres de la provincia de Buenos Aires, **Santilli** y **Ritondo** vinieron solos\".",
+      "score": 0.705,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo importante es que cuando **Macri**, **Jorge Macri**, le van a decir a **Larreta** \"traidor\" porque te vas solo, aparecen otros traidores antes, y **Ritondo**, que hay que destacarlo, ¿por qué?",
+      "score": 0.354,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque **Ritondo** es el presidente del bloque del PRO en la Cámara de Diputados.",
+      "score": 0.794,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que después de las elecciones esta gente va a un interbloque del PRO con **Milei**, en un momento en que **Macri** dice: \"Hay que frenar a **Milei**\".",
+      "score": 0.633,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuál es el motivo por el que **Macri** puede mantener su liderazgo y mantener la lealtad de buena parte del PRO detrás de sí, si no tiene un proyecto político electoral?",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entran las balas por \"Libra\", entran las balas por el desorden parlamentario, que a muchos inversores le preocupa, dicen: \"Con este Congreso va a gobernar **Milei**\", va a ser las grandes reformas.",
+      "score": 0.291,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar Odisea hablando con **Horacio Rodríguez Larreta",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 50
+  },
+  "etiqueta_original": "neutral"
+}

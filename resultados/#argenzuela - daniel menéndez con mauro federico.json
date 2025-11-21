@@ -1,0 +1,464 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Nos sumergimos de lleno en una actualidad compleja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, Sergio Massa mantuvo 500 reuniones, estuvo presente en numerosos actos, parecía omnipresente.",
+      "entidades_detectadas": [
+        "Ayer",
+        "parecía",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Más tarde repasaremos el resto de sus actividades, aunque no estoy seguro si fue la última, pero sí una de las últimas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por la noche se reunió con el consejo directivo de la CGT, varios de sus integrantes y representantes de movimientos sociales.",
+      "entidades_detectadas": [
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Allí estuvieron presentes Emilio Pérsico y Daniel Menéndez, quien además es secretario del Consejo de la Economía Popular y el Salario Social de la Nación, y coordinador nacional del programa Barrios de Pie.",
+      "entidades_detectadas": [
+        "Consejo de la Economía Popular",
+        "Allí",
+        "Emilio Pérsico",
+        "Salario Social de la Nación",
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "Tengo en línea a Daniel Menéndez.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás, Daniel?",
+      "entidades_detectadas": [
+        "Daniel"
+      ]
+    },
+    {
+      "frase": "**Daniel Menéndez:** Buen día.",
+      "entidades_detectadas": [
+        "Buen",
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "¿Cómo andas, Mauro?",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Un gusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Mauro:** Buen día.",
+      "entidades_detectadas": [
+        "Buen",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Gracias por atendernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Daniel Menéndez:** A vos.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "¿Qué balance hacen de este encuentro que, aparentemente, tenía como objetivo brindar un apoyo visible, personal y humano a Sergio Massa en una semana en la que sufrió fuertes ataques, especialmente del sector de la especulación financiera?",
+      "entidades_detectadas": [
+        "tenía",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "**Daniel Menéndez:** Sí, la verdad es que durante estos días, distintos sectores de los movimientos sociales y la CGT le transmitieron su apoyo a través de mensajes y llamadas, haciéndonos eco de lo que nos contaban vecinos de barrios populares y trabajadores.",
+      "entidades_detectadas": [
+        "Daniel Menéndez",
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Se percibió un clima de angustia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestra sociedad es consciente de que la remarcación de precios, como la del ejemplo de \"Lola Blue\", se traslada a otros productos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El aumento de 100 pesos en algunos días generó una gran preocupación; estábamos a las puertas de una corrida cambiaria que podría haber generado una hiperinflación y el fin del gobierno.",
+      "entidades_detectadas": [
+        "generó"
+      ]
+    },
+    {
+      "frase": "En definitiva, creo que eso es lo que vivimos estos días: estamos luchando para resolverlo, pero es claro que hay sectores concentrados, de especulación financiera, con poder mediático y económico en Argentina, que buscan que la elección se defina entre la oposición y el cambio, intentando así sacar al peronismo de la discusión sobre el proyecto de país.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Por eso consideramos fundamental estar allí, hombro a hombro, como deben hacer todos los sectores de nuestro espacio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A partir de ahí, nos interiorizamos sobre la situación, nos pusimos a disposición, ya que ayer se evaluaba la posibilidad de intervenir en el mercado cambiario para calmar la situación, pero hay que monitorear de cerca para evitar nuevos saltos de precios injustificados, producto de la búsqueda de una rentabilidad excesiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Mauro:** De eso te quería preguntar específicamente, porque el rol de las organizaciones sociales en la lucha contra la especulación quedó plasmado en algunas iniciativas.",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Anoche, después de la reunión, hablé con integrantes de algunos movimientos, incluyendo el Movimiento Evita, y me dijeron que Massa les pidió que lo apoyaran públicamente.",
+      "entidades_detectadas": [
+        "Anoche",
+        "Movimiento Evita",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "¿Quedó claro cuál será el rol de los movimientos sociales en el control de precios?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Daniel Menéndez:**  Hay una discusión en varios niveles.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "Creo que Massa, y el apoyo que recibe, se centra en la necesidad de renegociar el acuerdo con el Fondo Monetario Internacional.",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Después de la sequía, es evidente que las metas inicialmente fijadas son insostenibles.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Esa es una discusión clave, y hay apoyo para que se renegocien las metas para este año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina no puede sostener el ajuste previsto ni permitir que grupos como \"Cuatro Vivos\" desestabilicen el proceso político con el costo social que implica.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cuatro Vivos"
+      ]
+    },
+    {
+      "frase": "Hay una primera batalla con el FMI, que Massa tiene la responsabilidad de liderar, y luego la discusión con los formadores de precios.",
+      "entidades_detectadas": [
+        "FMI",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Una vez resuelto el acuerdo con el FMI, habrá que discutir los términos de una rentabilidad razonable, pero si la situación se tensa demasiado, Argentina podría enfrentar una crisis impredecible.",
+      "entidades_detectadas": [
+        "FMI",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "**Mauro:**  Ese es un punto importante.",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Te consulto porque hace tiempo que no escucho a Massa en entrevistas.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "¿Crees que Massa está decidido a volcar recursos a los sectores más populares?",
+      "entidades_detectadas": [
+        "¿Crees",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Lo está haciendo con algunas medidas, pero me refiero a medidas más concretas como un aguinaldo extra, una suma fija, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Hay alguna idea concreta de cómo volcar más recursos a una población que es víctima de la inflación y la especulación?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Daniel Menéndez:** Creo que es fundamental avanzar paso a paso.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "La angustia de la gente, que no ha visto un dólar en su vida pero sabe que su aumento impacta en el precio del pan, es evidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero hay que ordenar y disciplinar la especulación, discutir el acuerdo con el FMI para resolver la falta de dólares producto de la sequía y los términos del acuerdo original.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Una vez que tengamos las herramientas para ordenar el frente externo y la especulación, podremos avanzar en medidas para quienes viven de su salario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es fundamental para nuestra validación en el proceso electoral y la discusión de un proyecto de país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sabemos dónde nos llevarían Macri y Milei, pero debemos reconstruir consensos mínimos dentro de nuestro espacio para definir qué queremos hacer en esta situación difícil y cómo mejorar la vida de nuestra gente.",
+      "entidades_detectadas": [
+        "Milei",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Varias medidas deben estar sobre la mesa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Mauro:**  La idea de frenar la especulación, ordenar los precios y controlarlos se escucha desde la gestión de Paula Español hasta la actual, pasando por Roberto Feletti, Matías Tomolini y Guillermo Han, etc.",
+      "entidades_detectadas": [
+        "Matías Tomolini",
+        "Guillermo Han",
+        "Mauro",
+        "Paula Español",
+        "Roberto Feletti"
+      ]
+    },
+    {
+      "frase": "Sin embargo, los empresarios, haya o no acuerdo de precios, incumplen las pautas de aumento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué esta vez podríamos pensar que un acuerdo o un llamado al consenso tendría un resultado diferente?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Daniel Menéndez:** El acuerdo no funcionará si no construimos el poder político necesario.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "El gobierno debe actuar con firmeza contra los especuladores, mostrar una decisión de construir estabilidad cambiaria y, a partir de ahí, sentarse a negociar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay sectores que buscan márgenes de ganancia desorbitados, y nuestro déficit ha sido la falta de poder político suficiente para controlarlos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta tensión y la salida que estamos buscando aún son inciertas, pero si logramos salir adelante, podremos hacer que el FMI entienda que hubo una corresponsabilidad en la situación actual, producto de un préstamo irresponsable otorgado a Mauricio Macri, y que los términos del acuerdo deben renegociarse.",
+      "entidades_detectadas": [
+        "FMI",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "**Mauro:** Muchos integrantes del Frente de Todos, algunos de los que estarán hoy en la Plaza del Congreso, sostienen que si Cristina Fernández de Kirchner estuviera al frente del gobierno, la situación sería diferente.",
+      "entidades_detectadas": [
+        "Plaza del Congreso",
+        "Cristina Fernández de Kirchner",
+        "Frente de Todos",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "**Daniel Menéndez:** No lo sé.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "Mi objetivo es evitar que la situación empeore.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La respuesta debe darse en el contexto actual, y veo al ministro de Economía con la voluntad de luchar.",
+      "entidades_detectadas": [
+        "ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Estoy convencido de que Cristina Fernández de Kirchner respaldará un proceso para estabilizar la situación económica y dar respuestas.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "**Mauro:** ¿Cuando dices que la respaldará, te refieres a que respaldará a alguien que represente esa postura?",
+      "entidades_detectadas": [
+        "¿",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "**Daniel Menéndez:** No estoy hablando de la discusión electoral, sino de la coyuntura actual.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "Estuvimos a punto de un golpe de mercado que nos hubiese sacado de la cancha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Milei y Macri estarían listos para aprovechar una crisis.",
+      "entidades_detectadas": [
+        "Milei",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Tenemos que evitar que cuatro o cinco especuladores saquen al peronismo de la cancha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para eso, estoy convencido de que Cristina Fernández de Kirchner nos apoyará, y estamos en diálogo permanente para enfrentar esta situación.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Una vez resuelta, discutiremos cómo presentarnos en las elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Mauro:**  Hablamos de la especulación y la remarcación de precios.",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "¿Qué papel ocupa Alberto Fernández en este contexto de crisis, después de su anuncio de no ser candidato?",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "**Daniel Menéndez:** Creo que su decisión descomprimió una tensión interna necesaria.",
+      "entidades_detectadas": [
+        "Daniel Menéndez"
+      ]
+    },
+    {
+      "frase": "Estamos en una pelea importante que requiere cohesión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estamos discutiendo cuestiones electorales, sino el corto y mediano plazo de Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "La gestión de Alberto Fernández es sensata y racional, y ayuda a establecer un orden que, después de este proceso, nos permitirá construir estabilidad social y económica.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "No debemos olvidar que intentaron generar una crisis similar en las gestiones de Néstor Kirchner, Cristina Fernández de Kirchner y Alfonsín, y que ahora buscan lo mismo.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alfonsín",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "**Mauro:** Daniel, gracias por este contacto con Radio 10.",
+      "entidades_detectadas": [
+        "Daniel",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Daniel Menéndez estuvo presente ayer en la reunión con Massa.",
+      "entidades_detectadas": [
+        "Daniel Menéndez",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Daniel",
+    "Guillermo Han",
+    "Nuestra sociedad",
+    "Fondo Monetario Internacional",
+    "Frente de Todos",
+    "Estoy",
+    "Emilio Pérsico",
+    "¿Quedó",
+    "Paula Español",
+    "Roberto Feletti",
+    "Massa",
+    "Plaza del Congreso",
+    "¿Qué",
+    "tenía",
+    "Buen",
+    "Matías Tomolini",
+    "Mauro",
+    "Cristina Fernández de Kirchner",
+    "Sabemos",
+    "Cuatro Vivos",
+    "Néstor Kirchner",
+    "Más",
+    "CGT",
+    "Movimiento Evita",
+    "Consejo de la Economía Popular",
+    "Argentina",
+    "¿Crees",
+    "Sergio Massa",
+    "Ayer",
+    "Allí",
+    "Salario Social de la Nación",
+    "Daniel Menéndez",
+    "ministro de Economía",
+    "Después",
+    "FMI",
+    "Mauricio Macri",
+    "parecía",
+    "Alberto Fernández",
+    "generó",
+    "¿",
+    "Anoche",
+    "Alfonsín",
+    "Milei",
+    "Macri",
+    "Tenemos"
+  ]
+}

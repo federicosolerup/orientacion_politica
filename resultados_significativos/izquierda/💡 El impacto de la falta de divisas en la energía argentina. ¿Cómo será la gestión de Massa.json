@@ -1,0 +1,76 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 2
+    },
+    "score_promedio": 0.189,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La metonimia sustituye directamente una palabra por otra, y la Argentina ha tenido problemas de energía a lo largo de prácticamente toda su historia reciente.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hicimos una serie de selecciones de audios sobre los distintos problemas energéticos que ocurrieron en la Argentina reciente, comenzando desde la llegada a la democracia, aunque también hubo antes.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se apela a él cada vez que se habla del trabajo, el que se opone al reposo; o sea, Ergón sería el movimiento, la energía sería el movimiento, la actividad en oposición a la inactividad, a la pasividad, que supuestamente es lo que vendría a solucionar Sergio Massa como reconocimiento de falta de actividad y de pasividad, falta de uno y exceso de lo otro en el actual gobierno.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Heráclito decía que es el padre y el rey de todas las cosas, o sea, que Ergón es el padre y el rey de todas las cosas, y que a partir de él se originan todos los contrastes.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No en vano se le dio el nombre de Ergía a la unidad de trabajo; de allí surge, en toda la lingüística, energía, en guion, Ergía, sería el trabajo que está dentro, o sea, en esa energía lo que tenemos es trabajo que está dentro.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hacer un análisis, como decíamos antes, de audios, una especie de *racconto* sonoro de cuatro momentos en que la Argentina tuvo problemas de energía, cuatro momentos que en realidad se dieron en todos los gobiernos.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El país necesita una revolución productiva y para lograrla Carlos Menem los convoca.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El país necesita una revolución productiva y para lograrla Carlos Menem los convoca.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**(Audio)** El corte más bajo de la historia argentina en relación a las condiciones climáticas.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Dame amor, dame luz\", normalmente metáfora de amor; “dame luz barata” podría ser “dame amor”, que algunos votantes le pueden pedir a distintos gobiernos.",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con todo ello, lo que estaremos haciendo es reducir nuestra factura energética y, por tanto, también contribuir entre todos a reducir nuestra dependencia del agresor, en este caso de Putin, de Rusia y, sin duda alguna, también a reducir y a doblegar entre todos la curva de la inflación.",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ergón sería el papel que pretende cumplir Sergio Massa; veremos cómo le va en ese papel de Ergón y si energía era sinónimo de dólares, Massa debe pretender que Ergón sea metonimia de él mismo.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 12
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hace unos días, Javier Milei, durante uno de sus viajes con su hermana y amigos, visitó Israel y posteriormente se reunió con el Papa Francisco.",
+      "entidades_detectadas": [
+        "javier",
+        "israel"
+      ]
+    },
+    {
+      "frase": "Tras la reunión, Milei afirmó que el Papa Francisco estaba de acuerdo con un modelo económico de \"caos planificado\".",
+      "entidades_detectadas": [
+        "francisco",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Hoy hay una reunión en la Corte Suprema para tratar asuntos relacionados con la quita de derechos implementada por el gobierno de Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "No solo a nivel provincial contra el Estado Nacional, sino también de personas que deben judicializar el pago de sus prepagas para sobrevivir o, como en el caso que mencionamos ayer, una mujer con cáncer que necesita un tratamiento de 17.000 dólares mensuales y al que le fue cortado el derecho a la asistencia por parte de la Dirección de Asistencia Directa de Situaciones Especiales.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ayer me contacté con alguien a quien PAMI le negó los medicamentos para su madre.",
+      "entidades_detectadas": [
+        "pami"
+      ]
+    }
+  ]
+}

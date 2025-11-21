@@ -1,0 +1,275 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Bueno, ¿cae o no cae el consumo de carne?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿"
+      ]
+    },
+    {
+      "frase": "El consumo de carne está cayendo y, además, desde el sector anticipan nuevos aumentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se estima un incremento en el precio de la carne de hasta un 20% en el último bimestre del año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a consultar a José Luis de Aduna, propietario de \"Carne.ar\" en el Mercado Central, que nos dará su perspectiva.",
+      "entidades_detectadas": [
+        "Mercado Central",
+        "José Luis de Aduna"
+      ]
+    },
+    {
+      "frase": "José Luis, buen día.",
+      "entidades_detectadas": [
+        "José Luis"
+      ]
+    },
+    {
+      "frase": "Jorge Rialde de Radio 10, buenos días.",
+      "entidades_detectadas": [
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "**José Luis:** Buenos días, Jorge.",
+      "entidades_detectadas": [
+        "José Luis:*",
+        "Buenos días",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**Jorge:** Bien, José Luis.",
+      "entidades_detectadas": [
+        "José Luis",
+        "Bien",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Te consulto sobre la caída del consumo y el posible aumento de precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo ves el panorama?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**José Luis:**  Por cuestiones climáticas y estacionales, es una época en la que el precio del ganado suele aumentar.",
+      "entidades_detectadas": [
+        "José Luis"
+      ]
+    },
+    {
+      "frase": "Además, el año pasado el precio del ganado estuvo retrasado, y ahora comienza a subir.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Respecto a la caída del consumo...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "sí, se nota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comparando noviembre de este año con el del año pasado, tengo una baja significativa, más del 20% en las ventas generales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente está optando por proteínas más económicas, como cerdo y pollo, reemplazando la carne vacuna por razones presupuestarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:**  ¿Y se han modificado las preferencias en los cortes de carne?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**José Luis:** Sí.",
+      "entidades_detectadas": [
+        "José Luis",
+        "Sí"
+      ]
+    },
+    {
+      "frase": "El asado, que siempre fue el producto estrella en el mercado porque al argentino le encanta comer asado, ahora se está dejando de lado debido al precio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente prefiere cortes sin hueso, más rendidores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El asado de tira, por ejemplo, se consume mucho menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes lo vendíamos todos los días; ahora, solo los fines de semana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se optan por cortes como vacío, paleta y roastbeef, que son versátiles y se pueden preparar de diferentes maneras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:**  ¿Cómo están los precios actualmente?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "En el Mercado Central suelen ser un poco más accesibles.",
+      "entidades_detectadas": [
+        "Mercado Central"
+      ]
+    },
+    {
+      "frase": "¿Cuánto cuesta el asado y el vacío, aproximadamente?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "**José Luis:** Manejamos muchas ofertas, sobre todo las promociones.",
+      "entidades_detectadas": [
+        "José Luis:*",
+        "Manejamos"
+      ]
+    },
+    {
+      "frase": "Tenemos dos kilos de milanesa a $15.000, dos kilos de tapas de asado a $13.500, y dos kilos de paleta o roastbeef a $12.800.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El asado está a $7.900 el kilo, un precio elevado en comparación con otros cortes sin hueso, lo que lo convierte en un lujo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:** ¿Han notado un incremento en las compras anticipadas para las fiestas de fin de año, considerando la situación económica y los posibles aumentos de precio?",
+      "entidades_detectadas": [
+        "¿Han",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**José Luis:** Sí, a principios de noviembre notamos que la gente empezó a comprar cortes para guardarlos para las fiestas.",
+      "entidades_detectadas": [
+        "José Luis",
+        "Sí"
+      ]
+    },
+    {
+      "frase": "Aunque, sinceramente, no sé si habrá un gran incremento de costos, ya que el consumo marca el precio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el precio es muy alto, la gente no compra y hay que ajustarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hemos observado que las ventas suelen caer en la última semana del mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También vemos que muchos clientes pagan con tarjeta de crédito.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "**Jorge:** ¿Y utilizan mucho las herramientas de pago como Cuenta DNI o aplicaciones similares?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**José Luis:** Sí, muchos clientes usan Cuenta DNI del Banco Provincia y otras aplicaciones bancarias con promociones.",
+      "entidades_detectadas": [
+        "José Luis",
+        "Sí"
+      ]
+    },
+    {
+      "frase": "Es un fenómeno que observamos con frecuencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También ocurre que algunos clientes hacen una compra grande al principio del mes y luego regresan para devolver o cambiar algunos artículos porque se les acabó el presupuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:**  Es una realidad que afecta a todos.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Los gastos fijos son inamovibles, pero podemos ajustar lo que comemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comer asado se ha convertido en un lujo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "José Luis, te agradezco mucho la entrevista.",
+      "entidades_detectadas": [
+        "José Luis"
+      ]
+    },
+    {
+      "frase": "**José Luis:** Gracias a ti, Jorge.",
+      "entidades_detectadas": [
+        "José Luis",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Un abrazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:**  José Luis de Aduna, dueño de Carne.ar en el Mercado Central, nos ha dado un panorama de la situación del consumo de carne.",
+      "entidades_detectadas": [
+        "José Luis de Aduna",
+        "Mercado Central",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "¿Han",
+    "José Luis:*",
+    "Mercado Central",
+    "También",
+    "Manejamos",
+    "¿Cuánto",
+    "¿",
+    "Vamos",
+    "Además",
+    "José Luis de Aduna",
+    "Sí",
+    "José Luis",
+    "Jorge Rialde",
+    "Jorge",
+    "Bueno",
+    "Bien",
+    "Buenos días",
+    "Comer"
+  ]
+}

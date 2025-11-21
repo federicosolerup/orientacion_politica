@@ -1,0 +1,701 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Este programa voy a hacer realmente...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo estamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A dónde va el programa?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "¿Cómo estamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy poco, eh.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sube, sube, sube.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que subirlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién da más, a ver?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Uno, ocho, dos, vamos, tres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos con dos puntos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me voy a solidarizar hoy con un humorista, con **Nick Hoy**.",
+      "entidades_detectadas": [
+        "Nick Hoy"
+      ]
+    },
+    {
+      "frase": "No solo con **Nick Hoy**, sino que me voy a solidarizar con todos nosotros.",
+      "entidades_detectadas": [
+        "Nick Hoy"
+      ]
+    },
+    {
+      "frase": "Cuando no es **Nick Hoy**, somos nosotros, que somos el revólver, la pistola, el cargador y la \"puta que lo parió\".",
+      "entidades_detectadas": [
+        "Nick Hoy"
+      ]
+    },
+    {
+      "frase": "Realmente uno quiere contemporizar, pero no te ayudan porque en la desesperación nos siguen pegando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la desesperación nos siguen mandando los trolls por un lado, las prohibiciones por el otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual no hay que darle bola a las redes sociales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La red social es la pared del baño de la estación Retiro.",
+      "entidades_detectadas": [
+        "Retiro"
+      ]
+    },
+    {
+      "frase": "Hoy le decía a mi hija, no te enganches con toda esa mierda porque están todos enfermos de la cabeza, son dos \"nadie\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, **Nick Hoy** hizo este chiste, ¿no?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿",
+        "Nick Hoy"
+      ]
+    },
+    {
+      "frase": "¿Cómo fue?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dos lunáticos con un plan imposible, ridículo, inverosímil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un hombre y una mujer que pusieron en peligro a toda la Argentina: \"la banda de los copitos\", y se dice \"no\".",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Y muestran a **Cristina Fernández de Kirchner** y a **Alberto Fernández**.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Un chiste que, además, obvio, podría ni despertarte una sonrisa, porque es un chiste más, pero que le cayó mal a **Pablo Duggan**.",
+      "entidades_detectadas": [
+        "Pablo Duggan"
+      ]
+    },
+    {
+      "frase": "Un chiste político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y **Pablo Duggan** no se puede hacer más chistes políticos.",
+      "entidades_detectadas": [
+        "Pablo Duggan"
+      ]
+    },
+    {
+      "frase": "Pues usted imagínese, en la época de **Raúl Alfonsín**, en la época de **Carlos Menem**, lo trataban de monos, de gorilas, ponían a **Cocca**.",
+      "entidades_detectadas": [
+        "Carlos Menem",
+        "Cocca",
+        "Raúl Alfonsín"
+      ]
+    },
+    {
+      "frase": "Imagínese a **Ilya Tortuga**.",
+      "entidades_detectadas": [
+        "Ilya Tortuga"
+      ]
+    },
+    {
+      "frase": "A **Ilya**...",
+      "entidades_detectadas": [
+        "Ilya"
+      ]
+    },
+    {
+      "frase": "bueno, ese fue el **Andrew**.",
+      "entidades_detectadas": [
+        "Andrew"
+      ]
+    },
+    {
+      "frase": "Pero ahora no se puede ni hacer un chiste político porque le cae mal a **Pablo Duggan**.",
+      "entidades_detectadas": [
+        "Pablo Duggan"
+      ]
+    },
+    {
+      "frase": "Bueno, esto podría ser nada más que una anécdota.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Una anécdota, si no fuera porque no se están prohibiendo la libertad de expresión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso se llama *Charlibro* la editorial.",
+      "entidades_detectadas": [
+        "Charlibro"
+      ]
+    },
+    {
+      "frase": "Porque hace mucho empezaron igual y terminaron masacrando, dentro de una revista, a todos los humoristas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el mundo entero se vistió de negro, de luto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y hoy creo que la Argentina se tiene que vestir de luto porque el otro día, ahí está, “dejadla puesta”.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "El otro día se atrevió el presidente y el mafioso de **Ilya Tortuga** a decir que algunos periodistas éramos el arma que había intentado matar a **Cristina Fernández de Kirchner**.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Ilya Tortuga"
+      ]
+    },
+    {
+      "frase": "Son insolentes, son rústicos, son ordinarios y están perdidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La desesperación que tienen por salvarse de la justicia, como una anguila mojada, hace que cometan estas falacias, estos errores, como el de **Nick Hoy**, que podría ir a dar la vuelta al mundo.",
+      "entidades_detectadas": [
+        "Nick Hoy"
+      ]
+    },
+    {
+      "frase": "Y sería ideal, en este momento, que **Alberto Fernández** vaya a decir que en la Argentina no sé qué cosa, que a unos humoristas los están censurando en Argentina.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Argentina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Sería una escupida en la cara de la libertad y la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cosa que esta gente del kirchnerismo conoce muy poco o nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que la democracia la usan nada más que para llegar al poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero después no la utilizan, porque no puede haber democracia cuando no hay diversidad de ideas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y acá parece que, de a poco, te van cerrando, te van cerrando, te van cerrando para que la única idea que predomine sea la kirchnerista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, gracias a Dios, la gente se va abriendo, se va abriendo, se va abriendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque hay jubilados llorando, chicos llorando, familias llorando, cagados de hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En una psicosis miserable de todos los argentinos por revolver la basura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y nos fueron llevando a revolver la basura, a comer mierda, a comer una vez por día, a no poder atender en los hospitales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y todos lo fuimos comprendiendo estos 20 años como normal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando hablamos de la guita que se afanaron, es normal que hablen de 20 mil millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuando alguien dice que el secretario **José López** robó 90 millones, yo digo, ¿pero no era tanto?",
+      "entidades_detectadas": [
+        "¿",
+        "José López"
+      ]
+    },
+    {
+      "frase": "¿Qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pesos?",
+      "entidades_detectadas": [
+        "¿Pesos?"
+      ]
+    },
+    {
+      "frase": "¿O dólares?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Todo es mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y nos fueron acostumbrando a cosas terribles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos fueron acostumbrando a que desaparezca la mujer del sur.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos fueron acostumbrando a que maten al secretario de Seguridad, o de **Güemes**.",
+      "entidades_detectadas": [
+        "Güemes"
+      ]
+    },
+    {
+      "frase": "Nos fueron acostumbrando a que maten a un fiscal federal, que fue un magnicidio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos fueron acostumbrando a esas cosas cotidianas, como si fueran moneda corriente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y salió a hablar sin vergüenza **César Milani**.",
+      "entidades_detectadas": [
+        "César Milani"
+      ]
+    },
+    {
+      "frase": "**Milani** está, por lo menos, procesado por enriquecimiento ilícito.",
+      "entidades_detectadas": [
+        "Milani"
+      ]
+    },
+    {
+      "frase": "Protegido de **Hebe de Bonafini** y **Estela de Carlotto**.",
+      "entidades_detectadas": [
+        "Estela de",
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Salió a insultar a todo el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Salió a \"basurear\" a todo el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Parece que agarró mecha de nuevo, porque había estado escondido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se acuerdan que, cuando lo acusaban de haber participado en la tortura de personas, estaba escondido?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cosa que, como en Comodoro Py, quedaba chico, se lo llevaron a Tucumán y lo sobreseyeron.",
+      "entidades_detectadas": [
+        "Comodoro Py"
+      ]
+    },
+    {
+      "frase": "Ahora salió a hablar con los humos barros, porque todavía nadie investigó quién estaba el día que mataron a **Nisman**, en los \"otanos\" de **Nisman**.",
+      "entidades_detectadas": [
+        "Nisman"
+      ]
+    },
+    {
+      "frase": "Salió a hablar y \"basureó\" a la oposición, a los periodistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, ¿desde dónde este pibe nos \"basurea\", como nos \"basurea\"?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Desde dónde **Gerardo Leber** le dio chapa.",
+      "entidades_detectadas": [
+        "Gerardo Leber"
+      ]
+    },
+    {
+      "frase": "Y pertenece a los perseguidos políticos: **Budou, Milani, Esteche, Delia**.",
+      "entidades_detectadas": [
+        "Esteche",
+        "Milani",
+        "Delia",
+        "Budou"
+      ]
+    },
+    {
+      "frase": "Toda esta lacra que ahora resurge como esos renacuajos que se secan durante el verano y cuando caen dos gotas en el charco, en el invierno, empiezan a mover la cola de nuevo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Resurgen a insultar al de enfrente, porque son los últimos extorsionadores que les quedan antes de la condena y están tratando de poner la palabra odio, guerra.",
+      "entidades_detectadas": [
+        "Resurgen"
+      ]
+    },
+    {
+      "frase": "Este sinvergüenza de **Milani** habló de sangre y guerra civil.",
+      "entidades_detectadas": [
+        "Milani"
+      ]
+    },
+    {
+      "frase": "Y hace rato que se viene hablando de sangre y guerra civil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son dos palabras que no coinciden con lo que quieren hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son dos palabras que no coinciden con la paz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son dos palabras de odio, de odiadores, de gente de mierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque en este país hicimos una fuerza bárbara durante todos estos años para que no haya ni un problema de convulsión interior, ni tampoco haya sangre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos sujetando a estos locos de mierda mercenarios, para que no se disparen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde la época del mortero, ¿te acordás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde la época del helicóptero de cartón, ¿te acordás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La oposición tibia, estamos escuchando, estamos atentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, boludo, no hay que estar atentos, hay que estar laburando, oponiéndose, parándose de manos, porque así se van a llevar a los humoristas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mañana no voy a estar yo, seguramente.",
+      "entidades_detectadas": [
+        "Mañana"
+      ]
+    },
+    {
+      "frase": "No van a estar ninguno de los compañeros que hablan en contra de este sistema perverso del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Seguramente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque esto es una prueba piloto, como la pistola que hizo Telham, y nadie castigó a los de Telham.",
+      "entidades_detectadas": [
+        "Telham"
+      ]
+    },
+    {
+      "frase": "La pistola que hizo Telham con los nombres de todos los periodistas que decían que había payasadas.",
+      "entidades_detectadas": [
+        "Telham"
+      ]
+    },
+    {
+      "frase": "En otro orden de cosas, apareció la señora haciendo la payasada de siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual que cuando fue lo de **Nisman**, igual siempre, ella se pone como víctima.",
+      "entidades_detectadas": [
+        "Nisman"
+      ]
+    },
+    {
+      "frase": "O sea, ¿viste?, choca una nave espacial contra un continente y dice: \"Y a mí, que me cayó un pedazo de la nave y me rompió un vidrio\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella siempre es la víctima de la película.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Señora, usted no es víctima de nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Nos solidarizamos con lo que le pasó?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es feo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No eran cuatro gatos locos ni cinco gatos locos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Según el mismo **Pablo Duggan**, dijo que era fuego enemigo de adentro.",
+      "entidades_detectadas": [
+        "Según",
+        "Pablo Duggan"
+      ]
+    },
+    {
+      "frase": "Investigue si fue **Alberto Fernández**, investigue si fue, no sé, el \"cuervo\" **Larroque**.",
+      "entidades_detectadas": [
+        "Larroque",
+        "Investigue",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Investigue quién fue.",
+      "entidades_detectadas": [
+        "Investigue"
+      ]
+    },
+    {
+      "frase": "Pero dejen de rompernos las pelotas, la libertad de expresión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora salió de onda que le quiera hacer juicio a otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Están como cuando le pateás el avispero, puteando para los cuatro costados, pero en la realidad hay una sola punta, que es como **Dorrego**, donde primero tiene que pasar por la justicia, recibir su condena, poner la jeta y después hablamos si le disgustan los chistes que hace **Nick Hoy** y si le disgusta el pelotudo, el baboso de **Checopar** o el hijo de puta de **Majul** o el sorete de **Feynman** o el atorrante de **Jonhy Viale** o el pelotudo de **Nelson Castro**.",
+      "entidades_detectadas": [
+        "Majul",
+        "Jonhy Viale",
+        "Nelson Castro",
+        "Feynman",
+        "Nick Hoy",
+        "Dorrego",
+        "Checopar"
+      ]
+    },
+    {
+      "frase": "Después vemos, por ahora arranquemos jugando a **Cristina Fernández de Kirchner** y buscando una condena.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Después"
+      ]
+    },
+    {
+      "frase": "Y después buscando una condena para todo el resto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer la vi a la mujer de **De Vido** en C5N, que, además, es humorista.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Hace chistes, se cree que es un \"pedo del Papa\".",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Y realmente en esa mesa estaban sentados **Budou** y la mujer de **De Vido**, parte del patrimonio argentino.",
+      "entidades_detectadas": [
+        "Budou"
+      ]
+    },
+    {
+      "frase": "Por eso mismo, tengamos mucho cuidado, porque como están en carne viva, porque los delincuentes nunca piensan que la justicia les puede llegar, parecemos sal gruesa sobre la herida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cualquier cosa que decimos, se \"brota\" y arrancan en dulce un montón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Arranca **Donda**, arranca **Luhuen**, arranca **Delia**, arranca **Esteche**.",
+      "entidades_detectadas": [
+        "Luhuen",
+        "Esteche",
+        "Donda",
+        "Delia"
+      ]
+    },
+    {
+      "frase": "Ustedes no pueden condenar cualquier cosa.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Lo triste es que nos condenen ustedes, que no tienen entidad para condenar a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes no pueden decir cualquier cosa.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Lo triste es que nos digan ustedes, que no tienen entidad para hacernos nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente, para pegarnos a cualquiera de los periodistas que hablamos en contra de ustedes, hay que tener altura moral, hay que tener dignidad, hay que dejar de \"carpetear\" con boludeces, hay que dejar de hacer periodismo berreta, basura, hay que empezar a jugar con los búhos arriba de la mesa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tiempo que pierden en prohibir a **Nick Hoy**, el tiempo que pierden en pegarme a mí y a todos los periodistas que estamos defendiendo la libertad de expresión, lo podrían usar en buscar alguna treta para que **Cristina Fernández de Kirchner** se \"safe\".",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Nick Hoy"
+      ]
+    },
+    {
+      "frase": "Porque hasta ahora, todo lo que dijeron en Comodoro Py fue sarasa, sarasa, sarasa, sarasa, sarasa, pero pruebas para defenderla, ni una.",
+      "entidades_detectadas": [
+        "sarasa",
+        "Comodoro Py"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Realmente",
+    "Luhuen",
+    "Cosa",
+    "Seguramente",
+    "Cocca",
+    "Cómo",
+    "Alberto Fernández",
+    "Pero",
+    "Donda",
+    "Resurgen",
+    "Vamos",
+    "Ilya Tortuga",
+    "Estela de",
+    "Ilya",
+    "Milani",
+    "Según",
+    "Telham",
+    "Sería",
+    "Majul",
+    "Arranca",
+    "Nisman",
+    "Cristina Fernández de Kirchner",
+    "Nos",
+    "Comodoro Py",
+    "Esteche",
+    "Feynman",
+    "Raúl Alfonsín",
+    "Budou",
+    "Dorrego",
+    "Checopar",
+    "Imagínese",
+    "Argentina",
+    "¿A",
+    "Nelson Castro",
+    "Retiro",
+    "José López",
+    "Güemes",
+    "Charlibro",
+    "Ayer",
+    "Carlos Menem",
+    "Nick Hoy",
+    "sarasa",
+    "Delia",
+    "César Milani",
+    "Bueno",
+    "Después",
+    "Ustedes",
+    "Mañana",
+    "Salió",
+    "Jonhy Viale",
+    "la Argentina",
+    "Pablo Duggan",
+    "¿",
+    "Carlotto",
+    "Larroque",
+    "Papa",
+    "Investigue",
+    "Toda",
+    "Gerardo Leber",
+    "Andrew"
+  ]
+}

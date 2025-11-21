@@ -1,0 +1,481 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 62,
+      "derecha": 31
+    },
+    "score_promedio": 0.351,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La segunda novedad tiene que ver con la personalidad de Jorge Ignacio García Cuerva, que es, para las clasificaciones que uno podría tener dentro de la Iglesia, una especie de hombre anfibio, de hombre de dos mundos.",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "García Cuerva podría ser conocido por muchas razones.",
+      "score": 0.381,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una de ellas, si uno quiere conocer su pensamiento religioso, podría ir a un escrito suyo importante, que es una interpretación que él hace del pensamiento de Bergoglio, y es un escrito reciente, del mes de marzo de este año, cuando se celebraron los diez años del pontificado de Bergoglio.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una carta pastoral que él escribe en Río Gallegos, tomando textos que para él son fundamentales del Papa y sacando conclusiones respecto de la vida práctica de la Iglesia y de su diócesis a partir de esos textos.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son páginas muy originales que revelan que, además de un cura dedicado a la pastoral en las villas, García Cuerva –y acá está la otra dimensión de este anfibio que decía al comienzo–, es un intelectual.",
+      "score": 0.32,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ha tenido buena relación con toda la dirigencia política; yo diría más: es probable que García Cuerva haya tenido mejor relación con dirigentes del PRO, como María Eugenia Vidal y Carolina Stanley, que con gente del peronismo, donde, biográficamente, estaba más cercano por su juventud.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La confrontación de la que, en alguna medida, ha sido víctima Bergoglio con esta designación va a ser o va a seguir siendo el signo principal, sobre todo en los próximos meses, como estrategia política, y sobre todo como estrategia política por parte de Cristina Fernández de Kirchner.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner todavía no tiene candidato, no sabe cuál es el candidato, pero sabe que tiene que lograr algún tipo de confrontación con Javier Milei y opacar, en el medio o en el otro extremo, a Juntos por el Cambio.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a graficar esto que estoy diciendo, que es importante para entender cómo está mirando la ingeniería electoral, la forma de disponer las piezas en el tablero Cristina Fernández de Kirchner.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, esa noche, nosotros podemos enterarnos de que el primer grupo, Juntos por el Cambio, arbitrariamente le estamos asignando el primer lugar, y arbitrariamente le estamos diciendo que saca 31%.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo grupo, según las encuestas de hoy (después, eso lo podemos discutir: si las encuestas no son falsas, que lo pueden ser, o si hay mucha incertidumbre respecto de lo que pasa hoy en las encuestas, que puede suceder.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las encuestas, Javier Milei está alrededor de 30% de los votos, hoy, digamos, 26, sería la segunda fuerza: La Libertad Avanza.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en este escenario, en esta forma de presentar los datos con arreglo a cada grupo político que compite –e insisto: no a los candidatos, sino a las coaliciones que se presentan o a las fuerzas políticas que compiten–, el Frente de Todos podría quedar tercero.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es la que quiere Cristina Fernández de Kirchner.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí estaría Milei como primer candidato.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta presentación le sirve mucho a Milei: él podría decir que fue el más votado como candidato individual.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Reta o Bullrich (acá le estamos asignando 18% a uno de los dos, al que gane la interna de Juntos por el Cambio).",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después podría venir, decimos Wado de Pedro, Sergio Massa, Kicillof, el que sea, después vamos a analizar quiénes podrían ser candidatos del Frente de Todos, con algunas novedades.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner impide la interna, de alguna manera, vamos a decirlo así, baja a Scioli, después vamos a analizar qué posibilidades hay de que esto ocurra.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei sería el primero, esto es lo que quiere Cristina, y, con los mismos números, Wado de Pedro sería el segundo.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Larreta o Bullrich sería el tercer candidato, Larreta o Bullrich, según quién gane o quién pierde, sería el cuarto.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Cristina podría decir: acá vamos a una confrontación, a una polarización entre Milei y el candidato mío, que nosotros ponemos a de Pedro por una convención arbitraria.",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "E ir después a una polarización entre Milei y ella, y su partido, y su candidato, que es lo que ya empezó a hacer, no en el último discurso de la Plaza de Mayo, sino en el anterior, en la Plata, cuando empezó ya a confrontar con Milei y, si uno quiere, a ningunear a Juntos por el Cambio.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que la Argentina, para esta escena, entraría en otro tipo de polarización, donde Cristina Fernández de Kirchner buscaría radicalizarse y buscaría también elegir al candidato más radicalizado de la oposición, que es Milei.",
+      "score": 0.374,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primer obstáculo para la estrategia, para esta estrategia de Cristina Fernández de Kirchner, es Alberto Fernández.",
+      "score": 0.51,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mucha gente que rodea a Alberto Fernández, no a Cristina, dice: \"Bueno, hoy el único objetivo de Alberto Fernández es perturbarla a Cristina\".",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En alguna medida, cumplir con lo que le dijo al periodista Roberto Navarro: \"Quiero terminar con 20 años de kirchnerismo\".",
+      "score": 0.755,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él está pensando en una interna entre el candidato que ponga Cristina y Daniel Scioli, en combinación en una fórmula con Agustín Rossi y Victoria Tolosa Paz como candidata a gobernadora de la provincia de Buenos Aires.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa fórmula, Scioli-Rossi, ya tiene un jefe de campaña que es Santiago Cafiero, antiguo funcionario de Daniel Scioli en la provincia de Buenos Aires, los que resistían la presión de La Cámpora durante los gobiernos de Scioli en la provincia de Buenos Aires.",
+      "score": 0.379,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Daniel Scioli, desde Brasil y ya visitando Buenos Aires en varias oportunidades, ha hecho una recorrida entre empresarios amigos buscando financiamiento para esta campaña.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que uno de los problemas que debe resolver, en su lista de problemas que es bastante extensa, Cristina Fernández de Kirchner, es corregir esta ambición de Daniel Scioli.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todavía no hay un candidato que ella haya definido; más aún, gente muy cercana a ella, muy cercana a ella, sigue insistiendo en que Cristina Fernández de Kirchner debe ser la candidata.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo acaba de decir hace minutos el abogado de Cristina Fernández de Kirchner, que es un abogado militante.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ubeira, que es el que patrocina a Cristina en el tema del atentado contra su vida, es decir, que ha estado en contacto con ella en las últimas horas, dice esto por las de él?",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿O hay una conversación con Cristina para mantener la posibilidad de que ella finalmente corrija las afirmaciones, los juramentos sucesivos que ha hecho respecto de que no se va a presentar, para al final presentarse?",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora vamos a analizar los candidatos que está evaluando Cristina Fernández de Kirchner y las dificultades, las posibilidades, los pro y los contra de cada uno, insisto, con alguna novedad.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, lo primero que hay que encontrar es un candidato a presidente que le garantice que ese candidato a presidente es el más apreciado por los bonaerenses, un candidato a presidente que gane, como candidato a presidente, no la nación, sino la provincia de Buenos Aires, y que con ese triunfo arrastre al resto de la lista.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él, mientras tanto, se prepara para ser el candidato de Cristina Fernández de Kirchner y acaba de decir algo este fin de semana, en una entrevista que le hacen, muy interesante.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dicen: \"Bueno, pero finalmente, todo lo mal que ande el país, se debe a 16 años de kirchnerismo\".",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él contesta: \"Yo me hago cargo de 12 años de kirchnerismo, los de Néstor y Cristina\".",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es curiosísimo que el ministro del Interior del gobierno de Fernández no asuma como propios los cuatro años de Fernández.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa tiene un problema.",
+      "score": 0.272,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es un cuadro que publica Marull la semana pasada y es un cuadro curioso porque, en el momento en que Cristina Fernández de Kirchner estaba hablando de Macri, el endeudamiento de Macri, Macri tuitea este cuadro, diciendo: \"Y ahora, ¿por qué?\" ¿Qué quiere decir este cuadro?",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que, desde que asumió Fernández en 2019, según los números de Marull, entraron al país 110 mil millones de dólares.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El argumento central del kirchnerismo, le dieron la plata del Fondo al gobierno de Macri para que se la lleven sus amigos, y esta plata ¿quién se la llevó?",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maza le tiene que garantizar al Frente de Todos que consigue las reservas, no para salir exitoso, para llegar a las PASO.",
+      "score": 0.266,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él ofreció ya una muestra gratis en el altar de Cristina Fernández de Kirchner para convertirse en candidato o, por lo menos, quiere que se entienda que esa es su muestra gratis, que es la decisión del fiscal Guillermo Marijuan de pedir el sobreseimiento de Cristina Fernández de Kirchner, de decidir: \"Yo, como fiscal, no la voy a seguir investigando, porque no hay pruebas, más allá de todas las pruebas que podrían encontrarse en este tema, que el mismo Marijuan decía que tenía cuando andaba recorriendo las estancias de Báez con sus excavadoras\".",
+      "score": 0.391,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Marijuan le hace un enorme homenaje a Cristina Fernández de Kirchner sobreseyéndola, o pidiendo su sobreseimiento, el día anterior del acto de la plaza de Mayo y esto pareciera ser interpretado como la manzana que le lleva la maestra, el joven Massa, íntimo amigo de Guillermo Marijuan desde que Marijuan se desempeñaba como fiscal previsional con sede en Lomas, que gobernaba Massa.",
+      "score": 0.288,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, una de las indicaciones que estaría dando Massa de su pretensión de ser candidato es: \"Yo podría resolverle problemas judiciales a Cristina Fernández de Kirchner\".",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa, además, tiene que demostrarle a Cristina que consigue las reservas y es probable que Cristina esté demorando su resolución, mirando a Massa y a la economía de Massa, para tomar una decisión.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para eso, viaja a China, para conseguir que le amplíen la parte utilizable de los yuanes que tiene el Banco Central, como parte del intercambio de monedas con China y, además, para conseguir que el Banco de los BRICS, que preside Dilma Rousseff, garantice operaciones de financiación de exportaciones de Brasil a empresas exportadoras brasileñas, de tal manera que puedan usarse dólares del Banco de los BRICS y no del Banco Central para pagar importaciones argentinas.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sigue siendo el problema central las reservas, por eso es tan importante para Massa, probablemente lo más importante para Massa en este viaje, no sean reuniones con China, sino una reunión con Dilma Rousseff en China.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión, según todas las encuestas, que es el candidato que la gente más identifica con Cristina Fernández de Kirchner.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof tiene un porcentaje propio de intención de votos de 16%, hablábamos de que Wado de Pedro tenía 8, y cuando los encuestadores dicen: \"Bueno, Kicillof, el candidato de Cristina\", en esas encuestas que maneja el gobierno, pasa de 16 a 22%, casi el porcentaje que tiene la vicepresidenta, que está alrededor de 24% de los votos.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y qué sucede si lo sacan a Kicillof y lo ponen como candidato a presidente?",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Wado de Pedro pasa a la nación, a la candidatura nacional, es el mejor candidato a presidente para conseguir el voto de los bonaerenses para esa lista, aunque pierda como candidato a presidente, y Wado de Pedro deja de ser candidato a presidente y se convierte en candidato a gobernador.",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, hay en la intimidad del Frente de Todos quienes están pensando en otra jugada de Cristina y es postular a Máximo Kirchner.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algunos piensan para presidente y otros, probablemente con muchos más argumentos, piensan para gobernador.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, dicen: \"¿Por qué tanta aparición central de Máximo Kirchner en los últimos tiempos?",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acto en el PJ Capital, único orador Máximo Kirchner, acto en el PJ bonaerense, único orador Máximo Kirchner, acto de Cristina el 25 de mayo en la plaza de Mayo, Máximo Kirchner y toda su familia.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un acto casi familiar, algunos quieren imaginar un acto donde empieza la larga despedida sucesoria de Cristina Fernández de Kirchner y, como sabemos, los Kirchner tienen un concepto patrimonial del poder, un concepto familiar del poder.",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que recordar que, en el 2011, ya no estaba Néstor, el bastón de mando a Cristina Fernández de Kirchner no se lo dio el presidente del Senado, se lo dio su hija Florencia.",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, a los Kirchner y, sobre todo, a Cristina Fernández de Kirchner, también a Néstor, le cuesta mucho pensar la sucesión fuera del marco familiar.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Máximo Kirchner podría ser entonces el candidato a gobernador de la provincia.",
+      "score": 0.617,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que piensan esto siguen razonando diciendo: \"Bueno, si la base de poder que le va a quedar al kirchnerismo en una derrota es la provincia de Buenos Aires, lo más seguro es poner a un Kirchner ahí, en ese territorio\", y otros dicen: \"En esa caja\".",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Tiene que ver con esto el viaje de Máximo Kirchner a China?",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se encargó de que el embajador Sabino Vaca Narvaja, casi familiar de Cristina, le organice a su hijo Máximo una agenda especial en China.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a ver qué Máximo tiene sus propias reuniones en este viaje o va detrás del pelotón de Massa.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, obviamente, quiere aprovechar este viaje con Máximo Kirchner para hacerle una especie de encerrona, que tal vez se la hizo ya en el avión, y tratar de venderle los fuegos artificiales de su candidatura.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un dato importante: si Massa es candidato (no sabemos a qué, pero si Massa es candidato a presidente), Scioli no se baja, es decir, hay un eje de enfrentamiento personal que determina este problema de si va a haber interna o no en el Frente de Todos.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, si el candidato a presidente es Massa, Scioli, no hay quien lo baje, ni siquiera Cristina.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy se conoce, está en el portal de La Nación desde hace unas horas, una novedad importante para esta discusión, que es que Javier Milei no renuncia a tener un candidato, para él el más competitivo en la provincia de Buenos Aires, que es Guisela Miritto, un hombre de su partido, excomisario, intendente de Chivilcoy.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miritto fue casta cuando militaba con Sergio Massa y, sobre todo, con Joaquín de la Torre en el Frente Renovador de la provincia de Buenos Aires.",
+      "score": 0.295,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que hace que Milei esté ajustando su discurso respecto de la casta y empiece a decir: \"No, casta no es la política, casta son los políticos que están en contra de la gente\".",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Massa no es candidato a presidente, ¿a dónde lo ponen?",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, probablemente jarrón chino.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, ni qué hablar.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lula le ofreció ser secretario general de la UNASUR, si se reflota la UNASUR.",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Wado de Pedro, ¿dónde iría si el candidato a presidente es Kicillof y el candidato a gobernador es Máximo Kirchner?",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Scioli, ¿es cierto que Máximo Kirchner ya le ofreció ser primer candidato a diputado bonaerense?",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con malas noticias ha habido en Europa, en un país clave de Europa para nosotros, para toda América Latina, una especie de banco de pruebas de laboratorio donde sucede todo lo que después pasa en países como el nuestro: la transición democrática, la aparición de fuerzas extremas, la fragmentación política...",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En España ayer hubo un tsunami: se derrumbó el Partido Socialista y hubo una gran victoria del Partido Popular, el partido de Aznar, el partido de Rajoy, hoy el partido de Alberto Núñez Feijóo.",
+      "score": 0.269,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver qué nos decía a nosotros acá en Odisea Núñez Feijóo, que hoy parece ser el próximo presidente de España, cuando estuvo en el programa hace pocos meses.",
+      "score": 0.623,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cualquiera que siga la política española con cierta atención ve que es muy razonable, muy previsible, que te toque ser presidente del gobierno español en la próxima legislatura.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El PP, el Partido Popular, había estado en las últimas elecciones 1.200.000 votos abajo del Partido Socialista, del PSOE.",
+      "score": 0.38,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, porque, hoy, en una decisión que muchos consideran equivocada, atormentado por la fenomenal derrota de ayer, Pedro Sánchez, el presidente del gobierno, derrotado ayer líder del Partido Socialista, convocó elecciones para ahora, para el 23 de julio.",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, días antes de las elecciones, como presidente del Consejo de Europa, va a recibir a los líderes de América Latina para una reunión de la Unión Europea con la CELAC.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí va a estar Maduro, ahí va a estar seguramente Alberto Fernández, ahí va a estar centralmente Petro, ahí va a estar, sobre todo, Lula, ayudándolo a Sánchez a decir: \"Hay que frenar a la derecha en España\".",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver si con esa transfusión de sangre le alcanza.",
+      "score": 0.574,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la elección de ayer en España, vista con los ojos kirchneristas, vista con los ojos de la política argentina y latinoamericana, es una elección local.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, los principales diarios de la Argentina decidieron hacer titular sus primeras planas hoy como noticia principal lo que pasaba en un país que nos es tan afín, misteriosamente conectado con nosotros como es España.",
+      "score": 0.647,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos:**\n    *   Jorge Bergoglio → Jorge Mario Bergoglio (se agregó el segundo nombre)\n    *   García Cuerva → Jorge Ignacio García Cuerva (se corrigió el nombre, agregando el segundo nombre y se verifica la escritura del apellido)\n    *   Vidal → María Eugenia Vidal (se agregó el nombre)\n    *   Stanley → Carolina Stanley (se agregó el nombre)\n    *   Poli → Mario Aurelio Poli (se agregó el segundo nombre)\n    *   Ubeira → Se asume que es un apellido, por lo tanto se deja como Ubeira.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   Milei → Javier Milei\n    *   Miritto → Guisela Miritto (se corrigió el nombre, agregando el segundo nombre)\n    *   Feijóo → Alberto Núñez Feijóo (se corrigió el nombre completo)\n\n*   **Ortografía y Gramática:**\n    *   Se corrigieron errores de ortografía y gramática en todo el texto, incluyendo tildes, comas, puntos y otros signos de puntuación.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 93
+  },
+  "etiqueta_original": "neutral"
+}

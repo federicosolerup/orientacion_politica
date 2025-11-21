@@ -1,0 +1,33 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Son los nuevos cargos que se crean en la provincia de Buenos Aires porque mañana, si son habitantes de la provincia, tal vez no lo sepan, se votará en el Senado y en la Legislatura, en la Cámara de Diputados de la provincia de Buenos Aires, el presupuesto provincial.",
+      "entidades_detectadas": [
+        "senado",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Además de estos \"agujeros negros\", mañana, a partir de la una, empieza la votación en el Senado y a las tres en la Cámara de Diputados, con la ley que limita los mandatos de los intendentes.",
+      "entidades_detectadas": [
+        "senado",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Esta ley que frenó las reelecciones indefinidas fue impulsada por María Eugenia Vidal y Sergio Massa, quienes, según mi fuente, hicieron todo lo posible para evitar el quórum o que no se alcance el número de la sesión, para que dirigentes de la oposición, algunos vinculados a Vidal, no puedan modificar la ley de mandatos de los intendentes.",
+      "entidades_detectadas": [
+        "sergio",
+        "vidal"
+      ]
+    },
+    {
+      "frase": "Hay una excepción en la Cámara de Diputados y en el Senado de Buenos Aires con la nueva integración de sus miembros electos en las últimas elecciones: se discutirá hasta cuándo pueden ser reelegidos los intendentes.",
+      "entidades_detectadas": [
+        "senado",
+        "cámara"
+      ]
+    }
+  ]
+}

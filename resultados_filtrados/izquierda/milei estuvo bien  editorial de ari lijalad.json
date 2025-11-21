@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Mi propuesta, como se habrán enterado el fin de semana, incluyó un aumento para el Presidente y los ministros.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Se dijo que no me di cuenta del impacto, lo cual generó una controversia significativa, en la que incluso intervino Cristina Fernández de Kirchner,  ya que se me atribuyó la culpa por un decreto que ella había firmado.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Considero que centrar el debate en la reducción salarial solo refuerza la idea errónea de que el problema de Argentina reside en los altos sueldos de los funcionarios.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Para que el Estado pueda intervenir en la desigualdad entre trabajadores y grandes corporaciones, necesitamos un Estado fuerte con funcionarios que perciban sueldos dignos y puedan combatir dicha inequidad.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Muchos no estarán de acuerdo y dirán que es una barbaridad que el Presidente se aumente el sueldo en este momento.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Considero que apoyar la idea de que los funcionarios no deben ganar bien es abonar a la antipolítica y a la idea de un Estado mínimo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La información proviene de CAME, INDEC y la UIA (Unión Industrial Argentina).",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Daniel Funes de Rioja, presidente de la UIA y COPAL, declara públicamente que el país se encuentra en una situación óptima y que el Pacto de Mayo resolverá los problemas.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

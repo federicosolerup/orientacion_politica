@@ -1,0 +1,47 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El relato de la celebración del Día de la Democracia se vio empañado por las divisiones políticas y la situación económica del país.",
+      "entidades_detectadas": [
+        "Día de la Democracia"
+      ]
+    },
+    {
+      "frase": "El narrador, tras reflexionar sobre un año de trabajo en televisión, expresa su deseo de un ambiente cordial entre compañeros y su preocupación por las disputas internas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recuerda con nostalgia la época de Alfonsín, donde la unidad tras la recuperación democrática era palpable, contrastándola con la actual polarización.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "La conmemoración del Día de la Democracia en la plaza, con la presencia de figuras internacionales como Pepe Mujica, Lula y la propia Cristina Fernández de Kirchner, se convirtió en un escenario de fuertes tensiones políticas.",
+      "entidades_detectadas": [
+        "Lula",
+        "Cristina Fernández de Kirchner",
+        "Día de la Democracia",
+        "Pepe Mujica"
+      ]
+    },
+    {
+      "frase": "El narrador critica duramente la situación económica del país, la falta de honestidad de los líderes políticos y la manipulación de la información, manifestando su decepción y preocupación por el futuro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Concluye reflexionando sobre la pérdida de la confianza ciudadana y la necesidad de seguir luchando por un mejor país.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Pepe Mujica",
+    "Cristina Fernández de Kirchner",
+    "El narrador",
+    "Concluye",
+    "Día de la Democracia",
+    "Alfonsín",
+    "Lula"
+  ]
+}

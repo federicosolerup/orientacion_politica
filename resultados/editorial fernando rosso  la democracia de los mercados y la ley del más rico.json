@@ -1,0 +1,115 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Este año se cumplen 40 años de la caída de la última dictadura militar y el inicio del régimen democrático.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se están organizando eventos y debates para discutir la cuestión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, muchos planteamientos están cargados de intencionalidad política, ya que cualquier cuestionamiento al régimen es acusado de ser pro-dictatorial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, algunos aprovechan el malestar con la democracia —mencionado por diversas figuras públicas, incluyendo la vicepresidenta Cristina Fernández de Kirchner— para cuestionarla desde la derecha, sin analizar sus limitaciones estructurales, sino atacando las libertades democráticas.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Estas libertades y derechos fueron conquistados en Argentina a lo largo de una historia que comenzó en la “Noche Negra” de la dictadura y continuó durante estos 40 años, impulsada por los movimientos de derechos humanos y las organizaciones sociales y políticas que las impusieron y defendieron.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "La derrota del partido militar —que históricamente intervino en crisis argentinas para imponer soluciones reaccionarias, como los golpes militares— y su actual irrelevancia en la vida política argentina, no se puede comprender sin estas luchas, ni sin el error garrafal de la derrota en la Guerra de Malvinas, un manotazo de ahogado del régimen militar agonizante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Existen reaccionarios que consideran que la democracia no es *poco* democrática en muchos ámbitos, sino *excesivamente* democrática en general.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, hay otra crítica que señala violaciones permanentes de derechos democráticos fundamentales, sin romper el orden constitucional, desde 1983.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo: el pacto de convivencia con las fuerzas de seguridad, especialmente las policías provinciales (particularmente la bonaerense), que a menudo participan en la industria del delito y alimentan la violencia urbana, generando reclamos por inseguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El uso y abuso de los servicios de inteligencia —un verdadero \"sottogoverno\" que opera en las sombras y condiciona al régimen político— y un Poder Judicial a menudo vinculado a estos servicios, como denunciara el kirchnerismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El sostenimiento de parte del marco normativo impuesto por la dictadura, como la ley de entidades financieras (la llamada \"pequeña revolución\" de Martínez de Hoz, ministro de Economía de la dictadura), que desreguló el sector financiero, permitiendo la conformación de un sistema concentrado, estratificado y privatizado.",
+      "entidades_detectadas": [
+        "Martínez de Hoz"
+      ]
+    },
+    {
+      "frase": "Esto tiene mucho que ver con la situación actual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En términos institucionales, la concentración del poder en el Ejecutivo, el uso discrecional de los recursos fiscales para disciplinar o castigar opositores, y las facultades otorgadas por los decretos de necesidad y urgencia (abusados, por ejemplo, por Mauricio Macri para derogar leyes del Congreso), son problemas legales, aunque no necesariamente legítimos.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "También existe un régimen sindical estatizado, en muchos casos totalitario, con métodos violentos, como se evidenció recientemente, no solo en sindicatos, sino también en la Universidad (el caso de la \"franja morada\" en la Facultad de Derecho), demostrando un control estricto del movimiento obrero que impide su organización democrática.",
+      "entidades_detectadas": [
+        "También",
+        "Facultad de Derecho",
+        "Universidad"
+      ]
+    },
+    {
+      "frase": "Formalmente se mantiene el orden constitucional, pero se niegan libertades democráticas básicas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta semana, factores del poder económico concentrado tomaron decisiones que impactan en la vida cotidiana de la mayoría: la corrida cambiaria contra el peso, impulsada por quienes buscan una devaluación para obtener más ganancias (bancos, terratenientes, etc.).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Junto a actores políticos (como los que en el Foro Empresario de Bariloche declararon su intención de impulsar una mega devaluación), esto provocó una disparada del dólar paralelo, con consecuencias inflacionarias.",
+      "entidades_detectadas": [
+        "Foro Empresario de Bariloche"
+      ]
+    },
+    {
+      "frase": "Estas decisiones, tomadas por una minoría sin consultar a la mayoría, son habilitadas legalmente, pero no democráticamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este sistema, en muchos casos, se reduce a la ley del más rico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estas son cuestiones que deben discutirse en el aniversario de los 40 años de democracia, ya que tenemos un sistema político que, a menudo, se rige por los intereses de las élites.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "También",
+    "Martínez de Hoz",
+    "Argentina",
+    "Cristina Fernández de Kirchner",
+    "Foro Empresario de Bariloche",
+    "Facultad de Derecho",
+    "Universidad",
+    "Mauricio Macri"
+  ]
+}

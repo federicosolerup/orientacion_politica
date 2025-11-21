@@ -1,0 +1,82 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo están?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No he tenido tiempo de hablar con mi equipo de producción ni con mis compañeros periodistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta transmisión será improvisada y breve debido a la falta de tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tras la noche… ¿cómo se encuentran?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, aunque con pocos recursos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Permítanme asegurarme de que… (pausa) … todo está en orden.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A esta edad uno suele olvidarse detalles como abrocharse la bragueta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una costumbre que me quedó del teatro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre hay que comprobarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es muy importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hemos vuelto a la televisión virtual, donde todos participamos desde casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He notado la abundancia de muebles de pino y cortinas con argollas de madera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(pausa)  En serio,  desde hoy hablaremos de… y de los infectólogos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recuerden mantener la cámara de la computadora encendida y a la altura de los ojos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No por debajo, porque… (pausa)  Disculpen la interrupción técnica.",
+      "entidades_detectadas": [
+        "Disculpen"
+      ]
+    },
+    {
+      "frase": "Continuemos.",
+      "entidades_detectadas": [
+        "Continuemos"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Bien",
+    "Continuemos",
+    "Disculpen"
+  ]
+}

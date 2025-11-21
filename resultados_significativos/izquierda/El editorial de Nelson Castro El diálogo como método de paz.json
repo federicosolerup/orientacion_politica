@@ -1,0 +1,66 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 5,
+      "derecha": 5
+    },
+    "score_promedio": 0.429,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina necesita imperiosamente comenzar un período de pacificación.",
+      "score": 0.207,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno le dijo al otro: \"Nos pasamos 30 años en discusiones estúpidas, llenas de personalismo por querer el poder.",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que conocen la Argentina y dicen \"¿pero cómo este país no es Canadá, no es Australia y por qué es un fracaso?\".",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es la historia de un fracaso; nació dividida.",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nació el 25 de mayo de 1810, y en 1811 Saavedra y Moreno estaban peleados casi a muerte, y así seguimos.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente debe relanzar un proceso de pacificación que significa dialogar con todos, menos con los violentos, claro, pero después con todos.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá el presidente y el resto de la dirigencia política tengan esa sabiduría.",
+      "score": 0.598,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando demuestren tenerla y la implementen, la Argentina habrá cambiado.",
+      "score": 0.251,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paz en la Argentina para todos.",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   **Correcciones de ortografía y gramática:**\n    *   Se corrigieron tildes, como en \"período\", \"puntapié\", \"diferente\", etc.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 10
+  },
+  "etiqueta_original": "neutral"
+}

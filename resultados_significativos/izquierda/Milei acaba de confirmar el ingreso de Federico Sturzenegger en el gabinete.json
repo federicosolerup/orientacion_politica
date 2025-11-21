@@ -1,0 +1,246 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 39,
+      "derecha": 7
+    },
+    "score_promedio": 0.204,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En medio de fuertes rumores que se extendieron por varias semanas, ayer finalmente el presidente Javier Milei confirmó la llegada del economista redactor del célebre DNU 70/23 Federico Sturzenegger al gabinete.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche Federico Sturzenegger fue confirmado por el presidente Javier Milei como ministro.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también se abre una pregunta, ¿podrán convivir dos economistas de perfiles muy distintos como el propio Sturzenegger y Luis Caputo en un gobierno, en un gabinete cuestionado por la falta de gestión?",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es graduado, licenciado en economía en la Universidad Nacional de La Plata, una de las más prestigiosas escuelas de economía de la Argentina, y luego completó su doctorado en el Instituto Tecnológico de Massachusetts, el célebre MIT, que ha dado la mayor cantidad de premios Nobel del mundo.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además de los cargos que ocupó en el gobierno de De la Rúa y en el de Mauricio Macri, también fue director del Banco Ciudad en la administración del jefe de gobierno de Mauricio Macri en la ciudad y diputado nacional del PRO.",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En estos periodos académicos me desempeñé como economista jefe de YPF y, luego de la privatización, como secretario de Política Económica.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante los últimos diez años dediqué mi carrera al servicio público, primero como presidente del Banco Ciudad, luego como diputado nacional y finalmente como presidente del Banco Central de la Argentina\".",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sturzenegger es el segundo economista más citado de la Argentina, después de Levi Yatt y con quien escribió varios libros, y es un hombre con misión.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Contó que tuvo una pesadilla: morirse sin ver a la Argentina moderna, próspera y sin intervencionismo estatal.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue el primer presidente del Banco Central de Mauricio Macri en la experiencia de Cambiemos tras el triunfo en las elecciones del año 2015.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fueron sacados de una entrevista que le realicé, la última entrevista que le realicé a Sturzenegger en el programa *Periodismo Puro*, en marzo de 2022.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos con este primer tramo donde Sturzenegger dice: \"Lo que cambia las expectativas de Argentina es si se encara y se cambia\".",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los problemas de Argentina no son si 3 mil millones de dólares que vencen en marzo no se pagan en el marco de un acuerdo que dice cosas para los próximos cuatro años o no se pagan porque Argentina está en *default* con el Fondo.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los problemas de Argentina son que tiene un cepo, que tiene un gobierno que destruye la actividad económica, que está cobrando un impuesto inflacionario del 50%.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, lo que va a cambiar las expectativas de Argentina no es el acuerdo con el Fondo, lo que va a cambiar las expectativas de Argentina es si se encaran cambios respecto a lo que se está haciendo ahora.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no se encaran, listo, lo del Fondo durará nada, será un día, hoy que bueno, y después, al día siguiente, nos vamos a dar cuenta de que los problemas siguen estando ahí\".",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenía razón, ese era el momento en el que se había hecho el acuerdo con el Fondo Monetario y había toda una expectativa, tanto del ministro Guzmán como del presidente Alberto Fernández, de que a partir de allí la economía se encaminase en una senda de confianza, lo que finalmente no sucedió.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar ahora a Federico Sturzenegger también en el mismo programa, también en 2022, haciendo un repaso de su propia gestión en el gobierno de Mauricio Macri diciendo: \"Veo muchas cosas que fueron un éxito en el gobierno de Macri\", escuchémoslo.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tendríamos que quizás preguntarnos eso y yo veo muchas cosas que fueron un éxito, o sea, Argentina, más allá de terminar el mandato, que realmente fue una cosa que no había ocurrido en Argentina en casi un siglo, o en un siglo, Bomesís Argentina se integró con la Unión Europea, me parece que fue un éxito, Argentina se integró en el concierto razonablemente de las naciones, fue un éxito, Argentina dejó sin déficit fiscal y creo que fue un éxito, Argentina ordenó sus tarifas y su tipo de cambio, no los dejó atrasados, entonces, con gran esfuerzo, durante el gobierno, fue un éxito, Guillermo Dietrich licitaba las rutas a la mitad del precio del kirchnerismo antes, fue un éxito, se hicieron las *low cost*, fue un éxito, digo, en la evaluación de un gobierno me parece que tiene muchas dimensiones\".",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, se le pedía una autocrítica y lo que él nos contaba era todo lo que fue exitoso el gobierno de Macri.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sturzenegger tiene un planteo más radical de las tareas que justamente modernización hay que hacer, que de alguna manera se engancha con lo que decía Espert, de que venía una segunda fase con una economía más mileísta, considerando a Caputo un moderado.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Sturzenegger ahora hablando de Javier Milei y entusiasmarse con el éxito político que empezaba a tener en 2028, es muy importante ponerse en el contexto, si en 2022, en marzo de 2022, Sturzenegger ya vio en Javier Milei un éxito de implantar sus ideas económicas, escuchémoslo.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Termina el reportaje sin preguntarte, obviamente, un personaje como Javier Milei, controversial, que ha dicho que, por ejemplo, Horacio Rodríguez Larreta es comunista, ¿por qué te parece...?\" \"Bueno, volvemos a la comunicación, o sea, yo creo que Javier ha hecho un aporte extraordinario que tenía solo él, estamos hablando de una sola persona, medio como que cambió un poquito el balance del espectro político, yo me acuerdo cuando yo era diputado del PRO, era solo te corrían por izquierda, me explico, entonces como que me parece como que se balanceó un poco eso, me parece que es extraordinariamente positivo, y además, digo, él defiende las ideas de la libertad, la idea de que el mercado es servicio y que el Estado no es servicio, el Estado es autoritarismo, el Estado es sacarte, yo comparto esas ideas profundamente y yo creo que él ha sido muy exitoso, con su estilo, ha sido muy exitoso en transmitir esa idea, creo que, digo, yo tengo chicos de 15 y de 14 años, dos varones y una nena de 12, pero entonces lo veo en lo que ellos discuten y en lo que hablan y cuando hablan de política, entonces ha logrado, me parece, transmitir una idea, sobre todo en la juventud, me parece muy promisorio, parece que la idea de la libertad, o sea, defender la libertad, defender la república, me parece que son ideas como super, super, perdón, ahora no te contesto, pero una persona que también valió la pena, que se ha incorporado a los espacios, es Ricardo López Murphy, también con su experiencia, etcétera, ¿no?",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que este fragmento es un testimonio histórico, porque en marzo de 2022, Milei, las posibilidades de que Milei llegara a ser presidente eran absolutamente infinitesimales, había sido electo diputado seis meses antes, en las elecciones de octubre de 2021, con un 15% de los votos de la ciudad de Buenos Aires, que representaban 3% a nivel nacional.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este elogio de Sturzenegger a Milei, aquel Milei insignificante, sin ninguna duda, algo debe haber marcado en la relación de ellos dos que hoy se consuma.",
+      "score": 0.446,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo creo que Sturzenegger le va a dar velocidad turbo a la construcción de las utopías de las teorías de Milei, y como pasó en el pasado, la gestión de Sturzenegger no va a tener buenos resultados, sino que va a acelerar la destrucción de la economía real, es decir, de la productiva de toda la Argentina, que es lo que venimos viendo en estos seis meses.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por otro lado, algo no menor, no hay que olvidarse de que Sturzenegger dijo en la gestión de Macri que el dólar no tenía impacto sobre la inflación.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El plan de Caputo tiene dos anclas: la fiscal y el dólar.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque parte de un diagnóstico de que la Argentina es una economía bimonetaria, con lo cual no sería extraño ver cortocircuitos muy pronto con el ministro de Economía\".",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche el presidente Milei salió a respaldar a Sturzenegger y como siempre hizo polémicas declaraciones para confirmarlo.",
+      "score": 0.633,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que Federico, entre lo que sucede es que estamos, pido, primero que yo estuve afuera, segundo es que estamos definiendo las funciones, porque lo que hay que comprender es que cambió la naturaleza de la Jefatura de Gabinete.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero nadie le va a tocar el culo a Caputo acá.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién le quiere tocar el culo a Caputo?",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me importa, le corto la mano\".",
+      "score": 0.598,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí también se refirió a la convivencia con este rotundo: \"Nadie le va a tocar el culo a Luis Caputo\", un presidente afecto a metáforas sexuales.",
+      "score": 0.438,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mentor de Javier Milei, autor de varios de sus libros, exsocio, de alguna manera, se refirió a Sturzenegger de la siguiente manera.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su léxico y su conocimiento de la economía real, la Argentina, de las empresas, de los sectores productivos, etcétera, etcétera, etcétera, está lejos del que debería ser para una Argentina en esta situación.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta definición de Giacomini sobre Sturzenegger, hay que aclarar que Giacomini le tiene afecto y respeto a Sturzenegger, contrasta con la descripción que hizo el propio presidente, el actual ministro de Hacienda, cuando lo definió como \"chanchito de yeso\".",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Javier Milei definiendo a su ministro de Economía, Caputo, como \"chanchito de yeso\".",
+      "score": 0.388,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una frase que se le atribuye a Lenin, quien, en las antípodas ideológicas del pensamiento de Sturzenegger también, muchas veces, fue tildado, igual que el ministro Sturzenegger, de dogmático.",
+      "score": 0.246,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay quienes dicen que Sturzenegger presta demasiada atención a las teorías, en un mundo de las ideas, y con poco interés en la reacción siempre compleja que la realidad tiene luego al aplicarlas.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algo similar sucedió en la gestión de Alberto Fernández con el \"loteo\" de cargos que generó un caos en distintas medidas.",
+      "score": 0.522,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son dos reclamos que casualmente hizo nada más y nada menos que el Fondo Monetario Internacional.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien este verso parece estar dedicado a un amor, se puede aplicar perfectamente a su propia experiencia política, probablemente a la visión que él tenga de la suerte de la Argentina en el cuerpo de Javier Milei.",
+      "score": 0.126,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las dos primeras experiencias de Milei terminaron en crisis.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos:** Se corrigieron los nombres y apellidos de las personas mencionadas, incluyendo:\n    *   Luis Caputo\n    *   Federico Sturzenegger\n    *   Javier Milei\n    *   Mauricio Macri\n    *   Ricardo López Murphy\n    *   Domingo Cavallo\n    *   De la Rúa\n    *   John Milton\n    *   Emiliano Estrada\n    *   Alfonso Prat-Gay\n    *   Juan José Aranguren\n    *   Carlos Melconian\n    *   Horacio Rodríguez Larreta\n    *   Levi Yatt\n    *   Giacomini\n*   **Ortografía:** Se corrigieron errores de ortografía, incluyendo el uso correcto de tildes, mayúsculas y minúsculas, comas y otros signos de puntuación.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 46
+  },
+  "etiqueta_original": "neutral"
+}

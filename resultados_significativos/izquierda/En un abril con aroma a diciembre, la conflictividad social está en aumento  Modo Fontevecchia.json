@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 1
+    },
+    "score_promedio": 0.124,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Volviendo al presente, hay quienes trabajan jornadas de 10, 12 o 14 horas y no llegan a fin de mes; estudiantes universitarios, a los que se les está informando que, por ejemplo, la prestigiosa Universidad de Buenos Aires no podría abrir sus puertas en el segundo cuatrimestre si no recibe los fondos; hay quienes deben cerrar negocios porque ya no pueden afrontar los alquileres de sus locales y las tarifas de los servicios, o fueron despedidos de sus trabajos estatales.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa fue la consigna del \"octubre chileno\" de 2019, ese estallido que se dio luego de que se reprimiera una manifestación de estudiantes secundarios que intentaban saltar el molinete del subte tras un aumento de 30 pesos, y terminó con intentos de reformas constitucionales y un gobierno de izquierda, como el de Gabriel Boric, totalmente por fuera del sistema político.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, no fueron los 30 pesos chilenos (que, si podríamos traducirlo a la Argentina, sería algo así como 100 pesos argentinos) lo que generó el salto de violencia en Chile después de muchos años de crecimiento, sino los 30 años anteriores de acumulación de diferencias sociales.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También ocurrió en el caso de la Primavera Árabe de 2011, toda una serie de dictaduras que cayeron luego de regímenes de 40 años de poder, desatadas después de que un vendedor ambulante se prendiera fuego frente a la plaza central de Túnez, porque la policía le había quitado el carro para vender.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con esto queremos decir que el malestar social se acumula hasta que, por algún motivo, hay una escena, un hecho que termina sintetizando y escenificando ese malestar y desata la furia de la sociedad que había estado siendo acumulada.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Textualmente, dijo: \"Hay políticos a los que nada les hace daño hasta que, de golpe, reciben una 'malla' imprevista, y cuando se produce ese daño, sería más o menos como 'la primera': a ese no le entran las balas, y en determinado momento le entró, y cuando le entró, ese daño, de ahí en más, la caída es irrefrenable\".",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Será la represión de las marchas pidiendo elementos, será un futuro paro de la CGT, los escándalos en el interior de su propio partido que comienzan a erosionar a La Libertad Avanza, como el que sucedió ayer en la discusión de las autoridades en la Cámara de Diputados.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a reconstruir ese evento con algunos fragmentos de video, por ejemplo, los saqueos en Córdoba en diciembre de 2001.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el entonces ministro de Economía, Domingo Cavallo, anunció el corralito, y luego cuando el presidente Fernando de la Rúa, en cadena nacional, decretó el estado de sitio.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno se reunió con la CGT para hablar de la nueva ley de bases, en la que consistiría el proyecto de reforma laboral, según los trascendidos.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, previamente, la cúpula de la CGT había estado reunida con el bloque de Unión por la Patria, a quienes le aseguraron que ven condiciones para votar negativamente el DNU en el Congreso, que ya había sido votado negativamente en el Senado, y de esa manera el DNU dejaría de tener validez.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien el paro general no tiene fecha, el camionero Pablo Moyano aseguró que están discutiendo la fecha, y de diferentes sectores de la central obrera se dijo que se movilizará el 1 de mayo, Día del Trabajador.",
+      "score": 0.555,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "(Se reproduce fragmento de audio)\n\nEl sociólogo Carlos De Angelis habla de una particular teoría del conflicto y del rol equivocado que tiene el Estado Argentino conducido por Milei.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "(Se reproduce fragmento de audio)\n\nBueno, como decíamos, en esa sismogénesis, en la que se va avanzando paso a paso, otra de las claves fue ayer la situación en la 9 de Julio, donde los movimientos sociales tomaron por sorpresa la 9 de Julio, y luego fueron desalojados por la fuerza de seguridad.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar uno de esos momentos de ayer en la 9 de Julio.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

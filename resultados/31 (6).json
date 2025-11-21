@@ -1,0 +1,1105 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Estamos viviendo un momento de incertidumbre y tenemos que hablar de lo que se viene: las elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El domingo se realizará el debate, que es muy importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé si sienten que hace un tiempo había una ventana de esperanza dentro del oficialismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Recuerdan que incluso antes de que se definiera la candidatura, había un viento de derrota?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy eso ya no sucede.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo al aire a Andrés Larroque.",
+      "entidades_detectadas": [
+        "Andrés Larroque"
+      ]
+    },
+    {
+      "frase": "Andrés, Jorge Rial, de Radio Día, buenos días.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Andrés",
+        "Radio Día"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** Buenos días, ¿cómo están?",
+      "entidades_detectadas": [
+        "Jorge Rial:*",
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Bien.",
+      "entidades_detectadas": [
+        "Bien",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Creo que ya lo hemos hablado alguna vez, pero en algún momento había una especie de nube de derrota sobrevolando al peronismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy hay una ventana de esperanza mucho mayor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Sin duda.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "Creo que a partir de la definición de la fórmula, que fue un logro de unidad, y después, en un contexto muy complejo previo a las PASO, por todo lo que atravesó Sergio Massa en términos de ministro de Economía y candidato, con la espada de Damocles del entendimiento con el FMI y el desembolso que lo condicionó hasta la devaluación posterior a las PASO… creo que a partir de ahí Sergio Massa pudo retomar la iniciativa y está muchísimo más consolidado.",
+      "entidades_detectadas": [
+        "ministro de Economía",
+        "FMI",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "La campaña tiene otro tenor, con una centralidad más clara en nuestro candidato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Larroque:** Claro.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Ya los convenció a todos, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Porque al principio había cierta resistencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** No, no, yo siempre fui optimista y lo apoyé desde el primer momento.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "Siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Larroque:** Sí, sin duda.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Es más, te diría que hoy en Argentina, el único candidato a presidente es Sergio Massa.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Los otros candidatos son producto de la circunstancia, pero en términos del porte que requiere un candidato a presidente, sin duda es Sergio Massa.",
+      "entidades_detectadas": [
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Y el candidato a vencer, es Javier Milei?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "¿Patricia Bullrich ya está fuera de la cancha?",
+      "entidades_detectadas": [
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** No lo sé, porque el tema de las encuestas es muy difuso.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "El escenario se está cerrando y es muy complejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí me queda claro que tenemos que meternos en el balotaje y, a partir de ese momento, empieza otra etapa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Está de acuerdo con lo que pasó el domingo, con Massa anunciando un gobierno, no una coalición, sino con gente de otros partidos?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿Está",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Estaban Morales, el gobernador de Salta… ¿está de acuerdo con eso?",
+      "entidades_detectadas": [
+        "¿",
+        "Salta",
+        "Estaban Morales"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Mire, Argentina y el mundo están atravesando una coyuntura muy compleja.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Mire",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En su momento, mucha gente se enojó, pero planteamos que era Massa o disolución nacional, justamente porque estamos frente a una situación de injerencia de poderes extranjeros a través de los candidatos de la oposición, que ponen en riesgo la continuidad del Estado nacional como lo hemos conocido.",
+      "entidades_detectadas": [
+        "Estado nacional",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Entonces, en ese sentido, todas las fuerzas que se puedan sumar para desarrollar un gobierno que resuelva los problemas de la gente, son bienvenidas.",
+      "entidades_detectadas": [
+        "resuelva"
+      ]
+    },
+    {
+      "frase": "Me llama la atención que Javier Milei ya no habla de ganar en primera vuelta.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Ayer hizo declaraciones diciendo que van a ir al balotaje con Massa.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Cambió algo?",
+      "entidades_detectadas": [
+        "¿Cambió",
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:**  Lo que nos dicen quienes hacen encuestas y analizan es que hubo una disparada inicial de Milei, luego un estancamiento y, como hablamos al principio, una recomposición de la figura de Sergio Massa.",
+      "entidades_detectadas": [
+        "Milei",
+        "Sergio Massa",
+        "Andrés",
+        "analizan"
+      ]
+    },
+    {
+      "frase": "El 22 de octubre sabremos dónde estamos parados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Reapareció Cristina Fernández de Kirchner, había mucha expectativa.",
+      "entidades_detectadas": [
+        "Jorge Rial:*",
+        "Reapareció Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "¿Qué rol tiene hoy en todo esto?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "No te pregunto qué importancia tiene, pero ¿qué rol juega?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Creo que Cristina Fernández de Kirchner es el sostén y, de alguna manera, marca el marco.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Como usted dice, en un equipo todos tienen roles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy necesitamos que Massa meta los goles, y después hay que armar una buena defensa, una línea de cuatro… en el medio, ver quién lleva la pelota hasta el candidato que debe acumular.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Cada uno, en su medida y responsabilidad, nos vamos acomodando a la coyuntura electoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Y cuál es su rol en este supuesto campo de juego?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Brillante?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Apoyar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál es su rol hoy?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Correr todo el tiempo y recuperar la pelota.",
+      "entidades_detectadas": [
+        "Correr",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Siempre me veo en ese lugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi tarea en términos de gestión es muy sensible, en la provincia más grande del país, con mucha asimetría, sobre todo en el conurbano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos abocamos a eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Qué le pasa cuando escucha, sobre todo a Patricia Bullrich, cuyo lema de campaña es \"hacer desaparecer a quien le demos\"?",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Jorge Rial",
+        "¿Qué"
+      ]
+    },
+    {
+      "frase": "No le escuché otra cosa en los últimos quince días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Larroque:** Es un poco triste, porque creo que quien se incorpora a la política lo hace pensando en valores positivos.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Ellos formaron parte, o siguen formando parte, del PRO, cuyo planteamiento inicial era propositivo.",
+      "entidades_detectadas": [
+        "PRO"
+      ]
+    },
+    {
+      "frase": "Me parece que se les cayó la careta y la cuestión propositiva quedó atrás hace mucho tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Y qué contestan a quienes hablan de un supuesto pacto entre Milei y Massa?",
+      "entidades_detectadas": [
+        "Milei",
+        "Jorge Rial",
+        "¿",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Son cosas descabelladas.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "El único pacto es con la gente, con los argentinos que la están pasando mal o que tienen expectativas y sueños y necesitan de un Estado que los apuntale.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Con las últimas medidas, que se tomaron a partir del último acuerdo con el FMI –hasta entonces no se podía tomar ninguna medida–, ¿siente que el peronismo que abrazaba la gente era lo que se necesitaba?",
+      "entidades_detectadas": [
+        "FMI",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** Para la política y para el peronismo, el lugar de la impotencia es muy complejo, porque la sociedad tiene expectativas en quienes buscan un rol dirigencial.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "La no resolución del desembolso con el FMI nos ataba de pies y manos en materia de gestión.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Había muchas cuestiones que venían siendo demandadas por diversos sectores.",
+      "entidades_detectadas": [
+        "Había"
+      ]
+    },
+    {
+      "frase": "Creo que empezamos a generar un alivio muy importante a partir de que Sergio Massa, de manera muy creativa y con un esfuerzo notorio, resolvió de manera heterodoxa: primer país en el mundo que paga con bonos al FMI, consigue un crédito del CAF y después un crédito de Qatar, logrando la libertad para tomar las medidas que se demandaban.",
+      "entidades_detectadas": [
+        "CAF",
+        "FMI",
+        "Qatar",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Eso lo sorprendió, no, Andrés?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Andrés",
+        "¿Eso"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** A mí no, porque creo que él es un gran jugador, audaz, creativo.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Volví a tener trato con él en 2019, cuando se forma el Frente de Todos, y en distintas charlas me quedó clara su capacidad, su voluntad… y me parece que la está desplegando.",
+      "entidades_detectadas": [
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** Andrés, te saluda Nazarena Lamas.",
+      "entidades_detectadas": [
+        "Nazarena Lamas",
+        "Jorge Rial",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Hablábamos de Sergio Massa, pero ¿qué pasa con el rol de Axel Kicillof?",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "¿qué",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "¿Está jugando en conjunto?",
+      "entidades_detectadas": [
+        "¿Está"
+      ]
+    },
+    {
+      "frase": "¿Unión por la Patria está apoyando su campaña como gobernador?",
+      "entidades_detectadas": [
+        "¿Unión",
+        "Patria"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Mañana tenemos un gran acto en Ensenada, en la cancha de Gimnasia y Esgrima de La Plata, a las 16 horas, con Sergio Massa y Axel Kicillof como oradores.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Mañana",
+        "Sergio Massa",
+        "Andrés",
+        "Gimnasia y Esgrima de La Plata",
+        "Ensenada"
+      ]
+    },
+    {
+      "frase": "La idea es marcar una continuidad en la provincia de Buenos Aires, como el gran acto en Tucumán, que relanzó la campaña.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Estamos trabajando mancomunadamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Axel ha demostrado, frente a un resultado complejo, poner al peronismo en primer lugar y tenemos que consolidar esa situación.",
+      "entidades_detectadas": [
+        "Axel"
+      ]
+    },
+    {
+      "frase": "Un triunfo nacional requiere un rol preponderante de la provincia de Buenos Aires.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** A partir de los últimos entredichos entre Máximo Kirchner y Axel Kicillof respecto a Seguimiento Mental (o nuevo cancionero o no), ¿fue otra oportunidad para hablar de discrepancias internas?",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Seguimiento Mental",
+        "¿",
+        "Jorge Rial",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** No vi ningún entredicho.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Se hacen interpretaciones intencionadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El discurso de Axel fue muy largo, como la intervención de Máximo… se pueden sacar partes de contexto para generar tensión.",
+      "entidades_detectadas": [
+        "Axel",
+        "Máximo"
+      ]
+    },
+    {
+      "frase": "Pero, como decía el general Perón, hay que mirar al frente, donde está el adversario.",
+      "entidades_detectadas": [
+        "Perón"
+      ]
+    },
+    {
+      "frase": "No podemos distraernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Buenos días Andrés León, te saludamos.",
+      "entidades_detectadas": [
+        "Buenos",
+        "Andrés León",
+        "Jorge Rial:*"
+      ]
+    },
+    {
+      "frase": "¿Y cómo se trabaja con los intendentes?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sabemos que en muchos casos, cuando ven que la cosa se complica, empiezan a repartir boletas cortadas…\n\n**Andrés Larroque:** No, no fue así.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Los intendentes están comprometidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El triunfo en la provincia de Buenos Aires en las PASO es un logro que tenemos que consolidar.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Los intendentes son vitales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí se dio un fenómeno en las PASO que nadie mencionó: el crecimiento de Javier Milei.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "En las encuestas previas a las PASO se discutía si estaba cerca de los 10 o 20 puntos; terminó en 29.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso cambió el escenario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el conurbano bonaerense es donde peor le fue a Milei.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "No veo una situación para alarmarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** En medio de esa charla que tuvo Cristina Fernández de Kirchner, casi de manera cómica, José… ¿se imaginan si hubiéramos hecho esas PASO que muchos querían, con Scioli de un lado, con Grabois del otro…?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Scioli",
+        "Cristina Fernández de Kirchner",
+        "Grabois"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Es cierto.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "La cabeza que unió todo fue Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Ella siempre planteó la unidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al menos a mí me tocó hablar con ella días previos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Y hablaba de Massa como cabeza de esa unidad?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Creo que cuando Sergio Massa entró al Ministerio de Economía –estábamos en un momento muy complejo, donde se hablaba incluso de asamblea legislativa–, la idea era llegar con posibilidades electorales, lo cual considero una hazaña.",
+      "entidades_detectadas": [
+        "Ministerio de Economía",
+        "Andrés",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Desde ese momento, él se había ganado el legítimo derecho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después pasaron un montón de cosas, y finalmente primó la cordura y pudimos conformar la fórmula.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** O sea, el camino a ser candidato de Massa empezó cuando entró al Ministerio de Economía.",
+      "entidades_detectadas": [
+        "Ministerio de Economía",
+        "Jorge Rial",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Fue una decisión trascendental.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Estábamos en una situación muy complicada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos le recomendaban no ir al Ministerio, pero él tomó una decisión patriótica.",
+      "entidades_detectadas": [
+        "Ministerio"
+      ]
+    },
+    {
+      "frase": "Eso le dio el mérito de llevar una campaña de las más complejas que recuerdo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Fue Massa el nombre que unió a todos, y que Cristina Fernández de Kirchner eligió?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿",
+        "Cristina Fernández de Kirchner",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Cristina Fernández de Kirchner nunca suelta prenda.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Ella siempre habló de la unidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como conductora y líder, no da pistas fácilmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es muy crítica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Hay una sensación desde que Massa asumió el superministerio: el poder real pasa por él.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández sigue siendo presidente, pero pasó a un segundo plano.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Creo que Alberto Fernández tomó una decisión muy importante, después de discusiones.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Lo anunció por Twitter, y eso nos abrió la posibilidad de un debate de cara al proceso electoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más allá de las contradicciones y discusiones públicas, finalmente tomó una decisión coherente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Dar un paso al costado?",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** No creo que haya dado un paso al costado, sino que, como a todos, cada uno tiene que saber cuál es su rol.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Acá tenemos que llevarle la pelota a Sergio Massa, y él es quien debe patear.",
+      "entidades_detectadas": [
+        "Acá",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Qué lo sorprendió cuando se reencontró en 2019 con Sergio Massa?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿Qué",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "La relación era muy mala hasta entonces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Larroque:** No sé si hasta entonces, pero un par de años antes sí.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Lo vi contento de volver al peronismo, de estar con sus compañeros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se lo veía cómodo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fuimos teniendo charlas que no corresponde hacer públicas, pero que fueron acercando visiones y miradas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Una especie de examen para que volviera al peronismo?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** No, no.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Es como cuando te encuentras con un amigo con quien hubo una discusión, y te pones al día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Máximo Kirchner y Grabois mantuvieron un contacto más permanente, incluso por el debate parlamentario.",
+      "entidades_detectadas": [
+        "Grabois",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "Cuando se conformó el Frente de Todos, nos pusimos a trabajar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Cuando se reencontraron en 2019, ¿se imaginaban que años después él iba a ser el candidato del peronismo?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** No sé si en esta oportunidad, pero sí que era una figura joven con proyección.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "A veces pasan cosas, cambia el mundo, cambia la Argentina… es difícil imaginar.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** Supongamos que gana Milei… Dios no lo quiera.",
+      "entidades_detectadas": [
+        "Milei",
+        "Jorge Rial",
+        "Supongamos",
+        "Dios"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** No lo supongamos.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Estamos jugando un partido y tenemos que ganarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En medio de un partido, uno no… después, cuando termine, haremos las charlas correspondientes, pero mientras tengamos chance de ganar, hay que jugar y concentrarse en eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Hasta dónde están dispuestos a ampliar para ganar?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿"
+      ]
+    },
+    {
+      "frase": "El otro día, Massa, con gobernadores radicales, les dijo que algunos dirigentes del PRO… ¿hasta dónde se puede ampliar la coalición?",
+      "entidades_detectadas": [
+        "PRO",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Más que para ganar, para resolver los problemas de los argentinos.",
+      "entidades_detectadas": [
+        "Más",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Todo el que esté dispuesto a dar esa discusión… Cristina Fernández de Kirchner también lo dice: a veces hay que encontrar grandes lineamientos de acuerdo, aunque haya diferencias en otros aspectos.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "La Argentina necesita una discusión madura, un proyecto de país a mediano y largo plazo, y salir del hiperconjunturalismo.",
+      "entidades_detectadas": [
+        "La Argentina"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Está de acuerdo con el planteo de Massa de ampliar la coalición?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿Está",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Sin duda.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Cuál sería el límite de esa ampliación?",
+      "entidades_detectadas": [
+        "¿Cuál",
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "Voy a poner un nombre: Gerardo Morales, cuestionado por Milagros Sala… ¿es un límite?",
+      "entidades_detectadas": [
+        "Milagros Sala… ¿",
+        "Gerardo Morales"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** Lo importante es que el peronismo gane, porque eso le dará mejores condiciones, incluso a Milagros Sala, que atraviesa una situación aberrante hace muchos años.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "Siempre estará mejor, por más diferencias que tengamos, si hay un gobierno peronista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Habla de una discusión madura y de ampliar el espacio, pero ¿qué rol juega el sindicalismo?",
+      "entidades_detectadas": [
+        "Habla",
+        "Jorge Rial:*"
+      ]
+    },
+    {
+      "frase": "Barrio Nuevo, por ejemplo, apoyaba a Hugo Moyano y ahora se ve alineado con Javier Milei.",
+      "entidades_detectadas": [
+        "Hugo Moyano",
+        "Barrio Nuevo",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "**Andrés Larroque:** El sindicalismo es mucho más que Barrio Nuevo.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Barrio Nuevo"
+      ]
+    },
+    {
+      "frase": "Barrio Nuevo hace la suya.",
+      "entidades_detectadas": [
+        "Barrio Nuevo"
+      ]
+    },
+    {
+      "frase": "Es un pícaro que hace lo que quiere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me parece una figura representativa del movimiento obrero argentino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La amplia mayoría de los dirigentes del movimiento obrero hoy están alineados con el peronismo, como siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Cuervo, un abrazo.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Cuervo"
+      ]
+    },
+    {
+      "frase": "Una gran exposición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Interesante esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a ampliar lo de Morales… nadie dijo que no.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Dentro del círculo de Morales no cayó muy bien que esté avalando implícitamente la posibilidad de ampliar, aunque después le han bajado el precio diciendo que es un acto meramente institucional.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "¿Se imaginan un gobierno integrado por radicales?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Larroque:** Tienen que ganar, primero.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Tienen"
+      ]
+    },
+    {
+      "frase": "Con Massa, por supuesto que sí.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Massa es aliado de Gerardo Morales.",
+      "entidades_detectadas": [
+        "Gerardo Morales",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen buen vínculo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Frente Renovador se formó en Jujuy, donde Massa fue parte de la coalición que llevó a Gerardo Morales al gobierno.",
+      "entidades_detectadas": [
+        "Frente Renovador",
+        "Jujuy",
+        "Gerardo Morales",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Morales tiene un buen vínculo con Massa.",
+      "entidades_detectadas": [
+        "Morales",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Si está ahí, es por algo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Había",
+    "Jorge Rial",
+    "Máximo Kirchner",
+    "Patricia Bullrich",
+    "Buenos",
+    "¿Unión",
+    "Sabemos",
+    "La Argentina",
+    "Milagros Sala",
+    "Milagros Sala… ¿",
+    "Grabois",
+    "Claro",
+    "Salta",
+    "Andrés Larroque",
+    "ministro de Economía",
+    "provincia de Buenos Aires",
+    "analizan",
+    "Radio Día",
+    "Hugo Moyano",
+    "¿Recuerdan",
+    "Alberto Fernández",
+    "Vamos",
+    "Morales",
+    "Jujuy",
+    "Andrés León",
+    "Volví",
+    "Reapareció Cristina Fernández de Kirchner",
+    "Cristina Fernández de Kirchner",
+    "Máximo",
+    "Perón",
+    "Más",
+    "Cuál",
+    "Argentina",
+    "resuelva",
+    "Ayer",
+    "Después",
+    "Mañana",
+    "¿",
+    "Jorge Rial:*",
+    "Gimnasia y Esgrima de La Plata",
+    "Javier Milei?",
+    "Dios",
+    "Barrio Nuevo",
+    "Estado nacional",
+    "Siempre",
+    "Cuervo",
+    "¿Está",
+    "Frente de Todos",
+    "Mire",
+    "Habla",
+    "¿Qué",
+    "Gerardo Morales",
+    "Acá",
+    "Buenos días",
+    "¿Cuál",
+    "Seguimiento Mental",
+    "Scioli",
+    "Bien.",
+    "FMI",
+    "Nazarena Lamas",
+    "Ministerio",
+    "Andrés",
+    "¿Eso",
+    "Axel Kicillof?",
+    "Massa",
+    "Javier Milei",
+    "Voy",
+    "Fuimos",
+    "Ensenada",
+    "Ministerio de Economía",
+    "Correr",
+    "Tienen",
+    "Estado",
+    "¿Cambió",
+    "PRO",
+    "Patria",
+    "Estaban Morales",
+    "Sergio Massa",
+    "CAF",
+    "Qatar",
+    "El Frente Renovador",
+    "Axel Kicillof",
+    "Axel",
+    "¿qué",
+    "la Argentina",
+    "Supongamos",
+    "Milei"
+  ]
+}

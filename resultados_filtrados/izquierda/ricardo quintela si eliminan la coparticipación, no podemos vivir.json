@@ -1,0 +1,53 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Lo vamos a reunir seguramente el viernes o el sábado en Tucumán para compartir una charla con Massa y también participaremos en un acto con el gobernador de la provincia de Tucumán.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Me parece extraño, porque en nuestro caso, siendo la provincia más pobre de la República Argentina en cuanto a recursos financieros que recibe de la Nación, estamos pudiendo dar 55.000 pesos que están cobrando las personas; esos 55.000 pesos, más un 5% al básico, y otras medidas como el congelamiento de tarifas públicas de agua, energía, Internet para Todos, el transporte público de Capital y Chilecito.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Cuando uno lee la plataforma o escucha las propuestas de un candidato a presidente como Javier Milei, hay un punto que me gustaría saber su opinión.",
+      "entidades_detectadas": [
+        "javier",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "En términos de vivienda, en el gobierno de Macri se construyeron 400 viviendas en 4 años; en el gobierno de Alberto Fernández y Cristina Fernández de Kirchner, vamos a terminar nuestra gestión con más de 5.500 viviendas entregadas.",
+      "entidades_detectadas": [
+        "alberto",
+        "macri",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Con el gobierno de Alberto Fernández y Cristina Fernández de Kirchner, no solo recuperamos esos 1800 puestos de trabajo, sino que hemos creado más de 3500 nuevos puestos de trabajo.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "La Rioja ocupa los primeros lugares en generación de empleo genuino (estábamos segundos detrás de Catamarca, hoy terceros porque nos pasó Neuquén por el gasoducto).",
+      "entidades_detectadas": [
+        "neuquén"
+      ]
+    },
+    {
+      "frase": "Competíamos con otras circunstancias, y teníamos a Milei en 14-15 puntos y Juntos por el Cambio en 22-23 puntos.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

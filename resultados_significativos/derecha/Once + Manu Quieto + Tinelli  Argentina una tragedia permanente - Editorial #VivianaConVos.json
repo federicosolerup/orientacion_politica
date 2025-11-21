@@ -1,0 +1,356 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 54
+    },
+    "score_promedio": 0.724,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Recuerdo estar trabajando para C5N y a las once o doce de la noche estaba cubriendo todo lo que pasaba.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el ejemplo más claro de que en Argentina la corrupción mata.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son las que se vivieron aquí en la estación de Once luego de este trágico hecho.",
+      "score": 0.489,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, recuerdo que esa noche y el día siguiente, yo recuerdo que en ese momento había hablado con la mamá de Pablo Menguini.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo loco es que, al poco tiempo de esta tragedia, Cristina Fernández de Kirchner, con cero empatía, subía a un tren.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé si en un ataque de locura o de cinismo y demencia decía esto, ¿te acordás?",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia permanente.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí veíamos a una Cristina más joven, a un Randazzo más joven, haciendo burlas o bromas con la tragedia de muchísimas víctimas y de muchas familias de víctimas.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora estamos viviendo otra tragedia: se quemó el 12% de una provincia y el presidente Alberto Fernández, en vez de estar ahí, se fue ayer a inaugurar un polideportivo en Santa Clara.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero con esto es posible que existan esos deportistas.",
+      "score": 0.273,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, cuando me pregunto qué tiene Alberto Fernández en la cabeza, me lo pregunto de verdad, además de pelo, ¿qué tiene?",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué vergüenza, mientras pasa lo que pasa en la Argentina y en la provincia de Corrientes.",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Déjennos, por lo menos, elegir las prioridades que tiene esta Argentina que es una tragedia permanente.",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirá lo que dice el presidente Alberto Fernández: \"Todos los días tengo que luchar contra la mentira instalada\".",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miente tanto el presidente que ya no sabés cuándo dice la verdad o, de verdad, cuándo está mintiendo, porque hizo de la mentira una forma de vida, un estilo de gobierno.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso no dudó en jurar por su hijo cuando fue el Olivos Gate, negando la fiesta.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Le comprarías un auto usado al presidente Alberto Fernández?",
+      "score": 0.735,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el Estado está ausente, a veces aparecen los Alfredo Casero.",
+      "score": 0.471,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te manda un beso Alfredo que te quiere y le estás rompiendo con esta colecta, con esta donación a Corrientes.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La misma guita la destinó Alberto Fernández a su comitiva, que incluía a Juan Cabandié, para ir a Barbados, mientras Corrientes se prendía fuego.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Vos viste a Pablo Echarri?",
+      "score": 0.234,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Vos no viste a Pablo Echarri?",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Ofelia Fernández, a Nancy Dupláa, la mujer de Pablo Echarri, a Hebe de Bonafini, a Estela de Carlotto, diciendo \"che, qué bien lo de Maratea, qué bien lo de Casero\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Será que esa gente solo agradece o menciona a otra gente solidaria cuando le pagan?",
+      "score": 0.468,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero de Robando le queda mejor, cantando con Amado Boudou en Sábado de Agud.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antipolítica\", le dice a Maratea.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No te da vergüenza meterte con la gente de Corrientes cuando un pibe como Maratea logró conseguir más de 100 palos?",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero escuchar a los bomberos de Corrientes, que son los que realmente necesitaron la ayuda de Santiago Maratea, y cómo le agradecen en este video, ¿no lo tenemos?",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Solo no sé cómo arrancar el día, si seguiré ayudando a apagar los incendios de Corrientes o prender fuego al bobo del cantante de La Mancha de Rolando.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, me arrancó a enojar un montón de cosas sobre La Mancha de Rolando y cómo se mantiene La Mancha de Rolando, que por algún motivo le dicen La Mancha de Robando.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tipo es parte de un grupete que se le paga para hablar mal de uno o de otro, en este caso para hablar mal de mí.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo le diría, ¿qué imagen, si no te conoce nadie, boludo?",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero escuchate decir antes a los bomberos de Corrientes cómo le agradecen a Maratea, que es lo único que importa, finalmente.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el cuartel de bomberos voluntarios de Verón de Astrada, quien le dice en ese momento, \"infinita gracias.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su novio le entregó la torta.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia permanente.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero mirá esta parte del documental que recuerdo que lo pusimos el año pasado sobre Milagro Sala, para saber quién es esta señora, porque es una grieta política y no una brecha política.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Penélope ya le estaban pegando entre cinco a un chico en la pieza de Milagro.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, con no decir lo que a ella le gustaba, su hija, Claudia, me quedaron con un cigarro en la vieja.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le tiraban huevazos a este impresentable del Pata Medina.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"¿Qué le hace una mancha más al tigre, Pata Medina?\".",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡A la boca no doble más!",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡A la boca no doble más!",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡A la boca no doble más!",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡No se quiere que la boca no doble más!",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡A la boca no doble más!",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡A la boca no doble más!",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡A la boca no doble más!",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡No se quiere que la boca no doble más!",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡A la boca no doble más!",
+      "score": 0.892,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo Baradel, \"el libro de Cristina Fernández de Kirchner debe ser de lectura obligatoria en todas las escuelas\".",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El libro de Cristina debe ser de lectura obligatoria en todas las escuelas\".",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente nos dice...",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El principal objetivo después de la pandemia es que la Argentina vuelva a educarse.",
+      "score": 0.701,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El principal objetivo después de la pandemia, dice Alberto Fernández, es que la Argentina vuelva a educarse.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes, Alberto Fernández, son los responsables de que millones de chicos hayan dejado el colegio.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y dice que el principal objetivo después de la pandemia es que la Argentina vuelva a educarse.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al Kun Agüero, como a Tevez, nadie le regaló nada.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y tiene todo el derecho del mundo, porque vive en democracia, a decir lo que se le canta el trasero.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dijo a Macri \"Nasi, Milei e igual de Wolff\" y pidieron que sea repudiada en el Congreso.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No puede ser que vendan las vacas al precio que les dan y que le dicen que se sacrifican, que se levantan a las 6 de la mañana.",
+      "score": 0.557,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia permanente.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le importaba la Mesa del Hambre.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo la cantidad de veces que Marcelo Tinelli me hacía echar de los diferentes medios en los que trabajaba, porque le molestaba lo que yo decía o lo que yo pensaba.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me acuerdo que una vez ensució a su ex mujer, Paula Robles, en una tapa de revista, diciendo que le había sido infiel con Juan Darthés.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pagale a la madre de tus hijos lo que le corresponde\".",
+      "score": 0.5,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que le debo ya continuar a Tinelli.",
+      "score": 0.644,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le debés guita en medio planeta, ¿no te da vergüenza?",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 68
+  },
+  "etiqueta_original": "neutral"
+}

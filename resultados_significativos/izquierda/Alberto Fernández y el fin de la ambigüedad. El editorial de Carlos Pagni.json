@@ -1,0 +1,401 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 51,
+      "derecha": 26
+    },
+    "score_promedio": 0.323,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ese momento, en muchos gobiernos de la historia argentina, y sobre todo desde la reposición de la democracia en 1983 hasta ahora, es cuando esas administraciones, esos gobiernos, definen su perfil, definen la identidad, los contornos con los cuales van a entrar en los libros de historia.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La elección por parte de **Cristina Fernández de Kirchner** de **Alberto Fernández**, su proclamación a través de un tuit, fue una apuesta a la ambigüedad, a elegir como presidente a un delegado, no a pesar de, sino porque expresaba -o nos había hecho creer que expresaba- ideas distintas a las de **Cristina Fernández de Kirchner**.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una encrucijada económica: el gobierno tiene que definir un programa económico para poder renovar la deuda de 42.000 millones de dólares con el Fondo Monetario Internacional, y, además, ligada a esa encrucijada económica, hay otra encrucijada geopolítica, porque le están pidiendo desde el exterior que defina su alineamiento.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Alberto Fernández** hace ya tiempo le dijo al *Financial Times* que él menospreciaba los programas económicos, que prefería no tener programa económico.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente haya sido una decisión, como decía antes, estratégica.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero va a ser imposible negociar con el Fondo Monetario el programa que le evitaría al gobierno tener que entrar en *default* sin fijar ese programa económico.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él prometió, siempre hay un problema con los tiempos en este gobierno -muy llamativo- prometió que para esta semana, para la primera semana de diciembre, iba a mandar al Congreso un programa plurianual de cinco años, de tal manera de distribuir en esos cinco años los ajustes a los que está obligada la economía argentina.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no solamente el Congreso no está en posibilidades, esta semana, de empezar a tratar ese programa plurianual.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero se habló de que iban a conseguir -y el Senado se lo fijó por escrito al Poder Ejecutivo, el bloque de senadores peronistas- cambios en los plazos para devolver el dinero.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se habló de reducir, de aliviar, exigencias del FMI a cambio de acciones climáticas, pasó como un delirio.",
+      "score": 0.461,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La última idea, la última ocurrencia, fue intentar una aproximación con China, cederle a China iniciativas de carácter nuclear a cambio de que China financiara a la Argentina en sustitución del FMI.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los chinos, que como vamos a ver después ocupan un lugar importante en el fondo, le dijeron: \"No, no.",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "China no va a poner un dólar en la Argentina si no arreglan con el fondo\".",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era obvio que China, que es una de las dos grandes potencias que hoy rigen la escena internacional, no iba a elegir a la Argentina en detrimento o en contra de la arquitectura financiera internacional a la que China quiere pertenecer, inclusive quiere dominar.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se habló ahora, en una picardía criolla, de que antes de sentarnos con el fondo le vamos a exigir una autocrítica por el programa que hicieron en el gobierno de **Macri**, que es el programa contrapartida de aquel crédito de 57.000 millones de dólares que recibió el gobierno de **Macri**.",
+      "score": 0.322,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el fondo aclararon: \"No, no, no hay ninguna autocrítica, lo que vamos a hacer es una explicación de rutina, como hacemos siempre, de los programas que implican muchos volúmenes de dinero\".",
+      "score": 0.186,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si dijeran que ese programa no funcionó, los que autorizaron esos desembolsos, que son los países que rigen el fondo, incluidos China y Rusia, tendrían que explicar por qué cedieron plata a cambio de un programa fallido.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea que es una ilusión pensar que el FMI va a decir algo así como \"nos equivocamos con Macri\".",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, fueron estos funcionarios a discutir presupuesto, política cambiaria, emisión monetaria, tarifas de los servicios públicos, es decir, subsidios al consumo de energía y gas, que es el gran rubro del gasto público, y se encuentran del otro lado, no con **Kristalina Georgieva**, se encuentran con seis funcionarios cuyo nombre ni siquiera uno conoce, que son expertos del Fondo Monetario Internacional en esas materias, es gente que sigue la política económica argentina en materia de tarifas, en materia de gasto público, en materia de emisión monetaria, y empieza una discusión que es lo contrario del humo, hay que sacar los cuadros de Excel y empezar a ver número por número, partida por partida, y discutir algo que, con perdón de la palabra, se llama ajuste.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "1750 es el nivel al que llegó el riesgo país, es decir, el riesgo de esos bonos.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Guzmán** espera que el fondo no descalifique esa negociación.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, una vez que se discute todo el esqueleto de la economía argentina con esos técnicos sin nombre y apellido, por decirlo de alguna manera, hay que redactar una carta de intención que obviamente la redacta el país, pero la tiene que aprobar el que concede el crédito.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro detalle, el área de la cual depende la Argentina en el Fondo Monetario, que es lo que se llama la Dirección del Hemisferio Occidental, es decir, de América, de los países de América, hoy está vacante.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un brasileño prestigioso en el mundo de los economistas, fue el presidente del Banco Central de Brasil con **Michel Temer**.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, distante de los conceptos, de las suposiciones, de las premisas con que mira el problema **Guzmán**, y mucho más distante todavía de los criterios con que los puede mirar, por ejemplo, **Cristina Fernández de Kirchner**.",
+      "score": 0.184,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, **Guzmán**, el gobierno se encuentra frente a un problema, debe lograr la aprobación de esta gente en el fondo, pero además, cuando se da vuelta, tiene que lograr la aprobación, primero de **Cristina Fernández de Kirchner**, que ya mandó una carta, una carta un poco desesperada, contradictoria, que contiene algo tan insólito como decir que, como la deuda la contrajo el gobierno de **Macri**, es la oposición en el Congreso la que se tiene que encargar de este problema.",
+      "score": 0.336,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es algo así como si **Macri**, cuando llegó, hubiera dicho: \"Como este déficit que yo heredo, no lo generé yo, que se encargue el peronismo de hacer los ajustes en el Congreso como oposición parlamentaria, porque yo no me hago responsable de este problema\".",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una idea del Estado delirante.",
+      "score": 0.53,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, **Cristina Fernández de Kirchner** le recuerda al presidente, ya no a **Guzmán**, declaraciones que hizo en Tucumán diciendo que él no estaba dispuesto a hacer ningún tipo de ajuste, es decir, le fija límites muy severos al gobierno.",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, a su vez, hay un sector del **kirchnerismo** que le fija límites a **Cristina**.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alicia Castro**, **Milagro Sala**, **Amado Boudou**, el Partido Comunista, **Gabriel Mariotto**, constituyen un sector interno que fue nada menos que a la Corte Penal Internacional, acusar al fondo por lo que hizo en la Argentina.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso sí, están muy lejos de cualquier acuerdo, y le están diciendo a **Cristina**: \"¿A dónde nos está llevando con los ajustes que nos va a proponer **Guzmán**?\".",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** le encargó a un economista de su máxima confianza, que revise todos los números que le lleva **Martín Insaurralde**, y ese economista le devolvió un dictamen, diciéndole que **Insaurralde** lo engaña con los números.",
+      "score": 0.625,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y se dice que el ministro de Economía, **Guzmán**, le está presentando necesidades de ajustes superiores a las que se requerirían, y que, por lo tanto, si se sigue el camino planteado por **Guzmán**, la recuperación económica argentina va a ser más lenta, y, por lo tanto, la recuperación de los votos.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el Congreso tenemos primero un actor que es **Sergio Massa**, que estuvo reunido la semana pasada con fondos de inversión que visitaron la Argentina para tomar la temperatura de la economía argentina, de la política económica y, sobre todo, de la posibilidad o no de un acuerdo con el fondo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es rarísimo que se vaya un ministro que acaba de firmar un acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A su vez está el problema del Congreso, de un Congreso que es otro Congreso, con tensiones en todos los bloques.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se acaba de partir el bloque del radicalismo en la Cámara de Diputados, anticipando algo de más largo plazo, detrás de esa ruptura que implica una pelea entre dos cordobeses, básicamente entre **Mario Negri** que perdió la elección en Córdoba, la elección interna, y **Rodrigo de Loredo** que la ganó.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay diputados del PRO que van a armar sus propios bloques, más las disidencias propias del oficialismo.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Costa Rica también hubo un compromiso innecesario del poder ejecutivo de convalidar en el Congreso -no el endeudamiento, que eso sí lo hace el Congreso habitualmente.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hoy **Carlos Alvarado**, el presidente de Costa Rica, está diciendo públicamente: \"No me pregunte más por el acuerdo con el fondo, porque es un tema del Congreso y ya lo mandé y todavía no vuelve\".",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero puede pasar que el acuerdo entre en una negociación endiablada que lo obligue al presidente a sacarlo por un DNU.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora todo esto, que es la encrucijada económica frente a la que se encuentra el gobierno, combina y hace juego con una encrucijada geopolítica, de política exterior, de ubicación de la Argentina y del **kirchnerismo** en el mundo.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La negociación con el fondo es básicamente una negociación con el G7.",
+      "score": 0.261,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, mientras se produce esta negociación, **Joe Biden** convoca una cumbre virtual de defensa de la democracia, de defensa de tres políticas: política anticorrupción, política anti autoritarismo y política pro derechos humanos.",
+      "score": 0.701,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando la Argentina mira la lista, ve que de esta convocatoria están excluidos China, obviamente, Rusia, Irán, Venezuela, Nicaragua, Bolivia.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que, al revés, está incluido **Juan Guaidó** como presidente de Venezuela y está incluido Taiwán, cuya condición de país China popular desconoce.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y allá está el segundo del Consejo de Seguridad Nacional de la Casa Blanca, con el que seguramente **Argüello** debe estar negociando qué hacer con la participación, esto es, jueves y viernes de esta semana, de la Argentina en este lugar.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora hay que ir a explicar al fondo que no va.",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque miren cómo es la composición del Fondo Monetario Internacional en cuanto a su conducción.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El *Wall Street Journal* acaba de publicar un informe de inteligencia de Estados Unidos, que el gobierno de Estados Unidos todavía no convalidó, diciendo que China está negociando con el gobierno de Guinea Ecuatorial una base militar en la ciudad de Bata.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sabemos ya que China le ofreció a Uruguay un acuerdo de libre comercio.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de la expansión, de la pretensión, de la orientación de China para establecerse en el Atlántico.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí es donde la Argentina juega un papel, como lo juega Uruguay, como lo juega Brasil.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De esto se está hablando también en el fondo, de todo, en el Fondo Monetario Internacional.",
+      "score": 0.38,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora miren cómo está compuesta la conducción del Fondo Monetario Internacional.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "17,5% le sigue 6,5% -miren la diferencia- Japón.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, en el fondo mandan, antes que nadie, Estados Unidos y Japón.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como lo demostró el embajador de Japón cuando tuvo que avisarle públicamente al gobierno que había que pagar la deuda con el Club de París si le iban a seguir pagando la deuda a China.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "China es el tercero y el cuarto es Alemania.",
+      "score": 0.628,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese mapa donde China avanza.",
+      "score": 0.535,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cuando los directivos de esa empresa, que es una de las empresas alimenticias más importantes del país, le dijeron: \"¿Y vos en nombre de quién hablás?\".",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo: \"Yo hablo en nombre de la persona más importante de este país, de la primera persona en términos de poder político, que es **Cristina Fernández de Kirchner**\".",
+      "score": 0.666,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando le explicaron eso a **Alberto Fernández**, le dijo a **Matías Kulfas** que no se va a firmar el decreto de designación.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces estamos ante una cosa insólita: que hubo alguien, una particular, **Débora Giorgi**, que estuvo actuando como subsecretaria durante semanas dentro del gobierno sin ser subsecretaria, convocaba reuniones, servía el café, discutía precios y nadie sabe en nombre de qué estado lo hacía, en nombre de qué persona.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otros actores le pasan facturas al gobierno para poder darle el apoyo que necesita **Alberto Fernández** en esta recomposición interna, donde necesita él ganar autoridad frente a **Cristina Fernández de Kirchner**, después de haber perdido el 40% de los votos en dos años.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el control de todo el Río de la Plata más las vías navegables hacia el norte por el Uruguay y el Paraná especialmente, hasta llegar a Rosario, donde hay ataques cada vez más frecuentes.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además de otros problemas, como el estallido de un gran escándalo de una empresa, de un fondo de los hermanos **Guillermo** y **Fernando Gupéi**, que están siendo allanados y juzgados por estafar a un fondo privado internacional en el descuento de planillas de mutuales.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, Rosario se va convirtiendo en un lugar muy complicado.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace un tiempo, bastante tiempo, comentamos acá que la legislatura bonaerense le había renovado la designación a **Guido Lorenzino**, que era una de las llaves de **Daniel Scioli** en relación con la policía y la justicia de la provincia de Buenos Aires, como defensor del pueblo de la provincia.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La legislatura le renovó el mandato por un año.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A cambio, el poder ejecutivo de la legislatura bonaerense, que se ha reconocido desde el año 2000, la legislatura le renovó el mandato por un año a cambio de que **Lorenzino** use sus contactos para que la justicia dé de baja esa restricción que pesa sobre los intendentes que no pueden elegirse más de una vez, es decir, tener más de dos mandatos.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, **Lorenzino** está pagando aquello que le habían pedido.",
+      "score": 0.219,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Inquieto por qué la Corte pueda, dicen que el 16, pronunciarse sobre la inconstitucionalidad de la actual composición del Consejo de la Magistratura y volver a la composición anterior que pondría al Consejo de la Magistratura bajo la presidencia del Presidente de la Corte.",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver si **Soria** mañana se anima a esbozar algo respecto de las causas que tanto inquietan a **Cristina Fernández de Kirchner**, que empezó a preocuparse más por su situación judicial cuando vio que perdieron el 40% de los votos y que el futuro puede ser incierto en materia electoral y en materia de poder.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empezamos *Odisea* y vamos a dialogar ahora con **Natalio Botana** de la Argentina y de más allá de la Argentina.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos va a poner al tanto de sus ideas respecto del estado actual, de la política entre nosotros y en sociedades a las que estamos mirando.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 77
+  },
+  "etiqueta_original": "neutral"
+}

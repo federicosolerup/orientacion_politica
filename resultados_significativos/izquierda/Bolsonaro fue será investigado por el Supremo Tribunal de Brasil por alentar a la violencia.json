@@ -1,0 +1,136 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 13,
+      "derecha": 11
+    },
+    "score_promedio": 0.437,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este domingo, el diario *El País* publicó una portada con un análisis sobre la crisis de la democracia en el mundo, tomando el caso de Brasil como el tercer eslabón, después de una serie de situaciones.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, sobre la satisfacción con la democracia, allí se observa que, le pedí a la producción que me lo mostrara, y para quienes nos están escuchando y viendo, se plantean cuatro generaciones: los *millennials*, que nacieron a partir de 1981 a 1996; la Generación X, de 1965 a 1980; los *baby boomers*, de 1944 a 1964; y la Generación Silenciosa o entre guerras, de 1918 a 1943.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por último, esto tiene que ver con el fenómeno de transición en Argentina y, eventualmente, con la opinión pública sobre las autocracias, es decir, los regímenes que no son democráticos.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como muestra de esto, Jaime De la Barra viene escribiendo de manera continua en el diario *Perfil* que él cree que Juntos por el Cambio, fundamentalmente el ala moderada, los radicales, no están entendiendo el cambio que está viviendo la sociedad y que están, de alguna manera, facilitándole el camino a Javier Milei.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin llegar a dividir el peronismo, también está el crecimiento de la posibilidad de que Juan Schiaretti, el gobernador de Córdoba, junto a Alberto Rodríguez Saá, el gobernador de San Luis, y al exgobernador de Salta, Juan Manuel Urtubey, construyan una alternativa peronista por fuera del Frente de Todos directamente.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si esta posibilidad de que el Frente de Todos no llegue al balotaje, podría ser verosímil.",
+      "score": 0.181,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obama sí le entrega los atributos de mando.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que quiero superar es que vamos a hacer todo lo posible por ayudar al Presidente electo a efectuar esta transición.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo realmente anticipo seguir trabajando con el Presidente en el futuro, incluyendo recibir sus consejos que me explique algunas de las dificultades y las cosas que se han logrado.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señor Presidente, ha sido un gran honor estar con usted y realmente poder reunirme con usted muchas veces.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "(Se insertan los videos con los respectivos audios de los traspasos presidenciales)\n\n***\n\nVamos ahora al caso de Brasil, el que le da actualidad a este tema.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, Bolsonaro sí recibe los atributos presidenciales de Temer.",
+      "score": 0.24,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo presidente tiene su banda.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La de Bolsonaro lo esperaba en el palacio del Planalto.",
+      "score": 0.739,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Michel Temer transmite la faixa presidencial al presidente de la República, Jair Bolsonaro.",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esta quizás sea la imagen más contundente, porque en el caso de Brasil, además, se saca la banda presidencial el presidente saliente y él mismo se la coloca al presidente entrante, que es lo que acabamos de escuchar y de ver.",
+      "score": 0.406,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a ver el contraste cuatro años después, nada más, con la crisis de la democracia, donde directamente el expresidente Bolsonaro se fue a Miami, y la banda presidencial, los atributos de mando, a Lula, se los colocan distintos representantes de las minorías brasileñas.",
+      "score": 0.251,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí, Bolsonaro había dejado la banda presidencial en un cajón y se fue a Miami.",
+      "score": 0.745,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí tenemos a Cristina Fernández de Kirchner recibiendo la banda presidencial de su predecesor, que, en este caso, se trataba de su marido.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "***\n\n(Se insertan los videos con los respectivos audios de los traspasos presidenciales)\n\n***\n\nCristina Fernández de Kirchner, año 2007, recibe la banda presidencial y el bastón de mando en el Congreso.",
+      "score": 0.533,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí están colocando la banda el presidente saliente a la presidenta entrante, y queda la primera presidenta mujer elegida por voto popular de la Argentina, Cristina Fernández de Kirchner, con la banda presidencial de la mano de su predecesor, y ahora, el bastón de mando.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora vamos al contraste argentino, que es Mauricio Macri no recibe la banda presidencial ni el bastón de mando por parte de su predecesora, Cristina Fernández de Kirchner.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo tiene que hacer el famoso presidente por unas horas, que es el presidente provisional del Senado.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veremos si la Argentina tiene las vacunas frente a la crisis antidemocrática por haber tenido una dictadura militar como la que tuvo más violenta y más malévola, distinta de las que tuvieron el resto de los países de América Latina, y desde ya, los países del hemisferio norte.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 24
+  },
+  "etiqueta_original": "neutral"
+}

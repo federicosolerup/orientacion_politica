@@ -1,0 +1,116 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 5
+    },
+    "score_promedio": 0.265,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las dos primeras son, casualmente, las dos de la presidencia de Javier Milei, la de diciembre y la de enero, bajo este mismo gobierno.",
+      "score": 0.486,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar de estos datos tristes, se le dio, se le ofreció el resultado porque representa una reducción de los números de diciembre y enero.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar con el propio presidente Javier Milei: \"Ayer, en Crónica, la inflación está por debajo de 15% y eso es un numerazo.",
+      "score": 0.51,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, si a eso, además, le vas a restar el arrastre estadístico, que son más de, digamos, hay algunas estimaciones que dicen que es 2,5 y 2,8, perdón, y hay otras que dicen que es 4,5, ponele 3,5.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si a eso vos le sumás la baja de la suba de prepagas, que es de una vez para siempre, y la suba de tarifas, que es una vez para siempre, o sea, que son estos aumentos, son cosas puntuales, claro, que tienen que ver con las recomposiciones de precios, en ese contexto, al número que vos veas le vas a tener que restar como cinco puntos porcentuales.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habría que reflexionar qué le dice, qué dice y qué es dicho Javier Milei cuando habla de un \"numerazo\" en el 13,2%, que también ya fueron \"numerazo\" para él el 20 y el 25.",
+      "score": 0.302,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una de las explicaciones del presidente en relación a la inflación es que los precios están bajando, pero las promociones del 2x1 hacen que no se midan los índices, es decir, que la inflación bien medida tendría que dar todavía menos de ese 13%.",
+      "score": 0.17,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei también comparó su resultado con quien para él fue el mejor presidente de la vuelta a la democracia, que es Carlos Menem.",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, el optimismo del presidente sobre...",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los datos es que el 80% de los argentinos piensan que los próximos seis meses estarán peor que hoy, pero el presidente dice: \"La gente está viendo la luz al final del camino\".",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar ahora a Luis Caputo ayer en la Cámara de Comercio Norteamericana Argentina, lanzando, diciendo: \"Entiendo al que remarcó precios y la reacción natural de no querer bajarlos.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, lo entiendo perfectamente el productor que remarcó en su momento precios, pensando el escenario que la mayoría de los economistas le pronosticaban y después la reacción natural después de tantos años de no querer bajar precios por las dudas\".",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad parece haber, que decirlo, humo, porque si no hay dólares, si no hay dólares para importar bienes intermedios con los que luego se manufacturan, por ejemplo, los alimentos, importar las latas, por ejemplo, para luego poner los tomates, ¿cómo va a haber dólares para importar directamente alimentos?",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es combinado con el informe del INDEC de hace una semana, que mostraba que cayó 12% de la actividad industrial del último mes y 28% acumulado entre enero y febrero.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver un tweet, vamos a contarles un tweet de Facundo Manes, tal vez el radical más opositor al gobierno, que dice: \"Los salarios cayendo en picada, mientras el presidente dice que es un 'numerazo'.",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Brasil, por ejemplo, las fuerzas más republicanas o incluso el centro derecha institucional se partieron, y algunos se fueron con Bolsonaro y otros incluso se fueron con parte que fueron parte del juicio político a que de Joa dilma fuera de presidencia, terminaron aliados con Lula.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien ayer apareció también es el ex presidente Alberto Fernández, que se expresó en las redes sociales con este posteo: \"La inflación durante el período de diciembre-febrero ha alcanzado casi el 60%.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sumado a esto, la alarmante caída del 20,4% en el índice de producción industrial de Argentina en enero de 2024 nos obliga a dirigir la atención ciudadana hacia esta situación.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que acaban de escuchar, nuevamente, la voz de Alberto Fernández, reconstruida por inteligencia artificial, es decir, el tweet que él colocó en letras, convertido en sonidos con la emulación de su voz.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Básicamente, lo está el costo y lo está para lo que hablaban previamente, la clase media, los jubilados y los trabajadores y trabajadoras informales, esos son quienes hoy están pagando el ajuste.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 20
+  },
+  "etiqueta_original": "neutral"
+}

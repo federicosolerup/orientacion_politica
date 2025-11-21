@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 10
+    },
+    "score_promedio": 0.44,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "También alguien podría decir \"Guzmán, volvé\".",
+      "score": 0.765,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alguien podría hablar también de una relación entre la oposición y el padre, \"del padre\" con el que están decepcionados.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente dice, \"no, son unos fenómenos, se hacen todo bien\".",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De diez medidas que nosotros le planteamos al presidente, ni una.",
+      "score": 0.358,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo la verdad que prefiero que el tipo nos combata a que nos dé un ribotril y un paracetamol y algún cargo, no, para ver si le servimos de rueda de auxilio y de furgón de cola y de contención de la bronca creciente que tiene la gente que ya no se banca más esta situación.",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Varios cargos, no, algún cargo, no, varios, varios, varias personas del campo político que representa Grabois dentro de distintos sectores del poder ejecutivo y del poder legislativo.",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Batakis hizo anuncios referidos al sector financiero, al Fondo Monetario Internacional, a plantear la estabilidad del dólar y a cuidar a quienes exportan masivamente, sin importarle que acá en Argentina no podamos comer como corresponde, y no dio ningún anuncio respecto al resto del pueblo, o sea, a la población en general.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué van a hacer con la población en general, que cada vez que pasan los días y hay aumento de los precios de los alimentos, de qué su ingreso le alcanza para menos?",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que le pusimos demasiadas expectativas a lo que iba a plantear Batakis, plantea claramente.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo decía Dujovne, bueno, era lo mismo.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, Cristina está a la derecha de toda esta gente, para ponerlo en términos concretos con su silencio.",
+      "score": 0.525,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente del PO, Belliboni, era una persona totalmente desconocida hace dos años, conocida simplemente por aquellas personas que estaban muy relacionadas con su temática, ¿no?",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora, perdón, como si tuviera, Pedro, el líder de la CGT, Héctor Daer, anuncia la manifestación del 17 de agosto, que lo disfraza de manifestación y no paro, con lo que se supone que podría ser un complejo de que le digan dentro de algunos años que nunca le hicieron un paro a Alberto Fernández.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tú también, Héctor, podría decirle el presidente Alberto Fernández a Héctor Daer de la CGT.",
+      "score": 0.288,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a cerrar esta primera parte del prólogo de la apertura, que luego sigue con su tramo internacional, con una canción cuyo título, el cine y cualquier otro comentario relacionado con el tema, se llama *Rompe* de Daddy Yankee, que no solo se rompe en la Argentina, cuando uno mira el mapa internacional encuentra disrupciones en todas partes del mundo, lo decíamos ayer, \"el mundo patas para arriba\", y si faltara algo, dentro de Europa, la persona más prestigiosa en términos económicos, el ex presidente del Banco Central Europeo, respetado por todos, Mario Draghi tuvo que presentar su renuncia porque un proyecto de él no cruzó el legislativo, más allá de que el presidente Mattarella rechazó su renuncia y lo conminó a formar una nueva alianza, que está por verse, que Mario Draghi renuncie es una señal de que, tú también, Mario, nadie funciona.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Italia de Mario Draghi está en un limbo político.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tras presentar su dimisión y recibir la negativa del presidente Sergio Mattarella a aceptarla, el primer ministro del país trasalpino tendrá que buscar apoyos para una moción de confianza el 20 de julio, después de haber superado otras de jueves.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A este hombre le tocó conducir el Banco Central Europeo durante la crisis de la salida de la crisis de las hipotecas e incluso con éxito, cambiando una tendencia que era un enorme cuidado con la emisión y fue la estrella, es la estrella de la economía europea.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, Italia tiene la suerte de tener un funcionario así y aun así tiene que presentar la renuncia.",
+      "score": 0.58,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Italia, el reservorio de un presidente como Sergio Mattarella, que es alguien realmente fuera de serie, un octogenario pacifista, sabio, tuve oportunidad de conocerlo personalmente, que en lugar de aceptar la renuncia, la rechazó y lo mandó a formar nuevamente gobierno con nuevas alianzas dentro del Parlamento.",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero evidentemente las causas son las mismas, alta inflación, reducción de la capacidad de compra de los salarios en distintas proporciones, que es ese 10% de inflación, allí terminó siendo una inflación real, una pérdida real del 10%, porque obviamente no hay paritarias ni en Estados Unidos ni en líneas generales en Europa, o sea que la situación argentina es mucho peor, pero la situación europea y norteamericana no es tanto mejor.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,50 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Jorge Taiana viajó a Francia y les dijo que no se habían vendido con la condición de que Argentina proveyera repuestos nuevos.",
+      "entidades_detectadas": [
+        "argentina",
+        "francia"
+      ]
+    },
+    {
+      "frase": "¿No fue uno de esos aviones el utilizado por la Armada Argentina en el conflicto de Malvinas?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El gobierno de Macri pactó con ellos, y los estadounidenses llenaron de aviones el país para el G20 (Montevideo, San Fernando, Ezeiza, Mendoza).",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Hice lo que muchos periodistas jóvenes hacen, y debí haberlo hecho antes: investigar a fondo el tema.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "El Super Étendard fue el que hundió al Sheffield, la corbeta de la Armada británica, durante el conflicto de Malvinas el 4 de mayo de 1982.",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    },
+    {
+      "frase": "Algún día habrá que analizar los movimientos en el entorno de Patricia Bullrich y sus relaciones con estos temas, tanto ella como personas muy cercanas a la precandidata de Pro.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "El Ministro de Defensa, como usted sabe, demora las denuncias contra el gobierno de Macri, mientras que actúa rápidamente contra Cristina Fernández de Kirchner y sus funcionarios.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    }
+  ]
+}

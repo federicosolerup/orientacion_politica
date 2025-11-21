@@ -1,0 +1,203 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Nosotros necesitamos que al gobierno le vaya bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina necesita que al gobierno le vaya bien, como necesita todo el tiempo el país que al gobierno que tiene le vaya bien.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Por ende, lo decimos para cada gobierno: este gobierno tiene una oportunidad histórica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiene que enfrentar temas dificilísimos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El kirchnerismo le ha dejado un campo minado, pero se ha presentado a hacer gobierno para eso, para enfrentar las soluciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es un gran momento para plantear el tema de las jubilaciones y lo dijo muy bien el doctor *Semino*.",
+      "entidades_detectadas": [
+        "Semino"
+      ]
+    },
+    {
+      "frase": "Con todas las dificultades, miren, tenemos esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí es donde buscamos comprometer a todos los sectores políticos.",
+      "entidades_detectadas": [
+        "Ahí"
+      ]
+    },
+    {
+      "frase": "Eso sería inédito, porque hasta el momento, en 34 años de democracia, ha venido el gobierno de Alfonsín, puso una cosa, vino el de Menem, propuso otra, vino el de Kirchner, propuso otra.",
+      "entidades_detectadas": [
+        "Alfonsín",
+        "Kirchner",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Los jubilados han seguido estando todos mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué mejor momento este para generar el debate, para decir: \"Miren, ¿cómo sostenemos esto?",
+      "entidades_detectadas": [
+        "Miren",
+        "¿",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "A ver, partido tal, ¿qué aporta?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Partido tal, ¿qué aporta?",
+      "entidades_detectadas": [
+        "Partido"
+      ]
+    },
+    {
+      "frase": "¿Cómo lo hacemos?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gran oportunidad que espero que el presidente de la República no desaproveche.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El decreto de necesidad y urgencia es dilapidar esa oportunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no sé quién lo pensó, pero creo que el gobierno tiene una deuda de gratitud con *Elisa Carrió*, que, cuando advirtió que esto era, en este contexto, violatorio de la Constitución, evitó dar el paso final que hubiera sido ese decreto de necesidad y urgencia, que hoy políticamente es insustentable, externa e internamente.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Elisa Carrió"
+      ]
+    },
+    {
+      "frase": "Cambiemos, y quiero decir esto es muy importante para la gobernabilidad del país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Guste o no guste el gobierno de Macri, que Cambiemos permanezca unido sería una tragedia política, ya no para el gobierno, para el país.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "¿Qué pasará con Cambiemos?",
+      "entidades_detectadas": [
+        "Cambiemos"
+      ]
+    },
+    {
+      "frase": "Lo que pasó con la Alianza, con *Chacho Álvarez*: cuando Chacho Álvarez renunció, mucha gente de la Alianza de aquel momento se sintió feliz, no se daban cuenta del precipicio al cual ese paso nos llevaba.",
+      "entidades_detectadas": [
+        "Chacho Álvarez"
+      ]
+    },
+    {
+      "frase": "Espero que el presidente Macri esa lección la haya aprendido.",
+      "entidades_detectadas": [
+        "Espero",
+        "presidente Macri"
+      ]
+    },
+    {
+      "frase": "Hasta el jueves que viene.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Corregido el nombre del doctor a \"*Semino*\".",
+      "entidades_detectadas": [
+        "Semino",
+        "Cambios Realizados",
+        "Corregido",
+        "Corrección"
+      ]
+    },
+    {
+      "frase": "*   Corregido el nombre de la persona mencionada a \"*Elisa Carrió*\".",
+      "entidades_detectadas": [
+        "Elisa Carrió",
+        "Corregido"
+      ]
+    },
+    {
+      "frase": "*   Corregido el nombre a \"*Chacho Álvarez*\".",
+      "entidades_detectadas": [
+        "Corregido",
+        "Chacho Álvarez"
+      ]
+    },
+    {
+      "frase": "*   **Corrección ortográfica:**\n    *   Se corrigieron errores de tildes y ortografía general (ej: \"dificilísimos\", \"jubilaciones\").",
+      "entidades_detectadas": [
+        "Corrección"
+      ]
+    },
+    {
+      "frase": "*   Se corrigieron errores de puntuación (ej: comas, puntos y comas).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Mejora de la cohesión y coherencia:**\n    *   Se agregaron y ajustaron palabras y frases para mejorar la fluidez y claridad del texto.",
+      "entidades_detectadas": [
+        "Mejora"
+      ]
+    },
+    {
+      "frase": "(ej: \"Ahí es donde buscamos comprometer...\" en lugar de \"Esto ahí esto donde buscamos...\")\n    *   Se eliminaron repeticiones innecesarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se modificaron estructuras de oraciones para mayor legibilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se agregaron puntos y aparte para organizar el texto en párrafos lógicos.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Elisa Carrió",
+    "Semino",
+    "Qué",
+    "Menem",
+    "presidente Macri",
+    "Kirchner",
+    "Cambios Realizados",
+    "Miren",
+    "Constitución",
+    "Mejora",
+    "Argentina",
+    "Corregido",
+    "Corrección",
+    "Espero",
+    "Guste",
+    "Partido",
+    "¿",
+    "Cambiemos",
+    "Alfonsín",
+    "Chacho Álvarez",
+    "Macri"
+  ]
+}

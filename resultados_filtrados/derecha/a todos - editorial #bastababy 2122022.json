@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Palpité más el partido mundial de hoy de Uruguay que el nuestro, porque a mí siempre me gusta que le vaya bien a Uruguay.",
+      "entidades_detectadas": [
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "Y toda esa rúmpla de gente que si mañana nuestra Cristina la tiene que cuidar, porque si Cristina deja de respirar, no respira más eso.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Realmente, lo mejor que nos puede pasar a nosotros, es que ustedes hagan quilombo, porque entonces van a poner en un aprieto a los que quieren sacar a Alberto Fernández el miércoles.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Van a poner en un aprieto a Aníbal Fernández porque parece que salía a reprimir, cosa que no quiere hacer.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Van a poner en un aprieto al Estado y van a perder los pocos votos que les quedan.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Mañana, el Senado argentino realizará una acción sin precedentes en este tercer gobierno: removerá a tres jueces de sus cargos.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "Esta decisión, que ya se conoce públicamente, se llevará a cabo gracias a la mayoría automática del bloque oficialista en la cámara alta, como lo han confirmado sus propios miembros.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Bruglia, por su parte, también participó en varias causas de corrupción desde la Cámara Federal.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Este tribunal es el encargado de juzgar a Cristina Fernández de Kirchner en la causa de los cuadernos de las coimas, una causa de corrupción con una gran cantidad de pruebas, incluyendo confesiones de empresarios y funcionarios implicados, así como el descubrimiento de bienes multimillonarios pertenecientes a secretarios privados de los Kirchner, como el fallecido Daniel Muñoz, quien adquirió dos departamentos en el Hotel Plaza de Nueva York, entre otras propiedades.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Mañana, Cristina Fernández de Kirchner, si preside la sesión, liderará la votación que removerá a un juez que la juzgará en la causa de corrupción más significativa de la democracia argentina.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Esto podría generar un conflicto institucional entre el Senado y la Corte Suprema, ya que esta última había autorizado la designación de los jueces.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "En resumen, el Senado argentino removerá a tres jueces, dos de los cuales han fallado en contra de causas de corrupción que involucran al kirchnerismo, y el tercero, Germán Castelli, debe juzgar a Cristina Fernández de Kirchner en la causa de los cuadernos.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "senado",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Esta acción genera una profunda controversia sobre la independencia judicial y el estado de derecho en el país.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

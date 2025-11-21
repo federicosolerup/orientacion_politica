@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Una nota periodística en el diario *La Nación* sugería que el presidente podría estar retirándose por razones de salud.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El presidente tuvo una hemorragia intestinal, pero no fue tan grave.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Además, los seguidores de Andrés Larroque y el entorno de Macri continúan con sus disputas.",
+      "entidades_detectadas": [
+        "macri",
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Máximo Kirchner, convocó a una ceremonia de la Cámpora para despedir a Hebe de Bonafini, porque el velorio no fue lo suficientemente “masivo”.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Creo que nunca hubo una mujer tan despreciada en la Argentina como ella.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Andrés Larroque, en una entrevista, no mostró ninguna filosofía política coherente.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Son ciegos seguidores de Cristina Fernández de Kirchner, que los utiliza como soldados, aunque en realidad necesitaría más “camiones de Juncadela” que soldados para su protección.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, Alberto Fernández sigue diciendo que está enfermo, con una úlcera hemorrágica.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    }
+  ]
+}

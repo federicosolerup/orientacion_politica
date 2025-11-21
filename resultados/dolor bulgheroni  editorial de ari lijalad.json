@@ -1,0 +1,151 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El aumento del precio de la nafta ha generado preocupación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una de las empresas que comercializa este combustible es Pan American Energy, propiedad de la familia Bulgheroni, que la distribuye a través de Axion Energy.",
+      "entidades_detectadas": [
+        "Bulgheroni"
+      ]
+    },
+    {
+      "frase": "Alejandro Bulgheroni, perteneciente a una de las familias más acaudaladas del país (entre las 5 más ricas, según algunas estimaciones, e incluso entre las 2000 más ricas del mundo), concedió una entrevista a Eduardo Feinmann donde realizó unas declaraciones llamativas.",
+      "entidades_detectadas": [
+        "Eduardo Feinmann",
+        "Alejandro Bulgheroni"
+      ]
+    },
+    {
+      "frase": "Al ser consultado sobre la situación económica del país, Bulgheroni afirmó que la veía bien, que el gobierno estaba haciendo lo correcto, aunque reconoció que la situación era difícil y que la salida implicaría dolor.",
+      "entidades_detectadas": [
+        "Bulgheroni"
+      ]
+    },
+    {
+      "frase": "Para analizar esta afirmación, revisé los balances públicos de Pan American Energy disponibles en www.cnb.com.ar.",
+      "entidades_detectadas": [
+        "Pan American Energy"
+      ]
+    },
+    {
+      "frase": "Aclaro que esta información es pública y accesible a cualquier periodista argentino; quien no la utilice, está ocultando información.",
+      "entidades_detectadas": [
+        "Aclaro"
+      ]
+    },
+    {
+      "frase": "Los balances muestran un margen de rentabilidad del 9.6% en 2022.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, en 2023, año en el que Bulgheroni declaró que la salida de la crisis implicaba dolor, la rentabilidad ascendió al 22%.",
+      "entidades_detectadas": [
+        "Bulgheroni"
+      ]
+    },
+    {
+      "frase": "Un margen de rentabilidad de este tipo es excepcionalmente alto para un negocio legal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Normalmente, las empresas obtienen márgenes de rentabilidad mucho menores (5%, 6%, 10% como máximo).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un 22%, y más aún su duplicación interanual, solo es posible si se reducen considerablemente los costos laborales y de producción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los balances también muestran que parte de los ingresos provienen de subvenciones gubernamentales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero las declaraciones de Bulgheroni no se limitaron a la necesidad de medidas dolorosas.",
+      "entidades_detectadas": [
+        "Bulgheroni"
+      ]
+    },
+    {
+      "frase": "También expresó su apoyo al presidente y criticó al Congreso por no colaborar suficientemente con leyes que, según él, serían necesarias.",
+      "entidades_detectadas": [
+        "Congreso",
+        "También"
+      ]
+    },
+    {
+      "frase": "Específicamente, se refirió a la ley \"OVIBUS\" (probablemente se refiere a un proyecto de ley relacionado con la industria de los hidrocarburos), alegando que permitiría a la Argentina solucionar sus problemas.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Un análisis de la ley \"OVIBUS\" revela que varios artículos parecen estar diseñados para beneficiar a Pan American Energy.",
+      "entidades_detectadas": [
+        "Pan American Energy"
+      ]
+    },
+    {
+      "frase": "El artículo 148, por ejemplo, prioriza la maximización de las ganancias de la explotación de recursos hidrocarburíferos por encima de las necesidades del país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ley también permitiría la libre exportación de hidrocarburos y la eliminación de la intervención estatal en la fijación de precios de la nafta.",
+      "entidades_detectadas": [
+        "La ley"
+      ]
+    },
+    {
+      "frase": "Esto último es particularmente relevante, ya que el precio de la nafta vendida por Pan American Energy aumentó un 237% en cinco meses desde la aprobación de esta ley.",
+      "entidades_detectadas": [
+        "Pan American Energy"
+      ]
+    },
+    {
+      "frase": "Además, la ley eliminaría el objetivo del autoabastecimiento de hidrocarburos y los principios de desarrollo económico con equidad social, previstos en la ley de soberanía hidrocarburífera.",
+      "entidades_detectadas": [
+        "Además",
+        "soberanía hidrocarburífera"
+      ]
+    },
+    {
+      "frase": "En conclusión, la entrevista con Eduardo Feinmann (o la supuesta entrevista, dado el contexto) no fue una entrevista periodística objetiva, sino una oportunidad para que Bulgheroni difundiera su punto de vista y promoviera la aprobación de una ley que beneficiaría directamente a su empresa, a costa de la situación económica y social del país.",
+      "entidades_detectadas": [
+        "Eduardo Feinmann",
+        "Bulgheroni"
+      ]
+    },
+    {
+      "frase": "La aparente contradicción entre su discurso sobre el \"dolor\" y las elevadas ganancias de su empresa sugiere un claro conflicto de intereses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El uso de la información pública, como los balances de Pan American Energy, expone las inconsistencias de las declaraciones de Bulgheroni, que parece representar a un sector de intereses particulares, más que a los intereses generales del país.",
+      "entidades_detectadas": [
+        "Bulgheroni",
+        "Pan American Energy"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "También",
+    "Bulgheroni",
+    "soberanía hidrocarburífera",
+    "la Argentina",
+    "Específicamente",
+    "Aclaro",
+    "Además",
+    "La ley",
+    "Eduardo Feinmann",
+    "Normalmente",
+    "Alejandro Bulgheroni",
+    "Pan American Energy"
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 54,
+      "derecha": 16
+    },
+    "score_promedio": 0.3,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy la política argentina presenta, como pocas veces antes, este tipo de compromiso, este tipo de pacto, y tiene que ver con lo que ocurrió en La Plata, en la legislatura bonaerense, que es algo que cualquiera que conozca la política nacional y sobre todo la política de la provincia de Buenos Aires, tenía que prever qué iba a ocurrir, que era un estallido de corrupción en esa legislatura puesta tan fuera del foco de la opinión pública, del periodismo, etcétera.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podemos ver una dimensión del financiamiento de la política, pero lo que más me interesa subrayar, podemos advertir el carácter artificial, cínico, por momentos irritante en su cinismo, que pueden tener determinadas contradicciones o disputas morales que se dan en la política, y digo artificial porque aparecen casos donde esos que se acusan mutuamente comparten una misma caja, comparten un mismo delito, y sobre esto no se habla o se habla muy poco, los que hablan son dirigentes excepcionales.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llamaron a la policía, al 911, aparecen agentes policiales, le piden que se identifique, se niega a identificarse, se niega a entregar el material que tenía en una bolsa de plástico, tipo bolsa de consorcio, y ahí descubren que operaba con 48 tarjetas de débito, y que en otros 48 sobres de plástico escondía o guardaba los tickets de esas operaciones.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esas 48 tarjetas de débito pertenecían a 48 personas distintas, y estaban unificadas porque todas decían Cámara de Diputados de la Provincia de Buenos Aires.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estuvo 11 días detenido hasta que por un fallo de la Cámara de Apelaciones en lo criminal de La Plata, es no solamente excarcelado sino que toda la causa se anula.",
+      "score": 0.634,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy consultaba con una persona que forma parte de la administración de la Cámara de Diputados de la Provincia, que formalmente se llama Honorable Cámara de Diputados de la Provincia de Buenos Aires, le preguntaba si iba a haber algún pronunciamiento, si íbamos a tener alguna explicación de algo que ya sucedió el 9 de septiembre, es decir, estamos prácticamente a 20 días, pasaron más de dos semanas, dijo, estamos viendo, tendría que averiguar si hay alguna declaración conjunta.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le ofrece trabajo a una persona, en general una persona de condición humilde, se la seduce con que a partir de ese trabajo, de ese empleo en la legislatura va a tener jubilación, va a tener obra social y a cambio de eso, claro, esa persona que carece de jubilación y de obra social está obligada y lo hace resignada a devolver el sueldo que le asignan y ese sueldo que en muchos casos más o menos ronda los 400 mil pesos es el que cobraba uno de los tantos \"Chocolates\" que hay en la legislatura bonaerense, \"Chocolate\" Rigau, es el que estaba cobrando, estaba haciendo la recaudación de ese método, de ese sistema de financiamiento a la noche un sábado en la calle 754, una sucursal del Banco Provincia.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Presidente de la Cámara de Diputados, **Federico Otermín**, de Unión por la Patria, próximo intendente, seguramente, habrá que ver cómo salen las elecciones, de Lomas de Zamora, el alter ego de **Martín Insaurralde**, el actual jefe de Gabinete de la Provincia de Buenos Aires, es decir, de **Axel Kicillof**.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Carlos \"Cuto\" Moreno**, de la intimidad de **Cristina Fernández de Kirchner**, íntimo amigo de **Néstor Kirchner**, estudió con ellos en La Plata, militante político de Bahía Blanca, es una especie de tutor que Cristina le puso a Kicillof para manejarse en estas aguas cenagosas de la política bonaerense que Kicillof no conocía y frente a las cuales prefiere mirar para el costado, con gran irresponsabilidad.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y **Fabián Perechodnik**, que navegó por todos los ríos y ahora es, dice, presidente también de la Cámara en nombre del PRO, después de haber sido del Partido Radical.",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese silencio todavía es más notorio, porque uno diría, si mira la política argentina actual, mira los discursos encontrados que hay en esta campaña y mira la bandera principal de Javier Milei, esto que sucede en La Plata, bueno, es casi un trabajo práctico que le deja servido a Javier Milei para que encuentre la encarnación más opaca, más sospechosa de lo que él llama la casta.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Normalmente los partidos políticos le confían a los apoderados cosas muy delicadas, por lo tanto tiene que ser gente muy leal al partido, por ejemplo la presentación de listas ante la justicia electoral.",
+      "score": 0.272,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, él se excusa diciendo no tengo nada que ver con esto, por lo tanto resulta muy llamativo el odio que le debe despertar Pérez a tanta gente que coincide en que él está como un engranaje importante de esta maquinaria de recaudación, que, y acá viene la cuestión, terminaría en parte en las filas de Milei o en la Libertad Avanza, es decir, habría un canal de comunicación en el financiamiento de la política, desde la Cámara de Diputados a través del canal del Frente Renovador de Massa y llegaría hasta la organización de la Libertad Avanza de Javier Milei en la provincia de Buenos Aires.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ramiro Agulla y otro personaje, otro protagonista de todo este circuito importantísimo para todo el período en que todavía no estaba peleado con Milei que es **Carlos Maslatón**.",
+      "score": 0.252,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a esos términos más generales me gustaría referirme, para salir de la crónica policial y poder ir a algo que tiene mucho más que ver con la administración, con el gobierno y con la política.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "López Murphy, Iguacel y Talerico sostienen en ese escrito que el presupuesto de la Cámara de Diputados de la Provincia de Buenos Aires es de 62.152 millones de pesos.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el Senado bonaerense, la otra Cámara, el presupuesto es de 25.000 millones para 46 bancas.",
+      "score": 0.418,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que a cada banca le sería asignado 557 millones de pesos.",
+      "score": 0.776,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imaginemos que cada legislador en la Cámara de Diputados y en la Cámara de Senadores tuviera 5 empleados, 5 empleados por despacho.",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hacen estos legisladores un cálculo de gastos tomando el personal, tomando la cantidad de legisladores y haciendo un cálculo más o menos homologable de lo que podría gastar la Legislatura en mantenimiento comparando con algún municipio de rango medio de la provincia de Buenos Aires.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y llegan a la conclusión de que la Legislatura podría funcionar con 8500 millones de pesos.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Salieron **Margarita Stolbizer**, salió **Florencio Randazzo**, salió una línea interna del radicalismo cuya figura más destacada es **Federico Storani** a pedirle a **Maximiliano Abad**, presidente del bloque radical en la Legislatura, en la Cámara de Diputados y presidente del Comité de Provincia que se pronuncie sobre esto, son todas figuras nacionales.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A muchas de las cuales probablemente les podría caber el mismo reproche que hacen ellos de la época en que eran legisladores en el Congreso Nacional.",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que Abad, que es candidato a senador en este momento, primer candidato a senador en la lista de Bullrich en la provincia de Buenos Aires, tampoco habló.",
+      "score": 0.297,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora el fiscal general de la provincia de Buenos Aires, del fuero penal de la ciudad de La Plata, que se llama **Héctor Botto**, apelaría el fallo delante de la cámara de casación.",
+      "score": 0.731,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Unión por la Patria condena al macrismo.",
+      "score": 0.443,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora el que levanta la bandera de la antipolítica, que es Milei, también se calla la boca frente a lo que sería un mecanismo de financiamiento que tal vez, su rayo tal vez, es imposible de demostrar, lo salpica también a él.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También es cierto que a Massa le pegan todos los escándalos, porque es ministro de Economía, porque es funcionario del gobierno.",
+      "score": 0.512,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pega el escándalo de la compra de autos, también denunciada por López Murphy y por **Marcela Campagnoli** en la justicia federal.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora toda esta saga tragicómica, increíble, que aparece en el Banco Nación con contrataciones de **Silvio Batakis** insólitas, como contratar a su marido como funcionario, o como permitir que la gerenta general del Banco contrate.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, Massa igual disfruta del poder que le da el ejercicio del Ministerio de Economía, aún con una inflación que anualizada ya se calcula en 140%.",
+      "score": 0.489,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, porque el ejercicio del Ministerio, el mantenerse en el Ministerio de Economía, lo carga de la radiactividad de la situación económica a la que después nos vamos a referir, pero le otorga palancas que le permiten, por lo menos dentro del termo de la política, generar determinados efectos y lo que a él más le gusta, contradicciones en el campo adversario, en el campo rival.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre mirando al radicalismo, por ejemplo, para dar un ejemplo de cómo Massa maneja estas palancas de poder que le da una enorme gravitación sobre distintas corporaciones de la vida pública, hizo una reunión este fin de semana en Salta, reunión providencial porque le permitió no tener que estar en la foto con Cristina Fernández de Kirchner, que es uno de los grandes problemas de la campaña de Massa.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, se fue a Salta y en Salta hizo una reunión protocolar con gobernadores del Norte Grande, lo que llama el grupo Norte Grande.",
+      "score": 0.454,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pícaro, como es Massa, a las pocas horas había varias páginas amigas diciendo que la presencia de Morales y Valdés en esa reunión de gobernadores estaba anticipando un pacto de gobernabilidad en el cual él le iba a entregar el Ministerio de Economía a los radicales.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En seguida tuvieron que salir Morales y sobre todo Valdés a explicarle a Patricia Bullrich que todo eso era una jugarreta de Massa.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mismo sistema de palancas le permite a Massa disfrutar de esta convocatoria que acaba de realizar la CGT.",
+      "score": 0.558,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es la CGT comandada por **Héctor Daer**, una CGT extraordinariamente comprensiva con un gobierno que comunica mes a mes una inflación superior al 10% y frente al cual no ha habido una sola medida de fuerza, ni siquiera un reclamo o un texto más o menos de esta dimensión, pero para pedir explicaciones sobre la inflación, otra victoria de Massa, insisto, no sabemos si esto toca el voto.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Del mismo modo que mañana Massa va a estar en Neuquén y también gracias a estas palancas logra lo siguiente.",
+      "score": 0.392,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miren esta carta que es una carta del Secretario General de la Asociación de Trabajadores del Estado, **Carlos Quintriqueo**, se dirige al subsecretario de la provincia de Neuquén, subsecretario de trabajo, **Sandro Alegría**, y le dice, le comunica que hay un conflicto y como hay un conflicto se va a realizar una asamblea y esa asamblea se va a realizar a partir de las ocho horas, va a haber un retiro, es decir, la gente va a dejar de trabajar a partir de las ocho horas del 27 de septiembre.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 27 de septiembre, es decir, pasado mañana, es el día en que Massa va a la provincia a hacer un acto en un lugar que se llama Olimpo, cerca de Plottier.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema es el siguiente, para que no se retire la gente y no participe se vaya a la casa, el que vaya al acto se le va a dar una certificación de participación para que pueda justificar su retiro.",
+      "score": 0.239,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde acá no tenemos por qué cuidar los intereses del secretario general de Ate, Quintriqueo, pero le pedimos por favor que ese certificado diga que fueron a una asamblea, no a un acto de Massa, para después poder justificar, porque están justificando la participación en el acto con una asamblea gremial, no se vayan a equivocar porque si no tenemos que seguir hablando del tema.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son detalles, el verdadero problema de Massa está en la economía, y en una economía que en los últimos días ha acelerado su deterioro si uno mira determinados temas técnicos, el deterioro del precio de los bonos y las grandes dificultades del Banco Central para sumar reservas en un momento en que se tendría que estar beneficiando de la devaluación del 21% que dispuso después del 13 de agosto, el 14 de agosto, en acuerdo con el fondo, y se tendría que estar beneficiando de lo que sería el último tramo del dólar soja.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto va ligado a lo que dijimos hoy, un índice de inflación que superó el 12%, que en materia de alimentos es del 15%, y eso pega dramáticamente en los sectores más vulnerables que se suponen siguen siendo el voto peronista, y le ponen a la crisis una velocidad cada vez más inquietante, es decir, las inconsistencias de la economía son cada vez más preocupantes, sobre todo por la emisión monetaria que debe llevar adelante el gobierno para solventar todos los pesos remunerados, es decir, sometidos a ajustes con tasa de interés ligada a la inflación que hay en el mercado.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El corazón de este artículo, el mensaje central de este artículo es, a diferencia de 2015 ya no hay ninguna posibilidad en la Argentina de ir a una receta gradualista.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que están diciendo es que así como en la política estamos ingresando en otra época, 7 millones de personas que votan a Milei, 11 millones de personas que no votaron, le vamos a preguntar sobre este nuevo paisaje a **Vilma Ibarra** y **Juan Manuel Abal Medina** con los que vamos a estar hablando dentro de unos minutos, también la economía entró en una nueva época y en una nueva velocidad en estas horas.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto probablemente es un signo de interrogación, puede beneficiar a Milei que necesita que se siga hablando de él porque es un candidato de las redes sociales, es el primer candidato que no usa las redes sociales, viene de las redes sociales, se sostiene ahí.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo el equipo de campaña de Milei lo único que pide es hablen de nosotros, bien mal pero hablen.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la figura de Milei antes del 13 de agosto de las primarias retenía o atraía aproximadamente al 70% de la conversación política en las redes, sobre todo en X, el viejo Twitter.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que la imagen de Milei está cambiando frente a la sociedad, probablemente porque ahora está en el centro de la escena que es donde no estaba y porque ahora es un candidato probable a la presidencia, cosa que no era antes del 13 de agosto.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segunda novedad, tiene que hacer malabares para mantenerse como un candidato antipolítico y tener alguna estructura política que le permita no la gobernabilidad, eso viene mucho después, tiene que llegar al gobierno para pensar en la gobernabilidad.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La iglesia lo fue a buscar hace dos años esas declaraciones de Milei contra el Papa Francisco para decir tenemos un problema con Milei, lo tenemos ahora que Milei puede ganar la presidencia, no contestaron en aquel momento.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento alguien que conoce muy bien a Eduardo Eurnekián y al Papa Francisco y que ha estado en el medio de ambos me dijo quiero ver qué hace Eduardo Eurnekián porque probablemente Bergoglio o Francisco sea, por ahí es una exageración, seguramente una exageración, la única figura frente a la cual él se inclina en el planeta.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que me anticipó esa persona después se cumplió porque Eurnekián descalificó las declaraciones de Milei diciendo que Milei no tiene estatura para evaluar al Papa.",
+      "score": 0.342,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después hubo una segunda declaración que fue la más agresiva diciendo con estos desequilibrios emocionales o con esta agresividad debería pensar Milei hacia dónde quiere ir porque no estamos en condiciones de tener un dictador.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Probablemente Eurnekián que es inteligentísimo haga estas declaraciones no solamente para salvar su relación con el Papa sino además para salvar su relación con Milei o para salvar la relación de sus empresas con lo que podría ser un gobierno de Milei.",
+      "score": 0.617,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy probablemente la Corporación América no quiere ser el Bunge y Born de Milei y estén planteando este distanciamiento que probablemente haga juego con las declaraciones tan amenas que tuvo Eurnekián hacia Patricia Bullrich la semana que pasó.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que Milei contestó y dijo no, Eurnekián se está quejando y esta es una declaración dura.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se está quejando por las razones que él dice, se está quejando porque nosotros hemos objetado que le entreguen ahora el negocio de los DNI en una adjudicación directa del Ministerio del Interior.",
+      "score": 0.247,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No solamente porque es motivo de discusión de causas judiciales, etcétera, sino porque si llegara a ganar Milei, y eso todavía está por verse, y el ministro del Interior de Milei fuera **Guillermo Francos** le sería muy difícil a Francos asignarle semejante negocio a Eurnekián porque Francos trabajó hasta hace poco tiempo para Eurnekián en Corporación América.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, empiezan a aparecer conflictos donde no se esperaban y la figura de Milei empieza a adquirir matices, contradicciones, luces y sombras.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, Patricia Bullrich toma aire en las provincias, pelea, ya no por ganarle a Milei, sino por ganarle a Sergio Massa, y en las encuestas más consistentes, más confiables del gobierno, está a pocos puntos de Massa, intenta sostenerse en el radicalismo que acaba de ser un gran problema.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que acaba de ganar Mendoza con **Alfredo Cornejo**, que viene de ganar con **Leandro Zdero** la provincia de Chaco, con **Maximiliano Pullaro** Santa Fe, el radicalismo que carece de un liderazgo nacional le estaría dando impulso o algún sostén a la candidatura de Bullrich, cuyo principal desafío es disciplinarse ella como candidata.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque todo el mundo sabe que Juntos por el Cambio, y basta mirar la política de Juntos por el Cambio en la capital, se sostendrá unido solo si Bullrich gana el poder, para lo cual tiene que entrar en el balotaje.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tienen una estructura que el Pro no tiene a nivel territorial, pero carecen de un liderazgo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el 22 de octubre Patricia Bullrich no surge como una de las dos protagonistas de un eventual balotaje, en Juntos por el Cambio y en el radicalismo empieza otra historia.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hablar con ella sobre qué está viendo en el gobierno, qué está viendo en la campaña, qué está viendo en la democracia argentina a 40 años de su refundación.",
+      "score": 0.351,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por supuesto que dese al whisky porque **Carola Gil** nos va a traer no solamente el lanzamiento de una nueva encuesta sino que también nos pone frente al magisterio otra vez de Juan Domingo Perón que esta vez le va a hablar a los empresarios que no pueden pagar sueldos.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después de Odisea quédese porque en más entrevistas **Luis Novarese** va a entrevistar a uno de los financistas más interesantes, más divertidos, más inteligentes que tiene la Argentina que es **Claudio Zuchovicki**.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 70
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 3,
+      "derecha": 0
+    },
+    "score_promedio": 0.115,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Argentina necesita construir consensos.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La democracia argentina, la dirigencia política le debe esto a Argentina.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   **\"hay que en la Argentina abordar\"** se cambió a **\"hay que abordar\"**: Se eliminó una redundancia para mejorar la fluidez.",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 3
+  },
+  "etiqueta_original": "neutral"
+}

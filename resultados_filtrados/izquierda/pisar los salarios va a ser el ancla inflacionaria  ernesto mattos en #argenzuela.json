@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Viendo cómo está el dólar hoy, cómo están los precios internacionales, cómo subieron los costos en la Argentina también, ¿no?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Bueno, siguiendo lo que ya venían diciendo el Ministerio de Economía y el Presidente de la Nación, es un mayor ajuste presupuestario, como lo que estábamos viendo hoy, que lo único que creció de alguna manera en este ajuste presupuestario fue el pago de intereses de la *deuda*.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Casi el 94% de caída en lo que es la inversión en capital que tienen que realizar las provincias, que Nación nunca *refirió*.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Porque puede pasar que China vuelva a negociar con la Argentina, puede pasar que se utilice el instrumento de importaciones de China, puede pasar que se arregle con Estados Unidos y puede pasar que este año, 25.000 millones de dólares, no es una cosecha mala.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    },
+    {
+      "frase": "Ahora, el año que viene, *dependerá* si cuando sume el *bioetanol* o sube la tasa de interés o baja y *qué* es lo que pasa en Ucrania y Rusia, digamos, ¿no?",
+      "entidades_detectadas": [
+        "ucrania"
+      ]
+    }
+  ]
+}

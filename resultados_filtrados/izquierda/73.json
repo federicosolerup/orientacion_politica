@@ -1,0 +1,85 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Más o menos, yo dije, según mi experiencia, porque en el Senado hay 46 comisiones, de las cuales la mitad son comisiones dictaminadoras y la otra mitad son comisiones de cámara.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "Y en eso, por ejemplo, [Nombre del presidente anterior - información faltante] se va invicto porque pagó todos los meses, no se fue en default, dejó un billón en la caja, les dio plata a las provincias por convenios que tenían para ayudar en el tema de la sequía.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Así que bueno, [Nombre del presidente anterior - información faltante] nos dejó en default, no nos dejó un peso, dejó el 40% de lo que le dejamos en deuda a [Nombre de personaje - información faltante], dejó el 100% de [Abreviatura - información faltante].",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y lo más delicado es que [Nombre del presidente anterior - información faltante] se vuelve a hacer cargo de la economía, así que bueno, me preocupa realmente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Si [Nombre del presidente anterior - información faltante] desconoce el presupuesto plurianual, vamos a tener muchos problemas, muchas demandas, ¿verdad?, porque son convenios entre Nación y provincia.",
+      "entidades_detectadas": [
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "¿Va a desconocer los presupuestos plurianuales, los compromisos que tiene la Nación con las provincias?",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Este, el de Mendoza también, cuando les corte eso, ¿qué va a decir?",
+      "entidades_detectadas": [
+        "mendoza"
+      ]
+    },
+    {
+      "frase": "El Fondo de Garantía de Sustentabilidad que va a controlar.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "También explica el tema del endeudamiento con el FMI y el endeudamiento completo, y bueno, ese mismo grupo se hace cargo de la economía argentina ahora.",
+      "entidades_detectadas": [
+        "argentina",
+        "fmi"
+      ]
+    },
+    {
+      "frase": "El problema que tiene Argentina muchas veces es que es mejor que el debate público que tiene.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Si van a privatizar las empresas… hay algunos que ya dijeron que el PAMI vale 8.000 millones, el maquinario del PAMI que tiene de presupuesto por cuatro años, 8.000 millones de dólares, lo están empezando a regalar.",
+      "entidades_detectadas": [
+        "pami"
+      ]
+    },
+    {
+      "frase": "De acuerdo a que había empresas, por ejemplo, de energía, que al Estado le habían salido dos mil millones o tres mil millones de dólares y las vendieron por cuatro a siete porque ellos consideraban que no habían cumplido su ciclo, que habían estado amortizadas.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y bueno, se quieren quedar con el Estado y se quieren quedar con todo, así que nos dejen algo para el pueblo, José.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

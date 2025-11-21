@@ -1,0 +1,254 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Usted está ingresando en una zona de alta peligrosidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después de tantos días de fuego y catástrofe ambiental, los correntinos en particular y los argentinos en general, por fin tenemos algo que celebrar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La bendición de la lluvia apagó la mayoría de los incendios que devastaron la provincia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tal vez, don José de San Martín, el padre de la patria, nos dio una mano desde el cielo de los héroes nacionales, porque en esa tierra que volvió a respirar, un día como hoy, pero de 1778, nació el libertador de América.",
+      "entidades_detectadas": [
+        "América",
+        "San Martín",
+        "don José"
+      ]
+    },
+    {
+      "frase": "En una humilde casa de Yapeyú, a orillas del río Uruguay, en lo que eran las misiones jesuíticas, doña Gregoria Matorras dio a luz al argentino más grande de todos los tiempos.",
+      "entidades_detectadas": [
+        "Yapeyú",
+        "Gregoria Matorras",
+        "río Uruguay"
+      ]
+    },
+    {
+      "frase": "Rescatar su vida y obra llenará nuestros pulmones de esperanza frente a tantas frustraciones de un gobierno nacional que solo produce bronca y rechazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con el mundo que parece arrodillarse frente a un tirano invasor y criminal como Vladimir Putin, viene bien recordar que San Martín también cruzaba las fronteras, pero para darle libertad y romper las cadenas a otros países.",
+      "entidades_detectadas": [
+        "San Martín",
+        "Vladimir Putin"
+      ]
+    },
+    {
+      "frase": "Está claro que a San Martín lo necesitamos más que nunca, ¿no?",
+      "entidades_detectadas": [
+        "Está",
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Qué bien nos vendría en estos tiempos de cólera y Twitter su sabiduría y su coraje patriótico.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Qué bien nos vendría que bajara del bronce o se escapara de los libros para dar cátedra de cómo ser un buen argentino sin robar ni perseguir a nadie ni sembrar el odio entre los hermanos.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Porque todavía vive en el corazón de los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "San Martín era austero y honrado hasta la obsesión.",
+      "entidades_detectadas": [
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Incluso hizo quemar a su esposa Remedios de Escalada los fastuosos vestidos de París que tenía porque decía que no eran lujos dignos de un militar.",
+      "entidades_detectadas": [
+        "Remedios de Escalada",
+        "tenía",
+        "París"
+      ]
+    },
+    {
+      "frase": "San Martín manejó cataratas de fondos públicos y sin embargo murió sin un peso.",
+      "entidades_detectadas": [
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "En su testamento se negó a todo tipo de funerales.",
+      "entidades_detectadas": [
+        "negó"
+      ]
+    },
+    {
+      "frase": "La muerte lo encontró en el exilio casi ciego y muy lejos de Puerto Madero, en todo el sentido.",
+      "entidades_detectadas": [
+        "Puerto Madero"
+      ]
+    },
+    {
+      "frase": "Don José de San Martín fue un ejemplo de rectitud cívica en tiempos de traiciones, corrupción y contrabando.",
+      "entidades_detectadas": [
+        "Don José",
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Estamos hablando del general San Martín, que como primer acto de gobierno en Perú aseguró la libertad de prensa, decretó la libertad de los indios y de los hijos de esclavos, y además redactó el estatuto provisional, un claro antecedente de nuestra Constitución, tan humillada durante demasiado tiempo.",
+      "entidades_detectadas": [
+        "Constitución",
+        "San Martín",
+        "Perú"
+      ]
+    },
+    {
+      "frase": "Su gran preocupación fue no concentrar el poder y por eso creó el Consejo de Estado y se preocupó porque el poder judicial fuera realmente independiente.",
+      "entidades_detectadas": [
+        "Consejo de Estado"
+      ]
+    },
+    {
+      "frase": "Repito, insisto, todo lo contrario al \"vamos por todo\" y al intento de dominar y poner de rodillas a la justicia para lograr la impunidad.",
+      "entidades_detectadas": [
+        "Repito"
+      ]
+    },
+    {
+      "frase": "Una de las enseñanzas más maravillosas que nos dejó San Martín tiene que ver con su rechazo al silencio temeroso generado por todos los autoritarismos.",
+      "entidades_detectadas": [
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Dijo: \"Hace más ruido un solo hombre gritando que muchos callados\", con tantas aulas cerradas por tanto tiempo, con tanto \"vara\" de la vida que defiende sus privilegios más que a la educación pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué bien que nos vería ahora ese San Martín, convencido de que la educación es la forma más profunda de la soberanía.",
+      "entidades_detectadas": [
+        "San Martín",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Decía que la educación es más poderosa que un ejército para defender la independencia.",
+      "entidades_detectadas": [
+        "Decía"
+      ]
+    },
+    {
+      "frase": "Le sintetizo el tipo de dirigente que nos dejó San Martín como su ejemplo: respeto por la libertad de expresión, independencia de poderes, austeridad republicana, honradez a prueba de bala, coraje y estrategia y un profundo amor por una patria de todos y para todos.",
+      "entidades_detectadas": [
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Es el padre de la patria y nosotros, sus hijos, debemos honrar su memoria, tratando de multiplicar sus valores y de construir una Argentina a su imagen y semejanza.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Un día como hoy nació José de San Martín.",
+      "entidades_detectadas": [
+        "José de San Martín"
+      ]
+    },
+    {
+      "frase": "Cristina (Fernández de Kirchner) cometió alguna vez la herejía de sugerir algún tipo de comparación porque Néstor Kirchner también nació un 25 de febrero.",
+      "entidades_detectadas": [
+        "Fernández de Kirchner",
+        "Cristina",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Hubo hasta un video increíble, insólito, titulado \"Dos gigantes de la historia\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hace una década, un editorial del diario La Nación ponía las cosas en su lugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pretender hacer esa comparación es un descaro que desprecia la historia y la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una actitud irrespetuosa y representativa del servilismo y el desvergonzado afán de poner la historia al servicio de la ideología.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque San Martín es nuestro e incomparable y nos puede ayudar a sacar lo mejor de nosotros.",
+      "entidades_detectadas": [
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Digo para no rendirnos, para no bajar los brazos frente a los que fabrican autoritarismo para conseguir la suma del poder público.",
+      "entidades_detectadas": [
+        "Digo"
+      ]
+    },
+    {
+      "frase": "Un San Martín para que nos siga iluminando aún en los momentos más oscuros, como en aquel combate de San Lorenzo, cuando junto a nuestros granaderos, aliados de la gloria, inscribieron en la historia su página mejor.",
+      "entidades_detectadas": [
+        "San Martín",
+        "San Lorenzo"
+      ]
+    },
+    {
+      "frase": "Tras los muros, sordos y dignos, hoy se dejan de conocer y de hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son la suerte que preparan San Martín para luchar en San Lorenzo y el Clarín.",
+      "entidades_detectadas": [
+        "San Martín",
+        "Clarín",
+        "San Lorenzo"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Clarín",
+    "Qué",
+    "Rescatar",
+    "tenía",
+    "Digo",
+    "Remedios de Escalada",
+    "San Martín",
+    "Néstor Kirchner",
+    "Constitución",
+    "Está",
+    "Yapeyú",
+    "Perú",
+    "Argentina",
+    "América",
+    "Don José",
+    "Gregoria Matorras",
+    "San Lorenzo",
+    "Incluso",
+    "Decía",
+    "Cristina",
+    "Vladimir Putin",
+    "Puerto Madero",
+    "Después",
+    "Fernández de Kirchner",
+    "don José",
+    "Repito",
+    "Consejo de Estado",
+    "París",
+    "río Uruguay",
+    "negó"
+  ]
+}

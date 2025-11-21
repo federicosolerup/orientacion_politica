@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Leandro Kahn, presidente de la Fundación Westpence, me comentó la semana pasada que la cobertura vacunal en Argentina está bajando.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La compra de vacunas puede hacerse a través del Fondo Rotatorio de la OPS, acuerdos bilaterales o licitaciones públicas.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Ese registro, que funciona perfectamente, permite ver en Mi Argentina las dosis aplicadas, y fue gestionado por la Dirección de Control de Enfermedades Inmunoprevenibles.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Como ejemplo, mire lo que pasó con el dengue cuando se perdió la rectoría del Estado Nacional.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El Estado Nacional, a través de la Dirección de Control de Enfermedades Inmunoprevenibles, ordena la situación.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Empezaron con las vacunas, el VIH, la tuberculosis…  Flores está blindado por ley, pero el año pasado solicitamos información sobre la compra de preservativos por el Estado Nacional y la respuesta fue cero.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

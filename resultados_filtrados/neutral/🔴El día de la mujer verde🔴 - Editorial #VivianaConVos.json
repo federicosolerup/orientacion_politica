@@ -1,0 +1,43 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Soy Ofelia Fernández, presidenta electa del Centro de Estudiantes del Carlos Pellegrini.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "El presidente del Centro de Estudiantes del Carlos Pellegrini y Gonzalo Cardona, Centro de Estudiantes.",
+      "entidades_detectadas": [
+        "carlos",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Es qué Argentina querés?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El presidente es feminista, menos feminista, mejor que Jorge Corona.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Hoy conversamos con Jorge Macri, con Carlos Sá, nos vamos a hacer un festín con Las Verdes.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Pero tengo la buena noticia del día, ya converso con Jorge Macri y con Carlos Sá.",
+      "entidades_detectadas": [
+        "macri",
+        "carlos"
+      ]
+    }
+  ]
+}

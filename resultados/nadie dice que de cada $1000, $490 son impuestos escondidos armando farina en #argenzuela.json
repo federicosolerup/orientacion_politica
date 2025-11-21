@@ -1,0 +1,530 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Argentina, Distribuidores y Autoservicios Mayoristas.",
+      "entidades_detectadas": [
+        "Distribuidores",
+        "Argentina",
+        "Autoservicios Mayoristas"
+      ]
+    },
+    {
+      "frase": "Armando O'Farrell, Jorge Rial, de Radio D.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Radio D.",
+        "Armando O'Farrell"
+      ]
+    },
+    {
+      "frase": "Buen día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buen día, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Gracias por la llamada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, por favor, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver, ¿hay una percepción o es una realidad?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Digo, ¿la gente ya está notando aumentos?",
+      "entidades_detectadas": [
+        "¿",
+        "Digo"
+      ]
+    },
+    {
+      "frase": "A ver, Jorge, hay productos que es inevitable que, si hay un ajuste en el tipo de cambio, suban; son todos los productos que se rigen por el valor global internacional, como la soja, el girasol, el café…  Estos son commodities que cotizan diariamente en el mercado de Chicago al valor internacional, y eso se multiplica por el valor del dólar que se consigue hoy.",
+      "entidades_detectadas": [
+        "Chicago",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "La vacunación no tiene relación con esto; el ajuste es inmediato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros ayer ya estuvimos recibiendo listas de aumentos del 8%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que estamos haciendo en el sector del canal mayorista es, como hemos recibido mercadería a precio viejo, trasladar solo la mitad del aumento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya cuando compremos a precio nuevo, trasladaremos todo el aumento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuántos se están calculando esos aumentos, Armando?",
+      "entidades_detectadas": [
+        "Armando",
+        "¿Cuántos"
+      ]
+    },
+    {
+      "frase": "En aceites, las listas nuevas que pasaron muestran un 8%; en trigo, café y caballa, alrededor de un 6%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es más o menos lo que se está manejando: un 8% en aceite, principalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aceites y café están más o menos en esos valores.",
+      "entidades_detectadas": [
+        "Aceites"
+      ]
+    },
+    {
+      "frase": "Bien, ¿y no te has escuchado al presidente Milei hablando de esto, de dónde hay que meterse los aumentos y todo eso, Armando?",
+      "entidades_detectadas": [
+        "Milei",
+        "¿",
+        "Armando"
+      ]
+    },
+    {
+      "frase": "Sí, la realidad es que justo recién estábamos hablando de esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tema es que el canal mayorista, supermercados y almacenes de barrio, es el canal más competitivo a nivel nacional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, si los industriales trasladan los aumentos, no queda otra que trasladarlos también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, si los industriales bajan los precios o nos cambian las listas, seguramente ni el canal supermercado, ni el almacenero ni el mayorista lo van a trasladar porque nuestro canal es el único que realmente compite de verdad en Argentina por algo muy simple: todos vendemos lo mismo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Entonces, todos estamos tratando de hacer la mejor promoción, el mejor descuento, porque, a comparación de períodos inflacionarios, hoy las marcas tienen tiempo de buscar su mejor promoción, su mejor precio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es como en un período inflacionario, donde lo que no llevas hoy, mañana ya sabes que está más caro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si alguien se está apurando en subir los precios, seguramente lo va a sufrir en su facturación, porque lo que está haciendo es mandar a sus clientes a la competencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Armando, buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Andrés Lernard, saluda.",
+      "entidades_detectadas": [
+        "Andrés Lernard"
+      ]
+    },
+    {
+      "frase": "Buenos días, Andrés, un gusto.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Estos aumentos que decías, de las listas nuevas, entre el 8% y el 6%, ¿cómo se comparan con los aumentos anteriores al salto del dólar de esta semana?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, en el caso de las categorías que les mencioné recién, no tenían aumentos desde diciembre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, eran listas que no se habían tocado desde diciembre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos seguramente lo que estás tratando de ver es el índice de alimentos que se dio en marzo, que fue alto (5,9%), aunque el índice general fue de 3,7%.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Pero eso se debe a la fuerte influencia del aumento brusco de la carne y sus derivados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que quería era tener una referencia, porque recibimos listas nuevas más o menos todas las semanas, pero quería ver si los aumentos de esta semana fueron mayores a los de las semanas anteriores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver, lo que estuvo pasando los últimos tres meses antes de esta regulación del tipo de cambio, es que las compañías normalmente se pasaban listas, pero, al mirarlas, tenían productos con algunos precios subiendo y otros bajando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, claramente se veía que en cada producto estaban armando costos; eso era muy evidente en todas las listas que recibíamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Había algunos productos que subían y otros que bajaban.",
+      "entidades_detectadas": [
+        "Había"
+      ]
+    },
+    {
+      "frase": "En cambio, la lista que hemos recibido esta semana fue claramente un ajuste por el tipo de cambio, como te comentaba antes, en aceite, café y ese tipo de commodities internacionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, ¿y hay algún otro producto que haya aumentado, que quizás no tenga tanta referencia en los commodities?",
+      "entidades_detectadas": [
+        "¿",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "No, por ahora no, pero estoy seguro de que si tocan luz, gas o combustible, va a haber traslados, porque los otros productos, a no ser que sean derivados de commodities, se ven mucho más reflejados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La incidencia de los precios afecta mucho más cuando aumentan todos los servicios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, cuando el presidente dice estas cosas de dónde meterse los aumentos, hay algo que también es cierto: el primer blanco de las quejas por los aumentos de precios son los supermercados y los mayoristas, donde va la gente a comprar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie va a putear al que fabrica, y ustedes quedan en una situación incómoda.",
+      "entidades_detectadas": [
+        "putear"
+      ]
+    },
+    {
+      "frase": "No, es real, siempre se la terminan agarrando con el almacenero, con el supermercadista o el mayorista, pero lo que nadie dice es que, de cada mil pesos que se consumen en un supermercado, 490 son impuestos ocultos en el precio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, cuando un municipio sube las tasas municipales, uno termina subiendo los precios porque están subiendo los impuestos; o cuando la provincia sube Ingresos Brutos, o cuando te aumentan el impuesto al cheque, o cualquier tipo de impuesto, porque se esconden detrás de los precios.",
+      "entidades_detectadas": [
+        "Ingresos Brutos"
+      ]
+    },
+    {
+      "frase": "Eso pasa siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la realidad es que nosotros en algún momento también vimos con buenos ojos que se abrieran las importaciones, porque nos daba mucha cosa ver que, cruzando a Chile o Uruguay, las mismas marcas de empresas argentinas estaban mucho más baratas que acá.",
+      "entidades_detectadas": [
+        "Uruguay",
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Entonces, la incidencia de los impuestos más el tener un mercado cerrado, en donde un monopolio termina cobrando lo que quiere porque no tiene competencia, perjudica al consumidor final.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, nosotros siempre estamos del lado del consumidor final y por eso vimos con buenos ojos que permitieran que algunas categorías se pudieran importar, obligando a que algunas primeras marcas bajaran de precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde se siente eso, Armando?",
+      "entidades_detectadas": [
+        "Armando"
+      ]
+    },
+    {
+      "frase": "No te entiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde se siente ese cambio, digo, al entrar la importación, en qué rubro se siente más?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mira, lo hemos visto mucho en productos de góndola: hemos tenido hasta importación de sardinas, de escabeches, de puré de tomates, y han acopado los precios a la baja.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Y te fijas, la categoría alimentos, en los últimos 14 meses, con respecto al índice general de precios, es la categoría que menos ha subido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, la apertura y la competencia han servido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, vos decías, Armando, que ustedes se ponen siempre del lado del consumidor, ¿cómo está el consumidor ahora?",
+      "entidades_detectadas": [
+        "Armando"
+      ]
+    },
+    {
+      "frase": "Porque justo recién veía los datos que publicó ayer la consultora Esentia, que decía que, en marzo de 2025, en comparación con marzo de 2024, volvió a caer el consumo, o estuvo por debajo del consumo del año pasado.",
+      "entidades_detectadas": [
+        "Esentia"
+      ]
+    },
+    {
+      "frase": "Mira, es muy interesante tu pregunta, porque nuestra cámara, CADAM, es una cámara nacional, y hemos dividido esto en cinco escenarios.",
+      "entidades_detectadas": [
+        "Mira",
+        "CADAM"
+      ]
+    },
+    {
+      "frase": "Cuando analizas el consumo del sur argentino, está explotado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo lo que es Vaca Muerta, todo lo que es desarrollo minero, toda esa zona de consumo está explotada.",
+      "entidades_detectadas": [
+        "Vaca Muerta"
+      ]
+    },
+    {
+      "frase": "Es una zona que parece que estuviera viviendo en otro país, en otro planeta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después tenés el norte argentino, donde el consumo está bastante estancado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después, en el centro del país (Santa Fe, Córdoba), el consumo desde mayo o junio del año pasado se fue recuperando.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Esos son tres escenarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después tenemos otros dos escenarios, que son los que se marcan mucho por los ingresos de las personas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El salariado que está dentro del sistema, en blanco, que tiene un salario que se fue ajustando, y no ha reajustado levemente por arriba de la inflación, está mucho mejor que la persona que está con salarios informales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El salario informal es lo que viene muy atrasado, 30 o 40 puntos por debajo de la inflación, especialmente en Gran Buenos Aires.",
+      "entidades_detectadas": [
+        "Gran Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Y esas son las zonas que realmente están sufriendo la crisis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esas son las zonas que cubren principalmente los clientes de los mayoristas y los almacenes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perfecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Armando, gracias por la nota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abrazo grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abrazo a vos y muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te felicito por tu programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias, Armando.",
+      "entidades_detectadas": [
+        "Armando"
+      ]
+    },
+    {
+      "frase": "Armando O'Farrell es vicepresidente de la Cámara Argentina de Distribuidores de Autoservicio Mayorista.",
+      "entidades_detectadas": [
+        "Cámara Argentina de Distribuidores de Autoservicio Mayorista",
+        "Armando O'Farrell"
+      ]
+    },
+    {
+      "frase": "Bueno, acá lo que dice… Porque claro, cuando Milei dice que se metan en el culo los aumentos, el supermercadista, el almacenero, el primer blanco de las quejas… Vos, cuando vas a comprar, puteas al tipo.",
+      "entidades_detectadas": [
+        "Milei",
+        "Bueno",
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Habló también de los impuestos: decía que de 1000 pesos, casi 500 son de impuestos.",
+      "entidades_detectadas": [
+        "Habló"
+      ]
+    },
+    {
+      "frase": "Habló de las tasas municipales, también.",
+      "entidades_detectadas": [
+        "Habló"
+      ]
+    },
+    {
+      "frase": "Y habló de la importación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Interesante ese dato, como en algunos rubros la importación hace bajar los precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Habló de la caballa, habló del atún, de la leche también.",
+      "entidades_detectadas": [
+        "Habló"
+      ]
+    },
+    {
+      "frase": "Y habló de los monopolios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un problema en este país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, también es un problema el pensar que vas a abrir la importación y vas a solucionar el quilombo, porque también es menos trabajo para la gente que está en Argentina.",
+      "entidades_detectadas": [
+        "quilombo",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Pero hay cosas puntuales… Porque es cierto, lo vi, me contaban que la industria textil la está sufriendo… Terrible.",
+      "entidades_detectadas": [
+        "Terrible"
+      ]
+    },
+    {
+      "frase": "Mal.",
+      "entidades_detectadas": [
+        "Mal"
+      ]
+    },
+    {
+      "frase": "Terrible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mal.",
+      "entidades_detectadas": [
+        "Mal"
+      ]
+    },
+    {
+      "frase": "Es todo un tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahí también hay que ver la industria del calzado, la industria textil… También hay que ver contra qué competís, porque muchas veces competís contra precios de dumping, contra países que tienen mano de obra esclava.",
+      "entidades_detectadas": [
+        "También",
+        "qué competís"
+      ]
+    },
+    {
+      "frase": "Siempre hay que ver contra qué competís.",
+      "entidades_detectadas": [
+        "qué competís"
+      ]
+    },
+    {
+      "frase": "Y entonces ahí los países toman decisiones de defender tal sector, tal otro no, porque tal vez no genera tanto empleo y paga demasiado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Gracias",
+    "También",
+    "Mal",
+    "Esos",
+    "Ingresos Brutos",
+    "Andrés",
+    "Abrazo",
+    "Cámara Argentina de Distribuidores de Autoservicio Mayorista",
+    "Uruguay",
+    "Había",
+    "Jorge Rial",
+    "Gran Buenos Aires",
+    "Digo",
+    "Buenos",
+    "Vaca Muerta",
+    "Córdoba",
+    "Aceites",
+    "Armando O'Farrell",
+    "Vos",
+    "Claro",
+    "Radio D.\n\nBuen",
+    "¿Cuántos",
+    "Argentina",
+    "Terrible",
+    "Armando",
+    "Santa Fe",
+    "Bueno",
+    "Bien",
+    "Autoservicios Mayoristas",
+    "Andrés Lernard",
+    "Distribuidores",
+    "¿Dónde",
+    "¿",
+    "Esentia",
+    "Mira",
+    "CADAM",
+    "putear",
+    "quilombo",
+    "qué competís",
+    "Chile",
+    "Jorge",
+    "Milei",
+    "Chicago",
+    "Habló"
+  ]
+}

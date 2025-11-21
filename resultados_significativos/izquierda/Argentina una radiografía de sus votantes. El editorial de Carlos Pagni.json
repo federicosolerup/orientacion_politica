@@ -1,0 +1,301 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 39,
+      "derecha": 18
+    },
+    "score_promedio": 0.324,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vimos la inauguración del gasoducto Néstor Kirchner, que fue convertida en un acto de campaña, como debíamos esperar que iba a ocurrir.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo pasó con el gasoducto, con una acción de gobierno que se mezcla con el proselitismo, sobre todo porque no sabemos en qué momento Sergio Massa y Agustín Rossi van a renunciar a sus cargos como para competir, no digamos en igualdad de condiciones, pero de manera un poco más leal con sus rivales en el llano.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alrededor del gasoducto se desató una polémica electoral, muy, diríamos, estridente y, al mismo tiempo, aburrida, pesada, porque, para usar una expresión de Cristina Fernández de Kirchner, son textos sin contexto, se tiran desde el gobierno y la oposición con el gasoducto que hay, con el gasoducto que no hubo, con argumentos que todos consisten en medias verdades, en datos falseados o datos que, justamente, se sacan de contexto como para herir al adversario con argumentos, entre comillas, técnicos.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, en esa polémica, se han enredado Cristina Fernández de Kirchner y Mauricio Macri.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo concreto es que la Argentina dispone de volúmenes importantísimos de gas y de petróleo, por distintas razones, no es solamente la bendición de la naturaleza, son los esfuerzos y avances en productividad que han hecho las empresas en los últimos años, muchas veces en condiciones adversas desde el punto de vista de la macroeconomía.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora, con este gasoducto, y acá hay datos objetivos que no son susceptibles de provocar controversias, con este gasoducto la ecuación energética argentina puede modificarse muy saludablemente.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, falta de reservas en el Banco Central por la necesidad de importar volúmenes caudalosísimos de gas y, en segundo lugar, problemas fiscales por la necesidad de subsidiar un gas tan caro.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto está en el corazón del desbarajuste macroeconómico que ha tenido la Argentina durante más de una década.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese informe de CAMMESA habla de que podría haber en los primeros tres años de funcionamiento de este gasoducto un ahorro de 3.500 millones de dólares, que son más o menos los números que plantea Dreizzen en esa nota que publicó el sábado *La Nación*.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según los cálculos de estos técnicos de CAMMESA, a partir del año 2025, la producción eléctrica en la Argentina podría estar ahorrándose por año 2.200 millones de dólares.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, muy probablemente, si los economistas que están pensando la economía para los próximos años, sobre todo los economistas que están pensando la economía del próximo gobierno, y están pensando naturalmente en ajustes que imaginamos van a ser muy rigurosos, muy desafiantes, bueno, este cambio en la ecuación energética podría llevar a que esos ajustes no sean tan antipáticos o no tengan que ser realizados de manera tan urgente.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De eso estamos hablando cuando hablamos del gasoducto, y esta es la discusión que, aparentemente, por la frivolidad de tirarse con los caños por la cabeza, Cristina Fernández de Kirchner o Macri, no podemos enfocar.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tampoco el gobierno pudiera este mensaje, que podría ser un mensaje universal, un mensaje que involucre a toda la nación en lo que puede ser una perspectiva de cambio, no, eligió, como suele suceder, la dialéctica amigo-enemigo y, en todo caso, la venganza.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted está muy, bastante, poco o nada de acuerdo con, uno, que para luchar contra la inseguridad es necesario aumentar las penas.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Usted le genera más confianza a una empresa pública o a una empresa privada?",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Para usted qué es lo mejor para un país?",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un país donde el empleo lo crea el Estado y las empresas públicas, 33%.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, ese 33% sube a 54% en el caso de los votantes de Unión por la Patria y este 60% sube a 72% la predilección por lo privado en el caso de los votantes de Juntos por el Cambio y a 75% en el caso de los votantes de La Libertad Avanza.",
+      "score": 0.349,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podríamos sacar algunas conclusiones respecto de la transferencia de votos que podría haber entre las distintas fuerzas, dados estos alineamientos.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "cuánto está usted de acuerdo en que las personas puedan tomar decisiones sobre su propia muerte en situaciones médicas extremas?",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un electorado que, si le preguntamos por discriminación, consideran un 73% que hay personas discriminadas en la Argentina y un 27% que no, que no hay discriminación.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A este país le hablan los políticos.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la radiografía de la sociedad argentina en estas elecciones.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digamos, ¿la idea de dos bloques extremos que uno mira al otro como enemigo, todo blanco y negro, sigue siendo la forma en que se organiza la opinión pública respecto de la política en la Argentina o eso está cambiando y empieza a ser anacrónico?",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de este problema, apareció todo un debate sobre un *spot*, el primer *spot* de la campaña de Patricia Bullrich, donde plantea que tiene que haber un cambio muy marcado, muy drástico, muy draconiano, o es todo o es nada, dice ella, un poco recordando, con algún aire de familia, al \"vamos por todo\" de Cristina Fernández de Kirchner, pero, claro, es de la otra vereda ideológica, justamente, como una polarización muy extrema.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No es en el Congreso donde se discuten las leyes?",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente que acá hay una disputa explícita, después, insisto, vamos a hablar con Rodríguez Larreta sobre esto, y esa disputa explícita abre un signo de interrogación que venimos planteando y se plantea todo el mundo desde hace tiempo.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es un problema central en Juntos por el Cambio, sobre todo porque existe la opción Milei, y ahora existe la opción Massa, y habrá que ver si, para algunos votantes de Larreta, por ejemplo, si Larreta perdiera, no es más opción Massa que Patricia Bullrich, todo esto es un problema.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y además, porque en el caso de Bullrich, existe Milei, es decir, el votante de Bullrich, si perdiera Bullrich, podría sentirse más tentado a ir hacia Milei que ir hacia Larreta.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Unión por la Patria existe también esa disputa, pero está como larvada porque hicieron un gran esfuerzo por suprimir la interna.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aún así, fue imposible, y sigue habiendo una disputa formal entre Sergio Massa y Juan Grabois.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero quedó gente marginada en las listas y hay gente que no se siente reflejada en Massa y sí se siente más reflejada en Grabois.",
+      "score": 0.546,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un acto que organiza Mayra Mendoza junto a Daniel Ávila.",
+      "score": 0.279,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ambas muy identificadas con La Cámpora, muy identificadas con Cristina Fernández de Kirchner y, sobre todo, con Máximo Kirchner, y lo reciben a Grabois casi como si fuera el propio candidato.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y elogian en Grabois una virtud, la coherencia.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere sugerir esto que en Massa hay alguna incoherencia o ha habido incoherencia.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Andar con la coherencia como bandera es sospechoso, pero, seguramente, nuestra compañera, la más coherente de todas, Cristina Fernández, y Cristina, le están muy orgullosas a ver.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy al lado de uno de los sobrinos directos de Cristina y de una de las hijas directas de Cristina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahí están Daniela de Vilar y Mayra Mendoza acogiendo a Grabois como si fuera el candidato de La Cámpora.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto, necesitan un candidato que esté a la izquierda de Massa para que esos votos no se vayan a la abstención o no se vayan al Frente de Izquierda.",
+      "score": 0.285,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Patria es vos.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es un esfuerzo del equipo de campaña de Massa por retener y absorber a los que quedaron heridos, a los que podrían irse para otro lado, a los que no lo ven como candidato propio.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el resto, el jefe de campaña de la campaña de Massa es Massa.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé cuántas veces habrá viajado antes Massa a China, pero volvió sinólogo.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El camarada Deng Xiaoping, Massa, como el hombre de las reformas de una China moderna.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver cómo le cae a la gente de La Cámpora que se cumpla esta promesa.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gente que no se ve reflejada en el liderazgo de Cristina o que ha padecido el liderazgo de Cristina.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Van a tratar de cerrar heridas para el 19 de este mes recibir a Massa como candidato formal del movimiento obrero.",
+      "score": 0.411,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antes de que Massa fuera candidato en términos reales, bueno, finalmente acertó.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y estos sindicalistas, entre los cuales está alguien tan ligado a Massa y a Malena Galmarini como José Luis Lingeri, le van a realizar un acto a Massa en algún estadio cerrado para la primera o segunda semana de agosto, días antes de que se celebren las primarias.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema de Massa no son los próximos cuatro años ni los ocho años que es de lo que él está hablando delante de sus interlocutores, el problema de Massa son las próximas cuatro semanas, ¿por qué?",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque todavía está pendiente el problema del acuerdo con el Fondo, y la Argentina entró en una zona desconocida en la que otras veces entró, tal vez sin tanta intensidad o sin tanta complejidad, que es que ya no hay dólares, nos quedamos sin reservas, hace más o menos tres semanas Luciano Laspina dijo algo grave, no tuvo la repercusión que a lo mejor tendría que haber tenido, dijo: \"De los 10.000 millones de dólares de la gente depositados en los bancos o puestos en encajes en el Banco Central, solo quedan 2.000, 8.000 ya se los gastó el gobierno\".",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En que haya importaciones y la recesión no sea pavorosa, bueno, ya nos quedamos sin dólares, con un problema, todavía no está cerrado un acuerdo con el Fondo Monetario Internacional, que Massa viene diciendo que está cerrado desde hace dos meses y todavía ni siquiera pudieron viajar a Washington los colaboradores de Massa a terminar con ese acuerdo, dos versiones, la primera que va a haber un acuerdo por el cual el fondo va a hacer el desembolso que corresponde al mes de marzo, al cumplimiento o incumplimiento de metas del mes de marzo, a cambio de un ajuste y ese ajuste va a ser una devaluación, dicen en el gobierno pequeña, ¿qué sabemos qué es pequeña?",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos, tiembla Cristina Fernández de Kirchner, tiembla todo el gobierno porque dicen \"devaluación mal hecha va a los precios\" y los precios son centralmente los precios de los alimentos, por eso muchos sospechan que si hay una devaluación va a haber un intento de congelamiento de precios, probablemente un aumento de impuestos, ¿van a aumentar las retenciones a algunos bienes para poder, con esos recursos, subir las jubilaciones?, dijo Massa que va a haber buenas noticias en los próximos días para los abuelos y subir el monto de los planes sociales, esta es una de las posibilidades, la otra posibilidad la comentó el encargado, el representante de China en el Fondo, que se llama Tao Zhang, le escribió a Kristalina Georgieva diciendo \"si ustedes no cierran rápido el acuerdo con la Argentina, China pone o le permite a la Argentina usar el swap de monedas, los yuanes que tiene Argentina, chinos, para pagar por adelantado todos los vencimientos que tiene la Argentina de acá a diciembre\", son 7 mil millones de dólares que los pagaríamos en yuanes, y eso haría que la Argentina rompa el programa o sea parte del programa con el fondo, habrá que ver más adelante negociar otro programa si es que el próximo gobierno quiere, y esto le permitiría a Massa fundar el discurso que viene insinuando desde hace una semana de ruptura con el FMI, como la que hizo Néstor Kirchner, para eso lo incorporó a su campaña nada menos que a Amado Boudou.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que seguramente pagaríamos una tasa de interés más alta y no sabemos cuándo llegarían los vencimientos, para los cuales hay que conseguir dólares para comprar los yuanes y devolverlos, es decir, que no es magia, como dice Cristina Fernández de Kirchner, no fue magia, ni va a ser magia, es deuda, y una deuda importantísima, ¿por qué?",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, en un momento en que el conflicto entre China y Estados Unidos se vuelve cada vez más agresivo, se vuelve cada vez más intenso, la Argentina, por sus urgencias financieras, terminaría dándole a China la gran oportunidad de convertirse en un acreedor de un país mediano, un país importante en la región como es Argentina, como diría un experto en política internacional, es la diplomacia del mangazo, que lleva a distintos grados inevitables, en una mesa o en otra, en el fondo o en China, distintos grados de pérdida de soberanía.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar con Odisea charlando con Horacio Rodríguez Larreta, después vamos a escuchar a Daniel Vila hablando de una polémica bonaerense sobre la identidad del juez Martínez y su aspiración a ocupar un lugar en la Cámara de Garantías de la Provincia de Buenos Aires, un escándalo ligado al caso Schiavi que puso en la mira Elisa Carrió, y Pancho Oliveira nos va a hablar, como ya le anticipé, de la licitación de Aysa, y también vamos a hablar con Pacho del significado de las últimas designaciones de cardenales por parte del Papa, sobre todo en la Argentina, es muy interesante el tema, indica mucho respecto de cómo Bergoglio, cómo el Papa Francisco está pensando el futuro de la Iglesia, después vamos a tener una conversación inusual con un filósofo, va a estar con nosotros Eugenio Mongeau, ¿de qué vamos a hablar?, de música, de un libro de su padre sobre la invención musical, qué significa la música en la vida de las personas, en la vida de la sociedad, como ustedes saben están de viaje Camila Perochena y Anahí Parraguirre, por lo tanto, después, pasamos directamente al whisky, vamos a ver la encuesta que planteamos el último lunes, y abrimos una nueva encuesta que usted puede empezar a contestar desde ahora ya, en @odiseaargentina en Twitter, que es, ¿la Argentina tiene que mantener o no el acuerdo con el Fondo?, y Karol Agil nos trae para este whisky algo insólito, algo inesperado, de esas cosas sorprendentes que tiene la política, el homenaje secreto que este fin de semana Sergio Massa le realizó a Mauricio Macri, y quédese después de Odisea porque más entrevistas, Luis Novaresio entrevista al gran Santiago Covarrubias.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 57
+  },
+  "etiqueta_original": "neutral"
+}

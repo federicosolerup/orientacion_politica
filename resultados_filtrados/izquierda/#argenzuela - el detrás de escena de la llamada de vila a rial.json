@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Puse el teléfono al máximo volumen para que todos escucharan.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Durante 20 años, tuvimos una sociedad profesional muy exitosa con un programa como \"Intrusos\", que fue el pilar de América TV durante todo ese tiempo, el programa que pagaba los sueldos de la emisora.",
+      "entidades_detectadas": [
+        "américa"
+      ]
+    },
+    {
+      "frase": "No era la primera vez que lo escuchaba, ni el primer hecho violento en América TV.",
+      "entidades_detectadas": [
+        "américa"
+      ]
+    },
+    {
+      "frase": "Clarín es el medio más grande, pero América debe ser el segundo, por la cantidad de acciones de este tipo.",
+      "entidades_detectadas": [
+        "américa",
+        "clarín"
+      ]
+    }
+  ]
+}

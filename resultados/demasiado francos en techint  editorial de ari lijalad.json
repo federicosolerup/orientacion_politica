@@ -1,0 +1,208 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hoy, el Boletín Oficial anunció la continuidad de la intervención en los reguladores de gas y electricidad, además de un inminente aumento de tarifas discrecional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien se realizarán audiencias públicas para revisar las tarifas, el decreto firmado hoy permite aumentos arbitrarios mientras tanto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Simultáneamente, comenzó la gestión de deuda por parte de Caputo; más tarde analizaremos con Calo Berardi los motivos, pero se ha autorizado una ampliación de la deuda según lo previsto en el presupuesto.",
+      "entidades_detectadas": [
+        "Calo Berardi",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Adicionalmente, quiero destacar un evento reciente organizado por el grupo Techint, una empresa que opera en Argentina pero paga impuestos en Luxemburgo.",
+      "entidades_detectadas": [
+        "Luxemburgo",
+        "Argentina",
+        "Techint"
+      ]
+    },
+    {
+      "frase": "Techint está controlada por una sociedad luxemburguesa, a su vez controlada por una fundación en las Antillas Holandesas.",
+      "entidades_detectadas": [
+        "Antillas Holandesas",
+        "Techint"
+      ]
+    },
+    {
+      "frase": "Ni en Luxemburgo ni en las Antillas Holandesas produce, pero utiliza esta estructura para reducir su carga impositiva en Argentina.",
+      "entidades_detectadas": [
+        "Luxemburgo",
+        "Antillas Holandesas",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Paulo Rocca, el patriarca de Techint,  poco dado a las apariciones públicas, estuvo presente, junto a Guillermo Franco, ministro del Interior y figura clave del gobierno de Javier Milei, proveniente de Grupo América, propiedad de Eduardo Eurnekian, también activo en el actual contexto económico.",
+      "entidades_detectadas": [
+        "Guillermo Franco",
+        "Eduardo Eurnekian",
+        "Grupo América",
+        "Paulo Rocca",
+        "Javier Milei",
+        "Techint",
+        "ministro del Interior"
+      ]
+    },
+    {
+      "frase": "Comparto parte del discurso de Paulo Rocca:  “La situación es insostenible en todos los aspectos, tanto estructurales como coyunturales (mercado cambiario, financiero y actividad económica), agravada por la creciente intervención estatal.",
+      "entidades_detectadas": [
+        "Paulo Rocca"
+      ]
+    },
+    {
+      "frase": "Es necesario considerar una reforma laboral, dada la alta informalidad económica, en parte consecuencia de la carga social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos avanzar en una reforma laboral que permita una economía más sostenible dentro del programa del presidente Milei”.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Rocca destaca la insostenibilidad de la situación, el peso del Estado sobre las empresas y la necesidad de una reforma laboral.",
+      "entidades_detectadas": [
+        "Estado",
+        "Rocca"
+      ]
+    },
+    {
+      "frase": "Guillermo Franco, en un diálogo con Rocca durante el evento pro-pymes organizado por Techint, enfatizó la necesidad de reducir la carga estatal sobre el sector privado,  anunciando medidas a través de decretos de necesidad y urgencia o proyectos de ley en sesiones extraordinarias.",
+      "entidades_detectadas": [
+        "Guillermo Franco",
+        "Rocca",
+        "Techint"
+      ]
+    },
+    {
+      "frase": "Se busca abrir la economía argentina para potenciar la participación del sector privado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Franco citó la consigna presidencial: \"la obligación es hacerse ricos, generando riqueza, empleo y desarrollo social\".",
+      "entidades_detectadas": [
+        "Franco"
+      ]
+    },
+    {
+      "frase": "Franco le dijo a Techint que se hagan ricos, algo que ya vienen haciendo hace tiempo.",
+      "entidades_detectadas": [
+        "Franco",
+        "Techint"
+      ]
+    },
+    {
+      "frase": "Paulo Rocca es una de las tres personas más ricas de Argentina, con una fortuna cercana a los 3.000 millones de dólares, figurando entre las 1000 personas más ricas del mundo.",
+      "entidades_detectadas": [
+        "Paulo Rocca",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Eurnekian, dueño de Grupo América y cuyo ministro del interior estaba presente, ocupa el cuarto lugar en esa lista.",
+      "entidades_detectadas": [
+        "Grupo América"
+      ]
+    },
+    {
+      "frase": "Rocca añadió que el Estado debía dejar de ser una carga,  y que era necesario reducir los costos laborales.",
+      "entidades_detectadas": [
+        "Estado",
+        "Rocca"
+      ]
+    },
+    {
+      "frase": "En lo que va de 2023, Techint registró una rentabilidad del 31,8% (31 pesos de ganancia por cada 100 pesos de ventas),  muy superior al promedio del 12% de la década anterior.",
+      "entidades_detectadas": [
+        "31,8%",
+        "Techint"
+      ]
+    },
+    {
+      "frase": "Sus ganancias superan los 200.000 millones de pesos en 2023, llegando casi a 990.000 millones si se incluye el gasoducto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras Rocca reclama la reducción de la carga estatal, y Franco alienta a los empresarios a enriquecerse, la ministra de Capital Humano, Sandra Petrobelli, anuncia la suspensión de planes sociales para quienes participen en protestas.",
+      "entidades_detectadas": [
+        "Sandra Petrobelli",
+        "Capital Humano",
+        "Franco",
+        "Rocca"
+      ]
+    },
+    {
+      "frase": "Casi el 5% del PBI corresponde a beneficios tributarios, la mitad (2,5%) destinados a empresas, mientras que los programas sociales representan el 1% del PBI.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los beneficios para grandes empresas duplican la inversión en programas sociales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se observa una transferencia de riqueza desde 2017, con caída de la productividad y los salarios reales, que a pesar de la recuperación de la productividad post-pandemia, los salarios reales permanecen estancados o en descenso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto refleja una transferencia de riqueza de los trabajadores a las empresas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En resumen,  el mensaje a Techint es claro: \"háganse ricos\", mientras que se reduce la ayuda social.",
+      "entidades_detectadas": [
+        "Techint"
+      ]
+    },
+    {
+      "frase": "Esta situación evidencia una clara transferencia de riqueza, tal como se ha mostrado en gráficos del Centro de Investigaciones Cifra.",
+      "entidades_detectadas": [
+        "Centro de Investigaciones Cifra"
+      ]
+    },
+    {
+      "frase": "Elisabeth Radio, 110.3 Nuestra Radio.",
+      "entidades_detectadas": [
+        "Elisabeth Radio"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Caputo",
+    "Javier Milei",
+    "Comparto",
+    "31,8%",
+    "Adicionalmente",
+    "ministro del Interior",
+    "Eduardo Eurnekian",
+    "Capital Humano",
+    "Paulo Rocca",
+    "Luxemburgo",
+    "Estado",
+    "Franco",
+    "Simultáneamente",
+    "Calo Berardi",
+    "Antillas Holandesas",
+    "Elisabeth Radio",
+    "Centro de Investigaciones Cifra",
+    "Guillermo Franco",
+    "Argentina",
+    "Eurnekian",
+    "Rocca",
+    "Sandra Petrobelli",
+    "Techint",
+    "Milei",
+    "Grupo América"
+  ]
+}

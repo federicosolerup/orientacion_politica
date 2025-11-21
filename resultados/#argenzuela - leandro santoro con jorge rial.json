@@ -1,0 +1,402 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buenos días, Jorge Rial.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Esta semana ha sido terrible para la seguridad en la Ciudad de Buenos Aires.",
+      "entidades_detectadas": [
+        "Ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Cuatro personas murieron y un niño resultó herido de bala.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es difícil recordar un periodo similar en la ciudad con tanta violencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Han ocurrido entraderas en Recoleta y Palermo.",
+      "entidades_detectadas": [
+        "Palermo",
+        "Recoleta"
+      ]
+    },
+    {
+      "frase": "Hablando de víctimas, personas de carne y hueso, tenemos el caso de Darío Romero, un panadero sin antecedentes, asesinado por error en Ciudad Oculta.",
+      "entidades_detectadas": [
+        "Darío Romero",
+        "Ciudad Oculta"
+      ]
+    },
+    {
+      "frase": "En Villa Urquiza, Juan Graña, piloto de avión, recibió una puñalada en el cuello.",
+      "entidades_detectadas": [
+        "Juan Graña",
+        "Villa Urquiza"
+      ]
+    },
+    {
+      "frase": "En Palermo, asesinaron a Juan Francisco Fernández Acosta, un ingeniero de sistemas venezolano.",
+      "entidades_detectadas": [
+        "Palermo",
+        "Juan Francisco Fernández Acosta"
+      ]
+    },
+    {
+      "frase": "El sábado apareció un cadáver en Puerto Madero.",
+      "entidades_detectadas": [
+        "Puerto Madero"
+      ]
+    },
+    {
+      "frase": "El viernes, Tiziano, un niño de cuatro años, recibió un disparo y se encuentra internado en estado grave.",
+      "entidades_detectadas": [
+        "Tiziano"
+      ]
+    },
+    {
+      "frase": "Todo esto ocurrió en una sola semana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La razón principal es la falta de conducción política de las fuerzas policiales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lamentablemente, la policía no está cumpliendo con su trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es imposible controlar la seguridad en una ciudad como Buenos Aires sin una supervisión efectiva de la policía y una fuerte conducción civil que garantice el funcionamiento de todos los engranajes.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Y, la verdad, hace tres meses que no tenemos ministro de Seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Felipe Miguel está asumiendo la responsabilidad interinamente, pero la situación es insostenible.",
+      "entidades_detectadas": [
+        "Felipe Miguel"
+      ]
+    },
+    {
+      "frase": "Llama la atención que un supermercado baleado haya tenido más repercusión que la muerte de un policía en Rosario o los casos que mencionamos.",
+      "entidades_detectadas": [
+        "Llama",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Leandro Santoro: Sí, por supuesto.",
+      "entidades_detectadas": [
+        "Leandro Santoro: Sí"
+      ]
+    },
+    {
+      "frase": "Pongamos en contexto: Buenos Aires no es Rosario.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Rosario está descontrolada.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Su tasa de homicidios cada 100.000 habitantes —el indicador utilizado para medir la inseguridad— está muy por encima de la media nacional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la Ciudad de Buenos Aires, los números generales no son tan alarmantes, pero en los últimos tres meses, tras la licencia de Marcelo D'Alessandro (debido a la filtración de chats donde se lo veía arreglando una coima con dueños de grúas), la ciudad se descontroló.",
+      "entidades_detectadas": [
+        "grúas",
+        "Marcelo D'Alessandro",
+        "Ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Empezó con una toma de rehenes en Villa Urquiza en enero, siguieron los apuñalamientos a turistas austriacos en La Boca, y una cantidad increíble de delitos que muestran la ausencia de conducción política en la fuerza.",
+      "entidades_detectadas": [
+        "La Boca",
+        "Empezó",
+        "Villa Urquiza"
+      ]
+    },
+    {
+      "frase": "Sin una conducción política clara y con consignas definidas, ocurre lo que está sucediendo ahora en la ciudad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La distribución geográfica de la violencia también es un factor clave.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras que en Recoleta, según datos de 2021 (ya que aún no tenemos los de este año), la tasa de homicidios cada 100.000 habitantes es de 0,67 (muy baja), en La Boca es de 10.",
+      "entidades_detectadas": [
+        "Recoleta",
+        "La Boca"
+      ]
+    },
+    {
+      "frase": "Por eso las cifras generales de la ciudad parecen buenas: es un promedio entre el norte, donde se han resuelto algunos problemas, y el sur, absolutamente desamparado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los gráficos lo demuestran, como mostramos en la televisión hace diez días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay dos ciudades de Buenos Aires.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Desde 2018, hemos tenido cuatro ministros de Seguridad: primero, Marcelo D'Alessandro, luego, Diego Santilli (quien compartía funciones como vicejefe de gobierno), luego,  Eugenio Burzaco, y ahora Felipe Miguel.",
+      "entidades_detectadas": [
+        "Diego Santilli",
+        "Eugenio Burzaco",
+        "Marcelo D'Alessandro",
+        "Felipe Miguel"
+      ]
+    },
+    {
+      "frase": "En cinco años, cinco ministros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo se puede conducir una fuerza policial con esa inestabilidad?",
+      "entidades_detectadas": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "frase": "Además, hay dos casos que demuestran la falta de conducción: la desaparición de Arshad, un policía de la Ciudad cuya información del teléfono y la computadora fue borrada durante la investigación, y la muerte de Lucas González, un jugador de fútbol de 17 años asesinado por una brigada policial.",
+      "entidades_detectadas": [
+        "Ciudad",
+        "Además",
+        "Arshad",
+        "Lucas González"
+      ]
+    },
+    {
+      "frase": "Su juicio comienza este jueves; hay 11 policías involucrados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El caso revela dos niveles de responsabilidad: los que lo ejecutaron y los que participaron del encubrimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema es que las brigadas operan libremente, y eso facilita las \"cajas\" policiales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las brigadas son necesarias para investigaciones encubiertas, pero deben hacerlo bajo orden judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sobre el tema de la educación, la ola de calor reveló la falta de recursos en las escuelas: falta de agua, de aire acondicionado… Maru Bielak, diputada del Frente de Todos de la Ciudad, tuiteó que se repartieron 170.000 botellas de agua para 400.000 alumnos.",
+      "entidades_detectadas": [
+        "Frente de Todos de la Ciudad"
+      ]
+    },
+    {
+      "frase": "La política del gobierno de Horacio Rodríguez Larreta para combatir la ola de calor fue dar un vaso de agua.",
+      "entidades_detectadas": [
+        "Horacio Rodríguez Larreta"
+      ]
+    },
+    {
+      "frase": "Esto se denunció durante la pandemia, cuando era el momento para mejorar la infraestructura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero las obras se paralizaron, se subejecutó el presupuesto, y se recortaron fondos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Leandro Santoro: La interna del Frente de Todos es complicada.",
+      "entidades_detectadas": [
+        "Leandro Santoro",
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Trabajo por la unidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La derecha está muy fuerte y se aprovecha de nuestras diferencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Profundizar las críticas internas solo beneficia a la derecha, que necesita mostrarnos divididos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aunque hay divisiones internas, la derecha está aún más dividida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente está muy enojada por la situación económica, la inseguridad y la incertidumbre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las peleas internas entre políticos generan desilusión e indignación, que son capitalizadas por la ultraderecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos tener cuidado, porque la indignación puede llevar a fanatismos y a la búsqueda de soluciones mágicas, autoritarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no nos enfocamos en la gente, seremos funcionales a la ultraderecha y a la antipolítica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ultraderecha está consiguiendo una aceptación popular que antes no tenía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien acceden al poder democráticamente, su forma de ejercerlo es problemática: xenofobia, racismo, discriminación, insensibilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Proponen una sociedad donde gana el más fuerte, donde el Estado se retira y el mercado lo controla todo.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "En ese escenario, quien no pueda pagar, se queda sin servicios básicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En política, debemos mostrar compromiso, ideología y sensibilidad social, en lugar de peleas personales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos los partidos tienen problemas internos, pero hacerlos públicos solo beneficia a la derecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Pregunta sobre la relación con Alberto Fernández)  Alberto Fernández es una persona noble, dice lo que piensa.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Cuando dice que quiere trabajar para que el próximo presidente sea del espacio, lo cree.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puede que uno esté a favor o en contra de su gestión, pero es una persona honesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Sobre si la insistencia de La Cámpora en que Alberto Fernández no se presente se debe a que tiene más peso del que parece): Son especulaciones.",
+      "entidades_detectadas": [
+        "Alberto Fernández",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Debemos fortalecer el espacio, el Frente de Todos, y tener una propuesta unificada para enfrentar a la derecha.",
+      "entidades_detectadas": [
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "La gente espera respuestas a sus problemas cotidianos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Frente de Todos necesita acumular poder político.",
+      "entidades_detectadas": [
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Las transformaciones que necesitamos requieren mayorías en el Congreso y consenso social.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Para gobernar, necesitamos una teoría del poder y una estrategia para acumularlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso implica unidad y expansión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por la entrevista, Leandro.",
+      "entidades_detectadas": [
+        "Leandro"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Juan Graña",
+    "Congreso",
+    "Eugenio Burzaco",
+    "Ciudad",
+    "Ciudad Oculta",
+    "Leandro Santoro: Sí",
+    "Empezó",
+    "Frente de Todos",
+    "Alberto Fernández",
+    "Leandro",
+    "La Cámpora",
+    "Jorge Rial",
+    "Llama",
+    "Rosario",
+    "Juan Francisco Fernández Acosta",
+    "Villa Urquiza",
+    "Ciudad de Buenos Aires",
+    "Felipe Miguel",
+    "Además",
+    "Estado",
+    "La Boca",
+    "Frente de Todos de la Ciudad",
+    "Buenos días",
+    "Leandro Santoro",
+    "Profundizar",
+    "grúas",
+    "Recoleta",
+    "Marcelo D'Alessandro",
+    "Puerto Madero",
+    "Palermo",
+    "Lamentablemente",
+    "Lucas González",
+    "Buenos Aires",
+    "Darío Romero",
+    "Arshad",
+    "Trabajo",
+    "Diego Santilli",
+    "Horacio Rodríguez Larreta",
+    "Pongamos",
+    "Tiziano",
+    "Proponen"
+  ]
+}

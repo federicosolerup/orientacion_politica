@@ -1,0 +1,61 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "No lo pregunté yo, se lo preguntaré a Agustín Jerez, presidente de Energía Argentina.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Si pensamos en sustituir las políticas de gobierno (de cuatro años) por políticas de Estado a mediano y largo plazo (15 o 20 años), la recuperación de YPF es clave.",
+      "entidades_detectadas": [
+        "ypf",
+        "estado"
+      ]
+    },
+    {
+      "frase": "El desarrollo de Vaca Muerta, cuyo gas se transportará por este gasoducto, fue una decisión política que implicó una política de Estado en materia de desarrollo energético.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Recuperamos YPF en 2012.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "El Estado realizó las inversiones necesarias para desarrollar Vaca Muerta, lo que explica la necesidad de construir este gasoducto debido a la falta de capacidad de transporte.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Hace unos días, Sergio Massa anunció una segunda etapa del gasoducto.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    },
+    {
+      "frase": "Este proyecto, al igual que la segunda etapa del gasoducto, se financia con aportes del Tesoro Nacional y un 25% del aporte solidario.",
+      "entidades_detectadas": [
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Jorge: Hasta luego, Agustín Jerez, presidente de Energía Argentina.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

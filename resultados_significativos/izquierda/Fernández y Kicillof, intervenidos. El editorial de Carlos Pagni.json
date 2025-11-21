@@ -1,0 +1,436 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 49,
+      "derecha": 35
+    },
+    "score_promedio": 0.428,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Algo de eso está pasando en la Argentina o pasó con la promoción que hizo **Cristina Fernández de Kirchner** de dos figuras: **Alberto Fernández** y **Axel Kicillof**.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca lo va a decir Cristina Fernández de Kirchner, pero seguramente ya sabe que está frente a un error que ella misma cometió.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llaman la atención, porque en el caso de Axel Kicillof fue su ministro de economía y estuvo con ella mucho tiempo y mucho más en el caso de Alberto Fernández, que fue el jefe de gabinete de **Néstor Kirchner** y de ella por más de cinco años.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, ella puede decir que no notábamos cómo era Fernández como jefe de gabinete porque el verdadero jefe de gabinete era Néstor.",
+      "score": 0.544,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy tenemos la rareza de dos poderes ejecutivos: el de la nación y el de la provincia, intervenidos.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los dos, Alberto Fernández y Axel Kicillof, reducidos o recluidos en tareas protocolares, en tareas de ceremonial.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso del presidente, en una campaña que llama a veces a comentarios jocosos, estallan las redes sociales con comentarios graciosos sobre el tipo de actividades que se ha fijado Alberto Fernández.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, consiguiéndole (lo dijo en un off the record, pero era obvio que hablaba él) **Santiago Cafiero**, el canciller, lo admitió cuando dijo: \"Necesito conseguirle una foto con Biden\", como si Biden fuera el ratón Mickey, pero a diferencia de conseguirle o en sustitución de esa foto con Biden que todavía no apareció (habrá que ver si aparece cuando ambos se reúnan en la cumbre del G20 en Roma), le encontraron una entrevista con **Elegante** y eso es como una especie de exageración de caricatura de la intrascendencia que hoy tiene Alberto Fernández dentro del gobierno.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay tres grupos en el gobierno nacional, tres grupos por lo menos en la gobernación bonaerense: los originarios del presidente, los que rodean a Alberto Fernández, sus amigos, en general gente del peronismo de la Capital Federal; los de **Máximo Kirchner** (más allá de pequeñas diferencias que puede haber con Cristina Fernández de Kirchner, Lacampora es Cristina, es un instrumento que ella prácticamente generó para intervenir en el proceso político); y ahora el peronismo territorial, sea el de Manzur, que no sabemos hasta dónde representa o no algo más que a sí mismo, si es o no un canal de intervención en el gobierno nacional de una liga de gobernadores o de un peronismo más tradicional que se expresa también en los sindicatos, y los intendentes de la provincia de Buenos Aires aliados a Máximo Kirchner, pero que tienen su propia lógica territorial.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos conflictos tienen síntomas, todos los días emiten significados, el último fue la visita de Cristina Fernández de Kirchner a la Casa de Gobierno para el lanzamiento de un programa ligado al sector agropecuario, que mucha gente de la izquierda del kirchnerismo entendió como una defección, como un desistimiento de una política agropecuaria más ligada a la agresión al campo.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se habló mucho de que Cristina Fernández de Kirchner se refugió, como ha hecho en otras oportunidades, dentro de la Casa Rosada en el despacho del ministro del Interior, de **Eduardo \"Wado\" de Pedro**, que es sin duda su hombre en el gobierno; menos se contó que prácticamente estuvo condenada a refugiarse o a esperar en ese despacho porque aparentemente el presidente no había llegado, llegó después y esperó a que ella estuviera en la Casa de Gobierno para ostensiblemente no recibirla.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay que olvidarse que a escala municipal, escala provincial, a escala nacional, la Argentina es un país caudillesco, no es fácil sacar al caudillo y que se mantenga el orden abajo.",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jaldo trajo, además, a sus dos segundos, es decir, al presidente de la legislatura y al vicepresidente, con lo cual quedó al frente de Tucumán una legisladora de **Fuerza Republicana**, que a cargo de la provincia fue al despacho del gobernador y no tuvo mejor idea que invitar a su jefe político a sacarse una foto.",
+      "score": 0.691,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Toda esta comedia de enredos tiene que ver con estos corrimientos y con el abandono que determinadas figuras tienen que hacer de sus gobiernos locales para ir a tapar agujeros o a vestir santos al gobierno de la nación o al gobierno de la provincia de Buenos Aires.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los movimientos sociales fueron adquiriendo a lo largo de 20 años una dimensión, una gravitación en la política que ya alarma, no a la derecha, sino a sectores progresistas que veían en esa organización social un mérito de la democracia argentina y que ahora están temerosos de que los movimientos sociales se coman a la política, se coman a los intendentes, se coman a la Cámpora, se coman al gobierno.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta tensión apareció el mismo día en que Cristina Fernández de Kirchner dejó la Casa de Gobierno y empezó a advertir que los movimientos sociales, en el centro de todos, el **Evita**, que dirigen **Emilio Pérsico** y el **\"Chino\" Navarro**, se iban convirtiendo en una especie de kirchnerismo sin Kirchner, algo así como era en la década del 60 el peronismo sin Perón de **Bandor** en el sindicalismo, con Perón exiliado.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Cristina derrotada, empezaron a tener su propia estrategia y a dialogar con el gobierno.",
+      "score": 0.348,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, en ese diálogo se fueron separando cada vez más de Cristina y del kirchnerismo, tanto que cometieron, muy probablemente, la lealtad de partir el bloque oficialista cuando se estaba discutiendo el desafuero de **Julio De Vido** y eso fue vivido por todo el kirchnerismo como una traición imperdonable.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa historia siguió y su última manifestación, la que terminó siendo el motivo de la guerra que hay hoy, se produjo en un incidente que no tuvo la dimensión política que realmente tiene, que fue el día en que funcionarios ligados a Cristina le presentaron la renuncia a Alberto Fernández.",
+      "score": 0.66,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los movimientos sociales, sobre todo el Evita, convocaron una movilización en Plaza de Mayo en contra del \"SIC\" (golpe que le estaba dando Cristina Fernández de Kirchner a Alberto).",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya se conoció la noticia, felizmente para el oficialismo Alberto Fernández pudo dar de baja esa manifestación; para el común de la gente esa manifestación no se produjo porque no se produjo, pero para Cristina y para La Cámpora, así fue.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me extrañaría que dentro de poco, desde el oficialismo, se promueva alguna ley que sanamente recupere para el Estado el manejo de la política social y la asignación de los subsidios y esto va a generar seguramente alguna irritación y reacción en los movimientos sociales que ya no se envuelven en la legitimidad del peronismo, sino en la legitimidad de la iglesia.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos entonces a una crisis importante, una crisis o un conflicto que tiene que ver en el fondo con la pregunta acerca de la representación de los pobres.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra pregunta que le voy planteando desde acá a Joaquín de la Torre: ¿Qué está pasando en el mundo de los pobres con la política?",
+      "score": 0.358,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que sucede es que los despertó y han constituido un comando donde está Manzur, donde está De Pedro, donde está Máximo Kirchner, donde funciona también Massa y lo invitan a veces a las reuniones a Kicillof, pero el que manda ahí es Insaurralde.",
+      "score": 0.254,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición dice que fuera de término a la Cámara de Diputados para tratar una ley que abre varias batallas.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque para esto el gobierno tiene que conseguir el quórum en la Cámara de Diputados, habrá que ver si Massa logra unificar todos los intereses que hay en conflicto detrás de esta ley.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso nos pone frente a una pregunta: Máximo Kirchner, De Pedro, creen que pueden dar vuelta a la elección en la provincia de Buenos Aires, sobre todo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y fue comparando los meses de este año contra ese promedio de los últimos 10 años sin considerar la inflación para que sean comparables esos pesos de uno y otro momento.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos imagen de **Horacio Rodríguez Larreta**, de **María Eugenia Vidal**, de **Mauricio Macri**, de Alberto Fernández, de Kicillof y de Cristina Fernández de Kirchner.",
+      "score": 0.576,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo primero que tenemos que mirar es Alberto Fernández, Kicillof y Cristina Fernández de Kirchner, que vienen en una caída totalmente independiente del nivel de gasto al que sometió a la economía y al fisco Guzmán.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa recuperación de Macri, que es muy interesante, hay que mirarla junto con otra curva: el derrumbe de Alberto Fernández y el derrumbe de Cristina.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos malinterpretan o no logran entenderlo en el sentido de que uno dice que Macri y Cristina son la misma cosa.",
+      "score": 0.396,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A medida que le va bien a Cristina cae Macri, pero a medida en que le va mal a Cristina y Alberto sube Macri.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto lo sabemos, esto lo sostenía Máximo Kirchner durante el gobierno de Macri.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La están poniendo todo el día a Cristina Fernández de Kirchner como la contra cara del gobierno.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El día que al gobierno le vaya mal, no se dan cuenta de que esa tiene una base del 30%, llega al 45% muy fácilmente.\" Ahora está pasando esto con Macri.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, hoy Axel Kicillof cuando le hablan de los \"Pandora Papers\" y de las cuentas offshore, etcétera, el primero que nombra es a Macri porque aparece el hermano, se olvida de que lo más notorio de los hallazgos que publican La Nación y El Periodista - **Mayas-Jastreblansky**, que con **Hugo Alconada Mon** es la reaparición de **Daniel Muñoz** con una fortuna incalculable, no se sabe formada como si era un secretario privado de Néstor Kirchner.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora Macri va a estar en el centro de la escena.",
+      "score": 0.481,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una decisión verdaderamente torpe desde el punto de vista de la política y del contorno político del juez **Bava** que lo cita a indagatoria y le prohíbe salir del país cuando él ya estaba fuera del país, es como que no leyera los diarios el juez, en medio de una campaña para declarar por algo importante, acá no hay que confundir la forma con el fondo, la AFI de **Gustavo Arribas** y de **Silvia Majdalani** que espiaba sea no a Larreta, sea no al funcionario de defensa **José Luis Vila** al que le pusieron una bomba, sea no a **Luis Barrionuevo** y **Graciela Camaño**, espiaba a las víctimas del hundimiento del ARA San Juan, que es una noticia internacional y admiten que los espiaban, acá está la diferencia con las otras causas.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Majdalani dice: \"Sí, los espiábamos por razones de seguridad presidencial.\" Bueno, Macri escribió, dio entrevistas, escribió libros haciendo autocríticas, todas más o menos intrascendentes; de lo único que tendría que autocríticas es de haber puesto a Arribas y a Majdalani al frente de la AFI, que ahora constituyen las dos figuras principales de un sótano donde brotan cosas raras todo el tiempo.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora le toca a él, seguramente porque alguno de los dos (Arribas o Majdalani) dijo: \"Recibíamos órdenes de Arriba\", no de Arribas, de Arriba, de Macri.",
+      "score": 0.482,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vuelvo al argumento inicial que estoy mirando en esos gráficos, que hay más gasto y menos imagen, más gasto y menos confianza en el gobierno.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vuelvo a Prat-Gay ahora, que como decía hoy es nuestro productor involuntario, a este otro gráfico.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren ustedes, 42% saca Macri en el 17, sin cepo, por lo tanto sin brecha.",
+      "score": 0.574,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el 2019, ya el propio Macri empieza a perder con el cepo que instala al final de su gobierno.",
+      "score": 0.493,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El cepo de Kicillof 2013-2015, la brecha 50%, 38% de votos; la brecha 60%, 34% de votos; las PASO, una brecha de 80% que ahora está gigantada hoy, y menos de 32% por parte del gobierno en rendimiento electoral.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prat-Gay se podría preguntar: ¿El cepo también es una metáfora de otras cosas?",
+      "score": 0.691,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué está diciendo el cepo respecto de la sociedad argentina y qué malestar está manifestando este dato técnico donde Prat-Gay relaciona niveles de éxito electoral con niveles de brecha cambiaria?",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tómese un minuto en mirar este vídeo que le va a llamar la atención.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es la reacción a que le pifiaste desde la macro.",
+      "score": 0.518,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo en Infobae una nota que saca **Alejandro Bercovich** hoy (fue presidente del Banco Central, kirchnerista), donde explica qué cosas debería hacer el gobierno ya, y sobre todo después de la elección, para evitar un trauma cambiario del que habla abiertamente.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora va a viajar en diez días a la reunión del Fondo que se va a realizar en Washington.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque a **Kristalina Georgieva** y a **Geoffrey Okamoto** no solamente se le está investigando sino que se produjo un informe de un estudio jurídico, Wilmer Hale, que estudia todas las manipulaciones que pueden haber habido y las intervenciones políticas que ella puede haber tenido cuando era funcionaria del Banco Mundial para beneficiar a China en un programa que ahora se suspendió del Banco Mundial, que se llama \"Doing Business\".",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "The Economist, que es una revista que pesa muchísimo entre los operadores económicos, financieros, etcétera, le pidió la renuncia a Kristalina Georgieva.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si se debilita la directora gerente del Fondo Monetario, va a adquirir más volumen la Secretaría del Tesoro, Estados Unidos, que es el dos del Fondo.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que negoció el préstamo que le dieron a Macri.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ofendidísimo con el gobierno argentino porque lo han imputado de malversar la política del Fondo frente al gobierno de Macri.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir que el gobierno argentino puede estar yendo involutariamente a una negociación con un fondo más duro.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, el que lo ve clarísimo es **Joseph Stiglitz**, el maestro, el mentor de Guzmán, que acaba de escribir un artículo diciendo: \"Hay un golpe en el Fondo contra Georgieva porque Georgieva es progresista\".",
+      "score": 0.424,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A este fondo va a negociar la Argentina, con este fondo va a negociar la Argentina, a esa reunión va Guzmán.",
+      "score": 0.642,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sigue insistiendo en que la Argentina no tiene destino fuera de un acuerdo con el Fondo.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque hoy, de nuevo, Máximo Kirchner vuelve a hablar de que no puede haber un aumento de tarifas.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque casi el único rubro de gasto que se puede ajustar en el gasto público para adecuar los números de la Argentina a los de un eventual acuerdo con el Fondo, pasan por los subsidios a la energía.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la segunda vez (ya le pasó a Néstor Kirchner al comienzo de su gobierno) que el kirchnerismo fantasea con un salvataje chino, con un cheque chino que no aparece en ningún lado en ningún país, semejante a ese embolso.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de las cuestiones geopolíticas que puedan derivarse de esta apuesta por China, en un momento en que, como decíamos, van a negociar con un FMI más dominado por Estados Unidos que está en un conflicto con China.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta de fondo es: ¿Quieren el acuerdo con el Fondo?",
+      "score": 0.585,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esta es una gran pregunta para Cristina Fernández de Kirchner.",
+      "score": 0.457,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se puede ver en el espejo de alguien que simpatizaba mucho con ella y con Kicillof en 2015: **Alexis Tsipras**.",
+      "score": 0.624,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le propusieron un plan de ajuste.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le pasó?",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Perdió las elecciones y le terminó dando el gobierno a la derecha.",
+      "score": 0.587,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la pregunta de fondo que se debe estar haciendo Cristina Fernández de Kirchner.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema de Cristina es que ya no está sola como única referente del peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el gobierno le piden que no la haga, insisten en hacerla, el 11 de noviembre.",
+      "score": 0.442,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No me extrañaría que después de las elecciones, los sindicalistas se junten con los empresarios nuevamente a tratar de sugerirle a Alberto Fernández una hoja de ruta distinta de una eventual ruptura con el Fondo.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana mismo va a haber una reunión importante en la Cámara Argentina de la Construcción, empieza a las 9 de la mañana.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Va a estar Alberto Fernández al final, pero lo importante es la primera mesa.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí va a estar Manzur, ahí va a estar Horacio Rodríguez Larreta y ahí va a estar **Gerardo Martínez**, figura clave de la CGT, que va a hablar aparentemente por lo que trasciende el sindicalismo de la necesidad de una concertación política.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Máximo Kirchner lo va a asimilar?",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a nombrar algo que olvidamos en el tiempo: Unidad Ciudadana, el partido de Cristina que forma parte del Frente de Todos.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ambos casos recuerdan, para explicar por qué la muestra se llama \"El hombre flecha\", una carta de otro grande de la pintura uruguaya, una carta que le escribe Barradas a **Joaquín Torres García**.",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le habla de Figari, otro gran uruguayo, río platense, genial.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dice: \"Figari, era un hombre flecha, era una flecha que tenía blanco.",
+      "score": 0.502,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 84
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Y hay mucha gente, mientras discutimos si Javier Milei se va a pasear en un auto convertible, si es un *Varian* o un *Cadillac*.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Se escuchan unas discusiones pelotudas en la Argentina que no lo puedo creer, ¿no?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Cuando alguien me dice –digo todas las noches lo mismo– \"¿cuándo vamos a hacer con Europa?\", yo contesto \"ya fuimos a Europa y se la llevaron a uno\".",
+      "entidades_detectadas": [
+        "europa"
+      ]
+    },
+    {
+      "frase": "Los perros no significan nada, porque fijate que Alberto se los va a dejar a veterinarios.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Ahí está Francisco con la camiseta.",
+      "entidades_detectadas": [
+        "francisco"
+      ]
+    },
+    {
+      "frase": "Todo lo que Francisco tiene, hay muchos chicos que no.",
+      "entidades_detectadas": [
+        "francisco"
+      ]
+    },
+    {
+      "frase": "Yo confío en una Argentina en paz, armonía, y con los egos...",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "\"comprale\" (Puntuación y formato de diálogo)\n*   \"eso es el fogeo\" -> \"eso es el *fogueo*\" (Se mantiene el termino pero se itálica para denotar la jerga)\n*    \"¿por qué no saliste por un problema en la costa de espor?\" -> se mantiene (Lenguaje coloquial intencional)\n*    \"vás a voltear el gobierno\" -> \"vas a voltear el gobierno\" (Corregido error de tipeo)\n*    \"viaja en avión privado 190 viajes\" -> \"viaja en avión privado (190 viajes)\" (Mejor lectura, se agrega parentesis)\n*   \"sopa sopa\" -> \"sopa, sopa\" (Se agrega coma para mejor lectura)\n*   \"pulsear\" -> \"*puldsear*\" (Se mantiene el termino pero se itálica para denotar la jerga)\n*   \"charge\" -> \"*charge*\" (Se mantiene el termino pero se itálica para denotar la jerga)\n*   \"grosos\" -> \"*grosos*\" (Se mantiene el termino pero se itálica para denotar la jerga)\n*   \"patan\" -> \"*patan*\" (Se mantiene el termino pero se itálica para denotar la jerga)\n*   \"ya fuimos a europa y se la llevaron a uno\" -> \"ya fuimos a Europa y se la llevaron a uno\" (Correción de mayuscula inicial)\n*   \"porque si no, estaba invalidado.",
+      "entidades_detectadas": [
+        "europa"
+      ]
+    }
+  ]
+}

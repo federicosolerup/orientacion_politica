@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 5,
+      "derecha": 0
+    },
+    "score_promedio": 0.106,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Primero, vamos a hacer un regalo: iremos al final de todo, y luego escucharemos el anuncio de la BBC, para luego ir a cuando ella era niña, así podrán ver el contraste.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es fácil expresarlo en palabras, pues al principio lo que se siente es una mezcla de muchas cosas: no querer creer la noticia, tengo rabia y mucha preocupación por quienes le sobreviven.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mis ministros presentarán una futura legislación para asegurar que el Brexit se certifique en esa fecha, al mismo tiempo para aprovechar al máximo las oportunidades que esta medida conlleva para los ciudadanos del Reino Unido.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquellos que vengan después de nosotros dirán que los británicos de esta generación eran tan fuertes como los demás.\"\n\nLa necesidad que tiene el poder de ceremonia y representación, quizás se marque de manera más patética y extrema en la idea que tuvieron Belgrano, e incluso por San Martín y también Güemes, de construir en aquella Argentina iniciática una monarquía con algún Inca descendiente de los reyes incas.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como yo les decía al principio, personalmente me siento orgulloso de vivir en una república, me sentiría muy incómodo viviendo en una monarquía, y quisiera transmitir a todos aquellos que suponen que alrededor de esta figura se construye algo que produce una unidad nacional.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

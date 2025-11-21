@@ -1,0 +1,221 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 32,
+      "derecha": 9
+    },
+    "score_promedio": 0.266,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy tendremos un programa, a mi juicio muy especial, porque después de esta presentación hablaremos con un fuera de serie, **Julio María Sanguinetti**, el expresidente uruguayo, a quien consultaremos sobre algunos temas conceptuales relacionados con lo que está pasando hoy en la Argentina y en la principal fuerza de oposición.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno podría remontarse al siglo pasado, al duelo entre **Julio Argentino Roca** y **Leandro N.",
+      "score": 0.635,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alem**, o podría pensar en **Raúl Alfonsín** y **Ricardo Balbín**.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque ambos pertenecen al PRO, y el PRO nació como un partido peculiar, como un partido personal.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Simplificando mucho, uno podría decir que el PRO era, o es, o empezó siendo el partido de aquellos a quienes les gusta **Macri**.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto le imprime una rareza, probablemente una complejidad especial a un duelo sucesorio dentro de ese partido tan signado por una personalidad, en este caso la de **Macri**.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un segundo nivel de interpretación, otra dimensión, que tiene que ver con un dilema, y ese dilema es hasta dónde, por defender los intereses del partido, del propio partido, se pone en riesgo la coalición; hasta dónde, por defender los intereses del PRO, se pone en riesgo la coalición Juntos por el Cambio.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que **Larreta** podría jugárselo todo a que gane un candidato del PRO y fijar reglas que beneficien a ese candidato.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora bien, si **Larreta** se juega todo y aplica las reglas para que gane el candidato del PRO, que sería **Jorge Macri**, muy probablemente todas las candidaturas del PRO se sinteticen en la de **Jorge Macri** y le niegue ecuanimidad en las reglas de juego, inclina la cancha a favor del PRO.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El PRO tiene a **Rodríguez Larreta** y a **Patricia Bullrich**.",
+      "score": 0.342,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso **Lousteau** pide, y **Larreta** le concede, en beneficio de mantener la coalición unida, que la elección sea separada.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Macri** pedía más, **Larreta** no le dio más.",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un problema de fondo que hoy escribió en una muy buena nota en La Nación, **Martín Rodríguez Yebra**.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto, en el fondo, es lo que le están diciendo a **Larreta** los otros miembros del PRO: \"Mira que si gana **Lousteau**, podemos perder esta plaza por mucho tiempo\", y él puede contestar: \"Es que si a **Lousteau** no le doy condiciones, también perdemos, porque quiebra la alianza\".",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque le están diciendo: \"Estás modificando las reglas de juego a meses de las elecciones\".",
+      "score": 0.269,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa ley no se cumplió en el año 2019 a pedido de **Macri**, porque **Macri**, que jugaba su carrera contra **Alberto Fernández**, quería tener unificada la elección y la boleta en una lista sábana, aprovechando los candidatos locales y el peso que tiene el PRO en la ciudad de Buenos Aires.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un temor real en el PRO respecto de **Lousteau** y del resultado de la elección.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el año 2015, el radicalismo de **Lousteau**, de **Milanesio**, **Yacobitti**, etcétera, el radicalismo de la capital, la conducción del radicalismo de la capital no se integró a Cambiemos –se llamaba Cambiemos en la ciudad de Buenos Aires– y fueron por fuera, y hubo una competencia entre **Larreta** y **Lousteau**.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Larreta** le va a pedir la renuncia o quedará esa relación como **Alberto** y **Wado de Pedro**, cuando **Wado de Pedro** renunció al ministerio y él intervino, y después lo tuvieron que aceptar.",
+      "score": 0.507,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo diría más: es centralmente un candidato a presidente, y si uno examina cómo piensa **Larreta**, los intereses de **Larreta**, si lo sigue de cerca, es mucho más un candidato a presidente que un aspirante a ser líder de una fuerza política.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le está hablando al focus group, donde dicen que a **Larreta** le falta decisión, es flojo en el conflicto, huye del conflicto, huye de la nitidez en la toma de posición.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo de este problema, están **Alberto** y **Cristina**, subliminalmente sugeridos.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, una tercera dimensión, que puede ser la más dolorosa para **Macri**, no sabemos si es así, si **Larreta** le pega, acierta, o se equivoca en esta tercera dimensión, que es pensar que **Macri** declinó su candidatura porque está muy mal en las encuestas y que, por lo tanto, enfrentar explícitamente a **Macri** le va a sumar a él en electorados que, si lo ven junto a **Macri**, le van a ser esquivos.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay quienes le dicen: \"Mira, nosotros vamos a una primaria, no te podés pelear con **Macri** en la primaria, porque **Macri** sintetiza, encarna, condensa la identidad del PRO\", y él contesta: \"Sí, pero es una primaria que no es una primaria, es una elección general.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, yo también me estoy peleando con **Macri** en homenaje a esos eventuales electores\".",
+      "score": 0.522,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué le sirve?",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque, al haber una elección separada, ellos pueden enfrentar a un candidato de La Cámpora sin tener un candidato a presidente importante.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto nos lleva al segundo tema que aparece en estas horas y que nos va mostrando que se van configurando ya las candidaturas y que estamos ahora, y por un par de meses, en presencia de eso que el politólogo italiano **Giovanni Sartori** decía es la esencia de la política.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después le voy a preguntar a **Julio María Sanguinetti** sobre este tema, que es la vida de los partidos, la interna de los partidos, que a la gente que no es de partido, que no es muy politizada, no la entiende, pero que es un momento clave de la política: la selección de candidaturas, la lucha por el poder interno.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un tema importante, porque esto sí le daría a **Alberto Fernández**, lo haría entrar en los libros de historia de una manera tal vez peor de la que va a entrar, que es persiguiendo a la prensa, algo que le había prometido no hacer, todo esto para quedar bien con **Cristina**, ya no hace falta porque **Cristina** ya lo condenó y, además, muy probablemente no apoye ni a **Alberto** ni a nada que tenga que ver con **Alberto** en la próxima elección.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que le da tanta importancia a lo simbólico, probablemente, en qué día anunciar que desiste y, en la tienda de **Cristina**, en La Cámpora, sobre todo, que son mordaces, que no lo quieren, dice que elija el 18 de mayo a las nueve de la mañana, es decir, el mismo día y la misma hora en que **Cristina** lo postuló, con un tuit, que se baje a través de un tuit, y damos por cerrada esta historia, que, para eso, es una historia triste.",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un dato importante que él ha comentado y es que **Lula da Silva** le ha ofrecido, en medio de una política de resucitar la Unasur, ir como secretario de la Unasur, que es un cargo que ocupó **Néstor Kirchner** cuando dejó la presidencia, así que a lo mejor encuentra un trabajo internacional ahí, va a armar algo distinto.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una incógnita complicada, porque en el kirchnerismo le dicen: \"Sí, pero nada de compartir listas\", que se busque candidatos a gobernador, candidatos a diputados, etcétera, sabiendo que todo el aparato peronista está más cerca de **Cristina**, o sea, es bastante difícil armarse esa maquinaria electoral para **Alberto Fernández** si decide ir con un candidato propio.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé si los electorados agradecen por aquello que un líder le evitó, es un misterio.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un sector de la CGT, un sector de la CGT liderado por **Gerardo Martínez**, por **Héctor Daer**, por **Andrés Rodríguez**, que lo mira a **Massa** como candidato, y en homenaje a ese sector, él hoy decidió retirar el impuesto a las ganancias de algunos rubros del salario.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se van a ir definiendo gestos de **Massa**, va a ir a un acto de la CGT el primero de mayo, va a iniciar algún tipo de política en relación con los movimientos sociales, va a replantear, o va a intentar replantear, el acuerdo con el FMI.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre decimos, no se sabe por qué vota la gente, es un misterio, pero si hubiera que elegir una variable, sobre todo en un país con alta inflación, es el comportamiento del salario real, y este es un cuadro, un gráfico, que le debemos a **Fernando Marull**, a quien citamos muy frecuentemente, que muestra el comportamiento del salario real y los resultados electorales de los oficialismos, y acá tenemos la elección del 21, donde tiene una catástrofe el Frente de Todos, esta es la elección de **Macri** y el triunfo, este es el 40% que saca **Macri**, 41, acá estamos con las grandes marcas de **Cristina Kirchner**, el 54.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí crece la izquierda, y una encuesta que acaba de hacer el Frente de Izquierda en La Plata, es cierto, es una universidad, universitaria de empleados públicos, pero donde el Frente de Izquierda proyectado tiene 9% de intención de voto, que es una barbaridad, crece entre los pobres Milei y crece sobre todo la abstención.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay viejas cuentas, muy viejas, entre **Berni** y **Massa**, que tiene que ver con aquel robo a la casa de **Massa**, que no se sabe nunca cuántos que le robaron.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le vamos a preguntar a **Daniel Bilotta** por la inseguridad en el conurbano bonaerense y el conflicto entre el gobierno nacional y el gobierno provincial, y vamos a tener una novedad hoy, vamos a hablar, como siempre, de historia con **Camila Perochena**, pero se va a sumar a nosotros la politóloga **Anita Pereyra Irigoin**, que es una experta en campañas electorales, y con ella vamos a ir analizando todos los lunes la tecnología de la campaña, la vamos a ir mirando las campañas por dentro y analizando los dilemas y los problemas que tiene cada candidato en su comunicación con la gente, y después, hablando de campañas, los pods, las publicidades más bizarras que presenta la política argentina hasta el presente, en la voz de **Carola Quílico**.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios realizados y nombres/apellidos corregidos:**\n\n*   **Horacio Rodríguez Larreta:** Se corrigió la ortografía del nombre y apellido.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 41
+  },
+  "etiqueta_original": "neutral"
+}

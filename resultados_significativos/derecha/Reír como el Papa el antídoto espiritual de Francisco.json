@@ -1,0 +1,116 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 9
+    },
+    "score_promedio": 0.51,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En su lógica, la risa no es inocente; es corrosiva, peligrosa, anarquizante, por eso es capaz de envenenar un libro de Aristóteles, un segundo libro de la poética, en el que habla justamente del humor en la comedia.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Papa Francisco fue una de las personas más influyentes del mundo y era inusualmente opuesto a esta forma de concebir el ejercicio del poder.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francisco también recomendaba a sus fieles y a quienes lo escuchaban que simplemente sonrieran, que se permitieran el maravilloso acto de contar chistes.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos primero a ponernos en contexto, el Papa Francisco hablando primero de la importancia del humor en general.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a otro fragmento cuando el Papa Francisco recibe a **Sylvester Stallone**.",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El encuentro entre el Papa Francisco y el supuesto gran boxeador, por lo menos, de la ficción\".",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos ahora a un pequeño fragmento de Francisco recibiendo a un *youtuber* argentino, **Luquita Rodríguez**.",
+      "score": 0.388,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, escuchemos este frente a una pareja que le anuncia que se va a casar.",
+      "score": 0.352,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pareja ahí, con toda la emoción, le dice que se van a casar.",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francisco pidiéndoles una bendición y él, con una sonrisa, les dice: \"¿Cuándo entran a la cárcel?\".",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le escuché también decir ese otro clásico chiste de que Dios le dio tanto a la Argentina y le preguntaron: \"¿Pero no se está pasando?\".",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero nunca dejó que le ganara el desánimo.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francisco mantuvo su sentido del humor mientras había guerras que intentaba evitar, grandes problemas de la humanidad que lo atravesaban profundamente, odio creciente y avance de la extrema derecha.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le dio esa sonrisa permanente?",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algunos creen que es el Espíritu Santo, que hay algo que transforma a la persona que se coloca dentro de él, que sería el Espíritu Santo a quien le toca ser Papa.",
+      "score": 0.358,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otras personas, la can decía que el hábito hace al monje, o sea, que si uno está en esa situación, la tarea convierte a la persona en aquello que la tarea requiere.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*El pasado por fin me enamoré, el sábado a la noche en el baile le encontré, estaba vestida para enamorar, sensual y atractiva, y me tiraba sin parar.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De inmediato reaccioné, y ahí mismo en la pista la enfrenté y le pregunté si era aristotélica o tomista.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le dije que ese tipo solo quería quitar lo metafísico de la filosofía.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dije que se cuida el pensamiento formalista, sacaba el idealismo subjetivo y atobita.",
+      "score": 0.435,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 20
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,214 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ante tantas noticias, a veces puede pasar desapercibido el dato más importante: la relación entre la situación del dólar y el precio del pan, como ha ocurrido en las últimas décadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El viernes por la tarde, el ministro de Economía, Sergio Massa, tuvo que salir a dar explicaciones, al igual que el viernes anterior, primero a través de un hilo de Twitter y luego, en una conferencia de prensa.",
+      "entidades_detectadas": [
+        "ministro de Economía",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "La conferencia de prensa fue una decisión de último momento para calmar a los mercados; es falso que estuviera planeada una segunda etapa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para calmar aún más la situación, el domingo por la noche, Javier Milei le pidió a un amigo que realizara un reportaje.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Quiero destacar una afirmación del ministro Massa del viernes que me preocupa: el traspaso de los pasivos del Banco Central al Tesoro.",
+      "entidades_detectadas": [
+        "Banco Central al Tesoro",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Para concretarlo se necesitaría un ajuste fenomenal, algo imposible dado que la recaudación viene cayendo —un 19% en términos reales este mes—.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, aproximadamente un tercio de esa deuda la tienen los bancos.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Si usted tiene un plazo fijo, el banco compra esos papeles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el Banco Central los compra y no puede pagarlos, puede emitir moneda para hacerlo y así pagarle a usted su plazo fijo.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Sin embargo, el Tesoro no emite moneda, entonces, ¿quién le pagará al banco para que le devuelva su plazo fijo si el bono lo tiene el Tesoro?",
+      "entidades_detectadas": [
+        "¿",
+        "Tesoro"
+      ]
+    },
+    {
+      "frase": "Este es el primer punto preocupante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El segundo es que ambos funcionarios salieron a calmar al dólar porque estaba subiendo vertiginosamente tras la aprobación de la ley de base.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ciertos comentaristas, a quienes se podría llamar \"trolls\", aseguraban que al día siguiente el mercado explotaría, subirían las acciones, bajaría el riesgo país y el dólar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ocurrió todo lo contrario: el viernes subió el dólar, cayeron los bonos, subió el riesgo país y cayeron las acciones.",
+      "entidades_detectadas": [
+        "Ocurrió"
+      ]
+    },
+    {
+      "frase": "Los mercados empeoraron, y por eso los funcionarios salieron a dar explicaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, junio terminó con una caída de las reservas del Banco Central, contrariamente a la habitual suba de junio debido a la liquidación de la cosecha.",
+      "entidades_detectadas": [
+        "Banco Central",
+        "Además"
+      ]
+    },
+    {
+      "frase": "Hay otros datos importantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El FMI le pidió a Massa que unifique los tipos de cambio (que el oficial y los paralelos cuesten lo mismo) y que termine con el \"Blend\", sistema en el cual el 80% de las exportaciones se canalizan a través del Banco Central y el 20% a través de dólares paralelos, principalmente el contado con liquidación, que es el que marca el precio.",
+      "entidades_detectadas": [
+        "FMI",
+        "Banco Central",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Un informe de Marina Dal Poggetto de la consultora EcoGo reveló que el gobierno dedicó nueve mil millones de dólares a vender dólares en ese mercado desde que asumió, una cifra mayor que la gastada durante todo el gobierno de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández",
+        "Marina Dal Poggetto",
+        "EcoGo"
+      ]
+    },
+    {
+      "frase": "En solo seis meses se gastaron nueve mil millones de dólares para mantener el precio del contado con liquidación, que hoy está en casi $1400.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el FMI le pide al gobierno liberar el precio, y este precio se ha mantenido gastando la friolera de nueve mil millones de dólares por semestre (18 mil millones anuales, 72 mil millones en cuatro años), esa situación es insostenible.",
+      "entidades_detectadas": [
+        "FMI",
+        "semestre"
+      ]
+    },
+    {
+      "frase": "El mercado se pregunta: si a pesar de gastar nueve mil millones de dólares el dólar paralelo cuesta $1400, ¿cuánto costaría si el gobierno no interviene?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿$2000?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿$3000?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nueve mil millones de dólares representan aproximadamente el 30% del mercado cambiario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La unificación cambiaria en Argentina podría implicar un dólar a $2000, o la eliminación de la intervención podría llevar el precio del dólar paralelo a esa cifra.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Ayer, Marcelo Bonelli informó que Massa tiene menos dólares que los que dejó Martín Guzmán (Guzmán dejó 31 mil millones y Massa tiene 29 mil millones).",
+      "entidades_detectadas": [
+        "Massa",
+        "Ayer",
+        "Marcelo Bonelli"
+      ]
+    },
+    {
+      "frase": "Si el gobierno decide no intervenir para bajar el precio del dólar paralelo, no acumulará reservas, lo que aumentaría el riesgo país y dificultaría el acceso a dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A esto se suma la posible judicialización del impuesto a las ganancias y la próxima discusión sobre el aumento de las jubilaciones, lo que podría afectar la recaudación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno enfrenta un problema de falta de pesos y de dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La mayoría de la gente no es consciente de esta situación debido a la influencia de ciertos medios de comunicación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Existe un riesgo inminente de una corrida cambiaria y de una fuerte suba del dólar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si Hernán Lacunza (suponiendo que se refiere a un funcionario económico) no soluciona el problema del gas, podría haber una crisis bancaria.",
+      "entidades_detectadas": [
+        "Hernán Lacunza"
+      ]
+    },
+    {
+      "frase": "Estamos ante una posible crisis inminente en Argentina, motivo por el cual Massa y Milei realizaron sus apariciones públicas.",
+      "entidades_detectadas": [
+        "Milei",
+        "Argentina",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Tesoro?\n\n",
+    "EcoGo",
+    "Alberto Fernández",
+    "Banco Central",
+    "Massa",
+    "Tesoro",
+    "Javier Milei",
+    "Hernán Lacunza",
+    "Además",
+    "Banco Central al Tesoro",
+    "Argentina",
+    "Sergio Massa",
+    "Ayer",
+    "Quiero",
+    "Marcelo Bonelli",
+    "ministro de Economía",
+    "FMI",
+    "¿",
+    "El FMI",
+    "Milei",
+    "Ocurrió",
+    "semestre"
+  ]
+}

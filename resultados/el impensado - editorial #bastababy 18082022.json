@@ -1,0 +1,634 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "No podemos derrochar energía, estamos al límite.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy Evelyn De Bonafilm declaró que debería haber una protesta, mostrando una irresponsabilidad extrema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy fue un día… bueno, pareciera que alguien le echó LSD a la sopa, o que el aceite que vende “el Tano”, que ayer venía del exterior con mercadería ilegal, estaba adulterado.",
+      "entidades_detectadas": [
+        "Tano"
+      ]
+    },
+    {
+      "frase": "¿Les pasó algo similar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mí me pareció ver a Alberto Fernández tocando la caja y cantando una copla.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¿Sucedió?",
+      "entidades_detectadas": [
+        "¿Sucedió"
+      ]
+    },
+    {
+      "frase": "Sí, sí, sí, sucedió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo soñé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después lo vi abrazado a un  parrillero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También es posible.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Y luego, el segundo puerto de la zona… No, no, espera… Felicitaciones a los organizadores de la fiesta.",
+      "entidades_detectadas": [
+        "Felicitaciones"
+      ]
+    },
+    {
+      "frase": "Felicitaciones a los organizadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La fiesta… No, es que este amigo que está aquí, creo que él me hará un favor, para comer… la gente no come hace dos años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo digo: \"¿Qué vamos a comer?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un chivito, un asado… algo impresionante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después le regala una caja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"¡Vamos todos a La Rioja!\".",
+      "entidades_detectadas": [
+        "La Rioja",
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "Está loco, ¡qué tipo!",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Por otro lado, voy a hablar de Massa, que el tipo no es tonto, y se preparó una entrada tipo Kennedy, en su camioneta negra enorme, con custodios, periodistas, traje de alpaca.",
+      "entidades_detectadas": [
+        "Kennedy",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Y ahí está el presidente y allá está el miniaturista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque anda por todo el mundo, ¿viste?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este cactus… la aventura del hombre… otro capítulo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después, cambio de canal y estaba la tejedora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que convocar a una protesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Que toda la calle salga a… a protestar!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después dice Zaffaroni, intérprete del discurso de Navarro, que lo que quiso decir Navarro no es que los periodistas tengan miedo, ni que los van a matar, sino que pueda parecer un loco, chicos, en la decadencia del Imperio Romano.",
+      "entidades_detectadas": [
+        "Navarro",
+        "Imperio Romano",
+        "Zaffaroni"
+      ]
+    },
+    {
+      "frase": "Si ustedes hubiesen estudiado historia, dentro de 20 años estarían hablando de la decadencia del Imperio Argentino.",
+      "entidades_detectadas": [
+        "Imperio Argentino"
+      ]
+    },
+    {
+      "frase": "La estrepitosa caída del Imperio Argentino.",
+      "entidades_detectadas": [
+        "Imperio Argentino"
+      ]
+    },
+    {
+      "frase": "Si dentro de dos años les paso los videos del irresponsable de Alberto Fernández, del \"Cocoliche\", les paso todo lo que está pasando, donde un ministro de Economía se equivoca, llega el presidente Massa… ¡Es una locura!",
+      "entidades_detectadas": [
+        "Massa",
+        "Cocoliche",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Y por otro lado, Hebe de Bonafini.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso me extrañó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero después lo comprendí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hebe de Bonafini luchó contra los militares.",
+      "entidades_detectadas": [
+        "Bonafini"
+      ]
+    },
+    {
+      "frase": "Y uno no entiende… Ella no, lucharon las Madres.",
+      "entidades_detectadas": [
+        "Madres"
+      ]
+    },
+    {
+      "frase": "Ella rápidamente adoptó la bandera e hizo sociedad con estos dos hermanos delincuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Conociendo a Andrés, el sueño compartido.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Las Madres que nunca lo van a pagar, o que incluso, aunque sea condenada (cosa que no está en juicio), tendría prisión domiciliaria.",
+      "entidades_detectadas": [
+        "Madres"
+      ]
+    },
+    {
+      "frase": "Al contrario, por tránsfuga, Hebe de Bonafini fue premiada con un programa en Canal 7 durante el gobierno de Macri.",
+      "entidades_detectadas": [
+        "Macri",
+        "Canal 7"
+      ]
+    },
+    {
+      "frase": "Porque estas son las cosas que uno debe entender de la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Pero, ¿estas señoras irresponsables saben lo que significa hablar de una protesta?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Todavía tenemos el olor a sangre y a pólvora del 2001.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De los muertos del 2001.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La señora, por supuesto, que se regocija con la muerte causada por fusiles y balas, porque es la madre de unos sinvergüenzas que fueron Montoneros, que secuestraron y mataron gente.",
+      "entidades_detectadas": [
+        "Montoneros"
+      ]
+    },
+    {
+      "frase": "Bonafini ya no es un emblema de las Madres que buscaron a sus hijos desaparecidos.",
+      "entidades_detectadas": [
+        "Bonafini",
+        "Madres"
+      ]
+    },
+    {
+      "frase": "Es un emblema de la corrupción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre cubriendo a Milagro Sala, cubriendo a todos los delincuentes.",
+      "entidades_detectadas": [
+        "Milagro Sala"
+      ]
+    },
+    {
+      "frase": "¿Se acuerdan de la payasada que hicieron con Maldonado?",
+      "entidades_detectadas": [
+        "Maldonado"
+      ]
+    },
+    {
+      "frase": "Bueno, evidentemente se precipita el final, que vamos a seguir soportando para que la oposición no caiga en desgracia.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Vamos a seguir aguantando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el gobierno no hace nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque el gobierno, la única misión que tiene es salvar a Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y porque le importa un bledo la economía, el dólar… lo único que quieren es que no la condenen, y la van a condenar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y hace tres meses en este programa le dije: \"Cristina quiere gobernar desde el caos\".",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y en diez días va a haber caos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora le doy fecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El caos ya está en la calle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy fueron 30 personas a protestar a la Casa Rosada y los corrieron con bombas lacrimógenas, mangueras con agua… como si hubieran sido 30.000 delincuentes.",
+      "entidades_detectadas": [
+        "Casa Rosada"
+      ]
+    },
+    {
+      "frase": "Están asustados, muy asustados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se acuerdan cuando este señor, del que todavía no sabíamos qué se trataba, andaba con un megáfono acomodando el velorio de Maradona, parecía de Zucotti, acomodando por dónde tenía que entrar la gente a besar el cajón y por dónde tenían que salir?",
+      "entidades_detectadas": [
+        "tenía",
+        "Zucotti",
+        "Maradona"
+      ]
+    },
+    {
+      "frase": "Hoy este señor está totalmente desquiciado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y da la imagen de… si ves a tu padre en una fiesta borracho, te da vergüenza ajena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy no hay nadie que medie entre los políticos de un lado y del otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trataban de encauzar a la Argentina más o menos.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Este hombre cantaba una vidalita, se comía un chivito y pedía un aplauso… ¡Qué patético!",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Sinceramente, esta miseria, es lo que ha dejado el gobierno después de 20 años en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Estoy muy feliz de que sea así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lástima que nos cueste tanta gente.",
+      "entidades_detectadas": [
+        "Lástima"
+      ]
+    },
+    {
+      "frase": "Estoy muy feliz de que se termine, pero igual el argentino tiene una memoria débil y es probable que gane quien gane dentro de dos años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después volverán a decir: \"Sí, pero a Cristina no la dejaron gobernar\".",
+      "entidades_detectadas": [
+        "Después",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Le hicieron… como dice ella… Espero que todos recordemos que Cristina Kirchner fue el gobierno más sinvergüenza, más corrupto y más fraudulento de la historia argentina.",
+      "entidades_detectadas": [
+        "Espero",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Espero que en algún libro conste para las generaciones que vienen que fuimos víctimas de un latrocinio, de una caterva de sinvergüenzas y delincuentes, de ladrones comunes y corrientes, de corruptos y criminales que se quedaron durante 20 años en la Argentina y que terminaron como están terminando.",
+      "entidades_detectadas": [
+        "Espero",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Igual que Isabel Martínez de Perón, con la diferencia de que Isabel Martínez de Perón tenía la dignidad de poner la cara.",
+      "entidades_detectadas": [
+        "Isabel Martínez de Perón"
+      ]
+    },
+    {
+      "frase": "Y esta señora se esconde y manda a su séquito a… no sé qué.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con respecto a la amenaza de Navarro, que no los confunda el juez de los prostíbulos, porque Navarro dijo lo que dijo porque se lo ordenaron los \"disidentes patria\" y porque es una orden para bajar, silenciarnos a los periodistas.",
+      "entidades_detectadas": [
+        "Navarro"
+      ]
+    },
+    {
+      "frase": "Y se dice: \"¿Por qué Navarro dijo semejante barbaridad?\".",
+      "entidades_detectadas": [
+        "qué Navarro"
+      ]
+    },
+    {
+      "frase": "Porque Navarro se enriqueció con la mafia.",
+      "entidades_detectadas": [
+        "Navarro"
+      ]
+    },
+    {
+      "frase": "Y si vieron la película \"El Padrino\", yo la voy a ver de nuevo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Vieron cómo Don Corleone recibía a todos en la oficina que tenían en el fondo, como la que tiene Dualde?",
+      "entidades_detectadas": [
+        "Corleone"
+      ]
+    },
+    {
+      "frase": "Le besaban el anillo, le decían: \"Don Corleone, no me dejan vender pan\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"No te preocupes, no te preocupes\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Iban y eliminaban al que no lo dejaba vender pan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La mano negra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero después Don Corleone te llamaba: \"Ven, ven\", te recordaba que te salvara el pan y todo… si tenías que matar a alguien.",
+      "entidades_detectadas": [
+        "Don Corleone"
+      ]
+    },
+    {
+      "frase": "Como no, iba y lo mataba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como este sinvergüenza trabajó para la mafia, ahora le están pidiendo que se inmole.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O ¿ustedes creen que toda la guita que se llevó en estos 20 años es gratis?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una forma de inmolarse es salir a pedir que nos atropellen o nos maten a los periodistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y uno dice: \"¡Qué raro!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Viene un periodista a decir semejante barbaridad\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es que no es un periodista, es un miserable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que cuando la mafia le pide un favor, tiene que hacerlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y nada mejor que entender la patología miserable de los mafiosos que nos gobiernan para darte cuenta cuál es la reacción de unos con otros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, hoy Navarro tiene 20 juicios, pero sale a hablar con Farón… entonces se cubren mutuamente.",
+      "entidades_detectadas": [
+        "Navarro",
+        "Farón"
+      ]
+    },
+    {
+      "frase": "Yo nunca me voy a olvidar, miren, cuando ganó Macri, yo trabajaba en C5N.",
+      "entidades_detectadas": [
+        "ganó Macri"
+      ]
+    },
+    {
+      "frase": "Y entró corriendo la comisaria, porque todos somos un comisario de La Cámpora.",
+      "entidades_detectadas": [
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Entró la comisaria de La Cámpora, que era la mujer del íntimo amigo de Máximo Kirchner, diciendo: \"Ahora hay que blindar a Cristina, a Vudú, hay que blindar\".",
+      "entidades_detectadas": [
+        "Vudú",
+        "Cristina",
+        "Entró",
+        "La Cámpora",
+        "Máximo Kirchner"
+      ]
+    },
+    {
+      "frase": "La palabra que tiene La Cámpora es \"blindar\".",
+      "entidades_detectadas": [
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Ahora van a blindar a Navarro.",
+      "entidades_detectadas": [
+        "Navarro"
+      ]
+    },
+    {
+      "frase": "Y van a querer hacer entender a la gente que no dijo lo que dijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como blindaron a Issei con el reparto de mercados entre las ambulancias.",
+      "entidades_detectadas": [
+        "Issei"
+      ]
+    },
+    {
+      "frase": "Cuando Issei dijo: \"Hay que callar a los periodistas, hay que salir a perseguirlos\".",
+      "entidades_detectadas": [
+        "Issei"
+      ]
+    },
+    {
+      "frase": "Esto se lo hizo un año a Cristina para agarrársela, porque ya con los jueces no pudo, no pudo con la oposición.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Se le acabó el \"apero\" Macri, entonces vienen por los periodistas.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Porque ellos pueden robar lo que nosotros no podemos contar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ellos pueden llevarse la plata de la Argentina a Suiza, lo que no podemos hacer los periodistas es decir: \"Se llevaron tantos millones a Suiza\".",
+      "entidades_detectadas": [
+        "Suiza",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Esto es el fin, chicos, esto es un final.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no digamos que es como la \"Masacre de Acá al Lado\", un final feliz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un final terrible, donde todavía no empezó la violencia y Dios quiera que no empiece.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Según el Instituto Patria de Cristina Kirchner, tienen que salir a pasarnos por encima.",
+      "entidades_detectadas": [
+        "Instituto Patria",
+        "Según el",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Hoy la vieja salió a hablar porque ella escucha y sale y quiere ser más crecidita que nadie, y habló de algo que es terrible, que es una pueblada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que tener mucho cuidado porque estos inconscientes, delincuentes, sinvergüenzas y ladrones, en retirada y asustados, pueden llegar a terminar con el estatus quo de la democracia que nos costó 40 años conseguir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por ver el video.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Zaffaroni",
+    "Felicitaciones",
+    "Tano",
+    "Alberto Fernández",
+    "Navarro",
+    "Las Madres",
+    "Pero",
+    "Vamos",
+    "Cocoliche",
+    "Canal 7",
+    "Massa",
+    "Maldonado?",
+    "Trataban",
+    "Isabel Martínez de Perón",
+    "Montoneros",
+    "Qué",
+    "La Cámpora",
+    "Kennedy",
+    "tenía",
+    "Máximo Kirchner",
+    "Imperio Romano",
+    "Imperio Argentino",
+    "Farón",
+    "ganó Macri",
+    "Según el",
+    "Está",
+    "Cristina Kirchner",
+    "Entró",
+    "Maradona",
+    "Bonafini",
+    "Argentina",
+    "Instituto Patria",
+    "Casa Rosada",
+    "Vudú",
+    "Suiza",
+    "Espero",
+    "Milagro Sala",
+    "Cristina",
+    "Después",
+    "La Rioja",
+    "Zucotti",
+    "Lástima",
+    "la Argentina",
+    "Sinceramente",
+    "Issei",
+    "¿",
+    "Madres",
+    "Todavía",
+    "O ¿",
+    "Macri",
+    "qué Navarro"
+  ]
+}

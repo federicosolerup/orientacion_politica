@@ -1,0 +1,47 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En su discurso, el Presidente se vanaglorió de haberles quitado ese dinero a los jubilados.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Si una persona en Formosa compra un pan, el IVA incluido en su precio va a la Nación, la cual debería transferir esos fondos a Formosa.",
+      "entidades_detectadas": [
+        "formosa"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, se celebra en los mercados la mejora en la condición de deuda de la nación y la baja del riesgo país.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Pero si todas las provincias y las empresas eléctricas caen en default, el Estado nacional también se verá afectado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Todo lo que dijo el Presidente anoche es inconsistente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Para salir de esta situación, el gobierno propone que el Estado ahorre.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El Presidente apoya a los monopolios, la fuga de capitales y la evasión, y se opone a la justicia social.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

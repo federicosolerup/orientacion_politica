@@ -1,0 +1,942 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días, ¿cómo les va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bienvenidos, esto es Modo Fontevecchia, el programa de Jorge Fontevecchia, lunes 2 de enero de 2023.",
+      "entidades_detectadas": [
+        "Modo Fontevecchia",
+        "Jorge Fontevecchia"
+      ]
+    },
+    {
+      "frase": "Muy feliz año para todos, así los recibimos para acompañarlos durante este año en *Duplex*, como lo hacemos siempre.",
+      "entidades_detectadas": [
+        "Duplex"
+      ]
+    },
+    {
+      "frase": "Jorge Fontevecchia está de vacaciones, claro, en el canal *Net*, a través de la pantalla, de canal *Net* y de Radio Perfil.",
+      "entidades_detectadas": [
+        "Net",
+        "Jorge Fontevecchia",
+        "Radio Perfil"
+      ]
+    },
+    {
+      "frase": "Además, pueden seguirnos por nuestras plataformas y escucharnos en vivo por el *streaming*.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Estaban escuchando \"1, 2, 3\", un temazo del símbolo que fue utilizado por la AFA para este vídeo que estábamos viendo, porque hubo fiesta de fin de año, fiesta en donde se escuchó, obviamente, la canción a la que ya estamos acostumbrados, a nuestros oídos acostumbrados de *La Mosca* por la selección.",
+      "entidades_detectadas": [
+        "AFA",
+        "La Mosca"
+      ]
+    },
+    {
+      "frase": "En este caso, la AFA armó este vídeo con \"1, 2, 3\" por las estrellas de los campeonatos de Argentina, logrados por Argentina en materia de fútbol, hizo este tema y este vídeo que difundió durante el fin de semana.",
+      "entidades_detectadas": [
+        "Argentina",
+        "AFA"
+      ]
+    },
+    {
+      "frase": "Son las 8 de la mañana y 3 minutos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a saludar a mis compañeros y desearles un muy feliz año a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy buenos días, Florencia Halfon y Bruno Guiso, los locutores que me están acompañando en esta mañana, ya que nuestros compañeros habituales están de vacaciones.",
+      "entidades_detectadas": [
+        "Florencia Halfon",
+        "Bruno Guiso"
+      ]
+    },
+    {
+      "frase": "Bienvenidos a ustedes, están como siempre Jorge Elías y el señor Alejandro Gomel.",
+      "entidades_detectadas": [
+        "Jorge Elías",
+        "Alejandro Gomel"
+      ]
+    },
+    {
+      "frase": "Muy feliz año para todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a arrancar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos un comienzo de año con algunos temas clave del día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por un lado, la asunción nuevamente en Brasil de Lula sin la presencia de Bolsonaro.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula",
+        "Bolsonaro"
+      ]
+    },
+    {
+      "frase": "Vamos a estar hablando de esto, de qué significa para Argentina que tuvo un presidente allí en Brasil presenciando la asunción de Lula, que decidió quedarse a dormir allí cerquita del presidente electo.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Con la imagen de los presidentes de Uruguay, el presidente actual más el presidente saliente, en un verdadero gesto de unidad y de madurez política de parte de Uruguay, allí presentes en la asunción de Lula.",
+      "entidades_detectadas": [
+        "Lula",
+        "Uruguay"
+      ]
+    },
+    {
+      "frase": "Eso, por un lado; la muerte del ex papa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablamos de Benedicto XVI el sábado por la mañana y enseguida, allí, Francisco dándole la bendición final antes de lo que iba a empezar a suceder en estos días, que es la despedida final de sus restos.",
+      "entidades_detectadas": [
+        "Benedicto XVI",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Al hablar de eso también tenemos que decir que hoy empiezan los funerales de Pelé.",
+      "entidades_detectadas": [
+        "Pelé"
+      ]
+    },
+    {
+      "frase": "Ese es otro de los temas del día que también vamos a estar hablando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en lo que hace a la política local, el pedido de juicio político a Alberto Fernández al presidente de la Corte Suprema de Justicia.",
+      "entidades_detectadas": [
+        "Corte Suprema de Justicia",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Así, despacito empezamos este 2023 y vamos a darle la bienvenida a nuestro primer invitado de hoy, que es Daniel Scioli.",
+      "entidades_detectadas": [
+        "Daniel Scioli",
+        "Así"
+      ]
+    },
+    {
+      "frase": "Vamos a hacerlo con este tema y ahora les contamos por qué.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El por qué recibimos a Daniel Scioli con este tema, porque Daniel Scioli tiene su propio podcast que se llama \"El Vaquero\".",
+      "entidades_detectadas": [
+        "Daniel Scioli"
+      ]
+    },
+    {
+      "frase": "El nombre no es casual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Daniel Scioli se hizo popular por su feminismo, por las películas del *western* en su momento y por usar además un sombrero de *cowboy* en sus apariciones públicas.",
+      "entidades_detectadas": [
+        "Daniel Scioli"
+      ]
+    },
+    {
+      "frase": "Él es analista político y consultor estratégico de Córdoba y se especializó en el conflicto entre China y Estados Unidos, que él mismo lo llama la nueva guerra fría tecnológica.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Estados Unidos",
+        "China"
+      ]
+    },
+    {
+      "frase": "Como analista, se lo puede leer en *Ámbito Financiero*, en *El Economista* y en el portal *Letra P*.",
+      "entidades_detectadas": [
+        "Ámbito Financiero",
+        "Letra P"
+      ]
+    },
+    {
+      "frase": "Pero además, se lo puede encontrar en sus redes sociales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es muy activo siempre en sus redes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso elegimos, en verdad, por esto que les contaba, el nombre de su podcast, \"El Vaquero\", este tema de Ennio Morricone, quien compuso el tema original de la película *El Bueno, el Malo y el Feo*, una clásica película de vaqueros con Clint Eastwood de protagonista.",
+      "entidades_detectadas": [
+        "El Bueno",
+        "Ennio Morricone",
+        "Clint Eastwood"
+      ]
+    },
+    {
+      "frase": "Gracias por atendernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Daniel, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Daniel"
+      ]
+    },
+    {
+      "frase": "Soy Nuria.",
+      "entidades_detectadas": [
+        "Soy Nuria"
+      ]
+    },
+    {
+      "frase": "Buen día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuria, buen día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Feliz año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad, feliz año, y me has hecho emocionar en este arranque, ese tema que pusiste es quizás la escena más espectacular de la historia del cine.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, claro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El cementerio de Sad Hill es una escena, una especie de duelo increíble entre Clint Eastwood y el famoso actor que no murió hace muchos años.",
+      "entidades_detectadas": [
+        "Sad Hill",
+        "Clint Eastwood"
+      ]
+    },
+    {
+      "frase": "Tenemos una producción afiladísima, como verás, inclusive en enero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No duerme la producción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Daniel, arranco preguntándote.",
+      "entidades_detectadas": [
+        "Daniel"
+      ]
+    },
+    {
+      "frase": "Dejamos los balances de 2022 atrás.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Arrancamos este 2023, año electoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, seguramente durante estos próximos meses se va a ir acelerando esa cuenta regresiva que hasta hace poquito parecía lejana, pero ya empezaban situaciones que están muy vinculadas a lo que va a estar pasando a mitad de año.",
+      "entidades_detectadas": [
+        "parecía lejana",
+        "Además"
+      ]
+    },
+    {
+      "frase": "¿El gobierno podría terminar esta gestión mejor de lo esperado, por ejemplo, desde la llegada de Massa?",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "A ver, mejor de lo esperado, Nuria, sería esto.",
+      "entidades_detectadas": [
+        "Nuria"
+      ]
+    },
+    {
+      "frase": "A ver, era un gobierno que en un momento tuvo tres ministros de Economía en un mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Iba ya tenía, yo te diría, certificado de función.",
+      "entidades_detectadas": [
+        "tenía",
+        "Iba"
+      ]
+    },
+    {
+      "frase": "Fue la saga entre Guzmán, Batakis y Massa.",
+      "entidades_detectadas": [
+        "Batakis",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Massa fue una suerte de asamblea legislativa virtual.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Inédita, quizá, lo que se dio en su momento allá con Duhalde alrededor del 2002, se dio con Massa con un procedimiento exprés, donde mediaron unas pocas llamadas y se disparó ese dispositivo de emergencia.",
+      "entidades_detectadas": [
+        "Duhalde",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Sabemos lo que Massa representaba dentro del Frente de Todos.",
+      "entidades_detectadas": [
+        "Frente de Todos",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Era el fin del mundo, prácticamente, sobre todo para el kirchnerismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno de los personajes más combatidos que protagonizó a algunos dignos de la campaña por allá, por 2012, cuando decían ellos, \"todos los traidores se van con Massa\".",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "El gobierno entró en un procedimiento de emergencia, y en extremis, rumbo, por supuesto, a una inflación de triple dígito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, vemos que está terminando el gobierno con una inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo te diría, no podemos decir hoy todavía que tiende a la baja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tendríamos que ver tres mediciones consecutivas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso todavía no se ha visto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, está respirando el gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un viejo adagio que dice que \"los cadáveres se cuentan fríos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, a ese no se lo puede contar.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¿Vos crees que el responsable de eso es Sergio Massa?",
+      "entidades_detectadas": [
+        "Sergio Massa",
+        "¿Vos"
+      ]
+    },
+    {
+      "frase": "Digo, el que se lleva ese logro de que el gobierno esté aún respirando cuando parecía que estaba al borde del abismo.",
+      "entidades_detectadas": [
+        "parecía",
+        "Digo"
+      ]
+    },
+    {
+      "frase": "No, creo que es parte, pero me parece que quizás la maniobra más importante tuvo que ver con Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y quizás la duda más importante que había es que si el kirchnerismo al borde del abismo, sobre todo Cristina en particular, frenaba y doblaba.",
+      "entidades_detectadas": [
+        "había",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Bueno, creo que se demostró de alguna forma que Cristina prácticamente allanó.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Si vemos desde que Massa tomó la conducción de la política económica, prácticamente el kirchnerismo no abrió la boca.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "A ver, repaso esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Digo, Massa toma la conducción y Cristina no tiene posibilidades para este año.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Digo",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "¿Ya la das fuera de carrera, Cristina?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Le crees esto de que no iba a ser candidata a nada?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina, yo el otro día en una nota hablaba que está generando una especie de chiste y medio de humor negro, pero una especie de efecto *Lapa*.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Desde la Torre de Control, ella dice, \"bueno, saquen todos a la cancha, saquen su bastón de mariscal de la mochila\".",
+      "entidades_detectadas": [
+        "Torre de Control"
+      ]
+    },
+    {
+      "frase": "Pero ella simplemente lo que está haciendo, ojo, no solo a nivel del oficialismo, sino de la oposición, generar un vacío de poder enorme y de alguna forma está induciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella sabe que llegado marzo, abril, van a ir todos en procesión, tanto los líderes del oficialismo como los de la oposición que existen gracias a ella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos olvidemos, sobre todo en particular, estas alas que le llaman los halcones de \"Juntos por el Cambio\", existen a raíz de ella.",
+      "entidades_detectadas": [
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Esto es como el yin y el yang.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No existe más Cristina, o Patricia Bullrich o cualquiera de los \"duros\".",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Entonces, ella ha generado, me parece, que de alguna forma había mucha presión sobre ella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un antes y un después de aquel incidente del 1 de septiembre siempre en la puerta de su casa, donde ella se encuentra con una pistola en la cara.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y además, no solo eso, sino de dónde venía esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos olvidemos que el kirchnerismo siempre se siente más cómodo por ahí con ataques que vienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella siempre, no sé si te acordás, Nuria, que ella decía, \"si me pasa algo, miren al norte\".",
+      "entidades_detectadas": [
+        "Nuria"
+      ]
+    },
+    {
+      "frase": "Bueno, esto no vino del norte, vino de los arrabales del conurbano, o de los sectores más postergados, lúmpenes o excluidos, en una de esas, en este momento, de la sociedad, del plan económico.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Y es el sector donde el kirchnerismo se siente más incómodo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Alberto tiene posibilidades?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hace poco tiempo usted dijo que se había empezado a reunir con empresarios, con miras al año este, al 2023.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, mira, Nuria, Alberto, hay una realidad.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Nuria"
+      ]
+    },
+    {
+      "frase": "Cuando dicen que Massa tendría chances en caso de que el plan económico empezara a dar buenas noticias, sobre todo en lo que tiene que ver con una tendencia a la baja de la inflación y por ahí la posibilidad.",
+      "entidades_detectadas": [
+        "Massa"
+      ]
+    },
+    {
+      "frase": "A ver, ningún gobierno que enfrente un proceso electoral con más de 50 puntos de inflación tiene chances, o pobreza galopando arriba del 40.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, si el gobierno recupera competitividad electoral, yo creo que va a ser muy difícil sacarlo de la cancha, Alberto, porque ¿cómo van a hacer para separar los eventuales logros estos, cortarlos entre lo que es Massa y Alberto?",
+      "entidades_detectadas": [
+        "Bueno",
+        "Alberto",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Yo no lo excluiría de esta posibilidad, y en la medida que el oficialismo recupera la competitividad, me parece que siempre el presidente es un candidato natural a buscar su reelección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sería demasiado traumático sacarlo de la cancha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Daniel, está mi compañero Alejandro Gomel, está Jorge Elías también en la mesa, ellos te quieren preguntar.",
+      "entidades_detectadas": [
+        "Daniel",
+        "Alejandro Gomel",
+        "Jorge Elías"
+      ]
+    },
+    {
+      "frase": "Ale.",
+      "entidades_detectadas": [
+        "Ale"
+      ]
+    },
+    {
+      "frase": "Ale, muy buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te consulto por cómo ves a la oposición, en qué sentido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este año, en el año electoral, empezaron a tirarse con todo, digo, de un lado palomas y halcones, de un lado el tema de Alessandro, del otro lado el tema Milman.",
+      "entidades_detectadas": [
+        "Alessandro",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "¿Te viene una campaña electoral de carpetazos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sí, la oposición tiene un gran problema, que es que a diferencia de 2015 no tiene un candidato natural.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En aquel momento, si uno piensa en todo el proceso 2014-2015, esto concluye en una interna donde había tres figuras, Macri, Sanz y Carrió.",
+      "entidades_detectadas": [
+        "Carrió",
+        "Macri",
+        "Sanz"
+      ]
+    },
+    {
+      "frase": "Y vimos cómo salió esa interna, 95-5.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No había mucha discusión al respecto, inclusive fuera de lo que era Cambiemos en aquel momento.",
+      "entidades_detectadas": [
+        "Cambiemos"
+      ]
+    },
+    {
+      "frase": "Estaba Sergio Massa, que quizás hacía las veces de lo que es hoy Javier Milei, que uno dice, a ver quién va a inclinar la balanza para un lado o para otro.",
+      "entidades_detectadas": [
+        "Javier Milei",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Pero no había duda respecto al candidato natural.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema que tiene la oposición, el drama de \"Juntos por el Cambio\", y algo que le sigue dando una ventaja grande al oficialismo, que tiene una figura nítida, un liderazgo consolidado como el de Cristina, es que los candidatos son intercambiables.",
+      "entidades_detectadas": [
+        "Cambio",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Si uno ve cualquier encuesta, todos tienen sus fortalezas, sus debilidades, pero nadie mide mucho más que el otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los números de Macri son parecidos a los de Larreta, a los de Vidal, a los de Patricia Bullrich.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Vidal",
+        "Macri",
+        "Larreta"
+      ]
+    },
+    {
+      "frase": "O sea, cada uno tiene por ahí sus activos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Patricia Bullrich llega bien por ahí a algunos conurbanos del interior, llega bien acá en Córdoba, en Rosario.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Córdoba",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "La imagen de la gestión de Larreta, sobre todo el primer cordón del conurbano, y Macri sigue siendo una referencia importante, yo le diría, del anti-kirchnerismo o de los sectores más duros de \"Juntos por el Cambio\", que se siguen identificando con él.",
+      "entidades_detectadas": [
+        "Cambio",
+        "Macri",
+        "Larreta"
+      ]
+    },
+    {
+      "frase": "No es el Macri de 2015, que por ejemplo, en Córdoba en aquel momento medía 70, 80, pero sigue siendo un Macri que llega en algunos, sobre todo en los centros urbanos más grandes, sectores por ahí en una de esas, sectores de ingresos más altos, sigue siendo una referencia.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Ese es el drama de \"Juntos por el Cambio\".",
+      "entidades_detectadas": [
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Daniel, buen día, Jorge, le dice un saludo.",
+      "entidades_detectadas": [
+        "Daniel",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Hablas de candidatos naturales en Argentina y trasladémoslos a Brasil.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Lula tampoco tiene un opositor natural, ¿cómo lo ves?",
+      "entidades_detectadas": [
+        "Lula",
+        "¿"
+      ]
+    },
+    {
+      "frase": "A ver, Lula, yo te diría más que eso, el problema quizás o el desafío más grande que tiene por delante es el hecho, sobre todo después de todo lo que fue el proceso de la pandemia, hemos visto cómo han quedado muy mal logrados y destrozados los oficialismos.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Sería algo que, en el signo de época de la post pandemia, son todas las derrotas de los oficialismos a nivel, no solo latinoamericano, sino lo vimos con Trump, lo vimos con los procesos en Europa.",
+      "entidades_detectadas": [
+        "Europa",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Entonces, yo creo que Lula lo que tiene por delante, y se diría muy probablemente es que nos encontremos que en marzo o abril próximo ya tenga un deterioro importante en su imagen, sobre todo por doble vía.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "La crisis económica esta que ha disparado la pandemia es como que se manifiesta por dos canales que erosionan la popularidad, yo te diría, de todos los oficialismos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por un lado, el aumento de los precios de la energía, eso sobre todo lo vemos en Europa cómo golpea, en Inglaterra, en España, en Alemania, aumentando todos los costos y después por vía del precio de los alimentos.",
+      "entidades_detectadas": [
+        "Alemania",
+        "Europa",
+        "Inglaterra",
+        "España"
+      ]
+    },
+    {
+      "frase": "Eso ha sido especialmente grave y donde se ha manifestado con mayor crudeza, sobre todo en los países de Latinoamérica, en África, donde vemos, y donde lo vemos acá en Argentina crudamente, la inflación de alimentos y bebidas galopando por arriba del índice de inflación general.",
+      "entidades_detectadas": [
+        "Latinoamérica",
+        "Argentina",
+        "África"
+      ]
+    },
+    {
+      "frase": "Me parece que ese es el mayor desafío que tiene Lula, lo tiene bastante bien identificado.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Vimos ayer en el discurso de Asunción cómo puso en primer plano el tema de recuperar la posibilidad de que los brasileros accedieran a un plato de comida, como ocurrió en sus anteriores procesos electorales y eso es un poco lo que explica su performance electoral en el nordeste, que por ahí son todos los sectores que están por debajo de lo que son las tres rentas básicas.",
+      "entidades_detectadas": [
+        "ocurrió"
+      ]
+    },
+    {
+      "frase": "Así que bueno, me parece que ese es el principal problema que tiene Lula por delante.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Hoy tiene la cancha libre en lo que hace el tablero político, como decías vos, o sea, no hay una figura, va a ser Bolsonaro ese seguramente, pues sigue siendo una referencia nítida, sobre todo de seguros muy antipetistas, que yo te diría un 18, un 20% del electorado brasilero va a seguir siendo, por ahí no referenciado en la figura puntual de Bolsonaro, pero si no del bolsonarismo.",
+      "entidades_detectadas": [
+        "Bolsonaro"
+      ]
+    },
+    {
+      "frase": "Hay que ver quién tiene el nombre o la capacidad de emerger algún líder, no hay ninguno a la vista, la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay uno, estaba el gobernador Doria dando vuelta, pero no, no en este momento no hay ninguna figura nítida.",
+      "entidades_detectadas": [
+        "Doria"
+      ]
+    },
+    {
+      "frase": "Y te hago, Daniel, una más para cerrar, digo, en torno a esto hablas del desafío que tiene Lula en Brasil con algunas reminiscencias de la relación política en la Argentina, digo, Bolsonaro ayer no estuvo presente, se sacó una foto en Disney, ¿era no?",
+      "entidades_detectadas": [
+        "Brasil",
+        "Daniel",
+        "la Argentina",
+        "¿",
+        "Bolsonaro",
+        "Lula",
+        "Disney"
+      ]
+    },
+    {
+      "frase": "En un reloj, hablando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Digo, hasta un poco de mal gusto, parecido a lo que sucedió acá cuando le tocó asumir a Macri, ¿qué significa para la Argentina?",
+      "entidades_detectadas": [
+        "¿",
+        "Macri",
+        "Digo",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Digo, con un Alberto Fernández que festeja absolutamente igual que Cristina la llegada de Lula nuevamente al poder en Brasil, Alberto que decide quedarse, inclusive al día de hoy, dando una importancia mayor todavía a lo que está sucediendo allí.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Alberto Fernández",
+        "Cristina",
+        "Lula",
+        "Alberto",
+        "Digo"
+      ]
+    },
+    {
+      "frase": "Mira, a ver, hay algo que no podemos dejar de reconocer: que Alberto Fernández puntualmente es un gran ganador de la jornada de ayer.",
+      "entidades_detectadas": [
+        "Mira",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Vimos en el momento que fue a hacer fotos en la puerta donde estaba Lula preso, reclamando por la libertad de Lula, por eso no debería ser, no es casual el clima de ese eco y de euforia con el que lo vemos a Alberto Fernández.",
+      "entidades_detectadas": [
+        "Lula",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Pero a ver, en lo que hace a la relación con Brasil, hay un tema, Lula es un amigo de la Argentina, indudable, y me parece que en eso hay una mejora, digamos, un cambio de 180 grados en la relación, pero más allá de eso, en lo que hace a lo estructural, la verdad es que Argentina y Brasil es una relación hoy donde está demasiado fría todo lo que es la relación comercial.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula",
+        "Argentina",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Argentina no forma parte de la agenda de comercio exterior de Brasil, donde lo central pasa más bien por Oriente y China en particular.",
+      "entidades_detectadas": [
+        "Brasil",
+        "China",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Me parece que lo que está digamos lo pendiente e importante por delante es mejorar toda la parte dura, lo que fue en su momento, uno va a 2003, 2005, 2007, y uno veía que la relación tenía un contenido, un flujo de intercambio de comercio, de inversiones, que hoy está muy limitado a lo que es el sector automotriz, algo de exportación de bienes primarios, pero la verdad es que la relación hay que recuperarla, está muy enfriada, y el Mercosur yo te diría está con pronóstico reservado lo que viene por delante.",
+      "entidades_detectadas": [
+        "Mercosur"
+      ]
+    },
+    {
+      "frase": "Bien, Mercosur con pronóstico reservado, Daniel Scioli, analista político y consultor, gracias por este contacto con Monterrey, gracias Nuria, un fuerte.",
+      "entidades_detectadas": [
+        "Daniel Scioli",
+        "Mercosur",
+        "Monterrey",
+        "Nuria"
+      ]
+    },
+    {
+      "frase": "vamos a seguir con el mismo tema con el que te saludamos al inicio y que te gustó tanto, el bueno, el feo y el malo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue emocionante, el feo, Nuria, Alex, Ricardo, que tengan un gran año, feliz año.",
+      "entidades_detectadas": [
+        "Ricardo",
+        "Alex",
+        "Nuria"
+      ]
+    },
+    {
+      "frase": "gracias igual, vente, adiós.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estaba Sergio Massa",
+    "Sanz",
+    "Sería",
+    "Patricia Bullrich",
+    "Además",
+    "Alberto",
+    "Estados Unidos",
+    "Latinoamérica",
+    "Soy Nuria",
+    "había",
+    "Alex",
+    "Carrió",
+    "parecía",
+    "Cambio",
+    "Modo Fontevecchia",
+    "Jorge",
+    "Torre de Control",
+    "Así",
+    "Disney",
+    "Jorge Elías",
+    "Batakis",
+    "Daniel",
+    "Alberto Fernández",
+    "¿Vos",
+    "Vamos",
+    "Alejandro Gomel",
+    "Rosario",
+    "Monterrey",
+    "Ricardo",
+    "Duhalde",
+    "Córdoba",
+    "Alberto?",
+    "Ámbito Financiero",
+    "Argentina",
+    "Europa",
+    "Vidal",
+    "AFA",
+    "Pelé",
+    "Cristina?",
+    "Cristina",
+    "Sergio Massa?",
+    "Net",
+    "ocurrió",
+    "Bienvenidos",
+    "España",
+    "Francisco",
+    "¿",
+    "Mercosur",
+    "Nuria",
+    "Frente de Todos",
+    "Uruguay",
+    "Letra P",
+    "Lula",
+    "tenía",
+    "China",
+    "Trump",
+    "Clint Eastwood",
+    "¿Alberto",
+    "Bolsonaro",
+    "Larreta",
+    "parecía lejana",
+    "Iba",
+    "Alemania",
+    "Doria",
+    "Brasil",
+    "El Bueno",
+    "Cambiemos",
+    "Bruno Guiso",
+    "Macri",
+    "Ennio Morricone",
+    "Daniel Scioli",
+    "Massa",
+    "Florencia Halfon",
+    "Jorge Fontevecchia",
+    "Javier Milei",
+    "Alessandro",
+    "Voy",
+    "Inglaterra",
+    "Digo",
+    "Corte Suprema de Justicia",
+    "Ale",
+    "África",
+    "Hablamos de Benedicto XVI",
+    "Bueno",
+    "Bien",
+    "Duplex",
+    "Radio Perfil",
+    "la Argentina",
+    "Mira",
+    "La Mosca"
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 85
+    },
+    "score_promedio": 0.76,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "El exministro de Producción fue a despedirse del presidente Alberto Fernández y de otros ministros, esto no termina bien.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Al presidente cómo puede jugar?",
+      "score": 0.485,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Qué cagazo, Gabriela Cerruti, no miraba con cara de edad, le andaba temblando, cara de pánico, cara de, estoy pasando muy mal acá.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kulfas dijo que Cristina Fernández de Kirchner hizo una injusta acusación y ratificó sus dichos sobre el gasoducto.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El exministro de Desarrollo Productivo presentó formalmente la carta de renuncia a Alberto Fernández donde hace un balance de su gestión y las trabas de un sector del kirchnerismo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además, Kulfas se fue porque el presidente Alberto Fernández entrega a los pocos albertistas que le quedaban.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora estaba leyendo que el juez **Rafecas** lo cita para el viernes a las 10 de la mañana, ya nos va a contar todo **Dragani**, para que ratifique sus dichos y aporte las pruebas sobre la licitación de los muchachos de La Cámpora que le hicieron a medida a Techint.",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos hacen mierda a cada segundo y te das cuenta de que nosotros finalmente le chupamos un huevo.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ante la denuncia de Kulfas, el gobierno tomó y tiene su postura, una postura que le sale al gobierno, hacerse bien el pelotudo.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández está convencido de la necesidad de seguir trabajando por la unidad de la coalición de gobierno, construyendo acuerdos en la diversidad y gobernando con plena transparencia en todas las áreas.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo mirás cuando él declara como diciendo que no diga nada, que no diga nada, que no diga nada después que le diga después a la prensa.",
+      "score": 0.612,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además quiero que lo escuche el presidente Alberto Fernández justificando la partida y por qué le pidió la renuncia al exministro Kulfas.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le pide?",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Alberto Fernández diciendo que no le gustan los OV.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández prefiere los ON de todos los cristinistas, los tasquistas, narristas que le dicen de qué trefe ocupa, o ella que le dice tenés la banda, el bastón, no tenés poder, a los OV de Matías Kulfas.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina le pidió a Alberto la cabeza de Matías y él se la entregó.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que le sigue es **Guzmán**, prepárense.",
+      "score": 0.606,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo mismo Alberto Fernández hiciste con **Lozardo**, su mejor amiga, tu socia.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández tenés menos ética que Borocoto.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué el presidente Alberto Fernández no le dijo a Kulfas que vaya a la justicia y que lo denuncie?",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo, ustedes se meten con Cristina, Cristina se mete conmigo, me pide que lo eche y lo tengo que rajar.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que no preside, que no le pone huevos.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La coima de Techint a Kirchner fue de 300 millones de dólares.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La corrupción en la Argentina es moneda corriente.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, hoy los empresarios más importantes de la Argentina se reunieron en el hotel **Regente** y enfrente se reunieron los piqueteros para pedir que bajen los precios.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora en este momento están levantando sus cosas porque se encendieron los rociadores, esos que están en el césped, por eso es que vemos que hay bastante movimiento, pero hasta hace minutos nada más estaban bajo sus frazadas.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablando de que esto no termina bien, la que estaba atenta a la reunión de los empresarios del Sheraton era Cristina Fernández de Kirchner, que enseguida tuiteó, sinceramente recién en la jornada por los 20 años de la Asociación Empresaria Argentina, el dueño de una de las cadenas de supermercados más grandes del país, te cuenta lo que hacen todos los días.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me acordé automáticamente de Alberto Fernández.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él la traicionó a Cristina Fernández de Kirchner.",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos a ese Alberto Fernández traidor, por favor.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me voy a callar su mal manejo de la economía que ha llevado a la Argentina de vuelta a tener déficit fiscal.",
+      "score": 0.769,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, pero mismo fue conservador con Luder, fue neoliberal con Menem, fue conservador popular con Dualde, fue progresista con Kirchner y fue patético con Cristina.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy dispuesto a debatir cualquier cosa, a lo menos estoy dispuesto a sobrellevar porque luego política no tiene un cuartel.",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ponemos todo en duda, pero Alberto Fernández era el mejor analista del gobierno de Cristina Fernández de Kirchner y terminó convirtiéndose mucho tiempo después en su títere.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ambos escribieron libros lapidarios hablando de Cristina Fernández de Kirchner.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la reina de Tolosa sabe que la venganza es un plato que se come frío y se los está Cristina morfando de a poco.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está solo, más solo que Adán en el día de la madre.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes que conocen mucho, que están mirando la historia argentina, ¿conocen un presidente más mentiroso que Alberto Fernández?",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre digo la verdad aun cuando miento, le quedaría perfecta esta frase de Scarface al presidente Alberto Fernández.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora apareció un nuevo crítico del presidente Alberto Fernández.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández es un recontrapelotudo, dijo este actor Gerardo Romano.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández logró algo imposible, ¿no?",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández es un recontrapelotudo, no le alcanzó con pelotudo.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, al gobierno no le preocupa lo que perdemos a diario las minorías, sino que ganen mucho algunos pocos.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen que Guzmán le pidió, Sarasa le pidió al presidente, por lo menos tres meses para mostrarle algún resultado.",
+      "score": 0.736,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina ya tiene preparada la escoba para barrerlo, Guzmán también es el que sigue.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández alcanza su peor registro de imagen pública.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque con este presidente cada día podés estar peor.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene más territorio que las Malvinas argentinas.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si sos K seguro que el Papa te recibe.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me pregunto si el Papa Francisco sabe quién es Pietragala.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué lástima que el Papa Francisco no nos represente a los católicos de bien.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy se reunieron Mauricio Macri y Patricia Bullrich.",
+      "score": 0.66,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y todos entienden, obviamente, que la presencia de Mauricio Macri con Patricia Bullrich es en apoyo a su candidatura a presidente.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una frase de Macri que me llamó la atención, la levanté y te la voy a contar.",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ojo con el radical.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto lamento decírselo a los ortodoxos, pero cuando hay una situación de crisis y cuando tenemos un fuerte control de precios, porque acá el que aumenta precios le aplicamos la multa y lo metemos preso.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto lamento decírselo a los ortodoxos, pero cuando hay una situación de crisis y cuando tenemos un fuerte control de precios, porque acá el que aumenta precios le aplicamos la multa y lo metemos preso.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí, te juro, que los dichos de Morales me dan un poco de cagazo.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Morales te dice, siga caminando por favor, emitan sin miedo, muchachos.",
+      "score": 0.545,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo algo Morales, en este país no va preso nadie, lamentablemente, esto no termina bien.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un país en que un presidente como Alberto Fernández firma un DNU y él lo viola y no va preso, pone tres palos.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los K Morales se fugaron toda la guita y están todos gobernando.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina nunca pasa nada, van presos los perejiles.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me mandó el video que vamos a ver ahora, Tiziano Gravier, el hijo de Valeria Mazza, agredido a la salida de un boliche, le fracturaron la mandíbula.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le rompieron la mandíbula al hijo de Valeria Mazza.",
+      "score": 0.761,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le rompieron la mandíbula de una trompada por tincho.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A una mina le roban el teléfono en la parada del bondi.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque sabe que a esta chica le robaron, pero claro, mira, va a preguntar dónde está el colectivo.",
+      "score": 0.749,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí le avisa.",
+      "score": 0.493,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le toca a Bozina el colectivero.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le robaron a un apio acá.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero le devolvió el teléfono a la chica que estaba contenta.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dio un beso a la gente para ver al colectivo.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El INDEC se comprometió a realizar la encuesta nacional de personas con discapacidad.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa hora, 46.002 son las personas con síndrome de Down que el Estado reconoció, pero aún quedan muchos más.",
+      "score": 0.605,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el INDEC son unos truchos.",
+      "score": 0.601,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy retweeté a unos padres muy jóvenes con una chiquita con síndrome de Down que no le dan bola.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren, saben que le reclaman a Osde.",
+      "score": 0.73,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, esa gente le pide a Osde que le den pelota.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen a Osde, no le dan bola.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo les juro que cuando se llenan la boca hablando de un gobierno inclusivo y no les importa en el censo saber cuántas personas con discapacidad hay, me hincha las pelotas, la doble vara y la doble moral que tienen.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, ustedes, con esta cosa del aborto, cuando va una mujer que está embarazada y tiene un chiquito con síndrome de Down en su vientre, le dicen ¿no querés abortar?",
+      "score": 0.742,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A madres que están esperando un chiquito con síndrome de Down le proponen abortar.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo va a terminar bien si están dilapidando esta maravillosa patria que tenemos todos los argentinos?",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, hoy retweeté algo de un matrimonio con una chiquita con síndrome de Down que le está pidiendo a Osde.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pues lo voy a retweetear y le voy a decir, en todo caso lo pongo mañana.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le voy a mostrar al gobierno que tiene una chiquita con síndrome de Down.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sabes qué, no le da bola a nadie.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que le guste ver a dos personas trans.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una persona trans vive, es mayor, adulta, decide, hace lo que se le da la gana.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sus padres, nadie le da pelota.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cómo ver chicos con síndrome de Down y no le dan bola.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a este gobierno no le importa.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a entrevistar este jueves a Esteban Bullrich en su casa.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En una entrevista conozco a Alan Rodríguez que es un chico con síndrome de Down que ya terminó el colegio secundario y no le querían dar su título inclusivo.",
+      "score": 0.359,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A decirle, ¿por qué no le dan el título inclusivo a un chico que estudió toda la vida y que quiere su título inclusivo?",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cuando el año pasado le hice un editorial a Esteban Bullrich, honrándolo por lo bueno que es como ser humano, por el alma noble que tiene, él me dijo, gracias a Alan Rodríguez.",
+      "score": 0.585,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El juez ratificó esa medida con un plazo máximo de 48 horas, que venció el 29 del 4.",
+      "score": 0.295,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 100
+  },
+  "etiqueta_original": "neutral"
+}

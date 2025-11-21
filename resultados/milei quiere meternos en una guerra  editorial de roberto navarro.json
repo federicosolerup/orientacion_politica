@@ -1,0 +1,321 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "La República Islámica de Irán lanzó cientos de drones y misiles contra territorio israelí por primera vez en la historia.",
+      "entidades_detectadas": [
+        "República Islámica de Irán"
+      ]
+    },
+    {
+      "frase": "Afirmó haberlo hecho en respuesta al ataque israelí contra su embajada en Damasco, que causó 11 muertes.",
+      "entidades_detectadas": [
+        "Damasco",
+        "Afirmó"
+      ]
+    },
+    {
+      "frase": "Este hecho ha pasado casi inadvertido en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Se menciona el ataque de Irán, pero se omite que… Primero, Irán avisó con tiempo suficiente para evitar bajas.",
+      "entidades_detectadas": [
+        "Irán"
+      ]
+    },
+    {
+      "frase": "No murió nadie en Israel, y se evita mencionar que fue en represalia por el ataque israelí a la embajada iraní en Damasco.",
+      "entidades_detectadas": [
+        "Israel",
+        "Damasco"
+      ]
+    },
+    {
+      "frase": "Si bien Irán, Europa y Estados Unidos declararon su deseo de evitar una escalada del conflicto, es evidente que se están sumando conflictos internacionales con un alto potencial de crecimiento.",
+      "entidades_detectadas": [
+        "Europa",
+        "Estados Unidos",
+        "Irán"
+      ]
+    },
+    {
+      "frase": "En este contexto, el gobierno argentino sobreactuó su apoyo a Israel.",
+      "entidades_detectadas": [
+        "Israel"
+      ]
+    },
+    {
+      "frase": "No mencionó el ataque ni las muertes en Damasco.",
+      "entidades_detectadas": [
+        "Damasco"
+      ]
+    },
+    {
+      "frase": "Organizó una parodia de comité de crisis un domingo por la noche, invitando al embajador de Israel en Argentina a una reunión de gabinete y a la posterior conferencia de prensa; algo insólito e inédito.",
+      "entidades_detectadas": [
+        "Israel",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Considero que este gobierno está haciendo todo lo posible por involucrarnos en una guerra ajena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde que asumió, mi principal preocupación ha sido el enorme riesgo de una pandemia o una guerra, las mismas situaciones que enfrentó Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¿Y cómo ha reaccionado este gobierno?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ahora lo estamos viendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La epidemia de dengue, si bien no fue una pandemia, fue una epidemia importante, y el gobierno no hizo absolutamente nada para salvar vidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahora está haciendo todo lo posible por meternos en la guerra, no por evitarla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A esta altura, podemos decir que este gobierno se mantiene en el poder a pesar de sí mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No solo no busca alianzas con otros partidos, sino que las rompe.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A nivel ejecutivo, ya despidió a 19 funcionarios, entre ellos el secretario de Trabajo (recordemos que no hay ministro de Trabajo) y el secretario de… (se necesita especificar el cargo).",
+      "entidades_detectadas": [
+        "Trabajo"
+      ]
+    },
+    {
+      "frase": "A nivel legislativo, se peleó con Carolina Píparo, quien abandonó el bloque parlamentario llevándose a otra diputada; y ahora se peleó con el jefe del bloque, Oscar Sago, quien también se fue y formó un nuevo interbloque.",
+      "entidades_detectadas": [
+        "Carolina Píparo",
+        "Oscar Sago"
+      ]
+    },
+    {
+      "frase": "Hace dos semanas, este gobierno envió a sus trolls a insultar a la vicepresidenta y presidenta del Senado, Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Senado",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "A nivel judicial, se enfrentó a la Corte Suprema, filtrando información sobre su intento de modificar el equilibrio de poder.",
+      "entidades_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Su relación con Mauricio Macri empeora cada día, y no cesa de insultar a los radicales.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "En el Senado, perdió el apoyo de los senadores afines a Miguel Ángel Pichetto en Río Negro, a María Eugenia Vidal en Santa Cruz, y está teniendo problemas con Gustavo Sáenz en Salta.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto",
+        "Río Negro",
+        "Santa Cruz",
+        "Gustavo Sáenz",
+        "María Eugenia Vidal",
+        "Salta",
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Hablando de pérdida de apoyos, cabe mencionar la pérdida del apoyo de… (se necesita especificar el nombre o cargo de Brutus).",
+      "entidades_detectadas": [
+        "Brutus"
+      ]
+    },
+    {
+      "frase": "Los actos contraproducentes se repiten.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 6 de febrero, recordemos que se le cayó la ley de bases porque desconocía el reglamento, y él mismo retiró la ley.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La semana pasada, después de una buena reunión, negó la homologación del convenio a los camioneros, provocando otro paro general.",
+      "entidades_detectadas": [
+        "negó"
+      ]
+    },
+    {
+      "frase": "También insultó a varios presidentes de otros países, incluyendo a los de sus dos principales socios comerciales, China y Brasil.",
+      "entidades_detectadas": [
+        "Brasil",
+        "También",
+        "China"
+      ]
+    },
+    {
+      "frase": "En el marco de las negociaciones con el FMI, en las que necesita el apoyo de Joe Biden, viajó a una cumbre conservadora para apoyar a Donald Trump.",
+      "entidades_detectadas": [
+        "Donald Trump",
+        "FMI",
+        "Joe Biden"
+      ]
+    },
+    {
+      "frase": "La lista de errores sigue creciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El episodio de Sago y Marcela Pagano refuerza la sospecha de que algunos de estos errores no son responsabilidad de Javier Milei, sino de… (se necesita especificar el nombre), lo que confirmaría que ella es quien realmente manda.",
+      "entidades_detectadas": [
+        "Sago",
+        "Marcela Pagano",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "El fin de semana pasado, según escribió Nicolás Lantos en su columna de “El Domingo”, … (se necesita completar la información, incluyendo el cargo de Sago, que parece inconsistente con la información anterior).",
+      "entidades_detectadas": [
+        "Sago",
+        "El Domingo",
+        "Nicolás Lantos"
+      ]
+    },
+    {
+      "frase": "De los 41 diputados de La Libertad Avanza, cinco no votaron por el actual presidente del bloque, … (se necesita especificar el nombre).",
+      "entidades_detectadas": [
+        "La Libertad Avanza"
+      ]
+    },
+    {
+      "frase": "La confusión generada por las diferentes posturas de… (se necesita especificar el nombre) con su hermana fue tal, que las 50 cuentas de Twitter más cercanas a… (se necesita especificar el nombre), que marcan la agenda mediática, guardaron silencio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hablaron porque no sabían a cuál de los dos hermanos apoyar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además de que el mundo político empieza a pensar que hay que negociar con… (se necesita especificar el nombre) y no con Javier Milei, la nueva ley de bases fue redactada por el equipo de Federico Sturzenegger, que representa intereses corporativos.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger",
+        "Además",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Todo lo que ocurre parece ajeno a Milei.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Con el liderazgo de las corporaciones y la conducción de… (se necesita especificar el nombre), los salarios y las jubilaciones cayeron más del 20% en cuatro meses, la economía entró en una etapa de depresión y los únicos logros son ficticios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay superávit fiscal porque no se le paga lo que corresponde a las provincias y no se paga la energía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay recuperación de reservas porque no se pagan las importaciones y el control de la inflación se logra por inanición, porque la gente no tiene para comer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, el secretario de Seguridad de Chubut dijo que la mayoría de los delitos en su provincia son cometidos por madres que roban comida para sus hijos.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Chubut"
+      ]
+    },
+    {
+      "frase": "La semana pasada, el gobierno recibió su primera encuesta por debajo de los 40 puntos, con un fuerte rechazo por las prepagas y las tarifas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quizá gobernar para unos pocos con una jefa escondida termine saliendo mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tema es si no nos meten en una guerra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buenos días, ¿cómo están?",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Alberto Fernández",
+    "Carolina Píparo",
+    "Organizó",
+    "Irán",
+    "María Eugenia Vidal",
+    "Damasco",
+    "Afirmó",
+    "Javier Milei",
+    "Israel",
+    "Joe Biden",
+    "Federico Sturzenegger",
+    "Río Negro",
+    "China",
+    "Además",
+    "Marcela Pagano",
+    "Donald Trump",
+    "Sago",
+    "Cristina Kirchner",
+    "Estados Unidos",
+    "Buenos días",
+    "Miguel Ángel Pichetto",
+    "Argentina",
+    "Europa",
+    "La República Islámica de Irán",
+    "La Libertad Avanza",
+    "Santa Cruz",
+    "Ayer",
+    "Chubut",
+    "Gustavo Sáenz",
+    "Salta",
+    "FMI",
+    "Mauricio Macri",
+    "Oscar Sago",
+    "Brasil",
+    "El Domingo",
+    "Corte Suprema",
+    "Brutus",
+    "¿",
+    "Trabajo",
+    "Nicolás Lantos",
+    "Milei",
+    "Senado",
+    "negó"
+  ]
+}

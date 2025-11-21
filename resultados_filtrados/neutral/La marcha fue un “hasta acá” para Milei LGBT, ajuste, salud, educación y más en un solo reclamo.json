@@ -1,0 +1,72 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Vamos a comenzar primero por una jubilada en Córdoba que marchó en rechazo total a las políticas que se quieren implementar ahora.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Al jubilado de Córdoba le sigue otro testimonio, en este caso, de esta joven también, que expresa el carácter global de la marcha.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Miles de personas se reunieron en diferentes puntos de Argentina y del exterior durante la marcha antifascista y antirracista, convocada por colectivos LGTB+ y más.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Luego que el presidente dijera que a \"los zurdos los iba a correr hasta debajo de la cama\", y les recomendaba que tiemblen, se pudo ver en esta marcha que no había presencia policial, lejos de la tónica represiva con la que se enfrentó a otras movilizaciones.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Patricia Bullrich dijo que no se volvería a cortar una calle y que todo el mundo debería marchar por la vereda.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar a Patricia Bullrich, a una Patricia Bullrich feminista en el año 2015 y en el año 2017: \"La votación sobre el proyecto de feminicidio es muy importante.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "La verdad es que es un logro muy, muy importante de todos los organismos que trabajamos en el tema de la violencia, así que realmente muy contentos y esperamos este año ir bajando los feminicidios con el plan que vamos a presentar el día de mañana y con la ley que el presidente Movilizó Más que iba a enviar al gobierno de la Unión Europea\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Desde que el gobierno se dio cuenta de que la movilización iba a ser masiva, el presidente Javier Milei intentó tratar de desdecirse o directamente negar que había dicho lo que había dicho.",
+      "entidades_detectadas": [
+        "javier",
+        "presidente",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Tal vez sea esa la explicación mítica que le podemos encontrar a que cada tanto haya cientos de miles de personas que abandonan momentáneamente la vida privada para decir presente en la cita con la historia que se genera cuando el presidente los agrede constantemente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Javier Milei (se corrigió la falta de nombre)\n    *   Axel Kicillof (se corrigió la falta de nombre)\n    *   Luis Novaresio (se corrigió la falta de nombre)\n    *   Elon Musk (se agregó el apellido)\n    *   Donald Trump (se agregó el apellido)\n    *   Carl von Clausewitz (se corrigió el nombre completo)\n    *   Patricia Bullrich (se corrigió la falta de nombre)\n    *   Daniel Zamudio (se corrigió la falta de nombre)\n    *   Oriana Fallaci (se corrigió la falta de nombre)\n    *   Bernardo Neustadt (se corrigió la falta de nombre)\n    *   Daniel Feierstein (se corrigió la falta de nombre)\n*   **Corrección de ortografía:** Se corrigieron errores menores, como el uso de tildes y mayúsculas, y se añadieron comas y puntos para mejorar la legibilidad y la cohesión del texto.",
+      "entidades_detectadas": [
+        "javier",
+        "bullrich",
+        "axel",
+        "kicillof",
+        "milei",
+        "trump"
+      ]
+    }
+  ]
+}

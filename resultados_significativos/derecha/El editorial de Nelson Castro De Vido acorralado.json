@@ -1,0 +1,131 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 13
+    },
+    "score_promedio": 0.57,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Quiero comenzar, por supuesto, con el tema que es el asunto central de la discusión política en Argentina por estos días, hasta que se defina la semana que viene, el caso de Julio De Vido, que tiene una importancia indiscutiblemente simbólica, presente y futura.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está procesada por asociación ilícita en la causa por el direccionamiento de contratos viales a Austral Construcciones de Lázaro Báez, cosa que hay que sumar a los casos de Skanska.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una realidad, no es cierto, usted puede tener una circunstancia frente a la cual puede decir: \"Bueno, no tengo nada que ocultar, voy a dar ese paso, voy a pedir una licencia en el Congreso o renunciar, para que mis fueros no me protejan\".",
+      "score": 0.368,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted puede estar condenado.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Carlos Menem está condenado a siete años de prisión, debería estar preso, tiene fueros, por eso no lo está, por eso aspira a ser senador.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque, todas las cosas que dice De Vido, que es un hombre que fue astuto y que trabajó, él era consciente de lo que le iba a pasar, y trabajó para ver cómo estructuraba una caparazón de protección a su alrededor, porque sabía que iba a venir esto claramente.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, fíjense, usted es una cosa, y esto demuele la idea de una persecución política contra De Vido.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes no han escuchado a Cristina Fernández de Kirchner defender a De Vido.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y entre esos otros está Julio De Vido.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insisto, no quiere renunciar y no quiere que le quiten los fueros porque teme ir preso.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una de las características del kirchnerismo en general y de los Kirchner en particular es la contradicción.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, los Kirchner dicen una cosa diferente a la que dijeron en el pasado.",
+      "score": 0.701,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, durante toda su presidencia, Cristina Fernández de Kirchner denostó claramente a Domingo Cavallo.",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pues bien, ustedes han escuchado aquí en este programa y en otros, los testimonios con los elogios que Cristina Fernández de Kirchner le dedicaba a Domingo Cavallo en el año 2000, cuando decía: \"El único que puede salvar esto es Cavallo\".",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, con relación a esto de los procesamientos de los candidatos y demás, Cristina también habló.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya por 2001 había un ex gobernador de Corrientes, Raúl Romero Feris, que estaba por acceder al Congreso de la Nación.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, por supuesto, se generó la discusión de si podía acceder o no un hombre que estaba procesado y había estado encarcelado, y demás.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, en aquel momento, dijo esto: \"Sabes que existe, entre comillas, un dictamen de corregimiento de manifestaciones del senador, que nunca fue tratado ni incluido en ningún temario de la comisión\".",
+      "score": 0.471,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy bien, esto es lo que decía Cristina Fernández de Kirchner, impecable, impecable en cuanto a que alguien que está con procesos firmes no puede ser diputado, senador y demás.",
+      "score": 0.81,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dos cosas, por lo tanto, claramente, que, según ese criterio de Cristina Fernández de Kirchner, De Vido no puede ser diputado, pero de acuerdo con ese criterio de Cristina Fernández de Kirchner, ella tampoco podría ser senadora porque tiene procesamientos.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo quiero decir porque esto abre todo un tema hacia el futuro, porque, si inhabilitado está De Vido por procesamientos y demás, inhabilitada puede llegar a estar también Cristina Fernández de Kirchner por los procesamientos que tiene, de las causas que avanzan y la complican fuertemente.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Congreso tendrá el mismo criterio, es decir, si lo expulsa, expulsará a De Vido por falta de idoneidad moral e indignidad por tener procesamientos.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y aceptará a Cristina si es electa como miembro del Senado porque ya está procesada?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 23
+  },
+  "etiqueta_original": "neutral"
+}

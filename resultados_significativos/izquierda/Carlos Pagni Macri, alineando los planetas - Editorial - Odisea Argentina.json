@@ -1,0 +1,426 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 62,
+      "derecha": 20
+    },
+    "score_promedio": 0.313,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ahora, lo que estamos viendo cada vez con mayor claridad, y es interesante verlo, es un Macri con una enorme voluntad de poder político, en una defensa muy fuerte de su continuidad en el poder.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hay que decir que en los últimos días en esa pelea le está yendo bastante bien.",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se sostiene con bastante habilidad, no solamente por méritos propios o porque algunos astros se le han alineado, sino sobre todo por deficiencias de sus competidores o de sus desafiantes.",
+      "score": 0.43,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué Macri debe defender su candidatura?",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La posibilidad de que Macri sea reelecto, que era una posibilidad altísima hace un año, hace seis meses, hace cuatro meses, fue puesta en tela de juicio en los últimos meses.",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cualquier contexto, Macri nunca iba a perforar el piso del 35% que obtuvo en la primera vuelta electoral del año 2015.",
+      "score": 0.53,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la candidatura del presidente perforó el piso del 35%.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y era la idea de que el repudio político, si se quiere moral, a la figura de **Cristina Fernández de Kirchner** iba a hacer que, cualquiera fuera el clima económico del país, ella nunca iba a atravesar el techo que le permitiera ganar en un balotaje.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no quiere decir que Macri esté condenado a perder y mucho menos que Cristina Fernández de Kirchner esté condenada a ganar.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta vulnerabilidad de Macri se vuelve especialmente relevante dentro de Cambiemos.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy difícil ser del PRO y no ser macrista.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé si yo le pregunto después a Rafael Pascual si esta es la regla con la que se formó Cambiemos, si él me va a poder decir que sí.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema es que cuando ese que ganaba ya no gana, o es dudoso su triunfo, y más todavía, cuando ese que no está tan claro que gane, es el presidente de la nación, es decir, es la cara del oficialismo, es la dimensión del éxito o el fracaso de una experiencia de gobierno.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un tema difícil de resolver y estamos viendo cómo Cambiemos intenta resolverlo delante de todos nosotros.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuáles fueron las razones por las que ese dogma, por el cual Macri podía tener una política económica relativamente mala, con prestaciones bastante deficientes y aun así mantenerse en un piso que le daba grandes posibilidades de victoria, por qué se quebró esa lógica?",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El dólar, la inestabilidad cambiaria, en la Argentina el comportamiento del dólar no es solamente una variable financiera, es una señal de gobernabilidad, es una señal de previsibilidad económica y, ligado al comportamiento del dólar, al comportamiento de la moneda, otro fenómeno que es la inflación.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pareja dólar e inflación pusieron en tela de juicio, por la inestabilidad, el ascenso de la inflación y la caída del peso, la consistencia de Macri como candidato.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la razón también por la cual, si medimos la solidez de la candidatura de Macri, de acuerdo con estos valores, Macri tiene derecho a pensar en una mejoría y, por lo tanto, a pedir tiempo para no resolver quién va a ser el candidato de esta coalición y, en el fondo, a pretender seguir siendo él, que sería la situación más natural.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Corregir la candidatura de Macri por otra candidatura es dar un salto al vacío, es una pirueta extraordinariamente compleja.",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuáles son las razones por las cuales tiene Macri derecho a pensar en la reanimación de su proyecto de poder?",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno, el dólar parece haberse serenado y acaba de haber un clic en el comportamiento y, probablemente, en la instalación emocional de Macri en esta escena, cuando el gobierno consiguió del Fondo Monetario Internacional poder de fuego, utilización de reservas para defender el peso, la cotización del peso, la paridad con el dólar, ya no en el techo de la banda sino dentro de la banda, es decir, mayores instrumentos de intervención sobre el mercado para defender una determinada cotización electoral.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una vez que **Nicolás Dujovne** consiguió de **David Lipton**, que es con el que tiene que negociar el ministro de Hacienda con mayor firmeza, esa posibilidad de ese recurso, muy probablemente Macri haya respirado y haya dicho, bueno, ahora vamos a probar en serio qué es lo que pasa con mi candidatura que depende tanto del dólar.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo problema es la inflación, hay una correlación directa en las encuestas entre el comportamiento de los precios y la candidatura de Macri: suben los precios, cae Macri.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inscripción de candidaturas es el 22 de junio y probablemente el INDEC revele cuál es el número de la inflación de mayo el 15 de junio.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri debe también rendirle un homenaje secreto en esta dinámica que estamos describiendo a Cristina Fernández de Kirchner.",
+      "score": 0.355,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque uno de los riesgos que tenía el gobierno es que, dada vuelta la baraja de Unidad Ciudadana y conocida la candidatura de Cristina como una candidatura oficial, la gente saliera a comprar dólares.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 24 de abril del año pasado la polarización con Cristina empezó a ser riesgosa.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, la estrategia de asustar al público anti-kirchnerista con que cuida viene Cristina producía un efecto negativo sobre las finanzas del propio gobierno porque hacía que la gente fuera a comprar dólares.",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahora Cristina dijo: \"No juego yo directamente.",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, Alberto Fernández ha hecho que haya una cantidad de gente que salga a hablar diciendo: \"No vamos a defaultear, vamos a renegociar con el Fondo, pero nos mantenemos dentro de la relación con el Fondo\", y todo eso implica obviamente otro alineamiento internacional que habrá que ver cómo lo van revelando de a poco.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen los que saben, los que conocen ese cerebro o ese corazón, que una de las razones por la que Cristina Fernández de Kirchner decidió no ser candidata a presidenta es la idea de que el próximo gobierno, si es un gobierno kirchnerista, va a dar la impresión de que traiciona el legado de los primeros y segundos gobiernos kirchneristas, el de Cristina y el de **Néstor Kirchner**.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De hecho, alguien que interpreta muy bien el kirchnerismo, porque está muy cerca de él, como **Horacio Verbitsky**, apostaba, dicen sus amigos, a que Cristina nunca iba a ser candidata porque iba a tener que necesariamente llevar adelante un gobierno de ajuste y traicionar lo que parecería una experiencia populista exitosa que fue la que terminó el 10 de diciembre del año 2015.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Esto por qué Macri lo tiene que agradecer?",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque daría la impresión de que para el mercado una eventual presidencia de Alberto Fernández sería mucho menos traumática, sería mucho menos abismal o riesgosa que una eventual presidencia de Cristina Fernández de Kirchner.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto que puede tener consecuencias negativas en el futuro, habrá que ver, ahora vamos a hablar de la candidatura de Alberto, tiene consecuencias beneficiosas para Macri en el presente, porque de hecho sabemos que Cristina va a ser candidata a vicepresidenta y el dólar no se movió.",
+      "score": 0.425,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto Macri lo tiene que agradecer a la candidatura de Alberto Fernández, presumiblemente.",
+      "score": 0.557,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No lo sabemos, todavía no hay ninguna encuesta seria que esté midiendo con rigor qué recepción hay por parte del electorado de la figura de Alberto Fernández.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En principio es un experimento, también me gustaría escucharlo a Rafael Pascual sobre este tema, que quiero decir un experimento, algo raro, algo de alguna medida en alguna medida contra natura, que el líder vaya de segundo y ponga como candidato a presidente a un operador político, a alguien acostumbrado a la maquinaria burocrática de la política, a moverse como pez en el agua en esa maquinaria, pero no necesariamente a representar a la gente.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de que brillante a nadie se le vea ocurrido, a mi juicio no es una buena idea.",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que no se le ocurrió a nadie puede ser justamente disparatado y malo porque no se le ocurrió a nadie.",
+      "score": 0.79,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En política los experimentos que no se le ocurren a nadie no necesariamente son exitosos, en general fracasan.",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero habrá que ver si Alberto Fernández tiene las condiciones para vencer esta lógica y sobreponerse a ella.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La campaña de Alberto Fernández está diseñando el que le presta el departamento que es **Pepe Albistur**, va a ser el jefe de campaña, están mirando el diseño general de ese proselitismo, su estética, su color, su tono y una decisión que habrá que ver qué peso tiene la autodeliberada determinación de Cristina Fernández de Kirchner de eclipsarse detrás de Fernández, de casi no aparecer, de aparecer con cuentagotas diciendo determinadas cosas que no dañen la aparente autonomía del candidato.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora habrá que conocer entonces sabemos ya qué sucede con el mercado de cambios, sabemos qué impacto ha tenido el factor Cristina que era tan importante para el mercado de cambio, sabrá que ver cómo viene la inflación de mayo y habrá que ver una pregunta que en el gobierno se hacen poco, se la hacen más los radicales, qué impacto tiene ya no la inflación, ya no el tipo de cambio o la inestabilidad cambiaria, sino la recesión sobre la salud electoral del presidente.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otro beneficio para Macri, por eso digo que los astros en alguna medida se le están alineando y es que la candidatura de **Roberto Lavagna** no crece y algunos dicen que hasta se retrae, porque esto es importante, porque Lavagna es un candidato cuya aspiración es hablarle al electorado de Macri, no al electorado de Cristina Fernández de Kirchner, y probablemente la estabilidad del dólar y la posibilidad de que la inflación vaya a la baja es o son los factores que hacen que Lavagna no despegue.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora mide muy poco y ese medir muy poco genera una complicación en aquellos que le decían a Macri: \"Abrir Cambiemos para ir a una primaria con alguien de fuera de Cambiemos\", porque ese alguien de fuera de Cambiemos todavía no aparece como alguien sólido, capaz de ir a discutirle una primaria al presidente.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es otra condición ambiental, general de época, muy favorable a Macri, todavía no apareció nadie, no apareció ninguna figura en el horizonte de la política, interesante, novedosa, sorprendente, fresca, que ofrezca un horizonte de futuro, que tenga un discurso articulado y que le hable al electorado de Macri.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta escena no le apareció a Macri ningún desafiante importante que le hable a su electorado y que sea capaz de quitarle base política, y esta es otra ventaja que tiene Macri en medio de unas circunstancias muy ajustadas por una política económica que lo daña.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una de las razones por las cuales, si uno hipnotiza a muchos dirigentes radicales, que hasta hace poco decían la alternativa a Macri es ampliar la coalición con Lavagna, ahora estarían más dispuestos a pensar en el reemplazo de Macri por Vidal, y hasta sueñan con una fórmula Vidal-**Loustó**.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que sucede es que reemplazar a Macri por cualquier candidato de Cambiemos es, como decíamos hoy, una operación de altísima complejidad, porque es una especie de confesión de fracaso que termina contaminando a ese candidato que necesariamente sería oficialista, y se corre el riesgo de que, en el esfuerzo de diferenciación, ese candidato que podría ser Vidal o cualquier otro de diferenciación con La Casa Rosada, empiece una discusión entre el comando de campaña de ese candidato y La Casa Rosada que convierta al candidato en una especie de arrepentido, que haga que finalmente ese arrepentimiento o esa discusión del candidato oficialista con el presidente le sume votos al rival.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vidal es un problema en sí mismo, no ella, sino su circunstancia.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno tuviera que apostar, lo más probable es que el candidato de Cambiemos sea Macri, por esta dificultad que acabo de señalar, con independencia de que haya mucha gente que cree que Macri está muy deteriorado y con alto riesgo de perder.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que hay amigos de Macri que quieren quedarse con negocios ahora por las dudas de que esto se termine.",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay parientes de Macri que están extraordinariamente ansiosos por sus causas judiciales como **Calcaterra** y el disparate que ha sucedido con la causa Odbrecht y el soterramiento del Sarmiento y el arrepentido **Manuel Vázquez** para terminar rápido con esas peripecias judiciales antes de que este gobierno termine.",
+      "score": 0.521,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de todo eso, lo más probable es que Macri sea el candidato y todavía tiene posibilidades de ganar porque, como decimos, todavía no sabemos muy bien cómo va a funcionar el experimento Fernández y en el medio no aparece nada vigoroso.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora Vidal, en esta escena, Vidal sigue siendo candidata en la provincia de Buenos Aires.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es posible que la fórmula Fernández-Fernández, Alberto Fernández-Cristina Fernández de Kirchner, no llegue a la nación, pero muy probablemente va a ser una gran elección en el mejor escenario para ese movimiento que es la provincia de Buenos Aires.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy Cristina Fernández de Kirchner dio vuelta otra carta.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esta parece ser la fórmula que Cristina Fernández de Kirchner quiere para la provincia de Buenos Aires y si la quiere Cristina Fernández de Kirchner es muy difícil que alguien se la pueda discutir.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, en todas las encuestas Kicillof es el candidato que más retiene los votos de ella.",
+      "score": 0.591,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, vuelvo al mercado de cambios, lo saca a Kicillof de la perspectiva de ser ministro de Economía.",
+      "score": 0.275,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que están leyendo la política futura de este país desde el mercado van a celebrar que Kicillof sea candidato a gobernador porque elimina la posibilidad de un Kicillof ministro de Economía de Alberto Fernández.",
+      "score": 0.316,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como me dijo uno de ellos el otro día: \"No queremos que Kicillof nos venga a mirar nuestras cosas\".",
+      "score": 0.379,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No entendí muy bien o no quise entender qué me decía cuando me decía \"nuestras cosas\".",
+      "score": 0.357,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De Kicillof se puede decir que es dogmático, que es ideologizado, que es radicalizado.",
+      "score": 0.443,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, esta fórmula es una fórmula muy competitiva que hace que Vidal se pregunte ¿y cómo hago yo para conseguir el corte de boleta que necesito para que la gente opte por mí cuando no opta por Macri?",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque frente a Cristina Fernández de Kirchner-Alberto Fernández, muy probablemente Macri pierda en la provincia de Buenos Aires como candidato a presidente.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por eso, al lado de Vidal están especulando, imaginando un experimento también raro que es colgar la candidatura de Vidal de dos candidaturas a presidente.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí están pensando en Massa, en Urtubey o en Massa y Urtubey, calculando que Massa ya no tiene lugar en el kirchnerismo.",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy probablemente en una fórmula Massa-Alberto Fernández-Cristina Fernández de Kirchner tenga poca posibilidad de aproximación.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él sigue creyendo en el fondo que puede ser que Cristina Fernández de Kirchner finalmente no compita y que en tal caso él podría integrarse a lo que es el kirchnerismo y que le den la posibilidad, segunda condición que se le tiene que cumplir, de ir a una interna.",
+      "score": 0.523,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él puede contestar: \"Bueno, antes me decían que tampoco se iba a ir, era imposible que no se presente como candidata a presidente y finalmente no se presentó\".",
+      "score": 0.332,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que, si a Massa se le cierra la avenida hacia el kirchnerismo, se le cierra también la posibilidad con Axel Kicillof como candidato a gobernador, de ser candidato a gobernador de Cristina Fernández de Kirchner y Alberto Fernández en la provincia de Buenos Aires, tiene que buscar un candidato a gobernador, él como candidato a presidente.",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí podría preferir a Vidal.",
+      "score": 0.403,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora Macri va a habilitar que le institucionalicen en la cara el corte de boleta y que Vidal lleve votos de alguna manera hacia Massa o ¿hay posibilidad cero de que la gente vote a Massa porque ahora Massa está con Vidal?",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta es, ¿a Macri se le pueden alinear los astros porque la economía no está tan mal, no digo que esté mejor?",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A Macri se le pueden alinear los astros porque a los otros les va peor?",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le pueden alinear los astros, lo sabremos dentro de un tiempo porque tal vez Cristina Fernández de Kirchner se equivocó con la candidatura de Alberto Fernández, como se equivocó con **Aníbal Fernández**, como se equivocó con Vudú y como se equivocó en las candidaturas testimoniales del 2009.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Alcanza con las obras, como lo de hoy en el paseo del bajo y el presidente diciendo con toda razón: \"Esto no es relato, esto es cemento\"?",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuál es la vitalidad intelectual, política, emocional de Macri para finalmente sostener su candidatura?",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora al diálogo con Rafael Pascual, después vamos a hablar con **Marcos Buscaglia** de un tema interesante que aparece en todo esto que hemos dicho, ¿cómo sería que alguien que ve grandes procesos económicos, que está acostumbrado a grandes ideas, alguien muy ideologizado manejando una realidad tan prosaica, si es que le toca manejarla como la provincia de Buenos Aires?",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Pancho Oliveira** nos va a hablar de las peripecias del peronismo también en la provincia de Buenos Aires y de las dudas de Massa y después viene Carola y Carola trae una historia extraordinariamente interesante, le doy nada más que un dato, la negociación Macri-Tinelli.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 82
+  },
+  "etiqueta_original": "neutral"
+}

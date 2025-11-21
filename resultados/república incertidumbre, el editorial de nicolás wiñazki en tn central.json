@@ -1,0 +1,191 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La gestión pública, encargada de ordenar la vida en sociedad, suele carecer de organización.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, desde hace varios meses —y esto es algo que les quiero preguntar— se vive una situación que, creo, supera etapas previas en la historia de la República.",
+      "entidades_detectadas": [
+        "República"
+      ]
+    },
+    {
+      "frase": "Esta situación está relacionada con la pandemia y, obviamente, con quienes detentan el poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Conoce usted el plan de gobierno de la Casa Rosada para contener la expansión del COVID-19?",
+      "entidades_detectadas": [
+        "Casa Rosada"
+      ]
+    },
+    {
+      "frase": "¿Un plan real?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Lo conoce?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabemos si, en caso de no estar vacunado, cuándo recibirá la próxima dosis?",
+      "entidades_detectadas": [
+        "¿Sabemos"
+      ]
+    },
+    {
+      "frase": "¿Sabe qué vacuna le aplicarán?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si ya recibió una dosis, ¿sabe cuándo le aplicarán la segunda?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y si ya recibió la segunda, sabe si necesitará una tercera?",
+      "entidades_detectadas": [
+        "¿",
+        "necesitará"
+      ]
+    },
+    {
+      "frase": "Las declaraciones gubernamentales al respecto son, como mínimo, contradictorias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A la incertidumbre política y económica habitual se suma ahora una relacionada con la salud, una cuestión de vida o muerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabe cuánto le costará la próxima compra en el supermercado si es jefe o jefa de familia?",
+      "entidades_detectadas": [
+        "Sabe"
+      ]
+    },
+    {
+      "frase": "¿Cuánto costará?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "¿Sabe si podrá afrontar los próximos meses sin ser víctima de robos callejeros o de la corrupción estatal?",
+      "entidades_detectadas": [
+        "Sabe"
+      ]
+    },
+    {
+      "frase": "Obviamente, espero que esto último nunca ocurra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más allá de la delincuencia, ¿confía usted en que el Estado argentino pueda encontrar a Guadalupe luego de las idas y vueltas y la excavación realizadas?",
+      "entidades_detectadas": [
+        "Guadalupe",
+        "Estado argentino"
+      ]
+    },
+    {
+      "frase": "Ojalá el Estado argentino sea eficaz en este caso.",
+      "entidades_detectadas": [
+        "Estado argentino"
+      ]
+    },
+    {
+      "frase": "¿Sabe si Argentina apoya o condena las violaciones a los derechos humanos por parte de diferentes regímenes, que la mayoría de los países occidentales desarrollados condenan?",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Si tiene trabajo, ¿está seguro de conservarlo en los próximos meses o años?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Le alcanzará su sueldo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no tiene trabajo, ¿cree que podrá conseguirlo?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Si sus hijos asisten a clases, ¿sabe cuánto tiempo más continuarán?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no asisten, ¿cuándo retomarán?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Sabe cómo seguirá funcionando el teletrabajo en Argentina tras la adecuación del *home office*?",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¿Sabe cuánto pagará o cobrará de alquiler?",
+      "entidades_detectadas": [
+        "Sabe"
+      ]
+    },
+    {
+      "frase": "¿Sabe cuánto costará el dólar mañana o a cuánto cerró hoy?",
+      "entidades_detectadas": [
+        "Sabe"
+      ]
+    },
+    {
+      "frase": "¿O cuánto menos vale el peso argentino?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "En Argentina, como digo, esta incertidumbre se ha profundizado.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y la incertidumbre, como reflejan algunas encuestas y afirman los especialistas, afecta la salud mental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vivir en incertidumbre genera estrés, según los expertos.",
+      "entidades_detectadas": [
+        "estrés"
+      ]
+    },
+    {
+      "frase": "Cierro con una frase de Aristóteles: “La esperanza, en medio de la incertidumbre, es el sueño del hombre despierto, no del que está dormido”.",
+      "entidades_detectadas": [
+        "Aristóteles"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estado argentino",
+    "Ojalá",
+    "¿Sabe",
+    "Argentina",
+    "Casa Rosada",
+    "necesitará",
+    "¿Cuánto",
+    "¿",
+    "Guadalupe",
+    "Sabe",
+    "Aristóteles",
+    "Obviamente",
+    "estrés",
+    "República"
+  ]
+}

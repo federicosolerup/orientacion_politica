@@ -1,0 +1,476 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 39,
+      "derecha": 53
+    },
+    "score_promedio": 0.527,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Después vamos a hablar de esos viajes de Sanguinetti hablando de pintura a Buenos Aires.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que tiene los votos es presidente y manda.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero podemos ver el caso de Lula y Dilma, en el que el que tiene los votos no es el presidente.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podemos ver en la Argentina el caso de Irigoyen y Alvear o, hoy se va a referir a esto con mucho detalle, Camila Perochena, el caso de Perón y Cámpora.",
+      "score": 0.636,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que el segundo le dé órdenes al primero.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y uno piensa, eso no puede suceder en el Estado ni en ninguna organización.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decía que hay que prestar atención a las visitas de Sanguinetti porque en el año 87, llegó un día después de la derrota de Alfonsín, en las elecciones de septiembre, cuando perdió la provincia de Buenos Aires a manos de Cafiero, y perdió todo el país.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo, lo que le ha fracasado a Cristina es un diseño.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchaba el sábado a un italiano que conoce muy bien a la Argentina comentando la carta de Cristina, alguien que entiende mucho de política internacional y que tiene otras experiencias.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“¿Qué te pareció esa carta?”, le pregunto.",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se habla de la voluntad de ella frente a otra persona, que es Alberto Fernández”.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una persona, Cristina Kirchner, exasperada por la derrota.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de perder en el 2013 frente a Massa, a Cristina la tuvieron que operar.",
+      "score": 0.363,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No quiero hacer interpretaciones vulgares de que son somatizaciones, pero lo que quiero decir es que, para alguien como Cristina Kirchner, con su relación adictiva con el poder, una derrota electoral es mucho más importante que para cualquier otro dirigente.",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si le agrego la dimensión penal que tiene, es decir, cuando el poder se cruza con la posibilidad de sanciones penales y la pérdida del poder implica una debilidad en ese frente, se entiende todavía más la exasperación.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Enfrentada a alguien, y voy a seguir con la vulgarización, que los americanos llamarían *passive-aggressive*, es decir, alguien que, cuando la ve exasperada, como debe haber sucedido en la reunión que tuvieron el martes a la noche, trata de calmarla, la convence de que va a cumplir, le esconde la pelota, la marea, le dice una cosa y después es otra, le hace a Alberto Fernández lo que nos hace a todos y la enloquece más.",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno quisiera sintetizar, insisto, brutalmente, un rasgo de la mentalidad peronista, de la dinámica peronista, uno podría decir que, en alguna dimensión, el peronismo es un intercambio de lealtad por votos.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que era previsible que sucediera, iba a suceder, porque esa gente tiene miedo de perder noviembre, lo acelera a Cristina queriendo tomar el timón, queriendo tomar el volante de un auto que ve con Alberto al comando y la lleva al choque.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando ella quiso tomar el poder, entre el martes y el miércoles pasado, lo primero que apareció fue el coro de gobernadores y el coro de sindicalistas que habían estado mudos durante la experiencia anterior en la que ella conseguía los votos.",
+      "score": 0.351,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es mucho más importante posiblemente la presencia de Insaurralde en el gabinete de Kicillof que la presencia de Manzur en el gabinete de Alberto Fernández.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero porque el gabinete de Kicillof es el gabinete de Cristina.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof es un producto 100% de Cristina.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De una Cristina que con su hijo Máximo Kirchner van a la conquista final de la provincia de Buenos Aires.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Encontraron un límite en esa conquista y ahora tienen que resignarse frente al poder territorial de la burocracia o de la que, como diría Fernández Díaz, la oligarquía del conurbano, entre los cuales están los intendentes, el más amigo Insaurralde.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero quiere decir que aparece un nuevo actor, sube al palco de la derrota, el actor al que no le habían permitido en octubre de 2019 subirse al palco, al escenario de la victoria.",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan ustedes que quisieron subir los gobernadores y Cristina Kirchner los bajó?",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay una Cristina que limita a Alberto, hay un peronismo que está limitando a Cristina.",
+      "score": 0.46,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que nos puede contar la relación que hay entre Aníbal Fernández y procesos electorales es Julián Domínguez, el nuevo ministro de Agricultura.",
+      "score": 0.534,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya uno los podría llamar Caín y Abel, porque hay que recordar que en las primarias del PJ del año 2015, cuando se dirimía la candidatura peronista a la gobernación de la provincia de Buenos Aires, las boletas de Domínguez llegaron tarde a los lugares de votación de muchos lugares del conurbano.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ese proceso electoral lo conducía Aníbal Fernández, que era candidato a gobernador en contra de Domínguez y que, entre comillas, le gana la elección a Domínguez.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Fernández es otro protagonista principal de esta elección que viene y va a ser el encargado de cuidar las urnas.",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una Cristina que, para conseguir el poder, se debió indultar a mucha gente, eminentemente a Alberto Fernández y a Sergio Massa, y que ahora, para conservar el poder, como ella misma dice en la carta, debió indultar a Manzur, que cometió el pecado, después de las primarias del 19, cuando emergió Alberto Fernández como candidato a presidente exitoso, de decir: “Acá está el nuevo líder del peronismo”.",
+      "score": 0.691,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Cristina ahora tiene que inclinarse delante de ese aliado de Fernández, al que en su momento vetó como jefe de gabinete que quería tener Fernández.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el principal aliado de Manzur es Héctor Daer, que es el principal aliado de Alberto Fernández.",
+      "score": 0.767,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto que el partido de Alberto Fernández, que tiene un partido que se llama “Parte”, que salió a adherir a su presidencia y a su situación cuando Cristina produjo la renuncia en masa de muchos dirigentes de la CGT la semana pasada, ese partido “Parte” está armado sobre la estructura del sindicato de sanidad.",
+      "score": 0.571,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Héctor Daer, que es el interlocutor principal de Alberto Fernández con la CGT, en este grupo se inserta –y este nombre hay que anotarlo–.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antonio Estriuso, estructuralmente ligado a Manzur, a través de un señor que opera en la Argentina y en España, hay que anotar el nombre nomás, Ricardo Bonetto.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el plano internacional, mire qué interesante esto que le voy a contar: ¿quién es Manzur?",
+      "score": 0.679,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gustavo Cinosi ha sido durante el gobierno de Cristina un interlocutor, un puente, sobre todo ligado a Sanini, entre la Embajada de Estados Unidos, la burocracia americana y el gobierno de Cristina.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa relación se rompió cuando Cinosi, que hoy es la mano derecha e izquierda de Luis Almagro, el secretario general de la OEA, hizo que Almagro denuncie que había espías en la misión de la OEA que monitoreaba el fraude que había hecho Evo Morales en Bolivia.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cinosi, que es el vínculo entre Almagro y el gobierno de Estados Unidos estructuralmente, es un hombre hiperanti-bolivariano, contrario al gobierno de Maduro, contrario al gobierno de Ortega, contrario al gobierno boliviano, enemigo de Correa, está absolutamente en la vereda de lo que puede pensar Cristina Kirchner y, sobre todo, su entorno respecto de la política internacional.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver si se lo explicaron a Alberto Fernández y, sobre todo, a Cristina Kirchner, que debe saberlo, pero debe ocultarlo, debe olvidarse de este dato.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay otro caso resonante, el caso de una chica Lucía, de 11 años, violada por la pareja de su abuelo que tuvo dificultades para que le legalicen un aborto que era legal a instancias de Manzur.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Las referentes del Frente Patria Grande denunciamos por abuso de autoridad a Manzur, las autoridades de Salud de Tucumán y a una fiscal por obstaculizar el aborto legal de la niña Lucía, quien había sido violada”.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, frente a estos episodios, casi que me animo a hablarle a la ministra Gómez Alcorta, lo voy a hacer en términos especiales para que me entienda ella lo que le estoy diciendo.",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Ministra Gómez Alcorta, todos nosotros estamos sorprendidos de que, con la presencia de Manzur, usted todavía no haya presentado la renuncia”.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristóbal López tiene en este gabinete dos abogados personales, tiene a Alberto Fernández y ahora a Aníbal Fernández.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, probablemente, muy seguramente, Aníbal Fernández vuelve al gobierno de la misma manera en que volvió cuando se produjeron los episodios del Parque Indoamericano.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Cristina Kirchner, presidenta, desplazó a Anílda Garré, que tenía un enfoque ideológico de la seguridad y puso a alguien que conduzca las fuerzas por las dudas a que haya que reprimir.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, Aníbal Fernández viene a este gobierno de nuevo, desde Río Turbio al Ministerio de Seguridad, a garantizar el orden público.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en un último gesto, para preservar un poquito de dignidad respecto del sostenimiento de Cafiero, cuya cabeza le viene pidiendo Cristina a Alberto Fernández desde antes de las elecciones, cuando quería que Cafiero fuera primer candidato a diputado en la provincia, lo manda a la Cancillería.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora el desprecio por la política exterior hace que se suba un escalón y se le pague con la Cancillería.",
+      "score": 0.633,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Santiago Cafiero hace un experimento muy audaz, no solamente ofende a Felipe Solá –habría que escuchar las cosas que Felipe Solá dice en estas horas–, sino que lleva como vicecanciller a Cecilia Nicolini, la de la carta al Ruso, la que le explicaba al titular del Fondo de la carta al Ruso.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el segundo que vende la vacuna Sputnik, que el gobierno ya no podía hacer más por ayudar a un proyecto que había fracasado y que, por lo menos, manden vacunas para que el presidente no pase un papelón el 9 de julio.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa persona que tuvo ese éxito diplomático frente a Rusia ahora va como vicecanciller, desplazando a Pablo Tettamanti, que es un profesional que ocupó el segundo escalón de la Cancillería, como suele suceder con los cancilleres políticos.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pone a un segundo diplomático por picardía, además de por inteligencia, para que maneje la maquinaria diplomática de la Cancillería.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la reivindicación de un líder local territorial frente a la idea de avanzar con un experimento desde arriba, desde el Estado sobre la provincia de Buenos Aires.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los intendentes estaban muy inquietos desde hace mucho tiempo, hablando con Cristina Kirchner de los problemas de Axel Kicillof.",
+      "score": 0.557,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof, cuando se decía o se escribía esto, decía: “No mienten, no es así”.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le informaban, pobre.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Insaurralde que ya tenía el control del juego en la provincia de Buenos Aires a través de un hombre de él que se llama Galmarini, debió ceder Kicillof ese avance sobre la gran caja del juego.",
+      "score": 0.609,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Kicillof es convocado al Calafate, en estas horas fue convocado, para que Cristina le diga: “Tenés que entregar a tu amigo Carlos Bianco”.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que decir, una persona que no le gustaba a Cristina Kirchner, pero que era intachable.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Kicillof lo entregó sin demasiadas explicaciones.",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vieja dirigente del peronismo bonaerense, a la que le mostraron la puerta sin demasiada explicación.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante el momento de la crisis, cuando La Cámpora se levanta contra Alberto Fernández para forzarlo a reaccionar, en esa cosa de procrastinar y no tomar decisiones, mucho más que para vaciarle el gobierno, darle un golpe de Estado, a ver si lo despertás, Guzmán era el jefe de los talibanes dentro de la Casa de Gobierno, los que tenían que resistir.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En contra de Cristina y, sobre todo, en contra de La Cámpora.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta que recibió un texto del secretario de Cristina diciéndole: “Mirá que yo no pido que renuncies”.",
+      "score": 0.429,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De talibán a abogado de Cristina pasó.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un párrafo muy importante de la carta de Cristina para Guzmán.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un párrafo interesantísimo, donde le dice: “Vos nos prometiste un déficit de 4,5 y lograste un déficit inferior.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Guzmán podría decir: “Bueno, yo conseguí un déficit inferior porque gasté lo que estaba previsto, pero tuve una mejora en recaudación, por ejemplo, por la inflación”.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, ella le está diciendo: “Tenés que gastar más, cualquiera sea tu ingreso y, sobre todo, cualquiera sea la forma en que financies ese gasto”.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es tan obediente con Cristina Kirchner con tal de quedarse en el gobierno, que en el proyecto de presupuesto que manda, escribe dos párrafos que bordean lo delirante y que yo le voy a leer ahora.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, Guzmán le está avisando al mercado que va a tener 48% más de déficit.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero ver qué leen los del FMI en esta declaración.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que el ministro, que el año pasado le fue a decir a los empresarios: “Tenemos un problema con el dólar porque tenemos mucho déficit y tenemos que emitir mucho”, ahora le está diciendo a Cristina y a todo el mundo, porque esto está en el presupuesto, quédense tranquilos que vamos a tener más déficit el año que viene, no menos.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Grave problema con la inflación, que tal vez termine produciendo otro cambio en el gobierno, terminen desplazándola a Paula Español en el sistema de control de precios y designen a un economista ligado al gobierno, ligado al oficialismo, ligado a Cristina Kirchner, que se llama Hernán Letcher.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la permanencia de Guzmán, no sabemos hasta cuándo, se confirma que el gobierno sigue queriendo acordar con el Fondo Monetario y se confirma la frustración de Sergio Massa, que pensaba desembarcar en el Ejecutivo como una especie de megaministro que reunía para sí las funciones de ministro de Economía, ministro de Producción y absorbía un área que le es propia a través de un delegado, que es el área de transportes.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Cristina Kirchner perdonó a Massa, pero no tanto para darle semejante monto de poder.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá queda una persona desorientada, nada menos que el representante en el Fondo, Sergio Chodos, que tuvo mucha relación con Massa en los últimos tiempos.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De un fondo que está en una crisis porque Kristalina Georgieva no era tan cristalina y ahora está impugnada por haber manipulado datos en favor de China cuando era funcionaria del Banco Mundial.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y reforzar el poder de Estados Unidos dentro del Fondo significa darle más poder a un señor que asesora a la secretaria del Tesoro, Janet Yellen, en materia internacional, que es David Lipton.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nada menos que quien negoció con el gobierno de Macri este acuerdo con el Fondo, ese préstamo con el Fondo que tanto impugna el actual oficialismo.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces tenemos como punto de fuga el problema del acuerdo con el Fondo, la idea que venden, alguna medida mas resbaladiza, de que el Fondo va a ser un acuerdo blando, que nos va a permitir no hacer ajustes a cambio de ir pagando y negociando sin que se cierre nada y sin que se declare el default.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso Cristina mandó a renunciar a todos menos a sus funcionarios judiciales.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que mirar cómo repercute esto, lo venimos diciendo hace varios lunes en el Consejo de la Magistratura, donde se tiene que resolver el reemplazo en la Cámara Federal de Bruglia y Bertuzzi.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Van a estar del lado del gobierno para avanzar sobre la Cámara o van a estar del lado de la oposición para resistir ese avance?",
+      "score": 0.649,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La otra novedad se va a producir en estos días porque Horacio Rosatti va a ser el presidente de la Corte.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy que está haciendo el gobierno, cruzando las bases de datos, mirando a quiénes le dieron IFE, a quiénes le dan Plan Potenciar Trabajo y quiénes no fueron a votar.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Jorge Macri ahora está pensando en aprovechar para hacer lo contrario y pasar a hacer política en la capital, en alianza con Daniel Angelici, para postularse como jefe de gobierno con el apellido Macri, enfrentando a los candidatos de la RITA.",
+      "score": 0.231,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se abre un nuevo capítulo en la pelea de la RITA Macri o la RITA Los Macri.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 92
+  },
+  "etiqueta_original": "neutral"
+}

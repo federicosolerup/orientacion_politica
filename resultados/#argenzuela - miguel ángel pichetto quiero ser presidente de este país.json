@@ -1,0 +1,721 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El audio es caótico y contiene muchas repeticiones e incoherencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He hecho mi mejor esfuerzo para reconstruir un texto legible y coherente, pero la fidelidad al contenido original es limitada debido a la naturaleza del texto fuente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entrevista a Miguel Ángel Pichetto\n\nOcho veces.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto\n\nOcho"
+      ]
+    },
+    {
+      "frase": "El calor me abruma, cuarenta y tres grados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación política es apocalíptica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se van cayendo candidatos presidenciales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quiénes quedan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Horacio Rodríguez Larreta, Patricia Bullrich (pre-candidata),  Sergio Massa, Axel Kicillof, Daniel Scioli… Ayer, en un evento gastronómico, vi a un importante dirigente peronista que hoy juega en un espacio ajeno al peronismo.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Axel Kicillof",
+        "Sergio Massa",
+        "Daniel Scioli",
+        "Ayer",
+        "Horacio Rodríguez Larreta"
+      ]
+    },
+    {
+      "frase": "En el auditorio de la Última…  Miguel Ángel Pichetto se lanzó.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "No lo esperaba, fue una sorpresa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él mismo lo dijo: quiere ser presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: Buenos días, Miguel Ángel.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Miguel Ángel"
+      ]
+    },
+    {
+      "frase": "Hace un año que dijiste que estabas trabajando en un nuevo partido,  \"Encuentro Republicano Federal\",  y que luego presentarías su fundación.",
+      "entidades_detectadas": [
+        "Encuentro Republicano Federal"
+      ]
+    },
+    {
+      "frase": "Hiciste un acto en Parque Norte.",
+      "entidades_detectadas": [
+        "Parque Norte"
+      ]
+    },
+    {
+      "frase": "Lo armaste en todo el país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es un partido exclusivamente peronista; tiene una visión de centro-derecha, un espacio que Argentina necesita.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Siempre cuidaste a Mauricio Macri, a pesar de las presiones para que lo \"jubilaran\".",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Dijiste hace un año que serías candidato, aunque la memoria en Argentina es… frágil.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Ayer coordiné la mesa nacional del partido.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto",
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Se constituyó una mesa nacional de manera horizontal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hay primarias, participaré.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aporto ideas al debate, una visión capitalista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos me aconsejaban precaución;  me decían que tuviera cuidado con la Iglesia, con los \"totems\" de Argentina, con los planes sociales…  Yo hablaba de esto cuando nadie lo hacía.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Iglesia"
+      ]
+    },
+    {
+      "frase": "Ahora todos lo hacen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie habla de los mapuches, un tema peligroso que lleva a la fragmentación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos personajes buscan un territorio autónomo y ocupan tierras violentamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay organismos del Estado que se lo permiten.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Doce millones de hectáreas están en disputa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablamos de fuerzas armadas, seguridad, una agencia federal antinarcóticos al estilo DEA,  economía y la necesidad de una salida capitalista para Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El Papa dijo que está en contra del capitalismo… Bienvenido al mundo real.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Hablamos de economía social de mercado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial:  Estás en Juntos por el Cambio, Miguel Ángel.",
+      "entidades_detectadas": [
+        "Jorge Rial:  Estás",
+        "Miguel Ángel",
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto: Siempre estuve allí.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "Siempre aporté a la unidad de Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Es la única coalición opositora con capacidad de gobernar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero ¿qué Juntos por el Cambio?",
+      "entidades_detectadas": [
+        "¿",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Hubo cambios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estuve en el gobierno, pero en el tramo final de la alianza con Macri, logramos un 41% de los votos.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Fue una epopeya.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajamos fuertemente en todo el país, con multitudes en las calles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estuvimos cerca de la presidencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que evitar la \"avenida del medio\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aparece ahora  [se menciona un nombre, pero no se entiende].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Grabois toma tierras violentamente.",
+      "entidades_detectadas": [
+        "Grabois"
+      ]
+    },
+    {
+      "frase": "Pero todos tienen derecho a participar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es importante que se consolide el Estado democrático.",
+      "entidades_detectadas": [
+        "Estado democrático"
+      ]
+    },
+    {
+      "frase": "Como en Estados Unidos, donde hay muchos candidatos en las primarias.",
+      "entidades_detectadas": [
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Jorge Rial: ¿Algún dato sobre si Mauricio Macri se presentará?",
+      "entidades_detectadas": [
+        "Mauricio Macri",
+        "Jorge Rial: ¿Algún"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto: No lo sé.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "El 13 de junio hay que presentar las propuestas de integración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mediados de junio, los candidatos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El calendario no se corre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Macri es una figura relevante, internacional, nadie tiene tantas relaciones.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Su aporte es fundamental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esperemos a ver qué decide.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: ¿Te presentarías si Macri se presenta?",
+      "entidades_detectadas": [
+        "Jorge Rial: ¿Te presentarías",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Soy candidato de Encuentro Republicano Federal.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "El presidente debe tener autoridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mis principios son:  autoridad presidencial, orden, administración, restablecimiento del sistema de justicia, capitalismo, trabajo, producción, fin del mundo asistencialista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juntos por el Cambio es el único que puede generar el cambio, aunque en sus cuatro años duplicaron los planes sociales.",
+      "entidades_detectadas": [
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Jorge Rial:  Pero Juntos por el Cambio perdió.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "¿Qué hizo el presidente?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Ganó las elecciones con un 41%.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "Una parte importante de la sociedad confió en su propuesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En 2021 ganamos las elecciones de medio término.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay figuras en Juntos por el Cambio con opciones.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "El liderazgo y el programa son fundamentales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El liderazgo debe surgir de un proceso de voluntad popular,  no de un poder delegado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La experiencia de 2019, donde el presidente tenía el poder formal pero no la autoridad real,  debe ser leccion.",
+      "entidades_detectadas": [
+        "tenía"
+      ]
+    },
+    {
+      "frase": "El próximo candidato de Juntos por el Cambio tendrá autonomía, aunque pueda consultar con Macri.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Macri",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "La experiencia de 2019 fue frustrante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial:  ¿El candidato de Juntos por el Cambio no estará manejado por Macri?",
+      "entidades_detectadas": [
+        "Jorge Rial:  ¿El candidato de Juntos",
+        "Macri",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Tiene que tener autonomía.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "Autoridad, orden y administración.",
+      "entidades_detectadas": [
+        "Autoridad"
+      ]
+    },
+    {
+      "frase": "Eso decía Julio Argentino Roca.",
+      "entidades_detectadas": [
+        "Julio Argentino Roca"
+      ]
+    },
+    {
+      "frase": "Argentina está bloqueada, hay decisiones disparatadas, como la ley que da jubilaciones a 600.000 personas que no aportaron.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Se va a fundir la caja previsional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente habló de igualdad,  pero es la igualdad del pobreismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial:  ¿Qué piensas sobre la crítica de que abandonaste el peronismo?",
+      "entidades_detectadas": [
+        "Jorge Rial:  ¿Qué"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Esto que cuestionas no tiene que ver con los 40 años de militancia en el peronismo.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "El peronismo no es solo lo que se ve hoy, incluye etapas como la de Menem, con su capitalismo moderno.",
+      "entidades_detectadas": [
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Esta etapa es de decadencia, con dos millones de personas con planes sociales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que generar reglas, normas, modernizar el trabajo,  bajar los impuestos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uruguay, con menos población, lo hace.",
+      "entidades_detectadas": [
+        "Uruguay"
+      ]
+    },
+    {
+      "frase": "Argentina no tiene una estructura industrial.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Se trata de visión, actitud, ideas, programas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente tuvo mala suerte el miércoles [referencia a un corte de luz], pero comparto su visión sobre el potencial argentino: energía, gas, petróleo, minería, litio...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina tiene un destino, no el destino oscuro del conurbano, con jubilaciones y planes para todos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Jorge Rial:  Entiendo tu postura, pero ¿qué hacemos con los que reciben planes?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge Rial:  Entiendo"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Hay que salir gradualmente.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "En un año o dos, lograr que esa gente tenga trabajo, generar un nexo con las pymes,  con el primer empleo,  modernizar las normas laborales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se trata de lesionar derechos,  sino de generar normas para los nuevos empleos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero Miguel, para eso hay que reformar.",
+      "entidades_detectadas": [
+        "Miguel"
+      ]
+    },
+    {
+      "frase": "Yo me sumo, no desde el mero voluntadismo, sino desde un aporte de ideas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial:  Algunos sindicatos son modernos.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  El sector automotriz, el sector petrolero…  Han flexibilizado los convenios colectivos y han generado nuevos empleos.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "La ley de contrato de trabajo de 1974 es obsoleta.",
+      "entidades_detectadas": [
+        "La ley"
+      ]
+    },
+    {
+      "frase": "Jorge Rial:  Pero en paralelo, los ricos son más ricos y los pobres más pobres.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "¿Por qué siempre nos enfocamos en quitarles a los pobres?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Hay mucha concentración de la riqueza.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "Hay que generar empleo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina puede cambiar su matriz exportadora.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Minería de litio, cobre, plata y oro...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Chile exporta 43 mil millones, nosotros 4 mil.",
+      "entidades_detectadas": [
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Hay que cuidar el medio ambiente, pero la minería es el futuro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hacemos minería, gas y petróleo, cambiamos el esquema exportador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que defender la industria nacional y cuidar a los emprendedores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial:  Eso suena a peronismo.",
+      "entidades_detectadas": [
+        "Jorge Rial:  Eso"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Es peronismo.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "Perón siempre fue capitalista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Sin empresas no hay trabajadores\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El peronismo es el trabajador, no el plan social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sobre La Cámpora, hay dirigentes interesantes, pero las ideas no pueden estar atrasadas 40 años.",
+      "entidades_detectadas": [
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "El neocomunismo, el chavismo…  está todo viejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina tiene que mirar hacia adelante.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Jorge Rial:  ¿La Cámpora rompió el peronismo?",
+      "entidades_detectadas": [
+        "Jorge Rial:  ¿La Cámpora"
+      ]
+    },
+    {
+      "frase": "Miguel Ángel Pichetto: No voy a hacer esa valoración.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto"
+      ]
+    },
+    {
+      "frase": "Fue una erupción juvenil que ocurre en la vida de los partidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es importante que haya un reacomodamiento de ideas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso hay pérdida de capital juvenil en La Cámpora.",
+      "entidades_detectadas": [
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Ha crecido la derecha, no la izquierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial:  Hablaste mucho de Perón.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "¿Perón era de derecha?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miguel Ángel Pichetto:  Sé que me van a putear, pero es así.",
+      "entidades_detectadas": [
+        "Miguel Ángel Pichetto",
+        "putear"
+      ]
+    },
+    {
+      "frase": "Perón era de derecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cobertura izquierda?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro que sí, es un lugar común.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**(Fin de la entrevista)**\n\n\n\n**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Julio Argentino Roca",
+    "Jorge Rial:  ¿El candidato de Juntos",
+    "¿Quiénes",
+    "Parque Norte",
+    "Estuvimos",
+    "Jorge Rial: ¿Algún",
+    "Daniel Scioli",
+    "¿Qué",
+    "Esperemos",
+    "Jorge Rial:  ¿Qué",
+    "Autoridad",
+    "Uruguay",
+    "La Cámpora",
+    "Jorge Rial",
+    "tenía",
+    "Jorge Rial:  Entiendo",
+    "Miguel",
+    "Menem",
+    "Patricia Bullrich",
+    "Dijiste",
+    "Estado democrático",
+    "Estado",
+    "Pero ¿qué Juntos",
+    "Aporto",
+    "Grabois",
+    "Cambio?  Hubo cambios",
+    "Miguel Ángel",
+    "El Papa",
+    "Claro",
+    "Miguel Ángel Pichetto\n\nOcho",
+    "Miguel Ángel Pichetto",
+    "Argentina",
+    "Sergio Massa",
+    "Jorge Rial: ¿Te presentarías",
+    "Ayer",
+    "Juntos",
+    "Jorge Rial:  ¿La Cámpora",
+    "Mauricio Macri",
+    "Jorge Rial:  Eso",
+    "Axel Kicillof",
+    "Cambio",
+    "Iglesia",
+    "¿",
+    "Hiciste",
+    "putear",
+    "Horacio Rodríguez Larreta",
+    "Chile",
+    "Encuentro Republicano Federal",
+    "en Estados Unidos",
+    "Macri"
+  ]
+}

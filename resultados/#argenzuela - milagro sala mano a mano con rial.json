@@ -1,0 +1,959 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Milagros Sala, desde Jujuy, dialoga con Jorge Rial en Radio 10.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Jujuy",
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "Rial: Milagros, buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué tal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Buenos días, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Bien, gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: Quiero preguntarte sobre tu salud, las últimas noticias, y tu visita al Presidente.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "¿Cómo te encuentras?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Sigo con medicamentos similares a la morfina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si me descuido solo media hora, el dolor en mi pie es insoportable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se han evaluado varias medidas para controlar la trombosis, ya que un coágulo parece haberse desplazado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me cambiaron el tratamiento a uno más fuerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy en mi domicilio, bajo tratamiento ambulatorio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial:  Entiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Milagros, antes de comenzar, quiero dejar algo claro.",
+      "entidades_detectadas": [
+        "Milagros"
+      ]
+    },
+    {
+      "frase": "Sé que algunos pueden pensar que, por una amistad o conocimiento previo, te voy a hacer preguntas suaves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero que sepas que te haré las preguntas que considere necesarias, sin tapujos, y tú responderás con total libertad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Perfecto, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Quiero que preguntes lo que quieras sin ningún tipo de restricción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo la conciencia tranquila.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: Perfecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para que quede claro, no nos conocemos personalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que esta es la primera entrevista que te hago.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablé con tu esposo anteriormente, pero no contigo.",
+      "entidades_detectadas": [
+        "Hablé"
+      ]
+    },
+    {
+      "frase": "Empecemos entonces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este fin de semana, una colaboradora tuya, Shakira Guerrero, describió en una entrevista tu supuesta \"estructura delictiva\".",
+      "entidades_detectadas": [
+        "Shakira Guerrero"
+      ]
+    },
+    {
+      "frase": "¿Quién es Shakira Guerrero?",
+      "entidades_detectadas": [
+        "Shakira Guerrero",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Sala:  Primero, nunca fue mi mano derecha.",
+      "entidades_detectadas": [
+        "Sala"
+      ]
+    },
+    {
+      "frase": "En los juzgados, he visto cómo se inventan testimonios,  les dan un libreto para que mientan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lamentablemente, algunos dicen que son mis colaboradores más cercanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Tupac Amaru tiene casi 20 años de existencia.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "Ella dice que lleva 26 años a mi lado, pero la conocí dentro de la Tupac Amaru, así que eso ya es una mentira.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "Ella nunca fue mi mano derecha y no me conoce desde hace 26 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí la conozco,  como a muchos de nuestros más de 50.000 afiliados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Teníamos diferentes sectores: construcción, salud, seguridad, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella era una de las encargadas de seguridad, ya que fue instructora del Servicio Penitenciario y de la Policía.",
+      "entidades_detectadas": [
+        "Servicio Penitenciario"
+      ]
+    },
+    {
+      "frase": "Siendo instructora policial, ¿creen que la dejaría actuar libremente a mi alrededor?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Obviamente, uno tiene que tener ciertas precauciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su testimonio me sorprendió mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Parece un libreto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa entrevista se realizó al menos 20 días antes de que la emitieran, no fue una publicación inmediata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si dice que tengo 49 departamentos y hoteles en Buenos Aires, me gustaría que los muestre, porque estoy tan mal económicamente que me encantaría saber dónde están.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "También dicen que tengo cuentas offshore y que les daba 10.000 dólares a cada colaborador.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Que lo demuestren.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es fácil hablar, fácil acusar, como lo hace Morales.",
+      "entidades_detectadas": [
+        "Morales",
+        "fácil acusar"
+      ]
+    },
+    {
+      "frase": "Ayer, Graciela López, una compañera recientemente liberada, denunció que la presionaron para declarar en mi contra, ofreciéndole cuatro millones de pesos.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Graciela López"
+      ]
+    },
+    {
+      "frase": "Es mentira que he realizado 80 viajes al exterior.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi esposo es periodista y siempre tuvo una buena situación económica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, hemos viajado de vacaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo la lista de viajes: Uruguay (con frecuencia, porque mi esposo tiene familia allí, en Punta del Este); Bolivia (6 veces); Brasil (2 veces); Venezuela (2 veces, una vez para una charla, y otra tras el fallecimiento de Hugo Chávez); Perú (2 veces para dar charlas); Chile (2 veces); Italia (1 vez, a la Universidad de Padua); El Vaticano (2 veces, una por invitación del Papa, y otra tras el atentado a la tumba de mi padre); China (por la salud de mi hijo); y Cuba (cuando llevaron los restos del Che Guevara).",
+      "entidades_detectadas": [
+        "Brasil",
+        "El Vaticano",
+        "China",
+        "Punta del Este",
+        "Che Guevara",
+        "Uruguay",
+        "Bolivia",
+        "Venezuela",
+        "Chile",
+        "Italia",
+        "Universidad de Padua",
+        "Papa",
+        "Hugo Chávez",
+        "Perú",
+        "Cuba"
+      ]
+    },
+    {
+      "frase": "En muchos casos, los viajes fueron para dar charlas y se cubrieron los gastos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No gastaba mi propio dinero en viajes innecesarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También dicen que tengo casas que no son mías.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "En el juicio se demostró cómo mi familia compró sus viviendas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una locura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: Milagros, aunque aclaraste tus viajes, fueron muchos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Esos viajes se realizaron entre 2007 y 2015.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No fue todo en un solo año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La mayoría eran por invitaciones a dar charlas, por la organización.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Tupac Amaru es la única organización social que no se conforma con los planes sociales.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "En la década de 1990, cuando el país estaba destruido, creamos la Tupac Amaru para ayudar a los desempleados.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "En Jujuy, en menos de 10 años, se destituyó a cuatro gobernadores por corrupción.",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Los planes sociales surgieron en la época de Menem y De la Rúa; nosotros siempre buscamos trabajo digno.",
+      "entidades_detectadas": [
+        "De la Rúa",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Rial:  Desde afuera, parece que el crecimiento exponencial de la Tupac Amaru coincidió con el kirchnerismo.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "¿Es así?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: En la década de 1990, ningún partido político nos ayudaba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El kirchnerismo nos buscó a nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para reunirnos con Néstor Kirchner en Olivos, tuvimos que convencer a nuestra asamblea de 700 delegados.",
+      "entidades_detectadas": [
+        "Olivos",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Cuando nos reunimos, Kirchner nos preguntó por qué no habíamos solicitado obras públicas o planes sociales.",
+      "entidades_detectadas": [
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "Le explicamos que teníamos comedores y centros de salud comunitarios y que nos manejábamos con nuestros propios recursos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Kirchner nos propuso administrar cooperativas de construcción, para que no dependiéramos de planes sociales.",
+      "entidades_detectadas": [
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "Nosotros construimos viviendas, urbanizamos barrios, y no solo eso, construimos un colegio secundario y terciario sin ayuda estatal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con las ganancias de la construcción, creamos una pileta climatizada para niños con discapacidad, entre otras obras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: ¿Y qué se hacía con el dinero que sobraba de las construcciones?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala:  En asamblea, los compañeros decidían cómo invertir ese dinero.",
+      "entidades_detectadas": [
+        "Sala"
+      ]
+    },
+    {
+      "frase": "Se construyeron centros de salud, se compraron zapatillas para niños que no podían ir a la escuela, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Nación nunca nos dio suficiente dinero para construir las escuelas que necesitábamos.",
+      "entidades_detectadas": [
+        "Nación"
+      ]
+    },
+    {
+      "frase": "Rial: Oficialmente, ¿quién les daba los fondos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sala: El gobierno de Jujuy, a través de cooperativas.",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Yo no tengo ninguna cooperativa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nunca firmé ningún cheque.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La asamblea decidía la asignación de los fondos y el gobierno de Jujuy fiscalizaba la construcción de viviendas.",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Siempre hemos rendido cuentas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando Gerardo Morales llegó al poder,  las organizaciones sociales que colaboraron con él no fueron investigadas por las obras inconclusas.",
+      "entidades_detectadas": [
+        "Gerardo Morales"
+      ]
+    },
+    {
+      "frase": "Rial: ¿Crees que hay corrupción por parte de Morales?",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Sala:  Morales dice que no terminamos de construir mil viviendas.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Eso es falso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eran 750 viviendas y Morales impidió que las cooperativas las terminaran.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Él prometió construir otras mil viviendas con fondos de Macri, pero nunca lo hizo.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Morales entrega viviendas inconclusas.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Te invito a que lo compruebes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él está desalojando a nuestros compañeros de sus casas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: Se habla de violencia, de desalojos violentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Tuviste alguna participación personal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Mirta Guerrero era la encargada de seguridad, y ella tomaba las decisiones.",
+      "entidades_detectadas": [
+        "Mirta Guerrero"
+      ]
+    },
+    {
+      "frase": "Ella se manejaba sola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te cuento un ejemplo: un maestro denunció que yo le quité su casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero fue Mirta Guerrero y su ahijada, junto con Shakira, quienes lo desalojaron para darle la vivienda al hijo de la ahijada.",
+      "entidades_detectadas": [
+        "Mirta Guerrero",
+        "Shakira"
+      ]
+    },
+    {
+      "frase": "El maestro me denunció a mí.",
+      "entidades_detectadas": [
+        "mí"
+      ]
+    },
+    {
+      "frase": "Esto es un ejemplo de cómo ella actuaba sin mi conocimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El manejo del dinero también es responsabilidad de ella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no podía estar presente en los pagos de sueldos por decisión de la asamblea, para evitar conflictos de interés.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: La Tupac Amaru generaba una gran cantidad de empleos en Jujuy...",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Sala: Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Teníamos fábricas de bloques, de ladrillos, metalúrgicas, de caños, 18 centros de salud, piletas de natación y pagábamos maestros y personal de salud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Tupac Amaru era el tercer mayor generador de empleo, después del Estado y el ingenio Ledesma.",
+      "entidades_detectadas": [
+        "Ledesma",
+        "Tupac Amaru",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Siempre hemos priorizado la salud y la ayuda a los jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las casas no solo se otorgaban a miembros de la Tupac Amaru, sino que se hacía una evaluación social.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "No conozco la situación de la mayoría de los beneficiarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tengo nada que ocultar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me molesta que involucren a compañeros inocentes en las causas en mi contra, incluyendo personas que ni siquiera conozco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial:  ¿Sientes que el kirchnerismo te ha abandonado?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes tenías mucho poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: No quiero comprometer a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajé mucho desde los 16 años, incluso vendí helados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi madre era supervisora del Hospital de Niños y mi padre trabajaba en la Universidad Nacional de Jujuy.",
+      "entidades_detectadas": [
+        "Universidad Nacional de Jujuy",
+        "Hospital de Niños"
+      ]
+    },
+    {
+      "frase": "Somos clase media.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No soy una persona venida a menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me indigna que se muestren casas de personas que no tienen nada que ver conmigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me acusan de corrupta, pero no tengo nada que ocultar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: Hoy eres una persona tóxica, al parecer...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "cualquier cosa que tocas se ensucia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala:  Es como el COVID.",
+      "entidades_detectadas": [
+        "Sala",
+        "COVID"
+      ]
+    },
+    {
+      "frase": "Nadie puede visitarme porque me imputarán nuevos cargos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno de Morales acosa a mis compañeros.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Hace diez días secuestraron, encapucharon y torturaron a un joven que no tiene nada que ver con la Tupac Amaru.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "Eso no sale en los medios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jujuy vive bajo una dictadura.",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Rial: Recuerdo cuando te visité en la clínica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Morales reaccionó con furia.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Sala:  Sí, Morales dijo que era una vergüenza que alguien fuera a visitar a una \"delincuente\".",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Al día siguiente, Alberto Fernández declaró que Jujuy era una de las provincias con mayor índice de pobreza.",
+      "entidades_detectadas": [
+        "Jujuy",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Nadie se dio cuenta de la contradicción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El negocio del litio en Jujuy favorece a Morales y perjudica a los jujeños, quienes reciben boletas de luz con un aumento del 300%.",
+      "entidades_detectadas": [
+        "Morales",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Las ganancias del litio no se ven reflejadas en obras públicas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial: Morales quiere ser candidato a Presidente.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "¿Qué opinas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: No voy a hablar mal de ningún funcionario.",
+      "entidades_detectadas": [
+        "ningún funcionario"
+      ]
+    },
+    {
+      "frase": "Tengo mis críticas, pero las reservaré por ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me molesta la hipocresía de algunos, como la de Lilita Carrió, que dice que el gobierno de Morales es limpio, a pesar de la corrupción evidente.",
+      "entidades_detectadas": [
+        "Lilita Carrió",
+        "Morales"
+      ]
+    },
+    {
+      "frase": "¿Dónde está el dinero que Morales dijo que entregó al FMI?",
+      "entidades_detectadas": [
+        "FMI",
+        "Morales"
+      ]
+    },
+    {
+      "frase": "También critica su amistad con Sergio Massa.",
+      "entidades_detectadas": [
+        "También",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Rial: Sofía Caram tiene una pregunta sobre tus viajes a China y Cuba.",
+      "entidades_detectadas": [
+        "China",
+        "Cuba"
+      ]
+    },
+    {
+      "frase": "Sala: Estuve en China por mi hijo, y en Cuba en otra ocasión, cuando llevaron los restos del Che Guevara.",
+      "entidades_detectadas": [
+        "Estuve",
+        "Cuba",
+        "Che Guevara",
+        "China"
+      ]
+    },
+    {
+      "frase": "La mayoría de los viajes fueron por invitaciones para dar charlas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rial:  Sobre las declaraciones de un arrepentido, que menciona 60.000 dólares y 10.000 dólares para cada colaborador de la Tupac Amaru...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Si eso fuera cierto, ya hubiera salido a la luz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora lo sacan porque Morales necesita argumentos para incriminarme.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Él usa a la Tupac Amaru para su campaña presidencial.",
+      "entidades_detectadas": [
+        "Tupac Amaru"
+      ]
+    },
+    {
+      "frase": "Utiliza ilegalmente aviones de la provincia para hacer campaña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También es ilegal que él y su familia alquilen beneficios al poder judicial.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Es ilegal el negocio de la marihuana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él crea una pista clandestina para sacarla directamente a Estados Unidos.",
+      "entidades_detectadas": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Hay desapariciones y asesinatos que no se investigan en Jujuy.",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Rial:  Sobre el clima político de Jujuy...",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Sala:  Jujuy es un laboratorio político.",
+      "entidades_detectadas": [
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Aquí se inició la persecución a referentes políticos, primero con Milagro Sala, y luego a nivel nacional e internacional (Cristina, Lula, Evo Morales).",
+      "entidades_detectadas": [
+        "Lula",
+        "Milagro Sala",
+        "Cristina",
+        "Evo Morales"
+      ]
+    },
+    {
+      "frase": "Por aquí pasaron las armas para el golpe de Estado en Bolivia.",
+      "entidades_detectadas": [
+        "golpe de Estado",
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "Tengo vigilancia policial permanente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los servicios de inteligencia, controlados por Morales, manipulan información para perjudicar a los opositores.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Rial: Se rumorea sobre un posible indulto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Lo aceptarías?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Quiero justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero que los jueces revisen los expedientes, no que hagan favores políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si Morales quiere pegarse un tiro, que lo haga, pero que luego vaya a la cárcel por todo el daño que ha causado a Jujuy.",
+      "entidades_detectadas": [
+        "Morales",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Los amigos y familiares de Morales son los nuevos ricos de Jujuy.",
+      "entidades_detectadas": [
+        "Morales",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Esta es una repetición de lo ocurrido en 2017 y 2018.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Morales está presionando para que me encarcelen.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Incluso, cuando el Presidente me visitó, Morales llamó al juez Miranda para que me encarcelara.",
+      "entidades_detectadas": [
+        "Miranda",
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Rial: Milagros, muchas gracias por esta extensa charla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sala: Gracias a ti, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Mirta Guerrero",
+    "También",
+    "De la Rúa",
+    "Miranda",
+    "El Vaticano",
+    "Alberto Fernández",
+    "Tupac Amaru",
+    "Policía",
+    "Morales",
+    "¿Qué",
+    "fácil acusar",
+    "Sala",
+    "Uruguay",
+    "Lilita Carrió",
+    "Jujuy",
+    "Lula",
+    "Jorge Rial",
+    "Hugo Chávez",
+    "ningún funcionario",
+    "Menem",
+    "Olivos",
+    "Graciela López",
+    "Kirchner",
+    "Shakira",
+    "Universidad Nacional de Jujuy",
+    "Gerardo Morales",
+    "China",
+    "Estado",
+    "Punta del Este",
+    "Evo Morales",
+    "Milagros Sala",
+    "Servicio Penitenciario",
+    "Néstor Kirchner",
+    "Hablé",
+    "Italia",
+    "Estuve",
+    "Nación",
+    "Perú",
+    "COVID",
+    "Milagros",
+    "Estados Unidos",
+    "Sergio Massa",
+    "Ayer",
+    "Quiero",
+    "Che Guevara",
+    "Milagro Sala",
+    "Cristina",
+    "Presidente",
+    "Universidad de Padua",
+    "¿Sientes",
+    "Ledesma",
+    "FMI",
+    "Lamentablemente",
+    "Hospital de Niños",
+    "Utiliza",
+    "Brasil",
+    "Buenos Aires",
+    "La Tupac Amaru",
+    "¿Dónde",
+    "¿",
+    "Trabajé",
+    "Obviamente",
+    "golpe de Estado",
+    "Bolivia",
+    "Venezuela",
+    "Chile",
+    "Jorge",
+    "Shakira Guerrero",
+    "Papa",
+    "Teníamos",
+    "Macri",
+    "Cuba"
+  ]
+}

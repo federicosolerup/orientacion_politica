@@ -1,0 +1,612 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¡Ay, qué va!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ay, qué va!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ay, qué va!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me agarró pánico escénico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pánico escénico.",
+      "entidades_detectadas": [
+        "Pánico"
+      ]
+    },
+    {
+      "frase": "Ay, tanto éxito me abruma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué caliente que está el piso.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Bueno, este...",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acabamos de ver por la pantalla grande, mientras usted esperaba, que sacamos al aire el primer trasplante de cerebro hecho por la ciencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está grabado, eh.",
+      "entidades_detectadas": [
+        "Está",
+        "eh"
+      ]
+    },
+    {
+      "frase": "Lo vamos a sacar ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo pensé que le faltaban los dedos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, tenía todo el tacto en la nariz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mentira.",
+      "entidades_detectadas": [
+        "Mentira"
+      ]
+    },
+    {
+      "frase": "No, mentira, Levi.",
+      "entidades_detectadas": [
+        "Levi"
+      ]
+    },
+    {
+      "frase": "Te están haciendo boicot.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, eh...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a contar...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Te acuerdas cuando en la época de Macri decían \"el cemento...\"?",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "¿Te acordás de la viña cuando decían \"cemento no se come\"?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eres Logan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hoy...",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Alberto ahora está con el cemento como si fuera un albañil.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Está inaugurando cemento por todos lados, casas que ya hicieron, rutas que estaban a medio hacer.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Está desesperado inaugurando todo.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Pero, Alberto, el cemento no se come.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Con el cemento no se vacuna, Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "80.000 muertos, hermano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "80.000 muertos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy hablaba con el doctor Quirós acá, que estaba esperando para entrar al programa.",
+      "entidades_detectadas": [
+        "Quirós"
+      ]
+    },
+    {
+      "frase": "Y le decía, doctor, esto cuando termine, en la provincia, creo que amerita un juicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiero decir qué juicio, porque no tiene nada que ver una cosa con la otra, pero un juicio por lesa humanidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo, después quiero que lo hable la viña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que se van a tener que presentar Biassotti, el gracioso de Ginés González García, el presidente Fernández, Cristina, Kicillof.",
+      "entidades_detectadas": [
+        "Ginés González García",
+        "Biassotti",
+        "Kicillof",
+        "Cristina",
+        "presidente Fernández"
+      ]
+    },
+    {
+      "frase": "Todos ante la justicia a ver, ¿por qué no dejaron morir 40.000 personas?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Por qué nunca en la vida se trajeron las vacunas de Pfizer?",
+      "entidades_detectadas": [
+        "Pfizer"
+      ]
+    },
+    {
+      "frase": "¿Por qué dicen tantos ri-ri para decir Ricardo?",
+      "entidades_detectadas": [
+        "Ricardo"
+      ]
+    },
+    {
+      "frase": "¿Por qué desde que Patricia Bullrich partió la Víspera, bien o mal, o no sé?",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Víspera"
+      ]
+    },
+    {
+      "frase": "Están todos desesperados, andan por los canales, queriendo explicar lo inexplicable, pero ninguno todavía pudo explicar por qué nos faltan 14 millones de vacunas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todavía la hija que moró no salió a hablar, todavía ninguno de ellos dio una explicación, porque Biassotti dice una cosa, el otro dice otra, el otro dice \"la vacuna vimo-hexíten\", el otro vacunado 30.000.",
+      "entidades_detectadas": [
+        "moró",
+        "Todavía",
+        "Biassotti"
+      ]
+    },
+    {
+      "frase": "Necesitamos, como boludos que ponen en el cuerpo y se cagan muriendo con la familia, presidente, que nos diga, por favor, ¿dónde están los 14 millones de vacunas de Pfizer?",
+      "entidades_detectadas": [
+        "Pfizer",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Quién nos miente?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Porque ¿sabes qué terrible que es estar con el virus?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo en vano la vacuna y que se te mueran los vecinos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se te muera la familia y vemos a Biassotti que va a Cuba a mentirnos, burdamente, con una mentira barata, de decir que va a venir una vacuna de Cuba.",
+      "entidades_detectadas": [
+        "Cuba",
+        "Biassotti"
+      ]
+    },
+    {
+      "frase": "¿Saben cuándo viene la vacuna de Cuba?",
+      "entidades_detectadas": [
+        "Saben",
+        "Cuba"
+      ]
+    },
+    {
+      "frase": "Me lo dijo Quirós recién.",
+      "entidades_detectadas": [
+        "Quirós"
+      ]
+    },
+    {
+      "frase": "Hasta el año que viene no hay noticias y hasta el año que viene son 300.000 muertos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sirven para nada, son un desastre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy dijo Cafiero III, en línea de sucesión, dueño de una biblioteca de autoayuda que la fundió.",
+      "entidades_detectadas": [
+        "Cafiero III"
+      ]
+    },
+    {
+      "frase": "Dijo: \"Tenemos 10 millones de vacunados\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mentira.",
+      "entidades_detectadas": [
+        "Mentira"
+      ]
+    },
+    {
+      "frase": "Sigue mintiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vacunados con la primera dosis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y te pregunto, hoy vi un reportaje de Alberto que se lo hace un pendejo de 17 años.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Porque ahora él es joven, toca la guitarra, cambió el repertorio, terminó con \"Mañana Campestre\", muchacho de Ojo de Papel, y ahora hace rap.",
+      "entidades_detectadas": [
+        "Ojo de Papel"
+      ]
+    },
+    {
+      "frase": "Y acaricia a Dylan y se ríe.",
+      "entidades_detectadas": [
+        "Dylan"
+      ]
+    },
+    {
+      "frase": "Alberto, ¿no le da vergüenza reírse con 80.000 muertos bajo su tutela?",
+      "entidades_detectadas": [
+        "Alberto",
+        "¿"
+      ]
+    },
+    {
+      "frase": "De los cuales le pertenecen 40.000 más o menos por ineptitud, por no tener las vacunas, con una falta de respeto por la vida terrible que no se vio en ningún gobierno, salvo el de Malvinas.",
+      "entidades_detectadas": [
+        "Malvinas"
+      ]
+    },
+    {
+      "frase": "¿No le da vergüenza a Alberto Fernández reír?",
+      "entidades_detectadas": [
+        "¿No",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Usted no puede hacer una mueca de risa y tampoco puede inaugurar una ruta y decir: \"albañiles, albañilas, albañiles\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto, ¿qué le causa gracia?",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "¿Las tumbas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué le causa gracia la ceniza de los muertos, Alberto?",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "¿Qué le causa gracia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Biassotti, ¿qué explica usted?",
+      "entidades_detectadas": [
+        "¿",
+        "Biassotti"
+      ]
+    },
+    {
+      "frase": "Que la peor ministra, junto a su tío Ginés González García, los peores ministros de salud que hemos tenido.",
+      "entidades_detectadas": [
+        "Ginés González García"
+      ]
+    },
+    {
+      "frase": "Cuando hemos tenido un carrillo de ministros de salud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y usted, no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y usted nos da vergüenza?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Usted es un país donde vivió Favaloro o Leloir.",
+      "entidades_detectadas": [
+        "Leloir",
+        "Favaloro"
+      ]
+    },
+    {
+      "frase": "Ustedes no pueden revisar ni los dedos en un club de barrio en La Tablada para ver si tienen hongos.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Es un desastre lo que están haciendo y, además, están haciendo campaña con la vacuna y nos están haciendo desear la vacuna y parece que hay que andar corriendo a través de ustedes porque ustedes son el Maná, la Panacea.",
+      "entidades_detectadas": [
+        "Maná",
+        "Panacea"
+      ]
+    },
+    {
+      "frase": "Gracias Cristina, gracias Alberto, me la pusieron.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "No tienen vergüenza y hay que decírselos porque no pueden mentir todo el día por los canales y están mintiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sabe una cosa, salen a explicar lo inexplicable y salen a defender lo indefendible porque hasta ahora no dieron ninguna certeza porque no nos dijeron \"con Faisal pasó tal cosa\".",
+      "entidades_detectadas": [
+        "Faisal"
+      ]
+    },
+    {
+      "frase": "No, porque Faisal es hijo, Faisal es querido.",
+      "entidades_detectadas": [
+        "Faisal"
+      ]
+    },
+    {
+      "frase": "Sale la hija de Morales y es semejante pelotudez como que querían las riquezas nacionales.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "No pueden tomarnos tanto el pelo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si algo hay que agradecerle a Macri, que tampoco es santo de mi devoción, es que nos hizo republicanos.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "A lo mejor en esos cuatro años aprendimos a escucharnos y nos dimos cuenta de que ustedes volvieron con la misma mentira vieja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esto es como venir con la mujer de nuevo, después de cuatro años, encontrarse el cogote lleno de chupetones y volver a decirle: \"No, lo que pasa es que estoy con alergia\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La puta que te parió.",
+      "entidades_detectadas": [
+        "parió"
+      ]
+    },
+    {
+      "frase": "Nos separamos hace cuatro años porque tenías una mina que te chuponeaba el cogote y volviste con los mismos chupetones y volviste con la misma alergia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Volvieron con la misma mentira, los mismos versos, la misma \"verretada\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los militantes que van a la casa de la gente, que van a la casa de la gente, y nadie a denunciarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Periodistas, no tienen, dejen de denunciar, den la cara, hablen con la gente, son delincuentes, son sinvergüenzas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos explicaron por qué faltan 14 millones de vacunas y nunca nos dio ni Ginés González García, ni Biassotti, ni Alberto, ni Cristina, ni el Petit Suete, nunca nos dieron la lista de los vacunados VIP, la están escondiendo bajo siete llaves porque saben que se mandaron una cagada vacunándose entre ellos.",
+      "entidades_detectadas": [
+        "Ginés González García",
+        "Biassotti",
+        "Petit Suete",
+        "Cristina",
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "La grieta muerta, son los sinvergüenzas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mire, hace muchos años, en la esquina de mi casa, todo el palacio del deporte, era una bicicletería con otra Argentina en los años 60.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Llevaban 1500, 2000 bicicletas para diciembre, me acuerdo porque iba a comprar Marrone, Ángel Magni, Luis Sandrini, que eran todos de San Isidro, iban a comprar la bicicleta para las hijas, los hijos ahí.",
+      "entidades_detectadas": [
+        "Ángel Magni",
+        "San Isidro",
+        "Luis Sandrini",
+        "Marrone"
+      ]
+    },
+    {
+      "frase": "Entonces traían 1500, 2000 bicicletas para el 20 de diciembre, el 24 no había más bicicletas, se habían vendido todas, porque había plata, porque la gente humilde podía comprar a crédito una bicicleta, no había que tener tarjeta de crédito, la gente tenía plata en el bolsillo, a mi abuela del almacén le pagaban un miércoles sí, un miércoles no, o una vez por mes la libreta del almacén y comer no era un delito, boludo, la gente humilde te decía, venía a comer a casa, ¿qué llevo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Traer hambre\" era el chiste, no había que llevar nada, hacían 10 kilos de asado, 4 para la bajada de vino y a reír porque el obrero no necesita reírse, ahora le están haciendo canapés de polenta, son unos caraduras, en Quilmes, Mayra Mendoza reparte harina de maíz, la morocha, sacó la negrita de la harina de maíz del molino y puso la morocha de Quilmes y le está dando de comer polenta a la gente que está taponada y que para cagar se tiene que poner un petardo, no tienen vergüenza, estar alimentando con polenta a la gente como si fueran gallinas, bueno, en esa casa de deporte que le explico, había una bandeja que decía \"reglamentos\" y tenía reglamentos de fútbol, de béisbol, de básquetbol, de tenis y a mí me gustó el de béisbol, nada más que porque veía muchas series americanas y quería saber cómo se jugaba al béisbol, me compré un reglamento, yo ya creía que con el reglamento era ganar, era terrible, me fui a casa y ¿qué decía el reglamento?",
+      "entidades_detectadas": [
+        "Quilmes",
+        "Mayra Mendoza",
+        "maíz",
+        "Traer"
+      ]
+    },
+    {
+      "frase": "\"Agarra la pelota con la mano derecha, después se la ponés a la mano izquierda, agarra el palo con la...\" qué sé yo, y hoy me di cuenta de que a usted, Alberto, le falta el reglamento, imagínese para explicarle a la gente que en la Argentina es como un gran partidor de fútbol de chantas y chantapufis, y mentirosos y chambones, que son ustedes, entonces, dice: \"Yo voy a jugar con once\" y el otro dice: \"Yo con doce porque mi cuñado quiere jugar que vino de visita\".",
+      "entidades_detectadas": [
+        "Alberto",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Si ponés a tu cuñado, pongo a estos dos vecinos que querían entrar hace rato y nosotros seríamos trece, si vos ponés trece y yo tengo doce, voy a meter a mi cuñada, a mi prima y mi tío y voy a achicar el arco porque mi cuñada sufre de las rodillas, y entonces yo voy a poner a los otros que vienen de Luján a comer el asado y entonces son cien mil pelotudos en medio de la cancha y ninguno mete un gol, eso es lo que quería hablarle, el reglamento, no tiene reglamento, usted se ríe a la mañana, llora a la tarde y promete a la noche, habla de la vacuna, al otro día cambió todo el \"bicachazo\", vienen diez mil, diez millones de allá, seis millones de allá, y llegamos a marzo, no llegó ninguna, yo les dije que Pfizer nos pidió en la Concagua, pero no, entonces ahora no, vienen los rusos y sale la sociedad, no se paga la deuda y Putin es mi amigo, Putin es mi amigo, Putin es mi amigo, y la gente sigue cayendo muerta, cayendo muerta, cayendo muerta, y siguen con la guitarra mintiendo y mintiendo y mintiendo y mintiendo, Alberto Corazón, dígale a Dylan que le compre un reglamento de cómo ser presidente, cómo se maneja un país y cómo parar esta matanza terrible de argentinos por su ineptitud, el de la mujer que está al lado suyo y el del gen médico que está tras suyo y el del otro mentiroso hijo de puta que está en el Congreso y el del otro, Alberto compre un reglamento de democracia, hermano, y denos el derecho a no morir más.",
+      "entidades_detectadas": [
+        "Pfizer",
+        "Congreso",
+        "Alberto",
+        "Dylan",
+        "la Concagua",
+        "ponés",
+        "Putin",
+        "Alberto Corazón",
+        "Luján"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Pfizer",
+    "Congreso",
+    "Necesitamos",
+    "Biassotti",
+    "Kicillof",
+    "Malvinas",
+    "Alberto Fernández",
+    "Quilmes",
+    "Mire",
+    "Morales",
+    "¿Qué",
+    "ponés",
+    "San Isidro",
+    "Faisal",
+    "Putin",
+    "Alberto Corazón",
+    "Qué",
+    "Gracias Cristina",
+    "Luis Sandrini",
+    "Patricia Bullrich",
+    "Sigue",
+    "Quirós",
+    "Leloir",
+    "Traer",
+    "¿Saben",
+    "Petit Suete",
+    "¿No",
+    "la Concagua",
+    "Alberto?",
+    "Favaloro",
+    "Víspera",
+    "Está",
+    "Pánico",
+    "presidente Fernández",
+    "Pfizer?",
+    "Porque ¿sabes",
+    "Mayra Mendoza",
+    "Alberto",
+    "Maná",
+    "Volvieron",
+    "¿Por",
+    "Ginés González García",
+    "Argentina",
+    "Dylan",
+    "Usted",
+    "¿Quién",
+    "Cafiero III",
+    "Levi",
+    "Cristina",
+    "maíz",
+    "Ustedes",
+    "Bueno",
+    "Periodistas",
+    "Mentira",
+    "Sale",
+    "Ojo de Papel",
+    "Ricardo?",
+    "Marrone",
+    "la Argentina",
+    "¿",
+    "Todavía",
+    "Ángel Magni",
+    "Panacea",
+    "moró",
+    "Luján",
+    "Macri",
+    "Cuba"
+  ]
+}

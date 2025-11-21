@@ -1,0 +1,66 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 8,
+      "derecha": 2
+    },
+    "score_promedio": 0.234,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Muy buenos días, lunes 18 de julio, atravesado por el recuerdo de los 28 años del atentado a la AMIA.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a abrir este programa con un recuerdo de aquellos audios de aquel momento.",
+      "score": 0.224,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vamos a cubrir a lo largo de todo el día tanto las ceremonias que se van a realizar como el recuerdo de la cobertura de aquella época.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero para colocarlo en contexto, tenemos que decir que en realidad son dos los atentados, o sea, se cumplieron este año 30 años del atentado a la embajada de Israel en Argentina.",
+      "score": 0.247,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y como canciller, Cavallo fue a la reunión y se encontró con un Gadafi que estaba totalmente fuera de sí, lo maldecía, decía que lo había traicionado, que había colocado mucho dinero para la embajada.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem envió 12 marcaciones de guerra a la invasión en Irak en 1991.",
+      "score": 0.631,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero vamos a empezar con Menem y su discurso luego del atentado de 1994 diciendo: \"Hacemos todos los esfuerzos posibles para ayudar a los culpables\", frases obvias si las hay.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero sí debemos puntualizar que, desde el atentado a la embajada de Israel hasta ahora, hacemos todos los esfuerzos posibles para ayudar a los culpables.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De la AMIA hablo y seguiré hablando en Naciones Unidas reclamando que se haga justicia, como no lo hizo ningún presidente argentino.",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente 30 años antes, 32 años antes, cuando Menem recibe dinero de Gadafi para la campaña, y luego voy a los Estados Unidos.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 10
+  },
+  "etiqueta_original": "neutral"
+}

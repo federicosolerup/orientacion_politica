@@ -1,0 +1,55 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Esperaron el jueves, ese jueves santo, y Cristina no dijo absolutamente nada.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Pensé que Cristina nos iba a enseñar algo.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Mira, si no quiere el presidente que ella puso, imagínense al presidente de enfrente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La gente pidió verlo de nuevo y por eso hemos decidido el viernes hacer un compilado del programa de Milei para que usted, si lo quiere votar o no, saque sus propias conclusiones.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Hay un video por ahí que no lo tengo acá donde les regalaron un cuadro arriba de un balcón y Néstor decía que estaba con una campera de *Carpincho*, ¿me acuerdo?",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Y decía que Menem que estaba ahí había sido el mejor presidente que había tenido la Argentina, un lujo.",
+      "entidades_detectadas": [
+        "menem",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Por eso, ahora quédese sentado y analice en frío las declaraciones de Milei en el programa del otro día y saque sus conclusiones.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Pero prefiero que escuchen a Milei antes de escuchar una discusión bizantina sobre la clase magistral que Cristina nunca pudo dar.",
+      "entidades_detectadas": [
+        "cristina",
+        "milei"
+      ]
+    }
+  ]
+}

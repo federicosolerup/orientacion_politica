@@ -1,0 +1,446 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 46,
+      "derecha": 40
+    },
+    "score_promedio": 0.458,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ahora, para mejorar las cosas, esa tormenta la envolvemos o se envuelve en un huracán, que son las condiciones políticas que se están creando alrededor del problema judicial y de la causa que se le sigue a Cristina Fernández de Kirchner y a un grupo de funcionarios de los gobiernos de Néstor Kirchner y de Cristina Fernández de Kirchner por la asignación de obra pública en la provincia de Santa Cruz.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos sabemos que es un caso desde el punto de vista técnico crucial, porque de lo que se determine en la asignación de obra pública en Santa Cruz podrían derivarse pruebas que tienen que ver con el manejo de dinero en los hoteles de la familia Kirchner en El Calafate, lo que se conoce como Causa Los Sauces y Hotesur.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque hay manifestaciones en estas horas de gente que no es necesariamente kirchnerista, que está enemistada con la vicepresidenta, como, por ejemplo, la conducción de la CGT, que tiene un conflicto con Cristina Fernández de Kirchner.",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos se sienten amenazados por Cristina Fernández de Kirchner.",
+      "score": 0.676,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, sin embargo, hicieron desde la cúpula de la CGT una declaración diciendo no hay pruebas concretas en lo que está denunciando el fiscal Luciani.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay, además, otros actores del oficialismo que no son necesariamente kirchneristas, por ejemplo, diputados de la Cámara de Diputados de la Nación, senadores que no están alineados con Cristina, que también se manifiestan en ese sentido.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que se está creando un clima de movilización que tiene que ver con el enfoque central que le da la vida a la gente.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para Cristina Fernández de Kirchner, no hay autonomía técnica de la justicia.",
+      "score": 0.847,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace mucho tiempo, en el año, creo que 2016, que es cuando se inicia esta causa, se reabre por una denuncia en la que se ha hecho un recorrido de quién estaba al frente de la obra pública en el gobierno de Mauricio Macri, Javier Iguacel, la esposa de Julio De Vido, que es una abogada que tuvo mucha participación, es una administrativista, Alessandra Minicelli, que tuvo mucha participación en los gobiernos de Néstor y Cristina Fernández de Kirchner, emitió un tuit muy interesante, muy interesante, donde dice, ¿quién es el que administra el presupuesto?",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, ella se pregunta, ¿y cómo es que en esta causa no está imputado Alberto Fernández, que fue jefe de gabinete mientras ocurrían estos delitos?",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, sin embargo, la imputación, sostiene Minicelli, pasa del presidente o la presidenta al ministro de infraestructura y al secretario de obras públicas, directamente salteándose al jefe de gabinete.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La presunción de una manipulación política que convertiría a Alberto Fernández, a aquel Alberto Fernández que recorría los canales de televisión denunciando a Cristina, o aquel Sergio Massa que decía los quiero meter presos, en cómplices de lo que ellos denuncian como lawfare.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay varios argumentos en toda esta denuncia, en todo este reclamo que realizan Cristina Fernández de Kirchner y sus funcionarios.",
+      "score": 0.426,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está diciendo el kirchnerismo y lo que dice la propia Cristina Fernández de Kirchner y lo que dice la CGT, es no hay pruebas concretas que la vinculen a ella con esos casos de corrupción.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto es interesante porque hay gente de la oposición que sugiere lo mismo, entre ellos Miguel Pichetto que dice va a ser muy difícil probar lo que presumimos políticamente en un expediente, que es conectar concretamente el hecho delictivo con Cristina Fernández de Kirchner.",
+      "score": 0.44,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por eso Pichetto dice para eso se inventa la figura de la asociación ilícita, que transmite responsabilidades sin necesidad de que haya prueba documental.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la razón por la cual Cristina Fernández de Kirchner dice quiero que me llamen de nuevo a declarar, porque quiero contestar estas cosas que no las contesté en su momento, porque en su momento no me fueron planteadas.",
+      "score": 0.413,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta posibilidad de ser llamada a indagatoria en medio en este momento del proceso le fue denegada.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hay una nota en La Nación de Paz Rodríguez Niell analizando técnicamente este problema y daría la impresión, según lo que sostiene Rodríguez Niell, de que hay un consenso en los procesalistas de que Cristina tendría un derecho a refutar cuando tenga lo que se llaman las últimas palabras, es decir, hay un momento de todo el ritual del juicio oral en que habla por última vez cada uno de los actores y a esa le va a tocar hablar y ahí podría contestar lo que quiere contestar ahora.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empieza a haber, lo más importante políticamente, un estado de movilización que quiere introducir el kirchnerismo porque si todo es política, si no hay ninguna autonomía del expediente, si no hay técnica y solo se trata de una disputa de poder, hay que dar la discusión en el campo del poder.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así razona Cristina Fernández de Kirchner y mucha de la gente que la rodea.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ella, en determinado momento de su exposición, le dice a Ferraresi, te tengo que felicitar porque ante una ordenanza municipal que la justicia te objetó, vos movilizaste al pueblo.",
+      "score": 0.266,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El siguiente discurso importante de Cristina se produjo en Ensenada.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que juzga a Cristina no es Luciani.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no se trata solo de una presión política, se trata de la constitución de una escena electoral.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de que Cristina debe ser envuelta en el aura de una perseguida.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente del kirchnerismo lo cuenta como que hubo vecinos que fueron a insultar y, en vez de la policía de la ciudad, en vez de disolver esa manifestación de gente que la fue a agredir en la puerta de su casa, dejó que esa gente se vaya sumando, vinieron kirchneristas a enfrentar a esos que insultaban y la policía reprimió.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en ese tuit dice, lo único que le faltaba a Larreta para ser Macri es reprimir.",
+      "score": 0.43,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De quien la propia Cristina dirá, si Larreta termina siendo el candidato a presidente y Juntos por el Cambio, Larreta es Macri.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un comunicado largo, donde se empieza manifestando que el presidente es hijo de un juez o de alguien que fue juez, es profesor de Derecho, defiende el Estado de Derecho, es profesor de Cámara, es profesor de Derecho, defiende el Estado de Derecho.",
+      "score": 0.245,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al lado de Cristina alguien dijo, Alberto, la noticia no sos vos hoy, es Cristina.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de eso, es muy interesante este extravío conceptual que tiene el presidente y que tiene aparentemente mucha de la gente que lo rodea, porque esto no lo firma Alberto Fernández.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En nombre de la Constitución, en nombre de la Constitución expresamente, Alberto Fernández dice que en la causa que se le está siguiendo a Cristina no hay ninguna prueba.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En nombre de qué Constitución, el presidente ejerce el papel de juez y determina dónde hay pruebas y dónde no las hay.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El doctor Fernández, hijo de un juez, profesor de Derecho, apegado al Estado de Derecho, ¿qué Constitución leyó?",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque lo más elemental de la Constitución es que hay una división de poderes que le impide al presidente ejercer la justicia, que es atribución de otro poder, salvo que lo que quiera sea intimidar.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, si hay algo que viola la igualdad ante la ley, es que una ciudadana, Cristina Fernández de Kirchner, tenga a su favor la voz del presidente, cosa que no cualquier imputado tiene en todas las causas que se siguen en la Argentina.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy extraño cómo alguien que fue hijo de un juez, profesor de Derecho, apegado al Estado de Derecho, no advierte que, por lo menos, tendría que usar su cuenta de Twitter personal y emitir esa opinión aclarando que lo hace como militante kirchnerista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, si uno lee bien ese comunicado, se da cuenta de que tanta adhesión no hay, de que tan indignado Alberto Fernández no está.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces lo que le está diciendo Alberto Fernández a Cristina Fernández de Kirchner es, esto es el costo que estás pagando por no dejarme gobernar.",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para que se entienda bien, cuál es la interna que hay dentro del poder en relación con la causa judicial de Cristina Fernández de Kirchner, irrumpe en escena Julio De Vido.",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y miren lo que dice, Julio De Vido, que está imputado en la misma causa, habla de esa nota a la que nos estamos refiriendo y dice, señor presidente, no habla al compañero Fernández, le habla al presidente y tiene razón, porque el que emitió el comunicado es el presidente de la Cámara y el presidente.",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su nota es extemporánea, si fuera cierto lo que usted manifiesta, nunca hubiera designado a Marcela Losardo como ministra de Justicia.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Interesante lo que dice De Vido, porque De Vido está suscribiendo esa concepción general de Cristina, lo que está diciendo, si en vez de Marcela Losardo, el ministro de Justicia hubiera sido alguien con convicción respecto de nuestros intereses judiciales, que hubiera dado la pelea política que está detrás del expediente, si usted hubiera puesto un ministro de Justicia comprometido con nuestra causa, nosotros no estaríamos hoy con un pedido de condena, como el que recibe también De Vido y obviamente la señora de Kirchner.",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, el papel de los jueces va a ser convencernos a nosotros, pero a todos nosotros, no solamente a los que creen que Cristina debe estar presa ya, sino a los que creen que Cristina no debe estar presa, de que se la está sometiendo a un juicio justo.",
+      "score": 0.321,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo una enorme excitación política durante dos años, se lo puso preso a Lula, se lo excluyó de la carrera electoral y al final del camino la Corte de Brasil, que es una Corte anti-PT, determinó algo tan sencillo, pero tan escandaloso, como que el juez Moro, que era el héroe que llevó a Lula a la cárcel, no era el juez que estaba en condiciones de juzgarlo.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había un problema de jurisdicción, frío, formal, gris, aburrido, pero por ese problema de jurisdicción Lula salió de la cárcel, volvió a las pistas y ahora está por ganar las elecciones de nuevo en Brasil.",
+      "score": 0.73,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este tipo de error corroe enormemente a la democracia, porque hay una cantidad de gente en Brasil que son el 30-35% que cree que es absolutamente ilegítimo que Lula compita y hay un mayor número de gente que cree que Bolsonaro es presidente porque a Lula lo metieron preso.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero, por esta vía, llegar a otra cuestión, basándome en una nota extraordinaria, cuya lectura recomiendo enfáticamente, que salió ayer en La Nación con la firma de Daniel Nabot.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está diciendo Nabot, le advierte a sus lectores, le está diciendo lo siguiente, te voy a contar un caso donde te va a resultar absolutamente obvio que este hombre tiene que estar preso, y si Dambraco no está preso.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y te voy a contar cuáles son los problemas procesales que le garantizan la impunidad a alguien que, a primera vista, con la opinión normal de un lector o un periodista, no debería estar libre, debería estar penalizado.",
+      "score": 0.693,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, hay un desajuste entre opinión pública y procedimientos judiciales que está en el centro de este problema, y sobre el que es interesante advertir, aunque esa advertencia sea contracíclica, sea frustrante en un momento en que mucha gente tiene una gran excitación positiva frente a lo que le parece que es un hecho justo.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que tienen una importancia estremecedora, porque estamos hablando de una jueza federal que dice que juzgué a un fiscal de la provincia de Buenos Aires por comandar junto con una banda de narcos de policías un esquema narco, donde se secuestraba drogas a bandas de narcos y se la volvía a vender, inclusive se la mandaba hacia Europa, viraneo y fui recusada sistemáticamente y le echa la culpa a un abogado que es el abogado de Capolán, que se llama Marcelo D'Angelo, y dice Marcelo D'Angelo está vinculado a la política porque formó parte del gabinete de Ritondo, de Cristian Ritondo.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristian Ritondo, hoy diputado nacional, presidente del bloque del PRO en la Cámara de Diputados y ministro de seguridad del gobierno de María Eugenia Vidal, cuya bandera principal era combatir al narco.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, es alguien que no le puede pasar inadvertido.",
+      "score": 0.517,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablé con él, dice, y él me dice, el abogado de Capolán, que él se guasa a causa del cliente, Capolán, se lo trajo el abogado Juan Pablo Biglieri.",
+      "score": 0.571,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, al narco, presunto narco Capolán, que es fiscal, el abogado se lo puso el abogado Juan Pablo Biglieri, que era abogado de la jueza Arroyo Salgado.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La jueza Arroyo Salgado sabía que su abogado personal en la causa Nisman le estaba buscando abogado, le estaba buscando abogado a un cliente, a un imputado, que es Capolán, nada menos.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Biglieri es, además, el abogado, no solo el abogado que le consigue según Ritondo, abogado al narco, sino que además es abogado de Silvia Majdalani, la segunda de la AFI de Macri, compañera de Ritondo, a quien Ritondo habitualmente defiende en la Comisión Bicameral de Seguimiento de los Organismos de Inteligencia de la que forma parte.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Abogado de barras bravas de Boca Juniors.",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ritondo dice no, yo no le puse...",
+      "score": 0.695,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero dejémoslo pasar, Huerten puso como abogado al abogado de Marcelo Villegas, el mismo Huerten que en el año 2016, a los comienzos del macrismo, decía lo siguiente, hemos reemplazado la palabra empresario por emprendedor, porque a veces nos da vergüenza, preferimos callar, porque el silencio nos protege, tenemos miedo de que nuestras palabras sean salpicadas por los medios, que las redes la viralicen, pero cuando se habla de Fariña, de Lázaro Báez, de López, está hablando de la obra pública de Santa Cruz, yo no me siento como esos señores y no creo que ninguno de ustedes se sienta así.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante preguntarse qué piensa María Eugenia Vidal de todo esto y la respuesta debe ser una respuesta muy ambigua, ¿por qué?",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque mientras estaba Ritondo al frente del Ministerio de Seguridad con todo este entorno, Vidal sostenía a un señor, un abogado, Giselle Morera, que es el que perseguía la corrupción dentro de la policía y también reportaba a ella como si hubiera una guerra entre el bien y el mal dentro del mismo esquema de poder.",
+      "score": 0.516,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro dato interesante, y que lo cuenta con mucho detalle, Nabot, en su nota, es que la jueza Rossi Salgado menciona como responsable principal de que ella sea separada de la causa, causa que hoy está en manos esta causa del fiscal y los policías narcos de Emiliano Canicoba Corral, hijo del célebre Canicoba Corral, que fue ya jubilado en la justicia, el responsable de su reemplazo, el que la sacó de la causa, es el juez Mariano Borinsky, un juez importantísimo en la Cámara de Casación Penal, muy ligado al macrismo, que sistemáticamente se pronuncia en general a favor de los temas que tienen que ver agentes del gobierno anterior en Comodoro Py.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando hubo que hacerle el jury a Escapolán, jueces de la Corte de la provincia se fueron excusando sistemáticamente, jueces de cámara se fueron excusando sistemáticamente, nadie quería estar en esa posición, nadie quería verse enfrentado a una banda de policías y un fiscal acusado de narcotraficantes.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, la causa empezó a ser revisada por la Cámara de San Martín, donde hubo gestiones de Malena Galmarini a favor de Escapolán, la versión indica que fue con Javier Fernández, un viejo operador de Jaime Stiuso, las mismas versiones de gente muy informada dicen que Daniel Angelici fue a hablar a la Cámara de San Martín a favor de Escapolán, Angelici cuyo cerebro judicial jurídico es Daniel Ricardo, principal amigo y operador político del juez Borinsky, es decir, estamos viendo un entramado de encubrimiento de temas muy pesados y el tema sigue ahora con denuncias de Carrió y no hay una condena definitiva y todo esto puede, como dice Nabot, terminar en la nada por asuntos procesales, de hecho cada vez que hubo que determinar si se lo suspendía a Escapolán como fiscal, los representantes del Frente Renovador en la legislatura bonaerense defendían a Escapolán, aclaro que el Frente Renovador es el partido de Massa.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablamos de Massa y Massa es una pieza clave en todo esto que estamos mencionando y es una pieza clave para Cristina.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque desde el punto de vista del kirchnerismo, desde el punto de vista de Cristina Fernández de Kirchner, desde el punto de vista de la gente más íntima que la rodea, ellos miran la política, miran el escenario electoral y dicen, no tenemos que estar inquietos, vamos a volver a ganar.",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esa escena, en ese contexto, Cristina Fernández de Kirchner ganó la primera vuelta, no la primera vuelta, las primarias para la senaduría en la provincia de Buenos Aires.",
+      "score": 0.681,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si no fuera, calcula el kirchnerismo, por la defección del movimiento Evita, que promovió la candidatura de Florencio Randazzo, con Alberto Fernández como jefe de campaña, a Tecavos, si no fuera por eso, hubiera ganado con mayor amplitud y probablemente hubiera ganado la general.",
+      "score": 0.505,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, ya con Guzmán, esto ahora en sus campañas de promoción personal, Massa se lo atribuye a sí mismo.",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante un ajuste muy severo que se corresponde con algo que venimos hablando desde hace tiempo, que es el informe último del Fondo Monetario Internacional cuando evalúa los primeros tres meses de desempeño del programa con el fondo, del programa que tiene con la Argentina, donde dicen te fuiste tanto de escala en los primeros meses del año que en el segundo semestre vas a tener que hacer un ajuste fenomenal.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el principal problema de Cristina Fernández de Kirchner, si lo que ella considera es real y en alguna medida tiene razón.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy lo explica muy bien en una columna en La Nación Martín Rodríguez Yebra.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice, el problema es que esta causa judicial de Vialidad la encuentra Cristina en medio de un mal humor social impresionante debido a este ajuste.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es lo que diferencia la escena del 17, donde Cristina estaba frente al ajuste de Macri, con la escena del 22 donde Cristina es titular de este ajuste, aunque ella quiera despegarse de él.",
+      "score": 0.264,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con estos números tiene que viajar esta semana a Washington a ver a la gente del Fondo Monetario Internacional.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene que llevar un macroeconomista que no tenía y la presencia de Rubinstein confirma algo que mucha gente venía suponiendo con mayor o menor particularidades de información, detalle, pero que es que el verdadero ministro de Economía detrás de Sergio Massa se llama Roberto Lavagna.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí tenemos que recurrir, volver a una información que dio Pancho Olivera cuando dijo hubo una reunión entre Alberto Fernández y Lavagna, donde Fernández le ofreció el ministerio a Lavagna y Lavagna le contestó, mejor sería Massa con un equipo de economistas que lo sostengan.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina está enojada con eso.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A sus íntimos amigos le dice me vendieron un buzón.",
+      "score": 0.81,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando me vendieron a Massa venía con el Dream Team de economistas filo-kirchneristas, no ortodoxos.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aún así lo pusieron a Rubinstein para que Massa pueda ir a Washington esta semana con alguien que sepa de economía y sobre todo que habla inglés.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy bien, Massa no solamente está cerca de Lavagna, lo quiso poner al frente de un consejo de economistas.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que lo frenó fue Alberto Fernández, que le dijo, mira Sergio, es peligrosa la idea porque el día que Lavagna, que suele tener opiniones muy independientes, tenga un juicio crítico sobre tu gestión, el mercado se te viene abajo si lo tenés tan cerca.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 86
+  },
+  "etiqueta_original": "neutral"
+}

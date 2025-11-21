@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Este mismo patrón se observa en el juicio por la obra pública a Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Otros ejemplos de esta disparidad son los casos de José Luis Barrionuevo,  Sergio Schoklender, Oscar Thomas, Carlos Cortés, Daniel Muñoz (cuya esposa reveló el origen de sus 70 millones de dólares en los bolsos de la corrupción K, fondos con los que adquirió propiedades en el Hotel Plaza de Nueva York),  y el exjefe de inteligencia del ejército.",
+      "entidades_detectadas": [
+        "sergio",
+        "carlos"
+      ]
+    },
+    {
+      "frase": "También preocupan las liberaciones de  Carlos Zannini, Pata Medina y su familia, Carlos Sarini, Carlos Santiago Kirchner, Omar \"Caballo\" Suárez y Jorge Chueco, contador de Lázaro Báez, con conexiones al caso Nisman.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "El 51% de los presos comunes en Argentina se encuentran en prisión preventiva, a menudo sin adecuada representación legal, mientras que los casos de corrupción, incluso con pruebas contundentes, parecen avanzar a un ritmo glacial, dejando una sensación de impunidad y desigualdad ante la ley.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

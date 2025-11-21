@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "A partir de ahí, la Argentina se dividió en dos grandes grupos: los \"fachos\" (que es lo que estos ladrones que nos gobiernan nos quieren endilgar) y las víctimas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La señora busca beneficiarse lanzándose como víctima de Alberto, lo cual no es cierto, porque ella inventó a Alberto, y este desorden es pura responsabilidad de Cristina Kirchner, quien debe hacerse cargo y sufrir las consecuencias, como sucedió en Cromañón, o con el accidente de Scioli.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Este caos que vivimos es culpa de Cristina Kirchner, y hay que apoyar a Alberto Fernández para que no lo destituyan.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Los milicos ladrones nos llevaron a una guerra de Malvinas y se murió mi hermano.",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original presenta varios problemas de ortografía, cohesión y coherencia, además de imprecisiones en los nombres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A continuación, se presenta una versión corregida:\n\n**Texto corregido:**\n\nGregorio Obertxell, secretario de Turismo de la Cámara Argentina de Comercio y Servicios (CAME), conversó con nosotros sobre el impacto del turismo interno durante las vacaciones de invierno.",
+      "entidades_detectadas": [
+        "Turismo de la Cámara Argentina de Comercio",
+        "CAME",
+        "Gregorio Obertxell",
+        "Texto"
+      ]
+    },
+    {
+      "frase": "\"Buenos días, Gregorio.",
+      "entidades_detectadas": [
+        "Gregorio"
+      ]
+    },
+    {
+      "frase": "¿Cómo le va?\"\n\n\"Muy bien, gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Analizando los datos de nuestro informe, observamos una performance mejor a la esperada, considerando la baja temperatura en las vacaciones de invierno.\"\n\n\"En efecto, el clima fue un factor determinante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se registraron temperaturas bajas en todo el país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, se movilizaron 4.900.000 personas, una cifra considerable para la época, aunque representa un 12% menos que el año anterior.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es importante considerar el contexto económico actual.\"\n\n\"El impacto, en este contexto, ha sido relativamente aceptable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien el promedio de pernoctación bajó de 4,5 a 4,1 días,  el gasto promedio se mantuvo en 60.000 pesos diarios por persona, lo que generó un impacto económico de 1.246 millones de dólares (considerando el tipo de cambio oficial) en 21 días de vacaciones.\"\n\nAndrés León Arte se unió a la conversación:\n\n\"Buenos días, Andrés.",
+      "entidades_detectadas": [
+        "generó",
+        "Andrés",
+        "Andrés León Arte"
+      ]
+    },
+    {
+      "frase": "¿Cuál fue la región más afectada por esta baja con respecto al año pasado?\"\n\n\"Si bien la disminución no fue uniforme, la costa atlántica sufrió un impacto negativo significativo.",
+      "entidades_detectadas": [
+        "Cuál"
+      ]
+    },
+    {
+      "frase": "El sur, particularmente Bariloche, se vio favorecido por su atractivo turístico y la afluencia de turistas brasileños.\"\n\n\"¿Han observado un impacto del turismo externo?",
+      "entidades_detectadas": [
+        "Bariloche"
+      ]
+    },
+    {
+      "frase": "El INDEC reportó una caída del 24,6% en la ocupación hotelera en mayo.\"\n\n\"Sin duda, el tipo de cambio es un factor crucial.",
+      "entidades_detectadas": [
+        "24,6%",
+        "INDEC"
+      ]
+    },
+    {
+      "frase": "Durante el fin de semana largo de Carnaval, tuvimos una gran afluencia de turistas extranjeros, principalmente de países limítrofes.",
+      "entidades_detectadas": [
+        "Carnaval"
+      ]
+    },
+    {
+      "frase": "Sin embargo, en Semana Santa, la situación se revirtió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación cambiaria impacta directamente en el turismo externo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, eventos como la Copa América y las Olimpiadas motivaron viajes internacionales de un segmento de alto consumo que usualmente veraneaba en el país.\"\n\n\"Algunos argumentan que el tipo de cambio está atrasado, mientras que otros señalan la alta inflación interna, que hace que viajar al exterior sea casi tan conveniente como hacerlo dentro del país.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "¿Creen que es necesario una revisión de los precios?\"\n\n\"El descenso del turismo externo se debe principalmente al tipo de cambio y a los altos precios.",
+      "entidades_detectadas": [
+        "¿Creen"
+      ]
+    },
+    {
+      "frase": "Lo vimos claramente en Carnaval, cuando la gran afluencia de turistas se debió a la conveniencia del cambio y los precios.",
+      "entidades_detectadas": [
+        "Carnaval"
+      ]
+    },
+    {
+      "frase": "La inflación interna no se corresponde con la variación del dólar.\"\n\n\"Pensando en el futuro, ¿anticipan una recuperación para las vacaciones de 2025?\"\n\n\"Es difícil predecir con tanta anticipación.",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "El turismo actual se gestiona mes a mes, aprovechando los fines de semana largos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En los últimos 10 o 15 años ha cambiado el patrón de vacaciones,  con viajes más cortos y frecuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien aspiramos a una recuperación, hacer una proyección para 2025 es muy complejo.\"\n\n\"Gregorio, gracias por su participación.\"\n\n\"El gusto fue mío.\"\n\n\n**",
+      "entidades_detectadas": [
+        "Gregorio"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Gregorio",
+    "¿Cuál",
+    "¿Cómo",
+    "Gregorio Obertxell",
+    "El INDEC",
+    "generó",
+    "Andrés",
+    "24,6%",
+    "Además",
+    "¿",
+    "Carnaval",
+    "CAME",
+    "Turismo de la Cámara Argentina de Comercio",
+    "Andrés León Arte",
+    "¿Creen",
+    "Analizando",
+    "Bariloche",
+    "Texto"
+  ]
+}

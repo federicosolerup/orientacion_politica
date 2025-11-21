@@ -1,0 +1,96 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 13,
+      "derecha": 3
+    },
+    "score_promedio": 0.36,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el gobernador bonaerense, Axel Kicillof, pareció distanciarse de su mentora política, Cristina Fernández de Kirchner.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos si el inicio de esta autonomía será una ruptura definitiva con el espacio liderado por Máximo Kirchner, hijo de Cristina, ni si es la decisión de Axel Kicillof.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de desoír los planteos de la expresidenta y desdoblar las elecciones en la provincia de Buenos Aires, ahora la atención se centra en Cristina Fernández de Kirchner.",
+      "score": 0.406,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella decidirá si aparta a su excolaborador del espacio político, impidiendo la cercanía del resto del peronismo con el gobernador, o si considera que Kicillof tiene peso propio y lo acepta como un aliado.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este momento, la mente de Cristina debe estar dividida entre su ego, dañado por el cuestionamiento a su liderazgo, y el pragmatismo que la ha caracterizado en otras ocasiones.",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de la gestión de Alberto Fernández, no queda espacio para presidentes delegados.",
+      "score": 0.307,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además del ejemplo de Alberto Fernández y Cristina Fernández de Kirchner, se observa una dinámica similar entre Mauricio Macri y Javier Milei, donde este último rechaza cualquier tutelaje por parte del expresidente.",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, Axel Kicillof no es comparable a Alberto Fernández, Daniel Scioli ni Sergio Massa; posee atributos distintos.",
+      "score": 0.126,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A diferencia de Javier Milei, quien también tiene formación académica, pero en una universidad privada, las credenciales académicas de Kicillof son superiores.",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es conocido por excentricidades, no se le ha vinculado con modelos ni se le ha visto involucrado en gastos ostentosos.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aunque la trayectoria de Javier Milei fue más rápida, ya que en dos años pasó de diputado a presidente, en el caso de Kicillof se observa una trayectoria en el servicio público con puestos importantes en un período de tiempo relativamente largo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para analizar las implicancias de esta situación y entender a la persona detrás del dirigente político, sus motivaciones y su visión del mundo, comenzaremos con una divertida canción publicitaria interpretada por el propio Kicillof cuando era adolescente: \"Qué bueno es vivir como esta gente\".",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juan era el parlante de la clase, la profesora de tenía fobia, muy enojada le ordenó \"¡Quiere salir!\", y al contexto: \"No, gracias, tengo novia.",
+      "score": 0.394,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alta más que alta de rutina le dijo: \"Necesito una sorpresa\", él le propuso \"Nos casamos el domingo\", ella quería una escapada fortaleza, qué fracas, qué copadas, qué ocurrentes, qué bueno vivir con esta gente.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un hombre de noventa divisiones a una de treinta, de un bote en roce y sin dudarlo mucho le expresó, oh, oh, ay, si tuviera diez santitos menos, qué fresco, qué salvaje, qué valiente, qué bueno vivir con esta gente.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su chica le salió con un holandero de golpes, sin anticipo le dijo así, recorta a tus amigos con yo y el seno con los pibes en pipo, qué fresco que está junto, qué bueno vivir con esta gente, qué prisa de rutina y de invención, qué bueno vivir con esta gente.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 16
+  },
+  "etiqueta_original": "neutral"
+}

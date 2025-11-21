@@ -1,0 +1,101 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 5
+    },
+    "score_promedio": 0.322,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este juicio, prácticamente, ocupó la mayor cantidad de horas de radio y televisión durante todo el mes de enero, y ahí emerge un personaje sobre el que nosotros queremos poner foco hoy en esta apertura que titulamos \"La ficha de Burlando\", y quizás pueda ser incluso la \"bala de plata\" para mi ley, para entrar al balotaje: tener un candidato a gobernador por la provincia de Buenos Aires que, además de los propios votos que aporta el libertario, le sume un candidato que él mismo genere votos, como podría ser el abogado defensor de la familia de Fernando Báez Sosa.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, Burlando, y por eso la producción eligió esta canción, \"Ángel o Demonio\", de Los Auténticos Decadentes, planteando lo que podría ser el Doctor Jekyll y Mr.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también luego defendió a la falsa médica Giselle Rímolo y al empresario gastronómico Horacio Conzi, condenado por un homicidio también pasional.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y probablemente, lo decía hace un par de días, Tetaz, el candidato radical por la provincia de Buenos Aires, que él creía que Carolina Píparo podría ser la candidata a gobernadora del partido de Milei, o sea, se plantearía aquí que sería su competidor.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que, si Burlando finalmente se decidiese o si Milei decidiese que fuera él, además, Burlando tiene de clientes a Claudia Villafañe en el libro de la batalla judicial por la herencia de Maradona, lo que lo lleva a una pelea a cielo abierto con Matías Morla, el abogado de la otra parte.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hacer un racconto, entonces, de este proceso de evolución, podríamos decir, de quien pueda ser la \"bala de plata\" de Milei en la provincia de Buenos Aires, y vamos a comenzar por el principio: el juicio a José Luis Cabezas.",
+      "score": 0.338,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando le dictan la prisión perpetua al rostro, la sensación de los detenidos de los que recibían la prisión perpetua fue la misma del juicio, como si nada.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"¿A usted le llamó la atención también?\".",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerdo una vez que la Corte Suprema de Justicia hizo un estudio sobre el estado de la imagen de la justicia en la sociedad, y les había llamado la atención que aparecía como símbolo del derecho y de los abogados Burlando, y a los que escandalizaba a los miembros de la Corte.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Pero, vos te crees que no le brindamos el corazón a Thelma, que la vengo escuchando hace ocho meses\".",
+      "score": 0.358,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"¿Y vos pensás que el gobernador Kicillof no la quiere a la provincia?\".",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue justo antes de comenzar el juicio del asesinato de Fernando Báez Sosa, y tuvo, durante todo este mes de enero, podríamos decir, la campaña más masiva que se podría tener y que podría obtener un candidato.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno asiste a hechos que, por momentos, parecen en serio arrancados de la literatura o de la ficción, pero, sin embargo, esos hechos, en el plano de la vida real, lo hemos constatado en esta diligencia, superan ampliamente a la imaginación más, pero más retorcida.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y al salir, al salir después de su jornada airosa, le preguntan sobre José Luis Cabezas.",
+      "score": 0.579,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si usted presta atención a lo que él dice, verán que en ningún momento él recuerda que fue el abogado de los asesinos de Cabezas, parece como en el caso que habíamos visto antes de Darthés, él parece defensor de Cabezas, y no de los asesinos de Cabezas.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy lo encuentra acá usted, ¿puede usted hacer una lectura de eso?\".",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasó mucho tiempo y parece que, realmente, fue ayer, cuando todavía recuerdo la imagen de los papás de José Luis ingresando a este tribunal.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 17
+  },
+  "etiqueta_original": "neutral"
+}

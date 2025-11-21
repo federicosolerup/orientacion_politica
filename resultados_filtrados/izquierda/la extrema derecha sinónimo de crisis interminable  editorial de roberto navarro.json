@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Otro ejemplo: Argentina se ha aliado al grupo de contacto para la defensa de Ucrania, acercándonos a una situación bélica.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La represión durante las protestas frente al Congreso fue extremista, no solo por las detenciones, sino también por la brutalidad policial y las acusaciones de terrorismo y golpe de Estado.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "El Fondo Monetario Internacional presiona por nuevas devaluaciones.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    }
+  ]
+}

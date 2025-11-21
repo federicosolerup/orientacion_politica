@@ -1,0 +1,466 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 56,
+      "derecha": 34
+    },
+    "score_promedio": 0.358,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está atrapada en una vieja trampa cíclica en la que su economía cae, reiteradamente, desde hace 40 o 50 años de manera dramática: la falta de dólares.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El primero de esos fenómenos es la rareza del clima que estamos viviendo en estas horas.",
+      "score": 0.52,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es José Claudio Escribano, una figura central del diario La Nación y ha sido el autor intelectual de ese diario durante décadas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el gobierno está mirando esto con suma preocupación porque, a pesar de la animadversión que el kirchnerismo le tiene por mil razones al campo, nunca como ahora la Argentina y un proyecto político dependen del campo.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto que, vamos a ponerlo en términos de Máximo Kirchner, irónicamente, Massa volvió a arrodillar al país delante del sector agropecuario, ofreciendo de nuevo un dólar especial para aquellos que, por razones de precio, no se ven tentados a liquidar la producción que tienen retenida.",
+      "score": 0.226,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El llamado dólar soja en el sector de la producción agropecuaria, pero sobre todo en las grandes cerealeras, es decir, las grandes comercializadoras de granos, creen que cuando Massa piensa que con este nuevo dólar va a tener aproximadamente 2.000 o 2.500 millones de dólares más disponibles en el Banco Central, está en lo cierto.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, esto es pan para hoy y hambre para mañana, y además genera un segundo problema: para comprar esos dólares hay que emitir pesos y reabsorberlos con tasas de interés exorbitantes.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y un problema importantísimo que tiene el gobierno y Sergio Massa en su política económica es, justamente, la escandalosa deuda en pesos, un caudal insoportable de deuda en pesos que ya los que tienen esos papeles en pesos empiezan a decir: \"No quiero renovar\".",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hubo una licitación, la renovación fue del 84%, no llegó al 100% y eso que hubo muchos llamados para que las compañías de seguros, los bancos, los fondos de inversión, que son las instituciones que tienen esos títulos en pesos, los renueven.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo, además, una extraordinaria colaboración de los organismos del Estado que también tienen, sobre todo el ANSES, ese tipo de papeles que el gobierno quiere renovar, cada vez con más dificultad y con tasas más peligrosas.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, la idea de emitir un nuevo dólar, ofrecer un nuevo dólar, como el dólar soja, le hace pensar al mercado que entonces el riesgo de devaluación cae.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y una de las grandes ofertas que le hace el gobierno al mercado es un bono en pesos ligado al precio del dólar.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que a partir de enero, los vencimientos de deuda que va a tener que afrontar Massa son, como mínimo, un billón, billón en español, millón de millones de pesos por mes, con vencimientos extraordinarios hacia julio, creo que es de 1.8 billones.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, este es el gobierno del desendeudamiento, según la mitología de Cristina Kirchner, o debería serlo.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa está buscando desesperadamente, a través de la ENACOM, en la que tiene enorme influencia porque el presidente de la ENACOM le responde a él, Claudio Ambrosini, licitar un nuevo servicio o una nueva frecuencia para las telecomunicaciones, el denominado 5G.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa calcula que con esta licitación que quiere hacer de urgencia va a conseguir aproximadamente 1.200 millones de dólares.",
+      "score": 0.276,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, para hacer esta licitación tiene que modificar un decreto del propio Alberto Fernández.",
+      "score": 0.578,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted lo debe recordar.",
+      "score": 0.656,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el decreto por el cual Alberto Fernández, para demostrarle a Cristina Kirchner que él podía hacer frente al Grupo Clarín, con toda la dureza que ella pretendía, estableció que el precio de las telecomunicaciones es una tarifa regulada por el Estado.",
+      "score": 0.607,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, antes de llamar a las empresas a invertir en la nueva tecnología 5G, el gobierno va a tener que corregir, va a tener que ir sobre sus pasos, y Alberto Fernández tendrá que demostrarle a Cristina Kirchner que no era tan duro con Clarín y, en general, con el sector de telecomunicaciones como había prometido ser.",
+      "score": 0.279,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, van a tener que dar de baja o corregir ese decreto 690, que, por otra parte, no está vigente porque la justicia le dio a las empresas afectadas una cantidad de cautelares que hoy están en discusión en la Corte.",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que, según se redacten los pliegos, según se dispongan determinadas palabras o no, según se hable de sistemas abiertos o no, en la licitación se habilita el uso de tecnologías de origen chino, sobre todo una que está ligada al gran productor, el líder mundial de este tipo de tecnologías de comunicaciones que es Huawei, la gran empresa china que está en competencia con empresas como Ericsson, como Nokia, que es finlandesa, también con otras empresas chinas, como veremos ahora.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el gobierno de Estados Unidos le ha venido sugiriendo al gobierno argentino, y sobre todo a Sergio Massa, que es el que se está encargando de esta licitación, que preferiría, por un problema de alineamiento internacional en materia, sobre todo de defensa, que la Argentina no adopte este tipo de tecnología, que, por otra parte, volvemos a Clarín, es la tecnología que compró para su sistema de telecomunicaciones el grupo Clarín, que es dueño de Telecom.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nueva Zelanda tampoco le cerró las puertas a esta empresa china.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Brasil se iba a prender en esto y finalmente dijo que no, y habrá que ver qué hace Lula, porque esto que estoy diciendo ahora tiene que ver con el gobierno de Bolsonaro.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Va Huawei a la cabeza, pero miren qué caída que ha tenido en los últimos dos años, justamente por las restricciones que le impuso Estados Unidos.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parte de los insumos de estos chinos, de la China Popular Comunista, vienen de Taiwán, con los que, en teoría, estarían totalmente peleados.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ella agradece que tuvo un encuentro con las autoridades de Huawei móvil de Argentina, en medio del diseño de los pliegos de licitación, en donde conversamos sobre las acciones que desarrollamos juntos con la fundación del Banco Nación Argentina que ella lidera.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante que haya un proyecto en común con chinos en materia de igualdad de género, porque, en el ranking internacional de igualdad de género, China está 102 sobre 155.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pregunta: alguien tan atenta a las cuestiones internacionales, porque acompaña al presidente a cuanta reunión hay por el mundo, que viene de estar en el G20, que es periodista, ¿ella escribe su cuenta o hay alguien que la hace equivocar con este tipo de mensajes y con este tipo de reuniones?",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sería interesante que lo conteste Alberto Fernández.",
+      "score": 0.621,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los países como Brasil o como Argentina que alimentan a China, es decir, puesto en términos de ese Japón o de ese Estados Unidos, eventualmente una guerra que alimentan a mi enemigo.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo potencial porque una nota en el diario La Nación de Sofía Diamante dice eso, se anunció, pero hasta ahora no hay novedades de que se esté implementando.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, si puede disponer de esos yuanes para determinadas operaciones, no gasta dólares, que es lo que le falta.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La contaría de esta manera: hace aproximadamente tres semanas, China le dijo al Banco Central argentino que el comercio bilateral prefería hacerlo en yuanes.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la Argentina dijo que sí, por este problema de reservas.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es la única iniciativa que está llevando adelante Sergio Massa para conseguir dólares.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y que ese acuerdo con los Estados Unidos consiste en que las oficinas de control de lavado de dinero de Estados Unidos, sobre todo la FinCEN, van a proveer la información al Estado argentino respecto de cuentas que atesoren fondos de argentinos no declarados en la Argentina, en los bancos o en las instituciones americanas.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy bien, esta noticia, que nunca se concreta finalmente, es para inducir a los que tienen esos fondos a que se asusten y los blanqueen alimentando las reservas del Banco Central.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso a cambio es que la Argentina adopte un sistema más estricto de ley de regulación del problema del lavado de dinero.",
+      "score": 0.359,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, para conseguir esa concesión de los Estados Unidos, Massa y el gobierno están presionando hoy, a más no poder, al Congreso para que, pasado mañana, la Comisión de Legislación General, la Comisión de Legislación Penal y la Comisión de Finanzas sesionen en conjunto en la Cámara de Diputados para aprobar un dictamen de reforma al Código Penal y a la Ley del Lavado de Dinero.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Adoptando criterios que habría que preguntar en el Instituto Patria si son todo lo agradables que deberían ser para gente envuelta en la bandera de la soberanía nacional y de la soberanía financiera como Cristina Kirchner.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dan mayor poder a la UIF, más aún, le garantizan a la UIF la posibilidad de ser querellante, facultad que la UIF resignó en causas que tienen que ver con Cristina Kirchner.",
+      "score": 0.679,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente la Argentina no salga bien parada, más allá de esta reforma legislativa, porque el problema que tiene la Argentina es un problema de lo que se conoce como efectividad.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto, tanto el dólar soja, las relaciones con el campo, la licitación del 5G con un alineamiento internacional complejo, esta ley que hay que sacar de urgencia para que Estados Unidos empiece a brindar información sobre tenencias de activos no declarados en el exterior, todo está ligado a que Massa necesita dólares ya.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese es el objetivo político que se planteó, y algunos amigos de él le dicen que, si él lograra ese objetivo, empezaría a hablar de su candidatura presidencial dentro del Frente de Todos en ese momento, sabiendo que le está ofreciendo al barco de náufragos una especie de tabla de salvación muy provisoria, pero que les permitiría llegar a puerto sin hundirse.",
+      "score": 0.174,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo curioso es que también Alberto Fernández se siente avalado por esta supuesta, imaginaria, hipotética mejora de la economía que todavía no vemos, los niveles de inflación son del 100% y la recesión empieza a pegar fuerte, justamente por la falta de dólares, y él también espera volver a postularse, algo que irrita mucho a Cristina Kirchner, pero una confianza que Alberto Fernández recuperó desde que tuvo su problema de salud, la gastritis sangrante, porque cree que con ese problema mejoró su imagen.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo curioso es que el kirchnerismo sigue teniendo una candidata determinante con un problema enorme: es Cristina Kirchner, es la más apreciada dentro del grupo, pero fuera del grupo tiene tanto repudio que no pasaría un balotaje, y ahí está el dilema del oficialismo hoy.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner, obviamente, se vería en un problema, igual que se vería en un problema todo el oficialismo, si Alberto Fernández decide verdaderamente postularse, y esto no es solamente una estrategia discursiva para poder llegar a terminar el mandato.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque obligaría a todo el oficialismo a hacer campaña hablando mal del propio presidente, eso, a la larga, al único que le suma es a la oposición, porque el oficialismo empieza a funcionar como una especie de arrepentido, de arrepentido sospechoso, porque ¿quién va a creer que Cristina Kirchner no tuvo nada que ver con este gobierno al que designó por un tuit un sábado de la mañana?",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso empieza a notarse cada vez más la intención de Cristina Kirchner, como líder del peronismo, de armar una mesa, lo ha pedido ella, lo pide su hijo, donde Alberto Fernández habilite conversaciones de la CGT, los movimientos sociales, el kirchnerismo, los gobernadores, para darse una estrategia común, y en ese contexto, seguramente, bajar su candidatura.",
+      "score": 0.325,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algo de esto tiene que ver con la reunión que mantuvo Cristina Kirchner la semana pasada con un personaje al que hace muchísimo tiempo no veía, con el que ha tenido mil reproches, sobre todo por el alineamiento que esa persona y su movimiento tuvieron con Macri durante el gobierno de Macri, que es Emilio Pérsico, el líder del movimiento Evita.",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pérsico y el movimiento Evita eran, hasta ahora, uno de los soportes del alicaído y problemático liderazgo de Alberto Fernández.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina lo tomó para ella, lo mandó a llamar, lo recibió.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para preocupación de Fernández, que le preguntó a Pérsico: \"¿Y por qué fuiste?\".",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Fernández dice: \"¿Será que quiere un acuerdo conmigo o será que Pérsico me está mintiendo para justificar lo que podría ser su deslealtad?\".",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es interesante la conducta de Cristina Kirchner como líder, porque hace una especie de espejo con la conducta de Mauricio Macri, que ve las necesidades de Horacio Rodríguez Larreta de armar una red de sostén y también le va pinzando eventuales aliados, sobre todo en el radicalismo.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Crucial para entender lo que pasa en la política argentina hoy.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay como una disociación entre la evaluación del presidente y la cantidad de gente que dice: \"Yo sigo votando al Frente de Todos\".",
+      "score": 0.304,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 2013 y 2015, la gran novedad era que al peronismo se le había desprendido Sergio Massa.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gran novedad en Brasil no es el triunfo o el fracaso de Lula.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gran novedad en Brasil es que la oposición a Lula, que antes se la disputaban entre Bolsonaro y el partido de Fernando Henrique Cardoso, quedó monopolizada por Bolsonaro, por algo más de derecha.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos son los niveles: seguramente votaría, primera columna; podría llegar a votarlo, segunda columna.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquel que no me vota, pero si me moviera muy inteligentemente, si los astros se me alinearan a favor, podría conseguir votos de este, que tal vez me votaría.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bullrich tiene entre estos dos, dosis.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei tiene un seguro, lo votaría, 23%.",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero esta vez no por tres, como en el 15 o en el 13, donde Massa le quitaba votos al kirchnerismo.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, Milei le estaría quitando votos a Juntos por el Cambio.",
+      "score": 0.613,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque podría haber una interna entre estos dos, entre Larreta y Bullrich.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También podría haber una interna entre los tres, con Macri.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También Macri, creo que el sueño de Macri es reemplazar a Bullrich en aquel momento.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero imaginemos, a los efectos teóricos, una pelea entre Larreta y Bullrich.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿El votante desencantado que votó a Bullrich y perdió, va a Larreta o va a Milei?",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ¿hay más afinidad entre Bullrich y Larreta o entre Bullrich, eventualmente, Macri y Milei?",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está jugando con esto, capciosamente.",
+      "score": 0.515,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero si Mauricio, Macri y Bullrich quieren venir, sí, armamos un rancho aparte\".",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le está hablando al votante de Bullrich y al votante de Macri, no a Macri y Bullrich, cuyo negocio sigue siendo estar en Juntos por el Cambio, por un problema de volumen político todavía.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, este es el poder de Cristina Kirchner.",
+      "score": 0.757,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se podría decir de ella lo que decía Borges en su poema sobre rosas, un poco espantado.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, algo parecido pasa con el liderazgo de Cristina Kirchner, que se ve en este cuadro.",
+      "score": 0.329,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina no tiene razón.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es la razón\".",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esos argumentos, entre esos argumentos, hoy ocurrió algo que el kirchnerismo festeja.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un fallo de la provincia de Buenos Aires, de la Cámara de Casación de la provincia de Buenos Aires, es decir, de la justicia provincial.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lo que están discutiendo los abogados de Cristina en el caso Vialidad es si va a haber o no condena por asociación ilícita, lo cual significa una penalidad mayor.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí esos jueces de la provincia de Buenos Aires sostienen, en el caso que ellos están analizando, que es el caso del gerente de Independiente, Héctor Maldonado, de la gestión Moyano en Independiente, que muchas veces la figura de asociación ilícita se usa cuando no hay suficiente prueba como para involucrar a una persona determinada.",
+      "score": 0.336,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Probablemente este sea, no sé si el argumento de Cristina Kirchner mañana, pero sí el argumento de sus abogados frente al tribunal.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un juez hoy le impide el ingreso a la representación radical en un malentendido.",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el criterio del juez Cormick, que impide el ingreso del radicalismo al Consejo de la Magistratura, tendría razón Luis Juez, y debería ser Juez el representante de la segunda minoría por el Senado y no Doñate, como quiere el kirchnerismo.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La tapa de la revista Rostros y las figuras del año, la última novela, la novela que está por sacar en estas horas, no sé cómo la consiguió, Ginés González García, y las últimas noticias, las últimas músicas que nos llegan del casamiento de Jorge Macri y su lista de regalos.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 90
+  },
+  "etiqueta_original": "neutral"
+}

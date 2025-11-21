@@ -1,0 +1,408 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "La Argentina está teniendo un problema con uno de esos flujos, es el flujo de gas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El gobierno inauguró el 21 de abril, con pompa y circunstancia, un gasoducto al que llamó Néstor Kirchner.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Hay todo un enigma dentro del oficialismo respecto de ese *off the record*, porque hay funcionarios en la Casa Rosada que afirman que Kulfas se lo había mandado al presidente antes de hacerlo trascender en la prensa y que otros funcionarios de la Casa Rosada también lo habían visto y que el presidente le dijo: \"Bueno, está bien\", no está claro si lo autorizó o no lo autorizó.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Se le imputa a Santiago Cafiero también un mensaje anónimo defenestrando, destrozando a Federico Basualdo, el subsecretario de Energía Eléctrica, que se negaba a aumentar las tarifas.",
+      "entidades_detectadas": [
+        "cafiero"
+      ]
+    },
+    {
+      "frase": "Obviamente, la Argentina necesita transportar el gas que produciría si hubiera clientes confiados en el país dispuestos a comprarnos ese gas, sobre todo a escala internacional, en un momento en que el mundo carece de gas, como todos sabemos, por la invasión de Rusia a Ucrania.",
+      "entidades_detectadas": [
+        "argentina",
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Rusia es el segundo productor de gas del mundo.",
+      "entidades_detectadas": [
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Es decir, que si tuviéramos una economía ordenada, confiable, después vamos a hablar de todo esto con el presidente de la Asociación de Empresarios Argentinos, con Jaime Campos.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El problema no es solo este, sino que toda la distorsión que hay alrededor de la economía argentina hace que el problema del gas, la deficiencia o el déficit que tenemos en el consumo de gas, como no lo producimos por carencia, inclusive de este gasoducto, lo tenemos que importar y esa importación demanda una cantidad extraordinaria de dólares.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Y acá vino el problema de la semana que pasó, es un problema técnico delicadísimo que nos introduce una crisis financiera, que introduce sobre todo al estado en una crisis financiera que nos afecta a todos, porque determina mayores niveles de inflación.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Entonces, Enarsa, que es una empresa del estado, es decir, depende al final de cuentas de Alberto Fernández, y si consideramos que toda el área energética depende de Martín Guzmán, fue a un fondo de inversión que administra el Banco Nación, el fondo Carlos Pellegrini, se deshizo de títulos públicos, de bonos del estado en pesos que tenía esa empresa para poder conseguir los pesos que le permitieran, al mismo tiempo, comprar los dólares para hacerse del gas necesario, para, entre otras cosas, generar energía eléctrica.",
+      "entidades_detectadas": [
+        "alberto",
+        "carlos",
+        "fondo",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Porque se veía que el nivel de emisión del Banco Central para financiar al Tesoro, que es absorbido después emitiendo títulos en pesos, era tan grande que ya en algún momento el mercado, básicamente los bancos, los fondos de inversión no le iban a prestar al estado sus pesos a cambio de títulos, ¿por qué?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ahí tenemos el fondo Carlos Pellegrini, esta es la venta de bonos del estado de Enarsa que vende sus propios bonos y genera una corriente de percepción y de expectativa de que a este gobierno no hay que prestarle más.",
+      "entidades_detectadas": [
+        "carlos",
+        "fondo",
+        "estado"
+      ]
+    },
+    {
+      "frase": "El mercado entonces empieza a sospechar que el estado no va a pagar la deuda en pesos, claro, ¿qué tendría que hacer el estado para convencer al mercado de que la va a pagar?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Esta semana el gobierno va finalmente a hacer algo que se comprometió a hacer hace bastante tiempo con el Fondo Monetario Internacional, que es emitir el presupuesto por vía de un DNU.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Hay que leer sobre el tema fiscal, la entrevista que le hizo este fin de semana en Perfil Jorge Fontevecchia a Nicolás Dujovne, ahí hay todo un mapa de la cuestión fiscal en la Argentina durante el gobierno de Macri, durante este gobierno.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El problema de no querer equilibrar las cuentas fiscales, la idea de que la emisión no genera inflación, que es un fetichismo, una superstición, la idea de que el estado puede gastar por encima de cualquier restricción, esas ideas, la idea de no querer hacer un ajuste, con perdón de la palabra, nos lleva a esto, que es un ajuste por otra vía, que es la vía más dolorosa, el mercado que le dice: \"Ajustar porque ya no te presto\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Es decir, que el ajuste que no hace la política, el ajuste que no hacen los funcionarios, porque tienen miedo de hacerlo, tienen miedo de pagar costos políticos, lo hace en el fondo el mercado, la inflación.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Va a ser menor que otros meses, pero igual va a ser una inflación muy alta y si no, mire esto, estas son las inflaciones en el mundo: China 2.1 por ciento anual año contra año, Estados Unidos en pánico por 8,6 por ciento año contra año, esto determina toda la discusión acerca de la suba de tasas de interés por parte de la Reserva Federal.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    },
+    {
+      "frase": "Mire dónde estamos nosotros, 58 por ciento anual año contra año, con la perspectiva de que eso se va agravando, solo nos supera Turquía, que siempre va de la mano de la Argentina en los problemas macroeconómicos, también nos pasó lo mismo con el fenómeno de déficit de cuenta corriente que desató la crisis de abril del 2018, que se llevó puesto a la larga el gobierno de Macri.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "También íbamos de la mano con Turquía 73,5 y 222 por ciento Venezuela, que está achicando su inflación por la vía también de un ajuste de mercado como el que estamos viendo en la Argentina ahora.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Y hay una especie de ebullición en toda la Argentina, lo voy a simplificar muchísimo, muchísimo, brutalmente, aclaro que estoy diciendo algo que en parte es mentira, es solo una simplificación: toda la Argentina que vota a la oposición.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En cambio, la Argentina que uno supone es la base electoral y política de este gobierno, a la que el gobierno pretende representar, que son los más vulnerables, los que no tienen un salario en blanco y no están incluidos dentro del sistema laboral como para seguir la inflación con alguna solvencia, esos son los que peor la están pasando.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Si vamos al plan que reciben las cooperativas, que son las que más ligadas están a este universo opositor y también oficialista de los movimientos sociales, cuando digo oficialista, digo el Movimiento Evita de Pérsico y el Chino Navarro, cuando digo oficialista, digo Barrios de Pie, digamos, una cantidad de organizaciones ligadas al kirchnerismo y a Alberto Fernández, sobre todo, inclusive más que a Cristina Kirchner.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "evita"
+      ]
+    },
+    {
+      "frase": "Esos planes que son destinados a cooperativas pasaron de 750 mil a un millón 300 mil en lo que va el gobierno de Alberto Fernández, dos años y pico.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Cristina Kirchner los había dejado en 250 mil.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "El plan Potenciar Trabajo pasó de 250 mil a 750 mil con Macri y de 750 mil a un millón 300 ahora, casi que se duplicaron y ahora se pide más.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Quiere ver cómo mira el conurbano, no solamente si hay líderes sociales antiguos piqueteros que controlan municipios, por ejemplo, del Movimiento Evita, el municipio de Moreno, Mariel Fernández, intendenta, es la mujer del Gringo Castro, probablemente el dirigente social más admirado por con el que más empatía tiene Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "La Matanza, acuérdese, es el municipio donde se fue a refugiar buena parte del kirchnerismo encabezada por Feletti, por Roberto Feletti, cuando Cristina Kirchner deja el poder, es el municipio de la vicegobernadora.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Si hay una disputa de poder entre la política partidaria, los intendentes y esta nueva forma de organización política que surge en la Argentina y se extiende a partir del crecimiento de la pobreza de los últimos 20 años.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Dos cosas: primero, empieza a haber alrededor de los movimientos sociales un negocio de la pobreza, esto lo estamos viendo desde hace mucho tiempo, pero hay una segunda dimensión importante, que es que, contra lo que pensábamos hace 50, 60, 70 años, ahora sí empieza a haber dos Argentinas: una Argentina que puede más o menos consumir servicios de calidad, por ejemplo, internet y telefonía celular, televisión por cable y otra Argentina que va a recibir esos servicios de manera más imperfecta, pero los únicos alcanzables, porque no pueden comprar otra cosa.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Hoy, dentro de la crisis, se defiende más por esta actividad en parte derivada de la inflación y de la destrucción del peso, la clase media del interior de la provincia de Buenos Aires, por ejemplo, que los pobres de los conurbanos que son los que, en teoría, votarían al gobierno y esto genera una crisis dentro del Frente de Todos, porque, sobre todo, porque Cristina Kirchner, que es la titular de esta organización, ve cómo los primeros que están huyendo de su propia organización política son los pobres.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "En las últimas elecciones, el mayor drenaje de votos que tuvo el Frente de Todos de Alberto Fernández fue entre los pobres que tradicionalmente votan kirchnerismo que se van o a la izquierda más radicalizada, o simplemente a la abstención.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Entonces, mire ahora este gráfico es de la consultora Fixer, de Tábacman y Fernández Pedale, que nos muestra la evolución de la imagen negativa de Alberto Fernández, son, es esta línea con cuadrados, y la imagen positiva parece ya una situación estable crónica, estamos hablando desde mayo del 21 hasta mayo del 22.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Fíjense en qué nivel está la imagen negativa de Alberto Fernández, está estable con un pico de 67 por ciento en octubre del 21, las elecciones y ahora en 64 por ciento, perdón, 65 por ciento y esta es la imagen positiva 24 por ciento.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Porque la línea de puntos son los que no terminaron el secundario, se supone, siempre los sociólogos, los analistas de opinión pública identifican al que no terminó el secundario con alguien que está en una situación social más vulnerable, los más pobres y fíjense cómo está la imagen de Alberto Fernández entre los más pobres.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "No solamente convergen, sino que empeora, está peor Alberto Fernández entre la gente más humilde, entre los que tienen más dificultades, que entre los sectores que teóricamente no lo votarían.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "La imagen negativa le va mejor entre los más humildes e imagen positiva acá le va peor, es decir, la línea de puntos da una imagen positiva más baja y esta es masa, pobre, masa está en el fondo del mar, es decir, en niveles de negatividad muy importantes y también estables.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Esto es lo que lo lleva más a pensar que si él lograra ser ministro de Economía y desde el ministerio de Economía con un equipo nuevo, más serio, dar un golpe de timón, podría salir de esta situación y convertirse en el hombre que pudo rescatar al gobierno de el problema central que es la alta inflación, claro, a medida que pasan los días y la cosa se va complicando, como se está complicando en el mercado de bonos en pesos que expresa todo el problema del peso, esa expectativa de Massa debe ser una expectativa menos menos vibrante y, por otra parte, le sale ahora a Massa un competidor en ese campo, Daniel Scioli, que viene al ministerio de Producción y lo vamos a ver cómo es el campaña, campaña, campaña, foto, foto, foto, pyme, pyme, pyme, de acá hasta las elecciones del año que viene, porque él también quiere ser el que le ofrezca a Cristina Kirchner la posibilidad de un rescate que Alberto Fernández no le puede ofrecer.",
+      "entidades_detectadas": [
+        "alberto",
+        "massa",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Ahora, vamos a ver cómo está Cristina y acá está la novedad.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Este es el promedio de la encuesta y esta es la situación de Cristina, de la imagen negativa de Cristina Kirchner frente a los que no terminaron el secundario, superaron al promedio de la encuesta, quiere decir que le está yendo peor entre los pobres.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Frente a este problema, obviamente, un movimiento político instintivo de Cristina Kirchner para diferenciarse del gobierno.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "La pregunta es cuánta agresividad va a demandar que se sepa que está distanciada, porque que sepamos, Alberto Fernández lo puso ella con un tuit un sábado a las 10 de la mañana, ¿cuántos gestos de discordia con Alberto Fernández tendrá que hacer para que esta gente que se le está alejando digan: \"Ella no tiene nada que ver con el drama que vivo, que es que empieza a ser insoportable la vida de los que tienen que tomar el transporte público, de los que viven con un plan o haciendo changas\"?",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Hay quienes suponen, hay quienes suponen que ella está pensando en una interna con un candidato, podría ser Wado de Pedro que enfrente a Alberto Fernández o que enfrente a otro candidato moderado, ya sacándolo a Alberto Fernández de la cancha.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Bueno, Scioli suena a ser él.",
+      "entidades_detectadas": [
+        "scioli"
+      ]
+    },
+    {
+      "frase": "Massa también, Capitanich, ¿alcanza con una paso, alcanza con una interna para diferenciarse?",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Y esto lo piensan muchos economistas, pero también Cristina Kirchner y, en esto, curiosamente, Cristina Kirchner coincide con Mauricio Macri.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "El presidente se postula internacionalmente como reformador del mundo y da clases sobre cómo deben ser las relaciones internacionales y las relaciones de los países fuera del país, que es lo que fue a hacer a la Cumbre de las Américas.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Es curiosísimo cómo razona Alberto Fernández estos temas, es verdaderamente llamativo.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Dio una entrevista a Nacho Girón, en la cadena CNN en español, donde justificó por qué él se convirtió en la Cumbre de las Américas en el vocero de los que no estaban invitados por sus violaciones a los derechos humanos: Nicaragua, Venezuela y Cuba.",
+      "entidades_detectadas": [
+        "venezuela"
+      ]
+    },
+    {
+      "frase": "Dijo que en Venezuela había una mejora en materia de derechos humanos, que no sabemos dónde la vio.",
+      "entidades_detectadas": [
+        "venezuela"
+      ]
+    },
+    {
+      "frase": "Lo que hubo en Venezuela es un cambio en el Tribunal Superior de Justicia, que iba a ser una renovación pretendida por Maduro, que no pudo hacer, porque Maduro también tiene su Cristina Kirchner que lo deja, no lo deja moverse, que es Diosdado Cabello.",
+      "entidades_detectadas": [
+        "venezuela",
+        "cristina",
+        "kirchner",
+        "maduro"
+      ]
+    },
+    {
+      "frase": "De eso parece que Alberto Fernández no está enterado, parece una burla a los venezolanos que están padeciendo una dictadura desde hace muchísimo tiempo, casi parece una dictadura crónica, a la que ahora se le agregó un ajuste salvaje de mercado.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández escuda hablando de Michel Bachelet, que acaba de ser defenestrada por un informe sobre China, donde también ignora Bachelet las violaciones a los derechos humanos en regiones enteras de China, donde hay prácticamente campos de concentración.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Ahora lo curioso es que, cuando Nacho Girón le dice al presidente Fernández: \"Y Nicaragua\", dice: \"No, no, Nicaragua es otro tema\", yo no hablo de Nicaragua, como diciendo: \"Nicaragua, si se violan los derechos humanos, hay que explicarle a Fernández que no hay mucha diferencia entre Nicaragua, Venezuela, es lo mismo\".",
+      "entidades_detectadas": [
+        "nicaragua",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Ahora todo ha grabado en términos diplomáticos, probablemente no de seguridad, porque aparecen la vinculaciones obvias entre el régimen chavista y el régimen iraní, tanto que Maduro le agradeció a los servicios prestados en Los Ángeles, Alberto Fernández desde Teherán, el avión que llegó a Buenos Aires con bandera venezolana, pero avión iraní.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández",
+        "maduro"
+      ]
+    },
+    {
+      "frase": "Ahora, lo más interesante de todo es cuando el periodista le pregunta a Alberto Fernández por Cuba y él contesta esto: \"Y en Cuba, por ejemplo, hay también un gobierno democrático.",
+      "entidades_detectadas": [
+        "alberto",
+        "cuba",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "En Cuba hay un pueblo digno que sobrevive a 60 años de bloqueo.",
+      "entidades_detectadas": [
+        "cuba"
+      ]
+    },
+    {
+      "frase": "Es una idea extraordinariamente muy sorprendente, la idea de que pobreza equivale a tolerar una dictadura, porque es lo que está diciendo, acaba de admitir que no hay calidad institucional, por no decir que hay una dictadura en Cuba y que esa dictadura se justifica, habría que preguntarle a Díaz-Canel qué opina de lo que acaba de afirmar Alberto Fernández en Los Ángeles, se justifica en un bloqueo, que tampoco es bloqueo, y en que no comen todos los días y como no comen todos los días, además de tener la desgracia de no comer todos los días, tienen que tener a su vez la desgracia adicional de que su gobierno no les ofrezca calidad institucional y los oprima con una dictadura.",
+      "entidades_detectadas": [
+        "alberto",
+        "cuba",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Este presidente que razona de esta manera es lógico, no puede hacer un gasoducto y es lógico, no puede entender la relación que hay entre déficit desorbitado, emisión monetaria, reinflación y ahora crisis financiera en el mercado, ya no de dólares, sino de pesos.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Obviamente, que también se traslada al mercado de dólares, porque con un peso más deteriorado, los argentinos subyen hacia el dólar y hoy la brecha llega a cifras récord, con todas las distorsiones que significa un mercado paralelo de cambios cada vez más divergente del dólar oficial que sigue muy atrasado, a pesar de lo que Fernández y Guzmán le ofrecieron al Fondo.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Pareciera que gobernar no es el tema para Alberto Fernández, como dijo Lito Nebbia, que le gusta tanto, solo se trata de vivir.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

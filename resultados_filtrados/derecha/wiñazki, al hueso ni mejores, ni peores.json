@@ -1,0 +1,27 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Que Argentina registre menos muertes que Suecia no implica una superioridad moral o política.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Esta mezcla de juicios morales me preocupa.",
+      "entidades_detectadas": [
+        "morales"
+      ]
+    },
+    {
+      "frase": "Resulta preocupante la inacción de la vicepresidenta Cristina Fernández de Kirchner ante la pandemia, en contraste con la respuesta del presidente Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "presidente",
+        "fernández",
+        "kirchner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 24,
+      "derecha": 29
+    },
+    "score_promedio": 0.5,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En la Argentina hay desde hace tiempo, y ahora se ha agravado, se ha profundizado, un debate ideológico.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, lo que hay es una ruptura respecto de la definición de democracia, y eso se ha acelerado en los últimos días con el ataque de **Cristina Fernández de Kirchner** a la Corte Suprema de Justicia.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este conflicto político-ideológico, que como estamos diciendo tiene que ver con la definición de las cosas, refleja en la Argentina movimientos similares de otros lugares del planeta y de otros lugares de la región.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aquí es donde Venezuela, el concepto de poder que viene dominando a Venezuela desde hace ya muchos años, juega como una especie de espejo respecto del concepto de poder y del concepto de democracia que existe en un sector del oficialismo, sobre todo el que rodea a **Cristina Fernández de Kirchner**.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque dentro de un ratito vamos a estar hablando con **Juan Guaidó**, que es el líder de la oposición venezolana que preside el Congreso de Venezuela, la Asamblea Nacional, y que en esa calidad es reconocido por buena parte de la comunidad internacional, muchos países latinoamericanos, Estados Unidos, la Unión Europea, como el presidente encargado de Venezuela dada la ilegitimidad de **Nicolás Maduro** y su régimen.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guzmán ha abordado, por propia vocación, por su propia inspiración intelectual o también, sumado a esto por la necesidad de establecer un diálogo profesional y técnico con el Fondo Monetario Internacional, una visión del problema económico argentino y sobre todo del problema que está en la raíz de la corrida cambiaria y de la brecha cambiaria, un enfoque que tiene que ver con el exceso de pesos.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la Argentina sobran pesos y ¿por qué sobran pesos?",
+      "score": 0.667,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces Guzmán, en un marco de mentalidad, en un marco conceptual que no le es el más favorable por parte del kirchnerismo, encara el problema del déficit fiscal.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un ajuste en las jubilaciones, un ajuste en el déficit fiscal por la vía de la obra pública, una suspensión muy controvertida dentro del mismo oficialismo del IFE, del ATP, del auxilio a las empresas durante la pandemia y un aumento de tarifas que todavía se está discutiendo porque tiene enormes resistencias por parte, sobre todo de **Cristina Fernández de Kirchner**.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hay una multa que le aplica el ENARGAS, que está dominado por alguien muy ligado a **Cristina** como es **Federico Bernal**, contra Metrogas, que es una empresa de YPF.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una segunda dimensión de la economía que le sonríe al gobierno o por lo menos que lo alivia de una situación muy complicada objetivamente, que es el aumento en el precio de las materias primas que está asociado sobre todo a una recuperación de China mucho más rápida de la que se suponía.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que Guzmán tiene una línea directa con la Secretaría del Tesoro que es muy importante para un país que tiene que sostener su economía en un diálogo permanente con el Fondo Monetario Internacional, porque en el Fondo Monetario Internacional los que mandan son los Estados Unidos.",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nota al margen, este vínculo probablemente vuelva a Guzmán un funcionario inamovible, en la medida en que el gobierno siga pretendiendo enmarcar la política económica en acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El grupo **Olmos** está tratando de buscar un socio para poder quedarse con Telefónica con poca plata, una operación bastante parecida a la de los **Esquenazi** en YPF durante la época de **Néstor Kirchner**.",
+      "score": 0.69,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández que dice: \"Yo soy un hombre de diálogo, vengo a cerrar la grieta, quiero tener una relación con la oposición distinta de la que tuvo el kirchnerismo tradicional\", y agregan: \"distinta de la que tuvo **Macri**, que jamás se reunió con los bloques de la oposición en la Casa Rosada\", decidió, en acuerdo con gobernadores amigos liderados por el gobernador de Tucumán, **Juan Manzur**, que se van a suspender las PASO.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y los diputados de **Manzur** introdujeron un proyecto en la Cámara de Diputados.",
+      "score": 0.485,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi es una ironía de **Máximo Kirchner** frente a ese hombre de diálogo que, como fue hijo de un juez y enseñó 30 años derecho en la facultad, sabe lo que es el Estado de Derecho, me refiero a **Alberto Fernández**.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a **Máximo Kirchner** en ese discurso sobre la coparticipación en el Congreso se le ocurrió tocar un cable de 500 kilowatts.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habló de las transferencias de dinero, de recursos, de la nación a la ciudad en materia de administración del juego.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ya le avisó a los empresarios del juego que están muy ligados al kirchnerismo en el centro de todos, **Cristóbal López**.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Si le sacan los recursos del juego a la ciudad de Buenos Aires, por el solo hecho de que yo soy opositor, le cierro el casino de Palermo\".",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en vísperas de una guerra importante, si es que se produce este nuevo avance de la nación sobre la ciudad.",
+      "score": 0.234,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto está subrayado por la postura de **Cristina Fernández de Kirchner** delante de la Corte.",
+      "score": 0.74,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición dijo: \"Nosotros no lo vamos a prestar a eso\", se lo dijo **Pablo Tonelli** del PRO a **Gerónimo Ustarroz**, que es el hombre del gobierno en el Consejo de la Magistratura.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al juez **Recondo** dicen: \"Bueno, hay que mirar que la semana que viene en el Senado, la esposa de **Recondo**, que es jueza, tiene que lograr que **Cristina Fernández de Kirchner** le apruebe un pliego para que pueda seguir siendo jueza más allá de los 75 años\".",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy lamentable la versión, seguramente no debe ser cierta, que **Recondo** esté apoyando al kirchnerismo en el Consejo de la Magistratura para ver cómo le va a su esposa en el Senado con ese acuerdo.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner** se queja del *loafer*.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les hago lo que dicen que ella le hacen a ella.",
+      "score": 0.74,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora miren este video que es un discurso de **Cristina Fernández de Kirchner** cuando estaba en la oposición durante el gobierno de **Macri** en una asamblea, en una reunión de intelectuales de CLACSO, del Consejo Latinoamericano de Ciencias Sociales, donde ella habla de la arquitectura republicana del Estado constitucional, habla de la división de poderes, en el fondo está hablando de la teoría de Montesquieu, y dice lo siguiente: \"Mírenlo\".",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Alguien se le ocurriría hoy sacar una muela o hacer una operación, si es que existía, de apéndice en aquella época?",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El otro 70 u 80% del poder está fuera, en organizaciones, en organismos, en sociedades, en medios de comunicación, cosas que no están reguladas ni en ninguna Constitución ni en ninguna ley.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner** tiene otra idea de la democracia.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y tiene una concepción del Estado y de la vida pública por la cual todo lo que no está regulado debe estar regulado.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo que está diciendo en este discurso es que todo debe estar regulado porque el Estado debe organizar a la sociedad.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que debe ser una comunidad organizada, como decía el general, desde el Estado.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas ideas ponen en tela de juicio las ideas sobre las cuales se escribió la Constitución Argentina y las ideas de la tradición, digamos, republicana o liberal.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, ahora tenemos un gobierno ilegítimo que lo único que le quedaba por conquistar era el Congreso, la Asamblea Nacional, que preside **Guaidó**, el presidente de la Asamblea con el que vamos a hablar en pocos minutos.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hacer un simulacro electoral presionando a la gente a que vaya a votar con el argumento de **Diosdado Cabello**, que es el segundo del régimen, diciendo que el que no vota no come.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, al que no vaya a votar le sacamos los planes sociales de asistencia en medio de una crisis humanitaria y aún así la gente no fue a votar.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora es clave tener esa asamblea porque es tener el último poder del Estado en manos del régimen y un poder que además sirve para convalidar operaciones económicas como contratos petroleros, contratos de minería, etc.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más, los líderes de la oposición le garantizan a esa gente que se van a destruir los registros por miedo a que aquellos que fueron a votar les quiten los pasaportes.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el 5 de enero vence el mandato de la Asamblea y va a haber una discusión que ya la hay en Venezuela respecto de quién es el Congreso.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las principales democracias del mundo, 18 países latinoamericanos, la Unión Europea, Estados Unidos, dijeron: \"El Congreso sigue siendo esta asamblea que preside **Guaidó**, porque esta elección es ilegítima, es un simulacro, es apócrifa\".",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina no se expide.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo hecho importante sucedió hoy.",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto viene a convalidar o a darle materialidad procesal a las denuncias de **Michelle Bachelet** sobre violaciones de derechos humanos en Venezuela y al dictamen, al informe que hizo una comisión especial de la Comisión de Derechos Humanos de las Naciones Unidas con sede en Ginebra sobre Venezuela, donde plantearon que hay 45 funcionarios del gobierno de **Maduro** involucrados en estos crímenes de lesa humanidad que fueron organizados por **Maduro**, su ministro del Interior y su ministro de Defensa.",
+      "score": 0.522,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La otra novedad, tristísima, la estamos conociendo a lo largo del fin de semana, y tiene que ver con un grupo de venezolanos, creo que todavía no se sabe bien cuántos son, vamos a preguntar ahora al presidente **Guaidó**, que estaban huyendo por la crisis humanitaria que se vive en Venezuela, como ustedes saben, está plagado el mundo de venezolanos que no pueden ya vivir en su país, lo sabemos acá en la Argentina, lo sabemos acá en Buenos Aires, estaban yéndose en un bote, en un barco a Trinidad y Tobago desde un puerto que es Güiria, un puerto, una ciudad balnearia en el estado de Sucre, muy cerca de Trinidad y Tobago, están tratando de cruzar, los rechazan de Trinidad y Tobago y naufragan en la vuelta a Venezuela.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escribió un libro que se llama *Cómo mueren las democracias*, y la tesis de ese libro es que se puede terminar con la democracia sin un golpe de estado de la vieja usanza, con un ataque exterior, los militares que toman el poder.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, puede haber otro tipo de golpe, el golpe que está denunciando, por ejemplo, hoy la oposición en la Argentina con el ataque de **Cristina Fernández de Kirchner** a la corte.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Elisa Carrió** inspiró a Cambiemos para que inicien un período de juicio político en el Congreso.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El filósofo **Kierkegaard**, danés, solía usar una expresión en latín que decía *de te fabula narratur*, es de vos que habla esta fábula, esta historia que parece de otro, está hablando sobre vos.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La historia de Venezuela en muchas dimensiones está hablando sobre nosotros.",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Cristina Kirchner → **Cristina Fernández de Kirchner** (se agregó el apellido materno)\n    *   Alberto Fernández → **Alberto Fernández** (se corrigió el nombre completo, pero no era incorrecto en el original)\n    *   Juan Guaidó → **Juan Guaidó** (no era incorrecto en el original)\n    *   Nicolás Maduro → **Nicolás Maduro** (no era incorrecto en el original)\n    *   Martín Guzmán → **Martín Guzmán** (no era incorrecto en el original)\n    *   Joe Biden → **Joe Biden** (no era incorrecto en el original)\n    *   Janet Yellen → **Janet Yellen** (no era incorrecto en el original)\n    *   Joseph Tiglitz → **Joseph Stiglitz** (se corrigió el apellido)\n    *   Olmos → **Olmos** (no era incorrecto en el original, se mantuvo el nombre)\n    *   Esquenáceos → **Esquenazi** (se corrigió el apellido)\n    *   Máximo Kirchner → **Máximo Kirchner** (no era incorrecto en el original)\n    *   Marcelo Midlin → **Marcelo Mindlin** (se corrigió el apellido)\n    *   Juan Manzur → **Juan Manzur** (no era incorrecto en el original)\n    *   Cristóbal López → **Cristóbal López** (no era incorrecto en el original)\n    *   Pablo Tonelli → **Pablo Tonelli** (no era incorrecto en el original)\n    *   Gerónimo Ustarroz → **Gerónimo Ustarroz** (no era incorrecto en el original)\n    *   Culotta → **Culotta** (no era incorrecto en el original)\n    *   Recondo → **Recondo** (no era incorrecto en el original)\n    *   Silvia Mora → **Silvia Mora** (no era incorrecto en el original)\n    *   Lorenzetti → **Lorenzetti** (no era incorrecto en el original)\n    *   Bonadio → **Bonadio** (no era incorrecto en el original)\n    *   Moro → **Moro** (no era incorrecto en el original)\n    *   Rosenkrant → **Rosenkrantz** (se corrigió el apellido)\n    *   Maqueda → **Maqueda** (no era incorrecto en el original)\n    *   Rosati → **Rosatti** (se corrigió el apellido)\n    *   Highton → **Highton** (no era incorrecto en el original)\n    *   Diosdado Cabello → **Diosdado Cabello** (no era incorrecto en el original)\n    *   Michelle Bachelet → **Michelle Bachelet** (no era incorrecto en el original)\n    *   Steven Levitsky → **Steven Levitsky** (no era incorrecto en el original)\n    *   Elisa Carrió → **Elisa Carrió** (no era incorrecto en el original)\n    *   Kierkegaard → **Kierkegaard** (no era incorrecto en el original)\n    *   Felipe González → **Felipe González** (no era incorrecto en el original)\n    *   Fatú Benzuda → **Fatou Bensouda** (se corrigió el nombre y el apellido)\n\n*   **Corrección ortográfica y de estilo:** Se corrigieron errores menores de ortografía (acentuación, mayúsculas, etc.) y se mejoró la puntuación para facilitar la lectura y la comprensión.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 53
+  },
+  "etiqueta_original": "neutral"
+}

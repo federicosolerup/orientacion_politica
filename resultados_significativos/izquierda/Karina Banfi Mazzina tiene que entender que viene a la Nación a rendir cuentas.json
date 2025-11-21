@@ -1,0 +1,151 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 13,
+      "derecha": 14
+    },
+    "score_promedio": 0.464,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Una canción de los años 2000 que, a casi 20 años de diferencia, puede representar lo que debe sentir Alberto Fernández cada vez que hace algo y todo el mundo se lo critica.",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo recuerdo una vez que el padre de Mauricio Macri me llamó consultándome cómo comunicar bien un problema que él tenía en una de sus empresas, y yo le transmití que no hay forma de comunicar bien algo malo.",
+      "score": 0.305,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y creo que en este momento del gobierno de Alberto Fernández, todo lo que se comunique va a ser leído con desdén.",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le voy a pedir a la producción que lo coloque en pantalla para aquellos que, además, no nos están viendo.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es la imagen que mostraron la mayoría de los medios ayer de Alberto Fernández.",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo decía Eliseo Verón en su canónico libro \"La Semiosis Social\".",
+      "score": 0.589,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, es el receptor el que coloca el significado del mensaje, no el emisor, no es quien emite con su intención de comunicar, sino quien recibe con su intención de recibir el que le da significado a ese significante.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la situación que afronta hoy el presidente Fernández en su último año, año y poco de gobierno que va a ser complejo cruzar.",
+      "score": 0.612,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí tenemos a Pablo Moyano, ahora diciendo que, como era menemista, espera con ironía que ojalá haya cambiado.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos 20 segundos de Pablo Moyano: \"No la conozco, bueno, ojalá que pueda enderezar toda esta situación que viven millones de trabajadores.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá que haya cambiado y que le deseamos lo mejor porque va a ser mejor para los trabajadores\".",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá haya cambiado, Pablo Moyano, irónico allí.",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el último, el mal recibimiento, mal venido a la ministra de Trabajo es el del dirigente de UPSRA, Andrés Rodríguez, escuchemos su versión: \"Kelly es muy querida, es una compañera militante del peronismo de hace muchísimos años.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son los problemas que viene señalando la CGT como principales preocupaciones, generar una política de empleo decente, de empleo formal, para reducir la informalidad, por supuesto que es bastante importante, y por ahí no perder el poder adquisitivo de los salarios.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los ministros son finalmente agentes dependientes de la política del poder ejecutivo y, cuando digo poder ejecutivo, me refiero, escuchando lo que decían ustedes recién, a la fórmula del poder ejecutivo, es decir, al presidente y a la vicepresidenta, claramente hay una responsabilidad de ambos, aunque algunos tratan de sacarse la responsabilidad encima, que es el caso de Cristina, pero los problemas que tienen los ministerios de Desarrollo Social son dos: uno es el ajuste y el otro es la interna.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, agentes de una política general, por lo tanto, sea quien fuera ministro, no le va a gustar al señor Belliboni.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay forma de que nada que venga de Alberto Fernández le guste a determinado tipo de personas.",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a tener primero una crítica de Karina Baffi, la diputada de la Unión Cívica Radical: \"La señora Mazzina tiene que entender que viene a la nación a rendir cuentas.",
+      "score": 0.498,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La señora Mazzina tiene que entender que viene a la nación a rendir cuentas, porque tiene pasado.",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si nosotros no le podemos resolver lo mínimo, que es ser atendido por alguien que tiene el deber, como un gobernador, como el ministro de Seguridad.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y ahora, qué le echamos a la exgobernadora de la provincia de Buenos Aires?",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, creo que hoy esa es una urgencia de segundo orden en la Argentina.",
+      "score": 0.656,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, los problemas de los argentinos siguen ahí y siguen ahí hoy y van a seguir ahí el 10 de diciembre del año que viene, aun cuando este plan llegar funcione, porque no está resolviendo ninguno de los problemas estructurales, ni va a bajar la inflación, ni va a generar trabajo formal, que es lo que le está pasando a la Argentina.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lo que hay es parche más parche más parche más parche.\"\n\nRecuerdo un texto académico del exministro Martín Guzmán sobre el sistema de cambios múltiples, con decenas de sistemas de cambio diferentes que vamos a tratar de rescatarlo para compartirlo con la audiencia.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él decía que el enamoramiento es dar lo que uno no tiene a alguien que no es, y que en la etapa de ese enamoramiento, a su objeto amor lo llenaba de virtudes que carecía, y entonces, como lo veía tan deseable, se disfrazaba él mismo de muchas virtudes que también carecía.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso es lo que se le dijo al dicho popular de que se convirtió en sapo.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que bueno, \"Me tenés podrido\" va a ser algo que Alberto Fernández va a tener que soportar durante, creo que son 14 o 15 meses que le queda.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 27
+  },
+  "etiqueta_original": "neutral"
+}

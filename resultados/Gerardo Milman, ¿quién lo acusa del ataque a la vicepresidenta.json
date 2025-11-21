@@ -1,0 +1,1646 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "¿Cómo les va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy buenos días, bienvenidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es el modo Fontevecchia, sí, estamos arrancando un nuevo programa de Fontevecchia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto, la semana que viene estará regresando de su viaje al exterior, donde se encuentra en este momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos escuchando un tema de Tabaré Cardozo, se llama \"Todos contra Todos\", es un tema del año 2016.",
+      "entidades_detectadas": [
+        "Tabaré Cardozo"
+      ]
+    },
+    {
+      "frase": "Es un tema uruguayo, obviamente, pero expresa un poquito la situación que se vive en nuestro país, donde, lejos de lo que obviamente todos desearíamos, todos parecen estar contra todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, el título de todos los diarios tiene que ver con la situación judicial de Cristina, por un lado, causas que se reabren contra la exvicepresidenta de la Nación, pero, obviamente, el tema excluyente es el video que a esa hora la vicepresidenta colgaba de las redes para tener repercusión durante todo el día y una fuerte respuesta de Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "Nación",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Saludo a mis compañeros aquí en la mesa, muy buenos días y, si les parece a todos ustedes, vamos a ir repasando para meternos ya de lleno en el análisis de esto, algunas de las partecitas de lo que decía en este caso la colega **Mengolini** allí en el video, en el que habla de una Cristina víctima, de una Cristina perseguida, de una Cristina a la que quieren ver presa o muerta, así habla Mengolini del partido, lo que ella llama el partido judicial.",
+      "entidades_detectadas": [
+        "Mengolini",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Escuchamos un poquito parte de este video de Cristina Fernández de Kirchner, colgado desde ayer en las redes, que habla de **Gerardo Milman**, todos los dardos hacia este diputado de la oposición.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Gerardo Milman"
+      ]
+    },
+    {
+      "frase": "Días más tarde del atentado, un testigo se presentó en el juzgado de **Capuchetti** para aportar información.",
+      "entidades_detectadas": [
+        "Capuchetti"
+      ]
+    },
+    {
+      "frase": "Declaró que dos días antes del atentado, en el bar Casa Blanca, en la esquina del Congreso Nacional, escuchó decir al diputado Gerardo Milman, junto a dos mujeres que lo acompañaban, lo siguiente: \"Cuando la maten, yo voy a estar camino a la costa\".",
+      "entidades_detectadas": [
+        "Congreso Nacional",
+        "Casa Blanca",
+        "Gerardo Milman"
+      ]
+    },
+    {
+      "frase": "Se constataron judicialmente las afirmaciones del testigo; el testigo estaba ese día en el lugar y hora que indicó, Milman estaba en el bar Casa Blanca a la misma hora que declaró el testigo y, efectivamente, estaba acompañado por dos mujeres que, se comprobó, son sus asesoras en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Casa Blanca",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Al otro día viajó a la costa, a los dos días quisieron asesinar a Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Cuando las asesoras de Milman declararon en la causa, primero negaron la reunión y su presencia en Casa Blanca hasta que les mostraron las imágenes entrando y saliendo del bar, recién entonces admitieron que aquella reunión había existido.",
+      "entidades_detectadas": [
+        "Casa Blanca",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Pese a que iniciaron su declaración bajo juramento mintiendo, la jueza Capuchetti no tomó ninguna medida para seguir investigando.",
+      "entidades_detectadas": [
+        "Capuchetti"
+      ]
+    },
+    {
+      "frase": "Milman todavía no fue citado a declarar en la causa.",
+      "entidades_detectadas": [
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Ahí escuchábamos a **Julia Mengolini** haciendo la locución de este video en el que Cristina pone otra vez en boca de todos el nombre de Gerardo Milman, por supuestamente las declaraciones que hizo este testigo, este testigo que se llama **Jorge Avello**.",
+      "entidades_detectadas": [
+        "Julia Mengolini",
+        "Gerardo Milman",
+        "Cristina",
+        "Jorge Avello"
+      ]
+    },
+    {
+      "frase": "¿Quién es Jorge Avello?",
+      "entidades_detectadas": [
+        "Jorge Avello",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Bueno, es un hombre que en su momento trabajó junto al diputado **Marco Cleri**.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Marco Cleri"
+      ]
+    },
+    {
+      "frase": "Marco Cleri es un hombre de La Cámpora de la provincia de Santa Fe, fue su asesor.",
+      "entidades_detectadas": [
+        "provincia de Santa Fe",
+        "Marco Cleri",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Luego quedó prácticamente sin trabajo cuando llega al gobierno Mauricio Macri y hoy por hoy es la persona que supuestamente en este bar, el bar llamado Casa Blanca, en medio de muchísimo ruido y bullicio, escucha, según lo que declara ante la justicia, al diputado Milman decir que cuando mataran a Cristina, él iba a estar camino a la costa.",
+      "entidades_detectadas": [
+        "Casa Blanca",
+        "Cristina",
+        "Mauricio Macri",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Esto es lo que está queriendo comprobar la jueza Capuchetti, que ahora es recusada o va a ser recusada por Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Capuchetti"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar un poquito del apoyo que la vicepresidenta de la Nación recibía de parte del kirchnerismo.",
+      "entidades_detectadas": [
+        "Nación"
+      ]
+    },
+    {
+      "frase": "Por un lado, **Oscar Parrilli**, preguntándose cómo sabía Milman lo que podía llegar a suceder.",
+      "entidades_detectadas": [
+        "Oscar Parrilli",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Es decir, el 30 de agosto, perdón, unos dos días antes del atentado hace un pedido de informe, lo firmó él, al ministro de Seguridad **Aníbal Fernández**, donde le reclama por qué se estaba ampliando la seguridad de Cristina.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Aníbal Fernández"
+      ]
+    },
+    {
+      "frase": "¿Qué hipótesis de atentado había?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo pregunto cómo sabía él cómo es la seguridad de Cristina Kirchner, qué le daba información y qué sabía él de este tema de un posible atentado a Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Es decir, el 30 de agosto, perdón, unos dos días antes del atentado hace un pedido de informe, lo firmó él, al ministro de Seguridad Aníbal Fernández donde le reclama por qué se estaba ampliando la seguridad de Cristina.",
+      "entidades_detectadas": [
+        "Seguridad",
+        "Cristina",
+        "Aníbal Fernández"
+      ]
+    },
+    {
+      "frase": "¿Qué hipótesis de atentado había?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo pregunto cómo sabía él cómo es la seguridad de Cristina Kirchner, qué le daba información y qué sabía él de este tema de un posible atentado a Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Ahí estaba el senador Oscar Parrilli planteando dudas sobre el porqué Milman sabía de esto, y habló también al diputado **Rodolfo Tailhade**, también respaldando las acusaciones que hace Cristina en el video publicado ayer.",
+      "entidades_detectadas": [
+        "habló",
+        "Rodolfo Tailhade",
+        "Oscar Parrilli",
+        "Cristina",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Yo no podría decir que está involucrado en el atentado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo, al igual que Cristina, que es lo que está pidiendo, estoy pidiendo que se investigue.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Cristina no está pidiendo que se lo meta preso, no está pidiendo que se lo indague y se lo procese.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "La investigación de esa pista, nada más, y yo, en esa línea, coincido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que sí no tengo dudas, no tengo dudas, es que lo que escuchó el testigo es lo que dijo Milman.",
+      "entidades_detectadas": [
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Después, si lo dijo porque es un bocón, un chanta o porque efectivamente está involucrado en el atentado, veremos.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "No tengo dudas de que el testigo no miente en esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y cómo sabemos todos cómo el nombre del testigo justamente es Jorge Avello y que en su momento trabajó con un hombre referente de La Cámpora en la provincia de Santa Fe, Marco Cleri?",
+      "entidades_detectadas": [
+        "provincia de Santa Fe",
+        "¿",
+        "Jorge Avello",
+        "Marco Cleri",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Bueno, eso lo explica justamente por parte del Ministerio de Justicia **Juan Martín Mena** y de la Cámara de la Paz.",
+      "entidades_detectadas": [
+        "Juan Martín Mena",
+        "Bueno",
+        "Cámara de la Paz",
+        "Ministerio de Justicia"
+      ]
+    },
+    {
+      "frase": "¿Y el paradero o la identidad del testigo que se estaba manteniendo en reserva?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Si no, que más lo denunciaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo están investigando por falso testimonio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un ciudadano tardó 20 días en animarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El atentado fue el 1º de septiembre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tardó 20 días en animarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un hecho que es muy característico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta persona escucha lo que escucha y ve a Milman en el bar el 30 de agosto, dos días antes del atentado.",
+      "entidades_detectadas": [
+        "Milman"
+      ]
+    },
+    {
+      "frase": "A los 40 minutos del atentado, estaba viendo la tele, lo que pasaba, que ni siquiera lo entendíamos nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La primera media hora estábamos todos en...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, qué pasó, pero había un arma, no había un arma, todos movilizándonos a poner a trabajar, obviamente, pero le manda un mensaje a un diputado del bloque, porque es un empleado legislativo, porque en Casa Blanca van todos los empleados del Congreso a almorzar, básicamente.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Casa Blanca"
+      ]
+    },
+    {
+      "frase": "Dice: \"No puedo creerlo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, de hecho, se equivoca, él creía que había sido el día anterior y se comprobó que había sido el 30.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Ayer escuché a Milman decir esto, estoy temblando, a los 40 minutos del hecho.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "22:36.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El diputado le dijo: \"Mirá, tenés que ir a decirlo a la justicia\", el tipo estaba muerto de miedo.",
+      "entidades_detectadas": [
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Claro, lógicamente.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Si escuché que estaban...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "que iban a matar a la vicepresidenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Imaginate a mí, que te dieron un contratico en el Senado.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Estaba muerto de miedo el hombre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 23 de septiembre se anima a ir al juzgado y a declarar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se tomó una sola medida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, él declara, estaba con mi cuñado, que no tiene nada que ver con la política, no trabaja en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Al cuñado lo llamaron 16 días después de que declaró el testigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí estaba hablando en representación, vos, del Ministerio de Justicia, Mena, pero reiteremos esto.",
+      "entidades_detectadas": [
+        "Mena",
+        "Ministerio de Justicia"
+      ]
+    },
+    {
+      "frase": "Jorge Avello, que es el testigo al que se refiere, en ese caso Mena y también Cristina, cuando hace su acusación, trabaja hoy con el diputado Marcos Cleri, hombre de La Cámpora, en la provincia de Santa Fe, diputado del Frente de Todos.",
+      "entidades_detectadas": [
+        "provincia de Santa Fe",
+        "Frente de Todos",
+        "Jorge Avello",
+        "Marcos Cleri",
+        "Cristina",
+        "La Cámpora",
+        "Mena"
+      ]
+    },
+    {
+      "frase": "Diputado nacional, representando a la provincia de Santa Fe.",
+      "entidades_detectadas": [
+        "provincia de Santa Fe"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar cómo salió a responder la oposición fuerte en el día de ayer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo hizo como un comunicado, junto con el cambio, y después en las voces de algunos referentes, como, por ejemplo, del diputado **Waldo Wolff**, que decía en el cien.",
+      "entidades_detectadas": [
+        "Waldo Wolff"
+      ]
+    },
+    {
+      "frase": "Buscan algo y te arman toda una historia en función de algo que encontraron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen: \"Milman tiene una secretaria que tiene una socia que es panelista de Crónica en un horario que no tiene nada que ver ni entrevistó a los copitos\".",
+      "entidades_detectadas": [
+        "Milman",
+        "Crónica"
+      ]
+    },
+    {
+      "frase": "Esa es la conexión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora digo, al periodista que entrevistó varias veces a los copitos, no lo vincularon.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A los diputados que hicieron conexiones con los acusados, no los vincularon.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, ¿cuál es la conexión de Milman?",
+      "entidades_detectadas": [
+        "¿",
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Encontraron esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes saben que hay una teoría, le digo a la gente, esta es una teoría que si la googlean, la teoría de los siete pasos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos, si buscas una conexión mía con cualquier persona que viva en la ciudad, con siete contactos vas a encontrar que es amigo, que es amigo, que es amigo de un amigo.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Ahí estaba el diputado Wolff y, mientras tanto, salió muy fuerte también la presidenta o la titular del Pro, **Patricia Bullrich**.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Wolff"
+      ]
+    },
+    {
+      "frase": "Por nosotros no dijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este caso ataca a la doctora Capuchetti.",
+      "entidades_detectadas": [
+        "Capuchetti"
+      ]
+    },
+    {
+      "frase": "La doctora Capuchetti está haciendo una investigación, las investigaciones corren por su lado y esto que dice Cristina Fernández de Kirchner no figura en la investigación de Capuchetti.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Capuchetti"
+      ]
+    },
+    {
+      "frase": "Esto es un invento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La persona que dice haberme investigado a Gerardo Milman es una persona que dijo que era senador, después dijo que era diputada, después dijo que era asesor, como cualquier cosa.",
+      "entidades_detectadas": [
+        "Gerardo Milman"
+      ]
+    },
+    {
+      "frase": "Nosotros estamos acostumbrados a esto, pero también hemos decidido ya hace muchos años enfrentar la mentira, no dejar correr el relato kirchnerista y saber que ellos, con tal de desafiar a la justicia, que es la que está condenando los hechos concretos de Cristina Fernández de Kirchner como presidenta de la Nación, llevándose parte del bienestar de los argentinos, estamos absolutamente decididos a enfrentar todos y cada uno de los relatos y las mentiras que llevan adelante.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Nación"
+      ]
+    },
+    {
+      "frase": "Así que con nosotros, Cristina no.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Con nosotros, Cristina no, decía Patricia Bullrich y el vicepresidente del Pro y, además, protagonista de toda esta historia, el diputado Milman, que dijo ayer, a esta hora, uno de los primeros, que obviamente salió en defensa propia, dijo que sentía estar viendo una película.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Milman",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Me pareció estar viendo una película de ciencia ficción, pero la verdad es que yo fui viceministro de Seguridad en la Argentina con Patricia Bullrich y nosotros vivimos el caso Maldonado.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Maldonado",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Durante varios meses se juntaron en plazas multitudinarias en la Plaza de Mayo por un testigo también que con los binoculares decía que se lo habían llevado y lo habían desaparecido gendarmes.",
+      "entidades_detectadas": [
+        "Plaza de Mayo"
+      ]
+    },
+    {
+      "frase": "Sí, tal cual, **Matías Santana**, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Matías Santana"
+      ]
+    },
+    {
+      "frase": "Efectivamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que este falso testimonio hizo que muchos argentinos creyeran que en realidad habían desaparecido en la Argentina con lo que esto, la connotación de esta figura tiene para todos nosotros después de la década de los 70.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Así que ¿quieren inventar otra historia?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Antes lo hicieron con la comunidad judía de la Argentina.",
+      "entidades_detectadas": [
+        "judía de la Argentina"
+      ]
+    },
+    {
+      "frase": "Este es el modus operandi de inventar falsos testimonios de testigos, pero en este caso el falso testigo, que además es un exlegislador de Santa Fe, del Frente para la Victoria, el Frente de Todos, como se llaman, el asesor de un diputado de La Cámpora, estaba sentado con otra persona, aparentemente un familiar, que declaró en la causa y dijo no escuchar lo que esta persona dijo escuchar.",
+      "entidades_detectadas": [
+        "Frente para la Victoria",
+        "Santa Fe",
+        "Frente de Todos",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Hasta ahí, Gerardo Milman, alegomel, buen día.",
+      "entidades_detectadas": [
+        "Gerardo Milman"
+      ]
+    },
+    {
+      "frase": "De esto se habló durante toda la tarde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue tomando cada vez más fuerza el tema de la recusación de Cristina, pero además de la señalización permanente a Milman y el respaldo que salió a darle algo de lo que nos preguntábamos ayer.",
+      "entidades_detectadas": [
+        "Milman",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Cómo iba a actuar Juntos por el Cambio?",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "¿Si se iban a ver divisiones o se iba a mostrar sólidos frente a este ataque de la vicepresidenta al diputado Milman?",
+      "entidades_detectadas": [
+        "Milman"
+      ]
+    },
+    {
+      "frase": "Buen día, Nuria.",
+      "entidades_detectadas": [
+        "Nuria"
+      ]
+    },
+    {
+      "frase": "Sí, efectivamente, tema que va a seguir rodando durante estos días, porque realmente causó impacto el video que habíamos ayer tempranito de Cristina Fernández de Kirchner y, efectivamente, el bloque de Juntos por el Cambio salió rápidamente a defender a Gerardo Milman.",
+      "entidades_detectadas": [
+        "Gerardo Milman",
+        "Cristina Fernández de Kirchner",
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Hay una voz de todavía no se escucha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, la de **Horacio Rodríguez Larreta** sobre este tema todavía no se escuchó.",
+      "entidades_detectadas": [
+        "Horacio Rodríguez Larreta"
+      ]
+    },
+    {
+      "frase": "Algo similar pasa desde el oficialismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se escuchaban las voces cercanas, sobre todo a la vicepresidenta, defendiendo el video, dándole a esta relación entre el atentado y la oposición, pero desde el poder ejecutivo todavía tampoco hubo una voz oficial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas veces, **Alberto Fernández** vía tuits se refiere a los temas judiciales.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Está bien, es cierto que está en una gira y está en Francia, está con mucha, mucha actividad.",
+      "entidades_detectadas": [
+        "Francia"
+      ]
+    },
+    {
+      "frase": "De hecho, algo habló ayer con el presidente **Macron**, pero todavía no se expidió desde ese punto de vista.",
+      "entidades_detectadas": [
+        "Macron"
+      ]
+    },
+    {
+      "frase": "Pero el tema judicial está cruzando toda la actividad de la vicepresidenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hubo novedades con el tema OdeSur también, todo lo que sabemos con respecto a su pelea con la Corte Suprema de Justicia y lo que se espera antes de fin de año.",
+      "entidades_detectadas": [
+        "Corte Suprema de Justicia"
+      ]
+    },
+    {
+      "frase": "Una resolución y un fallo con respecto a la causa Vialidad, una causa que la tiene muy comprometida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, muy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a seguir, obviamente, con este análisis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Saludo a mis compañeros para actualizar un poquito el clima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Maggie Moscardo** y **Rodrigo Galo**.",
+      "entidades_detectadas": [
+        "Maggie Moscardo",
+        "Rodrigo Galo"
+      ]
+    },
+    {
+      "frase": "Un día que también vendrá con alta temperatura, que ya está ahora bastante cálido, imaginamos un poco más tarde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "21 grados ocho décimas, la temperatura a esta hora en la ciudad de Buenos Aires.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "74% de la humedad, el cielo está ligeramente nublado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para hoy se espera una máxima de 29 grados con tiempo bueno y el cielo parcialmente nublado por la mañana y por la tarde, sí, mayormente nublado hacia la noche y mañana se espera lluvia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algunos incidentes que complican los ingresos a la ciudad de Buenos Aires en Panamericana, altura de Tames, un choque hacia el enlace con General Paz.",
+      "entidades_detectadas": [
+        "Panamericana",
+        "Tames",
+        "ciudad de",
+        "General Paz"
+      ]
+    },
+    {
+      "frase": "Demora también el acceso oeste por un incidente a la altura de El Palomar.",
+      "entidades_detectadas": [
+        "El Palomar"
+      ]
+    },
+    {
+      "frase": "Hay gran retraso desde la zona de Ituzaingó.",
+      "entidades_detectadas": [
+        "Ituzaingó"
+      ]
+    },
+    {
+      "frase": "Choque también en Camino Negro a la altura de la calle Virgen de Itatí mano hacia Puente La Noria y atención, movilizaciones, a las nueve de la mañana se esperan manifestantes en la zona de Congreso y a las diez en la zona de la Estación Constitución.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Camino Negro",
+        "Puente La Noria",
+        "Virgen de Itatí",
+        "Estación Constitución"
+      ]
+    },
+    {
+      "frase": "A esta hora los servicios circulando sin problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Rosendo Fraga** es analista político, periodista, historiador, miembro de la Academia Argentina de la Historia, de la Academia Nacional de Ciencias Morales y Políticas, del Consejo Argentino de Relaciones Internacionales.",
+      "entidades_detectadas": [
+        "Consejo Argentino de Relaciones Internacionales",
+        "Academia Nacional de Ciencias Morales y",
+        "Rosendo Fraga",
+        "Políticas",
+        "Academia Argentina de la Historia"
+      ]
+    },
+    {
+      "frase": "Cary, gracias, Rosendo, por atendernos.",
+      "entidades_detectadas": [
+        "Cary",
+        "Rosendo"
+      ]
+    },
+    {
+      "frase": "Soy Nuria Améz, es el programa de Jorge Fontevecchia.",
+      "entidades_detectadas": [
+        "Soy Nuria Améz",
+        "Jorge Fontevecchia"
+      ]
+    },
+    {
+      "frase": "¿Cómo le va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias a usted por llamarme.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por favor, bueno, ¿cómo está viendo, Rosendo, toda esta situación?",
+      "entidades_detectadas": [
+        "Rosendo"
+      ]
+    },
+    {
+      "frase": "Digo, una, un cruce, nosotros hoy abríamos con este tema de todos contra todos, cruces muy fuertes, pero además ahora una acusación directa de la vicepresidenta de la Nación hacia un diputado de la Nación que vuelve a poner a Cristina con una recusación a la jueza en el centro de la escena.",
+      "entidades_detectadas": [
+        "Nación",
+        "Cristina",
+        "Digo"
+      ]
+    },
+    {
+      "frase": "Yo diría lo siguiente, hay dos palabras: polarización y fragmentación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La idea que transmite polarización es contraria a la que transmite un cierto fraccionamiento o fragmentación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es que tenemos el problema que las dos situaciones se dan al mismo tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las controversias por la investigación del atentado contra Cristina Kirchner, yo lo digo, es un ejemplo de polarización.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Ese enfrentamiento que hay entre oficialismo y oposición, que es político, en parte ideológico, y que ha tenido...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y que ha tenido...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "y se nos fue Rosendo.",
+      "entidades_detectadas": [
+        "Rosendo"
+      ]
+    },
+    {
+      "frase": "Bueno, hablábamos con Rosendo Fraga, de lo que obviamente hoy es el título de todos los diarios, hablaba Rosendo de la polarización y de la fragmentación.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Rosendo Fraga",
+        "Rosendo"
+      ]
+    },
+    {
+      "frase": "Tenemos, ahora él lo va a definir obviamente mejor, por un lado, la sociedad polarizada respecto a lo que puede llegar a ser su decisión para el año próximo, al momento de votar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y, por otra parte, en la vereda de enfrente, una oposición absolutamente atomizada y fragmentada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exactamente, Nuria, lejos estamos de salir de la grieta.",
+      "entidades_detectadas": [
+        "Nuria"
+      ]
+    },
+    {
+      "frase": "Y la grieta que produce algunas cosas increíbles, como la declaración, el video de **Gabriela Cerruti**, la portavoz oficial, explicando y diciéndole a una visita extranjera, a una española, que las piedras que están allí, recordando el COVID, habían puesto a la derecha.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti",
+        "COVID"
+      ]
+    },
+    {
+      "frase": "Bueno, te cuento, hace minutos nada más tuvo que salir a pedir disculpas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La vocera presidencial Gabriela Cerruti, vía tuit, pidió disculpas.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "Cerruti por lo que dijo, que causó mucho revuelo y hasta estaba viendo la renuncia de la portavoz oficial, dice Gabriela Cerruti en un tuit, \"Cometí un error al querer señalar el uso de la política del dolor y la muerte que hicieron y siguen haciendo algunos sectores.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "Lamento profundamente si algún familiar de víctimas del COVID que ha homenajeado a sus seres queridos dejando simbólicamente piedras se sienta ofendido por mis palabras.",
+      "entidades_detectadas": [
+        "Lamento"
+      ]
+    },
+    {
+      "frase": "Les pido sinceras disculpas y reitero mi respeto y acompañamiento al dolor y al duelo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tuvo que salir a pedir disculpas Gabriela Cerruti, por lo que dijo con respecto a las piedras que les había puesto la derecha.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "Bueno, mejor así, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Digo, esperemos que no se...",
+      "entidades_detectadas": [
+        "Digo"
+      ]
+    },
+    {
+      "frase": "A veces parece tarde la disculpa, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Porque al momento uno imagina que es obvio que puede imaginar que va a causar un impacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ella misma había subido el video.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, por eso.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Rosendo, retomamos la comunicación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablabas de la polarización y la fragmentación.",
+      "entidades_detectadas": [
+        "Hablabas"
+      ]
+    },
+    {
+      "frase": "Bueno, yo, resumiendo, el episodio, la controversia por la investigación del atentado contra Cristina, claramente es un tema que ubica la política polarizada profundamente enfrentada.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Ahora, al mismo tiempo, el oficialismo dividido en tres, digamos, por los tres funcionarios que comparten el ejercicio del poder y, de otro lado, una oposición con un PRO-amnistizo dividido en tres, un radicalismo también con división central, a su vez con conflicto interno, ¿no es cierto?, con Picheto, coalición interna también, o quizás más, dividido.",
+      "entidades_detectadas": [
+        "¿",
+        "Picheto"
+      ]
+    },
+    {
+      "frase": "Entonces, claro, y si bajara a los actores sociales con influencia política, al final, el radicalismo dividido entre esos cuatro movimientos sociales en tres, bueno, entonces, polarización en lo político e ideológico, yo diría, y fragmentación en las estructuras políticas al mismo tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué puede cambiar el escenario?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Porque la verdad es que parece que no hubiese mucho por hacer de acá a 2023, digo, la aparición de un tapado hasta ahora que podría llegar a esta formación que está siendo parte del Partido Justicialista de la Provincia de Buenos Aires, de lo que no quieren llamar ahora una tercera vía, sino viniendo a romper justamente con lo que entienden es esa polarización que nos suma.",
+      "entidades_detectadas": [
+        "Partido Justicialista de la Provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Bueno, yo diría que eso, más que la polarización, se ubica en la fragmentación, ¿no es cierto?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿"
+      ]
+    },
+    {
+      "frase": "De cierto punto de vista es una expresión más que no unifica, fragmenta, ¿no es cierto?, pero lo que puede cambiar es la realidad y la realidad es el campo económico-social.",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Un año tras la elección, una situación económico-social como la que tenemos, realmente muy difícil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y entonces va a ser difícil que la situación económico-social continúe como separada, ¿no es cierto?, de la política, porque la fragmentación de la política se da porque, en gran medida, pareciera que lo único que importa es la elección, que la discusión del rumbo del país en lo económico-social, el exterior social, el exterior económico, fuera un tema que no importa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y 12 meses hasta la elección es un plazo demasiado alto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces yo no creo que pueda seguir el cuadro político desvinculado de la realidad por 12 meses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Digo, las expectativas que tiene el Gobierno Nacional, el otro día lo decía Sergio Massa de llegar al año próximo con un 3 o un 4% de inflación.",
+      "entidades_detectadas": [
+        "Gobierno Nacional",
+        "Digo",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "¿Cree que esto es posible con las medidas que viene tomando adelante del Gobierno?",
+      "entidades_detectadas": [
+        "¿Cree",
+        "Gobierno?"
+      ]
+    },
+    {
+      "frase": "Y en ese caso, si Sergio Massa tuviese ese éxito, si eso lo lograra, ¿podría cambiar la realidad, sobre todo, para el kirchnerismo más duro?",
+      "entidades_detectadas": [
+        "¿",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Creo que llegar a elecciones con inflación entre 4% es posible, pero improbable, de cualquier rumbo que se está manteniendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Posible, pero improbable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que el Gobierno tiene, aunque sea paradójico, porque para la gente la inflación es la primera prioridad.",
+      "entidades_detectadas": [
+        "Gobierno"
+      ]
+    },
+    {
+      "frase": "Para el Gobierno no es tan así.",
+      "entidades_detectadas": [
+        "Gobierno"
+      ]
+    },
+    {
+      "frase": "Hay otro enfoque hasta ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llegar con 3 o 4% me parece, incito, posible, pero improbable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y de parte de la oposición, ¿se va a rociar la vez para un poco mejor?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Ve aprovechando esta situación estratégicamente a nivel político o no?",
+      "entidades_detectadas": [
+        "¿Ve"
+      ]
+    },
+    {
+      "frase": "No, yo creo que el problema de la oposición queda por descontado que ya ganó la elección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, si yo creo que ya ganó la elección, que con esta economía el Gobierno no puede ganar, entonces lo que me queda es discutir quién va a ser y qué va a ejercer el poder.",
+      "entidades_detectadas": [
+        "Gobierno"
+      ]
+    },
+    {
+      "frase": "Que es lo que está pasando en este momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que el Gobierno, la oposición tiene que reflexionar que nadie un año antes tiene ganado la elección en el mundo hoy, ¿no es cierto?",
+      "entidades_detectadas": [
+        "¿",
+        "Gobierno"
+      ]
+    },
+    {
+      "frase": "Punto número uno y número dos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo diría, ¿y qué van a hacer con el país que destoca su milla en condiciones muy difíciles?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cree que la oposición se pelea más entre ella que hacia afuera, como que el partido opositor de la oposición estuviese hacia adentro?",
+      "entidades_detectadas": [
+        "¿Cree"
+      ]
+    },
+    {
+      "frase": "Bueno, lo que pasa es el punto que dije recién.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Si yo pienso que la elección ya está ganada, entonces lo que me queda es discutir quién.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esa es la situación en este momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La reflexión que tiene que hacer son dos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, ninguna elección está ganada o perdida un año antes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y segundo, el problema es que hay que pensar qué país van a tomar y qué van a hacer.",
+      "entidades_detectadas": [
+        "qué país"
+      ]
+    },
+    {
+      "frase": "Aligo me está en el piso y Leo quiere consultar Rosendo.",
+      "entidades_detectadas": [
+        "Aligo",
+        "Leo",
+        "Rosendo"
+      ]
+    },
+    {
+      "frase": "Rosendo, buen día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy bien, te decía bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Falta mucho para agosto, para las elecciones, las PASO y me iba a hablar para octubre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, parece haber un juego de espejos entre Cristina y Macri, donde juegan los dos a me presento o no me presento, coquetean con esto.",
+      "entidades_detectadas": [
+        "Macri",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Puede haber un escenario de la final del mundo, Cristina contra Macri, una elección?",
+      "entidades_detectadas": [
+        "Macri",
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Hay un escenario donde puede pasar eso o es impensado?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impensable no es.",
+      "entidades_detectadas": [
+        "Impensable"
+      ]
+    },
+    {
+      "frase": "Y yo digo que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina es la que actúa con más transparencia en ese campo.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "En cuanto Lula ganó el 30 de octubre, como era previsible, Cristina avanzó.",
+      "entidades_detectadas": [
+        "Lula",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "En su estrategia electoral, utilizó estrategia electoral ya el viernes 4, 5 días después, en Pilar, en el acto de Lagón.",
+      "entidades_detectadas": [
+        "Pilar",
+        "Lagón"
+      ]
+    },
+    {
+      "frase": "Y esto se va a replicar o va a escalar ahora, semana que viene, el 17 de noviembre, el medio siglo, de regreso de Perón al país tras 17 años de exilio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahora nuevamente discurso de Cristina en el estadio de La Plata.",
+      "entidades_detectadas": [
+        "Cristina",
+        "La Plata"
+      ]
+    },
+    {
+      "frase": "Pero cuál es el mundo, el tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Macri y los discursos, lo importante es lo que dice la tribuna en estos actos.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Y la tribuna dice Cristina Presidente.",
+      "entidades_detectadas": [
+        "Cristina Presidente"
+      ]
+    },
+    {
+      "frase": "¿El operativo Clamor, el famoso operativo Clamor?",
+      "entidades_detectadas": [
+        "Clamor"
+      ]
+    },
+    {
+      "frase": "Sí, exactamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es más importante lo que dice la tribuna, desde el punto de vista político, que el discurso en sí mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y vamos a escuchar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo escuchamos el viernes 4 y lo vamos a volver a escuchar, para mi opinión, el 17, el más tribunal que va a cantar Cristina Presidente.",
+      "entidades_detectadas": [
+        "Cristina Presidente"
+      ]
+    },
+    {
+      "frase": "Cristina avanzará así, hasta mayo, y ahí verá si toma ese camino o si va a la senaduría bonaerense.",
+      "entidades_detectadas": [
+        "Cristina avanzará así"
+      ]
+    },
+    {
+      "frase": "No tiene por qué definir eso ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Macri yo creo que tiene actitud de candidato claramente.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Sale a caminar la cambrón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sale a caminar y es una actitud de candidato que está en campaña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ¿cómo maneja esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También hasta mayo, porque los pasos son en agosto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando se define quién va a ser candidato y quién se va a presentar, en mayo, a los 1 de junio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hasta ese momento va a seguir cuáles son los pasos precisos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé, habrá que ver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero claramente, hay una puja, la red tabúrgica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El mismo Macri ha subido esa puja viral.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Bueno, pero él nunca ha dicho no voy a ser candidato.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¿Cree que son personajes antagónicos, Macri y Cristina?",
+      "entidades_detectadas": [
+        "¿Cree",
+        "Cristina",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Vengo preguntándole esto a cada uno de nuestros entrevistados durante esta semana.",
+      "entidades_detectadas": [
+        "Vengo"
+      ]
+    },
+    {
+      "frase": "¿Se presenta el otro?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Tiene que jugar los dos titulares?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí o sí, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que pasa es que si se presenta uno, la probabilidad de que se presente el otro aumenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo veo el cálculo de Cristina, la decisión de Cristina, muy vinculada al cálculo electoral.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Ella no va a tomar la candidatura si cree que va a perder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si cree que puede, para ella la va a tomar si ve un panorama político donde aparezca, probable, es muy probable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Macri está para tomar más riesgo.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Al pasar, dijo candidatura senadora de la provincia de Buenos Aires, ¿puede jugar ahí Cristina si ve que la presidencia está difícil?",
+      "entidades_detectadas": [
+        "¿",
+        "provincia de Buenos Aires",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Claramente sí, lo dijimos hace unos minutos, claramente sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y si se rompe una coalición, se rompe la otra?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No, no, desde el 89 para acá han pasado 33 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El peronismo ha gobernado 27 de los 33, el 82% del tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, en gran medida ha sido porque frente al poder, por lo general, siempre es el peronismo de segunda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si tanto Menem como Kirchner tuvieron habilidad de mantener unido al peronismo, por lo menos a los sectores más relevantes del peronismo.",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Es decir, ¿qué hacía Perón?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vía Perón tenía dichos cínicos o graciosos.",
+      "entidades_detectadas": [
+        "Vía Perón"
+      ]
+    },
+    {
+      "frase": "Los peronistas son como los gatos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando se pelean es que se están reproduciendo, dice Perón respecto a este fenómeno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El peronismo tiene una tendencia a la unidad para alcanzar, Rosendo, el poder mayor que el no peronismo, que históricamente le ha costado más la unidad.",
+      "entidades_detectadas": [
+        "Rosendo"
+      ]
+    },
+    {
+      "frase": "En eso parece que Juntos por el Cambio se peroniza, porque también se están peleando y dicen lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, lo que tiene que agregar a todo esto es Milei.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "La posición ya está dividida, aparte de Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Milei es claramente una figura en campo opositor, que divide el voto opositor.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Entonces, es decir, la oposición, ¿Milei cuántos votos saca, 10, 12, 18, 20?",
+      "entidades_detectadas": [
+        "¿Milei"
+      ]
+    },
+    {
+      "frase": "No lo sabemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vuelvo a la elección en términos imprevisibles.",
+      "entidades_detectadas": [
+        "Vuelvo"
+      ]
+    },
+    {
+      "frase": "Entonces, cuidado, la oposición ya tiene una división que antes no tenía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, Rosendo, gracias por este contacto.",
+      "entidades_detectadas": [
+        "Rosendo"
+      ]
+    },
+    {
+      "frase": "Gracias a usted.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta luego.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rosendo Fraga, analista político, en su paso por modo Fontevecchia.",
+      "entidades_detectadas": [
+        "Rosendo Fraga"
+      ]
+    },
+    {
+      "frase": "Vamos a cerrar la apertura con este tema de Lito Vitale y Lisandro Aristimuño.",
+      "entidades_detectadas": [
+        "Lito Vitale",
+        "Lisandro Aristimuño"
+      ]
+    },
+    {
+      "frase": "Justamente \"Alicia en el país de las maravillas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un tema de Serú Girán del año 1980 que relata el pesar que arrastraba en su momento la sociedad después de muchos años de dictadura.",
+      "entidades_detectadas": [
+        "Serú Girán"
+      ]
+    },
+    {
+      "frase": "La figura justamente de Alicia representa al pueblo argentino que tanto en ese momento como ahora se encuentra atravesado por el desconcierto total, a un año de las próximas elecciones y en medio de cosas muy poco claras respecto de cómo puede ser el panorama electoral para el año próximo.",
+      "entidades_detectadas": [
+        "Alicia"
+      ]
+    },
+    {
+      "frase": "No cuente lo que dice en los jardines, el sueño acabó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya no hay molas, ni torturas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un frío de cabeza atrasado por el mismo pie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juega en ti, que bajo el alubo estamos en la tierra del ángel, pero es mío.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los inocentes son los culpables, dice tu señoría, el rey de espadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No cuentes que tendrás la que ser, la que tendrás poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ni abogado, ni vestido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Ituzaingó",
+    "Vengo",
+    "Gerardo Milman",
+    "Mena",
+    "Menem",
+    "Patricia Bullrich",
+    "Cary",
+    "Camino Negro",
+    "Frente para la Victoria",
+    "Maldonado",
+    "Maggie Moscardo",
+    "Nación",
+    "Cristina Presidente",
+    "Vuelvo",
+    "¿Quién",
+    "Waldo Wolff",
+    "Cambio?",
+    "provincia de Buenos Aires",
+    "Dicen",
+    "Cambio",
+    "Demora",
+    "Rodolfo Tailhade",
+    "Aníbal Fernández",
+    "General Paz",
+    "judía de la Argentina",
+    "Así",
+    "Puente La Noria",
+    "Congreso",
+    "Alberto Fernández",
+    "Vamos",
+    "¿Ve",
+    "Jorge Avello",
+    "Mengolini",
+    "provincia de Santa Fe",
+    "Leo",
+    "Choque",
+    "Cristina Fernández de Kirchner",
+    "Panamericana",
+    "Capuchetti",
+    "Serú Girán",
+    "Vos",
+    "Lito Vitale",
+    "COVID",
+    "Gobierno",
+    "Tames",
+    "Ayer",
+    "Santa Fe",
+    "Rosendo Fraga",
+    "Cristina?",
+    "Cristina",
+    "Plaza de Mayo",
+    "Ustedes",
+    "Después",
+    "Lisandro Aristimuño",
+    "Picheto",
+    "Academia Nacional de Ciencias Morales y",
+    "Cristina avanzará así",
+    "Jorge Avello?",
+    "¿",
+    "Rosendo",
+    "Marco Cleri",
+    "Francia",
+    "Gobierno Nacional",
+    "Senado",
+    "Tenemos",
+    "habló",
+    "Cámara de la Paz",
+    "Frente de Todos",
+    "Nuria",
+    "¿Cree",
+    "Días",
+    "qué país",
+    "Marco Cleri?",
+    "Políticas",
+    "La Cámpora",
+    "Lula",
+    "Tabaré Cardozo",
+    "Kirchner",
+    "Casa Blanca",
+    "Saludo",
+    "Seguridad",
+    "Wolff",
+    "Cristina Kirchner",
+    "Ministerio de Justicia",
+    "Lamento",
+    "Hablabas",
+    "Juntos",
+    "Pilar",
+    "Mauricio Macri",
+    "Academia Argentina de la Historia",
+    "Gabriela Cerruti",
+    "Congreso Nacional",
+    "Matías Santana",
+    "Horacio Rodríguez Larreta",
+    "Milman?",
+    "Rodrigo Galo",
+    "El Palomar",
+    "Imaginate",
+    "Milman",
+    "Macri",
+    "Gobierno?",
+    "Estación Constitución",
+    "También",
+    "Julia Mengolini",
+    "Soy Nuria Améz",
+    "Partido Justicialista de la Provincia de Buenos Aires",
+    "Jorge Fontevecchia",
+    "Declaró",
+    "Escuchamos",
+    "Digo",
+    "Clamor",
+    "Ahí",
+    "Oscar Parrilli",
+    "Macron",
+    "Corte Suprema de Justicia",
+    "Mirá",
+    "Lagón",
+    "Marcos Cleri",
+    "ciudad de",
+    "Virgen de Itatí",
+    "Sergio Massa",
+    "Aligo",
+    "Consejo Argentino de Relaciones Internacionales.",
+    "Llegar",
+    "Bueno",
+    "Bien",
+    "Sale",
+    "Impensable",
+    "¿Milei",
+    "La Plata",
+    "la Argentina",
+    "Crónica",
+    "Juan Martín Mena",
+    "Milei",
+    "Sí"
+  ]
+}

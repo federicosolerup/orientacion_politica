@@ -1,0 +1,26 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Durante el gobierno de Cristina Fernández de Kirchner, se descubrió que, como otros bancos, tenía una oficina dedicada a la fuga de capitales.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Durante el gobierno de Cristina Fernández de Kirchner, y gracias al trabajo de la Procuraduría de Criminalidad Económica y Lavado de Activos (PROCELAC), dirigida por Carlos Gonella, Martino renunció a la presidencia del HSBC.",
+      "entidades_detectadas": [
+        "carlos",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "La resolución, firmada por los jueces Federico Roldán, Roberto Enrique Hornos y Carolina Robiglio, ordena investigar a Martino, otros directivos del HSBC y a Alberto Alejandro Tawil, de un importante estudio jurídico.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

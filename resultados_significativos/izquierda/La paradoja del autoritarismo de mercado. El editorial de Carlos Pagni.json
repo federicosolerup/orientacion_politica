@@ -1,0 +1,391 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 58,
+      "derecha": 17
+    },
+    "score_promedio": 0.244,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En contraste con esa agenda tan exigente, con esos desafíos tan endiablados, un gobierno sorprendente –en el sentido literal de la palabra–, que llega de manera sorpresiva, y que carece de capital institucional: es un gobierno que carece de fuerza parlamentaria, de arraigo territorial en las provincias o en los grandes municipios, que está construyendo una relación con el mundo sindical y una relación conflictiva con los movimientos sociales sin partido, casi exclusivamente con un activo principal: el carisma del presidente, su extraordinaria capacidad de comunicación y una gran expectativa del electorado.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La combinación y el contraste entre esos desafíos objetivos y la decisión del electorado de colocar al frente de esos problemas a un gobierno tan atípico, va generando perplejidad, y todavía la tenemos, y esta perplejidad se proyecta sobre algunos contrastes.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hoy vamos a hablar de uno de esos contrastes que caracteriza mucho este presente que estamos viviendo.",
+      "score": 0.178,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el punto de vista financiero, esto implica que los que tienen bonos mejoran el precio de esos activos, están mejor.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno mira el mercado de futuros del dólar, daría la impresión de que le cree al gobierno en el sentido de que, por lo menos hasta las elecciones del año que viene, el gobierno va a resistir con su política cambiaria, que implica una devaluación del 2% mensual, sin una gran devaluación del dólar o del peso frente al dólar.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el gobierno, hasta ahora, cuando se le preguntaba hacia dónde iba, no decía ni qué ni cuándo.",
+      "score": 0.766,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro economista que está muy pendiente de este tema, como **Nicolás Dujovne**, le prestó atención a lo mismo.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tampoco le tenés miedo a la volatilidad del precio del dólar, que es el gran trauma del gobierno, el gran trauma de **Luis Caputo**, el gran trauma de la historia económica de la Argentina en relación con el dólar.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esto es lo que dijo Milei en esa reunión.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hace juego con lo que firmó la Argentina en el primer documento que acordó con el Fondo Monetario allá por marzo, donde se dice que vamos a un régimen de libre flotación del tipo de cambio.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se dice más, se dice como Uruguay o Perú.",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo dijeron a medias, porque después el presidente estuvo en el Coloquio de IDEA y dijo, \"no me olvido de la dolarización endógena\", desconcertante.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si hay todavía demasiados pesos y, sobre todo, demasiados bonos en pesos, y esos bonos en pesos, ese stock, se van al dólar, van a provocar una disparada del dólar igual, aunque la inflación baje.",
+      "score": 0.368,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esa disparada del dólar puede producir un fogonazo inflacionario, que es a lo que más le teme el gobierno.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema de nuestro tiempo en la Argentina es la inflación.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta recordar que el INDEC se intervino en 2008.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inflación era un problema grave que llevó al gobierno de Cristina Kirchner, con Alberto Fernández como jefe de gabinete, a \"romper el termómetro\" e intervenir el INDEC.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el panorama económico: un optimismo, sobre todo muy acentuado en los mercados financieros, que empiezan a comprar el relato del gobierno, le empiezan a creer.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y una incógnita que sigue siendo una incógnita muy dura, que no se termina de despejar, que es la cambiaria, y que le impide al gobierno ir a un acuerdo, a un programa con el Fondo.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es muy difícil ir a un programa con el Fondo con ese enigma que es el enigma del régimen cambiario y monetario.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anuncia algo que está en la raíz de la relación de Milei con su electorado.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se aplaude todo esto, lo aplaude la opinión pública y los observadores económicos, que entienden que la Argentina tiene un desborde de gasto, un nivel de gasto y de dimensión del Estado imposible de financiar, que es lo que determina todas las distorsiones de financiamiento que tiene ese Estado y que están en el fondo del problema de la inflación.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Abad** ya había tenido una experiencia como al frente del organismo de recaudación en el gobierno de Néstor Kirchner.",
+      "score": 0.283,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé si el hotel que está ocupando –seguramente hasta ahora en Bruselas– lo paga él o lo paga el Estado a esta altura de la historia.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le avisaron a **Mayora** que lo estaban despidiendo y pusieron en su lugar a **José Bielsa**, Bielsa con \"B\" corta y \"S\", nada que ver con **Gustavo Beliz**.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Hacen dinero negro en el exterior de un jefe de la AFIP, Andrés Vázquez”.",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hay muchos que dicen, interesante ese lugar, entre otras cosas, porque están las grandes tabacaleras observadas por el organismo tributario, que fueron motivo de todo un escándalo a comienzos de este año, por la intención de legislar a favor de esas –o en contra de esas– en el Congreso de la Nación.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, curiosas estas \"fuerzas del cielo\" que vienen a asistir a Milei en materia tributaria.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces el gobierno dice, \"empezamos de nuevo en materia tributaria, todo el pasado ha estado contaminado\", pero trae a un lugar importante a alguien muy ligado a **Ricardo Echegaray**, por eso les dije, recuerden el nombre de **Echegaray**.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta que hay que hacerse es: la agresividad verbal de este gobierno, principalmente la agresividad verbal de Milei, que despidió con insultos a **Ginés González García**, ya fallecido, que dijo que le quiere clavar \"el último clavo al cajón\" donde quiere tener adentro a Cristina Kirchner, son metáforas muy agresivas –lo de **Ginés González García** fue más que una metáfora, fue un insulto con todas las letras–.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una pregunta importante para lograr caracterizar a un gobierno al que todavía no terminamos de conocer, con un presidente que tiene, probablemente, poco conocimiento del sistema político, de los códigos partidarios, del manejo institucional, pero un extraordinario olfato, una extraordinaria sensibilidad para el manejo del poder, eso de Milei ya lo sabemos.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces Milei está delegando en **Santiago Caputo** el armado de un gran aparato de poder que puede ser eventualmente, si se enojan, persecutorio.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habría que mirar las cuentas que se le atribuyen a **Caputo** en X y que él nunca desmiente, por ejemplo, una que decía, \"esta cuenta usa armas\".",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese ataque a la prensa es significativo porque, como todos sabemos, el diseño de la República Constitucional en los últimos 300 años consiste en darle garantías al ciudadano frente al poder del Estado a través de dos dispositivos: la prensa independiente y la justicia independiente.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno hoy anunció que le aplica el IVA a los diarios, a los portales de noticias, les quita una exención que venían teniendo.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy mencionamos uno, Tierra del Fuego: todo lo que tiene que ver con la importación y el ensamblado de electrónicos no solamente tiene un régimen de excepción, sino que tiene, por ley, un régimen diferencial de impuestos internos que le da ventaja frente a los competidores externos y tiene aranceles privilegiados.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei empezó criticando este sistema y, de a poco, con el paso del tiempo, se fue adecuando a que esto está bien.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para muchos encuestadores, esto se viene hablando en la prensa de ASDAC y en los últimos un mes ya empezó esto a afectar a Milei y a su gobierno.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno dice, bueno, \"en nuestra imaginación, saquemos a Milei y a su gobierno, ¿a quién ponemos?\".",
+      "score": 0.439,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De decirnos de dónde venimos, hacia dónde vamos, de una manera más convincente que la que tiene Milei para más o menos la mitad de la sociedad.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, el antecedente de un gobierno muy desastroso, como fue la última experiencia kirchnerista –acusada por los mismos kirchneristas de ser un desastre– más la perspectiva de que, en el futuro, no aparece alguien que pueda competir conceptualmente con la práctica y la credibilidad de Milei, esto le da al gobierno un enorme margen de maniobra y un enorme margen de error, y hace que el electorado asimile lo que tal vez en otro momento no asimilaría y provocaría una movilización en contra del gobierno.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que vemos es que hay una descomposición opositora en lo que estaría fuera de La Libertad Avanza: Juntos por el Cambio –como es obvio– ya estalló, ya no existe más, y si hubiera que encontrar una prueba, la prueba está en **Martín Lousteau** diciendo: \"Macri se entiende con Milei por negocios\".",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, **Martín Lousteau** es el presidente del radicalismo, que se supone que integra una coalición llamada Juntos por el Cambio, con el PRO de Macri y con la Coalición Cívica de **Elisa Carrió**.",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La posición de **Lousteau** respecto del gobierno y respecto de Macri no tiene nada que ver con la posición, por ejemplo, del gobernador de Mendoza, **Alfredo Cornejo**, o del presidente del bloque del radicalismo en la Cámara de Diputados, **Rodrigo De Loredo**.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, una discusión dentro de Juntos por el Cambio, en el PRO y en el radicalismo, respecto de qué distancia o qué lejanía, qué nivel de consenso o de agresividad hay que tener respecto de Milei.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está insinuando que **María Tettamanti**, la nueva secretaria de Energía, fue puesta por Macri para amparar determinados negocios energéticos.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hay muchas empresas distribuidoras de electricidad que le deben –que tienen una deuda de billones de pesos– con CAMMESA, que es la empresa que distribuye electricidad: toma la electricidad de los productores, de las generadoras, y la distribuye, o se la vende a la distribuidora.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí estuvo –lo mostramos acá en *Odisea*– **Daniel Vila**, socio de **José Luis Manzano**, que dice, \"nosotros no le debemos a CAMMESA, nos deben a nosotros, porque si tomáramos el contrato original y todo el atraso tarifario que hubo a lo largo de los años, es el Estado el que nos debe a nosotros.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros le vamos a condonar la deuda al Estado\".",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri podría decir: \"¿Lousteau, de qué negocio habla, por qué?\".",
+      "score": 0.542,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si, el segundo del PAMI, el vicepresidente o subinterventor del PAMI, **Carlos Zannini**, antes de ser subinterventor del PAMI, era el director de la obra social de la UBA, que dirige como vicerrector Yacobitti.",
+      "score": 0.377,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más, no sé si no hubo gente del PAMI que se le acerque a la marcha a favor del salario de los docentes universitarios, y ahí hay un puente muy activo, no sabemos si personal, pero entre el sector **Santiago Caputo** y el sector Yacobitti.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé si Milei lo conoce al detalle, digamos, las continuidades que hay, donde parece que sólo hay rupturas.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, Macri podría decir, y los negocios de Yacobitti, Lousteau, con el gobierno, con el mismo derecho con que Lousteau dice los negocios de Macri en la energía.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sólo el gobierno hoy levantó la exención del IVA, decidió –y esto parece que no es una decisión de **Santiago Caputo**, esto parece ser una intervención de **Federico Sturzenegger**, que es un agente liberalizador dentro del gobierno– decidieron licitar los 100 megahertz que el Estado le había dado en la licitación del 5G de las frecuencias más modernas de las telecomunicaciones a ARSAT, una compañía que maneja el gobierno y su consultora.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y van a tener que competir el grupo Clarín, Telecom, Claro, Telefónica por esos activos que son la clave para la modernización de las telecomunicaciones.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y otra novedad que afecta también a los medios de comunicación: se le quita la obligatoriedad a las empresas de cable –vamos a decirlo así– la obligatoriedad de tener que subir las señales de noticias a su grilla, y esto también produce todo un cambio en el sistema de medios de comunicación y en el sistema de la comunicación política, porque daría la impresión de que la filosofía de este gobierno, en la concepción última de la comunicación, es favorecer las redes y debilitar a los medios tradicionales o a los medios profesionales.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Cristina le sale un desafiante, **Axel Kicillof**, contraria está buscando el alcance de brazos en su disputa con Cristina.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof decidió desnacionalizar su pelea, provincializarla, pero no se pronunció a favor de la candidatura presidencial de Cristina para el PJ, dijo que Cristina era una líder indiscutible, que era imposible pensar la política del PJ sin Cristina, que los años de Cristina fueron los mejores, pero dice, \"hay que respetar la diversidad\", y se produce un texto este fin de semana con un párrafo importantísimo diciendo \"lo que nos trajo hasta esta derrota es el autoritarismo interno, la imposibilidad de discutir\".",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, usted tendrá la respuesta.",
+      "score": 0.608,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al lado de Kicillof –mejor dicho– al lado de **Andrés \"Cuervo\" Larroque**, circulaba este video ayer, \"no queremos más las prácticas del culto, del individualismo a la personalidad y a la teoría del jefe, esas teorías que tanto daño han hecho a la política argentina y la han quebrado en su calidad y hasta en su propia moralidad de ejecución y llevarla adelante\".",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para Kicillof hablaría de Cristina.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof no se va a pronunciar sobre Cristina agresivamente, lo que está diciendo es, \"yo pido apoyo en la provincia de Buenos Aires\", y tiene una ventaja el sistema electoral –esto ya lo hemos hablado acá– al establecer dos sistemas electorales distintos, uno para la nación, la boleta única, y otro el sistema tradicional para la provincia, le da al gobernador y a los intendentes una autonomía que antes no tenían respecto de los liderazgos nacionales, porque de facto se desdobló la elección.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, Kicillof tiene más margen de maniobra como gobernador, porque el dedo de Cristina es menos poderoso.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene otra carta Kicillof, institucional, pero esa es fantasía mía también, podría desdoblar el calendario electoral, no sólo la elección de los gobernadores de la provincia de Buenos Aires.",
+      "score": 0.545,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy difícil que, en la cabeza de Kicillof, anide esa fantasía, porque sería muy agresivo para el kirchnerismo nacional, para la lista de diputados nacionales, que ahí sí quedaría desprovista de cualquier arraigo territorial del aparato territorial que tiene el peronismo en la provincia de Buenos Aires y que le ha dado tanto poder.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este debate sobre la figura de Cristina, el 13 de noviembre –ya hablamos de esto–, muy probablemente la Cámara de Casación confirme la sentencia del Tribunal Oral sobre Cristina: 6 años de prisión y, por añadidura, automáticamente, inhabilitación perpetua para ocupar cargos públicos, y Cristina va a quedar a merced de la Corte y de cuándo la Corte decide si esa inhabilitación y esa condena es correcta o debe ser revisada, si no se han violado garantías por la ciudadana Cristina Kirchner.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, en este contexto de una Cristina Kirchner muy expuesta a la Corte, a la misma Corte a la que ella, a través de sus diputados, le promovió juicio político, empiezan a tener significado algunas fotos.",
+      "score": 0.562,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Eduardo Valdés**, del corazón de Cristina, miembro de la comisión de juicio político, lo está escuchando Horacio Rosatti en una conmemoración por el 30 aniversario de la Constitución del 94.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Carlos Rosenkrantz**, expresidente de la Corte, ministro de la Corte de la Justicia y de Derechos Humanos de Axel Kicillof, pero, sobre todo, probablemente, el operador judicial más calificado de Cristina Kirchner.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, Cristina condenada, Cristina retirada del juego electoral, muestra una Argentina que se empieza a parecer un poco a Brasil, donde fue inhibido ya Bolsonaro hasta el año 2030 y donde Lula estuvo 580 días preso e inhibido también en su posibilidad de postularse como candidato por un juez, Sergio Moro, que después terminó siendo ministro de Justicia del que le ganó a Lula, de Bolsonaro.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lula estuvo a punto de venir a la Argentina al acto de Kicillof del 17 de octubre para devolverle atenciones a Milei, que fue al acto de Bolsonaro.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Lula no viene a los actos de Kicillof es porque ahora la tensión entre Kicillof y Cristina lo pondría en contra de Cristina.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la relación de Lula con Milei sigue siendo muy mala, por la reunión del G20, le van a hacer sentir esa agresividad.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lula se la va a hacer sentir de alguna manera a un gobierno que mira de otro modo a los chinos, sigue peleado con el presidente, con el presidente brasileño, pero que tiene una alianza con los Estados Unidos sorprendente.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 75
+  },
+  "etiqueta_original": "neutral"
+}

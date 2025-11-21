@@ -1,0 +1,83 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hoy, mi colega, la periodista Cecilia Camarano, le preguntó al vocero presidencial, Manuel Adorno, algo fundamental: ¿quién está pagando el hotel donde reside Javier Milei, quien aún no se ha mudado a la Quinta de Olivos debido a las reformas que, según él, está realizando?",
+      "entidades_detectadas": [
+        "javier",
+        "olivos"
+      ]
+    },
+    {
+      "frase": "Adorno no respondió la pregunta sobre quién cubre los gastos de la habitación de hotel que Milei ocupa desde hace más de un mes.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "La ausencia de número de expediente significa que el Estado no intervino en su elaboración.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Repito: esto se debe a que el Estado no intervino en su elaboración.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Funes de Rioja, abogado laboralista empresarial (es decir, que representa los intereses de los empleadores), es presidente de la Unión Industrial Argentina (UIA) y de la Coordinadora de las Industrias de Productos Alimenticios (COPAL).",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Otros que apoyaron el DNU son miembros de la Asociación Empresaria Argentina (AEA): Paolo Rocca, Carlos Miguens, Héctor Magnetto (Grupo Clarín), Sebastián Vagó (Laboratorios Vagó), Alfredo Coto, Martín Aráoz, Martín Migoya (Globant), Cristiano Ratazzi, Federico Braun (La Anónima), Luis y Hugo Pérez Companc, Eduardo Elstein (IRSA), Marcelo Alhué, Galperín, Pan American Energy (familia Bulgheroni), Adecoagro, Ledesma (familia Blaquier), Aceitera General Deheza, Pierpaolo Barbieri (Ualá), Grupo Enel (Edesur), OSDE, Accenture, Cencosud, Laboratorios Roemers, Grupo Roemmers, etc.",
+      "entidades_detectadas": [
+        "argentina",
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Mi compañero Mariano Velaztigui me informó que la Cámara de Comercio Argentino-Estadounidense también celebró la aprobación del DNU.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "En este caso, el Grupo Clarín pagó a los jueces que orquestaron la persecución judicial contra Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Belocopitt fugó 21 millones de dólares durante el gobierno de Macri (una de las diez mayores fugas individuales).",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Durante la pandemia, sus empresas recibieron más de 2800 millones de pesos del Estado para pagar sueldos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, Belocopitt adquirió parte del Grupo América, donde Javier Milei realizó sus primeras apariciones televisivas.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Quienes se beneficiarán de las decisiones de Milei como presidente.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El rostro de Alberto Fernández hoy se veía desencajado.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cosa que creo que Alberto no es, para apoyarla incondicionalmente y no desmoronarse en el lugar que él ocupa, porque sea cual fuere el veredicto, ella ya perdió.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Por supuesto, desde este programa vamos a intentar que Alberto aguante.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "*   **vamos a contemporizar para que aguante --> vamos a intentar que Alberto aguante:** Se simplificó la frase para mejorar la claridad y evitar ambigüedades.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

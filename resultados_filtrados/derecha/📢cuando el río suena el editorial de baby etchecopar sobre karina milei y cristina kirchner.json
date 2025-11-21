@@ -1,0 +1,144 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Me decían: \"No, porque el presidente no es el mismo\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La cúpula, si vos con un presidente te quedás en el mismo lugar 20 años como pasó con Néstor, sos un pelotudo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Cristina fue una \"pecha\", la presidenta, \"pecha\".",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Yo creo que este pacto de Milei, presidente, está armado por la política, está armado incluso por Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Uno de los tercios de Milei, lo hacemos crecer a Milei un poquito, y Milei va a sacarle la minoría si llega a ganar los de enfrente.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Milei empezó a crecer con este fenómeno televisivo, que es un personaje de Titanes en el Ring, y les voy a agregar algo más.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Entonces pasó que en el momento que hacía falta, en este pacto espurio, ridículo, aparece Cristina de nuevo en escena, y uno dice, \"¿yo puedo creer que la señora Cristina Kirchner tenga el tupé, caradurismo, de empezar a aparecer?\".",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Que si analizamos, yo no sospecho de su talento, que no lo veo, pero por ser hermana de Javier y ser el jefe, y también, a ver, cómo les puedo explicar, todo pasa en la Argentina sin que nosotros nos enteremos.",
+      "entidades_detectadas": [
+        "argentina",
+        "javier"
+      ]
+    },
+    {
+      "frase": "Por eso aparece Karina Milei, cuyo parecido, la avidez de poder, la necesidad de protagonismo y la falta de cintura política es similar a Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Una vez que nos sacamos a una Cristina Kirchner encima, nos aparece una Karina Milei.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Y como les decía yo en la nota esta, y se los dije hace muchos meses, cuando el señor Milei empieza a quedar solo porque el PRO le quita el apoyo, porque el peronismo ortodoxo, que desaparecido, está tratando por todos los medios de armarse dual de Cum Morena por un lado, impresentable, ¿no?",
+      "entidades_detectadas": [
+        "pro",
+        "milei"
+      ]
+    },
+    {
+      "frase": "El flaco Randazzo se baja, pero el Cuervo Larroque sigue, pero Massa sigue, y todos quieren, cuando hay una marcha al alpedismo, aparecen todos queriendo saludar al pueblo y no lo logran, porque también el pueblo les bajó el pulgar y están desaparecidos en acción.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Entonces ahora están logrando el objetivo que es Cristina y Karina...",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Cristina y Karina...",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Cristina y Karina van a ser, miren acá la tienen, van a ser los dos básculos de la balanza en el que vamos a medir el peso de la democracia.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "El único inescrupuloso partido que puede negociar con Milei para darle apoyo es el cristianismo.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Javier hace cosas maravillosas que aplaudo y apoyo, hace cosas terribles que detesto y critico.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Y por el otro lado, la hermana de Milei y Yulito.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "*   Se añadió \"Kirchner\" a Cristina (en la oración \"...",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "incluso por Cristina Kirchner\").",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "*   Se añadió \"Néstor\" en \"si vos con un presidente te quedás en el mismo lugar 20 años como pasó con Néstor\" para dar contexto.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "*   Se añadió \"Cristina Kirchner\" en la frase \" ¿yo puedo creer que la señora Cristina Kirchner tenga el tupé\"\n    *   Se añadió \"PRO\" en \"cuando el señor Milei empieza a quedar solo porque el PRO le quita el apoyo\"\n    *   Se añadieron comillas a \"vamos a volver\" y \"de última\" para indicar que se trata de citas o expresiones específicas.",
+      "entidades_detectadas": [
+        "cristina",
+        "pro",
+        "kirchner",
+        "milei"
+      ]
+    }
+  ]
+}

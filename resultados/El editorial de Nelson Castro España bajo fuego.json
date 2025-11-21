@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Ustedes lo recordarán.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Uno de los hitos de mi vida profesional fue cubrir el ataque a las Torres Gemelas; era el único periodista argentino que se encontraba en Nueva York.",
+      "entidades_detectadas": [
+        "Nueva York",
+        "Torres Gemelas"
+      ]
+    },
+    {
+      "frase": "Recuerdo aquellos días y una frase, un título, un artículo de opinión aparecido en *The New York Times*, que decía: “Si la consecuencia del ataque de Al Qaeda es que cada vez viviremos con más miedo, habrán triunfado”.",
+      "entidades_detectadas": [
+        "Al Qaeda",
+        "The New York Times"
+      ]
+    },
+    {
+      "frase": "Este es el desafío que tenemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando escucho a los líderes del mundo decir “vamos a ganar, vamos a ganar”, pienso que no; ya están ganando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El terrorismo está imponiendo hoy el miedo y ese es su triunfo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es el desafío que tenemos todos nosotros, que tienen los líderes del mundo para defender los valores de nuestra cultura, basada en la libertad, la pluralidad y el derecho a la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta la próxima, muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "The New York Times",
+    "Nueva York",
+    "Al Qaeda",
+    "Ustedes",
+    "Torres Gemelas"
+  ]
+}

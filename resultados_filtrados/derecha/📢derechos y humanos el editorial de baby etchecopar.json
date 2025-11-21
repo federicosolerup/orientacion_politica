@@ -1,0 +1,55 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Empieza la Argentina a tener paz.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En 1919, no era 1940, la Argentina y Estados Unidos estaban parejos corriendo para ser potencia mundial.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Estados Unidos con el acero, Argentina con las vacas, con los campos, con todo lo que tenemos ahora, lo mismo.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Creo que si no leí mal la Constitución Nacional, trata sobre esto, que somos todos iguales ante la ley, que un diputado que se escapa, un senador que se escapa con 250.000 dólares con una amante, tiene que estar preso y no perdonarlo para que se siente en la banca porque nos hace falta.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Las víctimas de la subversión, los chicos de Malvinas, porque una cosa encadenó con la otra, con la otra, y llegamos a este desquicio de Argentina que parece, si Dios quiere, ojalá Dios nos ayude, que se empiece a enderezar.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Yo peleo para que vayan en cana Cristina, Máximo y los secuaces.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Y para terminar, les voy a pedir a nuestro querido presidente que no canjee a nadie por Milagro Sala.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "**Archivo Log de Correcciones:**\n\n*   **Nombres y Apellidos:**\n    *   \"firmenich\" -> \"Firmenich\" (Corrección de mayúscula inicial)\n    *   \"Carlotto\" -> \"Carlotto\" (Se mantuvo ya que es un apellido común y la mención parece referirse a Estela de Carlotto)\n    *   \"bacanarbajas\" -> \"Vaca Narvaja\" (Corrección de ortografía y apellido)\n    *   \"Pérez Esquivel\" -> \"Pérez Esquivel\" (Se mantuvo ya que es un apellido común y la mención parece referirse a Adolfo Pérez Esquivel)\n    *   \"Fermaniz\" -> \"Firmenich\" (Corrección de ortografía)\n    *   \"Deve de Bonafini\" -> \"Hebe de Bonafini\" (Corrección del nombre)\n    *   \"Cortina\" -> \"Cortiñas\" (Corrección del apellido para referirse a Nora Cortiñas)\n    *   \"Bonafín\" -> \"Bonafini\" (Corrección de ortografía)\n    *   \"Milagros Salas\" -> \"Milagro Sala\" (Corrección del nombre)\n    *   \"Cristina\" -> \"Cristina\" (Se mantuvo ya que es un nombre común y la mención parece referirse a Cristina Fernández de Kirchner)\n    *   \"Máximo\" -> \"Máximo\" (Se mantuvo ya que es un nombre común y la mención parece referirse a Máximo Kirchner)\n\n*   **Ortografía:**\n    *   \"enprolijar\" -> \"enderezar\" (Corrección de palabra y sinónimo más adecuado)\n    *   \"suyaser\" -> \"deshacerse\" (Corrección de palabra y sinónimo más adecuado)\n    *   \"espolea\" -> \"epílogo\" (Corrección de palabra y sinónimo más adecuado)\n    *   \"Cana\" -> \"cana\" (Corrección de mayúscula)\n    *   \"selección\" -> \"secesión\" (Corrección de palabra equivocada)\n    *   \"inagatoria\" -> \"indagatoria\" (Corrección de ortografía)\n\n*   **Cohesión y Coherencia:**\n    *   Se eliminaron repeticiones innecesarias (\"derechos y humanos, no?\")\n    *   Se añadieron conectores para mejorar el flujo del texto (ej: \"Pero\", \"O sea\")\n    *   Se reemplazaron algunas expresiones coloquiales por otras más formales o precisas, sin alterar el tono general del texto.",
+      "entidades_detectadas": [
+        "cristina",
+        "máximo",
+        "fernández"
+      ]
+    }
+  ]
+}

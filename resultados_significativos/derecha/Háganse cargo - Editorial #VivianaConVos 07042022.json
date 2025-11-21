@@ -1,0 +1,431 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 68
+    },
+    "score_promedio": 0.707,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Poneme el estribillo, a ver un poquito, un poquito, un poquito.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejen de joder a esta Argentina maravillosa que tenemos.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo entiendo que le está yendo, que le está yendo, que nos está yendo como el traste mal.",
+      "score": 0.788,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vimos en una Argentina en la que le dan seis lucas a un jubilado y doce palos a **Nacha Guevara**.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y uno le dice al otro, reconozco que he vuelto a votar a los mismos.",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A qué le temen?",
+      "score": 0.705,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordá el spot de campaña de **Alberto Fernández** y **Cristina Fernández de Kirchner** en el 2019, por favor.",
+      "score": 0.766,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre en la Argentina votamos a los mentirosos.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero que sepan que en los dos años que quedan, en los dos años que quedan, voy a dejar todo de mí para poder seguir mirando a los ojos a cada argentina y cada argentino.",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo quiero que sepan que seguiré trabajando incansablemente para que toda la Argentina se ponga de pie, para que cada chico vuelva al colegio, para que nuestros científicos no se vayan, para que cada argentina y cada argentino encuentre un empleo y una forma digna de vivir, para que los que hoy tienen planes puedan reemplazar esos planes por un empleo seguro.",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que esa Argentina exista depende de nosotros.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí vendía que la iba a romper toda y lamentablemente eso no estaría pasando, pero me fijé en las redes qué es lo que hace el presidente y lo encontré en este tuit en Villa Domínico, en el predio de Independiente y lo descubrí gracias a *Siempre el Rojo*, a este hincha, ponele.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, te enterás lo que hace el presidente por un hincha, en este caso, de Independiente.",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente de la nación, doctor **Alberto Fernández**, hizo escala hoy al mediodía en el predio de Independiente en Villa Domínico, elogió las instalaciones y luego siguió viaje en helicóptero hasta Villa Azul a participar de un acto.",
+      "score": 0.608,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y acá lo vemos, digamos, al presidente del martes, estos dos días, pelo tudeando al mediodía con el helicóptero que lo estaba esperando.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto hacen, en vez de ocuparse de una Argentina que está prendida, fuego.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, Movimiento Evita 500.000 personas.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Movimiento Evita tiene 500.000 personas, gerentes **Emilio Pérsico** y **\"El Chino\" Navarro**.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Extorsionan, negocian, mientras la Argentina se muere de hambre.",
+      "score": 0.372,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero bueno, este gobierno todo lo arregla con la platita, como decía **Goyán**.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como decía el chiste del comienzo, y si empezás a votar otra cosa, si estás para el traste mal.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Te lo voy a decir como me dijo una señora que esta semana, charlando en un barrio, me dijo que no fue a votar y le dije, pero ¿por qué no fuiste ahí?",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Háganse cargo del presidente que ustedes eligieron como candidato a presidente **Alberto Fernández**.",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me pregunto si cuando **Sergio Massa** habla de la oposición o la de **Cristina**, que el otro día delante de él, le regaló el libro envenenado a **Alberto Fernández**.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos ellos creen que **Alberto Fernández** es el presidente de la provincia de Buenos Aires.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque no solo le tienen odio a **Macri**, tienen odio porque a nadie, por más que odie a alguien, se le puede ocurrir dispararle a alguien para matarlo.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá cómo aplauden y cómo le celebran a **Estela de Bonafini**.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí me quisieron apretar políticamente que baje los valores y que traicione a los trabajadores de acá de Bocra a la Plata, que traicionara a los trabajadores porque los valores que ellos manejaban decía que era muy alto y que les impedía a nivel nacional a discutir la reforma laboral.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces como yo le dije que no, porque yo no nací para ser un traidor, para traicionar los derechos sagrados de los trabajadores, yo no nací para eso, como le dije que no pagué el costo de estar dos años y pico preso.",
+      "score": 0.372,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empresario, presidente de Independiente.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se desgastó su vínculo con **Cristina Fernández de Kirchner**, aprovechó y se lo fue a coquetear un poquito a **Mauricio Macri**.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, en realidad ustedes le chupan las medias al que venga, al que les convenga según la ocasión.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, después **Macri** fue presidente, no le dio ningún cargo y le dijo chau, se pudrió todo.",
+      "score": 0.71,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Hugo Moyano** le contesta a **Macri**.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí el título es, Moyano le contesta a Macri.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estuvimos atentos a la conferencia de prensa, pero queremos preguntarte, ¿por qué el presidente cree que los males de la Argentina tienen nombre y apellido, sobre todo Moyano?",
+      "score": 0.512,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme así la canción, hoy apareció **Macri** con **Donald Trump**.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo pensaba, **Mauricio** se reunió con **Donald Trump** y el presidente **Alberto Fernández** dieron con el barra brava de independiente.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme Ciudad Mágica un ratito.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después vino el Olivos Gate.",
+      "score": 0.695,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eran el presidente y el sindicalista más importante de la Argentina violando el DNU.",
+      "score": 0.278,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta le sacaron los calzoncillos.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al pibe le sacaron...",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Estela** le pega a **Alberto**.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después me puse a laburar mucho con el archivo y encontré un tape donde **Cristina Fernández de Kirchner** habla bien de **Mauricio Macri**.",
+      "score": 0.597,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner**, una vez habló bien del ex presidente.",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Macri**, yo le reconozco una inmensa virtud.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice el modelo de país que le gustaría.",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no le estoy reivindicando a **Macri**.",
+      "score": 0.584,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le estoy reivindicando a **Macri**.",
+      "score": 0.555,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, le hago una pregunta a quien se está mirando.",
+      "score": 0.155,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si a usted le encanta la gente que no se disfraza...",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le veo quedar re bien yo porque yo digo todo lo que pienso.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como presidente de los argentinos y las argentinas.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Háganse cargo del Olivos Gate.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llena la boca hablando de los pobres.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando **Cristina Fernández de Kirchner** fue a la Villa 31?",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme Banti Moroche, ya me voy a la Villa.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina hay 4.000 villas.",
+      "score": 0.477,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina hay 4.000 villas.",
+      "score": 0.477,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno evalúa el riesgo de una hiperinflación teniendo en cuenta la evolución de los precios y sobre todo el mensaje enviado por la vicepresidenta, **Cristina Kirchner**, en el libro que le regaló al presidente por su cumpleaños, recordando cómo terminó el gobierno de **Raúl Alfonsín**.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto me confunde porque según el fondo había que ajustar.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el fondo no quiere.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pone maguita, están emitiendo más y lo que el fondo no quiere, ese fue parte del acuerdo.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina** impulsa desde el Senado una ley contra la fuga de capitales.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que queda claro es que los Kirchner se la fugaron todas.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las preguntas que le quiero hacer al expositor, me gustaría que él definiera técnicamente lo que es fuga o formación de activos externos.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, la fuga capitales es la constitución de activos externos en el exterior.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dios mío, está claro, los Kirchner se la fugaron todas.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A este gobierno le preguntás un montón de cosas y no te contestan nada.",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y qué es lo que se le ocurre?",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ocurre?",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuántas personas nacen en la Argentina por año?",
+      "score": 0.707,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 83
+  },
+  "etiqueta_original": "neutral"
+}

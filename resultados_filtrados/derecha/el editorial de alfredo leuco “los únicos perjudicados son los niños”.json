@@ -1,0 +1,50 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "No son los únicos, por supuesto, pero sí son los principales responsables porque gobernaron durante muchos años, a través de ocho presidentes: Juan Domingo Perón, Héctor Cámpora, María Estela Martínez de Perón (alias Isabelita), Carlos Menem, Eduardo Duhalde, Néstor y Cristina Kirchner, y Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "carlos",
+        "néstor",
+        "cristina"
+      ]
+    },
+    {
+      "frase": "La verdad número 12 de las 20 verdades que negó Perón dice claramente: \"En la nueva Argentina los únicos privilegiados son los niños\".",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿Se acuerdan cuando Alberto convocó a la mesa del hambre?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "¿Estamos dispuestos a dar lo máximo de nosotros para exterminar el hambre, la pobreza y la miseria?",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Yo sé que los Kirchner ocultaron y negaron por años estas cifras horrorosas.",
+      "entidades_detectadas": [
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "La patria está enferma de desnutrición infantil.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "Es una suerte de genocidio por goteo, en la profundidad más cruel de nuestra Argentina más pobre.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

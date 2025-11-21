@@ -1,0 +1,57 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Ya nos olvidamos de Formosa, nos olvidamos que nos robaron las vacunas y ahora parece que robaron 60 vacunas más que fueron directamente al Calafate, al reino de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Y volvió Alberto Fernández con las mismas restricciones, copiando con simulacro el fracaso del año pasado.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "No necesitamos un padre, no necesitamos un Estado paternalista, no necesitamos a [nombre del funcionario, no se entiende en el texto original], que nos marque el camino.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Pero creo que Cristina Fernández de Kirchner tiene una secta de locos delirantes que la siguen y le lavaron el cerebro, y están todos obnubilados siguiendo, primero, una revolución que no existe, segundo, un futuro que tampoco existe, y tercero, a una mujer que tampoco existe, pero creen que están viendo la bajada del Mesías.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "La presidenta, Alberto Fernández, [nombres de personas no identificables], y 18 más, que viven en Puerto Madero.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Son una secta, y lo peor de todo, que le han lavado el cerebro al pobre Alberto Fernández, que no era así.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Y a Alberto le han lavado el cerebro y se ha transformado en una cosa.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Lamentablemente, esta anécdota será para mi nieto, cuando dentro de algunos años, si Dios quiere, le preguntaré: “¿Cómo es la Argentina de tus abuelos?”.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

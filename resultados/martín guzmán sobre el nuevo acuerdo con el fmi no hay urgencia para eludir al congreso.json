@@ -1,0 +1,723 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Martín Guzmán, gracias por venir.",
+      "entidades_detectadas": [
+        "Martín Guzmán"
+      ]
+    },
+    {
+      "frase": "De nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué urgencia hay, qué apuro hay para pedir este préstamo al Fondo Monetario Internacional?",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional?"
+      ]
+    },
+    {
+      "frase": "A ver, desde el punto de vista de los procedimientos, no hay urgencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es algo que nuestros legisladores deben tener muy claro cuando lo debaten.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Piense que cuando hay un acuerdo entre el personal técnico del Fondo Monetario Internacional (FMI) y un gobierno, ese acuerdo debe ir al directorio del FMI.",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional",
+        "FMI"
+      ]
+    },
+    {
+      "frase": "El tiempo que el Congreso Argentino tarda en tratar un proyecto de ley no es mayor que el tiempo que tarda el directorio del FMI.",
+      "entidades_detectadas": [
+        "Congreso Argentino",
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Y no hay un decreto de necesidad y urgencia (DNU) dentro del FMI para saltarse al directorio.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Entonces, ¿cómo puede ser que haya urgencia para eludir al Congreso de la Nación y no la misma urgencia para eludir al directorio del FMI?",
+      "entidades_detectadas": [
+        "FMI",
+        "Congreso de la Nación"
+      ]
+    },
+    {
+      "frase": "La verdadera razón por la que hay un DNU la explicó el ministro de Economía, Nicolás Dujovne (o el ministro al que se refiera, dado que no es claro en el texto original).",
+      "entidades_detectadas": [
+        "Nicolás Dujovne",
+        "ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Dijo que no tenían los votos en el Senado, donde la oposición tiene mayoría.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Eso fue lo que dijo en una entrevista que vi la semana pasada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es decir, como están haciendo algo que implicará que el pueblo argentino se hará cargo de una deuda que financiará, y ahora lo vamos a charlar, unos retornos enormes para unos pocos que se vienen realizando durante los últimos quince meses, no pueden dar explicaciones y se saltan al Congreso, eludiendo una ley que existe y que dice que todo acuerdo con el FMI requiere una ley especial del Congreso de la Nación.",
+      "entidades_detectadas": [
+        "Congreso",
+        "FMI",
+        "Congreso de la Nación"
+      ]
+    },
+    {
+      "frase": "Esa ley fue impulsada por ustedes desde el Ministerio antes del último acuerdo.",
+      "entidades_detectadas": [
+        "Ministerio"
+      ]
+    },
+    {
+      "frase": "Así es, para evitar que pase lo que ha pasado tantas veces en Argentina y que pasó en 2018: que un gobierno tome miles de millones de dólares, con consecuencias para generaciones argentinas.",
+      "entidades_detectadas": [
+        "Así",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¿Qué diferencia hay entre este acuerdo que pretende Dujovne (o el ministro correcto) y el que usted firmó en 2022?",
+      "entidades_detectadas": [
+        "Dujovne"
+      ]
+    },
+    {
+      "frase": "Bueno, la principal diferencia, primero que seguro hay diferencias en las políticas, aunque no las sabemos porque no hemos visto nada; todavía no hay acuerdo, o sea, no sabemos qué hay, ni siquiera cuánto se endeudarán.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Lo que sí sabemos es que van a tomar deuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El acuerdo de 2022 no tomaba deuda nueva; era para refinanciar la deuda que tomó el gobierno de Macri.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Ahora, se están endeudando más con el FMI.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "El gobierno dice que no, ¿eh?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Bueno, pero eso es...",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "no existe, no tiene sentido, no tiene fundamento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver, explíquelo para quien no entiende de letras intransferibles ni… Bueno, es un verso… …ni de finanzas internacionales.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Es un verso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, sale con esto de las letras intransferibles, que esa operación existe, pero no es lo relevante aquí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El asunto es así: el Estado tiene dos grandes partes: el gobierno (el que gasta en educación, salud, obra pública) y un banco, el Banco Central.",
+      "entidades_detectadas": [
+        "Estado",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Hay una deuda del gobierno con el Banco Central porque los ahorros y las reservas de un Estado se guardan en su banco central.",
+      "entidades_detectadas": [
+        "Banco Central",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Entonces, en ocasiones, cuando el gobierno ha recurrido a esas reservas (por ejemplo, para pagar deuda), le dio un pagaré al Banco Central, una letra intransferible.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Pero es una deuda interna, dentro del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "No es una deuda del Estado con terceros.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Ahora, lo que está sucediendo es algo similar a que en una familia, un hermano tenga deuda con otro, y la familia decida tomar un crédito en un banco para cancelarla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Aumenta la deuda familiar?",
+      "entidades_detectadas": [
+        "¿Aumenta"
+      ]
+    },
+    {
+      "frase": "Sí, ahora le debe al banco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dentro del hogar, un hermano deja de deberle a otro, pero la familia debe más al banco, que además cobra altos intereses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es lo que estaba diciendo hace un rato, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ahora hay sobrecargos, una alta tasa de interés (más baja que la del año pasado, tras una lucha de cuatro años), pero no hay forma de justificarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pensemos lo siguiente… No, pero eso confirma que es deuda, si no, no pagaría intereses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, pero de nuevo, el FMI no es una ONG; no está donando recursos.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Esto es deuda con el FMI.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "La pregunta es: ¿a quién están rescatando?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el préstamo récord a Macri en 2018, el FMI entregó dólares que fueron vendidos a quienes estaban en pesos haciendo bicicleta financiera.",
+      "entidades_detectadas": [
+        "FMI",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "El \"carry trade\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "¿Quiénes son ahora?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Los mismos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, porque había cepo cambiario y no entraron masivamente capitales del exterior.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A quién rescatan?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "No son los mismos, pero la lógica es similar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rescatarán a quienes especularon.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno dirá que ese dinero no se tocará, y el FMI dirá lo mismo al principio.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Si no se pudiera tocar, ¿para qué pedirlo?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Para pagar un interés mayor que el que rinden esas reservas?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No tendría sentido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claramente, se pide para usarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente dijo que no quiere apoyo presupuestario (inversión pública, educación, jubilaciones).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso iría al Banco Central.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Hoy hay mucho nerviosismo en el mundo inversor, no en el que invierte en una fábrica, sino en el que especula con la diferencia entre la tasa de interés de un activo en pesos y la tasa de devaluación del dólar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el interés en pesos supera la devaluación, se gana dinero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La bicicleta financiera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay distintas formas de hacerla hoy: la compra-venta diaria (parecida a la de la época de Macri, pero con cepo cambiario), a través del CCL-MEP; y tomar créditos en dólares, cambiarlos a pesos y luego recomprar dólares antes de la devaluación para amortizar la deuda.",
+      "entidades_detectadas": [
+        "CCL-MEP",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "En los últimos quince meses, el retorno fue enorme.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero todavía no los cambiaron a dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese es el tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero veamos la magnitud: si usted invirtió en un activo en pesos en los últimos quince meses, su retorno fue de alrededor del 85%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La tasa de devaluación del dólar CCL-MEP fue del 25%; el dólar oficial, del 30%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, con esa bicicleta, se ganó al dólar casi un 60%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no se tienen los dólares, sino activos en pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En algún momento, se querrán cambiar a dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasaba con BlackRock, Templeton y otros fondos en la época de Dujovne (o el ministro al que se refiera el texto)?",
+      "entidades_detectadas": [
+        "BlackRock",
+        "Dujovne",
+        "Templeton",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Ahora pasa con otros, pero es lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quiénes son?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tres grandes grupos: empresas que toman créditos en dólares y los cambian a pesos; quienes comparan contra el CCL-MEP (la timba clásica); y grandes fondos de inversión extranjeros.",
+      "entidades_detectadas": [
+        "CCL-MEP"
+      ]
+    },
+    {
+      "frase": "Pero alguien paga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si Argentina fuese un país con alta productividad, no habría nerviosismo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Todos están esperando los dólares del FMI para seguir con el juego.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Cuando la \"música\" de la bicicleta se acabe, Dujovne (o el ministro correcto) venderá los dólares del FMI para dar salida a los especuladores.",
+      "entidades_detectadas": [
+        "FMI",
+        "Dujovne"
+      ]
+    },
+    {
+      "frase": "Es exactamente lo mismo que pasó hace siete años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cambiaron los interlocutores (Lagarde por Georgieva), pero es lo mismo.",
+      "entidades_detectadas": [
+        "Lagarde",
+        "Georgieva"
+      ]
+    },
+    {
+      "frase": "La deuda le queda a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después, ¿qué pasa?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Lo que vemos cada miércoles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La deuda, cuando se toma, no se mira tanto, pero el problema llega después.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso existe la ley de fortalecimiento de la sostenibilidad de la deuda pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno, como sabe lo que está haciendo, no puede dar la discusión de cara a la gente y elude al Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "No muestra el acuerdo ni un detalle, porque ni siquiera lo tienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué no dar la discusión de cara a la gente si cree que hace algo bueno?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted, cuando firmó el acuerdo de 2022, que fue aprobado en el Congreso con votos de la oposición, ¿no?",
+      "entidades_detectadas": [
+        "Congreso",
+        "¿"
+      ]
+    },
+    {
+      "frase": "No, su ley votó en contra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero pudo ver las políticas, los ajustes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, porque se discutieron todos los detalles.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Sí tuvo votos en contra del oficialismo (kirchnerismo).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que ahora, al parecer, no tiene diferencias con usted en este planteo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El peronismo se reunirá mañana para intentar bloquear esto en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "¿Qué debería pasar para que el FMI no le dé el dinero a Dujovne (o el ministro correcto)?",
+      "entidades_detectadas": [
+        "FMI",
+        "Dujovne"
+      ]
+    },
+    {
+      "frase": "Primero, veo una enorme falta de integridad institucional y de algunas personas en el FMI.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "No creo que haya algo que les cambie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El FMI es una institución política que apoya las chances electorales del gobierno.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Es un préstamo de campaña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como dijo Claver-Carone.",
+      "entidades_detectadas": [
+        "Claver-Carone"
+      ]
+    },
+    {
+      "frase": "Y esto no es apoyo al pueblo argentino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es apoyo a un gobierno para evitar una situación cambiaria que lo desestabilice en las elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se supone que el FMI debe cumplir ciertas reglas.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Cuando presta por encima de una cierta cantidad (acceso excepcional), hay cuatro criterios que se deben cumplir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El cuarto es el apoyo político amplio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que ya lo violaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No había apoyo político amplio cuando prestaron al gobierno de Macri, pero no existía la ley actual que obligaba a una ley especial del Congreso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "La vocera del FMI dijo que eso es asunto de Argentina.",
+      "entidades_detectadas": [
+        "FMI",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Pero es nuestra cuestión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eludir el Congreso revela que no tienen apoyo político en el Senado.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Eludir",
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Si el FMI presta eludiendo una ley, la deuda se verá como ilegítima.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "¿Y los jueces?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Eso es otra historia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A nivel internacional, el FMI se juzga a sí mismo.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Aquí, los jueces podrían decir que no hay urgencia ni necesidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para mí, desde el punto de vista de los procedimientos, no hay urgencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En 2022, el directorio del FMI tardó una semana más que el Congreso en aprobar el acuerdo.",
+      "entidades_detectadas": [
+        "Congreso",
+        "FMI"
+      ]
+    },
+    {
+      "frase": "¿Dónde está la urgencia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me frustra mucho esto porque ahora está ahí, acaba de ocurrir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hubiera una multitud en contra del acuerdo, el FMI podría entrever que se está metiendo en problemas.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Me preocupa lo que esto significa para Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Esto nos va a costar mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le están dando a los mismos que se fugaron toda la plata (45.000 millones de dólares) para hacer lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto nos va a costar muy caro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cada uno aporta desde su lugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que le haría muy bien a Argentina una manifestación fuerte en contra de este endeudamiento.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Gracias por venir esta noche, Martín.",
+      "entidades_detectadas": [
+        "Martín"
+      ]
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "Claver-Carone",
+    "Rescatarán",
+    "Congreso de la Nación",
+    "Fondo Monetario Internacional",
+    "Ministerio",
+    "Congreso Argentino",
+    "Banco Central",
+    "Lagarde",
+    "¿Qué",
+    "BlackRock",
+    "Estado",
+    "¿Aumenta",
+    "Dujovne",
+    "Claro",
+    "Claramente",
+    "Argentina",
+    "¿A",
+    "Sí",
+    "Templeton",
+    "Bueno",
+    "ministro de Economía",
+    "FMI",
+    "CCL-MEP",
+    "Primero",
+    "Martín",
+    "Martín Guzmán",
+    "¿",
+    "Nicolás Dujovne",
+    "No creo",
+    "Fondo Monetario Internacional?",
+    "Georgieva",
+    "El FMI",
+    "Piense",
+    "Así",
+    "Senado",
+    "Macri"
+  ]
+}

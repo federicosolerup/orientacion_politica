@@ -1,0 +1,608 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En la Casa de las Madres, un lugar otorgado por el Estado, un \"aguantadero\", un \"conventillo\" - así estaba, con música a todo volumen.",
+      "entidades_detectadas": [
+        "Estado",
+        "Casa de las Madres"
+      ]
+    },
+    {
+      "frase": "El equipo de sonido, ¡mira!, le falta un pedazo en el borde, como si se lo hubieran comido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, todos estos muchachos son gente similar a los que aplaudían a Cristina cuando bailaba en el escenario.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "A mí, la verdad, que hayan hecho un boliche, o que \"ocupas\" hayan tomado ese lugar, no me preocupa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que me preocupa es por qué administraron el Estado como si fuera suyo, con qué autorización los kirchneristas otorgaban estos lugares.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Encima, había un montón de pupitres rotos, que supuestamente eran para estudiar allí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, al pargata sí, libros no.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Destrozaron todos los pupitres, tiraban la basura e hicieron un boliche bailable, la salida más fácil: falopa, armas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pues hay que ir, hay un boliche cerca de la radio de las Madres, que no me acuerdo cómo se llama, tiene un nombre italiano de mujer, donde se come espectacular, una fonda que se come espectacular.",
+      "entidades_detectadas": [
+        "Madres"
+      ]
+    },
+    {
+      "frase": "Un día dejé el auto, caminé una cuadra y media, y llegué exhausto, porque esa parte de Constitución es una cueva de \"aguantaderos\", falopa, robos.",
+      "entidades_detectadas": [
+        "Constitución"
+      ]
+    },
+    {
+      "frase": "¿Sabés dónde te digo?",
+      "entidades_detectadas": [
+        "Sabés"
+      ]
+    },
+    {
+      "frase": "¿A través del Congreso?",
+      "entidades_detectadas": [
+        "Congreso",
+        "¿A"
+      ]
+    },
+    {
+      "frase": "Yo no sé por qué no hacen nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Da miedo andar de noche por ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ahí estaba emplazado este monumento a la \"mierda\", ¡mira!, que le había otorgado el kirchnerismo como si fuera suyo, igual que enterraron terrenos como si fueran suyos.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Es fácil hacer política con la plata de otros, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Yo, cuanto más investigo, y este gobierno nos muestra todos los días las atrocidades que hicieron durante 20 años los kirchneristas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También este gobierno hace atrocidades, porque pelearse en este momento con Villarruel me parece que no es lo que los argentinos queremos ver.",
+      "entidades_detectadas": [
+        "Villarruel"
+      ]
+    },
+    {
+      "frase": "Necesitamos navegar un poco en paz, necesitamos la \"playita\", ¿viste?, necesitamos disfrutar del paisaje, no podemos estar todo el tiempo en conflicto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahora se abren tres frentes, fíjate vos: Cristina Kirchner por un lado, multiprocesada, un desastre a nivel moral que se postula, y los inmorales que bailan acá la están esperando.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "¡Imagínate!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les sacan \"jodas\" a los inmorales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los inmorales votan a Cristina, y no me digas que no.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Uno tiene que ser muy inmoral para votar a una procesada y condenada dos veces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por otro lado, Karina Milei que se abre con casi un partido político, porque está armando un partido político.",
+      "entidades_detectadas": [
+        "Karina Milei"
+      ]
+    },
+    {
+      "frase": "Por otro lado, están los chicos estos, no sé cómo se llama, cómo se llama la de Milei, los \"pibetos\" que tienen...",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "La Guardia Estoniana, la Fuerza del Cielo.",
+      "entidades_detectadas": [
+        "Fuerza del Cielo",
+        "Guardia Estoniana"
+      ]
+    },
+    {
+      "frase": "Por otro lado, ahora Villarruel, que se va a postular por la ultra-ultraderecha sola, con un partido, y seguramente no le va a ir mal porque hay una franja de ultra-ultraderecha en la Argentina que le encanta.",
+      "entidades_detectadas": [
+        "Villarruel",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "La gente que dice que \"a la militar está más mejor\", esa gente vota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, en marzo...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "ahora nadie piensa más, a todo el mundo le importa un carajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En marzo se va a abrir, no sé, doctor, después quiero que me lo aísles vos, un panorama múltiple que por un lado le va a costar a Milei, y por otro lado nos va a costar a los argentinos.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Primero, porque atrás de la corrupta se van a encolumnar todos los bailarines de rock and roll, todos los \"tetabrícks\", los \"choripán\", y todos los que no hacen nada de esto, pero se surtieron de los 20 años de kirchnerismo para llenarse de plata y tener mucho poder escondido, que lo tienen, y mucho poder y mucha plata, se van a encolumnar atrás de Cristina a buscar la impunidad, no la democracia ni la libertad.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "La impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué se busca atrás de Cristina Kirchner?",
+      "entidades_detectadas": [
+        "Cristina Kirchner",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Impunidad para los delincuentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y, si es posible, una \"colita\" más que queda de plata para afanársela, si nos dan cuatro años más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué buscan los que están atrás de Victoria Villarruel?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mano dura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Militares con mano dura, que vengan sin dar tantas vueltas, sin mano dura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo ves bien, lo ves mal, es un problema a quien le guste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay votos para todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y atrás de Karina Milei se van a encolumnar los que apoyan a Milei, los que quieren seguir con el proyecto de Milei, y apoyan La Libertad Avanza.",
+      "entidades_detectadas": [
+        "Milei",
+        "Karina Milei",
+        "La Libertad Avanza"
+      ]
+    },
+    {
+      "frase": "Así que yo les estoy cantando hoy lo que va a pasar en marzo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayuda a todo el riesgo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todavía no salió ninguna \"vieja reina\" de ningún partido político que pueda llegar a hacer un poco de sombra.",
+      "entidades_detectadas": [
+        "ningún",
+        "Todavía"
+      ]
+    },
+    {
+      "frase": "Entonces, en cambio de ser tres tercios, van a ser cuatro de 25, que creo que va a ser la elección del año que viene.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo, con todo respeto, y ahora hay que ver si se puede decir, que el presidente gobierna muy bien para afuera, pero gobierna más o menos para adentro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque el tomate cuesta 10 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto cuesta el tomate?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "10 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero los ocho que ganabas vos, que no llegaban al tomate, ahora son seis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no alcanza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si te regalan el tomate no lo querés porque no te alcanza para pagar la heladera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces creo que el presidente está muy bien con Meloni, los besos de Meloni, \"Jujito\", todo es un cuento de hadas.",
+      "entidades_detectadas": [
+        "Meloni"
+      ]
+    },
+    {
+      "frase": "Pero creo que a Javier se le está acabando la luna de miel como presidente.",
+      "entidades_detectadas": [
+        "Javier"
+      ]
+    },
+    {
+      "frase": "Yo creo que ya vino el presidente de Francia con la mujer.",
+      "entidades_detectadas": [
+        "Francia"
+      ]
+    },
+    {
+      "frase": "Es muy lindo que relate, \"Jujito\", estas fiestas palaciegas, donde es un poco la vocera de oropeles del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero ahí está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todas estas cosas se van a terminar y va a empezar la gente a enojarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque yo tengo compañeros que laburan, tengo hijos que laburan, y la están pasando extremadamente mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, lo que yo analizo del gobierno es que por un lado te están mostrando la película de que estamos fenómenos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, ellos más quieren hacer autos \"tela\" que Trump quiere traer a Estados Unidos acá a la General Pack.",
+      "entidades_detectadas": [
+        "General Pack",
+        "Estados Unidos",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Mentira.",
+      "entidades_detectadas": [
+        "Mentira"
+      ]
+    },
+    {
+      "frase": "El país está muy mal y le va a costar mucho arrancar de nuevo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Decir que el país está muy mal no es hablar mal del presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y si hablo mal qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "El país está muy mal porque está muy pobre y porque la gente está sufriendo mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Casi todos mis amigos tienen cinco trabajos de 300.000 para llegar a fin de mes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy una mamá con su hijo necesita un millón y medio de pesos por mes que no lo gana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, nadie hasta ahora me cantó desde el gobierno cuánto hace falta de verdad para vivir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se habla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se habla de la plata de los jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso les digo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé si le convendrá que lo diga el presidente, pero es muy lindo verlos viajar todo el tiempo a Nueva York, a los besos con Trump, a los abrazos con Rocky.",
+      "entidades_detectadas": [
+        "Nueva York",
+        "Rocky",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Es barro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una película increíble.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A todos nos gustaría darle un beso a Stallone en la frente.",
+      "entidades_detectadas": [
+        "Stallone"
+      ]
+    },
+    {
+      "frase": "Pero acá nos cagamos de hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces nosotros estamos viendo una épica que no se trasluce en hechos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es lo mismo que si yo...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí estaba \"Yujito\" peleando por el Martín Fierro en Miami, porque se lo van a dar a Fátima Florez.",
+      "entidades_detectadas": [
+        "Fátima Florez",
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Entonces ella se siente...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad es que no se merece un Martín Fierro.",
+      "entidades_detectadas": [
+        "Martín Fierro"
+      ]
+    },
+    {
+      "frase": "Nunca se merece un Martín Fierro.",
+      "entidades_detectadas": [
+        "Martín Fierro"
+      ]
+    },
+    {
+      "frase": "Pero como es la mujer del presidente a lo mejor la van a llamar y van a dar...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Miren que se inventa un Martín Fierro!",
+      "entidades_detectadas": [
+        "Martín Fierro",
+        "¡Miren"
+      ]
+    },
+    {
+      "frase": "Martín Fierro al calzado 44.",
+      "entidades_detectadas": [
+        "Martín Fierro"
+      ]
+    },
+    {
+      "frase": "Listo, se lo da y se viene contenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero a nosotros no nos importa un carajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente la está pasando mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y sabés qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Hay que aprovechar el momento en que la gente la pasa mal pero contenta, porque tiene optimismo, tiene la ilusión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero me parece que el plan en algún punto no cierra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El punto es la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con Cristina, los más pobres comían bárbaro, pero la clase media no.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Con Milei, los más ricos comen bárbaro, pero la clase media se está gastando los ahorros.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Por eso yo creo que habría que hacer un gobierno...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "que nos saque a esos que vienen de madera del culo un poquito y nos deje transitar en paz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque este año va a haber mucha gente sin pan dulce, este año va a haber muchos chicos sin regalo, este año van a haber muchas mesas vacías.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, maestro, presidente, gobierne para adentro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para afuera ya lo vimos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy lindo, pero no trajo una moneda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta ahora no trajo un cobre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Promesas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como esa canción de Mina y Alain Delon.",
+      "entidades_detectadas": [
+        "Alain Delon",
+        "Mina"
+      ]
+    },
+    {
+      "frase": "\"Paroles, paroles, paroles...\" Todo es muy simpático, pero acá la gente está mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igualmente, entre Alí Babá y los 40 ladrones y un loco...",
+      "entidades_detectadas": [
+        "Alí Babá"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Necesitamos",
+    "Nueva York",
+    "Congreso?",
+    "ningún",
+    "Guardia Estoniana",
+    "¿Sabés",
+    "Martín Fierro",
+    "Meloni",
+    "General Pack",
+    "Casa de las Madres",
+    "Stallone",
+    "Karina Milei",
+    "Estado",
+    "Rocky",
+    "Villarruel",
+    "Alain Delon",
+    "Alí Babá",
+    "Constitución",
+    "Cristina Kirchner",
+    "Javier",
+    "Trump",
+    "Estados Unidos",
+    "Claro",
+    "Fuerza del Cielo",
+    "¿A",
+    "La Libertad Avanza",
+    "Cristina",
+    "Fátima Florez",
+    "Destrozaron",
+    "Bueno",
+    "Primero",
+    "Mentira",
+    "Promesas",
+    "Listo",
+    "la Argentina",
+    "¿Cuánto",
+    "¿",
+    "Francia",
+    "Madres",
+    "Todavía",
+    "Miami",
+    "Encima",
+    "Decir",
+    "Militares",
+    "Milei",
+    "Así"
+  ]
+}

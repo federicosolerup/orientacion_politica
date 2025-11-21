@@ -1,0 +1,149 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La grave situación de inseguridad en Argentina se agrava con la irresponsabilidad de las autoridades.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Las acusaciones mutuas entre Aníbal Fernández y Bernardo Grinspun, principales responsables de la seguridad, revelan la falta de un plan efectivo contra el narcotráfico.",
+      "entidades_detectadas": [
+        "Bernardo Grinspun",
+        "Aníbal Fernández"
+      ]
+    },
+    {
+      "frase": "La masacre provocada por la cocaína adulterada evidencia la impunidad de los narcotraficantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dos precarias puertas fueron la única defensa de los vecinos del barrio Puerta 8 contra los capos que controlaban la zona desde antes del incidente.",
+      "entidades_detectadas": [
+        "Puerta 8"
+      ]
+    },
+    {
+      "frase": "Las acusaciones cruzadas (\"mercenario\", \"patético\") entre los funcionarios distraen la atención de la urgencia: una semana después, aún se desconoce la sustancia que causó la muerte de 24 personas y la intoxicación de entre 50 y 60 en doce partidos del Conurbano bonaerense.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La cocaína, envasada en envoltorios rosados, podría contener un opioide o veneno para ratas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los análisis toxicológicos aún no han identificado la sustancia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La falta de respuestas genera frustración e impotencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En las cocinas de droga del Conurbano se experimentan con sustancias nuevas, imposibles de clasificar químicamente.",
+      "entidades_detectadas": [
+        "Conurbano"
+      ]
+    },
+    {
+      "frase": "Sin un rastreo exhaustivo de la producción, es imposible entender lo que ocurre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras tanto, en los círculos de poder, la inoperancia se disimula con disputas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Walter, uno de los tres adictos que sobrevivió al consumo de la cocaína envenenada, recayó.",
+      "entidades_detectadas": [
+        "Walter"
+      ]
+    },
+    {
+      "frase": "Tras sufrir una sobredosis, quedó en coma y, a pesar de querer rehabilitarse, no recibe ayuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su testimonio, cargado de desesperación y arrepentimiento, refleja la pérdida de la voluntad que genera la adicción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El fin de semana se conoció el incumplimiento de un plan de la Procuración General de la Nación para dificultar el accionar de los narcos presos en las cárceles bonaerenses.",
+      "entidades_detectadas": [
+        "Procuración General de la Nación"
+      ]
+    },
+    {
+      "frase": "Medidas básicas como la instalación de inhibidores de señal telefónica no se implementaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación contrasta con la sofisticada estrategia de los cárteles rusos, donde el veneno se administra con sutileza, como se observó en la distante reunión entre Emmanuel Macron y Vladimir Putin.",
+      "entidades_detectadas": [
+        "Vladimir Putin",
+        "Emmanuel Macron"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, el presidente argentino, Alberto Fernández,  realizaba una gira por China y Barbados.",
+      "entidades_detectadas": [
+        "China",
+        "Barbados",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Su visita a China, un país donde se violan los derechos humanos, generó cuestionamientos.",
+      "entidades_detectadas": [
+        "China",
+        "generó cuestionamientos"
+      ]
+    },
+    {
+      "frase": "El congresista estadounidense Matt Gaetz advirtió sobre la creciente influencia china en Argentina, especialmente en áreas como la tecnología espacial y la energía nuclear,  considerándolo una amenaza a la seguridad de Estados Unidos.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Estados Unidos",
+        "Matt Gaetz"
+      ]
+    },
+    {
+      "frase": "El gobernador Axel Kicillof también viajó a China y Barbados junto al presidente.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "China",
+        "Barbados"
+      ]
+    },
+    {
+      "frase": "Toda esta actividad contrasta con la tragedia del Conurbano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación es surrealista, una mezcla de negligencia, falta de respuestas y eventos internacionales que parecen sacados de una novela de Gabriel García Márquez.",
+      "entidades_detectadas": [
+        "Gabriel García Márquez"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Axel Kicillof",
+    "Argentina",
+    "generó cuestionamientos",
+    "Alberto Fernández",
+    "Matt Gaetz",
+    "China",
+    "Conurbano",
+    "Gabriel García Márquez",
+    "Aníbal Fernández",
+    "Walter",
+    "Bernardo Grinspun",
+    "Puerta 8",
+    "Vladimir Putin",
+    "Barbados",
+    "Procuración General de la Nación",
+    "Estados Unidos",
+    "Emmanuel Macron"
+  ]
+}

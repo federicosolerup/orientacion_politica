@@ -1,0 +1,152 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La alerta amarilla del jueves por la noche obligó a suspender las clases el viernes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin esa alerta, cientos de niños podrían haber muerto intentando regresar a sus casas desde la escuela.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa alerta, que se elevó a roja tras la caída de los primeros 100 milímetros de agua, fue emitida por un Servicio Meteorológico Nacional diezmado.",
+      "entidades_detectadas": [
+        "Servicio Meteorológico Nacional"
+      ]
+    },
+    {
+      "frase": "Los recursos del Servicio Meteorológico Nacional se han recortado drásticamente en el último año.",
+      "entidades_detectadas": [
+        "Servicio Meteorológico Nacional"
+      ]
+    },
+    {
+      "frase": "La siguiente placa muestra el resultado de la ejecución presupuestaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Servicio Meteorológico, que depende del Ministerio de Defensa,  sufrió ajustes.",
+      "entidades_detectadas": [
+        "Ministerio de Defensa",
+        "Servicio Meteorológico"
+      ]
+    },
+    {
+      "frase": "Si bien la reducción de personal fue limitada debido a la rigidez del gasto,  se recortaron otras partidas significativamente, casi un 20%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El mantenimiento, la reparación y la limpieza de la infraestructura del Servicio Meteorológico Nacional en 2024 recibieron un 51% menos de fondos que en 2023;  la mitad en términos de poder adquisitivo.",
+      "entidades_detectadas": [
+        "Servicio Meteorológico Nacional"
+      ]
+    },
+    {
+      "frase": "Esta información, procesada por nuestro equipo de investigación MATE (Mirador de la Actualidad del Trabajo de la Economía Rosarina), surge de datos oficiales de la Secretaría de Hacienda y se presenta en valores reales.",
+      "entidades_detectadas": [
+        "Secretaría de Hacienda",
+        "Mirador de la Actualidad del Trabajo de la Economía Rosarina"
+      ]
+    },
+    {
+      "frase": "Otro rubro severamente afectado fue el de servicios técnicos y profesionales, con una reducción del 68% de los recursos destinados a la prevención de catástrofes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otros servicios no personales se redujeron en un 31%, y la partida de maquinaria, insumos y otros recibió solo una décima parte de los fondos asignados en 2023.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La reducción más drástica se produjo en este rubro, precisamente donde se debería equipar al Servicio Meteorológico Nacional para emitir alertas oportunas.",
+      "entidades_detectadas": [
+        "Servicio Meteorológico Nacional"
+      ]
+    },
+    {
+      "frase": "Se iba a instalar 10 nuevos radares para cubrir el 70% del territorio continental argentino, pero este proyecto se canceló el año pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dos de los radares planeados para 2023 iban a ubicarse en Las Grutas (Río Negro), cerca de Bahía Blanca, y en Bolívar (Buenos Aires).",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Las Grutas",
+        "Bolívar",
+        "Río Negro",
+        "Bahía Blanca"
+      ]
+    },
+    {
+      "frase": "En todo el país hay radares inconclusos (disponemos de fotografías), pertenecientes al SINARAME (Sistema Nacional de Radares Meteorológicos), fabricado por INVAP en Bariloche e instalado por el Ministerio de Infraestructura para que el Servicio Meteorológico Nacional (bajo el Ministerio de Defensa) los operara.",
+      "entidades_detectadas": [
+        "Sistema Nacional de Radares Meteorológicos",
+        "Ministerio de Defensa",
+        "SINARAME",
+        "Ministerio de Infraestructura",
+        "INVAP",
+        "Servicio Meteorológico Nacional",
+        "Bariloche"
+      ]
+    },
+    {
+      "frase": "Estas fotografías muestran los radares meteorológicos, en cuya tecnología Argentina es líder mundial, lo que nos convierte en ejemplo en el mapeo de tormentas.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "De hecho, la jefa del Servicio Meteorológico Mundial (OMM, Organización Meteorológica Mundial) es argentina.",
+      "entidades_detectadas": [
+        "OMM",
+        "Servicio Meteorológico Mundial",
+        "Organización Meteorológica Mundial"
+      ]
+    },
+    {
+      "frase": "La paradoja es que la Ministra de Seguridad menospreció un organismo desmantelado y desfinanciado, cuyos científicos gozan de reconocimiento internacional.",
+      "entidades_detectadas": [
+        "Ministra de Seguridad"
+      ]
+    },
+    {
+      "frase": "Observemos la partida de radares: los 3.729 millones de pesos ejecutados solo permitieron continuar obras ya iniciadas, pero la reducción a la mitad de los fondos impidió la operatividad de los radares, cruciales para emitir alertas tempranas y salvar vidas en eventos extremos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además de burlarse del Servicio Meteorológico Nacional, la Ministra Bullrich también criticó la falta de infraestructura, expresándose de la siguiente manera: […continuar con la cita de Bullrich]\n\n\n**",
+      "entidades_detectadas": [
+        "Ministra Bullrich",
+        "Servicio Meteorológico Nacional",
+        "Además",
+        "Bullrich"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Servicio Meteorológico Mundial",
+    "Organización Meteorológica Mundial",
+    "Ministerio de Defensa",
+    "Ministerio de Infraestructura",
+    "Servicio Meteorológico Nacional",
+    "Ministra de Seguridad",
+    "Ministra Bullrich",
+    "Las Grutas",
+    "Río Negro",
+    "Además",
+    "Mirador de la Actualidad del Trabajo de la Economía Rosarina",
+    "La paradoja",
+    "INVAP",
+    "Bariloche",
+    "Argentina",
+    "Bolívar",
+    "OMM",
+    "argentina",
+    "Buenos Aires",
+    "Sistema Nacional de Radares Meteorológicos",
+    "SINARAME",
+    "Bullrich",
+    "Bahía Blanca",
+    "Secretaría de Hacienda"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La salida del jefe de gabinete en tiempo récord, que sucedió a la salida de más de 30 funcionarios en cinco meses (despidos y renuncias incluidos; solo a **Petovello** se le fueron 14), da cuenta de que el desgaste del gobierno marcha a un ritmo muy superior al normal de una administración, y que su deterioro avanza a pasos agigantados.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Hace un rato asumió el nuevo jefe de gabinete y dijo esto: \"¿Tu nombramiento encierra un cambio político radical?\".",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Yo creo que mi nombramiento se debe a que el Presidente considera que es un momento de que la política y la acción del gobierno *cominen*.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Entonces, el Presidente jugó que era apropiado en función de la denuncia presentada por **Nicolás Posse**.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Yo creo que para aquellos que dicen que el Presidente no se da cuenta, el Presidente me elige a mí porque se da cuenta de que con la política argentina él se le hace complicado, porque no le entiende, porque tiene diferencias por equidad\".",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente"
+      ]
+    }
+  ]
+}

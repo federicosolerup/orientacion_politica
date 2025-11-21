@@ -1,0 +1,33 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El gobierno de Alberto Fernández, con Axel Kicillof en la provincia de Buenos Aires, enfrenta una fuerte oposición.",
+      "entidades_detectadas": [
+        "axel",
+        "alberto",
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "¿Cómo es que los hijos de Kicillof asisten a colegios privados caros?",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "A esos niños no los defienden Alberto Fernández ni Cristina Fernández de Kirchner; los defienden esas mujeres de clase alta que dicen que los niños deben volver a clases, pero no se refieren a sus propios hijos, porque sus colegios privados siguen funcionando.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Si se burlan de los pobres, solo quieren ganar las elecciones para mantener el poder, seguir robando a Argentina y proteger a los corruptos de su gobierno para evitar que vayan presos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Como presidente de la República, yo pido al pueblo que me escuche en lo que voy a decirle.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La patria es una sola, y uno solo es el pueblo.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "Vayamos ahora a otro referente de esa época, **Rogelio Frigerio**:\n\n\"Con intensa emoción he observado la obra que realizan sus hechos argentinos en pro de la pacificación de nuestro pueblo.",
+      "entidades_detectadas": [
+        "pro"
+      ]
+    },
+    {
+      "frase": "La conmoción que ha vivido la República ha sido tan dramática y tan honda, que no habrá un solo espíritu que tenga sentimiento de patria que no ponga todas sus fuerzas al servicio de la idea de fraternidad, de paz y de armonía entre todos los argentinos.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "El porvenir está despejado, y la República Argentina va a volver a ser la patria gloriosa para todos los hombres del mundo que quieran contribuir a su grandeza y a su prosperidad\".",
+      "entidades_detectadas": [
+        "argentina",
+        "patria"
+      ]
+    },
+    {
+      "frase": "Y vale la pena reflexionar sobre aquella Argentina que sentimos que era mejor, que en algunos aspectos, sin ninguna duda, del punto de vista económico, la pobreza, los indicadores sociales, eran mejor, pero el huevo de la serpiente, en toda esta violencia, estaba construyendo este pasado peor.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Vamos a empezar nuevamente con \"Cantata de los Puentes Amarillos\", **Luis Alberto Spinetta**:\n\nNo todo pasado fue mejor...",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

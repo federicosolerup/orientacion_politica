@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Tenían el \"Fatimóvil\", donde cruzaban a Uruguay con millones de dólares para blanquearlos.",
+      "entidades_detectadas": [
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "Arriba, la Virgen de Fátima; abajo, un obispo corrupto, amigo de Néstor Kirchner, ex-obispo de Mercedes, con un séquito de prostitutas y las tierras de las viudas que morían y dejaban su herencia a la iglesia.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Chile y Uruguay están vacunando a toda velocidad, y nosotros… aún esperamos.",
+      "entidades_detectadas": [
+        "chile",
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "Me parece una medida china o rusa.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    },
+    {
+      "frase": "Todo esto pasa en Argentina: la salida de los “pesitos”, la chica que se vacunó…  Afiero diciendo que nos van a encerrar…  Esto es como China comunista.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    },
+    {
+      "frase": "Hay asesoras del congreso con uñas largas, iPhone 12…  ¡Asesores atorrante, conchavados, sin vergüenza, vagos!",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    }
+  ]
+}

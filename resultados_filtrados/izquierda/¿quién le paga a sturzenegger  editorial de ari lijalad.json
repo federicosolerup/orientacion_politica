@@ -1,0 +1,67 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hay un dato muy preocupante: las negociaciones que se están llevando a cabo en el Congreso con respecto a la \"ley ómnibus\" (denominada \"ley bases\" por el gobierno), son, en esencia, un acuerdo para organizar la pobreza en Argentina.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Hace unos días, la CGT denunció que las negociaciones se habían trasladado unas cuadras, al Hotel Savoy, ubicado cerca del Congreso, sobre la Avenida Callao y con fuerte influencia de un sindicalista de Barrio Nuevo.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Sturzenegger está trabajando para el gobierno de Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Al menos, la última vez que respondió oficialmente, el gobierno de Javier Milei dijo que Sturzenegger no tiene un cargo oficial.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Sin embargo, y esto es inusual, Sturzenegger apareció en la cadena nacional donde Javier Milei anunció el DNU.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Algunos me decían que esto era normal, porque a veces negociar en el Congreso es incómodo, las oficinas son chicas, hay muchas cámaras...",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Nosotros nos reunimos con las autoridades de la Cámara para ver cómo se sigue.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Después, cuando vimos las personas que estaban invitadas ahí, yo particularmente llegué, vi quiénes estaban y dijimos, no, esto no es lo que...\"\n\n\"¿Estaba Federico Sturzenegger?\"\n\n\"Estaba Federico Sturzenegger, sí.\"\n\n\"¿Y estaban los jefes de bloque del PRO y de la UCR?\"\n\n\"No, no vi a los jefes de bloque.",
+      "entidades_detectadas": [
+        "pro"
+      ]
+    },
+    {
+      "frase": "La verdad que me pareció que no era el sentido de la reunión y me fui y no tengo mucho más que eso.\"\n\nOscar Agost Carreño integra Hacemos Coalición Federal, el bloque que lidera Miguel Ángel Pichetto y que integra distintas fuerzas en el Congreso.",
+      "entidades_detectadas": [
+        "pichetto"
+      ]
+    },
+    {
+      "frase": "Efectivamente, en la reunión había varios representantes del PRO: Cristian Ritondo, Silvia Lospennato, María Eugenia Vidal y Alejandro Finocchiaro, que son parte del gobierno y parte de la negociación.",
+      "entidades_detectadas": [
+        "vidal"
+      ]
+    }
+  ]
+}

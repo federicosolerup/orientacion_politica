@@ -1,0 +1,441 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 24,
+      "derecha": 61
+    },
+    "score_promedio": 0.681,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Esta sí, déjamela un poquito, la de *House of Cards*, que le va perfecto a la reina de Tolosa.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado es ella, la reina de Tolosa.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy pensaba cómo ilustrar esta editorial con la reina de Tolosa desnuda y recordé que hace dos años entrevisté en *Canal 9*, *Nada personal*, mi programa de la noche, en ese canal, a Laura Di Marco, periodista, amiga, y Laura es como su biógrafa, no autorizada por supuesto, y la describe a la perfección a Cristina Fernández de Kirchner, la mujer que más sabe de la reina de Tolosa.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es muy resentida y trabaja con ese resentimiento.",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Pero qué le pasó?",
+      "score": 0.709,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que hay mucho de lo que Jacobi decía recién, que coincido, que es cuando vos sufriste cosas, no te sanaste de esas heridas y de víctima pasas a victimario.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La vida de Cristina está llena de este tipo de cosas, de querer apropiarse.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, vive en Recoleta, podría vivir en otro barrio.",
+      "score": 0.507,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Alberto, no le cabe mucho el tema de los porteños, pero vivía en Puerto Madero, en *La Manzana*, un lugar más humilde.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es una chica de Tolosa, podría vivir en Villa Urquiza, en otro barrio.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Cristina, lo que le pasó no es tanto lo que le pasó, sino cómo ella lo interpretó.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina nació en 1953.",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esto le encuentro una suerte de padre, que le da marido y padre, que le da un nombre, que le da un estatus.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo cuento muchas escenas muy humillantes, que ella tiene la plata en el momento en que Cristina era adolescente, era muy clasista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mira, en un momento, ella le plantea al padre adoptivo que ella no quiere ir al colegio estatal, porque lo *fashion* de ese momento era ir al colegio privado y tener un novio que juega al rugby.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella finalmente conoce a un muchacho que juega al rugby y le pide al padre, que con bastante sacrificio lo logra, ir al colegio de la Misericordia, donde estaba becada.",
+      "score": 0.558,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta segunda parte, en otra entrevista que le hice en *Nada personal* a Laura Di Marco, ella habla de Néstor, de cómo Néstor Kirchner sometía a Cristina Fernández de Kirchner.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuenta que Néstor era maltratador con ella, que Cristina era brillante pero para el mal y además el plan del kirchnerismo para perpetuarse en el poder.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso incluía a Máximo Kirchner.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y cómo la sometía Néstor a ella?",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Néstor era muy maltratador y Cristina y tenían discusiones muy fuertes.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En mi biografía de Cristina, lo que digo es que Néstor era una suerte de padre sustituto, creo que te lo conté la última vez.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor es una especie de padre, de padre, de marido, de hombre que le da todo lo de lo cual ella carecía.",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le da un nombre, le da plata, le da la promesa de poder, de lo cual ella carecía en Tolosa.",
+      "score": 0.664,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Néstor tenía una más, por lo menos tenía varias, pero una que apareció, te acordás mediáticamente, que es Miriam Quiroga, incluso escribió un libro que se llamaba *Mi vida con Néstor* y todo lo que sea, algo así.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo creo que Cristina es dos, volviendo a tu pregunta, creo que ella es una mujer brillante, para el mal, pero es brillante, que tiene, digamos, una faceta intelectual donde sostiene determinadas cosas que después emocionalmente no las puede bancar.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, yo creo que lo que le está pasando ahora con Alberto es un poco lo que le pasaba a Néstor Kirchner cuando ella era presidenta.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, cuando Néstor Kirchner le deja la presidencia a Cristina, que fue una ofrenda, por eso digo que ahí había un amor enfermo, pero había amor.",
+      "score": 0.406,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él le ofrece, vos, a ver, ten en cuenta esto, ellos se conocen en La Plata, Néstor Kirchner era, se autopercibía como un *looser*, era un chico que no era muy agraciado, Cristina era muy linda, hay muchos testimonios que lo que revelan es que Néstor no podía creer cómo se había levantado a esa mujer.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella a la vez escapa de esa casa que era infernal, se van al sur, arman un proyecto político, un proyecto de poder y Néstor le ofrenda ese poder a esa mujer.",
+      "score": 0.514,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él le dice desde casi el inicio, nos tenemos que ir al sur para ganar platita, para hacer política, vos no podés hacer política sin plata.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después, si vos ves el traspaso de mando cuando Néstor le pasa el bastón a Cristina, lo hacen con una complicidad, de una manera que es como diciendo, esto es lo que te prometí, este es el pacto, y ella se ríe y es como que agarra el bastón y hay como una cosa cómplice entre los dos.",
+      "score": 0.261,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí empieza otra historia entre Néstor y Cristina Kirchner.",
+      "score": 0.473,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie puede negar que Cristina fuma debajo del agua y que es brillante pero para el mal, quedó clarísimo.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reina de Tolosa ordenó partir el bloque del Senado para quedarse con un lugar más en el consejo de la magistratura.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá la jugada de Cristina y cómo quedaron los dos bloques de senadores del frente de todos.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se partió el bloque de senadores del gobierno, de un lado, Mallmann, ese que decía que en pandemia, te acordás, no teníamos derechos, y del otro, Iturrióz y 13 más armando Unidad Ciudadana.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero que después Dragani les explique, qué es el consejo de la magistratura, porque mucha gente en redes me decía que lo explique Dragani porque sabemos que está todo mal lo que están haciendo, pero no sabemos qué es, que lo vamos a contar.",
+      "score": 0.172,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con su inesperada jugada en el Senado nos está diciendo que tiene el culo muy sucio, sin decirlo.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo haber visto a Adolfo Rodríguez Saá cuando era candidato en el 2015, la quería presa a Cristina y decía que Cristina había mandado a matar a Nisman.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mañana le voy a traer las pruebas de esa entrevista que salió entre la niña y el tenis.",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me lo dijo Adolfo Rodríguez Saá, José Uñac, Pablo Yedlin, qué vergüenza.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el bloque de Uñac Ciudadano, entre otros, Ana Almirón, Fernández Sagasti, íntima amiga de la reina de Tolosa, Juliana Di Tullio y Oscar Parrilli.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno respaldó la jugada de Cristina Kirchner en el Senado para quedarse con un consejero.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y Bilardo, que lo quiero, reyes de la trampa.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le pasa a la reina de Tolosa?",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Te acordás cuando Luis Juez, me acordé de esta foto hoy, decía un juez para Cristina en campaña?",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y nos vemos inmersos todos entre un capricho absolutamente inexplicable de una mujer que le tiene manía a la justicia.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a pedirle a la presidenta del Senado de la Nación que cumpla con la ley.",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y quiero decirle a la presidenta de la nación que si esto no lo hace en un tiempo perentorio, personalmente la voy a denunciar penalmente por incumplimiento de los deberes de funcionarios públicos.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se manda la jugada inesperada y deja pagando a la oposición.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me los imagino, los *imputos* por el cambio, diciendo nosotros, los pelotudos, que votamos el acuerdo con el fondo para garantizar la gobernabilidad.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aprendan del kirchnerismo, boludos, le digo a la oposición.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O hay Cristina o hay Argentina.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O hay Cristina o hay Argentina.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tengo las causas de Cristina antes de asumir, y es para morirse, porque esto se ha votado en la Argentina.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las causas que tenía Cristina antes de asumir como vicepresidenta.",
+      "score": 0.488,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así fue elegida Cristina sabiendo todas las causas que tenía.",
+      "score": 0.37,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina se cree mil.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Van a quedar en la historia de la Argentina como los mayores hijos de remil puta de esta patria.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lázaro Báez y su hijo, el mausoleo de Néstor Kirchner.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias, presidente, por el bono a Lázaro y los trabajadores de la economía popular Movimiento Evita Barrios de Pie.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la gente sólo le crece el monto de la tarjeta de crédito, las cuentas que no está pagando.",
+      "score": 0.283,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, que le den tierras en el campo, que vayan a trabajar.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le sacan la plata si no hay plata y hay inflación.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta Argentina tan incoherente es un placer escucharlo.",
+      "score": 0.649,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A Moyano le van a cobrar la renta inesperada?",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se lo bancan más como presidente y lo putearon.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El amigo del presidente, el que violó el DNU y se fue a Olivos a comer un asado, con Fabiola, con Alberto y con su hijo.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Qué Argentina decadente!",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Moyano se siente impune.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me comuniqué con el Movimiento Feminista Verde de la República Argentina para ver en qué lugar nos encontramos por primera vez ellas y yo para apoyar como mujeres que somos a la sobrina de Alperovich.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está acusado de abusar sexualmente de su sobrina y nos quiere vender que le acaban de hacer una cama.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pregunto al colectivo feminista ¿Están dormidas, chicas?",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un mundo lleno de mentiras, la boca que se atreve a decir verdades se convierte en el arma más perseguida.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no los citan Alberto y Cristina?",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer preguntó cuánto estaba un kilo de azote y le dijeron que Maradona se murió.",
+      "score": 0.23,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy me duele la Argentina mucho.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por dos mangos le mienten a las pendejas que van con el pañuelo verde y la mochila en el colectivo con el pañuelo verde.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le dicen que aborten.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y las pendejas le creen.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ofelia le quiso pegar a la reta y terminó pegándole a Kicillof.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No te cruces con Moyano en la cancha de Independiente.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está todo el poder judicial, político, creo que sí es justo dar nombres, pero lo que le están haciendo a mi hija es tremendo.",
+      "score": 0.506,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Marina, contalo, porque en esa universidad se llenan la boca hablando de moral, aman cancelar a la gente que dice la verdad.",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 85
+  },
+  "etiqueta_original": "neutral"
+}

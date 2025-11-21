@@ -1,0 +1,802 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buenos días, Jorge Rial, de Radio 10.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Jorge, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Vi una foto y pensé: \"¿Se casó con Cristina?\".",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Era una foto del casamiento, ¡vaya!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, José.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "Jorge, me gustó tu cortina musical, la de Bob Marley.",
+      "entidades_detectadas": [
+        "Bob Marley",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Sí, ¿viste?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y dice: \"¿Qué queremos?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a tener que vivir fumados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una cosa es reggae y otra cosa es *reggae*, ¡pum!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, son diferentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y estamos del lado de… Un genio el tipo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el que le enseñaba a tocar la guitarra a Bob Marley es Peter Tosh.",
+      "entidades_detectadas": [
+        "Bob Marley",
+        "Peter Tosh"
+      ]
+    },
+    {
+      "frase": "La voz es un fenómeno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un fenómeno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros estamos haciendo los boludos, siguiendo a la oposición para hablar de la realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, mira, tuvimos la visita de la vicepresidenta electa en el estudio, que la verdad es que fue muy linda, en el sentido de que vamos a trabajar juntos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue muy amable; obviamente, estuvimos hablando del funcionamiento del Senado.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Más o menos, yo dije, según mi experiencia, porque en el Senado hay 46 comisiones, de las cuales la mitad son comisiones dictaminadoras y la otra mitad son comisiones de cámara.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Ellos tienen siete senadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay 15 comisiones que son exigentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este momento, podrían poner un senador por cada comisión, pero les faltan ocho para tener quórum, por ejemplo, y para poder tener despacho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no tenés despacho, no tenés tratamiento legislativo, porque necesitás dos tercios para eso ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que bueno, todo eso estuvimos hablando para hacerlo posible, porque en este tiempo nosotros trabajamos con un quórum escrito de 37.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La visión que tuvo la oposición en ese momento, liderada por [Nombre del líder de la oposición -  información faltante], fue la de mantener el quórum.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no teníamos el número, no podíamos hacerlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, ahora que viene un tiempo nuevo, me dijo que vienen tres proyectos por parte del Poder Ejecutivo: la reforma del Estado, la ley de emergencia y la ley de presupuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una vez que estén escritos, vamos a ver cuál es la propuesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque obviamente los modelos que confrontamos son diametralmente opuestos, tanto el de [Nombre del líder de la oposición - información faltante] como el nuestro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son modelos totalmente opuestos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que estamos queriendo ver cuál es la visión y cuál es la propuesta que tienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a opinar luego.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, que ya tienen tres proyectos que seguramente entrarán, me dijiste recién.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el caso, por ejemplo, de la ley de interés, yo creo que no hay problema porque la ley de administración financiera establece que son cinco las partidas del presupuesto: servicios sociales, servicios económicos, servicios de defensa y seguridad.",
+      "entidades_detectadas": [
+        "interés"
+      ]
+    },
+    {
+      "frase": "Ahí pueden reasignar como quieran y después definir el tema de la asignación presupuestaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí vamos a ver cómo va a estar compuesta la distribución que hacen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después está la ley de presupuesto, que obviamente lo primero que tienen que hacer es fijar el valor del peso, porque como él decía que el peso no sirve para nada, lo va a tener que fijar porque las transacciones comerciales entre los países se hacen por intercambio de moneda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahí estamos hablando de 150.000 millones de dólares; tenemos países limítrofes, somos países signatarios en el Mercosur: Uruguay, Brasil, Paraguay, Bolivia; también tenemos convenios con Chile.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Uruguay",
+        "Bolivia",
+        "Paraguay",
+        "Chile",
+        "Mercosur"
+      ]
+    },
+    {
+      "frase": "Y fijar el valor de la transacción comercial es fundamental, o sea, cuánto va a valer el peso con respecto a otras monedas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahí se va a ver cómo va a estar compuesta la distribución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro tema que se fija es el IPC, o sea, el índice de precios al consumidor, que basado en eso los bancos determinan la tasa de interés y se producen las transacciones comerciales; eso depende también del valor del dólar, del trabajo en el exterior, eso es fundamental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después la política monetaria, porque la política monetaria establece los compromisos que tiene el país en materia de títulos públicos; todas estas cosas están ahí, tengo la lista completa, la verdad que lo va a tener que fijar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, esa es la primera parte; la segunda parte es la parte impositiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Viste que [Nombre del líder de la oposición - información faltante] decía que los impuestos son un robo?",
+      "entidades_detectadas": [
+        "¿Viste"
+      ]
+    },
+    {
+      "frase": "En realidad no es un robo, porque es una contribución que hace el ciudadano a la política de defensa, de seguridad, de educación y de salud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Viste que en Estados Unidos puede hacer muchas macanas, pero lo que no puede hacer es perjudicar al Estado, que es la democracia que a mí me gusta?",
+      "entidades_detectadas": [
+        "Estado",
+        "¿Viste",
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "O sea, que el impuesto no es un robo, el impuesto es una contribución proporcionada a la difusión que puede hacer cada uno, de acuerdo a la actividad que tiene.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, eso es lo que se fija.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Ahí tenemos seis impuestos centrales que son el 90% de la recaudación; bueno, queremos saber cuál es la propuesta, porque hay muchos que son no coparticipables y hay otros que son nacionales, puramente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si lo va a bajar, si lo va a subir, si lo va a cortar por la mitad, bueno, vamos a ver qué van a hacer los trabajadores que trabajaron para [Nombre del líder de la oposición - información faltante], porque habló también de sacar el índice con participación, que es un convenio, de verdad que tiene una mayoría de especiales, eso tiene que ser votado por el Congreso.",
+      "entidades_detectadas": [
+        "habló",
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Pero José, cuando… Y aparte de eso, eso es en el tema de recursos, ¿verdad?",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en el tema de gasto, te adelanto que hay 22 millones de personas que cobran del presupuesto nacional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De estos se acuerdan, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá hay 22 millones de personas que, al fin y al cabo, van a querer cobrar.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Y en eso, por ejemplo, [Nombre del presidente anterior - información faltante] se va invicto porque pagó todos los meses, no se fue en default, dejó un billón en la caja, les dio plata a las provincias por convenios que tenían para ayudar en el tema de la sequía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que bueno, [Nombre del presidente anterior - información faltante] nos dejó en default, no nos dejó un peso, dejó el 40% de lo que le dejamos en deuda a [Nombre de personaje - información faltante], dejó el 100% de [Abreviatura - información faltante].",
+      "entidades_detectadas": [
+        "Nombre",
+        "Abreviatura"
+      ]
+    },
+    {
+      "frase": "Y lo más delicado es que [Nombre del presidente anterior - información faltante] se vuelve a hacer cargo de la economía, así que bueno, me preocupa realmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, van a tener trabajo ahí, José.",
+      "entidades_detectadas": [
+        "Bueno",
+        "José"
+      ]
+    },
+    {
+      "frase": "Y bueno, pero aparte está la tercera parte del presupuesto que es la inversión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, pero… Ayer estuve hablando con el gobernador de San Juan, que va a ser senador ahora, [Nombre del gobernador - información faltante], y dice que tienen aproximadamente 10.000 personas que están trabajando con el tema de la inversión pública, que está garantizada por el presupuesto plurianual.",
+      "entidades_detectadas": [
+        "Ayer",
+        "San Juan",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Si [Nombre del presidente anterior - información faltante] desconoce el presupuesto plurianual, vamos a tener muchos problemas, muchas demandas, ¿verdad?, porque son convenios entre Nación y provincia.",
+      "entidades_detectadas": [
+        "Nación"
+      ]
+    },
+    {
+      "frase": "O sea, que él me dice que si desconoce eso, hay 10.000 personas que van a ir a la calle en San Juan.",
+      "entidades_detectadas": [
+        "San Juan"
+      ]
+    },
+    {
+      "frase": "En San Juan nada más.",
+      "entidades_detectadas": [
+        "San Juan"
+      ]
+    },
+    {
+      "frase": "Sí, y bueno, en otras provincias va a pasar lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, sí, sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué va a pasar ahí?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué va a hacer?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Va a desconocer los presupuestos plurianuales, los compromisos que tiene la Nación con las provincias?",
+      "entidades_detectadas": [
+        "Nación"
+      ]
+    },
+    {
+      "frase": "¿Qué van a decir los gobernadores que trabajaron para [Nombre del líder de la oposición - información faltante]?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque, por ejemplo, el de San Juan trabajó para [Nombre del líder de la oposición - información faltante], ¿verdad?",
+      "entidades_detectadas": [
+        "San Juan"
+      ]
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este, el de Mendoza también, cuando les corte eso, ¿qué va a decir?",
+      "entidades_detectadas": [
+        "Mendoza",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Que están de acuerdo, van a estar de acuerdo con que no exista coparticipación, van a estar de acuerdo con anular el 14-20.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero tienen que estar de acuerdo, José, si los votaron y sabían que [Nombre del líder de la oposición - información faltante] siempre habló de eso.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "Por eso digo, cuando presenten estos proyectos, ¿verdad?, vamos a saber, porque si a mí, por ejemplo, me dicen, como le dije a [Nombre de persona - información faltante], si quieren privatizar el sistema previsional, no estoy de acuerdo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Porque le he dicho la estafa que fue el tema de la privatización del sistema previsional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Fondo de Garantía de Sustentabilidad que va a controlar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos hablando de más de casi 50.000 millones de dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí vi que está a punto de querer transformar la deuda en pesos a deuda en dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, quieren la deuda en pesos y la quieren pasar a dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos tenés una responsabilidad institucional, ¿qué hacés, José?",
+      "entidades_detectadas": [
+        "Vos",
+        "José"
+      ]
+    },
+    {
+      "frase": "Mauro Federico te saluda.",
+      "entidades_detectadas": [
+        "Mauro Federico"
+      ]
+    },
+    {
+      "frase": "¿Estás en una de las comisiones de seguimiento que tiene el Parlamento relacionado a… la comisión de… ¿endeudamiento?",
+      "entidades_detectadas": [
+        "¿Estás",
+        "¿",
+        "Parlamento"
+      ]
+    },
+    {
+      "frase": "¿No?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Del seguimiento del endeudamiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay dos auditorías, una que está en la Auditoría General de la Nación, que está en manos de la oposición.",
+      "entidades_detectadas": [
+        "Auditoría General de la Nación"
+      ]
+    },
+    {
+      "frase": "Hay dos dictámenes, ¿verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno que es sobre la deuda de 100 años que hizo Caputo, que explica completamente la estafa que fue esa deuda.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "¿Verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También explica el tema del endeudamiento con el FMI y el endeudamiento completo, y bueno, ese mismo grupo se hace cargo de la economía argentina ahora.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Sí, sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que es preocupante realmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, si van a resolver… Yo te hago una imagen, dos cosas ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el presupuesto vos tenés dos esquemas: el esquema de la deuda y el esquema del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Si vos recaudás, por ejemplo, 20, ¿verdad?, le das 10 a la deuda porque ni le dice que va a hacer déficit 0, va a bajar 4 puntos de productividad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si vos le das 10 a la deuda y le das 10 al Estado, perfecto, tenés el equilibrio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero si recaudaste 15, ¿a quién le vas a sacar 5?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A la deuda o al Estado?",
+      "entidades_detectadas": [
+        "Estado?",
+        "¿A"
+      ]
+    },
+    {
+      "frase": "Porque ahí estamos hablando de más de 20 millones de personas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solamente el sistema previsional y no de millones de personas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después tenés los programas sociales, 1.300.000, en la AUH 4.500.000.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Y esa gente, obviamente, quiere ver su plata en el banco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la realidad, la que ha hecho el gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la realidad a la que ahora entramos, ¿verdad?, porque todo lo demás, que vamos a terminar con la casta, vamos a terminar con el déficit, bueno, ahora estamos viendo qué va a pasar porque ahora empezó la hora de la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema que tiene Argentina muchas veces es que es mejor que el debate público que tiene.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Tenemos en este momento 420.000 millones de dólares de deuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hay que reprogramarlo, hay que ver cómo se hace.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Hay que trabajar para la quita de esa deuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque la otra parte del Estado, hay que definir a quién le va a dejar afuera.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Si le va a dejar afuera al sector previsional, le va a dejar afuera a los docentes, le va a dejar afuera a los militares, a los de la… Es complejo el tema, no es tan sencillo ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces quiero ver cuál es el plan que traen estos tres proyectos de ley para que comencemos a hablar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuándo se trataría esto, José?",
+      "entidades_detectadas": [
+        "José",
+        "¿Cuándo"
+      ]
+    },
+    {
+      "frase": "Yo creo que viene una vez que asuman y presenten el proyecto real.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perfecto, extraordinario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dijo que… Fue la reacción muy buena, ya es muy amable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablamos de respeto mutuo, de trabajar juntos y obviamente que no estamos obligados a pensar igual, ¿verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, claro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dijo que cuando tenga el proyecto, obviamente nos lo van a enviar para que comencemos a analizar el tema técnicamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo conozco el tema de los decretos únicos, esto que mandaba Caputo, ¿verdad?",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Obviamente que después de eso tuvimos el default en pesos, inédito realmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que si vienen con una renovación en su visión, me parece que puede por lo menos presentar otra visión, pero hasta ahora queremos saber de qué se trata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, todo lo que nos muestren.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si van a privatizar las empresas… hay algunos que ya dijeron que el PAMI vale 8.000 millones, el maquinario del PAMI que tiene de presupuesto por cuatro años, 8.000 millones de dólares, lo están empezando a regalar.",
+      "entidades_detectadas": [
+        "PAMI"
+      ]
+    },
+    {
+      "frase": "José, nada de esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero ver qué es lo que quieren hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, vamos a estar atentos, José, a todo esto.",
+      "entidades_detectadas": [
+        "Bueno",
+        "José"
+      ]
+    },
+    {
+      "frase": "Vamos a estar atentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va a estar bueno saber, primero, el reordenamiento del sistema del ministerio; después va a estar bueno ver cuál es la consideración de emergencia que tienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va a ser el planteo de la deuda, el planteo de las LELIQ, el planteo del Banco Central, que le informaron ya que no puede cerrar porque el Banco Central es el jefe de todos los bancos, o sea, se terminaría con el sistema bancario argentino.",
+      "entidades_detectadas": [
+        "Banco Central",
+        "LELIQ"
+      ]
+    },
+    {
+      "frase": "Ahora ya saben que no se puede cerrar eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es parte de una ley especial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo entendió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que pasa es que la gente que ahorra va y pone la plata en el banco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los bancos que hacen, compran LELIQ porque les da buena tasa.",
+      "entidades_detectadas": [
+        "LELIQ"
+      ]
+    },
+    {
+      "frase": "LELIQ es todo peso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es LEBAC.",
+      "entidades_detectadas": [
+        "LEBAC"
+      ]
+    },
+    {
+      "frase": "Las LELIQ son las sucesoras de las LEBAC.",
+      "entidades_detectadas": [
+        "LEBAC",
+        "LELIQ"
+      ]
+    },
+    {
+      "frase": "Las LEBAC hicieron esos errores que prácticamente duplicaron la base monetaria cuando entregaron el préstamo prácticamente con la duplicación de la base monetaria a tres o cuatro por ciento.",
+      "entidades_detectadas": [
+        "LEBAC"
+      ]
+    },
+    {
+      "frase": "Tenemos todo eso registrado nosotros, así que bueno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para decir las cosas como son, obvio, obvio, obvio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y después bueno, qué quieren hacer con las empresas públicas, muchos se estarán preguntando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De acuerdo a que había empresas, por ejemplo, de energía, que al Estado le habían salido dos mil millones o tres mil millones de dólares y las vendieron por cuatro a siete porque ellos consideraban que no habían cumplido su ciclo, que habían estado amortizadas.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Ese tipo de negocios eran en medio con su grupo ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, se quieren quedar con el Estado y se quieren quedar con todo, así que nos dejen algo para el pueblo, José.",
+      "entidades_detectadas": [
+        "Estado",
+        "José"
+      ]
+    },
+    {
+      "frase": "Como siempre, un gusto hablar contigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a estar atentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abrazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "11:28\n\n\n**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "habló",
+    "Congreso",
+    "Abreviatura",
+    "Caputo",
+    "Esa",
+    "Mauro Federico",
+    "Vamos",
+    "Banco Central",
+    "¿Qué",
+    "¿Va",
+    "Abrazo",
+    "Uruguay",
+    "Nombre",
+    "Mendoza",
+    "Qué",
+    "Parlamento",
+    "Jorge Rial",
+    "San Juan",
+    "Ahí",
+    "¿Estás",
+    "Estado",
+    "LEBAC",
+    "¿Verdad?",
+    "José",
+    "Vos",
+    "Estado?",
+    "Acá",
+    "Nación",
+    "Buenos días",
+    "Claro",
+    "PAMI",
+    "Argentina",
+    "Ayer",
+    "¿No?",
+    "Cristina",
+    "Bueno",
+    "FMI",
+    "Después",
+    "interés",
+    "Brasil",
+    "¿",
+    "Me",
+    "LELIQ",
+    "Las LEBAC",
+    "Obviamente",
+    "Bob Marley",
+    "Bolivia",
+    "Paraguay",
+    "Chile",
+    "Jorge",
+    "en Estados Unidos",
+    "Así",
+    "Senado",
+    "Auditoría General de la Nación",
+    "Mercosur",
+    "Peter Tosh"
+  ]
+}

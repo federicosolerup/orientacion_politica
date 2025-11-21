@@ -1,0 +1,436 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 59,
+      "derecha": 25
+    },
+    "score_promedio": 0.316,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está en estado de efervescencia desde hace tiempo, especialmente desde hace unos meses, y ese estado de efervescencia, que vamos a describir ahora, ha aumentado en esta semana.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay que perder, cuando sucede ese nivel de vibración, cuando la realidad se vuelve tan electrizante, cuando las noticias fluyen y nos van cambiando el foco de atención todo el tiempo, no hay que perder de vista los problemas principales, sobre todo las dinámicas de fondo que ordenan la vida pública y, especialmente, el problema del poder, que siempre es un problema.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei constituyó su personalidad pública, evolucionó en el afecto de un sector importante de la sociedad argentina, generó expectativa, ganó la elección haciendo palanca sobre una base, sobre un punto de apoyo.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese punto de apoyo es un nivel pocas veces visto de desencanto de buena parte de la sociedad con el sistema político, con la dirigencia política, un estado muy profundo de frustración que se traduce en indignación.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él, a partir de ese estado de ánimo, le muestra a esa parte de la sociedad un enemigo.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La promesa de Milei es resolver los problemas a partir de la derrota de un enemigo, que es la dirigencia convencional, sobre todo la dirigencia política.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema que plantea una paradoja, una contradicción, para Milei un dilema.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hay en la Argentina una corte independiente, es decir, que hay un problema para implementar esa guerra y derrotar al adversario.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, resolver problemas necesita algún tipo de transacción\" y voy a decir una palabra que está aparentemente abolida del diccionario de este oficialismo, como parecía estar abolida del diccionario del kirchnerismo, sobre todo de Cristina Fernández de Kirchner.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su enfoque amigo-enemigo, en esta consigna de Javier Milei que dice: \"Yo no doy un paso atrás\", lo dice, no sabemos si lo hace, después vamos a ver hasta dónde eso es realidad o marketing, hay un principio básico de la política populista que aparece por todos lados en el discurso presidencial.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche Milei le explicó a Luis Majul que él, y esta es una fantasía recurrente en todos los liderazgos populistas, no tiene intermediación entre él y la sociedad.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo no debe haber prensa en el medio, que es una especie de espejo que deforma, deforma narrativamente, deforma porque critica.",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las redes, la gente y yo, le da una importancia enorme a este gobierno las redes sociales.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Iñaki Gutiérrez, Nicolás Brandeis, ministros del gobierno, figuras encumbradas del oficialismo en el Congreso, dicen: \"Esta cuenta es la cuenta de Santiago Caputo, el cerebro del marketing de Javier Milei\".",
+      "score": 0.521,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la misma entrevista con Luis Majul, Milei dijo algo muy interesante que se lo dijo también, tengo entendido, en una conversación que tuvieron hace pocos días, Alberto Fernández.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como hablan Milei y Alberto Fernández, para reprocharse cosas y para darse consejos.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dijo: \"Yo hablo con muy pocos ministros, yo estoy concentrado en la economía, en la seguridad y en la contención social.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hablo con Sandra Pettovello, que es una figura que por la larga amistad que tiene con Milei es muy importante en la armonía del grupo.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más de cerca, los que miran más el centro del gobierno dicen, en realidad, Milei es un economista que está centrado en la economía.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso implica una estrategia de confrontación, a la que se suma Santiago Caputo, a la que se suma Patricia Bullrich, que le dicen: \"Nos lo llevamos a todos puestos, no hay que negociar, están asustados, les ganamos.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sigue el tono de la campaña, mal no le va, porque miren este cuadro de imagen presidencial que aparece en un estudio de opinión, una encuesta de Aresco, la consultora de Federico Aurelio.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto nos está diciendo, después vamos a ver otros números de esta encuesta, esto nos está diciendo que Milei conserva, a pesar de su discurso, de ajuste, de austeridad, prácticamente el mismo nivel de aceptación y de consenso que recogió en las urnas en el balotaje.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá hay algo muy importante, el balance entre los dos, esto es lo que más valora un político, lo más importante al ver la imagen de un político, sigue siendo mayor la positiva que la negativa, es decir, en el saldo le va muy bien y muy probablemente gran parte de esta adhesión se deba a que mantiene las banderas de la lucha, a que no se presenta solamente ni principalmente como alguien que resuelve problemas negociando, sino como alguien que vence al otro, que derrota al otro, aquel al cual él y la sociedad le atribuye su sufrimiento o el sufrimiento de la gente.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es una pregunta que se le hace al público en general, por ahora.",
+      "score": 0.472,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quién le pone rumbo a la navegación?",
+      "score": 0.683,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es quién dirige, quién tiene la fórmula política de esta Argentina un poco caótica, invertebrada, que surgió de todo el proceso electoral que tuvimos el año pasado, inspirada en el mal humor público y en una gran crisis de representación que deviene de ese mal humor público.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Milei tiene control de la maquinaria que permitiría a Milei ganarle al enemigo si no resolver problemas?",
+      "score": 0.254,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es una pregunta importante porque la fórmula política, la posibilidad de controlar el juego, lo decíamos hace un par de lunes, lo volvemos a plantear ahora, plantea una disputa entre Milei y la oposición.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay un estado de consternación y de perplejidad en toda la dirigencia política.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estoy seguro de que sean todos, que es un acuerdo con los gobernadores que se proyecte sobre el Congreso y le dé a Milei y a su oficialismo una fórmula de gobernabilidad.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si va a haber un acuerdo con los gobernadores peronistas o un acuerdo con los gobernadores que incluya los gobernadores peronistas, es de pensar, hay que suponer, que los legisladores que obedecen a esos gobernadores van a votar un programa, por lo menos mínimo, del gobierno y no van a estar en posturas intransigentes como las que uno puede suponer en todo el kirchnerismo más duro.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición, como les decía recién, está buscando una fórmula y estamos viendo novedades en este sentido.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este viernes va a haber un Congreso del PJ.",
+      "score": 0.399,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese Congreso del PJ le van a pedir elegantemente, sin faltar el respeto, una licencia, ni siquiera una renuncia, a Alberto Fernández.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la comisión de acción política, donde habrá seguramente representaciones provinciales y representación de Cristina Fernández de Kirchner, van a ser tres personas, seguramente va a iniciar un proceso de renovación dentro de ese partido porque la propia existencia de una comisión de acción política y no de un jefe implica que es muy difícil lograr una síntesis, porque el peronismo viene de una derrota dramática que Cristina Fernández de Kirchner ha sabido muy bien disimular.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jorge Lomazzi, embajador de Mauricio Macri en Perú, por gestión y apoyo de Miguel Pichetto, se estuvo reuniendo hace una semana con Cristina Fernández de Kirchner.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner y Lomazzi no hablan del tiempo, hablan de poder.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La segunda era intentar una mayoría en el Congreso para coparticipar los impuestos en beneficio de las provincias en detrimento de Milei y de Luis Caputo.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La tercera jugada era reponer el fondo docente y eventualmente un fondo de la soja para que se distribuya entre las provincias.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le echan la culpa a Victoria Villarruel, a la que, por alguna razón desconocida, no incorporan a la mesa de debate político del oficialismo.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Victoria Villarruel le echan la culpa de que le votaron en contra el decreto.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se abstuvieron dos misioneros que podrían haber estado a favor, porque la provincia de Misiones es una provincia amigable para el gobierno, empezando por el gobernador.",
+      "score": 0.502,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se lo podría haber convencido a ella y a su esposo de tener una posición más cercana, porque tampoco votaron en contra.",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y votaron en contra gente que a lo mejor se podría haber obtenido.",
+      "score": 0.598,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se está encargando, desde que este gobierno llegó y desde antes, de decir que él piensa totalmente distinto la realidad argentina respecto al gobierno y sobre todo la política económica.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no se cansa de verduguearlo, si uno quiere, de hacerle bullying.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a lo mejor Milei está pagando, si uno mira muy de cerca, muy mirando los hilos finos del juego, Milei está pagando también contradicciones internas de Juntos por el Cambio.",
+      "score": 0.288,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otro diputado que votó en contra, radical, Pablo Blanco, y una diputada, Edith Terenzi.",
+      "score": 0.421,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Blanco votó en contra y dice que los empresarios vinculados al régimen de Tierra del Fuego lo llamaron, las versiones dicen los dos clásicos, Nicky Caputo y Rubén Cherniazsky, los reyes del ensamblado electrónico.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Milei dice que no se puede terminar con ese régimen.",
+      "score": 0.556,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es más, dice que el régimen casi que es beneficioso porque cobra bajos impuestos, ignora o creo que simula ignorar lo central del régimen de Tierra del Fuego, que no es la desgravación impositiva, es el nivel de protección arancelaria que tiene, los diferenciales impositivos que le da una fortuna de rentabilidad o de plusvalía a esos empresarios que se arman al Congreso para que no se acabe esa fiesta.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta dispersión es la que le permitió a Milei llegar al poder y es hoy la que lo perjudica, porque no hay un oficialismo que pueda confrontar con el peronismo y por eso se hace más indispensable un acuerdo con los gobernadores para resolver problemas, no para vencer el enemigo.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hubo una reunión, tengo entendido que hoy, entre Mauricio Macri y Horacio Rodríguez Larreta.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para preparar la llegada de Macri a la presidencia del PRO que es inminente.",
+      "score": 0.204,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están con Milei, como en el 2015-2016 los votantes del radicalismo estaban con Macri y los radicales se tenían que inclinar.",
+      "score": 0.246,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si a Milei le va bien, somos la UCD de Menem, somos la rueda de auxilio de Milei.",
+      "score": 0.798,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si a Milei le va mal, somos el frepaso de De la Rúa.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es una conversación que implica que el PRO está al borde de la ruptura.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el verdadero enfrentamiento, no es un enfrentamiento entre Macri y Bullrich, que son dos formas distintas de estar con Milei.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Congreso que era un cementerio se ha convertido en un hormiguero, hay que saber leerlo.",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El jefe de la UOM, el secretario general de la UOM, Abel Furlán, muy ligado a Cristina Fernández de Kirchner, relativamente ligado a Máximo Kirchner, es el jefe de la UOM y viene de Campana, viene del grupo Techint, de ser sindicalista en esa actividad.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero me interesan estas declaraciones de Paolo Rocca, que es él, como todos sabemos, chairman de Techint, probablemente el empresario y no probablemente más importante de la Argentina por el volumen de su industria, por el volumen de su empresa.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo también está hablando de que por la huelga un empleado promedio de la industria siderúrgica pierde por seis días de paro 250 mil pesos de salario.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está la reposición de lo que se quitó del impuesto a las ganancias, gran tema que muchos gobernadores no quieren acompañar, le piden al gobierno que participe a otros impuestos, por ejemplo el del cheque.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya anoche a Majul le dijo Milei que no.",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al gobierno le gustaría que le deleguen la formulación de esa ecuación y dicen nosotros pagamos el costo de ajustar a los jubilados, licuarles la jubilación.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición y algunos aliados le dicen no, no te podemos dar esa lapicera.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el gobierno le dice no, esa lapicera.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Milei anoche también dijo no, DNU para la fórmula jubilatoria no.",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora se le van a imponer ese impuesto, es decir, el sector petrolero va a tener un recorte de 35% en su salario.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Piensan en la casa de gobierno que hacia la tercera semana de abril podría llegarse a un acuerdo que incluya la fórmula jubilatoria, el tema de ganancias, la ley ómnibus, reducida, como decíamos, a 268 artículos.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se cumple lo que dijo Rosatti el martes, el presidente de la Corte, Horacio Rosatti, el martes de la semana pasada, en una reunión de AmCham, convocada por Facundo Gómez Minujín, que es el presidente de AmCham.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta compañía, esta consultora que se llama C&A, es una consultora que le provee a toda la industria del consumo, al sector del consumo, al sector industrial y al sector comercial.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De 2,48 salta a 2,74 y después pasa a 4,22.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sabemos si va a haber licitación como en su momento intentó hacer Macri y avanzó en ese sentido o no en este gobierno que aprecia tanto el mercado en la relación industria farmacéutica-PAMI.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El PAMI es el 40% del mercado de medicamentos.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La industria le dice al gobierno: \"Si me pedís que te regalen los medicamentos en el PAMI no me podés pedir que baje tanto los medicamentos en la farmacia\".",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Caputo toma otras medidas.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, por último, este Caputo, Luis Caputo, el segundo Caputo, el de este gobierno, ministro de Economía, se empieza a parecer al primer Caputo, el que integraba el equipo de Prat-Gay al comienzo del gobierno de Macri.",
+      "score": 0.231,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque empieza a transfigurarse y de un Caputo del shock empieza a ser un Caputo más gradualista, con perdón de la palabra y con perdón del presidente.",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a empezar Odisea conversando, vamos a hablar de algunos de estos temas, con Marcos Pereda, productor agropecuario, vicepresidente de la Rural, presidente del Consejo Interamericano del Comercio y la Producción, que es una organización múltiple de muchos empresarios.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después vamos a hablar, vamos a escuchar a Pancho Olivera y a Daniel Bilotta, nos van a hablar de narcotráfico, todo el problema del narcotráfico y del conflicto político alrededor de ese problema en Rosario y algunas derivaciones, comparaciones, el espejo de la provincia de Buenos Aires.",
+      "score": 0.158,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Perdón, antes del whisky vamos a tener a Ana Iparraguirre, no se la pierda, Ana Iparraguirre nos trae un tema de extraordinaria actualidad que hace juego con lo de Rosario y la provincia de Buenos Aires.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo escriben a dúo Jorge Macri y su mujer, María Belén Ludueña, su álbum de viajes, imperdible.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 84
+  },
+  "etiqueta_original": "neutral"
+}

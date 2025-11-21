@@ -1,0 +1,291 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 32,
+      "derecha": 23
+    },
+    "score_promedio": 0.42,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy es 29 de febrero, señores, se termina el segundo mes del año.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se prepara, por supuesto, para inaugurar lo que van a ser las sesiones ordinarias del Congreso Nacional.",
+      "score": 0.346,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro que este año el presidente Javier Milei tiene que hacer algo disruptivo, algo distinto.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí en la Cámara de Diputados se viene preparando un atril.",
+      "score": 0.548,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la nación sentado en la poltrona del presidente de la Cámara.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la Cámara de Diputados rodeado por el presidente de la Cámara de Diputados y el presidente de la Cámara de Senadores.",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y del otro lado, **Martín Menem**, presidente de la Cámara de Diputados, que ayer también estuvo en Casa de Gobierno.",
+      "score": 0.34,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había alguna duda sobre si iban a ser invitados o no los gobernadores, por esta guerra que tiene el presidente con los gobernadores.",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esta vez lo que se está acondicionando dentro del recinto de la Cámara de Diputados es un atril para que el presidente, en vez de estar sentadito, hable parado allí ante la asamblea legislativa.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer hubo reuniones raras, un miércoles raro ayer, porque generalmente el presidente no va a Casa de Gobierno los miércoles, va los martes y los jueves cuando hay reunión de gabinete.",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después tuvo una reunión a solas con **Cristian Ritondo**, el presidente de la Cámara de Diputados, acercando posiciones con el PRO.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le preguntaron, por supuesto, de qué se trata.",
+      "score": 0.512,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alguna palmadita al presidente del bloque, diciéndole: vas a ver, te vas a sorprender vos también.",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y va a haber alguna sorpresa, dijo el presidente en la asamblea legislativa.",
+      "score": 0.71,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se sabe: Javier Milei contra el Congreso, nido de ratas, coimero.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dijo un poco de todo a los diputados, y del otro lado ver cuál va a ser la reacción de los legisladores.",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, si empieza a escalar en agresiones el presidente y los diputados, ¿qué van a hacer?",
+      "score": 0.769,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se van a parar, va a haber gritos, va a haber insultos, se van a levantar y se van a ir, como en un momento hizo diputados del PRO cuando hablaba **Alberto Fernández**.",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se espera un show por parte de Javier Milei.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No lo había propuesto **Mauricio Macri** como presidente de la Cámara de Diputados, fue resistido en su momento por Milei, diciendo uno propio, como es Martín Menem.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero buena sintonía hay entre Javier Milei y los diputados del PRO, con lo que espera tener ahí un músculo legislativo un poquito más fuerte, con estos más de 70 legisladores que pueden sumar entre el PRO y La Libertad Avanza.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Guillermo Francos**, ministro del Interior y gran equilibrista del gobierno nacional y, digamos, todo, porque es el que va, se reúne con uno, se reúne con otro, trata de ser componedor, después viene la andanada de tweets de represalias de Milei, que rompe todo, y él vuelve otra vez a tejer la telaraña que había tejido antes, que Milei rompió, y él, con toda paciencia, otra vez, vuelve a tejer y recibe a uno y se reúne con el otro y hace un llamado.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es importante la del ministro del Interior, en este caso, Guillermo Francos, que dijo Guillermo Francos: el presidente no da marcha atrás.",
+      "score": 0.639,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está claro que en la caja de cambios del presidente no trajo la marcha atrás y, a veces, no trae el freno, lo cual está trayendo algunos problemas.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guillermo Francos, ministro del Interior: El presidente no recula, no va para atrás, al contrario, cada vez que le ponen una barrera, la barrera va para adelante.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no quiero ponerlo en términos de quién avanza más o avanza menos, lo que sí tengo claro es que el presidente no da marcha atrás y va a plantear en su...",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Seguramente en su discurso ante el parlamento el viernes, planteará el estado de la república, cómo la encontró, cómo están las cuentas de la nación y qué es lo que está haciendo para solucionarlo.",
+      "score": 0.282,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un presidente que es un librista, tratando de no pegarle a los gobernadores, acercar posiciones, adelantando esto que decíamos de lo que va a hablar Milei mañana por la noche y la expectativa que hay con respecto a esto.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro que estuvo con Milei, después se alejó y ahora es una de las espadas legislativas que tiene el presidente de la nación, y también de la pelea con los gobernadores, hablando de que él es un país federal.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde la oposición le dicen: están buscando la desintegración nacional con este planteo.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, hoy estamos con esta enfermedad donde las provincias manipulan a la nación, la cagan cada vez que pueden con los préstamos que toman con nación, y la nación la vive manipulando con la plata que les manda.",
+      "score": 0.316,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada provincia recaba esos impuestos, muchos impuestos patrimoniales, le podrían recabar los municipios, como por ejemplo el inmobiliario o el silenciario rural, eliminando todas las tasas que dejen de cobrar tasas y cobrar impuestos.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De esta manera, vamos a tener municipios muy fuertes, muy fuertes, provincias menos fuertes que los municipios, y el más chiquito era el estado nacional.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue presidente de la Federación Agraria, después se apartó de la dirigencia, estuvo cerca en un momento del gobierno de Alberto Fernández, y así se habló de algo que por lo bajo se viene comentando en algunos de los pasillos de la política.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué puede pasar con el presidente Javier Milei de aquí en más?",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero esto decía Eduardo Buzzi: No sé, se quedó en el personaje de hace algunos años atrás, cuando iba a los canales de televisión.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora es presidente de la nación.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo quiero creer que la figura del juicio político que la Cámara de Diputados y Senadores de la nación pueden ejercer en caso de riesgo de volatilidad institucional, sea una herramienta que, de ser necesario, se analice seriamente para ser aplicada.",
+      "score": 0.31,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El **Papa Francisco** claramente salió a diferenciarse fuerte de la ideología de Javier Milei, y me parece que ahí hay una diferencia importante entre lo que plantea uno y lo que plantea otro, especialmente en el papel y el rol del Estado.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habló el Papa Francisco sobre el rol del Estado y la justicia social, casi malas palabras para Javier Milei, para el lenguaje del presidente.",
+      "score": 0.444,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hubo un contrapunto con el gobierno porque el gobierno le salió a responder.",
+      "score": 0.46,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero esta idea social de la Iglesia en cuanto a extenderle la mano al más necesitado, a un Estado que pueda amparar y que pueda equilibrar posibilidades entre la desigualdad, es todo lo contrario de lo que plantea el gobierno nacional.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero vamos a escuchar lo que decía el Papa Francisco: Vivimos épocas de tanta injusticia, casi digo de intensa injusticia, pocos ricos cada vez más poderosos y millones de pobres negados y descartados.",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le falta razón, el último gobierno hablaba de justicia social y se fue con más del 40% de pobres, con lo cual tiene basamento donde criticar en los hechos lo que sucedió en el gobierno de Alberto Fernández.",
+      "score": 0.394,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero más allá de un gobierno fallido, un gobierno que le fue mal, sobre todo en lo económico, estamos hablando del gobierno de Alberto Fernández, hay algo ideológico que choca entre la ideología libertaria y la doctrina social de la iglesia, claramente, el individualismo, el sálvese quien pueda, la teoría de que el mercado regule todo y que el que se tiene que caer que se caiga.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un famoso reportaje que hizo **Jorge Fontevecchia** con Javier Milei y Grabovich.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei lo dice: la gente tiene derecho a morirse, si no aspiran, si no llegan, también está el derecho a morirse.",
+      "score": 0.686,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue curioso cuando le preguntamos sobre lo que había sucedido con el Papa y, perdón, el presidente Milei y la gente con síndrome de Down, nosotros le decíamos si el presidente le iba a pedir disculpas a la gente con síndrome de Down, y Adorni nos responde: no, en realidad él nunca participó de eso.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había likeado el posteo donde se le deformaba la cara a Ignacio Torres haciéndolo simular que era una persona con una discapacidad.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero párrafo aparte del diálogo que tuvimos con Adorni, se le preguntó en esa misma conferencia de prensa sobre lo que acabamos de escuchar del Papa Francisco, y la respuesta de Adorni, con elegancia, si se quiere, plantea esto, y que ellos no están de acuerdo con la doctrina social de la iglesia.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero vamos a escuchar a Manuel Adorni: Eso lo ha dicho el presidente de la nación en más de una oportunidad, entendiendo que la justicia social en esta lógica de sacarle a unos compulsivamente para darles a otros, a criterio del funcionario de turno, ha logrado en la Argentina, y entiendo que en el resto del mundo donde se utilizó el estado como se lo utilizó en la Argentina, a lo que hoy estamos viviendo en un país muy pobre, número más, número menos.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso significa muchos millones de argentinos que el estado presente, el bendito estado presente, no, evidentemente les ha quitado todo y no les ha dado absolutamente nada.",
+      "score": 0.519,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente entiende que pueden ser frases o palabras o definiciones muy lindas al oído, pero que no han hecho otra cosa que esta a la vista, la justicia social.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le falta razón a Adorni, efectivamente, algo la justicia social y te vas del gobierno con más del 40 y pico por ciento de pobres, evidentemente das lugar a que haya una avanzada de ultraderecha como la que la que vive argentino, no hay Milei si antes no hubo un Alberto Fernández.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, señores, ante la casta, ante el nido de ratas, será mañana, 21 horas, en el Congreso.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 55
+  },
+  "etiqueta_original": "neutral"
+}

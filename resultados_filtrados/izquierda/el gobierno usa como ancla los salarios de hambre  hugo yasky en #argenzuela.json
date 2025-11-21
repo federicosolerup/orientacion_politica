@@ -1,0 +1,27 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Pero con los gobiernos de Néstor Kirchner, Cristina Fernández de Kirchner y aun durante el gobierno de Mauricio Macri, siempre funcionó.",
+      "entidades_detectadas": [
+        "néstor",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Para mantener el poder adquisitivo del salario mínimo de la época de Cristina Fernández de Kirchner, se necesitan $590.000 hoy.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Con los mercados —entiéndase como entes concretos— presionando a diario, con Javier Milei agitando la corrida financiera, con Carlos Melconian pronosticando una devaluación para el lunes que llevaría al dólar oficial a $500, con Sergio Massa convalidando devaluaciones parciales y pagando el precio al Fondo Monetario Internacional, y con el FMI como espada de Damocles sobre la economía argentina, todo este combo se transforma en una especie de extorsión.",
+      "entidades_detectadas": [
+        "javier",
+        "sergio",
+        "massa",
+        "carlos",
+        "fmi",
+        "fondo",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Pensemos, por ejemplo, en 1988-1989, al final del gobierno de Raúl Alfonsín: descalabro económico, hiperinflación, saqueos, hambre… Aunque visto desde hoy parezca una locura, Carlos Menem fue presentado como el mal menor frente a Eduardo Angeloz, quien prometía ajustes con su famoso \"lápiz rojo\", similar a lo que propone Milei.",
+      "entidades_detectadas": [
+        "carlos",
+        "menem"
+      ]
+    },
+    {
+      "frase": "El cambio de Menem fue tal que Angeloz protestó porque Menem le había \"robado\" su programa.",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "Estas no son elecciones como las de siempre; estaba en juego si continuaría esa \"derecha infame\" o si gobernaría Alberto Fernández, la \"jugada maestra\" de Cristina Kirchner.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Pero en ese momento, el discurso era similar: \"¿Pero Alberto Fernández…?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "No, pero tú no entiendes, Alberto puede tender puentes con Clarín, con Magnetto, con el campo… Estas elecciones son particulares; hay que sacar al macrismo y ya veremos\".",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "El lunes 25 de julio comenzamos esta apertura, este prólogo del programa, con palabras que golpean, no porque llamen a ningún golpe, sino porque lo que están tratando es de exorcizarlo.",
+      "entidades_detectadas": [
+        "ningún golpe"
+      ]
+    },
+    {
+      "frase": "Aquello, como decía claramente Freud, que no se pone en palabras, luego se pone en acto, así que esperemos que en este caso, estas palabras tengan el poder exorcizante.",
+      "entidades_detectadas": [
+        "Aquello",
+        "Freud"
+      ]
+    },
+    {
+      "frase": "Un repaso de los títulos de las columnas de este fin de semana, de los distintos diarios, muestra una coincidencia en adjetivos calificativos de la situación que indican esa sensación de final y de crisis, que puede parecer similar a la de 2001.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Repito, con el objetivo de exorcizarla, ponerlo en palabras y no en acto.",
+      "entidades_detectadas": [
+        "Repito"
+      ]
+    },
+    {
+      "frase": "Voy a leer primero los del diario *Perfil*, después los de *Clarín* y luego los de *La Nación*.",
+      "entidades_detectadas": [
+        "La Nación",
+        "Clarín"
+      ]
+    },
+    {
+      "frase": "En el caso del diario *Perfil*: \"Últimas noticias del naufragio\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Beatriz Arlo utiliza la palabra \"naufragio\".",
+      "entidades_detectadas": [
+        "Beatriz Arlo"
+      ]
+    },
+    {
+      "frase": "Luego, Javier Calvo, el jefe de redacción de *Perfil*, dice: \"Escenas al borde del abismo\".",
+      "entidades_detectadas": [
+        "Javier Calvo",
+        "Perfil"
+      ]
+    },
+    {
+      "frase": "Nelson Castro también, en *Perfil*: \"Lo que hay es la nada\", la idea de la era del vacío.",
+      "entidades_detectadas": [
+        "Perfil",
+        "Nelson Castro"
+      ]
+    },
+    {
+      "frase": "Roberto García titula: \"Vendaval de versiones\".",
+      "entidades_detectadas": [
+        "Roberto García"
+      ]
+    },
+    {
+      "frase": "El sociólogo Luis Costa, que nos acompañará hoy en el programa, dice: \"Algo está terminado\".",
+      "entidades_detectadas": [
+        "Luis Costa"
+      ]
+    },
+    {
+      "frase": "De Angelis, también sociólogo de *Perfil* y experto en opinión pública, titula: \"Sin respiración\".",
+      "entidades_detectadas": [
+        "Angelis",
+        "Perfil"
+      ]
+    },
+    {
+      "frase": "Las palabras que se repiten son: naufragio, abismo, nada, vendaval, terminado, sin respiración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el caso de *Clarín*, Van der Kooy tituló su comentario de ayer: \"El gobierno colapsado por la crisis\", o sea, \"colapso\".",
+      "entidades_detectadas": [
+        "Clarín",
+        "Van der Kooy"
+      ]
+    },
+    {
+      "frase": "En el caso de *La Nación*, Joaquín Morales Solá tituló: \"Un país donde todo puede pasar\".",
+      "entidades_detectadas": [
+        "La Nación",
+        "Joaquín Morales Solá"
+      ]
+    },
+    {
+      "frase": "Jorge Fernández Díaz: \"La explosiva desesperación de los parásitos\".",
+      "entidades_detectadas": [
+        "Jorge Fernández Díaz"
+      ]
+    },
+    {
+      "frase": "Jorge Liotti, que también estará hoy en el programa, titula: \"Preparativos para un desenlace inconcluso\".",
+      "entidades_detectadas": [
+        "Jorge Liotti"
+      ]
+    },
+    {
+      "frase": "Martín Roig, de Ceiba, titula: \"Terminal\".",
+      "entidades_detectadas": [
+        "Martín Roig",
+        "Ceiba"
+      ]
+    },
+    {
+      "frase": "Y Pañe, previamente, había llamado a \"La Dada del Barro\", del kirchnerismo.",
+      "entidades_detectadas": [
+        "Pañe"
+      ]
+    },
+    {
+      "frase": "Hoy *Clarín*, con Silvia Fesquet, titula: \"Alberto, Cristina y el abismo asoma\".",
+      "entidades_detectadas": [
+        "Silvia Fesquet",
+        "Alberto",
+        "Clarín",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Fíjense en la repetición de la misma metáfora, que está en el inconsciente colectivo de la mayoría de los columnistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos vivieron el 2001, por lo que fue el 2001.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos primero a lo primero, ¿cuál es la situación de vacío que hoy se crea, eso que en esos casos llamamos \"a la nada\"?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Tiene que ver con que Cristina Fernández de Kirchner eligió un sistema por el cual ella decidía quién iba a ser el presidente.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Vamos a un audio en el cual ella explica cómo eligió al presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se cumple el 18 de mayo, el día del censo, se cumplen tres años de aquel video en el cual le comuniqué a argentinos y argentinas, a compañeros y compañeras, la decisión que había adoptado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver, si fuera una disputa de poder, bueno, no sé, si hubiera elegido, suponete, al presidente del Frente Renovador, que venía de un partido político, de haber sido candidato a presidente, que tiene una fuerza con legisladores, con gobernadores, o a Daer de la CGT, o a Emilio Pérsico de los movimientos sociales, eso, bueno, una disputa de poder.",
+      "entidades_detectadas": [
+        "Frente Renovador",
+        "Emilio Pérsico"
+      ]
+    },
+    {
+      "frase": "Pero elegí a una persona que hoy es presidente, que no representaba ninguna fuerza política de las que conformaba el Frente, pero que además había criticado duramente desde el año 2008 hasta ese momento.",
+      "entidades_detectadas": [
+        "Frente"
+      ]
+    },
+    {
+      "frase": "¿Alguien piensa que yo puedo decidir las cosas por enojo, por una cuestión de poder?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque además de esa decisión política, a la que no considero, como dicen algunos compañeros, una fuerza roñamente generosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue inteligente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy bien compañera, las mujeres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las mujeres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos las mujeres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alguien que no tenía ni idea de ninguna fuerza ni tenía ninguna fuerza política, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Vamos ahora a retrotraernos en el tiempo, 21 años atrás, y vamos a escuchar al entonces presidente, Fernando de la Rúa, definir cuál era su visión de la situación un día antes de su renuncia.",
+      "entidades_detectadas": [
+        "Fernando de la Rúa"
+      ]
+    },
+    {
+      "frase": "“Yo quiero dólares porque te cogí el dólar, y todos los que estamos aquí venimos por lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay crisis, las instituciones siguen, entonces la garantía de las instituciones, la alianza de Estados Unidos, el gobierno sigue”.",
+      "entidades_detectadas": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Bueno, esto fue lo que dijo De la Rúa el día antes de renunciar.",
+      "entidades_detectadas": [
+        "Bueno",
+        "De la Rúa"
+      ]
+    },
+    {
+      "frase": "Este fin de semana, ayer, se publicó en *Perfil* un reportaje al líder de los camioneros, en el que él denuncia que hay en marcha un plan de desestabilización.",
+      "entidades_detectadas": [
+        "Perfil"
+      ]
+    },
+    {
+      "frase": "Escuchemos este audio de un minuto de Pablo Moyano explicándolo.",
+      "entidades_detectadas": [
+        "Pablo Moyano"
+      ]
+    },
+    {
+      "frase": "“Sabemos que hay en marcha un plan de desestabilización.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay que negarlo, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Desde los mercados, cómo te van marcando el tema del dólar día por día, cómo los empresarios van remarcando los precios día a día, cómo la justicia avanza en muchos casos, el caso con causas inventadas o armadas, o en forma acelerada, con algunos compañeros o compañeras, como algunos medios de comunicación, tratan de desgastar al gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hay un ataque muy fuerte, pero creo que el gobierno ya debería llamar a una gran mesa de concertación donde estén los empresarios, los trabajadores, los compañeros de los movimientos sociales, la iglesia, todo el sector de la sociedad para tratar de lograr parcialmente una solución.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Se vienen meses complicados, luego te vuelvo a reiterar que no se puede controlar la suba de la inflación, y ojalá que el gobierno tenga esa forma urgente, mejor dicho, de convocar a la defensa”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay en marcha un plan de desestabilización.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar ahora a la senadora Juliana Di Tullio, también quiero ver a la Policía Federal en la puerta de cada cueva, con declaraciones este fin de semana, que generaron todo tipo de respuestas.",
+      "entidades_detectadas": [
+        "Juliana Di Tullio",
+        "Policía Federal"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Di Tullio.",
+      "entidades_detectadas": [
+        "Di Tullio"
+      ]
+    },
+    {
+      "frase": "“Falta acción, eso es evidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo también quiero ver cómo está la Policía Federal en la puerta de cada cueva.",
+      "entidades_detectadas": [
+        "Policía Federal"
+      ]
+    },
+    {
+      "frase": "Y todos saben dónde quedan, yo creo que eso hace falta, aunque no tenga un efecto, porque ya te digo, aunque no vendan un solo dólar, ponen en la pizarra un valor y ya está, digamos, porque lo que los agentes tienen que entender es que los angustian con una mentira, con un des, pero tiene efecto, no es que no tenga efecto, lo que pasa es que tiene efecto en la psiquis colectiva, tiene efecto real en la economía, tiene efecto en la psiquis colectiva, y si decide, entonces, esas acciones inciden en si el almacenero de acá a la vuelta no sabe qué hacer, si va a perder el precio que tenía o esperar, y bueno, el almacenero de acá a la vuelta vende porque no tiene capacidad para especular eso”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya el viernes Aldo Rico había dicho que llamaba a las fuerzas armadas para volver a ocupar el poder, escuchemos.",
+      "entidades_detectadas": [
+        "Aldo Rico"
+      ]
+    },
+    {
+      "frase": "“Cuando la patria está en peligro todo es lícito, todo es lícito, o sea, hasta un golpe es lícito” por Aldo Rico.",
+      "entidades_detectadas": [
+        "Aldo Rico"
+      ]
+    },
+    {
+      "frase": "“Aprendemos que nuestra amada patria, lamentablemente, las circunstancias de violencia y de disolución se van a profundizar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos en manos de un grupo de personas que nos quieren arrastrar hacia Venezuela o hacia Irán o hacia Cuba, y la sociedad argentina no está dispuesta a tolerar esto.",
+      "entidades_detectadas": [
+        "Venezuela",
+        "Cuba",
+        "Irán"
+      ]
+    },
+    {
+      "frase": "Nosotros hemos luchado por la patria, tenemos a nuestros camaradas muertos por la patria, que tenemos a nuestros camaradas prisioneros por defender a la patria, no podemos estar ausentes de este proceso cuando se desarrolla o que se está desarrollando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que estar presentes, tenemos que decir nuestra palabra, tenemos que marcar nuestra actitud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para eso tenemos que unirnos, para eso tenemos que organizarnos, para eso tenemos que volver a tomar los enlaces y organizarnos cada cual donde esté.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta hoy es una llamada de reunión, la llamada de reunión antes de las crisis y antes de la batalla, como se estira en nuestras fuerzas armadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Camaradas, cuando la patria está en peligro todo es lícito, menos dejarla desaparecer o perecer”.",
+      "entidades_detectadas": [
+        "Camaradas"
+      ]
+    },
+    {
+      "frase": "Tenemos aquí un audio de Elisa Carrió del año 2018, que de alguna manera rememora parte del conflicto que hay hoy.",
+      "entidades_detectadas": [
+        "Elisa Carrió"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Carrió en 2018.",
+      "entidades_detectadas": [
+        "Carrió"
+      ]
+    },
+    {
+      "frase": "“Nosotros dimos la vida, la coalición con todo por el campo, liquida en la soja, liquida en la soja, bajamos las retenciones, los acompañé en las rutas, no pueden retener los dólares de la soja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hagan patria, porque yo estuve ahí, ustedes no pueden estar lejos de nosotros”.",
+      "entidades_detectadas": [
+        "Hagan"
+      ]
+    },
+    {
+      "frase": "En este contexto, Hebe de Bonafini, por ejemplo, planteó algo parecido a lo de Aldo Rico, en el sentido y con otras palabras.",
+      "entidades_detectadas": [
+        "Aldo Rico"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Hebe de Bonafini.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "“Están pasando muchas cosas que me dan mucha vergüenza, mucha vergüenza, porque todo lo que dijeron que no iba a pasar, pasa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo lo que dijeron que iba a aumentar, aumenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el presidente mira para otro lado porque ya lo tiene decidido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos son todos negocios con los yanquis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Señor presidente, hasta ahora nunca ha ido a una villa ni a un barrio a amarrarse y parece que no tiene pensado ir.",
+      "entidades_detectadas": [
+        "Señor"
+      ]
+    },
+    {
+      "frase": "Porque claro, eso no le da rédito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo llaman después de ese 5N y de todos los canales de mierda que lo llaman.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y usted va y habla y se cree que es.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Señor presidente, basta, no hable más porque ya no le creemos.",
+      "entidades_detectadas": [
+        "Señor"
+      ]
+    },
+    {
+      "frase": "Usted pasa a estar en la lista de los grandes mentirosos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como a Macri le dio resultado mentir, usted cree que le va a dar el mismo resultado.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Pero usted, con cada mentira, es una palabra de tierra que abre su fosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De ahí va a caer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En esa fosa que usted mismo está abriendo”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer a la noche recibí un mensaje de WhatsApp de Fernando Esteche.",
+      "entidades_detectadas": [
+        "Fernando Esteche",
+        "WhatsApp"
+      ]
+    },
+    {
+      "frase": "Ustedes recordarán el papel importantísimo que tuvo Quebracho en la crisis del 2001 al fin de 2001.",
+      "entidades_detectadas": [
+        "Quebracho"
+      ]
+    },
+    {
+      "frase": "“Estimado amigo, con este mensaje nos acercamos a usted en busca de solicitar un encuentro que nos permita transmitir qué se trata de encuentro patriótico que hemos decidido construir para atravesar esta etapa conflictiva de nuestro país, acercar una mirada sobre nuestra perspectiva de los atribulados tiempos que atraviesa y habrá de atravesar nuestra patria”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Continúa diciendo: “La crisis económica, política y social que se está gestando en el horizonte cercano de nuestro país es inevitable, profunda y de cierta resolución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde el sistema político se comete el pecado de limitar los análisis para poder establecer quién y cómo habrá de gestionar la crisis económica, prescindiendo de todo análisis sobre las consecuencias que trae aparejado el dolor social que vive la mayoría de quienes habitan este suelo y la magnitud del deterioro del tejido social que conlleva”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Continúa diciendo: “Las responsabilidades compartidas del conjunto de las fuerzas electorales en la gestación de esta crisis no hacen otra cosa que agravar el deterioro de la representación política, el debilitamiento de la institucionalidad y la percepción de que el Estado solo puede traer castigo sobre la vida cotidiana de la mayoría de quienes habitan en los márgenes de la Argentina mediatizada.",
+      "entidades_detectadas": [
+        "Estado",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "En esos márgenes donde se siembra miseria se cosechan peligrosas incertidumbres sobre la salud de nuestra democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con la experiencia acumulada del conjunto de organizaciones populares que componemos el frente, hemos decidido parir el encuentro patriótico para discutir no solo una agenda de liberación nacional en este tiempo histórico, sino también para disputar el sentido del peronismo, que atraviesa una peligrosa desertificación ideológica que solo amenaza su base de representación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es inevitable que en un escenario de crisis existan patriotas que desde esos márgenes en los que habitan las mayorías siembren una experiencia de organización popular, de resistencia social y de política que permita cosechar relación de poder y fuerzas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Somos un peligro que florece.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Citamos a Marechal a lanzar el encuentro patriótico.",
+      "entidades_detectadas": [
+        "Marechal"
+      ]
+    },
+    {
+      "frase": "El agravamiento de los conflictos venideros nos impone la responsabilidad de construir interlocuciones indispensables en todos los sentidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quedamos a vuestra disposición para una conversación más extensa y más profunda”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto se conecta también con el pedido de varios intendentes del conurbano, solicitándole a Sergio Berni, al ministro de seguridad de la provincia, más seguridad frente a lo que podrían ser nuevos saqueos como los que se produjeron en el 2001.",
+      "entidades_detectadas": [
+        "Sergio Berni"
+      ]
+    },
+    {
+      "frase": "Bueno, en medio de todo este contexto, que llama de alguna manera a la crisis, lo que toda crisis plantea es la búsqueda de una solución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un documental de Netflix sobre Shimon Peres, el jefe del gobierno israelí en el momento de la crisis de la alta inflación de Israel, que siempre hemos puesto como ejemplo, fue más o menos en la misma época que el plan Austral, con la diferencia que en el caso de Israel ese plan antiinflacionario funcionó supuestamente porque se pusieron de acuerdo ambos partidos, incluso en la sucesión presidencial.",
+      "entidades_detectadas": [
+        "Shimon Peres",
+        "Israel",
+        "Netflix"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar un pedacito del propio Shimon Peres explicando qué es lo que hizo.",
+      "entidades_detectadas": [
+        "Shimon Peres"
+      ]
+    },
+    {
+      "frase": "“Le recorté a una sesión de gabinete que duró 36 horas y recorté a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recorté 500 millones de dólares a defensa, fue el recorte más grande de la historia de Israel.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego recorté educación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ministro de educación era mi amigo, fue el fin de la amistad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos los ministros aceptaron los recortes de otros ministerios, pero ninguno aceptó recortar su propio ministerio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero les dije: ‘Señores, lo aceptan o los despido’.",
+      "entidades_detectadas": [
+        "‘Señores"
+      ]
+    },
+    {
+      "frase": "En 36 horas, a quien pestañaba le recortaba su presupuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me criticaron de todos lados, pero para mi gran sorpresa, cuanto más duro era, cuanto más insistente me volvía, notaba que había un cambio en la opinión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Día tras día mis encuestas subían contra todo pronóstico.",
+      "entidades_detectadas": [
+        "Día"
+      ]
+    },
+    {
+      "frase": "En seis meses la inflación empezó a bajar”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ojalá en algún momento de la Argentina futura podamos tener un episodio similar.",
+      "entidades_detectadas": [
+        "Bueno",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Vamos a cerrar esta apertura y a comenzar el programa con una canción que se llama \"WhatsApp\" de Fornobronce.",
+      "entidades_detectadas": [
+        "Fornobronce"
+      ]
+    },
+    {
+      "frase": "Es una banda norteamericana de rock alternativo con su canción más emblemática que actualmente vamos a colocar ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y a través de su letra, las californianas expresan la angustia existencial y la crisis que atravesaban los jóvenes en ese momento, situación que puede ser metafórica con la actualidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuchamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Roberto García",
+    "Angelis",
+    "De la Rúa",
+    "Clarín",
+    "Elisa Carrió",
+    "Pablo Moyano",
+    "Ceiba",
+    "Perfil",
+    "Emilio Pérsico",
+    "Vamos",
+    "Marechal",
+    "Aldo Rico",
+    "Beatriz Arlo",
+    "Irán",
+    "Fornobronce",
+    "Pañe",
+    "Voy",
+    "Javier Calvo",
+    "Israel",
+    "‘Señores",
+    "Escuchamos",
+    "Señor",
+    "Policía Federal",
+    "Joaquín Morales Solá",
+    "Cristina Fernández de Kirchner",
+    "Hagan",
+    "Estado",
+    "ningún golpe",
+    "Jorge Fernández Díaz",
+    "Netflix",
+    "Shimon Peres",
+    "Luis Costa",
+    "Camaradas",
+    "Alberto",
+    "Estados Unidos",
+    "Buenos días",
+    "Martín Roig",
+    "Frente",
+    "Nelson Castro",
+    "“Falta",
+    "Fíjense",
+    "Fernando de la Rúa",
+    "Ayer",
+    "Quebracho",
+    "Aquello",
+    "Cristina",
+    "Van der Kooy",
+    "Ustedes",
+    "Jorge Liotti",
+    "Silvia Fesquet",
+    "Bueno",
+    "Continúa",
+    "Frente Renovador",
+    "Freud",
+    "Fernando Esteche",
+    "Día",
+    "la Argentina",
+    "¿",
+    "WhatsApp",
+    "Sergio Berni",
+    "La Nación",
+    "Juliana Di Tullio",
+    "Venezuela",
+    "Repito",
+    "Macri",
+    "Cuba"
+  ]
+}

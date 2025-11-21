@@ -1,0 +1,486 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El tratamiento en el Congreso está a cargo de Gabriel Sanfilippo.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Gabriel Sanfilippo"
+      ]
+    },
+    {
+      "frase": "Gabriel, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Gabriel"
+      ]
+    },
+    {
+      "frase": "Jorge, ¿cómo te va?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Buenos días para vos y para el equipo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy con el diputado Julio.",
+      "entidades_detectadas": [
+        "Julio"
+      ]
+    },
+    {
+      "frase": "Diputado, ¿cómo le hago la primera pregunta breve?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y luego lo paso con Jorge Real.",
+      "entidades_detectadas": [
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "¿Trajiste alguna vianda, Jorge?",
+      "entidades_detectadas": [
+        "¿Trajiste",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Va a ser una sesión larga, muy larga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Calculamos que estamos entrando en la etapa de debate parlamentario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una sesión que puede demorar entre 15 y 20 horas, porque hay temas importantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, las PASO son importantes.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Especialmente, preocupa la reiterada presentación de proyectos de ley.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge, el diputado, parece que te está escuchando.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Ah, Julio.",
+      "entidades_detectadas": [
+        "Ah",
+        "Julio"
+      ]
+    },
+    {
+      "frase": "Jorge Real los saluda.",
+      "entidades_detectadas": [
+        "Jorge Real"
+      ]
+    },
+    {
+      "frase": "¿Cómo andan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué tal, Jorge?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¿Tanto tiempo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo anda usted?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un gusto, un gusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál es su posición personal con respecto a las PASO?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "Creo que las PASO deberían mantenerse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente, se pueden mejorar y discutir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero las PASO brindan mayor participación, definen conflictos internos en los partidos y ayudan a conformar frentes electorales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También impiden la atomización de los partidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque cuando uno gobierna, sea intendente, gobernador o presidente, tener el poder ejecutivo facilita las cosas, pero también puede exacerbar los problemas de gobernabilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora hay una posición, creo, mayoritaria en contra de la propuesta inicial del gobierno de suspenderlas este año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad, no veo ninguna razón para hacerlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, hay una posición, creo que mayoritaria, en nuestro bloque.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo definiremos después del debate parlamentario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si esta posición es mayoritaria, solicitaré autorización para abstenerme, como hemos acordado en nuestras reglas internas.",
+      "entidades_detectadas": [
+        "solicitaré"
+      ]
+    },
+    {
+      "frase": "En caso contrario, seguramente votaremos en contra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Veremos qué pasa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un cierto manifiesto antipolítica en toda esta situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Julio, ¿lo sientes desde la misma política?",
+      "entidades_detectadas": [
+        "Julio",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Claro, cuando se simplifica el mensaje a la gente, se dice que esto cuesta 200 millones de dólares.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Es como ponerle precio a la democracia, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí, sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, la gente dice: \"¿Para qué vamos a gastar en esto ahora?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mejor sería elegir candidatos con representación y consenso social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las PASO ofrecen esa oportunidad, donde la gente decide y no los partidos políticos, que suelen priorizar intereses específicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De lo contrario, la decisión la toman el presidente del partido, la mesa de conducción, el gobernador, el intendente o el propio presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablando de intereses específicos, ¿cómo andan Radicalismo y Julio?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estamos bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estamos pasando por un buen momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay muchas diferencias, cuestiones de gobernabilidad que involucran a los gobernadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A veces, nuestro actuar no concuerda con lo que sentimos o representamos de la UCR, de sus principios.",
+      "entidades_detectadas": [
+        "UCR"
+      ]
+    },
+    {
+      "frase": "Pero bueno, es una crisis que afecta a todos los partidos: el peronismo, el PRO,  con este acercamiento indefinido.",
+      "entidades_detectadas": [
+        "PRO"
+      ]
+    },
+    {
+      "frase": "Cualquier decisión que tomemos será perjudicial para el PRO.",
+      "entidades_detectadas": [
+        "PRO"
+      ]
+    },
+    {
+      "frase": "En general, la política y los partidos políticos no están atravesando un buen momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aprovecho, don Julio, usted fue vicepresidente.",
+      "entidades_detectadas": [
+        "don Julio",
+        "Aprovecho"
+      ]
+    },
+    {
+      "frase": "Lo recordamos todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Hay una maldición con la vicepresidencia en este país?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un problema, un verdadero problema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy escuché una teoría al respecto...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema es que, a veces, se elige al compañero o compañera de fórmula para complementar la profesión, la visión o la experiencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el caso de Villarroel, era experta en seguridad y defensa.",
+      "entidades_detectadas": [
+        "Villarroel"
+      ]
+    },
+    {
+      "frase": "O para sumar adherentes y votos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero luego, quien está arriba parece olvidarse de eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiere que todos piensen igual, no se permite la participación ni se escucha otros puntos de vista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un problema para una función con atribuciones limitadas, donde se limita la agenda y las opiniones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo ideal, aunque implicaría un cambio constitucional, sería elegir al vicepresidente como se elige al presidente de la cámara, por consenso de sus pares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso le daría mayor autonomía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quizás el Senado debería elegirlo.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Como van juntos en fórmula, representa al Ejecutivo, pero no lo representa completamente porque es la cabeza de otro poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La independencia del poder, ¿dónde está?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Son cuestiones que requieren un análisis serio en una reforma constitucional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué tal, Julio?",
+      "entidades_detectadas": [
+        "Julio"
+      ]
+    },
+    {
+      "frase": "¿Cómo va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mauro Federico te saluda.",
+      "entidades_detectadas": [
+        "Mauro Federico"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás, Mauro?",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Un gusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando vemos la perspectiva de lo que el gobierno no solo anuncia sino que ya implementa con decretos...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablo de los ya implementados y los que vienen, dicen que quieren implementar hasta el 70, una serie de decretos (va por el 58 o 59), cada uno más duro que el anterior, y el 70 en homenaje al decreto 70 del 2024...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Un planazo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo ve este avance sobre las conquistas en materia de identidad de género y las luchas feministas, que plasmaron cuestiones como el agravante por femicidio en el código penal, y que el gobierno parece querer eliminar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pienso que el gobierno debe elevar la propuesta al Congreso para discutirla, redefinirla, reencauzarla y actualizarla.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Las decisiones históricas en materia penal, social y educativa han sido producto de largos debates.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un DNU es la opinión de un gabinete, pero interfiere con otro poder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay que abusar de la necesidad de urgencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los DNU se vienen usando mal desde hace tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Congreso debería redefinir cómo se avala un DNU.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Debería tener el mismo tratamiento que una ley.",
+      "entidades_detectadas": [
+        "Debería"
+      ]
+    },
+    {
+      "frase": "Hoy, un DNU basta con la aprobación de una cámara, mientras que una ley necesita la de ambas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estoy de acuerdo con los DNU, salvo en casos excepcionales como un cambio de moneda o un plan económico que genere un desastre si se discute una ley.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay muchos temas que pueden abordarse en el Congreso y enriquecerse con el debate.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Estamos dispuestos a debatir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que dejar de abusar de los DNU.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Disculpen, tengo que irme, ¡mil disculpas!",
+      "entidades_detectadas": [
+        "Disculpen"
+      ]
+    },
+    {
+      "frase": "Gracias, Julio, gracias, Gabriel.",
+      "entidades_detectadas": [
+        "Gabriel",
+        "Julio"
+      ]
+    },
+    {
+      "frase": "Jorge, te cierro con esto…  (El texto se corta aquí).",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "También",
+    "Quizás el",
+    "Quiere",
+    "Mauro Federico",
+    "¿Qué",
+    "Gabriel",
+    "Julio?",
+    "Disculpen",
+    "Mauro",
+    "Julio",
+    "Además",
+    "Villarroel",
+    "Senado",
+    "PRO",
+    "Claro",
+    "Jorge?",
+    "¿Cuál",
+    "solicitaré",
+    "Pienso",
+    "¿Trajiste",
+    "don Julio",
+    "¿",
+    "Jorge Real",
+    "Hablo",
+    "Obviamente",
+    "Debería",
+    "Jorge",
+    "Diputado",
+    "UCR",
+    "Cualquier",
+    "Aprovecho",
+    "Gabriel Sanfilippo"
+  ]
+}

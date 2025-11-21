@@ -1,0 +1,313 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Roma, Ciudad del Vaticano.",
+      "entidades_detectadas": [
+        "Ciudad del Vaticano",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "Desde aquí se están llevando a cabo las exequias, la despedida de los restos mortales del Papa Francisco, Jorge Bergoglio.",
+      "entidades_detectadas": [
+        "Jorge Bergoglio",
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Nuestra compañera y colaboradora permanente, Pamela Francescato, nos reporta en directo.",
+      "entidades_detectadas": [
+        "Pamela Francescato"
+      ]
+    },
+    {
+      "frase": "Hoy, todas las miradas del mundo están puestas en esta lamentable celebración, un sepelio que nadie querría presenciar, pero que lamentablemente estamos cubriendo como corresponde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo estás, Pamela?",
+      "entidades_detectadas": [
+        "Pamela"
+      ]
+    },
+    {
+      "frase": "¿Qué tal, Mauro?",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Nunca hubiese querido dar desde Roma la peor de las noticias, pero, dentro de la tristeza, hay una gran afluencia de fieles que se acercan a darle el último adiós al Papa Francisco.",
+      "entidades_detectadas": [
+        "Papa",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "La cámara ardiente cerrará en breve.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya son más de 170.000 personas; aún no tenemos la cifra definitiva, pero la sala de prensa nos la facilitará esta noche.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miles de fieles, peregrinos, turistas y ciudadanos de toda Italia y Europa vienen a rendirle homenaje.",
+      "entidades_detectadas": [
+        "Italia",
+        "Europa"
+      ]
+    },
+    {
+      "frase": "Mauro, las colas son interminables.",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Nunca había visto el Vaticano así, a pesar de visitarlo con frecuencia.",
+      "entidades_detectadas": [
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "Las filas alcanzan los 300, 400, incluso 500 metros, para acceder a la Basílica de San Pedro y dar el último adiós al pontífice argentino.",
+      "entidades_detectadas": [
+        "Basílica de San Pedro"
+      ]
+    },
+    {
+      "frase": "La cámara ardiente cerrará al finalizar la tarde; luego, el féretro permanecerá en la Basílica hasta mañana, a las 10:00, hora del funeral de Estado.",
+      "entidades_detectadas": [
+        "Estado",
+        "Basílica"
+      ]
+    },
+    {
+      "frase": "Roma será, lamentablemente, la capital del mundo, ya que asistirán los líderes mundiales más importantes para rendir homenaje al Papa Francisco.",
+      "entidades_detectadas": [
+        "Papa",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "Curiosamente, Mauro, algunos de ellos llegan practicando todo lo contrario a lo que el Papa predicaba.",
+      "entidades_detectadas": [
+        "Papa",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Se espera la llegada de Donald Trump en las próximas horas.",
+      "entidades_detectadas": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "frase": "Eso te iba a preguntar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué hay de las comitivas presidenciales?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "He visto llegar a Trump; supongo que el Presidente [Nombre del presidente, falta en el texto original], considerando la hora de su salida de [lugar de origen], también habrá llegado.",
+      "entidades_detectadas": [
+        "Presidente",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "¿Qué nos puedes contar sobre su participación en la ceremonia y las medidas de seguridad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Roma y el Vaticano están blindados.",
+      "entidades_detectadas": [
+        "Vaticano",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "Hay control aéreo (\"no fly zone\"), terrestre y fluvial (el río Tíber está a 200 metros del Vaticano).",
+      "entidades_detectadas": [
+        "río Tíber",
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "Además, hay francotiradores, y la novedad de este año es la implementación de bazucas antidrones, una tecnología necesaria dada la amenaza de ataques con drones que hemos visto en la guerra entre Rusia y Ucrania.",
+      "entidades_detectadas": [
+        "Rusia",
+        "Ucrania",
+        "Además"
+      ]
+    },
+    {
+      "frase": "Más de 2000 agentes de seguridad trabajan en los alrededores y dentro de la Ciudad del Vaticano.",
+      "entidades_detectadas": [
+        "Ciudad del Vaticano"
+      ]
+    },
+    {
+      "frase": "Mañana, los líderes políticos más importantes del mundo estarán en la Ciudad del Vaticano.",
+      "entidades_detectadas": [
+        "Mañana",
+        "Ciudad del Vaticano"
+      ]
+    },
+    {
+      "frase": "La seguridad es máxima, no solo en el Vaticano sino también en otros puntos clave.",
+      "entidades_detectadas": [
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "Trump se alojará en la embajada de Estados Unidos.",
+      "entidades_detectadas": [
+        "Estados Unidos",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "También vendrán Biden y Obama.",
+      "entidades_detectadas": [
+        "Obama",
+        "Biden"
+      ]
+    },
+    {
+      "frase": "¿Sabes dónde se alojará el Presidente [Nombre del presidente, falta en el texto original]?",
+      "entidades_detectadas": [
+        "¿Sabes",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Recuerdo que en su última visita a Roma, hubo un problema con el estado del edificio de la embajada de Argentina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "No fue por un problema estructural, sino que la hermana del presidente dijo que había \"mala energía\", por lo que se alojaron en un hotel de lujo en Via Veneto, la calle de la Dolce Vita.",
+      "entidades_detectadas": [
+        "Via Veneto"
+      ]
+    },
+    {
+      "frase": "¿Se repetirá esta vez el ritual o se alojarán en la embajada, que se encuentra a solo 100 metros del lugar donde reposarán los restos del Papa?",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Estoy en el Vaticano desde muy temprano, cubriendo la despedida del Papa.",
+      "entidades_detectadas": [
+        "Papa",
+        "el Vaticano"
+      ]
+    },
+    {
+      "frase": "No quiero pensar en cuestiones esotéricas en un momento como este.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy muy triste por la pérdida del Papa Francisco, a quien cubrí durante su pontificado para Radio 10.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Me afecta mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por este contacto, Pamela.",
+      "entidades_detectadas": [
+        "Pamela"
+      ]
+    },
+    {
+      "frase": "Seguiremos muy atentos durante todo el fin de semana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se trata de los funerales de uno de los Papas más importantes de la historia de la Iglesia contemporánea.",
+      "entidades_detectadas": [
+        "Iglesia contemporánea"
+      ]
+    },
+    {
+      "frase": "Un beso enorme.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pamela Francescato, desde Roma, Ciudad del Vaticano, para Radio 10.",
+      "entidades_detectadas": [
+        "Pamela Francescato",
+        "Ciudad del Vaticano",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "Las 12:00.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Noticias en Radio 10.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Radio 10.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "¿Sabes",
+    "Rusia",
+    "Estoy",
+    "Recuerdo",
+    "¿Qué",
+    "Papa Francisco",
+    "Via Veneto",
+    "río Tíber",
+    "Pamela Francescato",
+    "Mauro",
+    "Estado",
+    "Además",
+    "Donald Trump",
+    "Obama",
+    "Italia",
+    "Ucrania",
+    "Basílica",
+    "Trump",
+    "Basílica de San Pedro",
+    "Vaticano",
+    "Jorge Bergoglio",
+    "Estados Unidos",
+    "Europa",
+    "Argentina",
+    "Pamela",
+    "Roma",
+    "Ciudad del Vaticano",
+    "Presidente",
+    "Pamela?  ",
+    "Mañana",
+    "Francisco",
+    "Iglesia contemporánea",
+    "Biden",
+    "Papa",
+    "Seguiremos"
+  ]
+}

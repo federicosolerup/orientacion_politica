@@ -1,0 +1,129 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Desde el viernes, la Argentina atraviesa una situación realmente complicada, debido a que los gobernadores del sur, los seis gobernadores patagónicos, publicaron un comunicado titulado \"Las Provincias Unidas del Sur\".",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Cuando decidieron constituirse como país, en la Constitución de 1853, el preámbulo establece que, entre los objetivos a construir, se encuentra la unión nacional.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Le dicen que, nuevamente, con tensiones y conflictos (de hecho, no estamos de acuerdo con cómo está hoy la ley de coparticipación y distintas cuestiones), el Estado Nacional administra lo que las provincias producimos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La película cuenta que en el Estado de California, uno de los estados más ricos de los Estados Unidos (un pedazo de tierra que Estados Unidos anexó en 1848, después de la guerra con México), está lleno de mexicanos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "¿Qué tendría para administrar el Estado Nacional?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "¿Qué produce el Estado Nacional como Estado Nacional?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Producen los territorios provinciales y, porque somos un país y una unión nacional, el producto de eso lo administra el Estado Central, que después lo tiene que redistribuir a través de distintos mecanismos, uno de ellos es la coparticipación.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y lo que está haciendo Javier Milei es no cumplir con ese rol que tiene el Estado Nacional, que es administrar y repartir.",
+      "entidades_detectadas": [
+        "javier",
+        "estado",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Porque la oficina de presupuesto del Congreso ya mostró que Milei tuvo superávit en enero a costa de no gastar en nada, excepto en pagar intereses de deuda.",
+      "entidades_detectadas": [
+        "congreso",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Bueno, en medio de todo esto sale este comunicado, repito, de los gobernadores del sur, firmado por Sergio Ziliotto de La Pampa, por Alberto Weretilneck de Río Negro, por Ignacio Torres obviamente de Chubut, Rolando Figueroa de Neuquén, Claudio Vidal de Santa Cruz y Gustavo Melella de Tierra del Fuego, apoyado automáticamente por casi todos los gobernadores del país.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "vidal"
+      ]
+    },
+    {
+      "frase": "Con lastimosas excepciones, pero llegó automáticamente el apoyo de Axel Kicillof, de Martín Llaryora de Córdoba, de Ricardo Quintela de La Rioja, de Gildo Insfrán de Formosa.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Llegó incluso el apoyo de los ocho gobernadores más el jefe de gobierno de la ciudad de Buenos Aires, de Juntos por el Cambio, diciéndole a Milei que no puede seguir con esto, o si no, como bien dice el comunicado, Chubut no va a mandar lo que produce.",
+      "entidades_detectadas": [
+        "chubut",
+        "milei"
+      ]
+    },
+    {
+      "frase": "No sólo Chubut, entre Chubut, Río Negro, Neuquén, La Pampa y Mendoza producen más del 90% del petróleo de la República Argentina y más del 80% del gas.",
+      "entidades_detectadas": [
+        "argentina",
+        "mendoza"
+      ]
+    },
+    {
+      "frase": "Porque en el fondo lo que están reclamando es que ellos no quieren ajustar y le quieren trasladar el ajuste al resto de los argentinos.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Y Milei les dice \"están todos equivocados\", que es el discurso que él tiene desde que estuvo en el foro de Davos.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "\"Presidente, el gobernador de Chubut dijo, si no aceptan nuestros condicionamientos, vamos a cerrar la canilla.",
+      "entidades_detectadas": [
+        "chubut"
+      ]
+    },
+    {
+      "frase": "Milei dice \"esto es una discusión de cabotaje y yo vengo de un evento internacional\".",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Porque si el presidente cree que no es importante y que es de cabotaje una discusión con todos los gobernadores de su país respecto de todo lo que producen los gobernadores de su país y del ajuste que está haciendo, y lo importante es ir a abrazarse solamente con los cuatro o cinco tipos que cree que piensan como él (porque tampoco piensan como él), es que él está más pendiente de su legado histórico como un narcocapitalista, que puede aplicar un manual absolutamente cruel y criminal en un país, que de lo que sucede en el país.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "*   **Nombres y Apellidos:** Se verificaron y corrigieron los nombres y apellidos mencionados:\n    *   Felipe Piña -> Felipe Pigna\n    *   Sergio Silieto -> Sergio Ziliotto\n    *   Alberto Beretilnec -> Alberto Weretilneck\n    *   Nacho Torres -> Ignacio Torres (correcto)\n    *   Vidal -> Claudio Vidal\n    *   Meleya -> Gustavo Melella\n    *   Martín Yarchora -> Martín Llaryora\n    *   Shildin Fran -> Gildo Insfrán\n    *   Kavak -> (Se dejó como Cavak ya que no se pudo corroborar el nombre correcto, y podría ser una referencia específica.)\n    *   John Nicolantos -> Juan Manuel Nicolau\n    *   Milet -> Milei (corregido a lo largo de todo el texto)\n*   **Cohesión y Coherencia:** Se realizaron ajustes menores en la redacción para mejorar la fluidez y la claridad del texto.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "vidal",
+        "milei"
+      ]
+    }
+  ]
+}

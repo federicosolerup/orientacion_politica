@@ -1,0 +1,161 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 27,
+      "derecha": 2
+    },
+    "score_promedio": 0.165,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a hacer una revisión de la mirada de los empresarios sobre la economía argentina y la paradoja que existe cuando los empresarios ganan dinero con un gobierno, pero votan a otro.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la entrevista no se menciona segundo apellido, por lo que lo dejamos como Piña) respecto al sindicato industrial más exitoso de la Argentina, el de los automóviles, que conduce Ricardo Piña.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego, analizaremos la opinión de Jorge Asís, a quien se le hizo la misma pregunta en un reportaje de este domingo.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para ello, tomaremos las opiniones de Alberto Fernández; Jorge Brito, socio mayoritario del Banco Macro; Daniel Herrero, presidente honorario de Toyota y expresidente de IDEA; Antonio Aracre, ex CEO de Syngenta; Martín Cabrales, empresario argentino; y Miguel Acevedo, expresidente de la UIA en 2019.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La misma pregunta se le hizo a un analista y escritor como Jorge Asís: \"Es un problema cultural porque, digamos, tanto Cristina, los gobiernos peronistas como Lula, tienen un contenido que es, a veces, ligeramente insoportable: la cuestión popular, que es fácilmente calificada de populista.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese era un privilegio de los marxistas, porque Chile podía ser un gobierno popular.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a analizar la misma pregunta que le hicieron a Alberto Fernández en diciembre pasado.",
+      "score": 0.209,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández dijo textualmente: \"¿Es un problema de clase?",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le pregunté cómo votaba.",
+      "score": 0.49,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me contó que con Macri le ha ido muy mal y que su empresa, en la historia de la empresa, ya tenía los primeros balances en rojo con Macri.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le pregunté: '¿Y vos votaste en el 2017?'.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "'¿Y cómo te había ido con Cristina antes?'.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "'Me fue bien, con Cristina exportamos'.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dije: '¿Y vos por qué no votás al peronismo?'.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, vamos a Jorge Brito, presidente de River y accionista mayoritario del Banco Macro.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque también, por miedo, cuando hay una cámara o hay terceros, no nos animamos a decir cosas que en privado le decimos a nuestros amigos o a nuestros hijos.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro empresario, el conductor de una empresa automovilística extranjera en Argentina, fue su presidente e hijo durante muchos años y, también, presidente del último Coloquio de IDEA, Daniel Herrero.",
+      "score": 0.496,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antonio Aracre fue el CEO de Syngenta y dijo: \"Mis colegas de Argentina suelen hablar muy mal de Argentina.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La diferencia que percibo después de haber estado a cargo muchos años de Brasil es que, para un brasilero en general y un empresario brasilero en particular, nunca vas a encontrar nada mejor que otro brasilero.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mis colegas de Argentina suelen hablar bastante mal de Argentina, especialmente cuando viene alguien de afuera.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me parece que ese es un punto donde tenemos que aprender, no diría ser nacionalistas, pues es una palabra que no me gusta, pero sí defender un poco más lo nuestro e insertar Argentina en un lugar distinto, sobre todo a la luz de todas las oportunidades que nos vienen en los próximos años\".",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miguel Acevedo, el entonces presidente de la UIA, fue el que cerró el discurso.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, al mediodía, en el almuerzo mensual de consejos de asesores, había algunos empresarios que contaban, les restaba paradójico, inclusive de los discursos de AEA, que a cada uno le iba mejor, pero después la Argentina estaba peor.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había una diferencia entre lo que cada uno contaba de sí mismo y luego la visión en tono general.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría ir un poco mejor\".",
+      "score": 0.402,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En septiembre de 2019, Miguel Acevedo, presidente de la UIA, dijo: \"La industria es una de las grandes perdedoras de este modelo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no pido esos 10 puntos, solamente dos o tres\".",
+      "score": 0.254,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miguel Acevedo, presidente de la UIA, en el discurso que realizó al cierre de 2019, contó que la industria perdió 150.000 puestos de trabajo en los últimos cuatro años.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ojalá que en la Argentina pueda haber una unión, una comprensión entre los empresarios y la sociedad, que es la única herramienta para poder sacar a la Argentina de la pobreza.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 29
+  },
+  "etiqueta_original": "neutral"
+}

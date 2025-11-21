@@ -1,0 +1,51 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El Senado aprobó una ley que entrega los recursos naturales a países centrales, generando una profunda injusticia.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "Entre el Decreto de Necesidad y Urgencia (DNU) y esta ley, Argentina sufrió un giro radical, consolidándose como una nación estructuralmente injusta.",
+      "entidades_detectadas": [
+        "argentina",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Fuentes consultadas en la Cámara de Diputados indican que los cambios introducidos por el Senado podrían ser meramente simbólicos,  que la versión final se asemejará al dictamen de Diputados.",
+      "entidades_detectadas": [
+        "senado",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Se rumorea que algunas modificaciones del Senado podrían mantenerse.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "Javier Mayans, jefe del bloque mayoritario, expresó su escepticismo ante los cambios del Senado, anticipando su posible rechazo en la Cámara de Diputados.",
+      "entidades_detectadas": [
+        "javier",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Patricia Bullrich no pudo generar el mismo tipo de movilización que el oficialismo, la CGT no participó y la respuesta de (nombre omitido) fue declarar que las manifestaciones eran actos de terrorismo y un intento de golpe de estado, afirmaciones que realizó reiteradamente en redes sociales.",
+      "entidades_detectadas": [
+        "bullrich",
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Las consecuencias se suman a la reforma financiera de la dictadura, la deuda de Macri y el actual despojo de recursos naturales.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Somos todos hinchas de River aquí.",
+      "entidades_detectadas": [
+        "River"
+      ]
+    },
+    {
+      "frase": "A nadie le importa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿De qué club sos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo soy de Tigre; ganamos el otro día.",
+      "entidades_detectadas": [
+        "Tigre"
+      ]
+    },
+    {
+      "frase": "¡Tigre querido, te quiero Tigre!",
+      "entidades_detectadas": [
+        "¡Tigre",
+        "Tigre"
+      ]
+    },
+    {
+      "frase": "Javier y yo somos de River.",
+      "entidades_detectadas": [
+        "River",
+        "Javier"
+      ]
+    },
+    {
+      "frase": "¡Tigre!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Te quiero Tigre!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ascendiste!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tigre ascendió otra vez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, gracias a Dios.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Lo primero, gracias a Dios.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Y River está terminando el partido.",
+      "entidades_detectadas": [
+        "River"
+      ]
+    },
+    {
+      "frase": "Gracias a Dios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi padre jugó en Tigre.",
+      "entidades_detectadas": [
+        "Tigre"
+      ]
+    },
+    {
+      "frase": "Les contaré una anécdota mientras esperamos que termine el partido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi padre… ya lo conté.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eran seis hermanos; su padre tenía un tambo muy grande en el campo, muy grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no voy a contar nada de mi vida privada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡No!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡No!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡No!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡No!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué culpa tengo yo si mi abuelo me dejó 20 millones de euros y yo los dupliqué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Tengo culpa de ser exitoso?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Bueno… Ahora veo a la vocera presidencial, a la portavoz del presidente, que todos los días… Viste que todo, en este gobierno, es diferente, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Viste"
+      ]
+    },
+    {
+      "frase": "Que cuando llegan, todos vienen haciéndose los importantes, dice: \"Déjamelo a mí, Alberto, que yo te lo manejo\".",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Y a los dos días están haciendo negocios turbios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo digo: \"Mierda, no puedo hacer nada\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, porque la realidad… Dije: \"Cuando un gobierno te ha corrompido, te ha corrompido todo lo que entra al gobierno\".",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Lo viví con la dictadura, con todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo viví con Alfonsín; teníamos a uno en el gobierno de Alfonsín que se llamaba  [Nombre del Ministro de Economía de Alfonsín].",
+      "entidades_detectadas": [
+        "Alfonsín",
+        "Nombre",
+        "Ministro de Economía de Alfonsín"
+      ]
+    },
+    {
+      "frase": "Un grande el maestro, un grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, ministro de Economía, [Nombre del Ministro de Economía de Alfonsín].",
+      "entidades_detectadas": [
+        "ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Un cero, [Nombre del Ministro de Economía de Alfonsín].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Había un solo [Nombre del Ministro de Economía de Alfonsín], pero había como 20 cargos.",
+      "entidades_detectadas": [
+        "Había"
+      ]
+    },
+    {
+      "frase": "Y ahora no tienen ni un [Nombre del Ministro de Economía de Alfonsín], pero tienen 20 cargos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces están buscando toda la gente corrupta que anda por ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y algunos que no son corruptos, pero también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y muy al fin, no se hace 6, 7, 8, y se hace el show del presidente, me llamaron ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahí va Cerruti, bueno, y le dice: \"Yo te aseguro, fanfarrón, le digo, Alberto, déjamelo a mí que yo los convenzo de todo\".",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cerruti"
+      ]
+    },
+    {
+      "frase": "Y empieza con esto: \"Estamos preocupados por el hambre, y por el frío estamos preocupados, y por el invierno estamos preocupados, y por el verano estamos preocupados, por la vacuna estamos preocupados\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cerruti, está todo bien, pero a ver, ocupémonos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ya terminamos con el tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque a mí, la verdad, que me cuenten… es como una película porno, si me la cuentan, no me sirve, déjame que lo haga yo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque no me gusta ver cómo los demás lo hacen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y veo, con todo respeto, Cerruti, que usted está haciendo teatro, para seguir convenciendo a la gente de que están haciendo algo, y que se están preocupando, pero a veces caigan en cuenta, porque si no estaríamos cada día peor.",
+      "entidades_detectadas": [
+        "Cerruti"
+      ]
+    },
+    {
+      "frase": "Tenemos un solo tema solucionado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y usted sale todos los días y dice: \"Nos preocupa el tema, eh.",
+      "entidades_detectadas": [
+        "eh"
+      ]
+    },
+    {
+      "frase": "Nos preocupa\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto me acuerdo cuando Miriam Lewin, la que tiene la misión de vigilar a los periodistas independientes, dice: \"A nosotros nos preocupa el tema [Nombre del periodista o tema].",
+      "entidades_detectadas": [
+        "Miriam Lewin"
+      ]
+    },
+    {
+      "frase": "Y claro, pero si yo soy como ustedes, me tiene que preocupar [Nombre del periodista].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me tiene que preocupar [Nombre del periodista], [Nombre del periodista], y ya que estamos… [Nombre de la periodista], claro que nos preocupa.",
+      "entidades_detectadas": [
+        "Nombre"
+      ]
+    },
+    {
+      "frase": "Milagrosamente se levantan a la mañana y no se preocupan por [Nombre de la periodista], porque tienen menos cara de la que parece.",
+      "entidades_detectadas": [
+        "Nombre",
+        "Milagrosamente"
+      ]
+    },
+    {
+      "frase": "Ahora la vida recién empieza y mi solidaridad para la chiquita… Elma Pardín.",
+      "entidades_detectadas": [
+        "Pardín"
+      ]
+    },
+    {
+      "frase": "Pero, ¿qué vamos a tapar con el tema de [Nombre del personaje]?",
+      "entidades_detectadas": [
+        "¿",
+        "Nombre"
+      ]
+    },
+    {
+      "frase": "[Nombre del personaje] es un sinvergüenza y es culpable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay que esperar el juicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero vamos a estar todo el día ahora de nuevo, porque el kirchnerismo tiene una condición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando pierde Cristina, además de estar escondida, manda a sus seguidores a denostar a los demás para tratar de salvarse, ¿no?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Entre paréntesis, creo que el tema de Odebrecht lo van a sobreseer.",
+      "entidades_detectadas": [
+        "Odebrecht"
+      ]
+    },
+    {
+      "frase": "A mí me indigna porque yo conozco a algunos de los que estaban implicados, y ellos me dijeron a mí en un momento: \"Pagamos cinco millones de dólares para estar en libertad\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no me gustaría pensar que los jueces están cobrando para sobreseerla sin un juicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mí me gusta que todos los juicios de Cristina tengan juzgamiento y condena o no.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Así nosotros después la vemos por la calle y se dice: \"¡Señora, disculpe!\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No por tonto, por echarle la culpa de ser una delincuente y no lo es.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me encantaría pedirle disculpas, porque quiere decir que tuvimos 20 años de gobierno honesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero si no hay juicio va a quedar la duda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuando no hay justicia, el acusado sigue siendo culpable de toda la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso ahí se equivocó Cristina, cuando dice: \"A mí me absolvió la historia\".",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Usted se condena cada día más con la historia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque cuanto más vemos el manejo que usted hace para que se vacíen las causas, más nos damos cuenta de su culpabilidad, porque el que es inocente reza todos los días para ver la hora del juicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No trata de cambiar los jueces, que los jueces se vayan muriendo como Bonadio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El que es inocente dice: \"¿Estás mal, Bonadio?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, júzame antes de irte\".",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¿O no, Javi?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí, totalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tanto lío para decir Ricardo, tanto querer cambiar al procurador, tanto querer poner… ¡epa!",
+      "entidades_detectadas": [
+        "Ricardo"
+      ]
+    },
+    {
+      "frase": "Ya sospechas un poquito, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto me hace acordar como si el Canal 7 anduviera mal y vos quisieras cambiar al dueño.",
+      "entidades_detectadas": [
+        "Canal 7"
+      ]
+    },
+    {
+      "frase": "No, fíjate por qué no me dijo: \"No te desilusiones\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hay muchas cosas para hablar, pero no sé por qué llegué hasta acá.",
+      "entidades_detectadas": [
+        "Bueno",
+        "acá"
+      ]
+    },
+    {
+      "frase": "Ah, estaba con Cerruti.",
+      "entidades_detectadas": [
+        "Ah",
+        "Cerruti"
+      ]
+    },
+    {
+      "frase": "Que vos podés mentirle a la gente una vez, pero no todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y que además, lo que no se dieron cuenta de lo político, y lo digo todos los días, es que el pueblo argentino, a quien los periodistas libres representamos —no con la soberbia de que somos representantes del pueblo— hablamos por lo que escuchamos de la gente, estamos hartos de Cristina, de Alberto, estamos hartos de todos los políticos.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "En realidad, de todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora porque están ellos, pero el que venga, viste qué pasa, que los gobiernos duran seis meses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes duraban dos años, ahora duran seis meses o cuatro meses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A los cuatro meses, y no, son los tontos, porque ya no hay más solución para un gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto lo tenemos que solucionar entre todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es lo mismo que si están atacando las sirenas, y vos estás queriendo pelear solo y el vecino de al lado te llena la trinchera de agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayúdame a llenar la trinchera y peleemos juntos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando terminemos con las sirenas, vamos a ver si nos peleamos entre nosotros dos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no hagamos como si mintiéramos ahora porque nos están llevando todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Chicos, ¿no tomaron conciencia de que se terminó?",
+      "entidades_detectadas": [
+        "¿",
+        "Chicos"
+      ]
+    },
+    {
+      "frase": "¿Ustedes están viendo lo que el viento se llevó y se quedan sentados como todos salen del cine?",
+      "entidades_detectadas": [
+        "¿Ustedes están"
+      ]
+    },
+    {
+      "frase": "Terminó la película.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Terminó la película de la mentira, terminó la película de los grandes negociados, o sea, los inocentes, el silencio de los inocentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se terminó la película, salgan del cine.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie les cree nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora van a tener que recuperar, además de la dignidad, la credibilidad de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y eso es muy difícil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es como el tipo que engaña a su mujer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo hace la mujer para convencerlo de que no lo va a engañar más?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes nos engañaron.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "¿Y saben si son tan tontos que nos siguen engañando con [Nombre del personaje]?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Nos siguen engañando con el hijo de [Nombre del personaje] y que dicen tonterías.",
+      "entidades_detectadas": [
+        "tonterías"
+      ]
+    },
+    {
+      "frase": "Realmente nos siguen engañando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y se creen que nosotros somos todos tontos, y que ustedes dicen: \"Pues se olvida, se olvida\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después se olvida.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Y van a hablar tonterías a Chile, y van a hablar tonterías a Uruguay, y van a hablar tonterías a Brasil, y donde tienen oportunidad de hablar a Bolivia hoy, el otro tonto.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Uruguay",
+        "Bolivia",
+        "Chile"
+      ]
+    },
+    {
+      "frase": "¿Ustedes se acuerdan cuando tuvieron las aerolíneas paradas y nadie podía viajar y la gente llenaba los pasillos de la aerolínea?",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "[Nombre del personaje], [Nombre del personaje].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡[Nombre del personaje]!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡[Nombre del personaje]!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El otro tonto, el otro tonto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y él hablaba con la otra que le besó los zapatos a la reina de Inglaterra y ahora está con [Nombre del personaje] haciendo el partido de los dignos.",
+      "entidades_detectadas": [
+        "Inglaterra",
+        "Nombre"
+      ]
+    },
+    {
+      "frase": "Por eso digo, son todos payasos, muchachos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie los quiere porque saben que todo el país sabe que son oportunistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo en taxistas, remiseros, en los colectiveros, en los camarógrafos, en los chicos, todos mis compañeros que trabajan 20 horas por día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son falsos, viven de lo que le roban al Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Son un poco menos que un parásito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces no les creemos más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y por más que manden a Cerruti todos los días a meternos Blancanieves y los siete enanitos, no le creemos.",
+      "entidades_detectadas": [
+        "Cerruti"
+      ]
+    },
+    {
+      "frase": "No le creemos ni a Alberto, ni a Blancanieves, ni a Cerruti, ni a Cristina, ni a la oposición.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cerruti",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Estamos hartos de payasadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos convence que tiren dinero con una pistola a la mesa de Juana.",
+      "entidades_detectadas": [
+        "Juana"
+      ]
+    },
+    {
+      "frase": "No nos convence que no den un plan económico que todavía no empezamos a vivir porque no hay economía, porque no hay plata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y estamos hartos del plan económico de la pistola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso quería decirles esto, que, tírenlo, por más que pongan un payador, no les creemos más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La única forma que a lo mejor dentro de 20 años recuperemos la credibilidad en ustedes es que hagan algo, no mucho, pero algo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque hasta ahora, no son unos inútiles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Archivo de Log (Correcciones y Cambios):**\n\nEl texto original presentaba numerosos problemas de ortografía, coherencia y cohesión.",
+      "entidades_detectadas": [
+        "Correcciones",
+        "Archivo de Log",
+        "Cambios"
+      ]
+    },
+    {
+      "frase": "Además, carecía de nombres propios consistentes.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Las correcciones se enfocaron en:\n\n1.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Ortografía:** Se corrigieron errores de escritura, acentuación, y puntuación.",
+      "entidades_detectadas": [
+        "Ortografía"
+      ]
+    },
+    {
+      "frase": "Se sustituyeron palabras coloquiales por otras más formales cuando correspondía, manteniendo el tono informal del discurso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ejemplos: \"hinchas\" por \"hinchas\", \"ha podrido\" por \"ha corrompido\", \"zapos\" por \"negocios turbios\",  \"carroña\" por \"gente corrupta\", \"fanfa\" por \"fanfarrón\",  \"mangrullón\" por \"misión\", \"tinderato\" por \"kirchnerismo\", \"pelotudo\" por \"tonto\", etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "2.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Nombres y Apellidos:** Se  sustituyeron nombres propios ambiguos o incorrectos por otros más probables, o bien se eliminaron los nombres cuando su presencia no era relevante o no aportaba información esencial a la narrativa.",
+      "entidades_detectadas": [
+        "Nombres",
+        "Apellidos"
+      ]
+    },
+    {
+      "frase": "Se dejó un espacio vacío \"[Nombre del Ministro de Economía de Alfonsín]\", \"[Nombre del personaje]\", etc.",
+      "entidades_detectadas": [
+        "Ministro de Economía de Alfonsín"
+      ]
+    },
+    {
+      "frase": "para  indicar la necesidad de completar la información con el nombre correcto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En algunos casos la identidad del personaje mencionado es desconocida o ambigua en el contexto original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "3.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Coherencia y Cohesión:** Se reorganizaron algunas frases y párrafos para mejorar la fluidez y la comprensión del texto.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "Se eliminaron repeticiones innecesarias y se agregaron conectores para lograr una mejor cohesión entre las ideas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, se aclararon algunos puntos ambiguos, como la referencia al \"biso\" (cambiado por \"campo\").",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se reformularon frases confusas para mejorar su claridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "4.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Vocabulario:** Se mantuvo el tono informal del discurso, utilizando un vocabulario apropiado para el contexto,  evitando en la medida de lo posible, las repeticiones excesivas de insultos o términos coloquiales.",
+      "entidades_detectadas": [
+        "Vocabulario"
+      ]
+    },
+    {
+      "frase": "El texto corregido conserva el estilo y el contenido principal del texto original, pero lo presenta de una manera más clara, coherente y con una mejor escritura.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cerruti",
+    "Juana",
+    "Pero",
+    "Correcciones",
+    "Chicos",
+    "Milagrosamente",
+    "Pardín",
+    "Canal 7",
+    "Uruguay",
+    "Nombre",
+    "Tigre",
+    "Había",
+    "¿Ustedes están",
+    "eh",
+    "Ricardo",
+    "Inglaterra",
+    "Miriam Lewin",
+    "Vocabulario",
+    "Cambios",
+    "Estado",
+    "Además",
+    "Viste",
+    "River",
+    "Javier",
+    "Nombres",
+    "Alberto",
+    "Apellidos",
+    "Cohesión",
+    "Ortografía",
+    "Cristina",
+    "Coherencia",
+    "Ustedes",
+    "Bueno",
+    "Después",
+    "Brasil",
+    "¿Tengo",
+    "Eran",
+    "Terminó",
+    "Ah",
+    "¿",
+    "Ministro de Economía de Alfonsín",
+    "Odebrecht",
+    "Alfonsín",
+    "Bolivia",
+    "Chile",
+    "Así",
+    "Archivo de Log"
+  ]
+}

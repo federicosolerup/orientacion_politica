@@ -1,0 +1,496 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hoy está mi amiga Silvia Martínez, siempre un placer tenerla.",
+      "entidades_detectadas": [
+        "Silvia Martínez"
+      ]
+    },
+    {
+      "frase": "Le dije: \"Silvia, no digas nada sobre lo de Majul, vení acá\".",
+      "entidades_detectadas": [
+        "Majul",
+        "Silvia"
+      ]
+    },
+    {
+      "frase": "La sala está abierta y está llegando nuestra compañera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lamentamos mucho la partida de [nombre del fallecido], un beso grande a su familia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a hablar de ello en cualquier momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue una broma muy grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "[La persona fallecida] aguantó dos rounds antes de que la venezolana […], lo matara.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestro camarógrafo, \"El Búfalo\", dice que basta de molestarlo porque le gritan \"cornudo\" antes de que el programa salga al aire.",
+      "entidades_detectadas": [
+        "El Búfalo"
+      ]
+    },
+    {
+      "frase": "Lo mejor del programa son los camarógrafos y los chicos de sonido; aportan buena onda y energía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre están ahí, con los micrófonos, dándome buena energía para hacer el programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El pie de pantalla dice… (no se ve).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pensé que este país era de todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo escribo, aunque no lo recuerdo bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy estaba viendo el homenaje a Raúl Alfonsín.",
+      "entidades_detectadas": [
+        "Raúl Alfonsín"
+      ]
+    },
+    {
+      "frase": "Podría haber llevado una alfinecita, para conmemorarlo.",
+      "entidades_detectadas": [
+        "Podría"
+      ]
+    },
+    {
+      "frase": "Da vergüenza que apelen a las cosas más bajas en política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto, usted dijo lo del dedo de Alfonsín.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "No, no, no es el mismo dedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ni usted es Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Con todo respeto, Alberto, si Alfonsín hubiera vivido, ni Moró ni nadie de su entorno estaría ahí.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Alfonsín",
+        "Moró"
+      ]
+    },
+    {
+      "frase": "Los hubiera echado a cachetazos y el radicalismo lo hubiera expulsado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se lo crea… yo soy radical.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Soy radical, y puedo decirlo con orgullo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajé codo a codo con Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín",
+        "Trabajé"
+      ]
+    },
+    {
+      "frase": "¿Quiere que le cuente una historia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajé para Leopoldo Moreau, el que usted tiene sentado ahí.",
+      "entidades_detectadas": [
+        "Leopoldo Moreau",
+        "Trabajé"
+      ]
+    },
+    {
+      "frase": "Moreau levantó su campaña porque no tenía para comer, era un capitalista del juego, apodado \"Cabezón García\".",
+      "entidades_detectadas": [
+        "Cabezón García",
+        "Moreau"
+      ]
+    },
+    {
+      "frase": "Tengo 27 testigos para confirmarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vivía en un monoambiente alquilado y, poco después de unirse al radicalismo, compró la casa del almirante Quijano frente al CASI.",
+      "entidades_detectadas": [
+        "Vivía",
+        "CASI",
+        "Quijano"
+      ]
+    },
+    {
+      "frase": "Leopoldo Moreau decía ser como su hijo predilecto.",
+      "entidades_detectadas": [
+        "Leopoldo Moreau"
+      ]
+    },
+    {
+      "frase": "Si Alfonsín supiera, en otra vida, en la cuarta dimensión, que hoy Leopoldo Moreau está aplaudiendo a usted… ¡peor aún!",
+      "entidades_detectadas": [
+        "Alfonsín",
+        "Leopoldo Moreau"
+      ]
+    },
+    {
+      "frase": "Usted puede recibir sus aplausos porque tiene un parecido oficio con Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Aplaudió a Cristina, se baboseó con Cristina, algo que ningún radical hubiera hecho.",
+      "entidades_detectadas": [
+        "ningún",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "El dedo de Alfonsín no era como el suyo.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "El dedo de Alfonsín apuntaba a la corrupción.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Alfonsín nunca se hubiera puesto de vicepresidente a un corrupto, a un procesado, a un multiprocesado.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Son diferentes dedos; es como el dedo del proctólogo o el dedo del diario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No son los mismos dedos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En otro orden de cosas, nosotros somos iguales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos confundamos, y mucho menos con el dedo de Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Ninguno de ustedes le llega ni al tobillo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No instrumentalicemos a Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Usted, Alberto, es usado por Cristina como símbolo de honestidad, y usted usó a Alfonsín de la misma manera.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Alfonsín",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Yo estuve al lado de Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Fue un estadista, un grande como Perón y Evita.",
+      "entidades_detectadas": [
+        "Evita"
+      ]
+    },
+    {
+      "frase": "Ustedes son cuatro de copa, compiten entre ustedes, Macri, ustedes, […], la cuarta… ustedes no son políticos.",
+      "entidades_detectadas": [
+        "Ustedes",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Están ahí porque nadie quiere la silla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay gente muy cómoda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que esa gente no esté cómoda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que estén preparados para los próximos cuatro años, ante cualquier amenaza a la democracia y la libertad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si esto se transforma en Venezuela… Donda quiere sacar a la Policía Federal, quiere sacar a…  Deberíamos salir a la calle pacíficamente, un millón de personas en el Obelisco, cada 15 o 20 días, para mostrar que hay un 41%, 42% o 45% de la gente que no los quiere.",
+      "entidades_detectadas": [
+        "Obelisco",
+        "Policía Federal",
+        "Venezuela",
+        "Donda"
+      ]
+    },
+    {
+      "frase": "Y también, por si intentan sacar a Alberto, salir a la calle a apoyarlo.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Como decía Raúl Alfonsín, hay que apoyar a las instituciones, no hay que desestabilizarlas.",
+      "entidades_detectadas": [
+        "Raúl Alfonsín"
+      ]
+    },
+    {
+      "frase": "No hay que juntar diez banqueros, comprar dólares para debilitar al presidente… Hoy abrió de nuevo el Museo Mundo, ¡qué suerte!",
+      "entidades_detectadas": [
+        "Museo Mundo"
+      ]
+    },
+    {
+      "frase": "Una semana antes de las elecciones, ¡espectacular!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una fábrica de San Martín… ¿dónde estaba el dinero?",
+      "entidades_detectadas": [
+        "San Martín… ¿"
+      ]
+    },
+    {
+      "frase": "¿Comprando dólares?",
+      "entidades_detectadas": [
+        "¿Comprando"
+      ]
+    },
+    {
+      "frase": "¿Qué pasó para que se calmara todo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los muchachos que juntaron 7 mil millones de dólares para desestabilizar el dólar, lo trajeron de vuelta al servicio de la democracia…  Cosas que la gente no sabe.",
+      "entidades_detectadas": [
+        "Cosas"
+      ]
+    },
+    {
+      "frase": "Hoy hubo un informe sobre [nombre del afectado], con quien nos solidarizamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "[Nombre del afectado] fue presidente de mesa, afiliado al partido de la intendenta [nombre de la intendenta], quien ganó las elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El fiscal general me dijo que la mesa fue tranquila y que las fotos fueron sacadas por los amigos, que fue una opereta barata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi solidaridad para [nombre del afectado], pero lo usaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Preparemonos, porque tiembla la libertad de expresión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me tiembla a mí, y a muchos compañeros que tienen miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiembla la libertad de Lilita Carrió, tiembla Silvina Martínez, tiembla Marieta Stolbiser, tiembla [nombre de la otra persona], tiemblan los decentes, tiemblan los honestos.",
+      "entidades_detectadas": [
+        "Lilita Carrió",
+        "Marieta Stolbiser",
+        "Silvina Martínez",
+        "Tiembla"
+      ]
+    },
+    {
+      "frase": "Yo me jugué cuatro años, no por Macri, sino por la libertad y la democracia.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Trabajé mucho por Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Y algunos me preguntan: \"¿Y te vas ahora que ganamos?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, pero esperen, voy hasta el cementerio de San Isidro.",
+      "entidades_detectadas": [
+        "cementerio de San Isidro"
+      ]
+    },
+    {
+      "frase": "Voy a llevar a mi papá, a mi mamá, los restos de mi hermano de Malvinas, a mi mujer… No quiero dejar ni las cenizas de los héroes que fueron mi familia.",
+      "entidades_detectadas": [
+        "Malvinas"
+      ]
+    },
+    {
+      "frase": "Mi papá fue secretario de Illia y mi hermano un héroe de Malvinas.",
+      "entidades_detectadas": [
+        "Illia",
+        "Malvinas"
+      ]
+    },
+    {
+      "frase": "Si un idiota me va a decir lo que tengo que hacer con mi vida… Nosotros venimos de una familia con valores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Valores que mantuve incluso cuando quisieron violar a mi hija y tuve que matar a un tipo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me van a callar ni los K, ni los M, ni los L, ni los Z.",
+      "entidades_detectadas": [
+        "Z."
+      ]
+    },
+    {
+      "frase": "Voy a pelear por mi libertad de expresión y la de todos ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto lo hago porque económicamente no me importa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me importa que la gente abra los ojos y aprenda a hablar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso defiendo a Silvina Martínez, a Stolbiser y a todas estas mujeres que han puesto el pecho a las balas para denunciar a las mujeres corruptas.",
+      "entidades_detectadas": [
+        "Stolbiser",
+        "Silvina Martínez"
+      ]
+    },
+    {
+      "frase": "Mujeres corruptas que se suben al escenario a mover el culo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sé que el país no está bien, la gente está triste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos estamos asustados y arrepentidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero esto es una mierda, hay que luchar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto, los boludos que lo aplauden no son radicales.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Y los boludos que lo critican son los que vamos a poner el pecho si lo quieren tocar.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Podría",
+    "Donda",
+    "Aplaudió",
+    "Malvinas",
+    "Vamos",
+    "¿Qué",
+    "Cabezón García",
+    "Tiembla",
+    "ningún",
+    "Silvia Martínez",
+    "Lilita Carrió",
+    "Museo Mundo",
+    "Voy",
+    "Z. Voy",
+    "Marieta Stolbiser",
+    "Majul",
+    "Policía Federal",
+    "Raúl Alfonsín",
+    "Nuestro",
+    "Vivía",
+    "Alberto",
+    "Cosas",
+    "Pensé",
+    "Usted",
+    "San Martín… ¿",
+    "Cristina",
+    "Silvina Martínez",
+    "Moreau",
+    "Evita",
+    "Ustedes",
+    "Illia",
+    "¿Comprando",
+    "Leopoldo Moreau",
+    "Silvia",
+    "Obelisco",
+    "Preparemonos",
+    "Trabajé",
+    "cementerio de San Isidro",
+    "El Búfalo",
+    "Alfonsín",
+    "Moró",
+    "Venezuela",
+    "Stolbiser",
+    "Macri",
+    "Quijano"
+  ]
+}

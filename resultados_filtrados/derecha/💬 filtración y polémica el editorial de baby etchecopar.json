@@ -1,0 +1,72 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hoy se peleó [Javier] Milei con el que vende pochoclo y con eso creíamos que estaba gobernando.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Hoy el Presidente tiene que enfrentar al país y por eso gobernar en serio.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Pero como van a seguir los que lo rodean, porque los que lo rodean no se van a ir, porque el Presidente es un poquito cabezadura, no se van a ir los que lo rodean porque están agarrados al negocio como un cocodrilo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Les vuelvo a decir, yo le voy a ayudar al Presidente a que llegue a los cuatro años y cuatro más.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Solamente Rosario me dio laburo.",
+      "entidades_detectadas": [
+        "rosario"
+      ]
+    },
+    {
+      "frase": "Ya con Cristina [Fernández] de Kirchner también.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "A algún compañerito que no quiere a Milei lo filtró, lo editó y lo pasó.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Por eso creo que el Presidente tendría que darle una nota a la oposición, de una hora y media igual, y sin edición.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "No tratés de salvar al Presidente porque el Presidente se tiene que salvar solo'.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "**Correcciones y Cambios Realizados (Log):**\n\n**Nombres y Apellidos:**\n\n*   \"Johnny Viale\" se corrigió a \"Jonatan Viale\" (x5) ortografía correcta del nombre\n*   \"Javier\" se entiende que se refiere a Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "*   \"Cristina Aquino\" se corrigió a \"Cristina Fernández de Kirchner\" (nombre completo y correcto)\n*   \"De La Rúa Eisenhower\" se corrigió a \"[Fernando] De la Rúa [Dwight D.] Eisenhower\" (nombres completos y correctos de ambas figuras)\n*   \"Victor Hugo Morales\" se corrigió a \"Víctor Hugo Morales\" (agregado tilde)\n**Ortografía:**\n\n*   \"ahí\" se corrigió a \"estaba\" (mejor sintaxis).",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    }
+  ]
+}

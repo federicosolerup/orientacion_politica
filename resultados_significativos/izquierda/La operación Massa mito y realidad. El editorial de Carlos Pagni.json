@@ -1,0 +1,536 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 71,
+      "derecha": 33
+    },
+    "score_promedio": 0.334,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Tratar de calibrar en la medida de lo posible, en medio de un mar de incógnitas, cuáles son las realidades y los mitos de esto que podríamos llamar \"operación Massa\": la llegada de Sergio Massa al Ministerio de Economía, las expectativas que generó, las que tiene, y una enorme operación de comunicación basada sobre todo en tres ejes que buscan diseñar la imagen de gestión que quiere proyectar Sergio Massa sobre la opinión pública, los operadores económicos, etc.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, una comparación que vamos a examinar ahora con algún detalle con Fernando Henrique Cardoso, no con el expresidente de Brasil, sino con el anterior, el que fue ministro de Economía y de Hacienda del presidente Itamar Franco en Brasil, y que, gracias a un plan de estabilización, en alguna medida inspirado en la convertibilidad de Domingo Cavallo, se lanzó a la presidencia de Brasil y la conquistó derrotando a Luiz Inácio Lula da Silva.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es uno de los ejes que hemos conocido de la proyección que Massa le quiere dar a su gestión y a su llegada al gabinete, al poder ejecutivo en estos días.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo tiene que ver con la idea de que es un \"superministro\".",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece haber algo subliminal en esa idea, como si quedara la impresión de que Massa ha asumido la presidencia de la nación, su sueño desde el año 2013, posiblemente desde mucho antes, frustrado en el 2015.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el tercer mensaje de toda esta maquinaria de comunicación, de imagen, que ha puesto en funcionamiento Massa en los últimos días.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ir examinando cuánto hay de cierto y cuánto de relativo para poder ver dónde estamos y cuáles son los desafíos que tiene Massa por delante, que son, en realidad, los desafíos que tiene la Argentina por delante y el gobierno por delante, con un nuevo Ministro de Economía.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cardoso fue presidente de Brasil en el 94, ahí le ganó la elección a Lula, pero llegó al Ministerio de Hacienda en el año 92.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 92-93 se hizo cargo del Ministerio de Hacienda de Itamar Franco, que era un vicepresidente que tuvo que asumir la presidencia porque el presidente había sido removido por un *impeachment* muy sonado.",
+      "score": 0.631,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primera característica de Cardoso: si uno quiere comparar con Massa, un gran intelectual, profesor en Cambridge, profesor en la Sorbona, un sociólogo que revolucionó la teoría sociológica latinoamericana o surgida en Latinoamérica, sobre todo en asociación con la economía; es decir, Cardoso no es un economista, pero es un sociólogo dedicado a la economía, sobre todo a la teoría del desarrollo, tanto que se desempeñó durante mucho tiempo en la CEPAL (Comisión Económica para América Latina), vivía en Chile, exiliado del gobierno militar brasileño que se instaló en Brasil en el 64.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Massa no es un intelectual.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernando Rosso, en el diario La Izquierda, dijo, hablando de esta comparación, que Cardoso le lleva varias bibliotecas de ventaja.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reagan es uno, Menem es otro.",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, sí hay una diferencia llamativa entre lo que estamos viendo ahora en la llegada de Massa y el experimento de Cardoso y su Plan Real.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De ahí vino Edmar Bacha, algunos lo llaman \"Plan Bacha\" al Plan Real porque fue el ideólogo del plan; también Percio Arida, Gustavo Franco, que venía de obtener un doctorado en Harvard sobre hiperinflaciones, y Pedro Malan, que fue el presidente del Banco Central y después fue el gran ministro de Hacienda de Cardoso presidente.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque hasta ahora, por lo que vemos, al menos por el prestigio acumulado (esto no quiere decir nada respecto del futuro, puede ser que a partir de ahora veamos el surgimiento de luminarias en el paisaje económico argentino), el equipo que rodea a Massa no es un equipo de primer nivel, al revés.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno se pone a mirar a la gente a la que Massa convocó, y tenemos una forma concreta de mirarlo, objetiva, casi todos le dijeron que no.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Peirano ahora está al frente de una cámara de empresas petroleras que no piensa abandonar.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro economista próximo a Massa, antes de que Massa lo convocara, prefirió adelantar un viaje que tenía previsto para Brasil, Gabriel Delgado, para que no lo llamen.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese fue el encargado de firmar y convalidar todos los desembolsos del, entre comillas, \"maldito crédito\" que le dio el Fondo a Macri.",
+      "score": 0.316,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que cuando el gobierno de Alberto Fernández fue a iniciar una causa judicial contra los funcionarios del gobierno de Macri, estaba, en realidad, poniendo en tela de juicio la corrección con que Domper, como jefe de la Tesorería, había revisado todos esos desembolsos, el destino del dinero, etc.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También estuvo cerca Marx de Miguel Veyne, cuando Miguel Veyne, en el 2015, se perfilaba para la presidencia de Daniel Scioli, si es que Scioli llegaba a la presidencia.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hugo Dragonetti es el titular de una gran empresa constructora, de los constructores, sino el constructor más cercano a Sergio Massa hoy.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le hubiera gustado a Massa ponerlo como presidente del Banco Central, ahora vamos a hablar de eso.",
+      "score": 0.266,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se dice, lamentablemente no lo pude verificar, pero se comenta que Cleri, antes de aceptar el cargo de vicepresidente del Central, consultó a un amigo y, aparentemente, a alguien a quien él sigue por su criterio, que es Carlos Melconian, que es un economista más ligado al PRO, más específicamente a Horacio Rodríguez Larreta.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay dos personas en las sombras hoy rodeando a Massa, muy operativos, uno aportándole sangre intelectual, Emmanuel Álvarez Agis, a quien Cristina quiso como ministro de Economía y no consiguió, a pesar de que le pidió a su amigo Axel Kicillof que lo convocara.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Álvarez Agis será el segundo de Kicillof en el gobierno de Cristina.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Manzano es el autor de muchas ideas que hoy rodean a Massa y trascienden del entorno de Massa a nivel de operaciones internacionales, sobre todo en el tema deuda y constitución de reservas del Banco Central, que ahora vamos a ver.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que hay una distancia muy grande, no importa, entre Massa y Cardoso, también entre el equipo de Cardoso y el equipo de Massa.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no quiere decir que entre este elenco no aparezcan ahora o no se destape esto como un elenco que le da vuelta a la Argentina.",
+      "score": 0.673,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el nivel de problemas que tiene hoy la economía argentina se necesita un giro copernicano en el rumbo de la economía.",
+      "score": 0.162,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, porque mucha gente con criterio ve a Massa como un gran profesional del poder, como un hombre ansioso por el poder.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen amigos de Massa que cuando él y su esposa, Malena Galmarini, que tiene la misma vocación de poder que él, tuvieron que elegir un lugar a donde vivir, hicieron una especie de recorrido por toda la zona norte para ver cuál era el lugar donde mejor carrera política y más rápida podían lograr.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le dijeron: \"Andá a Tigre, que ahí está Ubieto, que tiene un partido vecinal y ahí no hay peronismo casi.",
+      "score": 0.348,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, y no se equivocaron tanto, porque le fue bastante bien en esa carrera.",
+      "score": 0.388,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo menos hasta el año 2017, donde hubo una debacle que obligó a Massa, envuelto en llanto, a tener que entregarse de nuevo ante Cristina Fernández de Kirchner.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero digo, lo que hay en los que miran a Massa es: \"Este tipo tiene tanta ambición de poder que la va a pelear\".",
+      "score": 0.338,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que se van a tener que alinear o alinear posiblemente detrás de las decisiones que tome Massa y detrás de las negociaciones que haga Massa con factores externos que tienen que ver con la economía argentina.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto después lo vamos a mirar bien cuando hablemos de Cristina Fernández de Kirchner, que es la pregunta clave.",
+      "score": 0.486,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que la odian, los que la desprecian, los que quieren que se vaya de la política, sobre todo en los mercados, cuando miran la escena de la administración económica dicen: \"¿Y Cristina qué piensa?\".",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, estos son factores que tienen que ver más con la política que con las condiciones de Massa como técnico de economía, con la confianza que puede inspirar Massa a nivel técnico.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa dice: \"Eso fue por mí\".",
+      "score": 0.445,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que leer un texto excelente que publicó en su blog Domingo Cavallo, analizando la forma en que, sobre todo, Cristina Fernández de Kirchner mira la economía y dice: \"Ellos creen siempre que la economía se reanima por el consumo.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto también impulsó las cotizaciones paralelas del dólar hacia abajo, con independencia de Massa, pero Massa dice: \"No, cayó el contado con liquidación por Massa, porque yo estoy por llegar, porque llegué, soy el Mesías\".",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa dice: \"Esto fue por mí\".",
+      "score": 0.564,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ¿qué impacto tiene Massa que produjo una suba extraordinaria de acciones brasileñas en Brasil?",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Es un fenómeno local por Massa o es un fenómeno regional?",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es para ir desarmando un poco la euforia con la que Massa se ve a sí mismo, o la euforia que quiere provocar él por su llegada.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que la idea de que llega un político decidido, al que no sabemos, Alberto Fernández, después vamos a hablar de eso, pero Cristina Fernández de Kirchner aparentemente respalda más, no tiene frente a Massa los resquemores, inclusive el sentimiento de una especie de insubordinación o falta de respeto que le provocaba Guzmán.",
+      "score": 0.223,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa todavía tiene que llevarnos este dólar a los niveles de Guzmán, que ya eran inquietantes.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que Massa hizo subir el riesgo país?",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, pero que parte de una situación más complicada y que el solo nombre de Massa no alinea los mercados, no los pone de rodillas.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá hay que desagregar la autoestima de Massa de lo que los operadores económicos están esperando.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos si Massa conoce cómo fue la historia de Brasil con Cardoso y el Plan Real.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la comparación Massa-Cardoso supone que Massa viene a proponer un plan de estabilización, tipo Plan Austral, tipo convertibilidad, tipo Plan Real.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está pensando, por lo que trasciende de su entorno, en mejorar las reservas del Banco Central, inyectando reservas en el Banco Central, buscando préstamos en dólares para poder tener más espalda en una evaluación.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Eventualmente, qué le darían a cambio?",
+      "score": 0.32,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después, cuando quiera comprar de nuevo esos dólares, ¿me los voy a poder llevar?",
+      "score": 0.555,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque en la época de Macri, cuando estaba Toto Caputo en la Secretaría de Finanzas, había que ponerle un techo al dólar, frente al cual no se iba a seguir devaluando la moneda.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Guzmán le tuvo que dar un salvoconducto especial, votado por el Congreso, votado por La Cámpora, votado por todos, para que esos grandes fondos pudieran acceder a dólares a los que no acceden ni usted ni yo.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aparentemente también es Manzano el que le dice: \"Andá ahí, pedile fondos a los árabes\".",
+      "score": 0.502,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se mencionó también un fondo soberano de Arabia Saudita al que Massa recurriría, inclusive antes de ser ministro de Economía.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver si esos árabes prestan tan fácilmente como suele pensarse.",
+      "score": 0.364,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que tienen experiencia con esos fondos soberanos de Medio Oriente dicen que no.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ha habido muchas colocaciones de bonos de provincias que fueron a recurrir a esos fondos soberanos y, al final, las condiciones son tantas que la plata no aparece.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ofrecerle al sector agropecuario, apareció una noticia de que Massa se había comunicado con el presidente de la Sociedad Rural Argentina y con la Mesa de Enlace.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para negociar si habría una gran liquidación de soja, una gran liquidación de productos a cambio de que al campo, por un tiempo, le den un dólar más competitivo.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner habla de esto con sus amigos.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, con Roberto Lavagna, que fue senador con ella y es nada menos que el presidente principal accionista de Aceitera General Deheza.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que compra uno de esos papeles y le prometen que le van a devolver la plata con una tasa de interés del 60% o más está mirando la tercera pata.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Venimos hablando hasta el cansancio de la página 13 del último informe del Fondo cuando convalidan el comportamiento del primer trimestre del programa.",
+      "score": 0.268,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque cuando uno mira la historia de la fiscalidad en la Argentina, el problema grueso fiscal aparece cuando, con la gestión de Massa en ANSES, se incorporan legiones de personas a cobrar jubilaciones sin haber hecho aportes.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa era muy joven cuando hizo eso.",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tan joven que era muy posible, y ahora le toca que se encuentre él con el problema que él creó.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso para los gobernadores que pedían que Alberto Fernández tome decisiones.",
+      "score": 0.634,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un día Alberto Fernández les va a tener que decir: \"Si yo tomo decisiones en serio, voy contra ustedes.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el aumento de tarifas en los servicios públicos, que probablemente, con estos números de hoy, tenga que ser más dramático que el que planteó el Fondo Monetario Internacional en su momento con Guzmán.",
+      "score": 0.334,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo voy a traducir en estos términos: ¿cuánto miedo tiene que tener Cristina Fernández de Kirchner al descalabro para autorizar un ajuste neoliberal?",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es, como dicen tantos cronistas, un pragmático, como dicen tantos analistas económicos.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque vamos a ver por primera vez un Massa que tiene que dar malas noticias.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya dijimos que Massa mira esto como una oportunidad.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque de la experiencia Cardoso no le importa tanto la ideología o la técnica del Plan Real.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tampoco le importa la calidad del elenco de Cardoso.",
+      "score": 0.683,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que le importa, lo que lo fascina, lo que lo atrae, es que Cardoso llegó a presidente.",
+      "score": 0.219,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y él dice: \"Si yo doy vuelta el rumbo de este gobierno, si me transformo en el salvador de la gestión Fernández, que es una gestión que desde el punto de vista económico está naufragando, me transformo en el candidato inevitable, como le gustaba decir a Duhalde, del peronismo para el 2023\".",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por la alianza que Massa hizo en su momento con María Eugenia Vidal, a la que le dio un gran respaldo en la provincia de Buenos Aires, tal vez no correspondido en aquel momento, pero Martín Insaurralde, que no es amigo de Massa, que es el otro socio de Máximo Kirchner en la política bonaerense, tuvo que emitir un tuit diciendo: \"Necesitamos a Massa ministro de Economía\".",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hoy fueran las elecciones, Alberto Fernández o el gobierno de Alberto Fernández o el Frente de Todos sacaría 22,4% de los votos.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, probablemente este número vuelve a Cristina Fernández de Kirchner muy pragmática.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo dice el Fondo Monetario en esa página 13.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una cuestión de si el ministro está capacitado para decir \"no\", y si el presidente sostiene al ministro.",
+      "score": 0.238,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante la llegada de Massa, tuvimos desde el Congreso una novedad que la cuenta labura cierra en la Nación, diciendo se suspenden los programas de mayor gasto, los proyectos de ley que implicaban mayor gasto.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Guzmán no le preguntaban hasta dónde se podía gastar desde el Congreso.",
+      "score": 0.609,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora a Massa le van a preguntar: \"Bienvenido sea\".",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner va a admitir ahora ajustes que no admitió cuando se firmó el acuerdo con el Fondo y ella lo votó en contra.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, hoy hubo foto de Massa con Cristina.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que Cristina también va a estar viendo quién absorbe el ajuste.",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al principio, cuando lo puso Alberto Fernández, pensó: \"Lo pongo por muchas razones, pero una es que tiene que hacer cosas que yo no quiero hacer, porque no quiero ir contra mis convicciones, contra mis creencias y no quiero desfigurar mi figura, mi retrato ante la historia.",
+      "score": 0.377,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No pudo, no supo, no quiso, como decía Alfonsín.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el rol de Massa en la historia.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que tiene que hacerlo antes de que la desgracia, la crisis, el desastre, golpeen a la puerta de Cristina y se tenga que hacer cargo Cristina del gobierno.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay mensajes de texto, de WhatsApp, del aparato de prensa de Massa pidiendo a canales de televisión: \"Queremos que digan que está bajando el dólar por Sergio y que Sergio es superministro\".",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guzmán, antes de irse, y esta es la razón por la que se fue, le pidió a Alberto Fernández, aquel jueves anterior al acto de Cristina en Senada donde él plantó su tuit: \"Quiero un lugar en la mesa del Banco Central, no la presidencia del Banco Central, un lugar en la mesa de operaciones, y dos, el área de Energía\".",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esas dos cosas que no le dieron a Guzmán hasta ahora, ahora vamos a hablar con Sofía Diamante a ver si hay alguna posibilidad de que esto se revierta o no, no se las han dado a Massa.",
+      "score": 0.603,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, Massa armó un superministerio que se parece a viejos",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 104
+  },
+  "etiqueta_original": "neutral"
+}

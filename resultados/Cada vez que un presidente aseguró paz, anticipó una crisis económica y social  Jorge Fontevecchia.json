@@ -1,0 +1,770 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El lunes 15 de julio titulamos nuestra apertura de hoy \"Día 218: Ataque de Pánico\", porque el sábado, desde Estados Unidos, el presidente Javier Milei y el ministro de Economía Luis Caputo anunciaron cambios en la política financiera del país, en medio de una creciente incertidumbre y al borde de lo que podría considerarse una corrida.",
+      "entidades_detectadas": [
+        "ministro de",
+        "Estados Unidos",
+        "Economía Luis Caputo",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Además, en sus declaraciones posteriores, el presidente dijo que los aumentos de los dólares paralelos les generaban, textualmente, \"cero pánico\".",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Por eso, abrimos el programa de hoy escuchando \"Panic Show\" de La Renga, interpretada por el propio Milei durante la presentación de su libro en el Luna Park, ya siendo presidente.",
+      "entidades_detectadas": [
+        "Milei",
+        "Luna Park",
+        "Renga"
+      ]
+    },
+    {
+      "frase": "El ataque de pánico es un episodio repentino de miedo intenso que provoca reacciones físicas graves cuando no existe un peligro real o una causa aparente, al menos en la proporción para generar esa reacción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando se presenta un ataque de pánico, se puede sentir como si se estuviera perdiendo el control, sufriendo un ataque cardíaco e incluso percibiendo que se está a punto de morir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente Javier Milei dijo que había \"cero pánico\" en relación con los problemas económicos que se generaron por los aumentos de los dólares paralelos.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Ernesto Tenembaum, quien además de ser periodista político y psicólogo, escribió una columna al respecto, que vamos a pedir a nuestro locutor, Elian López Cauzero, que nos lea un fragmento donde casualmente se refiere al pánico.",
+      "entidades_detectadas": [
+        "Elian López Cauzero",
+        "Ernesto Tenembaum"
+      ]
+    },
+    {
+      "frase": "El presidente de la nación, Javier Milei, explicó ayer que en los próximos meses la Argentina va a tener problemas para juntar reservas, pero aclaró \"cero pánico\".",
+      "entidades_detectadas": [
+        "Javier Milei",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Cualquiera que haya vivido la historia económica argentina sabe que este tipo de reacción suele generar más angustia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando un presidente o ministro argentino dice que \"el que apuesta al dólar pierde\", probablemente el dólar suba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando otro dice \"el que puso dólares recibirá dólares\", seguramente ocurra lo contrario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El segundo elemento preocupante en el marco de la afirmación sobre el \"cero pánico\", Milei dijo eso desde los Estados Unidos un día sábado, mientras su ministro Luis Caputo anunciaba un paquete de medidas históricas para dejar de emitir pesos y vender reservas.",
+      "entidades_detectadas": [
+        "Milei",
+        "Luis Caputo",
+        "los Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Más allá de la lógica de esas medidas, que generaron ayer polémicas muy duras entre distintos economistas, lo cierto es que fueron anunciadas en una conferencia de prensa improvisada un sábado por la tarde, al final de una semana muy mala en los mercados financieros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No había chances de esperar hasta el lunes?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No había tiempo para volver a la Argentina y presentar todo con serenidad?",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Si no lo había, si había tanta urgencia, ¿eso quiere decir que hay pánico o que no hay pánico?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿O qué nivel de pánico hay, de cero a diez?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "El presidente de la nación, Javier Milei, explicó ayer que en los próximos meses la Argentina va a tener problemas para juntar reservas, pero aclaró \"cero pánico\".",
+      "entidades_detectadas": [
+        "Javier Milei",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Cualquiera que haya vivido la historia económica de la Argentina sabe que ese tipo de negación suele generar más angustia.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Cuando un presidente o un ministro argentino dice \"el que apuesta al dólar...\", probablemente el dólar suba, esto es lo que decía casualmente nuestro colega Ernesto Tenembaum.",
+      "entidades_detectadas": [
+        "Ernesto Tenembaum"
+      ]
+    },
+    {
+      "frase": "El segundo elemento preocupante es en el marco de la afirmación sobre el \"cero pánico\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Milei dijo esto desde Estados Unidos un día sábado, mientras Luis Caputo anunciaba un paquete de medidas históricas para dejar de emitir pesos y vender reservas.",
+      "entidades_detectadas": [
+        "Milei",
+        "Luis Caputo",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Más allá de la lógica de estas medidas, que generaron ayer polémica, fue una semana de muy malos resultados financieros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo esto es lo que decía nuestro colega Ernesto Tenembaum.",
+      "entidades_detectadas": [
+        "decía nuestro",
+        "Ernesto Tenembaum"
+      ]
+    },
+    {
+      "frase": "Es inevitable preguntarse por qué dos semanas seguidas con anuncios macroeconómicos importantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, la conferencia de prensa el viernes anterior, a cargo de Luis Caputo y el presidente del Banco Central, Santiago Bausili, y luego el sábado, una especie de conferencia de prensa a dúo, porque habló por una radio el presidente Milei y por otra, el ministro Caputo.",
+      "entidades_detectadas": [
+        "Caputo",
+        "Banco Central",
+        "Santiago Bausili",
+        "Milei",
+        "Luis Caputo"
+      ]
+    },
+    {
+      "frase": "La psicoanalista Liliana Zarebsky explica en este video que compartimos que, según Freud, se observa por primera vez en los ejércitos el resultado del pánico.",
+      "entidades_detectadas": [
+        "Freud",
+        "Liliana Zarebsky"
+      ]
+    },
+    {
+      "frase": "El primer efecto y el síntoma es que la pérdida de confianza se generaliza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pasemos al fragmento que lo explica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"En Freud, en lo que él llamaba la histeria de angustia, ubicamos la manifestación de lo que hoy llamamos crisis de pánico.",
+      "entidades_detectadas": [
+        "Freud"
+      ]
+    },
+    {
+      "frase": "Freud retoma esta cuestión, cuando él habla de histeria de angustia, cuando habla de los síntomas, de la sintomatología de la histeria de angustia, lo que aparece es toda la sintomatología que hoy damos, que se da desde la psiquiatría a las crisis de pánico.",
+      "entidades_detectadas": [
+        "Freud"
+      ]
+    },
+    {
+      "frase": "Freud retoma esta cuestión en el texto \"Psicología de las masas y análisis del yo\", planteando efectivamente que en el momento en que, retomando este tema de los militares, cuando habla de las masas, entre ellas del ejército, plantea que en el momento en que los soldados dejan de confiar en sus superiores, cunde el pánico.",
+      "entidades_detectadas": [
+        "Freud"
+      ]
+    },
+    {
+      "frase": "Porque no se aclara e ilumina Freud, se rompen los lazos libidinales entre los miembros del ejército y cada uno cuida ya solo de sí mismo.",
+      "entidades_detectadas": [
+        "Freud"
+      ]
+    },
+    {
+      "frase": "Se rompen los lazos entre los miembros, entre los miembros de esa masa, como con la de los miembros con cada uno de sus jefes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exactamente, en el momento en que se rompen los lazos de un grupo, cada uno sale para cualquier lado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En lugar del efecto cardumen se produce el efecto de explosión hacia afuera y cada uno sale corriendo hacia un lugar diferente y generalmente se chocan y terminan destruyéndose por su propia fricción.\"\n\nVamos ahora a compartir algunos fragmentos del ministro de Economía, Luis \"Toto\" Caputo, explicando las medidas en la conferencia de prensa.",
+      "entidades_detectadas": [
+        "ministro de Economía",
+        "Vamos",
+        "Luis \"Toto\" Caputo"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo.",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "\"Estamos acá porque estamos ya en lo que nosotros consideramos lo que sería la segunda etapa de este plan de estabilización que consiste esencialmente en ir a emisión, no voy a decir cero, después el presidente del Banco Central lo va a explicar bien, a cerrar la segunda canilla de emisión.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Recuerden que tenemos tres canillas de emisión monetaria, una es el déficit fiscal, la segunda son los intereses que el Banco Central paga por esos famosos pasivos remunerados, le-bacs, le-licks, pases y el tercero es cuando el Banco Central compra dólares.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "\"\n\nBueno, lo que acaban de escuchar es la génesis del problema, la que se ha hecho en la conferencia de prensa del 28 de junio, que nadie entendió nada, y que al no entender generó expectativas negativas y suposiciones de que había algo oculto.",
+      "entidades_detectadas": [
+        "Bueno",
+        "generó"
+      ]
+    },
+    {
+      "frase": "Vamos ahora a compartir la explicación del propio presidente Milei: \"y vamos a esterilizar los pesos colocando dólares en el mercado\", es decir, una semana después de que se haya hecho esa conferencia, pensé que estamos hablando de lo que dijo el presidente Milei este sábado.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "\"El día miércoles estaríamos cerrando el tema de los pases, y una de las cosas que nos pareció para llegar directamente, avanzar con mayor celeridad, fue cerrar también el grifo de la emisión de compra de dólares, o sea, porque usted podía emitir, por déficit fiscal lo cerramos, por cuestiones de índole financiera, que era la emisión endógena de los pasivos remunerados, lo cerramos, digamos, estamos cerrando el tema de los pases, entonces el único grifo que queda para inyectar pesos es la compra de dólares.",
+      "entidades_detectadas": [
+        "grifo"
+      ]
+    },
+    {
+      "frase": "Pasar de exceso de oferta cero a emisión cero implica cortar también la emisión por compra de dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, ¿qué es lo que sucede?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como nosotros, por regulación en el mercado cambiario, en el MULC tenemos que comprar, ¿qué pasa?",
+      "entidades_detectadas": [
+        "MULC"
+      ]
+    },
+    {
+      "frase": "Compramos dólares e inyectamos pesos, y lo que vamos a hacer es esterilizar esos pesos colocando dólares en el mercado, y de esa manera, digamos, nos aseguramos que la cantidad de dinero quede constante.\"\n\nSí, un Freud explicaba que el pánico no es producto de la reacción frente a un peligro objetivo, sino que pone al individuo en presencia de una amenaza que podríamos calificar de originaria, algo que está grabado en la mente de la persona, tal vez la razón de por qué Buenos Aires es una de las capitales mundiales del psicoanálisis tenga que ver con cuánto resuenan las teorías freudianas en varios aspectos de nuestra realidad, es decir, cuánto pánico acumulado tenemos.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Freud"
+      ]
+    },
+    {
+      "frase": "El pánico, frente a los descalabros cambiarios, ya es parte constitutiva prácticamente de la estructura de nuestro consciente colectivo, por así decirlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos en su columna, con mucha razón, que frente a problemas económicos, las palabras de los presidentes se han confirmado, en su contrario, es decir, ha sucedido exactamente lo opuesto a los discursos tranquilizadores que han hecho frente a la sociedad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tal es así que es lindo traer las buenas noticias de De la Rúa, que fue un trágico preludio del fin de su gobierno en solo un episodio de extensa serie de discursos tranquilizadores que parecieron que precedieron -perdón- a las tormentas económicas.",
+      "entidades_detectadas": [
+        "De la Rúa"
+      ]
+    },
+    {
+      "frase": "Vamos a repasar nuestra historia reciente en este tipo de sucesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a remontarnos primero a 1959, presidencia de Arturo Frondizi, y escuchemos entonces al ministro de Comercio y al célebre Álvaro Alsogaray, diciendo que \"hay que pasar el invierno\".",
+      "entidades_detectadas": [
+        "Arturo Frondizi",
+        "Álvaro Alsogaray",
+        "ministro de Comercio"
+      ]
+    },
+    {
+      "frase": "Esto es la realidad triste pero histórica que deben conocer todos los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos en un momento en que la gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no puede pagar los sueldos de la misión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Se ha ido produciendo en el tiempo una tendencia desequilibrante en materia del sector externo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De un cuadro crítico heredado allá en abril de 1976 al floreciente cuadro que reflejaba a la economía argentina en esa materia en 1978, como consecuencia del mecanismo cambiario utilizado como instrumento antiinflacionario, esa bonanza se fue crecientemente desvirtuando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestras reservas que en 1979 registraron 10.400 millones de dólares habían descendido a 7.000 millones de dólares a fines del año pasado.",
+      "entidades_detectadas": [
+        "Nuestras"
+      ]
+    },
+    {
+      "frase": "¿Por qué se ha producido este cambio en materia del sector externo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque el tipo de cambio estaba sobrevaluado, porque la Argentina estaba desalentando la corriente de exportaciones por un lado, alentando en exceso la corriente de importaciones, facilitando el turismo de los argentinos en niveles excesivos en el exterior y desalentando el turismo de los extranjeros en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Se fue así produciendo una reversión significativa, a punto tal que esto es lo que explica la necesidad de intervenir en la materia.\"\n\nHay otro ejemplo clásico que se coloca siempre, que sería que uno se suba a un avión y el comandante por los parlantes le dijera: \"quédense tranquilos que nuestros aviones no se caen\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El solo hecho de preguntarse, \"pero, ¿se pueden caer?\", se genera una sensación de temor.",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Tal vez Argentina sea uno de los países más excepcionales en relación con la cantidad de frases que quedan en la memoria colectiva que fueron desmentidas por los hechos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Desde este punto de vista, la siguiente es una más de las recordadas, quizás porque es más cercana en el tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuchemos el famoso discurso de Axel Kicillof del 1 de enero del 2012: \"El que depositó dólares recibirá dólares, el que depositó pesos recibirá pesos\".",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "\"Quiero decirles que van a ser respetadas las monedas en que hicieron sus depósitos, es decir, el que depositó dólares recibirá dólares, el que depositó pesos recibirá pesos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El macrismo fue productor de frases memorables como \"los brotes verdes\", \"el segundo semestre\", \"la luz al final del túnel\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son unos de los ejemplos de esas frases que pretendían ser tranquilizadoras que luego terminaron siendo desmentidas por la realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora vamos a compartir una de la campaña del expresidente Mauricio Macri en el año 2014 diciendo: \"Lo más fácil es eliminar la inflación y el cepo\".",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "\"¿Cómo recuperas el valor de la moneda?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con un programa antiinflacionario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al final del segundo año estamos en un dígito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estate seguro, esto es lo más fácil.",
+      "entidades_detectadas": [
+        "Estate"
+      ]
+    },
+    {
+      "frase": "Lo más fácil que tenemos por resolver es la inflación y el cepo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo más difícil es volver a mejorar y lograr tener la mejor educación pública de Latinoamérica que se va a llevar una década.\"\n\nProbablemente, de escuchar tantos años de frases tranquilizadoras de los presidentes que terminaron en desastres económicos, la sociedad argentina esté curada de encanto, por decirlo de alguna manera, frente al \"cero pánico\" de Javier Milei.",
+      "entidades_detectadas": [
+        "Latinoamérica",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "¿Existen posibilidades de que pueda reaccionar de manera a lo esperado por el presidente?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "El exasesor de Milei, Carlos Rodríguez, hizo un tuit en relación con los riesgos que se corren durante el anuncio del gobierno.",
+      "entidades_detectadas": [
+        "Milei",
+        "Carlos Rodríguez"
+      ]
+    },
+    {
+      "frase": "Según Rodríguez, estas medidas pueden generar que se utilicen los ahorros para satisfacer la voracidad del mercado financiero.",
+      "entidades_detectadas": [
+        "Según Rodríguez"
+      ]
+    },
+    {
+      "frase": "Le vamos a pedir a nuestra locutora, Camila Ansaldi, que nos lea el tuit del economista Carlos Rodríguez.",
+      "entidades_detectadas": [
+        "Carlos Rodríguez",
+        "Camila Ansaldi"
+      ]
+    },
+    {
+      "frase": "\"Supongamos que el dólar de equilibrio de libre mercado está más cerca de 1.500 que de 1.000 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta gente se va a patinar los depósitos en cajas de la gente para regalar dólares baratos en un mercado de contado con liquidación intervenido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los tres mercados libres para el dólar están bien arriba de los 1.400 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el dólar CCL también.",
+      "entidades_detectadas": [
+        "CCL también"
+      ]
+    },
+    {
+      "frase": "El gobierno se va a gastar los depósitos de la gente para satisfacer un capricho del Nobel.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A lo mejor lo consigue por unos días y algunos compradores se enriquecen a costa de muchos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no es economía de mercado, ni siquiera es mercado.\"\n\nBueno, esto es lo que nos decía el análisis de Rodríguez.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Rodríguez"
+      ]
+    },
+    {
+      "frase": "Si el país va a pasar por una crisis bancaria, la incertidumbre se sumaría al pánico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y pánico es, a veces, lo más obvio de un síntoma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estados Unidos vivió la erupción como forma de violencia política este mismo fin de semana.",
+      "entidades_detectadas": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Lamentablemente, durante el fin de semana hubo un atentado contra el expresidente y actual candidato del Partido Republicano, con grandes chances de ganar y llegar a la Casa Blanca.",
+      "entidades_detectadas": [
+        "Casa Blanca",
+        "Partido Republicano"
+      ]
+    },
+    {
+      "frase": "Donald Trump fue durante su acto de campaña.",
+      "entidades_detectadas": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "frase": "Vamos a compartir ahora una crónica de lo sucedido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Bueno, en línea general, supongo que la gran mayoría de nuestra audiencia haya visto estas imágenes en las que se sienten primero tres disparos, luego cinco disparos.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "En el momento que Donald Trump hablaba, uno de los disparos mató a una persona del público, al candidato y expresidente le hirió la oreja y los custodios de Donald Trump se tiraron sobre él, clásico que sucede siempre en estos casos de atentados en Estados Unidos.\"\n\nAhora vamos a compartir un fragmento del discurso del actual presidente Joe Biden contra el incidente de Trump en la actual presidencia.",
+      "entidades_detectadas": [
+        "Donald Trump",
+        "Joe Biden",
+        "Trump",
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "\"El presidente de Estados Unidos, Joe Biden, dijo que todos tendrían que condenar el tiroteo del sábado en un mitin en Pensilvania de su rival republicano en las elecciones de noviembre, Donald Trump, quien resultó herido.",
+      "entidades_detectadas": [
+        "Donald Trump",
+        "Joe Biden",
+        "Estados Unidos",
+        "Pensilvania"
+      ]
+    },
+    {
+      "frase": "No hay lugar en Estados Unidos para este tipo de violencia.",
+      "entidades_detectadas": [
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Es enfermizo, es enfermizo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una de las razones por las que tenemos que unir este país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos permitir que esto esté sucediendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos ser así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos tolerar esto.\"\n\nEl demócrata Biden dijo que quiere hablar con Trump tras el tiroteo y en un comunicado se dijo agradecido de oír que su oponente se encuentra a salvo y agregó que estaba orando por él y su familia, así como por todos los que estaban en el mitin.",
+      "entidades_detectadas": [
+        "agregó",
+        "Biden",
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Y ahora vamos a pedirle nuevamente a nuestro locutor, Elian López Cauzero, que nos lea en esta ocasión un tuit del presidente Milei en respuesta al intento de asesinato contra Donald Trump.",
+      "entidades_detectadas": [
+        "Milei",
+        "Donald Trump",
+        "Elian López Cauzero"
+      ]
+    },
+    {
+      "frase": "\"Todo mi apoyo y solidaridad al presidente y candidato Donald Trump, víctima de un cobarde intento de asesinato que puso en riesgo su vida y la de cientos de personas.",
+      "entidades_detectadas": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "frase": "No sorprende la desesperación de la izquierda internacional que hoy ve como su ideología nefasta expira y está dispuesta a desestabilizar las democracias y promover la violencia para atornillarse al poder.",
+      "entidades_detectadas": [
+        "expira",
+        "está"
+      ]
+    },
+    {
+      "frase": "Con pánico a perder en las urnas, recurren al terrorismo para imponer su agenda retrógrada y autoritaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espero la pronta recuperación del presidente Trump y que las elecciones en los Estados Unidos se realicen de forma justa, pacífica y democrática.\"\n\nBueno, sí, con las medidas económicas del sábado tuvimos al Milei pragmático.",
+      "entidades_detectadas": [
+        "Espero",
+        "Trump",
+        "Milei",
+        "Bueno",
+        "los Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Aquí estamos frente al presidente ideologizado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay ninguna prueba de que la izquierda, como él dice, esté detrás del atentado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estas acusaciones tienen que atraer más enfrentamientos y más violencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El pánico, como la violencia, tienen en común el denominador que aparece en la ausencia de la palabra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El psicoanálisis, a los ataques de pánico, los llamó a principios del siglo XX ataques de angustia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Provenían de grandes montos de angustia y de temor que no tenían representación simbólica, es decir, que no tenían palabras.",
+      "entidades_detectadas": [
+        "Provenían"
+      ]
+    },
+    {
+      "frase": "La represión quita las imágenes y las palabras con las que está asociada la angustia y el miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el monto de energía brota en estos ataques sin representación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una suerte de miedo al miedo, de angustia frente a la angustia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en este contexto lo mejor es llenar de palabras lo que puede explicarse objetivamente y lo que nos pasa como sociedad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De igual manera, el debate democrático y la solución de los problemas con diálogo e incluso con lucha política es la forma de evitar todo tipo de violencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuanto más entendamos lo que nos pasa como sociedad frente a las crisis económicas, a los complejos procesos políticos que estamos pasando, menos lugar al pánico y a la violencia vamos a dejar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a colocar ahora el momento en que el presidente Milei hace este lapsus freudiano y dice \"cero pánico\".",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Vamos a ponerlo en relativo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Si yo tomara el dólar, por ejemplo, que tenía Batakis antes de que asumiera Massa, lo traigo a hoy, da 3.000.",
+      "entidades_detectadas": [
+        "Batakis",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, o sea, primer lugar, nada de pánico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cero pánico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cero pánico.\"\n\nNos despedimos ahora entonces con la canción con la que abrimos, \"Panic Show\" de La Renga, interpretada por el propio Javier Milei.",
+      "entidades_detectadas": [
+        "Javier Milei",
+        "Renga"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "De la Rúa",
+    "Caputo",
+    "grifo",
+    "Batakis",
+    "Elian López Cauzero",
+    "Banco Central",
+    "Ernesto Tenembaum",
+    "Vamos",
+    "Pensilvania",
+    "Massa",
+    "Economía Luis Caputo",
+    "Javier Milei",
+    "Joe Biden",
+    "Pasar",
+    "Carlos Rodríguez",
+    "Casa Blanca",
+    "Provenían",
+    "Rodríguez",
+    "Nuestras",
+    "¿No",
+    "Además",
+    "Arturo Frondizi",
+    "Donald Trump",
+    "Más",
+    "Renga",
+    "Santiago Bausili",
+    "Luis \"Toto\" Caputo",
+    "Trump",
+    "expira",
+    "Estados Unidos",
+    "Camila Ansaldi",
+    "ministro de Comercio",
+    "Latinoamérica",
+    "Argentina",
+    "agregó",
+    "Escuchémoslo",
+    "MULC",
+    "Cero pánico",
+    "Liliana Zarebsky",
+    "Espero",
+    "Pasemos",
+    "Estate",
+    "Según Rodríguez",
+    "Luis Caputo",
+    "ministro de Economía",
+    "Bueno",
+    "Lamentablemente",
+    "Mauricio Macri",
+    "ministro de",
+    "Buenos Aires",
+    "Freud",
+    "Álvaro Alsogaray",
+    "la Argentina",
+    "generó",
+    "¿",
+    "Luna Park",
+    "Biden",
+    "está",
+    "en Estados Unidos",
+    "Milei",
+    "los Estados Unidos",
+    "CCL también",
+    "Partido Republicano"
+  ]
+}

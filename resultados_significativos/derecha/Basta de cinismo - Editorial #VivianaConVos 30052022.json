@@ -1,0 +1,366 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 58
+    },
+    "score_promedio": 0.759,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "A él no le importaba que el presidente **hubiera** violado el DNU.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dio lo mismo que la primera dama nos faltara el respeto a todos los argentinos.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente, cuando se terminó la Argentina de los vivos...",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren, en este programa y como líder del grupo, yo no estoy anestesiada y, tal vez, pensaba hoy, mientras lo escribía y el fin de semana, mientras lo pensaba, que tal vez nos toque ser esa generación que empiece a dejar una Argentina distinta ahí y no sea tan políticamente correcta.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina se convirtió en un país tan extraño, con el nivel de cinismo que manejan los políticos que nos gobiernan, que Argentina no parece Argentina.",
+      "score": 0.514,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá el señor estaba premiando a un presidente que violó un DNU.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todavía tengo que explicar por qué le pedí al señor **Jorge Yoma** que se retirara del programa.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A ustedes les parece justo que yo tenga que contar y explicar por qué le dije que se fuera, cuando era clarísimo por qué le pedí que se fuera?",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina hace mucho tiempo que se premia la inmoralidad, la ilegalidad, la corrupción, pero nosotros, el rebaño de pelotudos, no pertenecemos a esa Argentina impune.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo, en un momento, ya no sabía a quién le estaba hablando y cuando empecé a sentirme mal, lo dejé hablar, lo dejé hablar, hasta que en un momento dije: \"Esto es una falta de respeto a todos los argentinos\".",
+      "score": 0.301,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos lo que pasaba y, además, con el equipo de producción compilamos material para que vean que todo lo que yo le decía es absolutamente comprobable.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, bueno, me podés defender a un presidente que violó un DNU, pero es un presidente que violó un DNU, está dándole el hombro a todos los argentinos.",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina de los vivos que se zarpan y pasan por sobre los **gobos** se terminó.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El beneficio de la *probation* implicaba que la primera dama podía ir al **Garrahan** a leerles cuentos a los chicos una vez por semana o el presidente ir dos veces a un grupo de especialistas.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No puedo creer cómo defendía a un presidente que vio un DNU, mientras a la gente, a la gente como a **Pablo**, le mataban a la hija con un cáncer, no lo dejaban verla.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como el padre de la guía e iba con la criatura \"uva\", no puede como justificarlo, el DNU y lo ministrar y le importa la inflación.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay dos opciones: o le decís borracho, como le dijo **Berni**, o analizás objetivamente, en el marco del código de procedimiento, las opciones que tenía para reparar el daño.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad, me quedo con la persona que le dijo Berni, sinceramente, me quedo con la persona que le dijo Berni, pero es un agravante que sea el presidente, no es lo mismo que lo vio el chico, me lo vio el chico.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se ve que usted tiene con el chisme.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi papá, mi papá se murió el 27 de mayo, yo le hice caso a usted, presidente, le hice caso, desde el 19 de marzo, no lo vi nunca más.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escándalo en el gobierno nacional, el propio presidente pidió la renuncia del ministro de salud, **Ginés González García**.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, porque el 89% de la gente de Formosa labura del Estado.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No voy a permitir, no voy a permitir, por mi público y por el pueblo, que le sigamos faltando el respeto a la gente.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hijo de puta que se cagó en nuestras piedras, este otro personaje que tenemos como presidente que violó el DNU y dijo que se terminaba la Argentina de los vivos.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mujer de él que nos daba consejos de moralina y ninguno de ellos fue ejemplar y yo tengo que permitir que Yoma nos falte el respeto a todos, al padre de **Solán**, a la madre de **Lara**, al hombre que murió en Formosa tratando de ver a su hija, a la gente que han reprimido, torturado.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, en un momento defendió al gobernador **Gildo Insfrán**, el mejor amigo de Alberto Fernández.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque lo violento no es que yo le pidiera de buena manera que se fuera porque no podía acreditar que se fuera de la casa.",
+      "score": 0.337,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que yo le pidiera de buena manera que se fuera porque no podía acreditar tanta violencia emocional que nos estaba provocando a ustedes en sus casas y a mí.",
+      "score": 0.707,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora le quiero decir a la gente de Juntos por el Cambio que ustedes lo tienen adentro.",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A este señor, Juntos por el Cambio, ustedes lo tienen adentro, fue embajador de Macri en Perú.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora dice que es hombre de **Miguel Ángel Pichetto** y dijo que le hubiera gustado ser el abogado de Alberto Fernández para hacerlos zafar.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente nos asustó a todos nosotros diciendo que iba a ser muy duro en el cumplimiento de la ley.",
+      "score": 0.634,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández también es un cínico y un inmoral, al igual que el señor que vino el viernes y al igual que su mujer y al igual que todos esos que estaban de joda, mientras nosotros llorábamos a nuestros muertos.",
+      "score": 0.994,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuñado del presidente **Carlos Saúl Menem**, hizo toda su carrera política a su lado.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para él fue el mejor presidente de la historia.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Amira** era la cuñada de Carlos Menem y era la secretaria de audiencias de la Casa Rosada.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de cinismo, **Diego Brancatelli**, otro que salió a bancar al presidente Alberto Fernández.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo que el gobierno de Alberto Fernández fue exitoso en el manejo de la pandemia y que él valora más las vacunas que el Olivos Gate.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según Brancatelli, la gente, todos nosotros, somos muy ingratos con el presidente Alberto Fernández.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno le afanó las vacunas a la gente que las necesitaba, que las quería.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, al pueblo no le regalaron nada.",
+      "score": 0.523,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El día que lo hicimos, Macri fue presidente\".",
+      "score": 0.57,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el mundo, el presidente de la **UNAM**.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El día que nos dividimos, Macri fue presidente.",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El día que nos dividimos, Macri fue presidente\".",
+      "score": 0.399,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández pregona la unidad ante la presión de los dirigentes propios, pero evita convocar a Cristina Kirchner.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace tres meses que el presidente y la vice no se hablan, tres meses, ¡basta de cinismo!",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no estamos juntos, Macri va a volver.",
+      "score": 0.691,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere que Cristina sea la responsable de la vuelta de Mauricio Macri.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tensión en el oficialismo, entre el aislamiento de Alberto y la debilidad de Cristina, un peronismo desmembrado.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como dice **Berni**, \"el que trajo al borracho que se lo lleve\", y si no, yo no tengo ningún problema y ya le voy pidiendo un taxi.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llenan la boca hablando de los pobres, porque los pobres...",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También inclusión, le digo a este gobierno, es comer todos los días.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchalo a Ferraresi, el ministro de Cristina que también labura para Alberto.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se la afanaron toda, la Argentina está saqueada, la Argentina está arrasada, ¡basta de cinismo!",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La discusión y la oposición va a poder arreglar todo este quilombo que tenemos.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le importan las cosas que a vos te pasan, les importa hacer negocios.",
+      "score": 0.295,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, por supuesto, estamos acostumbrados en esa Argentina cínica que ganan siempre los chorros, los delincuentes.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un jubilado, trabajó toda la vida para ganar 35, 36 lucas, no le alcanza, no le pide un mango a nadie ni a la familia.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, sí, yo le agradezco mucho a él.",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pido al dire, si me pone un segundo esa parte final del jubilado del abuelo pedaleando solito.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se queja, no pide planes, no le pide nada a la familia.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo trabaja porque la jubilación no le alcanza.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la Argentina de los valores, no te pide nada, sale a laburar para que te llegue la pizza caliente cuando la pedís a la noche.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina está explotada de vagos que mantenemos nosotros, está explotada de planes, está explotada de cínicos.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina está explotada de cínicos.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque en Argentina no hay consecuencias.",
+      "score": 0.155,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente y la primera dama no tuvieron consecuencias después de haber violado el DNU.",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy vamos a conversar con **Roberto García Moritán** y con **Amalia Granata** y vamos a hablar muy fuerte de esta Argentina en la que estamos viviendo, llena de cinismo.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La encuesta de Jacob el otro día decía que los argentinos estamos muy tristes.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 70
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,426 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 19,
+      "derecha": 63
+    },
+    "score_promedio": 0.706,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a debatir en un rato en la mesa con nuestros invitados y mi equipo sobre el hecho de que el presidente y la primera dama puedan pagar después de haber violado el DNU.",
+      "score": 0.352,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero que me diga el presidente cuánto podría haber pagado yo por ir al entierro de la abuela de mi hija, cuánto.",
+      "score": 0.801,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se mudó a vivir al Vía 1491, un piso de 600 metros cuadrados, y vos en la villa gritando: “Néstor vive, Cristina me ama, ¡viva Perón!”.",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llenan la boca hablando de los pobres, pero viven gracias a la nuestra.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Senado tiene 517 empleados y gastarán este año más de 23.700 millones de pesos en sueldos.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Senado lo preside una mujer con prontuario.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que le importa es no ir presa.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y este gobierno la gastan como si no sobrara, todo con la nuestra.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo preguntaba la semana pasada: ¿cuánto nos salió esta jodita para que el presidente se vaya a Europa a decir un día una cosa y al día siguiente otra, y ahora putee y salga a putearlo?",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué beneficio nos trajo a los argentinos que el presidente se fuera de gira a Europa?",
+      "score": 0.688,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández se evalúa pedir un crédito para pagar la donación de 1.600.000 pesos por la fiesta en Olivos.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos al presidente menos ejemplificador de la historia argentina, una vergüenza.",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente va a pedir un crédito para pagar su delito.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el presidente y la primera dama sí se lo pueden dar.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Díganle a este chico Maratea, acá una vaquita y le ponemos plata al presidente y a la primera dama.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, que se hacía el pobre, decía que iba en un departamento en Puerto Madero alquilado, se lo prestaban.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández es el rey de la mentira.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted va a permitir que el presidente con tres palos solucione la violación del DNU que él mismo firmó.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos a Alberto Fernández cuando se hacía el malo y decía que iba a ser inflexible con los que violaran el DNU.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo les pido al director que en un momento parta la pantalla porque le voy a contestar en vivo al presidente y a la primera dama después.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que es una vergüenza.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que tal vez desafiaron la lógica de si esta vez la Argentina era la Argentina de siempre.",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que usted quiere ser ahora, presidente, es coimear a la justicia.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted tiene que ir a un juicio oral y ese juicio oral tiene que ser transmitido tipo cadena nacional.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que ver qué dicen usted y su mujer en cadena nacional.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente levantando el dedito sigue hablando.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchémoslo un poco más, Alberto Fernández.",
+      "score": 0.642,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y se encontraron con que la Argentina es otra.",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es otra.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí, todos los argentinos, presidente, hasta los que lo votaron le perdieron el respeto.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no se los voy a perdonar, presidente y primera dama.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me sugerían mostrar su foto y le vamos a hablar a usted para que nos diga qué es lo que va a hacer.",
+      "score": 0.482,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, si el presidente y la primera dama pagan, va a estar todo con la nuestra.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto y la ministra Gómez Alcorta, mientras hay argentinos con hambre, el Ministerio de Mujeres gastará 26 millones de pesos en catering.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por una disposición de la ministra Gómez Alcorta, la cartera que dirige podrá aceptar incluso la opción de prórroga, por lo que el gasto en coffee breaks, desayunos, meriendas, almuerzos tipo lunch y viandas con mozos privados podría superar los 50 millones.",
+      "score": 0.624,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es absurdo que tengamos un Ministerio de la Mujer mientras en Argentina seis o siete de cada diez pibes no comen o comen de la basura.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces me paga a mí por no venir y le paga a la otra por estar acá cubriéndome.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Congreso chileno aprueba un nuevo proyecto que reemplazará… El Congreso chileno aprueba un nuevo proyecto que reemplazará… Chile.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Congreso chileno aprueba un nuevo proyecto que reemplazará… La palabra “mujer” por “persona menstruante”.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Congreso chileno aprueba un nuevo proyecto que reemplazará… La palabra “mujer” por “persona menstruante”.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Esto qué le hacen para que no se sientan mal los hombres trans?",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El sábado estuve presentando el libro de Javier Milei.",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hugo Oclarar, Milei es amigo mío, no estoy haciendo política.",
+      "score": 0.29,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora es una revolución, Milei estallaba la feria del libro.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Milei dijo que si gana, cierra el Ministerio de la Mujer.",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya no le voy a conceder nada al marxismo cultural.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Salgamos de la pereza, de esa actitud que tenemos de “rotista”, que nos tira para abajo, y empecemos a laburar todos, ustedes, yo, todos nosotros, para una Argentina mejor.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace 30 meses asumieron Alberto y Cristina.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Asumieron Alberto y Cristina.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina dice ser de aquel lugar del mundo donde el presupuesto nacional asignado a planes sociales es superior al asignado a educación.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con casi 20 años de kirchnerismo lograron que Argentina tenga ya tres generaciones de “planeros”.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces esa noche lo llamé a Luis Ventura y le dije: “Luis, estoy en una comida en casa”.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le dije a Ventura: “Qué impresionante lo de Mirtha Legrand, Luis, qué impresionante lo de Mirtha Legrand”.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le mando un beso, un abrazo enorme a Mirtha Legrand.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No salía ni al balcón, se le murieron sus dos hermanos en pandemia y no los pudo enterrar.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuenta que llamó a Manes y Manes le dijo que ella tenía que volver a trabajar.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con usted y la señora Mirtha Legrand.",
+      "score": 0.158,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le dije: “Doctor, yo quiero ser la de antes, yo quiero ser la de antes”.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que le hicieron a Mirtha, se lo hicieron a toda la Argentina.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Mirtha Legrand, como a todos los argentinos, nos encerraron, mientras ustedes hacían el Olivos Gate.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero están todos callados porque eran duros con Apero Macri y los K.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, durante cuatro años, en Anzudúpla, Florencia Peña, Dady Brieva y demás militantes K marchaban confundidos por la suba de precios.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos son… Ah, pero Macri.",
+      "score": 0.225,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el gobierno de Macri y en el gobierno de Alberto Fernández no selecciono por ideología.",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a dedicarle esto a los artistas K, Macri y otros.",
+      "score": 0.518,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque al Frente de Todos le da tanto miedo la mano… Al Frente de Todos le da tanto miedo la boleta única y la ficha limpia.",
+      "score": 0.632,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo pensaba: si yo soy la madre de esos chicos y veo un video donde mi hija, mi hijo están abrazando al gobernador, diría: “¿Qué es esto?",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las mujeres de Ucrania van a la guerra.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las mujeres de Ucrania van a la guerra con dólares menstruales, sin “indispuestas”, sin quejarse, mientras tanto en caballería… Las mujeres ucranianas en la guerra no piden el día porque están indispuestas.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego vamos a debatir en la mesa.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Para qué van a usar esos datos?",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos tan esclavizados en Argentina que hay muchas generaciones que no pueden soñar por culpa de ustedes.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así los tienen esos pobres que aman tanto.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner volvió a pegarle al presidente.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando uno le dice al pueblo que lo quiere representar, lo primero que tiene que tener en claro es que si quiere representar a esas mayorías, se tiene que bancar que venga de pecho y con la frente en alto y dar todas las peleas, porque si no, es muy fácil: “Voy a cambiar esto, voy a cambiar aquello”, pero cuando llego, no puedo por aquello, no puedo por esto.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la gente en Argentina vive en ranchos y en casillas.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen una canilla que cada tanto ustedes le inauguran una canilla y uno va y mira detrás de la pared y resulta que era un balde con una manguera que le daba el agua.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos le tiran piedras a Alberto Fernández y el gobierno dentro del propio gobierno, es una locura.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que sí tiene huevos es este pibe de Formosa, Formosa Libre, Gildo Dictador.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que tener mucho huevo, flaco, y te felicito para salir en Formosa diciendo “Gildo Dictador”.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pergolini le criticás a Alfredo Casero.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué Pergolini le hacés bullying a Alfredo Casero?",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 82
+  },
+  "etiqueta_original": "neutral"
+}

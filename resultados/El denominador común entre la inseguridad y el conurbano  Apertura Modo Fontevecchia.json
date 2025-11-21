@@ -1,0 +1,933 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Martes 23 de enero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos decir \"muy buenos días\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde hace varias décadas, el partido de Lomas de Zamora ha sido escenario de un sinfín de hechos de corrupción, violencia política y social que marcaron la historia de nuestro país.",
+      "entidades_detectadas": [
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Una vez más, el municipio fue testigo de un nuevo asesinato, esta vez de una menor, una niña de nueve años, Uma, cuyo padre forma parte del equipo de custodia de Patricia Bullrich.",
+      "entidades_detectadas": [
+        "Uma",
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "Para tratar de encontrar un denominador común en el conurbano y la violencia, hablamos de la canción \"Luz Delito\", de Voz, una canción que habla de la naturalizada convivencia ante la marginalidad y el poco respeto por la vida.",
+      "entidades_detectadas": [
+        "Voz"
+      ]
+    },
+    {
+      "frase": "El crimen de Uma, la niña de nueve años, hija de uno de los custodios de la ministra de Seguridad, Patricia Bullrich, que fue asesinada ayer en el partido de Lomas de Zamora, en lo que hasta hoy se supone fue un intento de robo al voleo, nos vuelve a llamar la atención sobre la problemática de la inseguridad en el conurbano y en Lomas de Zamora en particular.",
+      "entidades_detectadas": [
+        "Uma",
+        "Patricia Bullrich",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Recordarán que, previo al triunfo de Javier Milei, ocurrió el caso de otra niña asesinada muy cerca de Lomas de Zamora, en el municipio de Lanús, llamada Morena.",
+      "entidades_detectadas": [
+        "Lanús",
+        "Morena",
+        "Javier Milei",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Ayer, la agenda política se vio teñida por la conmoción que producen en la opinión pública asesinatos como este, que cambian la agenda y ponen sobre el tapete nuevamente las cuestiones referidas a la seguridad, en un día que estaba atravesado por la falta de acuerdo en las negociaciones de último momento en la reformulación de la Ley Ómnibus, que se tratará en el Congreso esta semana.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar a diferentes actores políticos y judiciales referirse al crimen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empecemos primero por el registro del discurso de la ministra de Seguridad, Patricia Bullrich, quien ayer dijo: \"No digan que tenemos mano dura.",
+      "entidades_detectadas": [
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "Mano dura es matar a una niña de nueve años\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy es día de reunión con la provincia de Buenos Aires.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Queremos colaborar desde nuestra tarea, que es la tarea federal, para tratar de que la provincia de Buenos Aires pueda mejorar cada vez más la seguridad.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Pero hoy no es día para hablar de la policía de la provincia ni de la ministra de Seguridad de la provincia.",
+      "entidades_detectadas": [
+        "Seguridad"
+      ]
+    },
+    {
+      "frase": "Hoy es un día de luto de los argentinos, de las policías de todo el país y de nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estábamos con Eduardo Aguilera.",
+      "entidades_detectadas": [
+        "Eduardo Aguilera"
+      ]
+    },
+    {
+      "frase": "Yo a la mujer no la conocía, pero el jefe estaba conmigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes estuvo con el secretario de Seguridad, el jefe la conoce, así que hoy es un día para pensar que, entre todos, las policías, las 24 policías del país, tenemos que cuidar a la gente, estar contra estos asesinos, perseguirlos a donde vayan y hacer de la Argentina un país seguro.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Que no nos vengan más a decir que tenemos mano dura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mano dura es matar a una niña de nueve años, y el viernes, haber matado a otra niña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es mano dura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente Javier Milei también se pronunció con un tuit al respecto.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Dijo: \"Uma tenía nueve años y fue asesinada cobardemente.",
+      "entidades_detectadas": [
+        "Uma"
+      ]
+    },
+    {
+      "frase": "Envío mis más sinceras condolencias a su papá, María Eugenia y Eduardo, ambos efectivos de nuestra Policía Federal.",
+      "entidades_detectadas": [
+        "Eduardo",
+        "María Eugenia",
+        "Policía Federal"
+      ]
+    },
+    {
+      "frase": "Cuentan con mi apoyo y el de todo el gobierno nacional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los delincuentes creen que siguen viviendo en una Argentina de la impunidad, pero se equivocan.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Lo vamos a encontrar, vamos a hacer que paguen la vida que se llevaron y por la familia que destruyeron\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar al ministro de Seguridad de la provincia de Buenos Aires, Javier Alonso.",
+      "entidades_detectadas": [
+        "Seguridad",
+        "provincia de Buenos Aires",
+        "Javier Alonso"
+      ]
+    },
+    {
+      "frase": "El número dos de quien era el ministro de Seguridad, Sergio Berni, Javier Alonso dijo ayer: \"Estamos realizando los allanamientos\".",
+      "entidades_detectadas": [
+        "Javier Alonso",
+        "Sergio Berni"
+      ]
+    },
+    {
+      "frase": "Una frase obvia, escuchemoslo.",
+      "entidades_detectadas": [
+        "escuchemoslo"
+      ]
+    },
+    {
+      "frase": "Tenemos un detenido, cuya detención fue ordenada por el fiscal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos dar muchas más precisiones porque la investigación sigue su curso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes comprenderán lo delicado del tema.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Necesitamos reunir las pruebas necesarias para estar seguros de que las personas que detenemos son las que corresponden y que puedan ser condenadas en un debido proceso como corresponde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En ese sentido, en este momento estamos realizando allanamientos para buscar más evidencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos información que fuimos recolectando desde la mañana temprano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezamos a trabajar inmediatamente ocurrido el hecho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que les voy a pedir es prudencia a los medios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy circularon imágenes que no se correspondían con la realidad, de hecho, hubo gente que se presentó asustada en la comisaría porque era inocente, no tenía nada que ver, y aparecía su imagen en los medios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, tenemos que ser cautos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo entiendo la presión de los medios, tengo información, pero nosotros tenemos que ajustarnos al debido proceso de la justicia y a lo que marca la ley.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El hecho de que alguien que es integrante de la Policía Federal Custodia, una de las políticas más importantes, no esté seguro, nos hace entender a todos que ninguno de nosotros está seguro y que debemos velar por nuestros hijos, seres queridos, porque hay una situación social que cada vez genera niveles de inseguridad y de violencia.",
+      "entidades_detectadas": [
+        "Policía Federal Custodia"
+      ]
+    },
+    {
+      "frase": "Quiero compartir que, justo el día de ayer, me visitó el ex intendente de Lomas de Zamora y ex presidente de la Argentina, Eduardo Duhalde, a traerme uno de sus clásicos libros sobre la historia que le tocó atravesar, y apareció el tema de la droga en Lomas de Zamora.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Eduardo Duhalde",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Él cuenta que en 1973, o sea, hace 51 años, cuando fue por primera vez intendente de Lomas de Zamora, había algo así como 24 concejales y seis secretarios, que serían como los ministros, que se reunían continuamente a debatir qué hacer, y dos de ellos dijeron que había droga, una palabra que en aquel momento, 1973, era absolutamente inusual en la Argentina, que en los colegios había droga.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Los demás no le creían.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, decidieron invitar a las 20 directoras de colegios secundarios que había en el municipio de Lomas de Zamora con sus abanderadas o abanderados.",
+      "entidades_detectadas": [
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Hicieron una reunión, preguntaron si en sus colegios había drogas, y al principio nadie se animaba a hablar, hasta que una de las abanderadas levantó la mano y dijo que sí, que había casos de dos compañeras que no se animaban a denunciar porque no querían que se tomaran represalias con ellas ni tampoco que los padres se enojaran, y no sabían qué hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Inmediatamente después de que esta abanderada levantó la mano, empezaron a levantar la mano los demás y cada uno venía contando más o menos lo mismo, que había algún caso de droga hace 50 años en los colegios secundarios de Lomas de Zamora y Lomas de Zamora como ejemplo de toda la Argentina.",
+      "entidades_detectadas": [
+        "había",
+        "la Argentina",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Hoy dicen quienes conocen el tema que no hay boliche en el que no se consuma droga de distinto grado y que se va comenzando primero con las pastillas, que luego terminan en algunos casos en cocaína, que las personas que no tienen los recursos terminan delinquiendo para conseguir los recursos para poder consumir lo mismo que consumen las personas que tienen recursos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es decir, hay evidentemente en muchos de estos hechos de inseguridad una lógica perversa por parte de quienes los cometen, porque no están maximizando su beneficio y minimizando su riesgo, sino, por el contrario, aumentan su riesgo, aumentan el costo de lo que van a conseguir, evidentemente atravesados por un proceso de irracionalidad que produce la droga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En representación de lo que el conurbano en general es, vamos a tomar a Lomas de Zamora en particular.",
+      "entidades_detectadas": [
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Viene a nuestra mente el problema de la marginación social, la falta de vivienda, la toma de tierras, el narcotráfico, la inseguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo tanto, el problema de las drogas, obviamente, en una situación económica de precariedad, aumenta aún más la desesperación de quienes no tienen recursos para querer consumirla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, esta construcción responde a una realidad que se fue gestando durante las últimas décadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta historia que yo le cuento de Duhalde es de 1973.",
+      "entidades_detectadas": [
+        "Duhalde"
+      ]
+    },
+    {
+      "frase": "Lomas de Zamora, como representante del conurbano, fue construyendo sus orígenes a través de la llegada de los inmigrantes que eligieron estas tierras tras arribar de distintas latitudes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El nombre del municipio se le debe a un capitán español, llamado Juan de Zamora, que en el año 1736 compró las tierras que años más tarde se transformarían en la actual comuna.",
+      "entidades_detectadas": [
+        "Juan de Zamora"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar a una historiadora de Lomas relatar parte de la evolución de la ciudad.",
+      "entidades_detectadas": [
+        "Lomas"
+      ]
+    },
+    {
+      "frase": "Se trata de la museóloga Margarita Casas, del programa \"Aprobá el futuro\" en una radio local, y vamos a escucharla.",
+      "entidades_detectadas": [
+        "Margarita Casas"
+      ]
+    },
+    {
+      "frase": "Le quedó picando esto de que, cuando se cumplió el primer centenario de la Revolución de Mayo, todo lo que cambió Lomas de Zamora, todo lo que...",
+      "entidades_detectadas": [
+        "Revolución de Mayo",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Entonces dije, bueno, vamos a refrescar un poco todo esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Brevemente, me acordaba, bueno, ya había llegado el ferrocarril para estos lugares y comenzaba esa inmigración tan grande, ya que en Europa muchos obreros se habían quedado sin trabajo, y la Argentina necesitaba mano de obra para trabajar en el campo.",
+      "entidades_detectadas": [
+        "Europa",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Se había convertido en un país exportador, y entonces muchos inmigrantes llegan a este país por la gran pobreza y hambruna que había en Europa.",
+      "entidades_detectadas": [
+        "Europa"
+      ]
+    },
+    {
+      "frase": "Vienen en busca de trabajo, pero claro, quedan encandilados con la ciudad de Buenos Aires, y muchos no se fueron al campo, se quedaron ahí.",
+      "entidades_detectadas": [
+        "Vienen"
+      ]
+    },
+    {
+      "frase": "Se alojaron en las casas de la alta sociedad cuando empiezan a irse hacia el norte y hacia el sur por el tema de la fiebre amarilla que había en 1871.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, quedaron esas casas, las clásicas casas chorizo, que se convirtieron después en habitaciones para las familias, para casas de inquilinato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, las familias más pudientes se trasladaron a las afueras y compraron las quintas.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Ya estamos avanzando hacia 1900 y se construyeron suntuosas quintas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lomas ha tenido maravillas de quintas realmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todavía queda alguna.",
+      "entidades_detectadas": [
+        "Todavía"
+      ]
+    },
+    {
+      "frase": "Siempre repito que la más hermosa que tenemos ahora es la que está sobre 9 de Julio, en Temperley, que es la Villa de San Pablo, que era la de la familia Turdera y de los Preti, que fueron los fundadores de Temperley.",
+      "entidades_detectadas": [
+        "Temperley",
+        "Preti",
+        "Turdera",
+        "Villa de San Pablo"
+      ]
+    },
+    {
+      "frase": "La ciudad también es cuna de grandes figuras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Allí nacieron, por ejemplo, Pepe Biondi, Roberto Sánchez, Sandro, Julio Sosa, Elsa Rivas, Piero, Juan Carlos Calabró, Alfredo de Ángelis, Gerardo Sofovich, Estela Góriz, entre otros.",
+      "entidades_detectadas": [
+        "Sandro",
+        "Julio Sosa",
+        "Pepe Biondi",
+        "Estela Góriz",
+        "Roberto Sánchez",
+        "Allí",
+        "Juan Carlos Calabró",
+        "Alfredo de Ángelis",
+        "Piero",
+        "Elsa Rivas",
+        "Gerardo Sofovich"
+      ]
+    },
+    {
+      "frase": "La represión durante la dictadura militar y por los derechos humanos también recorrió la historia del distrito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a ver un fragmento de lo que se llamaba el Pozo de Banfield, que era uno de los centros clandestinos de detención.",
+      "entidades_detectadas": [
+        "Pozo de Banfield",
+        "detención"
+      ]
+    },
+    {
+      "frase": "Vamos a ver el juicio por el Pozo de Banfield.",
+      "entidades_detectadas": [
+        "Pozo de Banfield"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar el juicio del año 2020 en la provincia de Buenos Aires, donde solicitan que se reanude el juicio por los delitos de lesa humanidad cometidos en el lugar conocido como el Pozo de Banfield.",
+      "entidades_detectadas": [
+        "Pozo de Banfield",
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "La Asamblea Permanente por los Derechos Humanos de Lomas de Zamora realizó una presentación para que se reanude de manera urgente el juicio sobre los crímenes de lesa humanidad ocurridos durante la última dictadura militar, como decíamos, en el excentro clandestino de detención y exterminio, el Pozo de Banfield.",
+      "entidades_detectadas": [
+        "Asamblea Permanente",
+        "Pozo de Banfield",
+        "detención",
+        "Derechos Humanos de Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Desde la mesa de trabajo del ex Pozo de Banfield explicaron que el juicio, en el que serán juzgados 14 represores, entre los que figuran Miguel Ángel Chocolás y el médico policial Jorge Bergés, debería haber comenzado el 5 de mayo, pero la cuarentena lo impidió.",
+      "entidades_detectadas": [
+        "Pozo de Banfield",
+        "Jorge Bergés",
+        "Miguel Ángel Chocolás"
+      ]
+    },
+    {
+      "frase": "Daniel Prasel, referente de la mesa de trabajo del ex Pozo de Banfield, explicó al sitio InfoRegión que ya hubo presentaciones de las distintas Secretarías de Derechos Humanos, tanto de la Nación como de la provincia, ante la Cámara de Casación, en el sentido de ver cómo se garantiza, al menos de manera remota, el inicio de los juicios que todavía no habían empezado, y en algunos casos, sobre las sentencias de los juicios que estaban por finalizar.",
+      "entidades_detectadas": [
+        "Cámara de Casación",
+        "Pozo de Banfield",
+        "Nación",
+        "Daniel Prasel"
+      ]
+    },
+    {
+      "frase": "El Pozo de Banfield, recordemos, funcionó desde 1974 hasta 1978, bajo la responsabilidad de la Brigada de Investigaciones de Banfield.",
+      "entidades_detectadas": [
+        "Pozo de Banfield",
+        "Brigada de Investigaciones de Banfield"
+      ]
+    },
+    {
+      "frase": "De las 253 personas que fueron torturadas en este lugar, 97 permanecen desaparecidas, y al menos 16 mujeres dieron a luz en la maternidad clandestina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lomas de Zamora como espejo de la Argentina.",
+      "entidades_detectadas": [
+        "Zamora",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Además, este partido tiene 690.000 habitantes, es decir, más que algunas provincias, como por ejemplo la provincia de Santa Cruz, que tiene poco más de medio millón de habitantes, y es una zona de fuertes contrastes.",
+      "entidades_detectadas": [
+        "Además",
+        "provincia de Santa Cruz"
+      ]
+    },
+    {
+      "frase": "Desde el año 2000 hasta el crecimiento que se vino produciendo a partir del año 2001, de la pobreza, se desarrollaron 55 villas miserias, y Lomas vive un boom inmobiliario en el que se construyen más de 200 torres, countries y barrios privados simultáneamente.",
+      "entidades_detectadas": [
+        "Lomas"
+      ]
+    },
+    {
+      "frase": "Según los últimos datos del INDEC, publicados en octubre de 2023, en Lomas de Zamora se encuentra un índice de pobreza por encima del promedio nacional.",
+      "entidades_detectadas": [
+        "Lomas de Zamora",
+        "Según",
+        "INDEC"
+      ]
+    },
+    {
+      "frase": "En este partido, el 47% de los ciudadanos es pobre y el 12% es indigente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En abril de 2023, se hizo un informe del mapa de la inseguridad de la provincia de Buenos Aires, y se estableció que el partido con mayor cantidad de hechos de inseguridad era Lomas de Zamora.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Ese distrito registró ese año 113.627 actos ilícitos, desde fines de 2022 a fines de 2023.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estas cifras pueden explicar que su intendente, Federico Otermín, sea uno de los alcaldes del conurbano con peor imagen.",
+      "entidades_detectadas": [
+        "Federico Otermín"
+      ]
+    },
+    {
+      "frase": "Hace menos de una semana, la consultora CEBE hizo una encuesta entre los vecinos de las distintas comunas, y Otermín se encuentra en el puesto 22 de los intendentes del conurbano con peor imagen.",
+      "entidades_detectadas": [
+        "Otermín"
+      ]
+    },
+    {
+      "frase": "Otermín tiene 41,7% de imagen negativa.",
+      "entidades_detectadas": [
+        "Otermín"
+      ]
+    },
+    {
+      "frase": "Esto en el contexto en que son castigados los intendentes por el desprestigio de la política, y son mayormente los políticos nacionales, no los locales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, cargar las tintas solo contra Otermín sería injusto.",
+      "entidades_detectadas": [
+        "Otermín"
+      ]
+    },
+    {
+      "frase": "El alcalde actual es parte de una cadena de jefes comunales que han salido de Lomas de Zamora para pelear en la política nacional y han sido acusados de tener negociaciones con el juego, con el narcotráfico y con la corrupción de distintos niveles.",
+      "entidades_detectadas": [
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Estamos hablando, por ejemplo, del caso de Insaurralde, y mencionamos inicialmente el caso de Duhalde, que llegó a ser presidente de la República.",
+      "entidades_detectadas": [
+        "Duhalde",
+        "Insaurralde",
+        "llegó",
+        "República"
+      ]
+    },
+    {
+      "frase": "El expresidente, exgobernador bonaerense, en su momento, había sido acusado por el piquetero Luis D'Elía de formar parte de una organización que comercializaba drogas.",
+      "entidades_detectadas": [
+        "Luis D'Elía"
+      ]
+    },
+    {
+      "frase": "La denuncia no solo nunca prosperó, sino que se demostró que era exactamente lo contrario.",
+      "entidades_detectadas": [
+        "prosperó"
+      ]
+    },
+    {
+      "frase": "Es decir, es bastante habitual que el mundo de la droga utilice a quienes luchan contra la droga acusándolos de lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es un sistema que utilizan tanto los carteles en Colombia como los carteles de México, y lo hacen con los periodistas, que aquellos periodistas que denuncian la droga terminan siendo acusados de ser parte del sistema de la droga.",
+      "entidades_detectadas": [
+        "México",
+        "Colombia"
+      ]
+    },
+    {
+      "frase": "Eduardo Duhalde, sobre quien hablábamos recién, en 1994 decía: \"¿A quién le echamos la culpa en la vida política?\".",
+      "entidades_detectadas": [
+        "Eduardo Duhalde"
+      ]
+    },
+    {
+      "frase": "A ver, escuchemoslo.",
+      "entidades_detectadas": [
+        "escuchemoslo"
+      ]
+    },
+    {
+      "frase": "Primero, yo recuerdo memorias de chico de mi barrio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En mi barrio le echaban la culpa a los conservadores; todo lo que pasaba era culpa de los conservadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después, le empezamos a echar la culpa a los radicales, o le empezaron, o sea, la echaban a \"chico\".",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Después, todo lo malo que pasaba lo tenían los peronistas.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Después, un día nos pusimos de acuerdo, ¿saben en qué?",
+      "entidades_detectadas": [
+        "Después",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y empezamos a echar la culpa a todos juntos a los militares, ese fue el único acuerdo, y así los países no se levantan, y así los municipios no se levantan, y así las provincias no se levantan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente no quiere pelear, para un bonaerense o para un lomense debe ser más importante ser miembro de una comunidad que querer ser lomense que ser peronista, radical, liberal, socialista, insincero o cualquier otra división partidaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son las categorías que nos unen a los argentinos, a los bonaerenses, a los lomenses las que tenemos que potenciar, y tenemos que trabajar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que hay que hacer, por eso pusimos gente de trabajo, como el nogal de nuestra provincia, gente de trabajo para empezar a recuperar un valor perdido en la sociedad nuestra, porque por culpa de todos, porque todos debemos hacernos parte de la culpa de lo que ha pasado a los dramas que han vivido en nuestro país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo cierto es que nos sumergimos casi sin darnos cuenta en que la más perversa de las culturas es la que desprecia a los que trabajan, la que desprecia el valor del trabajo humano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las denuncias e investigaciones contra el ex intendente Martín Insaurralde se dispararon luego de que se filtraran fotos de él con una artista o modelo, Sofía Clerici, en un yate en Marbella.",
+      "entidades_detectadas": [
+        "Sofía Clerici",
+        "Marbella",
+        "Martín Insaurralde"
+      ]
+    },
+    {
+      "frase": "Insaurralde fue acusado de otorgar licencias de bingos y quitar las inconveniencias, y hace años que se lo acusó de hacer dinero con el juego clandestino, denuncias que tampoco prosperaron.",
+      "entidades_detectadas": [
+        "Insaurralde"
+      ]
+    },
+    {
+      "frase": "Nunca se esclareció el vínculo del patrimonio de Insaurralde con estos supuestos negociados.",
+      "entidades_detectadas": [
+        "Insaurralde"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar un informe de Jorge Lanata al respecto, esto es del año pasado, informe de Lanata sobre Insaurralde.",
+      "entidades_detectadas": [
+        "Insaurralde",
+        "Lanata",
+        "Jorge Lanata"
+      ]
+    },
+    {
+      "frase": "El lugar era el mismo lugar a comer, era el mismo restaurante, era la misma manzana, era el mismo club.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Pero el día que no pueda hacer eso, no comas conmigo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ya te habías indignado con las vacaciones de lujo de Insaurralde al estilo de un jeque árabe?",
+      "entidades_detectadas": [
+        "Insaurralde"
+      ]
+    },
+    {
+      "frase": "Mirá ahora lo que es su casa en el barrio Las Chacras, del exclusivo country Fincas de San Vicente.",
+      "entidades_detectadas": [
+        "Fincas de San Vicente",
+        "Las Chacras",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "Son dos terrenos de 3.000 metros cuadrados, 6.000 en total, mansión, pileta y hasta cancha de fútbol propia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estuvimos en Lomas, en San Vicente.",
+      "entidades_detectadas": [
+        "San Vicente",
+        "Lomas"
+      ]
+    },
+    {
+      "frase": "Así vive el intendente de un municipio en el que el 52% de la gente no tiene cloacas y el 33% no cuenta con red de luz o de gas.",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    },
+    {
+      "frase": "Sin embargo, todas estas denuncias, acusaciones, cifras de pobreza y significaciones de desigualdad con los countries y barrios privados dan un cuadro en el que la política parece impotente frente a los crecientes problemas sociales, y esto no puede limitarse a la política local.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este país han gobernado una gran cantidad de espacios, hace 40 años hay alternancia democrática, y los números de la injusticia social han crecido en todo el país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lomas también es una explicación del aberrante hecho de ayer, no la única, pero sí una que brinda claves sociológicas, demográficas, económicas para entender nuestra situación de todos contra todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta es la respuesta de algunos dirigentes políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay uno que causó particular impacto por su crudeza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a ver el tuit y a escuchar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo lo voy a relatar de Luis Espert, para quienes nos están además escuchando que viendo por televisión lo vamos a describir.",
+      "entidades_detectadas": [
+        "Luis Espert"
+      ]
+    },
+    {
+      "frase": "Colocó en el tuit un queso gruyer lleno de agujeros y el mensaje dice: \"A los asesinos de Uma\".",
+      "entidades_detectadas": [
+        "Uma"
+      ]
+    },
+    {
+      "frase": "Eso da la idea de prometer bala y dejarlos agujereados como un queso gruyer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espert, mensaje a los responsables del crimen, no parece la mejor manera de resolver el problema de fondo sin tratar de entender el entramado complejo que significa, como comenzamos también hablando del tema de la droga y la indigencia.",
+      "entidades_detectadas": [
+        "Espert"
+      ]
+    },
+    {
+      "frase": "Para terminar, vamos a escuchar a Diego Santilli, dirigente del PRO, referirse a este hecho.",
+      "entidades_detectadas": [
+        "Diego Santilli",
+        "PRO"
+      ]
+    },
+    {
+      "frase": "A ver, Diego Santilli dijo: \"Estas lacras humanas tienen que estar presas\".",
+      "entidades_detectadas": [
+        "Diego Santilli"
+      ]
+    },
+    {
+      "frase": "Esto que ha sucedido es gravísimo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo digo, \"estas lacras humanas tienen que estar presas una vez por todas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo calificas a estas personas si no como lacras?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora también es hora de poner las condolencias a su familia, por supuesto, el dolor enorme e irreparable, pero también, del otro lado, hay que poner las cosas arriba de la mesa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo el viernes pasado estuve con la ministra Bullrich tratando el tema de la ley penal juvenil.",
+      "entidades_detectadas": [
+        "Bullrich"
+      ]
+    },
+    {
+      "frase": "Yo tengo un proyecto, lo he presentado para avanzar a ver si, una vez por todas, en el gobierno que encabeza el presidente, la ley podemos tener una ley penal juvenil, tener un código penal, tener las leyes que sean, que son necesarias para terminar con este flagelo de delincuentes portando armas, que utilizan las armas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando alguien porta un arma, no está dispuesto a usarla, si está dispuesto a usarla, ese tipo tiene que tener máxima condena, entonces no puede seguirse de esta manera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es gravísimo todo esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente, este tipo de crimen genera todo tipo de enojos, de emociones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no tocamos todos los problemas que hay alrededor de la pobreza, la exclusión, el consumo de drogas, los negociados de la política, todo esto al mismo tiempo, accionar solo cuando el hecho ya ocurrió, descalificar a los delincuentes, no, por más que los califiquemos de \"lacras humanas\", de llenarlos de agujeros con gruyer, no resolverá ninguno de estos problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y decimos que hay 110.000 actos ilícitos por año en Lomas de Zamora, donde viven 600.000 habitantes, es decir, uno de cada seis habitantes es afectado por un ilícito, es robado o es golpeado por año, y todos los habitantes de Lomas de Zamora, cada seis años, padecen un acto ilícito.",
+      "entidades_detectadas": [
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "Hay cientos de miles de lacras, como dice Santilli o como menciona Patricia Bullrich.",
+      "entidades_detectadas": [
+        "Santilli",
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "Quiero creer que no, quiero creer que hay un problema social muy importante, que hay que abordar con la mayor racionalidad posible y que esto es lo que le debemos a Uma y a todas las víctimas o a Morena, en el caso de Lanús, discutir con datos concretos, informarnos con responsabilidad para que la sociedad debata estos problemas y nuestros representantes tomen la iniciativa para empezar a resolver este flagelo que es la inseguridad.",
+      "entidades_detectadas": [
+        "Uma",
+        "Lanús",
+        "Morena"
+      ]
+    },
+    {
+      "frase": "Nuevamente, viven 600.000 personas, hay 110.000 actos ilícitos registrados por año, o sea, podríamos decir que, si una familia tipo tiene cuatro personas, una familia y media tiene un ilícito por año, padece algún ilícito por año en Lomas de Zamora, y Lomas de Zamora no es una excepción, es apenas un espejo de nuestra Argentina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estela Góriz",
+    "Cámara de Casación",
+    "Patricia Bullrich",
+    "La Asamblea Permanente",
+    "Además",
+    "Revolución de Mayo",
+    "Villa de San Pablo",
+    "Nación",
+    "INDEC",
+    "Julio Sosa",
+    "Eduardo Duhalde",
+    "había",
+    "Luis Espert",
+    "provincia de Buenos Aires",
+    "Daniel Prasel",
+    "Uma",
+    "Sandro",
+    "Lanús",
+    "provincia de Santa Cruz",
+    "Lomas de Zamora",
+    "Así",
+    "Congreso",
+    "San Vicente",
+    "Vamos",
+    "Federico Otermín",
+    "Miguel Ángel Chocolás",
+    "llegó",
+    "Según",
+    "Eduardo Aguilera",
+    "Jorge Lanata",
+    "Gerardo Sofovich",
+    "Duhalde",
+    "Morena",
+    "Piero",
+    "escuchemoslo",
+    "La ciudad",
+    "detención",
+    "Argentina",
+    "Europa",
+    "Roberto Sánchez",
+    "Brigada de Investigaciones de Banfield",
+    "Marbella",
+    "Ayer",
+    "Otermín",
+    "Ustedes",
+    "Después",
+    "Jorge Bergés",
+    "¿",
+    "Él",
+    "Todavía",
+    "Diego Santilli",
+    "Dijo",
+    "Tenemos",
+    "Martín Insaurralde",
+    "Recordarán",
+    "Alfredo de Ángelis",
+    "Policía Federal",
+    "Luis D'Elía",
+    "Turdera",
+    "Seguridad",
+    "Elsa Rivas",
+    "Margarita Casas",
+    "México",
+    "Sofía Clerici",
+    "Lanata",
+    "Policía Federal Custodia",
+    "María Eugenia",
+    "prosperó",
+    "Santilli",
+    "Pepe Biondi",
+    "Sergio Berni",
+    "Fincas de San Vicente",
+    "Bullrich",
+    "Colombia",
+    "Espert",
+    "Derechos Humanos de Lomas de Zamora",
+    "Estuvimos",
+    "Lomas",
+    "Javier Milei",
+    "Pozo de Banfield",
+    "Voz",
+    "PRO",
+    "Las Chacras",
+    "Eduardo",
+    "Allí",
+    "Juan Carlos Calabró",
+    "Quiero",
+    "Mano",
+    "Bueno",
+    "Temperley",
+    "Javier Alonso",
+    "la Argentina",
+    "Brevemente",
+    "Preti",
+    "Obviamente",
+    "Insaurralde",
+    "Juan de Zamora"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 1
+    },
+    "score_promedio": 0.406,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Yo parto de la idea de lo que decía **Arari**, de que las instituciones, si no se autorregulan, si no se corrigen por sí mismas y no marcan por sí mismas cuáles son las malas prácticas, finalmente se terminan afectando, y entre ellas está el periodismo.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a pedirle a la producción que nos coloque un fragmento de lo que dijo **Vávie Checopar** ayer, luego otro, y después haremos un comentario final.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy el presidente estuvo en Bahía Blanca, muy bien, está perfecto, pero basta de la plaza, basta de los zurdos, basta de la gomera, basta de las piedras.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 3
+  },
+  "etiqueta_original": "neutral"
+}

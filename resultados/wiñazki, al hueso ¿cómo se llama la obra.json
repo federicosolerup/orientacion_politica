@@ -1,0 +1,224 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Iluminados por las velas, una multitud se manifestó frente al Palacio de Tribunales, sede de la Corte Suprema de Justicia.",
+      "entidades_detectadas": [
+        "Palacio de Tribunales",
+        "Corte Suprema de Justicia"
+      ]
+    },
+    {
+      "frase": "Esta imagen, para mí, resume la situación actual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les contaré una breve historia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Había una vez una expresidenta, Cristina Fernández de Kirchner, quien, durante su mandato, enfrentó numerosas acusaciones de corrupción.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Había"
+      ]
+    },
+    {
+      "frase": "Se investigó la mala administración de sus hoteles, la situación irregular de su inmobiliaria, y un memorando con Irán que fue objeto de un juicio.",
+      "entidades_detectadas": [
+        "Irán"
+      ]
+    },
+    {
+      "frase": "Recientemente, un testigo clave, el ex titular de Interpol, Ronald Noble, declaró en su contra.",
+      "entidades_detectadas": [
+        "Interpol",
+        "Ronald Noble"
+      ]
+    },
+    {
+      "frase": "En resumen:  (1) Cristina Fernández de Kirchner y sus hijos están involucrados en juicios orales por corrupción.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "(2) Ella eligió a Alberto Fernández como candidato a vicepresidente, quien luego ganó las elecciones y ahora ocupa la presidencia del Senado.",
+      "entidades_detectadas": [
+        "(2) Ella",
+        "Senado",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "(3)  Desde antes, y ahora con mayor intensidad, se ataca a los investigadores judiciales y periodistas que investigan casos de corrupción,  incluso a través de las redes sociales por parte de la propia Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "(3)",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "(4)  Se cuestiona la situación carcelaria de varios presos K, alegando una supuesta persecución política, sin embargo, existen múltiples fallos judiciales que justifican su detención.",
+      "entidades_detectadas": [
+        "(4)  ",
+        "K"
+      ]
+    },
+    {
+      "frase": "Algunos cumplen prisión efectiva, otros prisión domiciliaria (como Amado Boudou,  Delia y Milagros Sala).",
+      "entidades_detectadas": [
+        "Amado Boudou",
+        "Delia",
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "Durante el kirchnerismo,  se ejerció una fuerte presión sobre el Poder Judicial, dificultando la investigación en numerosos casos,  llegando incluso a obstaculizar el acceso a la documentación oficial.",
+      "entidades_detectadas": [
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "Si bien se puede discutir la valentía de algunos jueces y fiscales,  muchos lograron avanzar en sus investigaciones a pesar de las dificultades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(5)  Apenas asumido el gobierno, y en medio de la pandemia, se comenzó a cuestionar a periodistas e investigadores judiciales con denuncias concretas,  iniciándose un debate sobre la reforma judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Actualmente, se avanza contra jueces en el Senado y contra el procurador general de la Nación,  acciones que parecen dirigirse específicamente contra aquellos que fallaron contra los Kirchner.",
+      "entidades_detectadas": [
+        "Nación",
+        "Kirchner",
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Se buscan modificar tribunales en el Ministerio Público,  en lugar de elegir un nuevo procurador a través del proceso establecido.",
+      "entidades_detectadas": [
+        "Ministerio Público"
+      ]
+    },
+    {
+      "frase": "(6) El traslado de estos jueces genera sospechas.",
+      "entidades_detectadas": [
+        "(6) El traslado de estos"
+      ]
+    },
+    {
+      "frase": "Algo huele a podrido en la relación entre la política y la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En medio de una crisis económica y social, la política parece estar demasiado enfocada en la justicia y en los presos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no parece transparente, aunque se puedan señalar actos de corrupción en gobiernos anteriores, como el de Mauricio Macri.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "**Archivo de Log (Correcciones):**\n\n* **Nombres y Apellidos:** Se corrigieron las menciones a Cristina Fernández de Kirchner, Alberto Fernández, Ronald Noble, Amado Boudou, Delia y Milagros Sala, Mauricio Macri.",
+      "entidades_detectadas": [
+        "Amado Boudou",
+        "Apellidos",
+        "Alberto Fernández",
+        "Correcciones",
+        "Cristina Fernández de Kirchner",
+        "Mauricio Macri",
+        "Milagros Sala",
+        "Ronald Noble",
+        "Nombres",
+        "Archivo de Log",
+        "Delia"
+      ]
+    },
+    {
+      "frase": "Se eliminaron o se corrigieron errores ortográficos en los nombres propios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "* **Ortografía:** Se corrigieron errores ortográficos y de puntuación a lo largo de todo el texto.",
+      "entidades_detectadas": [
+        "Ortografía"
+      ]
+    },
+    {
+      "frase": "Se revisó la concordancia de género y número.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se corrigieron palabras mal escritas como \"tenan\" (tenía), \"quinienme\" (quinientos), \"caparista\" (capilarista - se asume un error de escritura que dificulta su corrección precisa.",
+      "entidades_detectadas": [
+        "tenía"
+      ]
+    },
+    {
+      "frase": "Se mantiene el original  y se recomienda revisar la expresión original),  \"ursum\" (posible error tipográfico), \"percilló\" (persiguió), \"quiserismo\" (kirchnerismo).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "* **Coherencia y Cohesión:** Se reestructuró el texto para mejorar la fluidez y la claridad.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "Se eliminaron redundancias y se reorganizaron las ideas para que el texto sea más comprensible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se agregaron conectores para mejorar la cohesión entre las ideas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se dividió el texto en párrafos para facilitar la lectura y mejorar la comprensión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se reformularon algunas frases para mejorar la precisión y la concisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se eliminó la frase final que insinuaba una equivalencia entre la corrupción de diferentes gobiernos, para mantener un enfoque más objetivo en el texto corregido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se reemplazó el cuento con una introducción mas formal.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Alberto Fernández",
+    "Correcciones",
+    "Irán",
+    "Había",
+    "tenía",
+    "Amado Boudou",
+    "(2) Ella",
+    "Kirchner",
+    "Cristina Fernández de Kirchner",
+    "Corte Suprema de Justicia",
+    "Milagros Sala",
+    "Interpol",
+    "Nombres",
+    "Nación",
+    "K",
+    "Apellidos",
+    "Cohesión",
+    "Ortografía",
+    "Coherencia",
+    "Ronald Noble",
+    "Mauricio Macri",
+    "Ministerio Público",
+    "Palacio de Tribunales",
+    "Poder Judicial",
+    "Archivo de Log",
+    "Senado",
+    "Delia"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 5,
+      "derecha": 6
+    },
+    "score_promedio": 0.454,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En ese momento, la pelea interna desaparece, se olvidan de lo que estaban peleando y se juntan intuitivamente en contra de esa amenaza, que en este caso podría ser el precio del dólar paralelo a 300 pesos, como un gran disciplinador.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En realidad, es un estado de horror ante el peligro inmediato, y es algo que tenemos aprendido.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar un fragmento de un minuto y poco de cada uno de los discursos de la vicepresidenta y del presidente, en el orden en que se produjeron, el 8 y 9 de julio, y luego vamos a retroceder para ver qué diferente era una semana atrás, cuando el dólar no estaba a 300 pesos.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar primero a Cristina Fernández de Kirchner diciendo \"Busquemos un acuerdo, porque si no, no va a haber Argentina para nadie\".",
+      "score": 0.601,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "(Fragmento del discurso de Cristina Kirchner)\n\n\"...siento que abro la puerta para mirar lo que pasa afuera y siento por momentos la necesidad de cerrarla porque siento como que está muy feo afuera y como está muy feo afuera yo le pido a todos y a todas que hagamos más allá de las ideas que le pido que nadie se pide ni yo voy a renunciar a mis ideas, a mi historia, a lo que creo y tampoco le voy a pedir a nadie que renuncie a la de ellos, pero tenemos que encontrar un punto de coincidencia común porque si no no va a haber argentina para nadie y creo que esto es lo que quienes tenemos por lo menos la convicción y la responsabilidad política de haber militado de muy jóvenes, haber pasado momentos muy difíciles por la política porque hoy la política parece un lugar tranquilo y agradable pero cuando yo era joven la política era un lugar peligroso inhóspito donde desaparecieron como un auge negro miles de argentinos y argentinas no se confundan la política no es eso que le quieren hacer querer a los argentinos donde todo el mundo vive la fresca biruta no no es así por lo menos los que abrazamos una causa popular y nacional siempre hemos tenido muchos problemas por eso así que sin rencores pero con muchas ideas y fundamentalmente con mucha esperanza de que podamos hacerlo es que debemos autoconvocarnos como no sé cómo se autoconvoca en otros para violencia sino autoconvocarnos para la construcción de una argentina en paz que presupone además una argentina también con paz social fresca biruta habría que hacer un en correlación lingüística entre las lecturas de la vicepresidenta de sus expresiones pero bueno concordia paz sino no ver argentina para nadie...\"\n\nBien distinto a lo que era hace una semana.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vamos a escuchar también, bien distinto, al presidente Alberto Fernández, en este caso, el 9 de julio:\n\n(Fragmento del discurso de Alberto Fernández)\n\n\"...baje las armas.",
+      "score": 0.523,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sepan que se van a chocar con nuestra firme decisión de seguir trabajando por la patria justa, libre y soberana que nuestro pueblo merece.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina no lo merece.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ambos, presidente y vicepresidenta, coinciden en utilizar como objeto de crítica común al ex ministro Guzmán, que se lleva, como chivo expiatorio, todos los males, lo que decíamos el viernes.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "(Fragmento con referencia a la lapicera)\n\n\"...vamos Cristina Kirchner con la lapicera, vamos primero a este departamento, no lo conocía ni el gato, departamento nacional del trabajo.",
+      "score": 0.599,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La famosa y tan mentada la piscera que dejó de aparecer en este momento la piscera pese a la piscera no puede solucionar el problema del dólar no evidentemente debía servir para otros motivos y ahora alberto fernández sobre la piscera y nos dijo bajen las armas y sientense dialogaron y convocó al pueblo para eso después nos enseñó cuando muchos le pedían que no actúe de ese modo que el diálogo no era el camino que había que ponerse fuerte que había que confrontar que había que ir a tomar las armas nos enseñó y nos dijo jamás en la conducción política hay que hay que persuadir a todo el que se pueda y la verdad me quedo con esta frase de perón porque la política no es otra cosa que convencer al otro a que lo acompaña uno en la empresa que inicia el poder no pasa por ver quién tiene la piscera el poder pasa por ver quién tiene la capacidad de convencer y convencer es una tarea mucho más ardua pero es mucho más segura pero aún convenció a millones de argentinos y argentinas que hasta el día de hoy lo sienten es cierto que inclusive en el discurso de alberto fernández una semana antes de que el dólar subiese no había la beligerancia que había en el de christina kirchner y nuevamente el presidente cita allí bajen bajen las armas que lo volvió a citar en en tucumán así que bueno vamos a concluir la apertura de este programa con la canción ángel de la bicicleta de león gieco que es la que cita alberto fernández parafraseando el grito de claudio ugo liprati más conocido como el pocho que le pedía a la policía que se encontraba reprimiendo que no dispare que adentro sólo había niños comiendo es una frase que hace honor a la víctima de aquel trágico diciembre 2001 o sea este pocho estaba en un en un comedor en el que había chicos y eso es lo que le pide a la policía cuando estaba reprimiendo entonces abrimos este programa de hoy con la canción de león gieco ángel de la bicicleta\"\n\n**",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 11
+  },
+  "etiqueta_original": "neutral"
+}

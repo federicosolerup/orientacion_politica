@@ -1,0 +1,46 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 3,
+      "derecha": 3
+    },
+    "score_promedio": 0.571,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina del desamparo llega.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina del hambre obrero.",
+      "score": 0.485,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina de las fábricas fuertes.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina de la producción\".",
+      "score": 0.599,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vengo a proponerles un sueño: volver a tener una Argentina con todos y para todos.",
+      "score": 0.411,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vengo a proponerles un sueño: quiero una Argentina unida, quiero una Argentina normal, quiero que seamos un país serio, pero además quiero un país más justo.",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 6
+  },
+  "etiqueta_original": "neutral"
+}

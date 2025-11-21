@@ -1,0 +1,114 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Fin de semana: domingo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Peronimos para todos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y vamos, vamos, para el buen televidente cansado de ver pavadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá llega la sección de noticias rimadas.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Con esta bancada, ahí está, ¡vamos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se confirman los rumores: Fabián Domán renunció a la presidencia del club Independiente.",
+      "entidades_detectadas": [
+        "Independiente"
+      ]
+    },
+    {
+      "frase": "Como al club no le va bien, se va para \"no joder\", como quedó demostrado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hicimos lo que había que hacer: sacarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mauricio Macri quería que se votara por separado, pero la Reta mostró que ya no es su empleado, que ya no es tan obediente.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Al final, las elecciones serán concurrentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos no estarán de acuerdo, otros gritarán con pasión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sólo un corazón da la llama.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Y mamón, bien!",
+      "entidades_detectadas": [
+        "mamón",
+        "¡"
+      ]
+    },
+    {
+      "frase": "Aunque era jefa del PRO, Patricia Bullrich pidió licencia… ¡pero de ser candidata, la \"patito\" no se baja!",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "PRO"
+      ]
+    },
+    {
+      "frase": "Quiere ser igual a Macri, que es el jefe y no trabaja.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Viviana Canosa y Dady Brieva, que no son gente de ciencia, se metieron a opinar sobre Cristina y Florencia Kirchner.",
+      "entidades_detectadas": [
+        "Florencia Kirchner",
+        "Viviana Canosa",
+        "Dady Brieva",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y aunque pidieron disculpas, la elección está a la vista: hablar mal de la gente no te hace periodista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la última, la verdad, ya se la contamos con todo el peso que tiene… ¡y en rima nos despedimos hasta el domingo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Patricia Bullrich",
+    "Florencia Kirchner",
+    "Independiente",
+    "Dady Brieva",
+    "Acá",
+    "PRO",
+    "Cristina",
+    "Viviana Canosa",
+    "Sólo",
+    "Hicimos",
+    "Macri",
+    "Mauricio Macri"
+  ]
+}

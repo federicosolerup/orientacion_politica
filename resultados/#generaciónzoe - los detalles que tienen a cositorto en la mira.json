@@ -1,0 +1,649 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El siguiente texto es una transcripción corregida del original, con énfasis en la ortografía, la cohesión, la coherencia y la corrección de nombres y apellidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se ha mantenido el estilo coloquial y a veces caótico del original, para reflejar la naturaleza de la transcripción de una audiencia judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, se ha mejorado la legibilidad y se han aclarado algunas frases ambiguas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se han tomado algunas licencias para mejorar la fluidez, en aras de la claridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Texto Corregido:**\n\nBuenos días.",
+      "entidades_detectadas": [
+        "Texto Corregido"
+      ]
+    },
+    {
+      "frase": "Comenzamos la audiencia a las 11:35 horas, según Secretaría.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se reanuda el juicio contra Leonardo Cositorto por presunta estafa y asociación ilícita.",
+      "entidades_detectadas": [
+        "Leonardo Cositorto"
+      ]
+    },
+    {
+      "frase": "Fiscal, su testigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:** Según nuestra investigación, el señor Cositorto no posee empresas registradas.",
+      "entidades_detectadas": [
+        "Según",
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "Su situación ante la AFIP es de monotributista categoría C.",
+      "entidades_detectadas": [
+        "AFIP"
+      ]
+    },
+    {
+      "frase": "Su abogado defensor, el Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry, afirma que factura 25.000 pesos mensuales.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "Doctor Pierry, ¿considera creíble esa cifra?",
+      "entidades_detectadas": [
+        "¿",
+        "Doctor Pierry"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** Buenos días.",
+      "entidades_detectadas": [
+        "Buenos"
+      ]
+    },
+    {
+      "frase": "Se nos acusa de asociación ilícita en el marco de una estafa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una acusación infundada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestro sistema se basa en la confianza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  ¿Podemos realizar un careo con su testigo?",
+      "entidades_detectadas": [
+        "¿",
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** Sí.",
+      "entidades_detectadas": [
+        "Sí"
+      ]
+    },
+    {
+      "frase": "Sin intermediarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fiscal, usted sostiene que es una estafa por la falta de registro de los depósitos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo lo explica?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  El problema radica en la falta de registro.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "Presenté al Licenciado Lerner como testigo, pero…\n\n**Dr.",
+      "entidades_detectadas": [
+        "Licenciado Lerner",
+        "Presenté"
+      ]
+    },
+    {
+      "frase": "Pierry:** …El señor Cositorto constituyó un fideicomiso administrativo.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "Entiendo la vorágine informativa, pero lo que importa es lo que consta en el expediente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Comisión Nacional de Valores y el Banco Central deben investigar, ya que los fideicomisos administrativos no están bajo su jurisdicción.",
+      "entidades_detectadas": [
+        "Comisión Nacional de Valores",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  Doctor, hay un conflicto de intereses dentro del fideicomiso, dado que el Dr.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "Maximiliano Batista aparece en varias de sus partes.",
+      "entidades_detectadas": [
+        "Maximiliano Batista"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** No hay conflicto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las expectativas de retorno no se basan solo en promesas, sino en otros negocios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  Pero se cerró todo, doctor.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** No se cerró nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El viernes hubo un incidente con personas violentas, aparentemente barrabravas, que agredieron a empleados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:** ¿Se les pagó a esas personas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  Algunos empleados, que tenían contratos vigentes, se asustaron.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "Pero esos individuos que actuaron con violencia representaban a los damnificados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  ¿Cómo ofrecía su cliente ganancias del 7,5% o más, aseguradas, si invertía en instrumentos de renta variable?",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  En algunos casos se llegó al 20%.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "Algunas personas invirtieron en Bitcoin, que tuvo una apreciación considerable.",
+      "entidades_detectadas": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  Pero también cayó mucho.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "¿Cómo se garantiza una renta tan alta?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  El flujo financiero se complementa con otros negocios.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  SOE afirma abarcar 500 empresas.",
+      "entidades_detectadas": [
+        "SOE",
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "¿Son reales?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  Para nosotros no.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "No hay ninguna inscripta: ni SEO coaching, ni SEO trading, ni SEO construcciones, ni SEO cash.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay movimiento contable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  ¿Qué opina sobre la denuncia de Villa María?",
+      "entidades_detectadas": [
+        "Villa María",
+        "Fiscal",
+        "¿Qué"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  Habrá que analizarla empresa por empresa.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "Protegeremos a los denunciantes y pediremos que detallen sus inversiones y las deudas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:** ¿Por qué se daban direcciones…\n\n**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  …Porque se pagaba con dinero…\n\n**Fiscal:** …¿Dinero negro?",
+      "entidades_detectadas": [
+        "Fiscal",
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** No lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  La fiscalía sospecha que Cositorto ocultó el dinero.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  Él afirma haber comprado acciones y minas de oro.",
+      "entidades_detectadas": [
+        "Él",
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  Las minas de oro en Jujuy no existen.",
+      "entidades_detectadas": [
+        "Fiscal",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Tampoco las acciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  Un exabogado mencionó una mina en San Juan, pero tampoco se ha verificado su compra.",
+      "entidades_detectadas": [
+        "San Juan",
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  Cositorto dice que le bloquean las cuentas.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "¿Es cierto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** Puede que no haya fondos al 1 de enero, pero antes sí los había.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  Un incumplimiento contractual no es una estafa.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "¿Por qué Cositorto no está en el país?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** Porque no quiere venir a la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "**Fiscal:** Pero dijo que le encanta Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** Cositorto está en República Dominicana.",
+      "entidades_detectadas": [
+        "Cositorto",
+        "República Dominicana"
+      ]
+    },
+    {
+      "frase": "No hay requerimiento internacional para su comparecencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  ¿Se emitirá una alerta roja?",
+      "entidades_detectadas": [
+        "¿",
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** No.",
+      "entidades_detectadas": [
+        "No"
+      ]
+    },
+    {
+      "frase": "**Fiscal:** ¿Por qué Cositorto inscribió la sociedad Sué Capital en una dirección inexistente, en la calle Valle 1789?",
+      "entidades_detectadas": [
+        "Sué Capital",
+        "calle Valle 1789"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  Está en la 1799.",
+      "entidades_detectadas": [
+        "Está",
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "Fue certificado por un escribano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:**  Doctor Pierry, me está evadiendo.",
+      "entidades_detectadas": [
+        "Fiscal",
+        "Doctor Pierry"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** No.",
+      "entidades_detectadas": [
+        "No"
+      ]
+    },
+    {
+      "frase": "**Fiscal:** Cositorto dice que Claudio Álvarez, su líder en Villa María, fue manipulado para desacreditar a Zoé.",
+      "entidades_detectadas": [
+        "Claudio Álvarez",
+        "Villa María",
+        "Zoé"
+      ]
+    },
+    {
+      "frase": "Álvarez trabaja en una fotocopiadora de una escuela secundaria, con una facturación mensual de 60.000 pesos.",
+      "entidades_detectadas": [
+        "Álvarez"
+      ]
+    },
+    {
+      "frase": "¿Es un emprendedor exitoso?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** Muchos tienen otro empleo y ganan comisiones con Zoé.",
+      "entidades_detectadas": [
+        "Zoé",
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  Una última pregunta.",
+      "entidades_detectadas": [
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "¿Se puede extender la audiencia?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "**(Se presenta una nueva prueba al tribunal.)**\n\n**Fiscal:** Doctor Pierry, ¿sabe que su cliente estaba organizando un partido político llamado \"Despertar\"?",
+      "entidades_detectadas": [
+        "¿",
+        "Fiscal",
+        "Doctor Pierry"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** Me enteré el sábado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está en proceso de aprobación.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "**Fiscal:** Ya está aprobado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Será Cositorto el titular?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:** No lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Fiscal:** ¿Cómo Cositorto captó ahorros de más de 100.000 personas sin oferta pública?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  A través de un fideicomiso administrativo.",
+      "entidades_detectadas": [
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  El contador Norman Prospero está detenido.",
+      "entidades_detectadas": [
+        "Norman Prospero",
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "¿Qué papel desempeñaba?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "**Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pierry:**  Era el contador de SOE.",
+      "entidades_detectadas": [
+        "SOE",
+        "Pierry"
+      ]
+    },
+    {
+      "frase": "**Fiscal:**  ¿No tiene más preguntas?",
+      "entidades_detectadas": [
+        "¿No",
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "**(Ninguna de las partes tiene más preguntas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se cierra la audiencia.)**\n\n\n**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Norman Prospero",
+    "República Dominicana",
+    "Banco Central",
+    "¿Qué",
+    "Sué Capital",
+    "Jujuy",
+    "Licenciado Lerner",
+    "Según",
+    "San Juan",
+    "Doctor Pierry",
+    "calle Valle",
+    "Buenos",
+    "¿No",
+    "Nuestro",
+    "Está",
+    "Álvarez",
+    "Texto Corregido",
+    "AFIP",
+    "Argentina",
+    "Comenzamos",
+    "Cositorto",
+    "Dr. Pierry",
+    "SOE",
+    "Bitcoin",
+    "Presenté",
+    "Dr. Maximiliano Batista",
+    "Claudio Álvarez",
+    "Leonardo Cositorto",
+    "la Argentina",
+    "¿",
+    "Él",
+    "Villa María",
+    "Zoé",
+    "Sí",
+    "Fiscal"
+  ]
+}

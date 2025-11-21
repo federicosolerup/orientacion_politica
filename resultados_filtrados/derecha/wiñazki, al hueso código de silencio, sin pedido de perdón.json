@@ -1,0 +1,33 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Desde que Horacio Verbitsky habló e involucró a Ginés González García y a sí mismo en el \"vacunagate\", el gobierno entró en estado de shock.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Carlos Zannini, procurador general del Tesoro de la Nación (jefe de los abogados del Estado), quien debió defender al Estado en cada juicio, mintió al vacunarse él y su esposa como personal de salud.",
+      "entidades_detectadas": [
+        "carlos",
+        "nación",
+        "estado",
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "La justicia está tan degradada que hay gente como Moyano que se vacunó porque es presidente de dos obras sociales, argumentando que las vacunas eran para sus empleados.",
+      "entidades_detectadas": [
+        "presidente",
+        "moyano"
+      ]
+    },
+    {
+      "frase": "Un punto importante es que Pablo Moyano, hijo de Hugo Moyano (doblemente vacunado), llamó \"traidor\" a Pimienta, secretario general de gremios judiciales, quien criticó públicamente la acción de Moyano, quien vacunó también a su esposa e hijo de 20 años.",
+      "entidades_detectadas": [
+        "moyano"
+      ]
+    }
+  ]
+}

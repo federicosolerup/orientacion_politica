@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 3
+    },
+    "score_promedio": 0.204,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a tratar de entender cuál es el \"para qué\" que está implícito en el lanzamiento de este libro, que se hizo exactamente igual, en el mismo lugar, en La Rural, donde se hizo la presentación del libro que marcó el comienzo de la nueva carrera vicepresidencial en su momento de **Cristina Fernández de Kirchner**.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es cierto que nuestros \"para qué\" son muy diferentes porque en cada cual tiene que ver con dos formas de poder: el poder acumulado, lo que se suele llamar en nuestra esfera de influencia, el que nos faculta, y el otro poder, el que nos faculta la ejecución actual y concreta, es decir, un poder que nos dan y un poder verdadero que nosotros tenemos dentro y que tiene que ver con poder llevar adelante nuestro \"para qué\", o sea, que detrás de cada \"para qué\" está la cuestión shakespeariana, de boca de Hamlet, que más allá de ser o no ser, es poder o no poder.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aquí vamos a la cuestión de fondo del caso de Macri.",
+      "score": 0.605,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El \"para qué\" de Macri tiene reminiscencia de un célebre libro de Lenin, publicado en 1901, que era \"¿Qué hacer?\".",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"¿Qué hacer?\" presentaba las propuestas concretas sobre la organización y la estrategia que debía seguir el partido revolucionario que se iba a instalar en Rusia una década después, y desarrollaba con lujo de detalles qué es lo que tendría que hacerse.",
+      "score": 0.184,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese sentido, habría dos proyectos, podríamos decir, en pugna dentro del PRO: el de Mauricio Macri, que plantea que hay que hacer lo que uno quiere hacer de manera más contundente, esta que se llama la famosa frase de \"lo mismo, más rápido\", versus lo que podría ser el \"para qué\" que representa **Horacio Rodríguez Larreta**, que implica consenso, es adecuarlo a lo posible, llevar adelante aquello que la mayoría querría y no aquello que uno solo cree que es lo que hay que hacer.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar un audio de Macri, luego vamos a escuchar un audio de **Máximo Kirchner** y, por último, un audio de Horacio Rodríguez Larreta.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este Macri que vamos a escuchar ahora parece Milei, hasta se permite decir unas palabras y es aprobado como...",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos este Macri empoderado, casi podemos decir maníaco:\n\n**Mauricio Macri:** \"Teníamos la mejor red de transporte de trenes del mundo.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Demasiado buenismo, que me castigue, tiene razón, tiene razón...\"\n\nBueno, ahí tenemos lo que yo denomino \"la mileización de Macri\", un Macri empoderado, no solamente con la tonalidad en su discurso, sino también con la manera de su gestualidad, la manera de su lenguaje, pudiéramos decir analógico, la manera de su kinestesia, la manera de mover las manos con una, pudiéramos decir, determinación que para algunos puede ser considerada incluso agresiva.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos a Máximo Kirchner:\n\n**Máximo Kirchner:** \"El peronismo tiene buenos dirigentes y buenas dirigentes muy capaces.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, hay que ver si le da ganas de independizarse un poco, pierde miedo con Macri, no, sería muy malo para el país.\"\n\nBueno, y ahí tenemos, creo que coincidimos con Máximo Kirchner, que probablemente el que más posibilidades tenga termine siendo Horacio Rodríguez Larreta.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y escuchemos ahora al propio Horacio Rodríguez Larreta respondiendo a Macri, quien en su libro había dicho que él era un elector de presidente y que probablemente iba a decidir el candidato que él quisiese.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el apoyo que realmente vale.\"\n\nBueno, ahí quedó planteada la lucha, podríamos sintetizar, entre el \"para qué\" de Macri y el \"con quiénes\" de Horacio Rodríguez Larreta.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una canción muy vieja, de 1966, de **Rafael**, que dice: \"Yo soy aquel\", donde se posiciona en un rol de supremacía y omnipresencia egocentrista, de sentirse el único, inigualable, que lo pone a creerse el único en la vida de una mujer, en este caso sería la patria, y le hacemos ahí una alusión a cierta similitud de Mauricio Macri con la patria.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

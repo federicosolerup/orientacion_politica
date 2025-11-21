@@ -1,0 +1,32 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Mañana otra vez irán todos a jeringar.",
+      "entidades_detectadas": [
+        "irán"
+      ]
+    },
+    {
+      "frase": "Lo que hizo Alberto Fernández daba vergüenza ajena.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Hace 20 años que vivimos los caprichos de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Argentina se parece cada vez más a la Guerra de Malvinas: se robaron el fondo patriótico, no había trajes, ni misiles… mandaron a la masacre a nuestros soldados.",
+      "entidades_detectadas": [
+        "argentina",
+        "fondo"
+      ]
+    }
+  ]
+}

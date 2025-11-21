@@ -1,0 +1,198 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original presenta graves problemas de coherencia, cohesión y estilo, además de errores ortográficos y una falta de objetividad evidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es difícil corregirlo manteniendo la intención original sin reescribirlo casi por completo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Intentaré mejorar la estructura y la claridad, pero la fuerte carga ideológica y la falta de evidencia para las afirmaciones se mantendrán.",
+      "entidades_detectadas": [
+        "Intentaré"
+      ]
+    },
+    {
+      "frase": "No se puede \"corregir\" la opinión sesgada, solo mejorar su expresión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Texto corregido:\n\nMientras el ministro de Economía, [Nombre del Ministro], participaba en el Foro Económico Mundial de Davos, intentando proyectar una imagen similar a la del expresidente [Nombre del expresidente], se percibía una estrategia política cuestionable.",
+      "entidades_detectadas": [
+        "ministro de Economía",
+        "Nombre",
+        "Foro Económico Mundial de Davos",
+        "Texto"
+      ]
+    },
+    {
+      "frase": "[Nombre del Ministro] parece estar siguiendo una línea económica heredada de su predecesor.",
+      "entidades_detectadas": [
+        "Nombre del Ministro"
+      ]
+    },
+    {
+      "frase": "[Nombre del exministro], quien tenía previsto asistir a Davos, viajó a Buenos Aires para intentar controlar la crisis en el Banco Central.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Banco Central",
+        "Davos"
+      ]
+    },
+    {
+      "frase": "Los primeros días de enero registraron un récord en la venta de reservas del Banco Central para mantener el valor del dólar.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Esta política monetaria de [Nombre del Ministro] es criticada por su ineficacia.",
+      "entidades_detectadas": [
+        "Nombre del Ministro"
+      ]
+    },
+    {
+      "frase": "El gobierno enfrenta dificultades para mantener el precio artificialmente bajo del dólar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recordemos que al asumir [Nombre del Ministro], Argentina atravesaba una de las peores sequías de su historia,  posiblemente la más grave en más de un siglo.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Nombre del Ministro"
+      ]
+    },
+    {
+      "frase": "En ese contexto, los depósitos y las reservas del Banco Central eran negativas, alcanzando los -11.000 millones de dólares.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "A pesar de un superávit comercial de 19.000 millones de dólares en el año anterior, las reservas seguían siendo negativas en -11.000 millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto indica que el Banco Central está vendiendo las reservas en dólares de los ahorristas para mantener artificialmente bajo el precio de la moneda estadounidense, situación similar a la de fines de la década de 1990.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Esta política devaluación controlada está perjudicando la competitividad de la economía argentina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación se agravará este año, ya que el aumento del turismo exterior contrarresta los beneficios del saldo comercial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los argentinos viajan a países como Brasil y el Caribe, generando una mayor demanda de dólares.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Caribe"
+      ]
+    },
+    {
+      "frase": "A pesar de los recursos provenientes del campo, el petróleo, el gas y los minerales, al gobierno le faltan divisas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si se mantiene el precio del dólar artificialmente bajo, no se atraerán suficientes divisas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fuentes allegadas a [Nombre del exministro] afirman que [Nombre del Ministro] le comunicó su intención de mantener bajas las retenciones, a pesar de la inminente necesidad de un ajuste superior a los 800 millones de dólares solo en los primeros meses del año.",
+      "entidades_detectadas": [
+        "Nombre del Ministro"
+      ]
+    },
+    {
+      "frase": "Este ajuste podría afectar las jubilaciones, los medicamentos para jubilados, el programa social [Nombre del programa social], hospitales y universidades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es importante recordar el \"pacto\" firmado por 17 gobernadores, quienes se comprometieron a reducir el gasto público.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "[Nombre del Ministro] ha declarado su intención de llevar a cabo un ajuste fiscal para beneficiar a las empresas.",
+      "entidades_detectadas": [
+        "Nombre del Ministro"
+      ]
+    },
+    {
+      "frase": "Sin embargo, esta estrategia de reducción del Estado podría perjudicar a los sectores más vulnerables.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Se critica el hecho de priorizar a los productores agropecuarios con mayores recursos, sobre los jubilados o personas de escasos recursos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Clarín publicó que el 70% de los jubilados acceden a medicamentos gratuitos, dato que ha sido cuestionado.",
+      "entidades_detectadas": [
+        "Clarín"
+      ]
+    },
+    {
+      "frase": "Es más probable que un porcentaje considerable no pueda acceder a ellos, lo cual puede tener consecuencias negativas para su salud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "[Nombre del Ministro], en declaraciones en Davos, describió como \"privilegios\" el acceso a la vivienda y la educación, una postura que ha generado polémica.",
+      "entidades_detectadas": [
+        "Davos",
+        "Nombre del Ministro"
+      ]
+    },
+    {
+      "frase": "Esta visión ha sido interpretada como una involución de los valores sociales, una inversión de los derechos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Finalmente, se alerta sobre un potencial ajuste aún más severo, que podría incluir el cierre de hospitales, la eliminación del PAMI (Instituto Nacional de Servicios Sociales para Jubilados y Pensionados) y la privatización de universidades.",
+      "entidades_detectadas": [
+        "PAMI",
+        "Pensionados",
+        "Instituto Nacional de Servicios Sociales para Jubilados"
+      ]
+    },
+    {
+      "frase": "Se argumenta que esta política conduciría a un país sin derechos sociales y a un aumento de la desigualdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se concluye con una llamada a la acción para frenar estas políticas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Brasil",
+    "Buenos Aires",
+    "PAMI",
+    "Argentina",
+    "Clarín",
+    "Instituto Nacional de Servicios Sociales para Jubilados",
+    "Intentaré",
+    "Banco Central",
+    "Fuentes",
+    "Nombre del Ministro",
+    "Caribe",
+    "Estado",
+    "Pensionados",
+    "Nombre",
+    "Foro Económico Mundial de Davos",
+    "Davos",
+    "ministro de Economía"
+  ]
+}

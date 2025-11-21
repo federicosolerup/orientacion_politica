@@ -1,0 +1,84 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Preveo que la bancada de [Nombre del bloque de Pichetto] y Nicolás Massot, junto con sectores del PRO y una parte del radicalismo, votarán a favor.",
+      "entidades_detectadas": [
+        "pro"
+      ]
+    },
+    {
+      "frase": "Mañana, en la comisión bicameral –con ocho senadores y ocho diputados–,  el Diputado [Nombre del reemplazo de Lombardi] del PRO reemplazará al Diputado Lombardi, quien asumió como ministro en la Ciudad de Buenos Aires.",
+      "entidades_detectadas": [
+        "pro"
+      ]
+    },
+    {
+      "frase": "El miércoles tenemos sesión en el Congreso por el escándalo de criptomonedas, un tema aparte.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Si bien el Senado lo rechazó, creemos que una investigación conjunta, con la participación de todos los bloques, es fundamental para esclarecer los hechos.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "El Presidente reconoció que fue engañado y que no debió permitir el acceso de esas personas.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El hecho de que el Presidente haya elevado el caso a la Oficina Anticorrupción no es suficiente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Es absurdo que un Presidente se investigue a sí mismo;  una comisión bicameral es distinta.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Todos los presidentes anteriores –Cristina Fernández de Kirchner, Mauricio Macri, Alberto Fernández y Milei— enviaron casos similares a la Oficina Anticorrupción.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Una Oficina Anticorrupción efectiva es necesaria para investigar errores del Estado y aplicar sanciones.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La frase \"el Presidente fue engañado\" es fuerte, pero él mismo lo admitió.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El Presidente reconoció que no debió permitir su acceso.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El Presidente se saca fotos con mucha gente, pero esta situación es diferente porque ocurrió dentro de la Casa Rosada.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Los tres poderes del Estado deben colaborar: el Ejecutivo, a través de la Oficina Anticorrupción; el Judicial, con las denuncias pertinentes; y el Legislativo, con la comisión bicameral.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

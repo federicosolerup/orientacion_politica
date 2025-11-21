@@ -1,0 +1,356 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 54,
+      "derecha": 14
+    },
+    "score_promedio": 0.254,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Mauricio Macri nunca le perdonó a Patricia Bullrich que se corte sola, que se vaya como ministra de Milei sin el consentimiento y sin consultarlo siquiera al que era hasta hace algún tiempo su jefe político, a Mauricio Macri.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá, **Pablo**, aquí la producción se acordaba muy bien de una anécdota que pinta de cuerpo entero lo que pasó cuando **Emilio Monzó**, quien era presidente de la Cámara de Diputados, tuvo su primera reunión con Mauricio Macri para ingresar en lo que después fue el PRO, se sorprendió del cierre de esa reunión.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, terminó la reunión y Macri lo despide con un lacónico \"¡Podés retirarte!\".",
+      "score": 0.73,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, algo así, después de mucho, es algo así como lo que le dijo ahora a Patricia Bullrich.",
+      "score": 0.458,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eli, ni hablar de lo que fue la relación en campaña de Mauricio Macri y **Horacio Rodríguez Larreta**.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente esa relación se fue gastando con el tiempo, aunque ahora parece que hay algún intento de Macri por recomponer un poco.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larreta está bastante en segundo plano, pero por ahí me parece que, digo, ahora cuando somos menos, todo suma.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fantástico porque el instrumento de Mauricio Macri contra Larreta, cuando Larreta dijo \"me emancipo\", fue Patricia Bullrich.",
+      "score": 0.466,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri no está en Buenos Aires, no está en la Argentina en estos días?",
+      "score": 0.342,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Directamente sería no ir al pacto, hacerle el feo al presidente que lo invita al pacto sería casi casi decir, bueno, el divorcio es entre Macri y más que Patricia Bullrich ya con Milei.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, absolutamente, me parece que la ruptura con Bullrich ayer quedó consumada.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich queda fuera de todos los marcos institucionales, órganos institucionales del PRO.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ver si ahora formará parte o no efectivamente de La Libertad Avanza, sobre todo en un armado de Milei encabezado por **Karina Milei**, un armado político electoral pensando en los comicios de 2025 en la ciudad de Buenos Aires y atento en la provincia de Buenos Aires también de la mano de esos referentes del PRO que hoy siguen estando con Patricia Bullrich.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero vamos a recordar lo que pasaba, en la tarde de ayer había una promesa del sector de Mauricio Macri de mantener la presidencia de la asamblea del partido en manos de Patricia Bullrich, cerca de ella hubo una traición porque eso no se cumplió y efectivamente le coparon la asamblea.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de Patricia Bullrich, lo que lo viene diciendo es fusión o algo parecido, cuando le dicen fusión dice \"no hablamos de fusión pero algo muy parecido\" a sellar una alianza sin matices con el presidente, con **Javier Milei** y que el PRO vaya hacia ese lugar.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri dice que hay que diferenciarse del presidente, hay que diferenciarse de La Libertad Avanza.",
+      "score": 0.406,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, escándalo, realmente un escándalo, muchos nos acordábamos de lo que eran los ateneos radicales, cuando empezaban con los \"sillasos\", no hubo \"sillasos\" pero hubo gritos y se levantaron aquellos que responden a Patricia Bullrich y se fueron de la asamblea.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí estaba, este es el momento en que se levantan aquellos asambleístas que responden a Patricia Bullrich y se empiezan a ir del lugar, con gritos, con acusaciones cruzadas y el grito de \"¡que se vote, que se vote!\", se empezaron a retirar y finalmente quedó **Martín Gessa** como presidente de la asamblea que responde por supuesto a Mauricio Macri.",
+      "score": 0.266,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y justamente Martín Gessa, ¿qué decía el exintendente de Pinamar, diputado del PRO, seamos cercano ahora a Mauricio Macri, de lo que pasó, de este escándalo ayer en la asamblea del PRO?",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá que sea la última vez que ven al PRO en estos actos inmaduros de problemas que si no tenés la razón te vas y decís cualquier cosa pero yo espero que eso sea un punto final, que es lo que nos trajo hasta acá.",
+      "score": 0.639,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, han sido cuatro años del PRO en donde ustedes han visto y protagonizado eventos como este, antes con Larreta, con Pepito, con Menganito, de Patricia con la...",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, entonces ojalá, y yo creo que tengo esa convicción, Mauricio suele decir, \"somos el cambio, no somos nada\", ese es el mantra con el que vamos a trabajar en las siguientes semanas con muchísima humildad, defendiendo, defendiendo, defendiendo la institucionalidad en la Argentina y ¿por qué?",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es importante, quiero ser muy claro, esto es importante porque si hoy el PRO no existiera, el gobierno estaría en minoría absoluta en el Congreso de la Nación, la ley base no hubiera sido sancionada, muchas de las agendas de cambios que necesita la Argentina no serían posibles.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Gessa le dice, todo muy lindo, pero ojo con lo que hacen porque todavía no necesitan, por lo menos hasta que haya una nueva elección y falta una eternidad, falta más de un año, necesitan los votos del PRO así que tampoco pueden hacer cualquier cosa.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, en 2015, justamente cuando el radicalismo debatía la incorporación al PRO de una nueva alianza que primero fue Cambiemos y a lo largo del tiempo después pasó a ser Juntos por el Cambio, pero también en esa convención recordamos, hace ya casi diez años, también hubo, no sí ya, pero una situación bastante compleja e incluso provocó alguna ruptura con sectores del radicalismo que en los últimos tiempos terminaron más cerca del kirchnerismo.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, el caso de Ricardo Alfonsín que resistía esa alianza que era una alianza con el PRO y también con la Coalición Cívica de **Elisa Carrió**.",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ayer, mientras por un lado se producía esta situación dentro de la asamblea, también estaban por fuera la propia Patricia Bullrich y algunos referentes de Patricia Bullrich.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue bastante curioso la convocatoria que hace la gente de prensa de Patricia Bullrich que dice, \"Patricia Bullrich va a estar en el café de la esquina\".",
+      "score": 0.436,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que es la misma cadena de cafeterías que fue la, te acordás, cuando fue el gabinete, cuando asumió **Franco**, cruzaron Plaza de Mayo y se fueron ahí, no sé si hay algún sesgo ahí de la gente del PRO, de La Libertad Avanza, pero a la misma cadena, la vamos a nombrar, fueron el gabinete, Patricia Bullrich estaba ahí y la misma cadena donde decía, va a esperar la prensa, Patricia Bullrich en la esquina de donde se estaba haciendo la asamblea.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué dijo un hombre muy cercano a Patricia Bullrich, también Arabia, diputado del sector justamente de Patricia Bullrich sobre los acuerdos?",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos, todo comenzó con aquel tuit de Mauricio Macri diciendo, \"presidente, cumpla con los acuerdos, le tiene que pagar a la ciudad de Buenos Aires la coparticipación, la transferencia por el tema de la policía, lo que dijo la corte\".",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros estamos concentrados en el cambio profundo que está llevando adelante el presidente Javier Milei y cómo vamos a acompañar.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que pasa es que algunos vivos quieren aprovecharse y en una lógica de incumplir acuerdos donde teníamos un acuerdo de unidad que era que Mauricio Macri presidía el consejo y Patricia Bullrich la asamblea.",
+      "score": 0.536,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta el propio presidente recordó en campaña una parte de esa historia cuando hablaba de...",
+      "score": 0.731,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Haciendo referencia, de alguna manera, a la militancia político juvenil de Patricia Bullrich durante la última dictadura militar.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el derrotero político de Patricia Bullrich es muy largo y arranca en el menemismo.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ministra de Seguridad de Nación 15-19 con Macri.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, realmente la vuelta que dio Patricia Bullrich y siempre corriendo hacia el mismo lado, siempre hacia la derecha.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich ahora llegó a La Libertad Avanza.",
+      "score": 0.492,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy, pero muy enojado estaba Pablo Walter y casi que diciéndole, \"tomen, quédense con esto, que es un partido chiquitito que no le importa a nadie\".",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Despechado, Pablo Walter decía esto.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incumplieron donde nosotros habíamos comprometido el apoyo a Mauricio Macri para presidir el consejo y ellos el apoyo a Patricia para presidir la asamblea.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich dijo \"yo no me voy\", voy a armar una corriente interna, pero ahí hay un problema grande y pareciéndose cada vez más el PRO a lo que sucede en los partidos tradicionales.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le das el peronismo, el radicalismo, ¿no?",
+      "score": 0.283,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me parece que hay que tener también en consideración un tema muy relevante, cuál va a ser el impacto efectivo de esta ruptura entre Mauricio Macri y Patricia Bullrich en el Congreso.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Donde hoy los bloques del PRO se han convertido por ahí en el principal sostén de los bloques más reducidos que tiene La Libertad Avanza tanto en la Cámara de Diputados como en el Senado.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante esto porque hasta que hayan elecciones, hoy en el oficialismo están muy confiados en que van a hacer una muy buena elección y van a tener muchos legisladores, hasta ahí necesitan del PRO, entonces hasta qué punto pueden tensar la cuerda con el partido que le da el volumen político legislativo que no tienen con votos propios.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Sandra Pettovello** que vuelve a hacerse fuerte en el gabinete, respaldo muy fuerte del presidente, de Javier Milei, en lo que fue el lanzamiento de este plan educativo, plan de alfabetización, donde se le conoce la voz y la expresión a Sandra Pettovello y vale la pena volver a verlo.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sandra Pettovello que después de muchísimos problemas vuelve con un respaldo muy fuerte de Javier Milei.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero además, interesante lo decía porque aparece en una escena hablando de educación cuando justamente el tema educativo ha sido uno de los temas conflictivos dentro de su cartera.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos también lo que fue la masiva marcha universitaria que el gobierno había o decía haber resuelto el tema universitario, no estaba resuelto.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que interesante la decisión de Javier Milei de mostrar a Pettovello en una circunstancia, en un escenario hablando del tema educativo.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y se inscribe en esta idea también del presidente de pedirle a los ministros que salgan a defender.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno más allá que el propio presidente es el principal vocero de su propia gestión.",
+      "score": 0.44,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es cierto, Milei hablando de educación después de cortar el incentivo docente, ahora diciendo \"va a haber recursos para los docentes y para pasárselos a las provincias\".",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero Milei por supuesto habló de educación, no pierde la oportunidad claro de hablar de los zurdos, de lo que significa la educación y también de Sarmiento.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver qué decía Milei.",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lamentablemente no se ha hablado mucho de alfabetización en Argentina en las últimas décadas, probablemente porque sea menos negocio que administrar una universidad.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, decíamos, sorprende lo que vamos a escuchar ahora de Milei no de sacar el incentivo docente del No Hay Plata a esta propuesta que va a haber recursos para los docentes en las provincias.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y con este norte presentamos el Plan Nacional de Alfabetización que tiene muchos elementos, pero un corazón, darle recursos y herramientas a los docentes y elevar la exigencia tanto para esos docentes como para los alumnos.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Suelo decir, si no un día en la Argentina tal vez equipara un mes en cualquier otro país, pero mira, ya hablamos del lío que se armó en el PRO con un escándalo con gritos y ruptura, de Milei hablando de educación en la provincia de San Juan y mientras tanto, y como si esto fuera poco diría Mendevan los colectivos, pasaban cosas en el Congreso Nacional, y vaya que pasaban cosas en el Senado, hablábamos de divorcios, parecía que hubo una reconciliación ahora entre quiénes?",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entre el oficialismo y los radicales que en el diputado le habían dado los votos para la nueva Ley de Movilidad Jubilatoria, pero ahora dijeron, bueno no, esperemos un poco, no están así, espera vamos a pedir, tal vez en la próxima sesión, qué apuro hay, esperemos un poquito.",
+      "score": 0.265,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver qué decía **Eduardo Vischi** de esto.",
+      "score": 0.64,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, por suerte está Elisabeth Peci que les va a aplicar a ella, que pues yo no entendí, quieren los radicales que se traten, no quieren que se traten, quieren, pero no quieren, no se entiende, no se entiende, porque dice vamos a la próxima sesión con o sin dictamen, era la sesión de ayer, era lo mismo con o sin dictamen, se podía haber tratado ayer, le aclaró a Vischi, no sé por qué, entiendo claramente por qué, para darle un guiño a Javier Milei y no lo trataron efectivamente ayer, pero estamos hablando, no es cualquier proyecto, lo que estamos hablando es de un ajuste adicional sobre la actualización jubilatoria, un proyecto de ley que ya tiene media sanción de la Cámara de Diputados y que tiene media sanción con dos tercios, es decir, una mayoría agravada que es muy posible también que consigan todos los sectores de la oposición, incluidos los dialoguistas, incluido algún voto de La Libertad Avanza, porque están hablando...",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa que Milei dijo \"yo la voto\", claro, la misma que dijo...",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí los degenerados fiscales vino de acá, exactamente, la definición de degenerados fiscales de Milei se refería a los diputados que en una cantidad de dos tercios los presentes votaron a favor de esto, hay que ver si también son degenerados fiscales, los senadores, bueno Vischi se ve que no quiso ingresar en ese calificativo, al menos ayer.",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, **Carolina Losada** habló en la sesión sobre este tema, muy complicado por cierto, más alguna vez el propio Javier Milei rozó este tema de una manera bastante polémica, ¿no?",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando le preguntaron sobre esto y llevando al punto, al extremo, la teoría libertaria, ¿no?",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 68
+  },
+  "etiqueta_original": "neutral"
+}

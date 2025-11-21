@@ -1,0 +1,44 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Mauricio Macri recibió una cierta cantidad de trabajadores y la devolvió con menos, con un modelo económico que limitó las posibilidades de desarrollo laboral, especialmente en sectores clave como la industria.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Quiero comenzar hablando del ATP (Asistencia de Emergencia al Trabajo y la Producción), un programa mediante el cual el gobierno decidió que el Estado pagara parte de los salarios de los trabajadores de las empresas que lo necesitaran durante la pandemia para preservar los puestos de trabajo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Es decir, recién el año pasado se alcanzó el nivel de actividad económica de cuando Cristina Fernández de Kirchner dejó el gobierno.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Si observan los gráficos, la productividad cayó durante el gobierno de Macri, siguió cayendo el primer año del gobierno de Alberto Fernández debido a la pandemia, pero al repuntar la productividad post pandemia, los salarios se mantuvieron a la baja.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cifra calcula que entre 2018 y 2022 (desde el acuerdo con el FMI hasta el año pasado), los salarios transfirieron al sector empresarial 87.800 millones de dólares al cambio oficial (46.800 millones al dólar blue, considerando la cotización más alta).",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Es decir, el sector trabajo le transfirió al empresariado casi la totalidad de la deuda con el FMI en dólares.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    }
+  ]
+}

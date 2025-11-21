@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Desde el año 2000, la Secretaría del Senado nunca ha acompañado la delegación de facultades, por lo que mantengo mi postura autonomista.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "No confío en el sentido de que si él hizo caso omiso a la Constitución y le dio el Decreto 70/23 funcionando en el Congreso de la Nación y se limitó a ir a esas funciones, por eso yo lo encontré.",
+      "entidades_detectadas": [
+        "constitución",
+        "nación",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "El Congreso está funcionando.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "**Senador Blanco:** El presidente de Aerolíneas mencionó un acuerdo con Río Cuarto, donde el municipio paga la diferencia para mantener la frecuencia.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

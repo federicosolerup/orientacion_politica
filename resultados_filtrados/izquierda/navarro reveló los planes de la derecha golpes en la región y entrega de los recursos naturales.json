@@ -1,0 +1,34 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer ocurrieron dos hechos absolutamente concatenados: el juicio a los acusados de intentar asesinar a Cristina Fernández de Kirchner —una mano de obra de la derecha— y el intento de golpe de estado en Bolivia.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "estado",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Fernández de Kirchner, como baluarte no solo de lo popular, sino también de lo nacional y la lucha por los intereses nacionales, simboliza todo esto desde hace mucho tiempo.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Con esta ley, los enormes recursos naturales de Argentina dejarán de destinarse al desarrollo de una industria pujante que la convierta en un gran exportador, generando valor agregado y empleo de calidad a través de la exportación de productos con mayor valor añadido, en lugar de los commodities que actualmente exporta.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Estos son los que intentaron matar a Cristina Fernández de Kirchner, los que perpetraron el golpe en Bolivia y los que presionan para entregar nuestros recursos naturales,  no solo los actuales sino también los de las futuras generaciones (es una cuestión intergeneracional), recursos que podrían cambiar la vida de millones de argentinos.",
+      "entidades_detectadas": [
+        "bolivia",
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

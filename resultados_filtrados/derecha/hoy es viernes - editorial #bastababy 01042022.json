@@ -1,0 +1,39 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Bueno, esos son Cristina Fernández de Kirchner y Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Porque ella es viuda, pero sigue enamorada de Néstor Kirchner, porque como se la llevaban… Néstor ya era… Y puso a Alberto, que, ¿viste que normalmente en segundas nupcias —me considero yo también— creo que somos todos un parche en la vida de la mujer?",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Entonces, la mujer que viene después, sí te amo, pero el gran amor desenfrenado… bueno, esto pasó con Cristina y Alberto.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Tanto costó construir Ucrania para que venga un hijo de puta y la bombardee y la destruya en 24 horas.",
+      "entidades_detectadas": [
+        "ucrania"
+      ]
+    },
+    {
+      "frase": "No me importa escuchar a Cristina un día y a Alberto otro con dos discursos diferentes.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina"
+      ]
+    }
+  ]
+}

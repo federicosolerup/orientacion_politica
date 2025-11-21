@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Tenemos el cuarto portal de noticias más importante de Argentina, después de Infobae, Clarín y La Nación; una de las radios de política más escuchadas en AM, y ahora...",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "En el Destape, revelamos, por ejemplo, las reuniones de los jueces Borinsky y Yorno con Macri en la Quinta de Olivos.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Identificamos a los jueces, fiscales y otros operadores que se reunían con Patricia Bullrich en el Ministerio de Seguridad.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Si revisan el trabajo de la sección Economía del Destape –de Cristian Cardillo, Javier Flucchi, Rodrigo Núñez (me olvidaré de algunos, seguro)–, verán notas críticas de la política económica del gobierno.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "De hecho, el juez Martín Bava dijo que se debe seguir investigando a Roberto Navarro por advertir sobre los discursos de odio que terminaron, 15 días después, con el atentado contra Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Sin embargo, estas empresas ya pagan impuestos sobre sus beneficios, lo que dificulta la aprobación del nuevo tributo en el Congreso y su posterior  validación constitucional.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "La presencia conjunta del ministro de Economía y el presidente reafirmó el cargo del ministro en medio de críticas y maniobras internas para sustituirlo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Nuevas noticias negativas llegan desde los Tribunales Federales, donde el fiscal Guillermo Marijuán solicitó el rechazo del sobreseimiento de Cristina Kirchner en la causa \"Ruta del Dinero K\", argumentando la falta de pruebas.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Los expertos anticipan que el INDEC anunciará esta semana que una familia necesita aproximadamente 90.000 pesos para no ser pobre, mientras la línea de indigencia se mantendrá cercana o superior al salario mínimo.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    }
+  ]
+}

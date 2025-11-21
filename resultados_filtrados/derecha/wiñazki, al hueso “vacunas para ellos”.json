@@ -1,0 +1,53 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La denuncia se enfoca en la provincia de Santa Cruz, la provincia de la vicepresidenta, la provincia del jefe de bloque de los diputados K, Máximo Kirchner, y la provincia de Alicia Kirchner, la provincia del poder y la vacunación VIP.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Ante esto, el hospital de El Calafate contó la versión oficial de la respuesta de la provincia de Alicia Kirchner, que dijo que el hospital de El Calafate, que construyó la vicepresidenta cuando era presidenta, y que se llama \"Néstor Kirchner\", un hospital gigantesco, era de la Nación y, por lo tanto, la respuesta tenía que darla el Ministerio de Salud de la Nación.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "El hospital, que se llama CEMIC, tiene una coadministración de la Nación y de la provincia de Santa Cruz.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "La información de Ocaña es que se desviaron 60 dosis de Sputnik V el 21 de enero, en el vuelo de las 8:40 de Aerolíneas Argentinas a la ciudad de El Calafate, el lugar en el mundo de la vicepresidenta Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Él dice: \"Yo pedí una vacuna para mí\" (él tuvo COVID), \"el Ministerio de Salud de Alicia Kirchner no me la dio, pero para otros subieron\".",
+      "entidades_detectadas": [
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Por un trabajo que hizo la interventora del PRO en la provincia de Santa Cruz, Silvana Ayud, quien tiene mucha información de lo que está pasando en esa provincia, podemos dar a conocer otro listado de vacunados VIP de Santa Cruz.",
+      "entidades_detectadas": [
+        "pro"
+      ]
+    },
+    {
+      "frase": "Y el presidente del Consejo Deliberante es Alarcón.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "César Alarcón, como presidente del Consejo Deliberante, el equipo de Piedrabuena le pidió al Ente Nacional de Comunicaciones (ENACOM) que censure o que mantenga...",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

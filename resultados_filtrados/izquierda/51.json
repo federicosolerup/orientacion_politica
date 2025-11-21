@@ -1,0 +1,50 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Recuerdo en la década de 1980, en países como Perú o Bolivia, cualquiera que quería ser taxista ponía un cartel en el parabrisas que decía \"taxi\" y listo.",
+      "entidades_detectadas": [
+        "perú"
+      ]
+    },
+    {
+      "frase": "Sí, hasta que muere un extranjero que viene de visita a la Argentina y lo suben a un auto ilegal en un aeropuerto.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Estaban leyendo lo que suben los seguidores de Milei y dicen que ha regulado algo todos los días, haciendo, según el informe, 672 reformas en un año.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Para sacar la licencia de transporte interjurisdiccional, para llevar pasajeros de una provincia a otra, existe la licencia LINTI, creada por el gobierno de Macri y Dietrich (no por Cristina Kirchner ni Néstor Kirchner).",
+      "entidades_detectadas": [
+        "macri",
+        "néstor",
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "El Estado debería verificar si eres epiléptico o tienes adicciones a las drogas antes de permitirte conducir con 65 pasajeros.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La respuesta del Estado no debe ser etnocéntrica y contribuir al brote general, sino decir que la inseguridad vial no admite idioteces porque la gente se mata en las rutas.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Es una locura subirte a un auto con un conductor inexperto, con los problemas de rutas… y otra cosa que va a pasar es que como antes los micros tenían licencias exclusivas para ciertos recorridos, el Estado los podía obligar a ir a lugares no rentables.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

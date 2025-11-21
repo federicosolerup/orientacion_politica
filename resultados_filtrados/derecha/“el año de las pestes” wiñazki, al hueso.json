@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En 2021, y esto está confirmado por las propias autoridades del gobierno nacional y los especialistas, Argentina volverá a vivir un año con COVID, probablemente con una ola aún más feroz, brutal y, esperemos, no tan mortal como la primera, que se cobró la vida de 55,000 o más argentinos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Probablemente las cifras sean mayores, pero al menos el INDEC lo está midiendo de modo transparente.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Ayer vimos una foto en la que estaban el Presidente de la Cámara de Diputados, el Ministro del Interior, el Gobernador de la Provincia de Buenos Aires (Kicillof), intendentes de la oposición (Jorge Macri), la Vicepresidenta del radicalismo en la Provincia de Buenos Aires (Ritondo), un legislador obviamente opositor, y muchos otros del oficialismo.",
+      "entidades_detectadas": [
+        "presidente",
+        "cámara"
+      ]
+    }
+  ]
+}

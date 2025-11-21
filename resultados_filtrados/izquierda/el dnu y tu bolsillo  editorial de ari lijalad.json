@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Este es un trabajo que debería realizar el Congreso (diputados y senadores) y los medios de comunicación, que, como periodistas, debemos aclarar cómo este DNU afecta directamente el bolsillo de los ciudadanos.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "El capítulo de reforma del Estado deroga la Ley de Sociedades Mixtas de Estado y Privado y la Ley de Funcionamiento del Estado, favoreciendo políticas de compra nacional y, indirectamente, facilitando privatizaciones sin pasar por el Congreso.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El Banco Nación es crucial para el financiamiento de la economía y su privatización podría perjudicar el acceso a créditos a tasas negativas, vitales para el desarrollo de la industria y el campo.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "El debate actual en el Senado es fundamental para determinar el futuro de la economía argentina y el bienestar de sus ciudadanos.",
+      "entidades_detectadas": [
+        "argentina",
+        "senado"
+      ]
+    }
+  ]
+}

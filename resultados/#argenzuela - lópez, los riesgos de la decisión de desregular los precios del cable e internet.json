@@ -1,0 +1,257 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "¿Qué significa esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, tengo a Gustavo López, exvicepresidente de la Comisión de Comunicaciones (COM), y lo tengo en línea.",
+      "entidades_detectadas": [
+        "Gustavo López",
+        "Bueno",
+        "Comisión de Comunicaciones"
+      ]
+    },
+    {
+      "frase": "También está Gustavo Jorge Riaz de Radio 10.",
+      "entidades_detectadas": [
+        "También",
+        "Gustavo Jorge Riaz"
+      ]
+    },
+    {
+      "frase": "Buenos días, ¿cómo están?",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Buenos días, ¿cómo están?",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Igualmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estábamos hablando con Mauro Federico sobre la liberación de las tarifas de telecomunicaciones.",
+      "entidades_detectadas": [
+        "Mauro Federico"
+      ]
+    },
+    {
+      "frase": "¿Qué significa esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El título, “liberación de tarifas de telecomunicaciones”, parece alejado de la gente, pero es importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es muy importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Significa que las compañías de telecomunicaciones e infocomunicaciones (internet, televisión por cable, televisión satelital, telefonía fija y móvil) pueden liberar sus precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto puede tener consecuencias negativas para las pequeñas empresas frente a las grandes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque, aunque existen alrededor de mil empresas en el mercado,  en telefonía solo tres concentran el 82-83% de la facturación.",
+      "entidades_detectadas": [
+        "telefonía"
+      ]
+    },
+    {
+      "frase": "Las pequeñas empresas operan donde las grandes no llegan y necesitan conectarse a la infraestructura de estas últimas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si una cooperativa o una pequeña empresa quiere ofrecer internet a un pueblo, quizás deba conectarse a la red troncal de una empresa grande para luego distribuir el servicio a sus clientes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin intervención estatal en esta mediación, se puede provocar la quiebra de las pequeñas empresas o la aplicación de precios excesivos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ley, tal como la esperábamos, elimina la regulación y deja, en teoría, la libre competencia.",
+      "entidades_detectadas": [
+        "La ley"
+      ]
+    },
+    {
+      "frase": "Sin embargo, esto genera un oligopolio, una situación similar a una cartelización, donde las empresas se ponen de acuerdo para fijar precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ley original establecía que los precios debían ser justos y razonables, y permitía la intervención estatal en caso de que no lo fueran.",
+      "entidades_detectadas": [
+        "La ley"
+      ]
+    },
+    {
+      "frase": "Al eliminar la intervención estatal, la empresa misma decide si sus precios son justos y razonables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto libera totalmente la fijación de precios de servicios esenciales como la conectividad, necesaria para el trabajo, el estudio y la investigación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto refuta la teoría de [nombre del autor], que afirma que siempre habrá un privado interesado en ofrecer servicios, incluso sin intervención estatal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En algunos casos, las cooperativas preexistían a la llegada de grandes empresas como [nombre de la empresa], ya que el Estado no podía llegar a ciertas zonas.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Sin mediación en los precios entre empresas grandes y pequeñas, la gente puede quedarse sin servicio o con un servicio demasiado caro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo esto se agrava con el cierre de las delegaciones del ENACOM en todo el país, obligando a la gente a comunicarse con Buenos Aires por correo electrónico para resolver problemas.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Se avecina una nueva ola de despidos, destruyendo un organismo regulador esencial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se libera un servicio esencial sin la correspondiente sana competencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La telefonía celular, el servicio más extendido y democrático en Argentina (55 millones de celulares para 47 millones de habitantes), se ve afectado.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Sin mediación, parte de la población puede quedar excluida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la pandemia, en algunas universidades, los estudiantes carecían de internet en sus hogares, debiendo realizar sus estudios en lugares públicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se eliminó la esencialidad del servicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No te parece extraño el apoyo permanente del presidente a [nombre de la empresa]?",
+      "entidades_detectadas": [
+        "¿No"
+      ]
+    },
+    {
+      "frase": "Es extraño, ya que no es una empresa tan importante en materia de conectividad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen un millón de abonados en el mundo y un millón y medio en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Parece haber algo detrás, quizás buscando generar publicidad para que contraten sus servicios, a pesar de su inestabilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Podrían estar buscando otros negocios, lavando la imagen de una empresa que no tendrá un impacto inmediato.",
+      "entidades_detectadas": [
+        "Podrían"
+      ]
+    },
+    {
+      "frase": "En la Ciudad de Buenos Aires, por ejemplo, no funciona bien, solo sirve donde no hay fibra óptica ni 4G.",
+      "entidades_detectadas": [
+        "Ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Para mí, es un blanqueo para facilitar sus negocios con el litio, necesario para la empresa de autos del presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es sorprendente que un presidente haga publicidad estatal a una empresa como si fuera una publicidad comercial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso, viaja a Miami para reunirse con [nombre de la persona] de Tesla en Texas.",
+      "entidades_detectadas": [
+        "Texas",
+        "Miami",
+        "Tesla"
+      ]
+    },
+    {
+      "frase": "Esto refleja una admiración por un capitalismo salvaje, sin pagar impuestos, con expresiones desafortunadas contra el diario Perfil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos ante un liberalismo salvaje junto con la desaparición del Estado, sin regulación.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Totalmente lamentable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gustavo, un abrazo grande.",
+      "entidades_detectadas": [
+        "Gustavo"
+      ]
+    },
+    {
+      "frase": "Gracias a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Texas",
+    "Gustavo López",
+    "Totalmente",
+    "Mauro Federico",
+    "Comisión de Comunicaciones",
+    "Gustavo Jorge Riaz",
+    "Podrían",
+    "Gustavo",
+    "Ciudad de Buenos Aires",
+    "¿No",
+    "Estado",
+    "Buenos días",
+    "Argentina",
+    "Significa",
+    "La ley",
+    "Bueno",
+    "Buenos Aires",
+    "telefonía",
+    "Miami",
+    "Tesla"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hoy mismo, una señora –no voy a dar su nombre–, a quien entran a robar a su casa, le dejan a su hijo con discapacidad en estado de shock, desmayan a su esposo y la violan.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "¿Hasta cuándo la República Argentina va a seguir sometiendo a esta mujer a este tipo de situaciones?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Alberto Cormillot, un gran amigo, me contó que internó a su hija, que pesaba 28 kilos con la ropa mojada.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

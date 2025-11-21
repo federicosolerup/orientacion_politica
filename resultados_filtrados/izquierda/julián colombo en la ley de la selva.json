@@ -1,0 +1,48 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La semana pasada, Darío Epstein, exasesor de Javier Milei, declaró que este proceso era muy complejo, solo apto para expertos, como *hackers* o programadores.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "¿Tiene noticias de algún ataque a una billetera argentina o latinoamericana en esas horas?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Hay varios frentes abiertos: investigaciones presidenciales, acciones judiciales en Argentina y casos en Estados Unidos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Ojalá el presidente se reuniera con representantes de la industria regulada de nuestro país.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "En la cámara Fintech estamos todos nucleados, y de repente aparecen estos personajes autoproclamándose representantes del sector.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Julián, imagino que la Cámara Fintech y la Cámara de Blockchain intentaron entrevistar a Javier Milei.",
+      "entidades_detectadas": [
+        "javier",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Con Milei no hemos tenido esa oportunidad; esperamos que ocurra pronto.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Pero si lo tienes dos años sin juzgarlo, es lo mismo que con la vicepresidenta Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cuando Alberto [Apellido] se siente, debe limpiarse un poco… lo que viene es difícil.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "El presidente de Francia también.",
+      "entidades_detectadas": [
+        "francia",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "No se puede moverle el culo a Trump e ir a saludar a [Nombre].",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "El 41% que votó a Macri te hará la vida imposible.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    }
+  ]
+}

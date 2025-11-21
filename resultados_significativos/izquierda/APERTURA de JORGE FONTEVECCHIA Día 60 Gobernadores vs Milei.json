@@ -1,0 +1,136 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 17,
+      "derecha": 7
+    },
+    "score_promedio": 0.325,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La primera fue la batalla de Cepeda, en febrero de 1820, cuando los caudillos federales de Santa Fe, Estanislao López, y de Entre Ríos, Francisco Ramírez, derrocaron al Directorio que estaba en la ciudad de Buenos Aires.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, la provincia de Buenos Aires, la más rica, que era la que controlaba la aduana, mantuvo determinados privilegios, y luego vino la época de Rosas.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Urquiza convocó a un congreso constituyente en Santa Fe, en mayo de 1853, donde se sancionó nuestra conocida primera Constitución Nacional, pero aunque ya no estaba Rosas, los intereses de la clase alta del puerto de Buenos Aires seguían siendo los mismos, o con otros significantes, por ejemplo, Bartolomé Mitre y Adolfo Alsina, que dieron un golpe de Estado conocido como la Revolución del 11 de septiembre de 1852.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de entonces, el país quedó casi por 10 años dividido en dos: el Estado de Buenos Aires y la Confederación, que era el resto de las provincias, que tenían su capital en Paraná, o sea, Entre Ríos.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hablan los Kirchner de que las retenciones son parte de la ideología de este gobierno.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo que hoy dice Llaryora es exactamente lo mismo que decía De la Sota en el año 2008.",
+      "score": 0.452,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos reunimos la semana pasada los gobernadores y le planteamos al gobierno la necesidad de rever la medida que tomó en el sentido en que utilizó fondos que son de las provincias para una decisión política nacional.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante el gobierno de Alberto Fernández, este conflicto se fue extrañamente trastocado.",
+      "score": 0.443,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, bueno, la ciudad de Buenos Aires, a partir de la Constitución de 1994, tiene el carácter de una provincia, finalmente, también entra en la competencia por los recursos nacionales coparticipables.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Horacio Rodríguez Larreta en el 2020 diciendo: \"¿Se eligió deteriorar la convivencia política que habíamos logrado?",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Exactamente lo contrario a lo que yo creo que la Argentina necesita.",
+      "score": 0.672,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No vamos a sacar a la Argentina adelante a través de la división.",
+      "score": 0.317,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche nos encontramos sorpresivamente con una medida improvisada, intempestiva, inconsulta, que le saca fondos de coparticipación a la ciudad de Buenos Aires para destinarlos a la provincia.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego, con la Constitución de 1994, se constituyó la ciudad de Buenos Aires ya no más como territorio federal, sino como una provincia más.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que, en este sentido, el presidente y el gobierno de la Libertad Avanza, al tener una minoría en la Cámara de Diputados y Senadores, tendría que profundizar el diálogo.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es por eso que evitar este grave error de querer incrementar los derechos de exportación sobre los sectores agroindustriales, la metalmecánica, la madera, bueno, sobre todos los sectores, es, creo, hoy, hacer una colaboración para evitar que la Argentina retroceda, para evitar que la Argentina rompa su tejido productivo, vuelva a cerrar persianas, fábricas, sectores que no van a invertir en dotar de valor agregado a los alimentos o que no van a volver a invertir para elevar su producción.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es por eso que, acompañando a los sectores productivos de nuestra provincia, le pido, por supuesto, a todos nuestros legisladores en el Congreso, que no voten absolutamente ninguna retención, colaborando con Argentina, defendiendo un plan productivo y también colaborando a discutir otras iniciativas, que, claramente, son todas dolorosas, pero que ninguna nos lleven a la muerte de nuestro sector productivo\".",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, y tenemos 16 años después otro gobernador de Córdoba repitiendo lo mismo.",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vamos ahora a escuchar a otro gobernador, pero de Chubut, que es, en este caso, Ignacio Torres, que dice: \"Le pido al presidente que no tiren de la soga.",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la nación que no tire más de la soga, porque es la nación la que nos debe a nosotros.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la nación la que tiene que rendir cuentas con la provincia, que venimos aportando más de 300 mil millones de dólares hace más de 100 años\".",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este gobernador no va a ser uno más de los sumisos ante los gobiernos nacionales, porque no nos va a amedrentar ninguna amenaza, ninguna picardía parlamentaria, y si nos quieren sacar el fondo compensador docente no me van a encontrar a mí, nos van a encontrar a todos nosotros yendo a la Casa Rosada a reclamar por lo que nos corresponde.",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, los mismos gobernadores que le reclamaban al kirchnerismo cuando el kirchnerismo gobernaba.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente debería comprender que, de la reforma constitucional de 1994, los recursos naturales son de las provincias y que se encuentran, por tanto, controlados por los gobernadores.",
+      "score": 0.258,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 24
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "A ver, presidente querido, a usted no le importa un 10% más de pobres.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Charlatanes que saltaron del peronismo al radicalismo, al radicalismo al peronismo, de todos a Cambiemos, de Cambiemos a todos, a todos estos chantas que parece que tienen la solución mágica… Yo, con los programas de televisión que los invitan, todos tienen la solución mágica; esto es como el COVID.",
+      "entidades_detectadas": [
+        "cambiemos"
+      ]
+    },
+    {
+      "frase": "Y el presidente dice: \"En el mundo no hay vacunas\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Un hombre que estuvo en Granaderos dos años, y cuando se enteró de que Cristina estaba, quiso seguir dos años más en Granaderos para servir a su graciosa majestad.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Una oposición pedorra, una oposición que no está a la altura de las circunstancias, una oposición que se cree que son todos figurones, una oposición que se peina para ser presidente y sigue \"emboludeando\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Vamos a tener de nuevo de presidente a Cristina, porque sabés que ellos van a tener la billetera, que van a salir a imprimir bonos de contribución, que son los billetes de mil, y lo van a repartir a lo loco.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Estamos peor que Venezuela, porque Venezuela está haciendo negocios con Estados Unidos, con el petróleo, y está queriendo Maduro \"ponerse en la vida de los buenos\" para que no los fusilen.",
+      "entidades_detectadas": [
+        "venezuela",
+        "maduro"
+      ]
+    },
+    {
+      "frase": "Hoy el Papa, en un sincericidio que habrá sido por la pastilla del Alzheimer, dijo que él quería mucho a Cuba y quería mucho a los Castro.",
+      "entidades_detectadas": [
+        "cuba"
+      ]
+    },
+    {
+      "frase": "Porque Cuba es una mierda, es muy linda la playa para el turista que va diez días, y además un país que se dice tener dignidad, y los argentinos van a hacer turismo sexual con las menores por dos, tres, cuatro dólares.",
+      "entidades_detectadas": [
+        "cuba"
+      ]
+    },
+    {
+      "frase": "La villa peruana de un lado, la colombiana del otro y la argentina del otro.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "* Se editaron palabras consideradas ofensivas para que la respuesta sea más profesional\n\n**Especifico:**\n\n*   **Nombres y Apellidos:** Se identificaron nombres propios y se verificó su correcta escritura (ej., Cristina Kirchner, Gerardo, Gustavo, Florencia).",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

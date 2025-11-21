@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Y Serrat… cada vez que escuchas sus canciones, te transmite un mensaje diferente, según tu estado de ánimo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Cuando terminó el recital, Serrat habló de sus antepasados; hizo un homenaje a su abuelo, un hombre sin nombre porque la guerra destruyó los archivos y no tenía ni patria de nacimiento.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "Cuando murió aquí, tenía 76 años; todos decíamos que murió joven, hasta que llegaron los documentos de Europa y descubrimos que tenía 86.",
+      "entidades_detectadas": [
+        "europa"
+      ]
+    },
+    {
+      "frase": "Más allá de hablar de Fabiola Yañez, Alberto Fernández o Cristina Fernández de Kirchner, a veces necesitamos y merecemos salir del mundial, de las peleas políticas, de las tropelías del gobierno y sus corrupciones.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

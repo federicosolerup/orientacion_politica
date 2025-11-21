@@ -1,0 +1,62 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Estos involucran a Javier Milei, al ministro de Economía, Luis Caputo, y al presidente de la Cámara de Diputados, Martín Menem.",
+      "entidades_detectadas": [
+        "javier",
+        "presidente",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "En resumen, Caputo derogó el decreto que establecía límites y el artículo de la ley que facultaba al Estado a imponerlos.",
+      "entidades_detectadas": [
+        "estado",
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Acompañó el mensaje con un gráfico de CAME (Cámara Argentina de la Mediana Empresa) que, según él, muestra una recuperación económica en forma de \"V\" (caída, toque fondo y subida).",
+      "entidades_detectadas": [
+        "argentina",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "La realidad es que las ventas minoristas siguen cayendo, pero el presidente de la Cámara de Diputados afirma que las cosas van bien.",
+      "entidades_detectadas": [
+        "presidente",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "El tercer papelón involucra a Caputo y a Milei.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Caputo ha afirmado reiteradamente que la inflación baja, utilizando los precios de Jumbo (parte del grupo Cencosud),  que informó en su último balance una rentabilidad superior a la inflación.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Caputo tuiteó varias veces sobre la baja de precios en productos de marca propia de Jumbo, y lo mencionó en una entrevista con el hijo de Mauro Viale, citando incluso un \"bot\" (un robot que supuestamente monitoriza los precios de Jumbo) que mostraba una deflación del 5%.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "En resumen, la sucesión de errores de Caputo (sobre las prepagas), Menem (sobre la economía) y la utilización de un \"bot\" falso por parte de Caputo y Milei para justificar la baja de precios, resulta inaceptable, especialmente considerando sus cargos como presidente, ministro de Economía y presidente de la Cámara de Diputados, respectivamente.",
+      "entidades_detectadas": [
+        "menem",
+        "presidente",
+        "cámara",
+        "caputo",
+        "milei"
+      ]
+    }
+  ]
+}

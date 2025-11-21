@@ -1,0 +1,60 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Nuestros bloques parlamentarios han tenido, en mi opinión, una actuación muy destacada, tanto en la Cámara de Diputados como en el Senado.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "En la Cámara de Diputados, la intransigencia de nuestro bloque fue esencial para que se retirara la ley ómnibus.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "La CGT realizó un paro con movilización el 24 de enero, que se sintió en todo el país.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Sé que Cristina Kirchner también habla de esto, de lo que mencionó Mauro, sobre la apertura del peronismo.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Recién hablamos del movimiento obrero; hablamos con Pablo Moyano anteayer, y adelantó que se está gestando un paro, que tal vez se anuncie a fin de semana o la semana que viene.",
+      "entidades_detectadas": [
+        "moyano"
+      ]
+    },
+    {
+      "frase": "El movimiento obrero y la CGT tendrán un rol protagónico en la reconstrucción.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "La ANSES recibe el 50% de sus ingresos de aportes previsionales y el otro 50% de impuestos.",
+      "entidades_detectadas": [
+        "anses"
+      ]
+    },
+    {
+      "frase": "Deben crear un fondo para sus vacaciones y si se enferman no cobran.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Debemos diseñar una Argentina donde se reconozca que nuestra columna vertebral son los trabajadores, y no debemos limitarnos solo a los registrados.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

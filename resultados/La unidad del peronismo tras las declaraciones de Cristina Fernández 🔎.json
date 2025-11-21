@@ -1,0 +1,684 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy es viernes 26 de agosto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que estaban escuchando es Hernán Figueroa Reyes cantando \"Unidos\".",
+      "entidades_detectadas": [
+        "Hernán Figueroa Reyes"
+      ]
+    },
+    {
+      "frase": "\"Unidos\" sería el resultado del alegato del fiscal y del eventual fallo en la causa de vialidad.",
+      "entidades_detectadas": [
+        "\"Unidos"
+      ]
+    },
+    {
+      "frase": "Vamos a tratar de explicar qué está pasando con las marchas, los movimientos y la dimensión emocional y práctica de la movilización, poniendo todo en contexto a lo largo del programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comenzaremos primero con el 17 de octubre y el discurso de Perón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Trabajadores, muchas veces he asistido a reuniones de trabajadores.",
+      "entidades_detectadas": [
+        "Trabajadores"
+      ]
+    },
+    {
+      "frase": "Siempre he sentido una enorme satisfacción, pero desde hoy he sentido un verdadero orgullo de argentino, porque interpreto este movimiento colectivo como el resurgimiento de una conciencia de los trabajadores\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una hipótesis sobre la dimensión práctica sería producir algo parecido al 17 de octubre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otra de las cuestiones que se mencionaron, otra dimensión, es algo parecido a lo que fue la marcha en mayo de 2017, que revirtió la aplicación de la posibilidad de que los condenados por crímenes de lesa humanidad pudieran computar cada año de detención por dos, hasta completar su pena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar entonces un audio de mayo de 2017, de Estela de Carlotto.",
+      "entidades_detectadas": [
+        "Estela de Carlotto"
+      ]
+    },
+    {
+      "frase": "\"La sociedad ha reaccionado con firmeza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Numerosos jueces rechazaron los pedidos de reducción de pena y excarcelación a muchos de los represores condenados por delitos de lesa humanidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy mismo, los legisladores aprobaron una ley que busca frenar la aplicación del dos por uno a represores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estas decisiones, como también lo hizo el Senado, nos llenan de esperanza y gratitud.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Necesitamos que los representantes de los tres poderes del Estado tomen el reclamo del pueblo reunido en esta plaza.",
+      "entidades_detectadas": [
+        "Estado tomen"
+      ]
+    },
+    {
+      "frase": "Aquí está el pueblo, un pueblo más sabio, más comprometido, más fuerte para resistir estos embates que nos arrastran a un pasado siniestro y que quieren consolidarse como un presente y futuro\".",
+      "entidades_detectadas": [
+        "Aquí"
+      ]
+    },
+    {
+      "frase": "Aquí también se produjo otra dimensión práctica, o sea, se logró modificar, ya vamos a explicar cuáles son las diferencias con lo que está sucediendo hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se logró modificar lo que iba a ser un beneficio para los condenados por crímenes de lesa humanidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero vayamos primero a la dimensión emocional, que es la más fácil de explicar, y después analizaremos parte por parte la dimensión práctica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La dimensión emocional, quien quizás mejor lo resumió, fue el actual presidente del Partido Justicialista en la ciudad de Buenos Aires, Mariano Recalde, quien lo simbolizó en la frase \"tocarle el culo a la leona\" como motivo de esa afrenta.",
+      "entidades_detectadas": [
+        "Mariano Recalde",
+        "Partido Justicialista"
+      ]
+    },
+    {
+      "frase": "Escuchemos este fragmento de Recalde explicando qué sintió: \"Y ese lunes que tiraron esa munición gruesa pidiendo 12 años de prisión para Cristina, encima fueron a la casa de ella, a 'escrachar', a ejercer el más profundo odio que tienen adentro en la casa personal de Cristina y ahí se terminó.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Recalde"
+      ]
+    },
+    {
+      "frase": "Ahí el pueblo despertó, le tocaron la cola a la leona, le tocaron la cola a la leona otra vez y finalmente se despertó, se despertó el peronismo y esta reunión de hoy es la demostración de ese despertar, que es un despertar también de la conciencia de que somos más, de que tenemos razón y de que no vamos a bancar que la toquen en Argentina\".",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Me disculpo, al parecer, yo había escuchado \"le tocaron el culo, le tocaron la cola a la leona\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era más elegante el presidente del partido peronista, pero fíjense que él habla de un despertar de la conciencia, que es exactamente la misma frase que usó Perón el 17 de octubre, cuando escuchamos hace unos instantes.",
+      "entidades_detectadas": [
+        "partido peronista"
+      ]
+    },
+    {
+      "frase": "Él venía de Martín García, o sea, lo traen de la prisión en la que lo tenían, y él le habla al pueblo y dice que en ese día, en ese acto, lo que se generaba era un despertar de la conciencia, en su caso, del pueblo trabajador.",
+      "entidades_detectadas": [
+        "Martín García"
+      ]
+    },
+    {
+      "frase": "Entonces, respecto de la dimensión emocional, no cabe duda de que las marchas de apoyo son un gesto de desagravio, tienen un componente simbólico, construyen una, podríamos decir, una reformulación, un renacer del relato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, la tapa de \"Noticias\", que para quienes nos están viendo en perfil.com, en la aplicación de NTV van a poder verla -le voy a pedir al control que la coloque-, lo que plantea es una Cristina Kirchner en el balcón con una foto de ella en el balcón del Senado, diciendo que lo que hay que salvar es el relato.",
+      "entidades_detectadas": [
+        "NTV",
+        "Senado",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Es una dimensión simbólica que tiene que ver con la narrativa, en la cual no tiene nada que ver la justicia ni el fallo, que resulta obviamente importante para salvar el relato, o sea, mostrar que la vicepresidenta no tiene nada que ver con la corrupción, que la corrupción es un problema de malos funcionarios, eventualmente incluso hasta de su marido, pero no de ella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa dimensión emocional es totalmente comprensible y totalmente, podríamos decir, utilitaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, la dimensión práctica es aquí donde se plantea el punto más interesante, y es de aquí de donde tenemos que empezar el análisis de las distintas alternativas y por qué la dimensión práctica va a terminar concluyendo inevitablemente en el indulto, a pesar de que hoy se diga que no, desde el sector más cercano a la vicepresidenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a hacer un repaso ahora de los que están pidiendo movilizaciones para explicar por qué buscan la dimensión práctica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a empezar nuevamente con el presidente del Partido Justicialista Porteño, Recalde, llamando a la movilización.",
+      "entidades_detectadas": [
+        "Partido Justicialista Porteño",
+        "Recalde"
+      ]
+    },
+    {
+      "frase": "Explica que vamos a estar en la calle todas las veces que sea necesario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Si van a la casa de Cristina a hacer 'escraches' de la manera violenta que lo hicieron, como solamente lo hacen con los dirigentes populares, vamos a volver esta vez a la calle\".",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Está definida, Mariano, la movilización del 17 de octubre?",
+      "entidades_detectadas": [
+        "Mariano"
+      ]
+    },
+    {
+      "frase": "\"No está definida, pero hay un clamor en todo el país y estamos esperando la definición de quienes conducen nuestra fuerza política y estamos preparados para salir a la calle y mostrar lo que el pueblo quiere\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego, tenemos a Hebe de Bonafini planteando que es necesaria una gran \"pueblada\", ese es el término que se utiliza.",
+      "entidades_detectadas": [
+        "Bonafini",
+        "Hebe"
+      ]
+    },
+    {
+      "frase": "\"Yo espero que el pueblo esté a la altura de la condición del país y de la condición de Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Espero que haya que calentar los motores, hace rato que lo vengo diciendo, y que la 'pueblada' tiene que estar bien preparada para que no falte nadie.",
+      "entidades_detectadas": [
+        "Espero"
+      ]
+    },
+    {
+      "frase": "La 'pueblada' tiene que ser como un 24 de marzo, como el 2x1, porque ella merece eso y el pueblo argentino, porque es contra el pueblo esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella es todo lo que nos oponemos a algo, pero lo principal es que son voces muy importantes como la de Cristina y son atacadas vergonzosamente, ¿no?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Me parece que eso es con lo que hay que terminar, y si el pueblo sale a la calle a hacer una 'pueblada' bien hecha, le vamos a ganar, le vamos a ganar porque somos más, somos más y lo hacemos con amor\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes vieron que nosotros comenzamos el programa con la canción de Hernán Figueroa Reyes, \"Unidos\", ¿no?",
+      "entidades_detectadas": [
+        "Ustedes",
+        "¿",
+        "Hernán Figueroa Reyes"
+      ]
+    },
+    {
+      "frase": "O sea, probablemente había una tapa de \"Noticias\" sobre el fiscal Luciani y recuerdo de hace dos o tres semanas que decía: \"El hombre iba a lograr santificar a Cristina\".",
+      "entidades_detectadas": [
+        "Luciani",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Evidentemente, una acusación contra ella, una eventual condena contra ella, produce el efecto opuesto en sus partidarios, o sea, refuerza el afecto, el cariño, la demostración de empatía, y tenemos al fiscal que puede meterla presa y santificar a Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "O sea, en el momento en que se lo coloca, lo mismo que pasó con Lula, lo mismo que pasó con Mandela, o sea, el ataque al líder lo que puede llegar a producir es la formación reactiva por el opuesto y lograr unir, como decíamos, unir al peronismo al punto de que puedan coincidir Hebe de Bonafini con Alberto Fernández.",
+      "entidades_detectadas": [
+        "Lula",
+        "Mandela",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Alberto Fernández de ayer.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "\"A mí me preocupa que la gente salga a la calle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo, inclusive, creo que nosotros tenemos que generar una gran movilización para defender la democracia, para defender los derechos humanos y para pedir una justicia independiente.\" Habla de la marcha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No voy a repetir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Tú estás de acuerdo con esta marcha y se habla del 17 de octubre a favor de Cristina?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "\"Sí, no sé, yo mañana voy a hablar con los compañeros del consejo del partido para ver exactamente qué proponemos y cómo lo hacemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero sí, estoy por una marcha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A los peronistas nunca nos preocupó estar en las calles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A nosotros no nos preocupa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estar en las calles no quiere decir ser violentos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Unidos\", desde Alberto Fernández a Hebe de Bonafini, algo que solamente el fiscal Luciani pudo lograr.",
+      "entidades_detectadas": [
+        "Luciani",
+        "\"Unidos",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Ahora vayamos a la dimensión práctica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comparamos el 2x1 que hablaba Carlotto, el 17 de octubre que hablaba Alberto Fernández, y vayamos por partes.",
+      "entidades_detectadas": [
+        "Alberto Fernández",
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Punto número uno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En aquella manifestación del 17 de octubre de 1945 se logra sacar de la cárcel al líder, pero no por una decisión de la justicia, no a través de la modificación de un fallo judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era un gobierno de facto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente de facto en ese momento le ordena que renuncie al secretario de Trabajo, que era Juan Domingo Perón.",
+      "entidades_detectadas": [
+        "Trabajo",
+        "Juan Domingo Perón"
+      ]
+    },
+    {
+      "frase": "Él no acepta renunciar y dar marcha atrás en las leyes que se habían aprobado, leyes laboristas que se habían aprobado hasta ese momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se esconde por un par de días en una isla del Delta.",
+      "entidades_detectadas": [
+        "Delta"
+      ]
+    },
+    {
+      "frase": "Lo descubren, lo llevan preso a Martín García.",
+      "entidades_detectadas": [
+        "Martín García"
+      ]
+    },
+    {
+      "frase": "El pueblo va y llena la Plaza de Mayo y pide la liberación de Juan Domingo Perón.",
+      "entidades_detectadas": [
+        "Plaza de Mayo",
+        "Juan Domingo Perón"
+      ]
+    },
+    {
+      "frase": "Y como no se trataba de un encarcelamiento producido por la justicia, no había ningún problema de orden de derecho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Simplemente el mismo general que había ordenado detenerlo, ordena que se lo libere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, es incomparable respecto a la dimensión práctica que podría tener hoy una marcha, que no podría lograr que el presidente de turno, ni siquiera el presidente de la Corte Suprema de Justicia, pudiera modificar si hubiera un fallo que estuviera totalmente confirmado.",
+      "entidades_detectadas": [
+        "Corte Suprema de Justicia"
+      ]
+    },
+    {
+      "frase": "Entonces, ¿cuál sería la solución práctica en ese sentido?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Desde el punto de vista de modificar una decisión producida por la justicia, sería imposible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La dimensión práctica que podría tener en ese sentido, y aquí vamos, finalmente termina en indulto o amnistía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vayamos al caso del 2x1, que sí se produjo en una situación de Estado de derecho.",
+      "entidades_detectadas": [
+        "Estado de derecho"
+      ]
+    },
+    {
+      "frase": "Había una ley aprobada en el año 2008, por la cual cada persona que estuviera en prisión se le podían contar por dos años cada año que haya estado en prisión, en el periodo en que todavía la condena no estaba firme.",
+      "entidades_detectadas": [
+        "Había"
+      ]
+    },
+    {
+      "frase": "En el año 2015, uno de los condenados por delitos de lesa humanidad se presenta y pide por primera vez que se le aplique a él ese 2x1.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una acordada de la Corte Suprema en la que se lo acepta, con un voto de tres magistrados a favor y dos en contra.",
+      "entidades_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Dos en contra son los que siempre habían firmado en contra, que eran Lorenzetti y Maqueda.",
+      "entidades_detectadas": [
+        "Maqueda",
+        "Lorenzetti"
+      ]
+    },
+    {
+      "frase": "Los tres que son a favor eran Highton de Nolasco, que ya no está, y Rosatti y Rosenkrantz.",
+      "entidades_detectadas": [
+        "Highton de Nolasco",
+        "Rosenkrantz"
+      ]
+    },
+    {
+      "frase": "Frente a eso, se produce una enorme movilización por el 2x1, nuevamente en mayo de 2017.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí teníamos el testimonio de Carlotto por un lado y luego el de Bonafini comparando lo que hubiera que hacer hoy con lo que se hizo en mayo de 2017.",
+      "entidades_detectadas": [
+        "Bonafini",
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Y lo que sucede es que el Congreso, frente a esa manifestación, dicta una nueva ley, diciendo que el 2x1 no es aplicable a los delitos de lesa humanidad.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Entonces, no es que se modifique un fallo de la Corte.",
+      "entidades_detectadas": [
+        "Corte"
+      ]
+    },
+    {
+      "frase": "Lo que se produce es una nueva ley que deja, por lo tanto, la situación del fallo de la Corte en un marco legal distinto, porque una nueva ley plantea un nuevo marco legal.",
+      "entidades_detectadas": [
+        "Corte"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, si se llegara a producir una condena de la vicepresidenta en la causa de vialidad, primero en el Tribunal Oral, luego confirmado por Casación y finalmente por la Corte Suprema de Justicia, ¿cuál es la solución?",
+      "entidades_detectadas": [
+        "¿",
+        "Casación",
+        "Corte Suprema de Justicia"
+      ]
+    },
+    {
+      "frase": "¿Qué es lo que se lograría con una presión popular?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Lo que se podría lograr es generar un indulto que le devuelva a la hoy vicepresidenta su carácter de candidata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya venimos explicando en este programa varios días que la posibilidad de que Cristina Fernández de Kirchner vaya presa es casi nula.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Que muy probablemente ya sea electa senadora el año próximo, que tendría un mandato de seis años, de 2023 a diciembre de 2029, casi a enero de 2030, al comenzar la cuarta década de este siglo, y que luego, por tener en ese momento, creo que tendría 75 años, más de 70 años, nunca llegaría a cumplir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, sí tendría un elemento político muy importante: no podría volver a ser candidata, es decir, una persona con condena firme no puede ser candidata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, sí inhabilitaría la posibilidad de que Cristina Kirchner fuera candidata después de esa condena definitiva, si se produjese, imagina 2024-2025.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Un indulto modificaría la posibilidad de que ella no sea candidata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, un indulto no solamente retrotraería la pena de cárcel, que, como ya dijimos, nunca llegaría a cumplir en una cárcel, sino además la otra inhabilitación, que es a poder ser candidata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, le devolvería lo que se llama la \"ficha limpia\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la forma que va a tener de solucionar, dentro del Estado de derecho, como bien lo decía Zaffaroni en lo que pasamos ayer, esa va a terminar siendo la solución política.",
+      "entidades_detectadas": [
+        "Zaffaroni",
+        "Estado de derecho"
+      ]
+    },
+    {
+      "frase": "Y esa sería la dimensión práctica que podrían tener las movilizaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, restaurar un relato, crear una condición para que se produzca un indulto, o, obviamente, también podría ser, como el caso del 2x1, una ley del Congreso; en ese caso sería una amnistía.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Pero cualquiera de los dos elementos no salen por una modificación de lo que hagan los jueces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no es una presión a los jueces, porque los que van a tener que resolver políticamente no van a ser los jueces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va a ser o el Ejecutivo o el Legislativo de 2024, de 2025 o de 2026, cuando esto se produzca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mismo pasa con la presión a los fiscales, este tema de la presión a los fiscales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El fiscal Luciani ya prácticamente concluyó su labor, es totalmente distinto al caso de Nisman, que él se iba a presentar.",
+      "entidades_detectadas": [
+        "Luciani",
+        "Nisman"
+      ]
+    },
+    {
+      "frase": "Luciani ya se presentó, ya votó, ya hizo todo e hizo los alegatos.",
+      "entidades_detectadas": [
+        "Luciani"
+      ]
+    },
+    {
+      "frase": "Obviamente, le quedaría la posibilidad de volver a sumar alguna respuesta a la defensa de los fiscales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el 90% de la tarea del fiscal Luciani y del fiscal Mola ya se produjo.",
+      "entidades_detectadas": [
+        "Luciani",
+        "Mola"
+      ]
+    },
+    {
+      "frase": "O sea, no habría nada que hacer contra el fiscal, si eventualmente alguien quisiera hacer algo absolutamente desleal, para eventualmente no producirle un daño a la vicepresidenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, el daño que se hizo a la vicepresidenta fue el alegato, un daño que no tiene solamente consecuencias jurídicas, sino consecuencias simbólicas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al dejar expuestas, de una manera casi descarnada, situaciones que, para quienes no quieren a Cristina Kirchner, son una prueba concluyente, independientemente del fallo que se produzca.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "El fallo de la opinión pública, independientemente del fallo de la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, el juicio entra ahora en un punto en el que los fiscales, el fiscal Luciani y el fiscal Mola, pierden progresivamente el protagonismo.",
+      "entidades_detectadas": [
+        "Luciani",
+        "Mola"
+      ]
+    },
+    {
+      "frase": "Lo van a tener los defensores, luego los jueces en el momento en que se produzca el fallo, supuestamente en febrero del año próximo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, ahí, en el momento en que se lea la sentencia, va a haber un momento muy vibrante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y luego, cuando pase a Casación y a la Corte Suprema, ya será un tema técnico, sin la presencia de ninguno de los imputados.",
+      "entidades_detectadas": [
+        "Casación",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Entonces, el tema de fondo será 2024, 2025, 2026: crear las condiciones para que, si hubiese un fallo condenatorio de la hoy vicepresidenta, y en ese momento, supuestamente, senadora, pueda ser modificado para que ella pueda volver a ser candidata a presidente, a senadora, al puesto que fuese.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ahora, ella, como acá la producción la simbolizó, es \"La Reina del Nilo\".",
+      "entidades_detectadas": [
+        "La Reina del Nilo"
+      ]
+    },
+    {
+      "frase": "Así que vamos a cerrar este comentario y la apertura de hoy con la canción de Fabián Acantilo cantando \"Cleopatra, La Reina del Nilo\" y \"La Reina del Juicio\".",
+      "entidades_detectadas": [
+        "La Reina del",
+        "Fabián Acantilo",
+        "Cleopatra"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estela de Carlotto",
+    "Congreso",
+    "Zaffaroni",
+    "Recalde",
+    "Hernán Figueroa Reyes",
+    "¿Está",
+    "Luciani",
+    "Alberto Fernández",
+    "Cleopatra",
+    "Vamos",
+    "Highton de Nolasco",
+    "¿Qué",
+    "Trabajadores",
+    "Partido Justicialista",
+    "Estado de derecho",
+    "Lula",
+    "Había",
+    "¿Tú",
+    "Mariano",
+    "Fabián Acantilo",
+    "Nisman",
+    "Aquí",
+    "Cristina Fernández de Kirchner",
+    "Mandela",
+    "Corte Suprema de Justicia",
+    "Estado tomen",
+    "Cristina Kirchner",
+    "La Reina del",
+    "Hebe",
+    "Mariano Recalde",
+    "NTV",
+    "Argentina",
+    "Explica",
+    "Bonafini",
+    "Lorenzetti",
+    "Maqueda",
+    "Rosenkrantz",
+    "Delta",
+    "Martín García",
+    "La Reina del Nilo",
+    "Así",
+    "Espero",
+    "Cristina",
+    "Plaza de Mayo",
+    "Ustedes",
+    "Juan Domingo Perón",
+    "Corte",
+    "Mola",
+    "Corte Suprema",
+    "Me",
+    "¿",
+    "Casación",
+    "Carlotto",
+    "Luego",
+    "Trabajo",
+    "Obviamente",
+    "Partido Justicialista Porteño",
+    "Senado",
+    "partido peronista"
+  ]
+}

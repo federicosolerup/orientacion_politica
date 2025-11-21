@@ -1,0 +1,420 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El presidente de Racing Club, Víctor Blanco, buen día.",
+      "entidades_detectadas": [
+        "Racing Club",
+        "Víctor Blanco"
+      ]
+    },
+    {
+      "frase": "¿Qué tal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buen día, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, bueno, primero, felicitaciones, Víctor.",
+      "entidades_detectadas": [
+        "Víctor"
+      ]
+    },
+    {
+      "frase": "La verdad, un triunfazo el sábado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, algo soñado, la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo veníamos esperando desde hace mucho tiempo y, por suerte, se nos pudo dar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Conseguimos una copa que se nos había resistido, pero pudimos concretar, para felicidad del pueblo argentino y de toda la hinchada de Racing.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Eso es.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es lo que quiero preguntarte, Víctor: ¿a qué se debe la alegría de tantas hinchadas con Racing?",
+      "entidades_detectadas": [
+        "Racing?"
+      ]
+    },
+    {
+      "frase": "¿Qué fenómeno explica el éxito de Racing?",
+      "entidades_detectadas": [
+        "Racing?"
+      ]
+    },
+    {
+      "frase": "Creo que, al quedar como el único equipo argentino en competencia por la copa, sumado a la superioridad que Racing ha demostrado últimamente en este tipo de competencias, se unió a toda la gente.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Me llamó la atención que, en las manifestaciones, había mucha gente de otros equipos mezclada con la de Racing.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Algo que me aseguraba que hacía mucho tiempo no veía cuando Argentina jugaba este tipo de partidos; parecía un solo color.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "También hay una señal, no directa, pero… nos gusta mucho el fútbol y somos fanáticos de los clubes sociales, los clubes de barrio, los que forman a los chicos.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Racing es uno de ellos.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Esta lucha entre las Sociedades Anónimas Deportivas (SAD) y los clubes de socios… ganó Racing, una entidad que no es SAD.",
+      "entidades_detectadas": [
+        "Sociedades Anónimas Deportivas",
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Sí, es un tema complejo, muy profundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es tan sencillo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que debemos aclarar bien estos temas, porque a veces hay confusión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es lo mismo una sociedad anónima que un club asociación civil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que eso da para un debate importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pero usted, personalmente, está a favor de que los clubes sigan siendo propiedad de sus socios?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aparte de Racing, estamos demostrando que se puede hacer, se puede convivir, crecer, trabajar y hacer obras, siempre de forma ordenada.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Lógicamente, tiene que ser administrado como una empresa, pero con un enfoque social.",
+      "entidades_detectadas": [
+        "Lógicamente"
+      ]
+    },
+    {
+      "frase": "Racing tiene muchísimas actividades sociales; es uno de los clubes que más actividades tiene: un colegio, etcétera.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Son actividades que quizá económicamente no nos convengan, pero socialmente han sido muy importantes para la comunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Víctor, una pregunta: hay un rumor de que Gustavo Costas era la segunda o tercera opción como entrenador.",
+      "entidades_detectadas": [
+        "Gustavo Costas"
+      ]
+    },
+    {
+      "frase": "¿Fue así?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Fue el deseo, la necesidad, el amor de Costas por Racing lo que lo llevó a ocupar ese cargo?",
+      "entidades_detectadas": [
+        "Racing",
+        "Costas"
+      ]
+    },
+    {
+      "frase": "No, para nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que los medios o representantes digan que buscamos a otros técnicos es influir para que venga su candidato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero la verdad es que Costas fue nuestra primera opción.",
+      "entidades_detectadas": [
+        "Costas"
+      ]
+    },
+    {
+      "frase": "Hablamos con él, vino y se quedó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mantuvimos incluso en los peores momentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La dirigencia lo mantuvo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y aquí está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No somos diferentes en cuanto a sacar técnicos; generalmente, en toda gestión, los técnicos cumplen su contrato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es la norma del club.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que, bajo ningún punto de vista, hubo ninguna duda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablamos con Gustavo López perfectamente.",
+      "entidades_detectadas": [
+        "Gustavo López"
+      ]
+    },
+    {
+      "frase": "Teníamos a Gustavo Costas y a Quinteros como opciones.",
+      "entidades_detectadas": [
+        "Gustavo Costas",
+        "Quinteros"
+      ]
+    },
+    {
+      "frase": "Sí, la primera opción fue Costas; si se caía Costas, sería Quinteros.",
+      "entidades_detectadas": [
+        "Costas",
+        "Quinteros"
+      ]
+    },
+    {
+      "frase": "Ahora, Víctor, este título llega antes de unas elecciones, donde se juega el futuro de Costas, ¿no?",
+      "entidades_detectadas": [
+        "Costas",
+        "¿",
+        "Víctor"
+      ]
+    },
+    {
+      "frase": "Sí, pero no es casualidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este título lo hemos buscado durante diez años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre digo lo mismo: los títulos se ganan participando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Casi nunca participamos o muy pocas veces en copas internacionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fíjate que en esta gestión, es el mandato en el que más hemos participado en la historia del club.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no participas, es imposible ganar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los jugadores también se van adaptando a jugar este tipo de partidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y más que nunca estamos preparados para jugar contra equipos muy fuertes, y pudimos pasar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso también se hace con trabajo y tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los jugadores se van adaptando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Racing, nos esforzamos por mantener el plantel.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Por eso digo que a veces se habla mucho, pero hay que ir al corazón del club, ahí está la realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Víctor, está claro que, como dijo Scaloni muchas veces, el fútbol se gana, pero luego se pasa página porque hay otras competencias.",
+      "entidades_detectadas": [
+        "Scaloni"
+      ]
+    },
+    {
+      "frase": "Está el torneo local y la continuidad o no de Gustavo Costas.",
+      "entidades_detectadas": [
+        "Está",
+        "Gustavo Costas"
+      ]
+    },
+    {
+      "frase": "Ya has hablado algo con el entrenador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasará con Gustavo el año que viene?",
+      "entidades_detectadas": [
+        "Gustavo"
+      ]
+    },
+    {
+      "frase": "¿Debería seguir?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De todas maneras, esto es muy reciente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No han pasado ni 48 horas desde que salimos campeones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La idea es tomarse un respiro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La semana que viene seguramente hablaremos con Gustavo.",
+      "entidades_detectadas": [
+        "Gustavo"
+      ]
+    },
+    {
+      "frase": "Pero ahora tenemos mucho por delante: el campeonato, nos faltan cuatro partidos, la posibilidad de ganar otra copa… y la verdad es que no queremos que ni Gustavo ni nosotros pongamos nada por delante de la competencia.",
+      "entidades_detectadas": [
+        "Gustavo"
+      ]
+    },
+    {
+      "frase": "Ojalá que nos vaya bien y podamos hacer un doblete, porque hay otra copa después del 21, contra Estudiantes.",
+      "entidades_detectadas": [
+        "Estudiantes"
+      ]
+    },
+    {
+      "frase": "Víctor, felicitaciones otra vez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le agradezco mucho la charla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Abrazos.",
+      "entidades_detectadas": [
+        "Abrazos"
+      ]
+    },
+    {
+      "frase": "Nos puso muy contentos el triunfo de Racing.",
+      "entidades_detectadas": [
+        "Racing"
+      ]
+    },
+    {
+      "frase": "Bueno, muchísimas gracias, Jorge.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Víctor Blanco, actual presidente de Racing Club… ¡y tiene que seguir!",
+      "entidades_detectadas": [
+        "Blanco",
+        "Racing Club"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Abrazos",
+    "Gustavo López",
+    "¿Qué",
+    "Gustavo Costas",
+    "Víctor Blanco",
+    "Gustavo",
+    "Scaloni",
+    "Víctor",
+    "Está",
+    "Racing?\n\n",
+    "Argentina",
+    "Bueno",
+    "Sociedades Anónimas Deportivas",
+    "Racing",
+    "Racing?",
+    "¿",
+    "Quinteros",
+    "Estudiantes",
+    "Jorge",
+    "Racing Club",
+    "Lógicamente",
+    "Así",
+    "Aparte de Racing",
+    "Costas"
+  ]
+}

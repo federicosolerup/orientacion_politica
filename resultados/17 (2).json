@@ -1,0 +1,560 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Voy con Gabriel Sambrizzi y Antolín Angosto.",
+      "entidades_detectadas": [
+        "Gabriel Sambrizzi",
+        "Antolín Angosto"
+      ]
+    },
+    {
+      "frase": "Bueno, Jorge, tomamos contacto porque tenemos la posibilidad de hablar con el diputado Carlos Zapata, representante de Salta, del bloque \"Libertad Avanza\".",
+      "entidades_detectadas": [
+        "Bueno",
+        "Carlos Zapata",
+        "Salta",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Como estamos entrando a sesión, te pondré en comunicación con él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:** Diputado Zapata, un saludo.",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Buenos días, señor.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Muchas gracias por atendernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Diputado Zapata:** Buenos días.",
+      "entidades_detectadas": [
+        "Buenos",
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Gracias a ustedes por la nota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:** Arranquemos.",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "Arranquemos"
+      ]
+    },
+    {
+      "frase": "Tenemos material sobre la visita a los genocidas en Ezeiza.",
+      "entidades_detectadas": [
+        "Ezeiza"
+      ]
+    },
+    {
+      "frase": "Usted aparece en un grupo de WhatsApp, un grupo de reunión.",
+      "entidades_detectadas": [
+        "WhatsApp"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** ¿Aparezco haciendo qué?",
+      "entidades_detectadas": [
+        "¿",
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:** Intercambiando mensajes con el grupo.",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "Intercambiando"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** Eso es falso.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Jamás intercambié mensajes en ese grupo.",
+      "entidades_detectadas": [
+        "Jamás"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:** Lo tengo aquí.",
+      "entidades_detectadas": [
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "Lo mostraremos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Diputado Zapata, ¿tenía un avión en su foto de perfil?",
+      "entidades_detectadas": [
+        "Zapata",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** Sí, tengo un avión en mi foto.",
+      "entidades_detectadas": [
+        "Sí",
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:** Hay diálogos que mostraremos.",
+      "entidades_detectadas": [
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "¿Lo invitaron a esa reunión?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Diputado Zapata:** No me invitaron y no asistí.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:** ¿Cuándo lo invitaron?",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "¿Cuándo"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** Recibo muchas llamadas e invitaciones a grupos.",
+      "entidades_detectadas": [
+        "Recibo",
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Participar depende de mi voluntad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No participé activamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, las reuniones nocturnas no me suelen funcionar; prefiero las reuniones en mi oficina durante el día.",
+      "entidades_detectadas": [
+        "día",
+        "Además"
+      ]
+    },
+    {
+      "frase": "Ustedes tienen confirmada mi presencia el jueves 14 de marzo a las 19:30.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:** Tenemos esa información.",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "Tenemos"
+      ]
+    },
+    {
+      "frase": "¿Tenemos alguna prueba de su presencia real, alguna foto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Diputado Zapata:** No hay foto, por eso aclaramos que no estuve en Ezeiza.",
+      "entidades_detectadas": [
+        "Ezeiza",
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Pero sí, me invitaron a una reunión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:** ¿A cuál?",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "¿A"
+      ]
+    },
+    {
+      "frase": "¿Sabía para qué lo invitaban?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Diputado Zapata:** No lo tenía muy claro.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Era para hablar de la situación, pero no se realizó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No fui, porque de noche no voy a ningún lado.",
+      "entidades_detectadas": [
+        "ningún"
+      ]
+    },
+    {
+      "frase": "Las reuniones sobre proyectos las priorizo en mi oficina o en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Asistiría a reuniones con productores, eventos organizados y con personería jurídica.",
+      "entidades_detectadas": [
+        "Asistiría"
+      ]
+    },
+    {
+      "frase": "Respeto el reclamo de la gente, pero no participé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:** ¿Qué opina del proyecto de sus colegas sobre la liberación de los genocidas?",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "¿Qué"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** No he visto ningún proyecto.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Me agregan a 50 grupos; no leo todos los chats, solo los dirigidos a mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No conozco ningún texto de ningún proyecto, ni se me ha pedido intervención.",
+      "entidades_detectadas": [
+        "ningún proyecto"
+      ]
+    },
+    {
+      "frase": "No hice ninguna propuesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No fui a ninguna reunión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me hace mala persona que me agreguen a un grupo y no salga por educación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Revisaré los chats cuando tenga tiempo.",
+      "entidades_detectadas": [
+        "Revisaré"
+      ]
+    },
+    {
+      "frase": "Ratificó: no fui a Ezeiza, no participé en la redacción de ningún proyecto.",
+      "entidades_detectadas": [
+        "ningún proyecto",
+        "Ezeiza",
+        "Ratificó"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:**  Este no es un grupo de difusión, sino un grupo de trabajo.",
+      "entidades_detectadas": [
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "Usted fue agregado a este grupo de trabajo, ¿interactuó en él?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Tenemos los chats, parte de una causa judicial, una denuncia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Diputado Zapata:** No tengo problema.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Los chats están en una causa judicial, de una denuncia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:** Usted aparece mencionado en tres confirmaciones de reuniones (14 de marzo, 12 de abril).",
+      "entidades_detectadas": [
+        "Usted",
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "Alguien debió confirmar su asistencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Diputado Zapata:** Alguien puede haber dicho que iría en mi nombre, pero no fui.",
+      "entidades_detectadas": [
+        "Alguien",
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:**  ¿Cuál es su opinión sobre todo esto?",
+      "entidades_detectadas": [
+        "¿Cuál",
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** No me gusta revolver cuestiones de 50 años atrás.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Argentina necesita dar vuelta de página.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Dejará heridas, las más grandes en las víctimas del terrorismo, cuyos responsables reciben indemnizaciones millonarias y ocupan cargos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero Argentina no puede vivir del pasado.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Sucedieron hechos lamentables e irrefutables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La justicia actuó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Respeto la Constitución y la justicia.",
+      "entidades_detectadas": [
+        "Constitución"
+      ]
+    },
+    {
+      "frase": "Cada uno puede tener su pensamiento, pero no se puede censurar la libertad de expresión de un diputado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hay una causa, se resolverá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La visita de diputados a los responsables de delitos graves ocurre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, el presidente de la Nación visitó a Milagros Sala.",
+      "entidades_detectadas": [
+        "Nación visitó",
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:** ¿Compara a Milagros Sala con un genocida?",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "¿Compara",
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** Comparo delincuentes con delincuentes; ambos están condenados.",
+      "entidades_detectadas": [
+        "Diputado Zapata",
+        "Comparo"
+      ]
+    },
+    {
+      "frase": "Obviamente, no se pueden comparar los hechos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:** Encontramos algo interesante en el chat.",
+      "entidades_detectadas": [
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "El diputado Beltrán Benedit menciona una reunión del 13 de marzo, donde visitó a un preso con Victoria Villarroel, Alberto Acevedo y otros, incluyendo usted.",
+      "entidades_detectadas": [
+        "Beltrán Benedit",
+        "Victoria Villarroel",
+        "Alberto Acevedo"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:**  Eso es cierto.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Visitamos a Cabo Flores en 2023, quien estaba en huelga de hambre.",
+      "entidades_detectadas": [
+        "Cabo Flores"
+      ]
+    },
+    {
+      "frase": "Intercedimos y lo trasladaron al hospital militar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta situación se publicó en el diario de Salta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:**  Usted no se arrepiente de visitar a genocidas condenados.",
+      "entidades_detectadas": [
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** No se trata de arrepentimiento, sino de una situación desesperante.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "La persona, por más delitos que haya cometido, sigue siendo humana y tiene derechos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros queríamos que se le permitiera mejores condiciones de detención.",
+      "entidades_detectadas": [
+        "detención"
+      ]
+    },
+    {
+      "frase": "**Jorge Ría:**  ¿No está de acuerdo con liberar a los presos?",
+      "entidades_detectadas": [
+        "¿No",
+        "Jorge Ría"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** No he visto ningún proyecto de ley al respecto.",
+      "entidades_detectadas": [
+        "Diputado Zapata"
+      ]
+    },
+    {
+      "frase": "Si existe, tiene un trámite nacional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No interferiré en el trabajo de la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Ría:** ¿A lo mejor fue invitado al grupo pero no participó?",
+      "entidades_detectadas": [
+        "Jorge Ría",
+        "¿A"
+      ]
+    },
+    {
+      "frase": "**Diputado Zapata:** Estaba acostumbrado a las reuniones…\n\n**Jorge Ría:** Diputado, ya debo irme...",
+      "entidades_detectadas": [
+        "Diputado",
+        "Jorge Ría",
+        "Diputado Zapata",
+        "Estaba"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "día",
+    "Asistiría",
+    "Jamás",
+    "Arranquemos",
+    "¿Qué",
+    "Nación visitó",
+    "Ezeiza",
+    "ningún",
+    "Ratificó",
+    "Sucedieron",
+    "Victoria Villarroel",
+    "Alberto Acevedo",
+    "Buenos",
+    "Jorge Ría",
+    "¿No",
+    "Además",
+    "¿Cuándo",
+    "Estaba",
+    "Milagros Sala",
+    "Buenos días",
+    "¿Cuál",
+    "Argentina",
+    "¿A",
+    "Recibo",
+    "ningún proyecto",
+    "Alguien",
+    "Usted",
+    "Diputado Zapata",
+    "Salta",
+    "Revisaré",
+    "Visitamos",
+    "Ustedes",
+    "Bueno",
+    "Intercedimos",
+    "Cabo Flores",
+    "Antolín Angosto",
+    "Intercambiando",
+    "Comparo",
+    "Carlos Zapata",
+    "WhatsApp",
+    "¿",
+    "Obviamente",
+    "Jorge",
+    "Diputado",
+    "Sí",
+    "Gabriel Sambrizzi",
+    "¿Compara",
+    "Tenemos"
+  ]
+}

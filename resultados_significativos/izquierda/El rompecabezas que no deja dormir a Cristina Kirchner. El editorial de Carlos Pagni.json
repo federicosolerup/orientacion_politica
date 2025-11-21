@@ -1,0 +1,471 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 52,
+      "derecha": 39
+    },
+    "score_promedio": 0.448,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Usted lo puede ver en la web del diario *La Nación*, un excelente documental que registra este, que es un aspecto inocultable y, sin embargo, oculto de la crisis, que es el drama humano narrado en un documental que se llama \"Pampa Seca\".",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hablar con **Jorge Remes Lenicov** y le vamos a preguntar por este drama.",
+      "score": 0.363,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue candidato a presidente dos veces en Colombia, alcalde de Medellín donde hizo una revolución.",
+      "score": 0.563,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto vuelve crucial para la política argentina, para la vida del gobierno, la negociación con el Fondo Monetario Internacional.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Frente de Todos, la interna del Frente de Todos, la perspectiva electoral y la perspectiva gubernamental, la gestión del Frente de Todos depende hoy de dos mujeres, de **Cristina Fernández de Kirchner** obviamente, después vamos a hablar de ella y de las cosas que tiene en su cabeza y del dilema en el que está metida, y **Kristalina Georgieva** que está también en otro dilema.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si colapsa en serio la economía argentina por falta de dólares, es decir, si el Fondo no le tira un salvavidas a la Argentina, en esta crisis también queda atrapado el Fondo.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, si se lo tira, hay que ver para qué se lo tira, con qué condiciones y sobre eso hay todo un debate hoy dentro del Fondo Monetario Internacional.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y algo que Georgieva está dispuesta a conceder, pero claro, ella no manda como una reina dentro del Fondo, tiene que conciliar sus posiciones con el directorio que está compuesto, le podemos preguntar también a Remes que le tocaron negociaciones durísimas en el año 2002 con el Fondo Monetario Internacional, está compuesto de muchos países, pero sobre todo de tres países que son decisivos, Estados Unidos, Alemania y Japón, o mejor dicho, Estados Unidos, Japón, que es el segundo accionista, y Alemania, y no hay una posición unánime hasta ahora.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los dólares que necesita el Fondo que le devuelva a la Argentina, es decir, hacer un desembolso adelantado de lo que tendría que desembolsar desde aquí a fin de año, son 10.000 millones de dólares, que es la plata que necesita el Fondo darle a la Argentina para que la Argentina no entre en *default* con el Fondo, es decir, un mero asiento contable que lo dejaría el gobierno centralmente a masa sin ninguna posibilidad de intervenir en el mercado de cambios o demostrarle al mercado de cambios que tiene más espalda que esos 6.000 millones de dólares de reservas brutas.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces se está discutiendo si además de esos 10.000 millones de dólares se le dan 4.000 millones de dólares más a la Argentina.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, dentro del programa vigente, eso está prohibido, es decir, el programa en el que está la Argentina con el Fondo no admite una adición de dólares más allá que estos 10.000 millones de dólares de acá hasta fin de año, que son los que la Argentina le debe devolver al Fondo.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto hay que hacer una especie de triquiñuela que consistiría en lo siguiente, imaginar que a partir del próximo gobierno, a partir del año que viene la Argentina entre en otro programa, eso es bastante verosímil, es obvio que la Argentina va a tener que renegociar su programa con el Fondo, entre otras cosas por efecto de la sequía, imaginar que ese programa tiene más dólares de los que tiene este programa para desembolsar en la Argentina y tomarle prestado a ese programa hipotético 4.000 millones de dólares que serían aplicados a este año.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que este gobierno se estaría financiando con fondos del próximo gobierno y que el Fondo Monetario Internacional lo admite.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paralelamente, la Argentina está buscando incrementar las reservas que pueden venir del *swap* con China, utilizando más yuanes en las operaciones de comercio exterior de los que se utilizan ahora.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otra parte, hay muchas de las empresas que le venden a la Argentina que quieren cobrar en dólares.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos yuanes de este *swap* con China hay un momento con fecha que hay que devolverlos.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un dato que no siempre se comenta, para que haya una aprobación de una ampliación del *swap* de monedas con China, China requiere que esté cerrado el acuerdo con el Fondo.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, también depende de las negociaciones de Georgieva, sobre todo con Japón y Alemania, para conseguir que le aprueben estos 4.000 millones de dólares adicionales.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lula lo devolvió con cariño.",
+      "score": 0.319,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, Lula estuvo este fin de semana en Hiroshima para la reunión del G7.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicho sea de paso, le fue bastante mal en su relación con **Zelensky**.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cumbre del G7 fue una cumbre, como no podía ser de otra manera organizada por Japón en Japón, que tiene dos hipótesis de conflicto principales, una con China y otra con Rusia, fue una cumbre a favor de Ucrania y de Zelensky que se hizo presente.",
+      "score": 0.603,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lula no lo atendió.",
+      "score": 0.53,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lula fue identificado con Rusia como mediador, como él pretende ser, en un acuerdo de paz.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esas conversaciones que mantuvo Lula con distintos actores de la política internacional que estaban en Hiroshima, habló con Yorida, habló con Biden y ahora se comprometió a enviar a su ministro de Hacienda a China, **Fernando Haddad**, también para hablar a favor de la Argentina y conseguir que la Argentina tenga algún alivio.",
+      "score": 0.172,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, la única opción que le queda al gobierno es una opción desagradable, políticamente insoportable, que es, para evitar una devaluación, es decir, que salte la térmica y se descontrole la política de cambios, estrangular las importaciones.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es todo un tema la relación entre el gobierno y la AFA, pero sobre todo la relación entre Massa y la AFA, que ha dado muchísimo que hablar, inclusive hasta en los temas de ventas de entradas para grandes partidos.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner va a ser la figura central del acto del 25 de mayo.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No habla en la plaza de Mayo como única oradora desde el 9 de diciembre de 2015, que fue aquel acto en la víspera de su abandono del gobierno, cuando le dejó el gobierno, pero no le transmitió el bastón a Macri.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, el que esté esperando que bendiga un candidato ese día, como lo bendijo Alberto Fernández el 18 de mayo de 2019 a través de un tuit, daría la impresión de que no va a suceder eso.",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo interesante es que Alberto Fernández invitó a través de un tuit a ese acto al que él no está invitado.",
+      "score": 0.667,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, los que van invitados por Alberto lo van a buscar y él no va a estar.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ofendió bastante a Cristina porque dijo, vamos a recordar, él como titular del kirchnerismo, digamos, del kirchnerismo de Néstor, que es ahí donde él se autopersigue, vamos a recordar los 20 años de la llegada de Néstor al poder y ahí hemos invitado a su compañera de la vida para que hable.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, ella habla, según la lógica del presidente, en ese acto al que él no fue invitado, en calidad de viuda de Néstor Kirchner, no de jefa del partido o del movimiento o de la coalición a la que pertenece el mismo Alberto.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imagínense cómo cae esto en la presidencia del Senado o en el Instituto Patria que son las herederas de Cristina Fernández de Kirchner.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo parecido a cuando Macri dijo no voy a ser candidato.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, quedó en un costado de la escena de Juntos por el Cambio, lo que no quiere decir que Macri no esté operando todos los días en esa escena.",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ella le podría pasar lo mismo.",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Armando el Jenga del PJ, del Frente de Todos, con el riesgo de que se le caiga la estructura de toda la torre.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pareciera que a 20 años de la llegada del kirchnerismo al poder le toca ahora hacerse cargo del derrumbe de una estructura económica que armó el propio kirchnerismo, sobre la base de una gran fiesta de consumo que generó niveles de inflación intolerables y de una construcción de un Estado elefantiásico que ahora es muy difícil ajustar.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le está tocando a la propia Cristina, 20 años después, asistir al derrumbe de esa arquitectura armada entre los años 2004, 2005, 2006, 2007 y en adelante.",
+      "score": 0.493,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, Cristina Fernández de Kirchner pretende una centralidad que la obliga a llevar al peronismo a la victoria o por lo menos evitar una catástrofe, que sería, por ejemplo, salir tercero.",
+      "score": 0.36,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ya empieza a descongelarse el discurso dentro del propio kirchnerismo respecto de la conducción de Cristina Fernández de Kirchner.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De Vido sí, a diferencia de Alberto Fernández, tiene pergaminos como para que nadie le discuta su rol de compañero y si uno quiere intérprete de Néstor Kirchner.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y De Vido dice algo lapidario en esa entrevista, dice el principal error de Néstor Kirchner fue haber dejado a Cristina al frente del poder.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque esto que vemos ahora, dice De Vido, que es el gobierno de Cristina y Alberto, ya lo vimos.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De Vido dice, ya hubo un gobierno de Cristina y Alberto que los tuvo que rescatar Néstor y fue el gobierno de Cristina y Alberto en los primeros meses del año 2008, cuando Cristina asume el poder.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí, en esa escena, el conflicto con el campo, él dice Cristina y Alberto lo relegaron a Néstor, lo trajeron a Luis Luján, emitieron la Resolución 125 y produjeron un desastre que nos llevó, según De Vido, a la derrota del 2009.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esta es la gente que está gobernando hoy, esta es la tesis de De Vido desde su rol de amigo de Néstor Kirchner desplazado por Cristina.",
+      "score": 0.523,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que recordar que De Vido estuvo preso y Cristina no lo fue a visitar siquiera una oportunidad, ni se sabe tampoco de ninguna carta que le haya enviado como para sostenerlo.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí aparece el dilema de las candidaturas, la idea de que habrá que armar alguna ingeniería que le permita al Frente de Todos conservar algo de poder previendo una derrota a nivel nacional.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner todavía no se pronunció, como decíamos, sobre quién es el candidato que ella prefiere y al que ella pretende bendecir, pero en su entrevista con Duggan la semana pasada dijo algo que mucha gente que la interpreta con una lupa, mirando cada letra que sale de sus declaraciones, tiende a alguien.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos resuelto por unanimidad acompañarlo, y queremos que Wado de Pedro sea el futuro presidente de los argentinos.",
+      "score": 0.158,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que mirar los tuits, por ejemplo, de **Alicia Castro** o las declaraciones del abogado **José Manuel Ubeira**, nada menos que abogado de Cristina Fernández de Kirchner, despotricando contra esta convergencia con Barrionuevo.",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A quien Cristina Fernández de Kirchner quiso, y no lo logró por un voto que le faltaron, en su momento expulsar del Senado cuando era senador.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, la misma Cristina nos da la respuesta de por qué esto puede pasar.",
+      "score": 0.482,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El otro hecho importante de los últimos días se produjo hoy, y es esta otra foto, que es una reunión de intendentes del conurbano bonaerense, primera y tercera sección electoral, con Máximo Kirchner, presidente del PJ, y Wado de Pedro en el centro del grupo.",
+      "score": 0.254,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que mirar cómo Massa no pisa Tigre.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno mira esto, dice, bueno, ya es el candidato de Cristina de Pedro.",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La otra pregunta que hay que hacerse no es por la presencia de Zamora, sino dónde está Kicillof en la foto.",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay quienes especulan con que Cristina está en un método, ensayo o error, mirando cómo retiene mejor la Provincia de Buenos Aires.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra pregunta para Remes, que ha estado en esa maquinaria buena parte de su vida.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Con un gran candidato a gobernador o con un gran candidato a presidente destinado a los bonaerenses?",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí es donde se plantean alternativas, después las va a analizar Daniel Bilotta, de si no conviene más llevar a Kicillof como candidato a presidente, que retiene todos los votos de Cristina, y a de Pedro como candidato a gobernador.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy por hoy, 22 de mayo, la hipótesis más probable es que Wado de Pedro sea el candidato a presidente bendecido por Cristina.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué pasa si Massa da un portazo?",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ya terminó el proyecto Massa candidato a presidente?",
+      "score": 0.307,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, por algo que retuiteó en su momento Malena Galmarini cuando suscribió una afirmación que era la siguiente, Massa se queda hasta el final porque el final llega el día que Massa se va.",
+      "score": 0.625,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En alguna medida, la dificultad que tiene Cristina Fernández de Kirchner para blanquear una candidatura de Pedro o de Kicillof es ¿qué hacemos con Massa?",
+      "score": 0.429,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál va a ser el tratamiento terapéutico que le vamos a dar a Massa para contenerlo?",
+      "score": 0.278,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El PJ, en esta situación, el PJ, al que Cristina homenajeó con un pésimo gobierno como el gobierno de Alberto Fernández, por la sequía, por la pandemia, por la guerra, como dice Fernández, o por Fernández.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿El PJ le sigue dando crédito a Cristina Fernández de Kirchner como para que el candidato a presidente y el candidato a gobernador de la principal provincia sean de la Cámpora?",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viene tejiendo relaciones con los gobernadores y, entre las especulaciones, se menciona la posibilidad de una fórmula entre de Pedro y **Claudia Ledesma**, la presidenta provisional del Senado, está ahí al lado de Cristina todo el tiempo, esposa del gobernador de Santiago del Estero, **Gerardo Zamora**.",
+      "score": 0.269,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segundo candidato más votado, uno de los dos de Juntos por el Cambio, Larreta o Bullrich.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tercero, Bullrich o Larreta.",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el candidato del peronismo que sale cuarto, ¿cómo se le explica a la gente que esto es una presentación de ficción?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Maquiavelo decía que la política se basa, o el éxito político se basa, en dos condiciones.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy el gran problema del kirchnerismo es la rigidez conceptual de Cristina Fernández de Kirchner para entender los cambios de la economía y también de la vida social.",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si usted quiere entender algo de esto, le recomiendo que lea una entrevista.",
+      "score": 0.324,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La entrevista que le hizo en *La Nación*, en *La Repregunta*, *La Nación* del Domingo, **Luciana Vázquez** al antropólogo **Pablo Semán**.",
+      "score": 0.833,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la sociedad hay una reacción al Estado entendido como mímica.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un Estado que hace la mímica de resolver los problemas pero no los resuelve.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la gente le sacó la ficha, lo desenmascaró.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un estatismo con un Estado quebrado.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él estuvo al frente del Estado en temas muy complicados como administración de zonas urbanas muy complejas, pobreza, delincuencia, inseguridad, narco.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué capacidad tiene el Estado para cumplir con lo que promete?",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Semán dice el Estado hace una mímica y todos sabemos que es una mímica y la gente se dio cuenta.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La segunda afirmación importante de esa entrevista que le realizó Luciana Vázquez.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos problemas, a ver si Cristina los puede resolver con el rompecabezas, con el *Jenga* que está armando.",
+      "score": 0.416,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tanto en el PJ como en Juntos por el Cambio.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Nació la Argentina en la Revolución de Mayo o hay que esperar mucho más para que nazca la Argentina?",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 91
+  },
+  "etiqueta_original": "neutral"
+}

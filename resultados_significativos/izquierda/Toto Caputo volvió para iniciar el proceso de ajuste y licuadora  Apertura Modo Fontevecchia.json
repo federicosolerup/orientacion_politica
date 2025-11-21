@@ -1,0 +1,356 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 61,
+      "derecha": 7
+    },
+    "score_promedio": 0.178,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Después de ser removido de la gestión económica de Mauricio Macri tras la devaluación que se produjo en 2018, Luis Caputo volvió a la calle Hipólito Yrigoyen 250, donde funciona el Ministerio de Economía, para comandar las riendas económicas.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macrista en algún momento, y líder de la gestión de Hacienda del gobierno de Javier Milei, el economista se muestra como un superministro que no descansará hasta alcanzar su objetivo de tener déficit cero.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luis Caputo es uno de los funcionarios centrales del Gobierno de Milei.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compartimos un segmento de una declaración de Caputo defendiendo esta medida que genera controversias:\n\n\"Luis Caputo: No vamos a homologar paritarias por encima de la inflación.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entrevistador: El Estado no se debería meter en sueldo.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Las prepagas le están declarando la guerra a la clase media.",
+      "score": 0.81,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros, desde el gobierno, vamos a hacer todo lo que esté a nuestro alcance para defender a la clase media.\"\n\nA pesar de este tipo de medidas, Milei le tiene una alta estima y no pierde la oportunidad de elogiarlo en público.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compartimos un fragmento de cuando Caputo anuncia la devaluación de diciembre del año pasado.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comenzamos con Caputo, el 12 de diciembre, dos días después de haber asumido la presidencia Javier Milei.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno le preguntara a la mayoría de los argentinos cuál es el mayor problema, si la deuda, la inflación, el dólar o el déficit fiscal, siempre la mayoría respondería que más del 95% de las respuestas se concentran en la deuda, la inflación y el dólar.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veamos quién es este \"Messi\" de las finanzas, como lo definía Marcos Peña, jefe de Gabinete de Mauricio Macri en su momento, y que hoy aparece como el \"capo\" del gobierno de Javier Milei.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luis Caputo realizó sus estudios en el Colegio La Salle.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es primo hermano de Nicolás Caputo, empresario de la construcción cercano a Mauricio Macri, y tío de Santiago Caputo, el estratega de campaña de Javier Milei.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se desempeñó como jefe de trading para América Latina del JP Morgan entre 1994 y 1998, y de Europa del Este y América Latina en el Deutsche Bank entre 1998 y 2003.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo manejó un fondo de inversión llamado Alto Global Fund, inscrito en las Islas Caimán, uno de los paraísos fiscales más secretos del mundo.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, fue administrador de una gerenciadora de fondos de inversión en Miami y en Delaware, un estado norteamericano que podría considerarse también un paraíso fiscal.",
+      "score": 0.659,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Respecto a la controversia por su titularidad de cuentas offshore no declaradas, tuvo una defensa unánime por parte de Cambiemos en el Congreso y del propio presidente Macri.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese contexto, Caputo fue defendido por el PRO y Cambiemos.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de 2018, y Marcos Peña dijo:\n\n\"Toto Caputo es un orgullo para este país.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toto Caputo es de las 10 o 15 personas más talentosas que existen en el mundo en el tema de finanzas.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una persona honesta, es una persona íntegra, que le discuten una cosa previa a su paso por la función pública.",
+      "score": 0.399,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de esta denuncia, Caputo declaró: \"Nunca fui propietario ni accionista de Noctua, ni de Princes, sino asesor, administrador, fiduciario y/o manager.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, en 2018, el periodista Marcelo Bonelli denunció que la titular de la Oficina Anticorrupción y exlegisladora del PRO, Laura Alonso, prometió al presidente Macri cerrar la investigación contra Luis Caputo por haber ocultado en sus declaraciones juradas que tenía acciones de dos compañías offshore en las Islas Caimán, y que era dueño de una gerenciadora de fondos de inversión en Miami.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El titular de la Inspección General de Justicia, Ricardo Nissen, denunció una nueva sociedad, llamada \"Baul\", entre comillas, que sería utilizada por Caputo para esconder la fortuna familiar.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rosana es la hermana que le había pagado 13 millones de pesos a Jonathan Morel, líder de la Revolución Federal, para fabricar los muebles de aquellos muebles, lo que fue considerado algo sospechoso.",
+      "score": 0.395,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En febrero de este año, los funcionarios del gobierno mostraron sus patrimonios, pero el ministro Caputo no cargó sus datos.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En relación a su paso por el gobierno de Macri, Caputo fue primero secretario y luego ministro de Finanzas, y luego presidente del Banco Central.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo fue uno de los artífices del acuerdo con los llamados \"fondos buitre\", y según el diario británico Financial Times, para pagar poco más de 9.000 millones de dólares de la deuda a esos fondos de inversión, Argentina emitió la mayor suma de deuda para cualquier nación en desarrollo desde 1996.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El expresidente negó conocer a Singer y manifestó no saber si recibió ese dinero del administrador de fondos de inversión y creador del fondo de cobertura Elliott Management.",
+      "score": 0.172,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, fue creador de varios bonos de deuda argentina que, sumados a las letras del Banco Central y a la suba de las tasas de interés por encima del 60%, generaron un nivel de endeudamiento y corrida cambiaria que terminó con la vuelta de Argentina al Fondo Monetario Internacional.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto provocó que los fondos frescos otorgados por el fondo simplemente se utilizaran para que los holdouts cambiaran sus letras de pesos a dólares y se los llevaran del país, una deuda al servicio de la fuga de capitales, algo que hasta el propio Macri terminó admitiendo.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compartimos ahora un fragmento del propio Caputo defendiendo el acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es del 11 de mayo, cuando se estaba constituyendo y era presidente del Banco Central, en 2018.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recurrir al Fondo primero, es importante aclarar que siempre estuvimos con el Fondo, siempre fuimos socios, siempre fuimos pagando nuestra cuota.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también es cierto que no es muy común en Argentina hacer cosas preventivas.",
+      "score": 0.403,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina estamos reaccionando a las circunstancias.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Justamente lo que tenemos que lograr a través de esto y lo que estamos logrando es tenemos que llevarle tranquilidad, certidumbre a la gente, certidumbre a los empresarios, certidumbre a los mercados.\"\n\nEs interesante porque el propio Fondo Monetario Internacional criticó la gestión de Caputo en el Central.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es conocido como un secreto a voces que fue la intervención del Fondo Monetario Internacional la que generó que terminara siendo removido de la presidencia del Banco Central.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compartimos un fragmento de una entrevista a Alejandro Werner, que era el director del hemisferio occidental, a cargo de Argentina, en el Fondo Monetario Internacional.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Alejandro Werner: Luis Caputo dificultó mucho la implementación del programa que se había negociado con Macri.",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era el presidente del Banco Central.",
+      "score": 0.304,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento, y obviamente es mi opinión, creo que jugó un rol que dificultó mucho la implementación del programa que se había negociado con el gobierno del presidente Macri.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que había de parte de él una visión muy desordenada de cómo implementar la política monetaria y cambiaria, con la que nosotros no coincidíamos, pero también él no podía exponer la lógica y la consistencia en el tiempo de esa política.\"\n\nMilei también lo había criticado.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 2018, Javier Milei dijo que Caputo se \"fumó\" más de 15.000 millones de dólares de la manera más tonta que hay.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Te recuerdo que, por ejemplo, Caputo se vendió, se fumó, más de 15.000 millones de dólares con eso.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, le subieron los encajes de los bancos y, contra los encajes que tenían para el plazo fijo, le pusieron estos instrumentos que se llaman LELIQs.",
+      "score": 0.44,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra de las caracterizaciones que se hacen sobre el ministro Caputo es que tiene poco carácter para la abnegación en la función pública.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, fueron declaraciones de quien en ese momento presidía el Senado, Miguel Ángel Pichetto, diciendo que Caputo se fue con un ataque de pánico.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente del Banco Central se fue con ataque de pánico.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo digo en sentido metafórico, pero la verdad, si uno analiza las conductas del presidente del Banco Central, el señor Caputo, es lamentable.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente estaba negociando un acuerdo con el Fondo en Washington y este señor renunció desde Buenos Aires.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas declaraciones de Pichetto se recuerdan mucho cuando Caputo pidió terminar con la sesión del Congreso que los diputados de la oposición habían pedido especialmente para poder hacerle preguntas.",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El ministro de Economía está llevando adelante una política de ajuste brutal que consiste en aumentar impuestos, por eso apenas asumió, aumentó brutalmente el impuesto país, congelar el gasto, por eso reprogramó el presupuesto de 2023 para 2024, lo que le asegura ahorrarse aproximadamente 35.000 millones de dólares en un año, y cortó todas las transferencias que son legales, las transferencias no automáticas a las provincias, esas no son transferencias discrecionales, son legales y el gobierno nacional, por iniciativa de Toto Caputo, las cortó.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay déficit cero cuando la nación, especialmente el Estado Nacional, no paga lo que corresponde.\"\n\nAcabamos de escuchar el audio de \"Topo\" Rodríguez, director del estudio de Consenso Federal.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una que es los fuertes desequilibrios con los cuales se encontró la nueva gestión, y otro lo que ya sería el lanzamiento de un programa económico, medidas económicas, que le den su impronta a la gestión del gobierno actual.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque se podría haber demorado más, se podría haber hecho de una manera un poco más gradual.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que ahí ya fue un poco más la política y los tiempos políticos con los que cuenta el Gobierno Nacional y el Poder Ejecutivo sobre todo, o sea, el presidente Milei, para tratar de acomodar económicamente la gestión para que luego políticamente pueda haber una, en el 2025, ya hablando del 2025, pueda haber un muy buen resultado electoral.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta segunda faceta, que sería definir la gestión económica actual, yo creo que iría muy atada de la mano con el DNU y la ley de bases, que todavía no termina de acomodarse o no termina de asentarse.\"\n\nAhora escucharemos la opinión y el balance sobre estos 120 días de la economía de Caputo de Rodolfo Santángelo, socio de Carlos Melconian en la consultora de ambos, que hubiera sido el ministro de Economía de haber ganado Juntos por el Cambio, Patricia Bullrich.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Van cuatro meses, ahora empieza un segundo período de transición, ni fracasó ni tuvo éxito, administró la emergencia, ahora necesitamos que venga la desinflación, entendida como un dígito de inflación mensual, al principio más alto, después más bajo, por ahí abril con el aumento tan grande del gas, va a estar cerca de los dos dígitos, que cuando venga la desinflación, el salario real que sufrió mucho, empiece a recuperar parte de la pérdida que no va a ser toda.\"\n\nEscuchamos ahora las palabras y la misma evaluación del economista Mariano Fernández, quien compara las medidas de Caputo con la \"tablita\" de Martínez de Hoz, el ministro de los años 70 del comienzo de la dictadura.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El punto para mí saliente de la gestión de Caputo es que el plan tiene solamente una pata financiera y, dentro de esa pata financiera, el riel, el punto central, es el atraso cambiario, es decir, la pauta de devaluación del oficial de solamente el 2% mensual no constituye una herramienta estabilizadora de los precios de carácter permanente y tiene costos asociados a la apreciación de la moneda doméstica artificial.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar también que Mariano Fernández había sido muy cercano ideológicamente a Javier Milei.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"A ver, si analizamos la gestión Caputo desde la construcción de poder, claramente, en términos de efectividad, Caputo es el ministro con más poder en el gabinete.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, Pablo Moyano y luego el secretario general de ATE, Rodolfo Aguiar.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empezamos con la movilización y acto de la CGT el 24 de enero, a un mes y medio de haber asumido el nuevo gobierno.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, Pablo Moyano:\n\n\"Si el ministro de Economía lleva adelante estas medidas, los trabajadores lo van a llevar en andas para tirarle al Riachuelo.\"\n\nObviamente, es una declaración que no compartimos y censuramos, pero vamos a colocarla al aire.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente de Formosa, Insfrán, periodista, dijo que decía que al ministro de Economía, por las medidas que estaba formando, hay que llevarlo en andas.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mismo ministro de Economía, que fue socio del ATE que fugó 45 mil millones de dólares, que tendría que estar destinando por los inmorales con la exigación, lo dice el presidente que se va a donar las...",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo le digo a mis compañeros que si llevan esta medida de Colombia, saldrán de aburre, de destino, los trabajadores, los jubilados y los asumidos, los van a llevar en andas a salir, los van a partir a los Riachuelos para que salgan de aburre.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 68
+  },
+  "etiqueta_original": "neutral"
+}

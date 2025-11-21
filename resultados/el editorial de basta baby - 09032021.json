@@ -1,0 +1,813 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Siempre quise ser un showman.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo soy, lo sigo siendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acabó la época de los teatros llenos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llenábamos teatros con 1500, 2000 personas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora tengo estos tres… ¿No está el de Viña?",
+      "entidades_detectadas": [
+        "Viña"
+      ]
+    },
+    {
+      "frase": "¿Tres qué?",
+      "entidades_detectadas": [
+        "¿Tres"
+      ]
+    },
+    {
+      "frase": "¿Dónde está el de Viña?",
+      "entidades_detectadas": [
+        "Viña"
+      ]
+    },
+    {
+      "frase": "Hoy no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Viña y Viña.",
+      "entidades_detectadas": [
+        "Viña"
+      ]
+    },
+    {
+      "frase": "Yésica, Caro, Divina, ¿cómo están?",
+      "entidades_detectadas": [
+        "Divina",
+        "Caro"
+      ]
+    },
+    {
+      "frase": "Hola.",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "El Rosa Dior.",
+      "entidades_detectadas": [
+        "Rosa Dior"
+      ]
+    },
+    {
+      "frase": "Gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Rosa Dior, ¿sí?",
+      "entidades_detectadas": [
+        "Rosa Dior",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí, un chicle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, por él, sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Javi Díaz, hermano querido.",
+      "entidades_detectadas": [
+        "Javi Díaz"
+      ]
+    },
+    {
+      "frase": "Y esos, te felicito por los zapatos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Querido, de la película con Ginger Rogers.",
+      "entidades_detectadas": [
+        "Ginger Rogers"
+      ]
+    },
+    {
+      "frase": "No, no, son de Mocasín, provistos por el área visual y el canal.",
+      "entidades_detectadas": [
+        "Mocasín"
+      ]
+    },
+    {
+      "frase": "Estos son de la gente de Tabuzo.",
+      "entidades_detectadas": [
+        "Tabuzo"
+      ]
+    },
+    {
+      "frase": "La gente de Tabuzo, mira, este es su color.",
+      "entidades_detectadas": [
+        "Tabuzo"
+      ]
+    },
+    {
+      "frase": "¿De qué color?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tabuzo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿De dónde saca esos nombres?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mocasín, Mocasín.",
+      "entidades_detectadas": [
+        "Mocasín"
+      ]
+    },
+    {
+      "frase": "De acá, de la Portobelo.",
+      "entidades_detectadas": [
+        "Portobelo"
+      ]
+    },
+    {
+      "frase": "Bueno, ¿te cambiaste el calcetín que tenía la liga menos salida?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí, me puse uno nuevo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, le mando un abrazo a Oscar Álvarez y Maricha, ¿no?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿",
+        "Oscar Álvarez y Maricha"
+      ]
+    },
+    {
+      "frase": "Oscar Álvarez, ¡opa!, era mi amigo que empezó hace 40 años conmigo en la CPM.",
+      "entidades_detectadas": [
+        "empezó",
+        "Oscar Álvarez"
+      ]
+    },
+    {
+      "frase": "Después, un día le dije, Oscar, ¿seguimos?",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "No, me voy con Páginas Amarillas, ¿no, Javi?",
+      "entidades_detectadas": [
+        "Páginas Amarillas",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Siempre que lo veo, lo quiero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dice: \"¿Por qué no me habré ido con vos?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, Maricha está un poco enferma, pero se va a poner bien.",
+      "entidades_detectadas": [
+        "Maricha"
+      ]
+    },
+    {
+      "frase": "Así que, le mando un beso al matrimonio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mí me ha pegado, o sea, todo el día uno juntito al otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A nadie le importa, pero yo lo cuento igual porque los quiero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo que tirarle las orejas a la RETA.",
+      "entidades_detectadas": [
+        "RETA"
+      ]
+    },
+    {
+      "frase": "No es tiempo de Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Realmente, hoy la vacunación fue una porquería.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cinco cuadras de ancianos, todo mal organizado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente no me gustó para nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si yo trago esto, soy un cínico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si yo miro para otro lado con esto, soy un cínico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, me hace acordar a la Guerra de Malvinas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me hace acordar al fondo patriótico que se apropiaron de las vacunas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y me hace acordar a la improvisación de que no les llegaba la comida a los soldados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que no les llegaban las balas a los soldados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que no les llegaba… La verdad, que lo haga Alberto Fernández es normal.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Que lo haga Axel Kicillof es normal.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "Pero la RETA venía haciendo bien los números.",
+      "entidades_detectadas": [
+        "RETA"
+      ]
+    },
+    {
+      "frase": "Es que se hinchó la pelota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nunca más un jubilado esperando cinco cuadras de cola para vacunarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver, no le están dando un premio al fin de año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No le están dando un pan dulce y una sidra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le están dando la vida a esa gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy me dio mucha pena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y una cosa que no me gusta de la oposición, fue mi amiga, a la que apoyo y quiero, Patricia Bullrich, con el traje de presa.",
+      "entidades_detectadas": [
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "Pues, Pato, la verdad, le estás haciendo el juego a los tontos de Canal 13.",
+      "entidades_detectadas": [
+        "Pato",
+        "Canal 13"
+      ]
+    },
+    {
+      "frase": "Y se guardan la foto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuando sale Víctor Hugo Morales a pedir que Patricia Bullrich vaya presa, porque yo quería meter preso a todo el mundo menos a los propios… van a usar esa foto.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "Realmente, tenés que tener un asesor de imagen, que perfectamente, me ofrezco, ¡cabrío!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Máxima, la semana que viene, presenta su libro.",
+      "entidades_detectadas": [
+        "Máxima"
+      ]
+    },
+    {
+      "frase": "Y después va a salir a hablar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espero.",
+      "entidades_detectadas": [
+        "Espero"
+      ]
+    },
+    {
+      "frase": "Nos guste o no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El PRO necesita un líder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y creo que el líder natural, les guste o no, porque tampoco nos comamos el verso de los K, de que Macri es un gato, Macri es malo… Ellos son una porquería.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Realmente, ellos para tapar la macana que se mandaron, hicieron… Macri, no, no, no, no, no, no.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Disculpas.",
+      "entidades_detectadas": [
+        "Disculpas"
+      ]
+    },
+    {
+      "frase": "Y hoy me ponía a pensar, ¿se dieron cuenta ustedes que desde la mañana a la noche vivimos tratando de explicar la corrupción de los K?",
+      "entidades_detectadas": [
+        "¿",
+        "K"
+      ]
+    },
+    {
+      "frase": "¿Ustedes se dieron cuenta que no hay otra política en la Argentina más que la corrupción K?",
+      "entidades_detectadas": [
+        "Ustedes",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "¿Ustedes se dieron cuenta de que uno se levanta, agarra la medialuna, empieza a escuchar las atrocidades jurídicas de Cristina Kirchner, quiere cambiar los juicios de Cristina Kirchner, sacó a la señora Lozada… Cristina Kirchner?",
+      "entidades_detectadas": [
+        "Ustedes",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Es todo ello.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina Kirchner inauguró, Cristina Kirchner trajo dos millones más de vacunas.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Cristina Kirchner se está defendiendo como d’Artagnan, los espadazos de Numáncia, los que están con Cristina Kirchner salieron.",
+      "entidades_detectadas": [
+        "Numáncia",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Hoy estaba contento Alberto Fernández, movía la cola al son de Cristina Kirchner, porque a Lula da Silva le cambian el jurado, pero Lula da Silva no es inocente, le cambian el tribunal.",
+      "entidades_detectadas": [
+        "Lula da Silva",
+        "Cristina Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Pero están contentos, porque dicen: \"Mire, te das cuenta, te das cuenta que…\" Lawfare.",
+      "entidades_detectadas": [
+        "Lawfare"
+      ]
+    },
+    {
+      "frase": "Somos todos decentes, mirá lo que le pasó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, son todos corruptos igual, con la diferencia de que ustedes están esperando hacer del espejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lawfare.",
+      "entidades_detectadas": [
+        "Lawfare"
+      ]
+    },
+    {
+      "frase": "Lawfare.",
+      "entidades_detectadas": [
+        "Lawfare"
+      ]
+    },
+    {
+      "frase": "A mí no me importa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, pero Lawfare no existe.",
+      "entidades_detectadas": [
+        "Lawfare"
+      ]
+    },
+    {
+      "frase": "Porque hoy en Tecnópolis, los jueces que tuvieron que ir a examen, tenían como materia el invento de Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Kirchner",
+        "Tecnópolis",
+        "tenían"
+      ]
+    },
+    {
+      "frase": "Es como que yo diga \"sangarropo\", y cuando van a dar examen al ICER diga: \"Hable del sangarropo, que el cobabi son inventos de Cristina Kirchner para zafar de la justicia\".",
+      "entidades_detectadas": [
+        "cobabi",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "No existe la falsa denuncia acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No existe la falta de noticias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso lo dice Víctor Hugo Morales.",
+      "entidades_detectadas": [
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "Lo que es real son los ilícitos de Cristina Kirchner que están en tribunales.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Hoy es una caldera de arena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pésimo lo de la vacunación, lo de la cola del pelado de la RETA.",
+      "entidades_detectadas": [
+        "RETA",
+        "Pésimo"
+      ]
+    },
+    {
+      "frase": "Horrible lo que hizo Bullrich con la ropa de presos, con eso no se juega.",
+      "entidades_detectadas": [
+        "Bullrich"
+      ]
+    },
+    {
+      "frase": "Horrible que empiecen a ir a Formosa a hacer campaña política, porque los formoseños tienen un problema grande.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "No están en campaña, están presos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no hay que ir a hablar en un palco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ir con los derechos humanos, con las Naciones Unidas, con quien corresponda que lo libere.",
+      "entidades_detectadas": [
+        "Naciones Unidas"
+      ]
+    },
+    {
+      "frase": "Y en otro orden de cosas, no se preocupen tanto por Formosa.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "Porque yo… A ver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Preocúpense, por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo tengo una teoría.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema nacional del robo de las vacunas, que cada vez hay más, y nos robaron 80.000 vacunas, más o menos, en el gobierno de Alberto Fernández, que pagamos con nuestros impuestos, y que cada persona que se muere porque no fue vacunada porque uno de estos hijos de puta se vacunó, es nacional.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "El problema de Formosa es provincial.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "El problema de Formosa va a seguir porque si no es Gildo Insfrán, que es el primo, pero teniendo un 70% de empleados del Estado, se garantiza seguir ganando en las elecciones con el terror que tiene la gente.",
+      "entidades_detectadas": [
+        "Formosa",
+        "Estado",
+        "Gildo Insfrán"
+      ]
+    },
+    {
+      "frase": "No me cabe duda que Alberto Fernández y Gildo Insfrán están hablando para llevar las cámaras a Patricia Bullrich, a Guaidó, a todo el mundo para Formosa, y desviar el eje de la información de las vacunas a Formosa.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Alberto Fernández",
+        "Formosa",
+        "Gildo Insfrán",
+        "Guaidó"
+      ]
+    },
+    {
+      "frase": "O sea, el problema está en Formosa.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "¿Cómo lo arreglamos en Formosa?",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "En una semana de periodismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos olvidábamos, Gildo Insfrán pide disculpas, abre la frontera, la mierda Formosa.",
+      "entidades_detectadas": [
+        "Gildo Insfrán",
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "Y las vacunas, bueno, ya está, es un tema que era anterior a Formosa.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "No deformemos, hablando de Formosa, el latrocinio, el tema nacional más importante de la historia argentina, que fue el robo de las vacunas.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "No dejemos cambiar el eje de lo que es terrible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay dos cosas terribles: la culpabilidad de Cristina Kirchner, que quiere cambiar a los jueces para que digan que es inocente, y el achaque horrible, horrible en el gobierno de Alberto Fernández y de Cristina Kirchner, del robo de las vacunas.",
+      "entidades_detectadas": [
+        "Cristina Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Hay peor: la declaración de Alberto Fernández, que dijo: \"No, ese tema de la vacuna tuve que echar a un gran amigo, pero ¿qué carajo me importa quién es Ginés González García cuando se robaron las vacunas de la gente?\".",
+      "entidades_detectadas": [
+        "Ginés González García",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "A ver, lo único que le dolió a Alberto Fernández es que tuvo que echar al gordo a Ginés.",
+      "entidades_detectadas": [
+        "Ginés",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Y de pronto, cuánta gente ha muerto, cuánta gente ha muerto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuánta gente muere por no estar vacunada por culpa de ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por culpa suya, Alberto Fernández, usted es el presidente.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Por culpa de Cristina Kirchner, que es la vicepresidenta.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Por culpa de todos los corruptos que están en su gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, en cambio de dar la cara, van a Formosa.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "Parece que el malo es Gildo Insfrán.",
+      "entidades_detectadas": [
+        "Gildo Insfrán"
+      ]
+    },
+    {
+      "frase": "No, Gildo Insfrán es uno más de ustedes.",
+      "entidades_detectadas": [
+        "Gildo Insfrán"
+      ]
+    },
+    {
+      "frase": "¿Sabe quién es Gildo Insfrán, Alberto Fernández?",
+      "entidades_detectadas": [
+        "Gildo Insfrán",
+        "Sabe",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "El mejor gobernador que usted dijo: \"Este es el mejor gobernador\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y sabe el mafioso de Hugo Moyano quién es?",
+      "entidades_detectadas": [
+        "¿",
+        "Hugo Moyano"
+      ]
+    },
+    {
+      "frase": "El mejor sindicalista de la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Vos, Pablo Moyano, tenés que estar orgulloso de tu padre, que es el mejor sindicalista.",
+      "entidades_detectadas": [
+        "Vos",
+        "Pablo Moyano"
+      ]
+    },
+    {
+      "frase": "Esos son los códigos que tiene usted, Alberto Fernández, de moralidad.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Cada día tenemos un presidente que nos desilusiona más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un presidente que cada vez su palabra vale menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está degradada y anotada, por eso que una encuesta le da nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y como saben, que el tema de la vacuna, después de hacer perder los procesos de las elecciones, llevaron las cámaras a Formosa.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "Ojo al pie, ojo al pie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos olvidemos que de 80.000 vacunas hay 80.000 personas que perdieron la vida por culpa de estos miserables.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Maricha",
+    "Gracias",
+    "Realmente",
+    "Ojo",
+    "Alberto Fernández",
+    "Pablo Moyano",
+    "Esos",
+    "Víctor Hugo Morales",
+    "Somos",
+    "Divina",
+    "Hola",
+    "Oscar Álvarez y Maricha",
+    "Gildo Insfrán",
+    "Patricia Bullrich",
+    "Pato",
+    "Lula da Silva",
+    "¿Cómo",
+    "¿Sabe",
+    "Estado",
+    "Querido",
+    "Ginés",
+    "Cristina Kirchner",
+    "Vos",
+    "Tecnópolis",
+    "Numáncia",
+    "tenían",
+    "Guaidó",
+    "Ginés González García",
+    "Naciones Unidas",
+    "Pues",
+    "Acabó",
+    "Pésimo",
+    "Mocasín",
+    "K?",
+    "Espero",
+    "Cristina",
+    "Javi Díaz",
+    "Preocúpense",
+    "¿Tres",
+    "Ustedes",
+    "Bueno",
+    "Portobelo",
+    "Ginger Rogers",
+    "Yésica",
+    "Oscar Álvarez",
+    "Después",
+    "RETA",
+    "Axel Kicillof",
+    "Lawfare",
+    "Páginas Amarillas",
+    "Viña?",
+    "cobabi",
+    "Tabuzo",
+    "la Argentina",
+    "¿Dónde",
+    "Caro",
+    "¿",
+    "empezó",
+    "Viña",
+    "Me",
+    "Hugo Moyano",
+    "Formosa",
+    "Bullrich",
+    "Así",
+    "Máxima",
+    "Macri"
+  ]
+}

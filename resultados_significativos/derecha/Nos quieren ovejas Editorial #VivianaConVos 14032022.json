@@ -1,0 +1,46 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 4
+    },
+    "score_promedio": 0.699,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "A mí en Argentina sí me ocurren un montón de emergencias.",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Emergencia de no llegar a fin de mes, podría ser otra emergencia.",
+      "score": 0.417,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Emergencia narco podría ser otra.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no estoy de acuerdo con que exista un ministerio de la mujer cuando en Argentina seis de cada diez pibes no *morfan*.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo de andar sin corpiño yo lo puedo entender, poneme la placa que sigue, pero lo que no puedo soportar es que anden sin cerebro.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa historia que te voy a contar ahora pasó en Chile y refleja la doble moral de los hombres feministas.",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 6
+  },
+  "etiqueta_original": "neutral"
+}

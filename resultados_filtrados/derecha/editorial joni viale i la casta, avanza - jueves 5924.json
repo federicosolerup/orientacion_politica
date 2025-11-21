@@ -1,0 +1,61 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Estamos enviando al Congreso un paquete de leyes anticasta, del cual quiero compartir con ustedes algunos de sus componentes.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Que el presidente provisional del Senado, segundo en la línea de sucesión presidencial, es Bartolomé Abdala, y este señor, Abdala, tiene 20 asesores para hacer política, como él mismo confesó por culpa de Nico Viaschi.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Los 20 asesores de Abdala cuestan al Estado al menos 27 millones de pesos por mes.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "¿Qué pasa cuando ves que el presidente provisional del Senado tiene 20 asesores que usa, según él, para apuntalar su carrera como gobernador de San Juan?",
+      "entidades_detectadas": [
+        "presidente",
+        "senado"
+      ]
+    },
+    {
+      "frase": "Hoy el presidente parecía haber dado un mensajito en este sentido: no les podemos fallar.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Esto no puede pasar en la Argentina anticasta que usted prometió a Milei.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Y Milei prometió un país donde el ajuste lo pague la casta.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "En la dictadura de Milei y de Galperín, donde ellos pueden hacer negocios de manera, a ver, pornográfica, porque los tipos se están juntando, hacer un negocio entre el Estado y una empresa privada, en aras de la libertad de comercio, un parásito del Estado, como siempre fue Galperín, que vivió de exenciones impositivas, y como siempre fue Caputo, que es el dueño de Milgor, que es el beneficiario del régimen de Tierra del Fuego.",
+      "entidades_detectadas": [
+        "estado",
+        "milei"
+      ]
+    },
+    {
+      "frase": "No necesitamos todo el tiempo el Estado para todo, a pesar de que ustedes lo necesitan.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

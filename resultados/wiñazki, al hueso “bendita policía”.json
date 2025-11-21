@@ -1,0 +1,74 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El principal problema en la provincia de Buenos Aires, y en el país según diversas encuestas, es la inseguridad.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Paradójicamente, observamos que quienes deberían velar por nuestra seguridad, la Policía Bonaerense, declara estar desprotegida: sus miembros carecen de recursos básicos como alimentación, vivienda, acceso a la atención médica (incluida la prevención del COVID-19), y deben costear sus propios uniformes y municiones, además de necesitar atención psicológica.",
+      "entidades_detectadas": [
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Sus reclamos son, sin embargo, sensatos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien la Policía Bonaerense está estigmatizada por su pasado, marcada por la frase “maldita Bonaerense”, y por actos de corrupción y tropelías,  hoy en día, sus miembros son en su mayoría profesionales formados en democracia.",
+      "entidades_detectadas": [
+        "Bonaerense"
+      ]
+    },
+    {
+      "frase": "Irónicamente, esta situación, a pesar de su complejidad, podría indicar un avance: el hecho de que la policía esté manifestándose públicamente por mejores salarios y recursos básicos para trabajar, resulta, en cierto modo, tranquilizador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ser policía en Argentina implica bajos salarios, riesgo de muerte y falta de recursos incluso para protegerse de enfermedades.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "A pesar de ello, muchos continúan con su vocación, reclamando por mejores condiciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto me lleva a creer que, al menos estos oficiales que se manifiestan, son honestos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quien obtiene ingresos ilícitos difícilmente participaría en una movilización de esta naturaleza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Policía Bonaerense, creada por Bernardino Rivadavia, y que en algún momento contó con figuras como Juan Vucetich (inventor del sistema dactiloscópico), se ha transformado a lo largo del tiempo.",
+      "entidades_detectadas": [
+        "Bernardino Rivadavia",
+        "Juan Vucetich"
+      ]
+    },
+    {
+      "frase": "Ignoro cuándo y cómo ocurrió esta transformación.",
+      "entidades_detectadas": [
+        "Ignoro",
+        "ocurrió"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Argentina",
+    "Ignoro",
+    "Juan Vucetich",
+    "COVID-19",
+    "Bonaerense",
+    "Bernardino Rivadavia",
+    "provincia de Buenos Aires",
+    "ocurrió",
+    "Paradójicamente"
+  ]
+}

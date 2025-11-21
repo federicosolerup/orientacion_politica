@@ -1,0 +1,535 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¡Buenas!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Contra fuego!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se me cae la cucaracha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ¿cómo les va?",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Ustedes dirán: \"¿Por qué siempre estoy riéndome?\".",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "No lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero me pongo contento porque veo a mis compañeros, me hacen muy feliz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos dimos barro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted está del otro lado.",
+      "entidades_detectadas": [
+        "Usted"
+      ]
+    },
+    {
+      "frase": "Bueno, ¿de qué voy a hablar hoy?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ah, sí, era eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se siente que el público está presente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso estuve con el Ministro Trotta, y realmente no me gusta mentir, porque después viene el señor Domíngez a decirlo como un secreto.",
+      "entidades_detectadas": [
+        "Ministro Trotta",
+        "Domíngez"
+      ]
+    },
+    {
+      "frase": "Está acá al lado; me lo encontré en el pasillo.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "El tema es que estamos en equipos diferentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Banda\" suena muy a Cristina.",
+      "entidades_detectadas": [
+        "Banda",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Esto es provincia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiere decir que no respete mucho al Ministro.",
+      "entidades_detectadas": [
+        "Ministro"
+      ]
+    },
+    {
+      "frase": "Y me parece que está en el peor lugar en el peor momento, y a la gente que está en el peor lugar en el peor momento se la ataca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que decirle: \"Hermano, te resto mi apoyo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad, se lo dije sinceramente, porque si hay que criticarlo, se le critica, pero el hombre me da lástima porque lo ataca el kirchnerismo, lo atacan los de enfrente, lo atacan todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yendo a otra cosa, hoy empecé a hacer una cuenta de lo que nos pasa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juan, ¿me pongo pelo el año que viene?",
+      "entidades_detectadas": [
+        "¿",
+        "Juan"
+      ]
+    },
+    {
+      "frase": "¿Siguen contratando?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Parodi, si el año que viene me avisas cuánto tiempo… No me vas a poner el pelo, pero vas a ver un cambio que… ¿Te lo van a decir tus amigas en serio?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Lo ves de cerca?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, hermanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Callate, imbécil!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, parezco el Presidente.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "¡Callense, estúpidos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Torrante, morila.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, hice la cuenta hoy: si dentro de 20 años tenemos una epidemia de algún virus, se va a morir todo el mundo, porque no va a haber científicos para hacer la vacuna, ni médicos, ni enfermeros, nadie.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Habrá gente, pero no habrá gente especializada porque no hay educación.",
+      "entidades_detectadas": [
+        "Habrá"
+      ]
+    },
+    {
+      "frase": "Entonces me puse a hacer la cuenta hoy: ¿por qué le damos tan poca importancia a la educación?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, porque quienes manejan el país no son educados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en segundo lugar, y esto lo aclaro bien, no tiene que ver con si hay que ir o no a clases.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La educación pasa por otro lado, pasa por las prioridades que se le dan en todo momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora nos preocupamos por quince días sin clase.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Escuche bien usted, en su casa, con lo que sea!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos preocupamos por quince días sin clase, pero en el gobierno de Macri tuvimos casi dos años sin clases, porque el señor Baradel, que es el ministro de mala educación o el ministro de la incultura, lo hacía permanentemente, no paraba.",
+      "entidades_detectadas": [
+        "Macri",
+        "Baradel"
+      ]
+    },
+    {
+      "frase": "Y los vagos que lo acompañan… porque hay maestros maravillosos, pero hay atorrantes, vagos, que se ponen contentos y dicen: \"¡Vamos todavía!",
+      "entidades_detectadas": [
+        "Vamos"
+      ]
+    },
+    {
+      "frase": "Tres semanas sin clase, ¡qué suerte!\", \"¡Vamos Baradel, carajo!\".",
+      "entidades_detectadas": [
+        "Vamos Baradel"
+      ]
+    },
+    {
+      "frase": "Y nuestros chicos, mis nietos, sus hijos, no fueron a clase, se atrasaron en la educación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabe qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una papera de cuarenta días los atrasa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Escuche bien lo que le digo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy quería hablar de esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando yo era chico, el libro era esencial para estudiar; no había computadoras, por supuesto, ni se había inventado el virómetro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sabíamos quién era José Hernández, leíamos el Martín Fierro, Miguel de Cervantes Saavedra, el Quijote, la Juana de Arco… tantos nombres en aquella época, porque había que leer.",
+      "entidades_detectadas": [
+        "José Hernández",
+        "Miguel de Cervantes Saavedra",
+        "Juana de Arco"
+      ]
+    },
+    {
+      "frase": "Y el compendio bonaerense… ¡no había computadora!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me acuerdo que la librería del barrio traía el compendio, parecía que te traía el saber en la mano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si faltabas un día, tenías que tener una excusa y que tu padre firmara.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No existían los viajes a Bariloche, apenas el 21 de septiembre, en una bañadera a Palermo, todos golpeando con la mano para comer una pata flora que mandaba mamá.",
+      "entidades_detectadas": [
+        "Palermo",
+        "Bariloche"
+      ]
+    },
+    {
+      "frase": "No estoy aquí para hablar de esa época.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Digo que, siendo tan ingenuos, ahora los médicos que nos ayudan, los abogados, los jueces… el mismo equipo que tengo aquí, que son más jóvenes que yo, porque yo no viví eso.",
+      "entidades_detectadas": [
+        "Digo"
+      ]
+    },
+    {
+      "frase": "Y gracias a Baradel, el artífice de la incultura, protestamos cuando no hay clase, y no tomamos las vacaciones como vacaciones, porque no hay nada que hacer.",
+      "entidades_detectadas": [
+        "Baradel"
+      ]
+    },
+    {
+      "frase": "No hay vacaciones, o no las tomamos como hoy, que no hay sol, nos quedamos en casa, y los chicos se van atrasando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero yo pensé otra cosa, lo terrible: los chicos, al quedarse en casa, ¿qué consumen?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Televisión.",
+      "entidades_detectadas": [
+        "Televisión"
+      ]
+    },
+    {
+      "frase": "¿Qué te dice la televisión todo el día?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que los chorros, los presos, se van a vacunar antes que el abuelo; o sea, conviene ser chorro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que Cristina Kirchner salió sobreseída por seis millones de dólares.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "¡Mira vos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y papá no tiene para comer por la cuarentena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que todos los amigos de Cristina, de la \"banda\" de Cristina, salen impunes y no tienen que pagar fianza, pero papá tiene que pagar el gas, la luz, el teléfono.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "El chico ve cómo pasan los motochorros, y el juez dice: \"Entró por una puerta para salir por…\".",
+      "entidades_detectadas": [
+        "Entró"
+      ]
+    },
+    {
+      "frase": "El padre le dice: \"No estudies\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"¿Y qué voy a estudiar si no tengo clase, papá?\".",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "\"No importa, hay salidas, hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te desesperes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te voy a comprar una réplica que venden en la armería, y podés salir a robar\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Y si me matan, papá?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Le hacemos juicio al policía, y cobrás quince años como el hermano de Maldonado, hijo\".",
+      "entidades_detectadas": [
+        "Maldonado"
+      ]
+    },
+    {
+      "frase": "O sea, todo es un negocio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, si no estudias y sos un inútil, el gobierno te va a premiar y te va a dar planes.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "¿Para qué necesitas trabajar?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "El trabajo es para los ingenuos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El trabajo es para los que estudiaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El trabajo es para los que se rompen el culo a las seis de la mañana para salir a buscar el dinero para pagar el setenta por ciento de lo que ganaron a los vagos sinvergüenzas que están haciendo la polenta en la plaza, que no son pobres, son sinvergüenzas, manejados por Graiver o por los servicios de inteligencia, como Esteche, mandados en la época de Alfonsín, mandados en la época de Menem, al servicio del gobierno de turno, haciendo los desastres que el gobierno les pide.",
+      "entidades_detectadas": [
+        "Esteche",
+        "Graiver",
+        "Alfonsín",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Por eso, hijo, hay muchas salidas laborales que no necesariamente tienen que ver con levantarte a las ocho de la mañana, que papá te peine, mamá te ponga el guardapolvo…  Eso es antiguo, hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Agarra una pelota y sácasela al pibe que está jugando ahí enfrente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si te gusta la pelota, es tuya.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Anda a buscar la que es tuya.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te pertenece.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque cambió el mundo, hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No el mundo, cambió la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "\"Pero, papá, ¿vos me estás diciendo que tengo que ser un delincuente?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Y si no sos un delincuente, sos del otro bando: de los que pagan impuestos, de los ingenuos, de los que Alberto Fernández vacuna como a gorilas.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Mejor dicho, ni los vacuna porque además se robaron las vacunas, hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si querés vacunarte, andá y robá una.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hacéte de La Cámpora.",
+      "entidades_detectadas": [
+        "Hacéte de La Cámpora"
+      ]
+    },
+    {
+      "frase": "¿Qué problema tenés?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Pero, papá, ¿nadie me dice nada?\".",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí, te van a felicitar y te van a premiar como premian a todos los delincuentes de La Cámpora que se robaron… Mira al chino Sanini.",
+      "entidades_detectadas": [
+        "Mira",
+        "Sanini",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Sale de la cárcel y manda a los jueces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ve cómo es la carrera, hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y vos que querés ser médico… No seas ingenuo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué vas a ser médico si el mérito no existe?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Vamos, Dylan.",
+      "entidades_detectadas": [
+        "Dylan"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Alberto Fernández",
+    "Vamos",
+    "¿Qué",
+    "Torrante",
+    "La Cámpora",
+    "Banda",
+    "Menem",
+    "Digo",
+    "Baradel",
+    "Yendo",
+    "Vamos Baradel",
+    "Esteche",
+    "Además",
+    "¿Siguen",
+    "José Hernández",
+    "Cristina Kirchner",
+    "Entró",
+    "Maldonado",
+    "Ministro",
+    "Bariloche",
+    "Televisión",
+    "Ministro Trotta",
+    "Dylan",
+    "Parodi",
+    "Cristina",
+    "Domíngez",
+    "Presidente",
+    "Ustedes",
+    "Bueno",
+    "Hacéte de La Cámpora",
+    "Primero",
+    "Palermo",
+    "Juana de Arco",
+    "Habrá",
+    "Miguel de Cervantes Saavedra",
+    "la Argentina",
+    "¿",
+    "Mira",
+    "Alfonsín",
+    "Sanini",
+    "Sí",
+    "Graiver",
+    "Macri",
+    "Juan",
+    "Nos"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El jugador Toto Caputo estudió en la Universidad de Buenos Aires; él también debería estar agradecido al Estado, al mismo Estado que le pagó los estudios.",
+      "entidades_detectadas": [
+        "estado",
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Estoy a favor de un Estado presente, no del Estado ausente que ayer propuso el presidente Milei, un Estado ausente para el 99% de la gente y muy presente para el 1%, los que estaban al frente de las cámaras, los que están agitando contra esta marcha, como Patricia Bullrich.",
+      "entidades_detectadas": [
+        "presidente",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Recuerden cuánto duró López Murphy: menos que el romance de Milei con Fátima Florez, 15 días.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "La joven Patricia Bullrich de la década de 1970 seguramente estaría marchando; la vieja Patricia Bullrich estará tratando de reprimir hoy, porque tiene unas ganas de reprimir… Tiene sueños húmedos con la represión.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Hoy es al revés: los universitarios saltaron primero y la CGT se plegó.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    }
+  ]
+}

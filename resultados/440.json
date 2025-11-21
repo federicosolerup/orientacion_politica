@@ -1,0 +1,426 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El siguiente texto es una versión corregida del texto original, con mejoras en la ortografía, la cohesión, la coherencia y la corrección de nombres y apellidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dado que algunos nombres no están claros en el original (por ejemplo, \"José\"), se mantienen como estaban, asumiendo que son correctos dentro del contexto original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Vamos a hablar con Héctor Daer, secretario general de la CGT.",
+      "entidades_detectadas": [
+        "CGT",
+        "Héctor Daer"
+      ]
+    },
+    {
+      "frase": "Es obvio que el rol de la CGT es importante, y ayer su posición fue clara, como la del director Jorge Rial, de Radio 10.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Buenos días, Jorge.",
+      "entidades_detectadas": [
+        "Buenos días",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**Jorge:** Buenos días, Héctor.",
+      "entidades_detectadas": [
+        "Buenos",
+        "Jorge",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Héctor:** Bien, bien.",
+      "entidades_detectadas": [
+        "Bien",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Como todos, muy atentos a lo sucedido ayer: los anuncios del presidente y la reacción de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A veces uno imagina escenarios que no se cumplen, pero jamás se imagina una transgresión tan fácil de valores fundamentales de nuestra historia.",
+      "entidades_detectadas": [
+        "jamás"
+      ]
+    },
+    {
+      "frase": "Me refiero a la promulgación de un decreto que deroga leyes y artículos sin necesidad ni urgencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, la absurda derogación de la Ley de Abastecimiento, cuando es una potestad presidencial: puede usarla o no, sin que exista necesidad o urgencia alguna.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es el primer punto: un escenario antirrepublicano, antidemocrático y que no respeta la separación de poderes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, ataca el patrimonio nacional, los derechos laborales y sociales, creando limbos legales que generan desprotección en salud, en lo social y en lo laboral.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "¿Y qué decir de la decisión de privatizar Aerolíneas Argentinas?",
+      "entidades_detectadas": [
+        "Aerolíneas Argentinas",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Es absurdo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sería como si yo regalara una sede sindical a alguien simplemente porque lo decidimos cuatro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:** ¿Y esto, qué genera?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**Héctor:**  Alarma, sí, pero debemos desagregar los puntos.",
+      "entidades_detectadas": [
+        "Alarma",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Se ataca la estabilidad laboral, los derechos laborales y la solidaridad del sistema de salud.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igualar las prepagas a las obras sociales implica una desregulación absoluta a favor de quienes tienen recursos para sostener un monopolio, cobrando más allá de los aportes a la salud.",
+      "entidades_detectadas": [
+        "Igualar"
+      ]
+    },
+    {
+      "frase": "Todos sabemos que los recursos en salud son insuficientes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto llevará a la monopolización de un sistema privado de salud, donde sólo quienes puedan pagar tendrán acceso, como en muchos países.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A las doce del mediodía nos reuniremos con el bloque de diputados de Unión por la Patria para unificar criterios.",
+      "entidades_detectadas": [
+        "Unión",
+        "Patria"
+      ]
+    },
+    {
+      "frase": "Debemos exigir la retrotracción de estas medidas, lo plantearemos ante la justicia y a las seis de la tarde nos reuniremos para definir acciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además de la reunión con los diputados, ¿la CGT planea otras medidas?",
+      "entidades_detectadas": [
+        "¿",
+        "CGT",
+        "Además"
+      ]
+    },
+    {
+      "frase": "**Jorge:** Ayer la gente exigía una postura.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**Héctor:** La posición de la CGT es clara: rechazamos el ajuste, aunque una parte de la población (más del 56% que votó mi ley) creía que era necesario un sacrificio.",
+      "entidades_detectadas": [
+        "CGT",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Pero la realidad es que no se pide sacrificio, se pide sangre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es uno de los ajustes más feroces de la historia argentina, y aún faltan ajustar los servicios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como acaba de decir [nombre no especificado en el original], en una entrevista, hay más medidas por venir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el Congreso lo aprueba, es el juego democrático.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Pero esto es inconstitucional, ilegal y autoritario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta la imagen que construyeron ayer es errónea: Argentina es un país democrático, y debe respetarse la división de poderes.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Todos en el Congreso le habían prometido apoyo, entonces ¿por qué estas medidas?",
+      "entidades_detectadas": [
+        "Congreso",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Es una provocación?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El despliegue policial de ayer por la tarde fue desproporcionado comparado con la respuesta nocturna a la gran manifestación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La clase media fue la más afectada, con 40 artículos de la ley laboral bajo ataque.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:** El tema laboral es grave, pero hay otros...",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "por ejemplo, la prohibición de venta de tierras limítrofes a extranjeros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una decisión soberana que se anula con un plumazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Lerner (presuntamente):**  Héctor, me gustaría enfocarme en dos temas laborales.",
+      "entidades_detectadas": [
+        "Andrés Lerner",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Primero, la figura de los \"colaboradores\", que al parecer no tienen derechos laborales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Segundo, ¿qué incentivos tendrán los empleadores para registrar a sus empleados si no hay penalización por la informalidad?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Héctor:**  Tendrán que pagar demandas laborales, pero el problema es que se rompe el derecho tutelar del trabajador.",
+      "entidades_detectadas": [
+        "Tendrán",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "La ley lo protege, el empleador debe demostrar la inocencia, pero ahora se invierte la carga de la prueba.",
+      "entidades_detectadas": [
+        "La ley"
+      ]
+    },
+    {
+      "frase": "La figura del \"colaborador\" elimina el vínculo laboral, es un intento de eliminar la Ley de Contrato de Trabajo, como se intentó en otras reformas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Federico Sturzenegger ha comentado sobre la extensión del período de prueba...",
+      "entidades_detectadas": [
+        "Federico Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Ocho meses facilitan el despido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una ironía cruel, la gente pierde su sustento, su estabilidad social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:**  Héctor, hay un gran reclamo social, y recién llevan diez días de gobierno.",
+      "entidades_detectadas": [
+        "Jorge",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "¿La CGT considera movilizaciones más rápidas y efectivas?",
+      "entidades_detectadas": [
+        "CGT"
+      ]
+    },
+    {
+      "frase": "**Héctor:** Ayer la gente pedía la presencia de la CGT.",
+      "entidades_detectadas": [
+        "Ayer",
+        "CGT",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Pero Jorge, ayer cambió todo.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Por la mañana, en C5N,  se mostraba el sacrificio que la gente debía hacer, pero hoy la situación es distinta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El DNU es algo que muchos aún no comprenden.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "[Se menciona una comparación con Malvinas, pero queda incompleta en el texto original]\n\n**Jorge:**  Milagros [nombre no especificado] dijo que quien pierde su trabajo no estará peor, que el mercado laboral será más accesible.",
+      "entidades_detectadas": [
+        "Jorge",
+        "Milagros",
+        "Malvinas"
+      ]
+    },
+    {
+      "frase": "¡Es increíble!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya hemos vivido estas fantasías.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo se deroga el Código Aduanero?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Inglaterra, un país liberal, tiene una ley de compra nacional; EEUU también defiende su industria.",
+      "entidades_detectadas": [
+        "EEUU",
+        "Inglaterra"
+      ]
+    },
+    {
+      "frase": "¿Cómo se deroga la ley de compra nacional aquí?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ni la UIA, ni las Pymes, ni nadie ha hablado aún.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Cámara de Comercio, liderada por Mario Gritman, apoya las medidas.",
+      "entidades_detectadas": [
+        "Cámara de Comercio",
+        "Mario Gritman"
+      ]
+    },
+    {
+      "frase": "Su visión es que la apertura traerá más movimiento, pero es una visión corta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si la gente no trabaja, no hay producción, ni poder adquisitivo, ni ventas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si Argentina es solo para una parte de la sociedad...",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "**Jorge:** Héctor, estaremos atentos a sus reuniones.",
+      "entidades_detectadas": [
+        "Jorge",
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "Es necesaria la acción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por la charla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Héctor:** Gracias a ustedes.",
+      "entidades_detectadas": [
+        "Héctor"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Malvinas",
+    "Igualar",
+    "Vamos",
+    "Dado",
+    "Andrés Lerner",
+    "Jorge Rial",
+    "Aerolíneas Argentinas",
+    "Inglaterra",
+    "Federico Sturzenegger",
+    "Si Argentina",
+    "Sería",
+    "Buenos",
+    "jamás",
+    "Mario Gritman",
+    "Además",
+    "Tendrán",
+    "Héctor Daer",
+    "CGT",
+    "Patria",
+    "Milagros",
+    "Argentina",
+    "Ayer",
+    "La ley",
+    "Unión",
+    "Bien",
+    "Primero",
+    "EEUU",
+    "¿",
+    "Alarma",
+    "Segundo",
+    "Jorge",
+    "Héctor"
+  ]
+}

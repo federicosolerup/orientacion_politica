@@ -1,0 +1,900 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Juliana, Jorge Rial te saluda.",
+      "entidades_detectadas": [
+        "Juliana",
+        "Jorge Rial te saluda"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hola Jorge, parece que estoy un poco mejor que vos, ¿sabes?",
+      "entidades_detectadas": [
+        "Hola Jorge"
+      ]
+    },
+    {
+      "frase": "En términos de salud, al menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasó?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nada, nada… garganta, gripe, mal curada, fiebre… de todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El país, Juliana, el país… bueno.",
+      "entidades_detectadas": [
+        "Juliana"
+      ]
+    },
+    {
+      "frase": "A juicio de muchos, tu voz es muy necesaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, gracias Juliana.",
+      "entidades_detectadas": [
+        "Juliana"
+      ]
+    },
+    {
+      "frase": "Bueno, te vimos ahí, en la puerta esperando a Cristina.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Estuviste escuchando el alegato de la expresidenta, que fue bastante fuerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál es tu mirada?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "¿Qué sacas de todo esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, estuve en la sala de audiencias, acompañando a Cristina, como siempre, pero sobre todo en este momento.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Me removió todo, la verdad es que estoy muy sensibilizada… bueno, nada, eso, muy sensibilizada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente es aberrante que no podamos saber qué pasó, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Con la expresidenta… ni vayamos a saber qué pasó, porque con la instrucción de la causa… la prueba central se perdió.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿No?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo del teléfono de Fernando Sabag Montiel, el autor material, el que vimos todos… eso lo vimos todos.",
+      "entidades_detectadas": [
+        "Fernando Sabag Montiel"
+      ]
+    },
+    {
+      "frase": "Estamos viendo el juicio, que es como… bueno, una parrafada de perogrulladas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya sabemos lo que… lo vimos todos en vivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sabemos que Sabag Moniel disparó, que milagrosamente esos dos disparos no salieron, esas balas no salieron… porque la pericia balística del arma (se disparó 300 veces esa misma arma de Sabag Montiel) y no falló una sola vez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es muy impactante, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sin embargo, cuando le disparó a Cristina las dos veces, no salió la bala… y bueno, es como muy impactante.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Querer o reventar, la verdad que hubo un milagro, ahí hubo un milagro.",
+      "entidades_detectadas": [
+        "Querer"
+      ]
+    },
+    {
+      "frase": "Pero bueno, estamos hablando de autores materiales y lo que nosotros queremos saber, y entiendo que la Argentina toda necesita saber por su generalidad, por su historia, por la sociedad, por el futuro, por nuestros pibes y pibas, es quién está detrás.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Quién instigó, quién se contactó con los autores materiales, quién financió este atentado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es posible que desestimen absolutamente todas las pruebas presentadas por los abogados de Cristina, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Sí, bueno, ahí aparecía el nombre de mi hermano por un lado, el nombre de Caputo por el otro… digo, no sólo la investigación… sino bueno, hoy Cristina también habló de eso, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Y es que es imposible no hablar de eso, porque la investigación la hizo la Gendarmería.",
+      "entidades_detectadas": [
+        "Gendarmería"
+      ]
+    },
+    {
+      "frase": "Algo que debería haber hecho la jueza Capuccietti, que no hizo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, porque no pudo resguardar la prueba, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Cuando aparece al día siguiente el sobre donde la jueza Capuccietti había guardado el celular de Sabag Montiel, roto y dañado, sin la memoria… la jueza debería haberse apartado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos no sos garante de lo que viene.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "No pudiste garantizar la prueba central, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Entonces, ¿por qué voy a confiar en lo que hagas?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y además la instrucción… bueno, fue un desastre y la causa la partieron en mil pedazos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hay algo que conocemos los argentinos y de lo que tenemos memoria es que cuando no se quiere saber qué pasó, dividen la causa por toda la Argentina, en distintos juzgados.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Y eso es lo que pasa con la causa de Cristina, del atentado.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Claro, claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Y también fue dura con Capuccietti, con Rívolo también; la trató directamente de desastrosa.",
+      "entidades_detectadas": [
+        "Rívolo"
+      ]
+    },
+    {
+      "frase": "Es que no hay un subten… no es todo el Poder Judicial (porque a mí me gusta rescatar al Poder Judicial)… este Poder Judicial también es el que fuga los delitos de lesa humanidad, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "No es todo el Poder Judicial.",
+      "entidades_detectadas": [
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "Cuando decimos \"el Poder Judicial\" no decimos todo el Poder Judicial.",
+      "entidades_detectadas": [
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "Decimos una parte, bueno, como  (el nombre que falta aquí no está claro en el original, no se puede corregir sin más información) tiene mucho que ver con esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad es que es imposible sostener que hay… que son tres lumpenes que quisieron matar a Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "O sea, que hicieron inteligencia con una… disfrazándose de emprendedores de copitos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad es que nos toman por idiotas a todos los argentinos, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "A una expresidenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En cualquier país más o menos razonable (no te estoy diciendo países serios, así), bueno, todos los ciudadanos exigen el esclarecimiento del hecho, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y además hay un comportamiento del Poder Judicial acorde a lo que exige la ciudadanía.",
+      "entidades_detectadas": [
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "Bueno, yo creo que la ciudadanía en su gran mayoría quiere saber qué pasó, necesita saber qué pasó, porque si no, si Cristina no tiene justicia, ¿qué queda para los demás?",
+      "entidades_detectadas": [
+        "Bueno",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y ahí también me introduce otro elemento… ya se venía hablando… además porque es mujer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En algún momento dijo, si yo hubiese hecho eso a mamá… y dijo: “Che, las feministas tampoco tomaron mi caso como lo tendrían que haber tomado”.",
+      "entidades_detectadas": [
+        "“Che"
+      ]
+    },
+    {
+      "frase": "¿Influyó también eso?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, eso es del pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En ese momento donde las papas quemaban a Cristina, bueno, sí, es cierto, no había una conformación de un gran movimiento… el movimiento feminista del que yo soy parte hace muchísimos años… yo en esto tengo algunas diferencias con Cristina, pero no quiero contradecirla en el momento donde ella acaba de salir de testimoniar, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "La verdad es que ella siente lo que siente, y no lo voy a contradecir en lo más mínimo, pero las feministas siempre obviamente supimos y sabemos que lo que le hacen a Cristina es porque es mujer.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Juliana, ¿cómo te va?",
+      "entidades_detectadas": [
+        "¿",
+        "Juliana"
+      ]
+    },
+    {
+      "frase": "Paula Maruzinchi te saluda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hola Paula, ¿cómo andas?",
+      "entidades_detectadas": [
+        "Hola Paula"
+      ]
+    },
+    {
+      "frase": "Ayúdame con esta frase, porque la verdad es que me quedó resonando fuerte: Ella dice que determinar de manera completa qué fue lo que le pasó a ella no es una deuda para con Cristina Fernández de Kirchner, sino para la democracia.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Y anoté este textual: “La política no puede ser refugio de gente que piense que la política sirve para matar”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ella cree que parte de los ideólogos están dentro del gobierno, por ejemplo, hoy?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, las pruebas están presentadas en el juicio, ¿no?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Lo que pasa es que están presentadas también las pruebas en los distintos juicios, desparramados por decisión del Poder Judicial.",
+      "entidades_detectadas": [
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "Entonces, sí, claro que hay presunción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando vos tenés un diputado que termina, como lo describió muy bien Cristina, a Gerardo Milman, diciendo que sin Cristina hay peronismo y sin peronismo hay Argentina… es porque además venimos escuchando, hace ya demasiados años, que la eliminación del peronismo es la salvación, la eliminación del otro, la eliminación del sector grande de la población (porque somos la mitad).",
+      "entidades_detectadas": [
+        "Gerardo Milman",
+        "Argentina",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Entonces, bueno, la eliminación del peronismo es la salvación de la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "¿Quién era la jefa del peronismo?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Entonces, quisieron matar a la jefa del peronismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una cosa… bueno, quisieron matar a la jefa del peronismo, que es una mujer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A mí todo me resulta muy doloroso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por supuesto que no pierdo las fuerzas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Expectativas yo no tengo sobre este pedacito del Poder Judicial, sobre Comodoro Py, y la verdad sobre quiénes están atrás ideológicamente y además quiénes financiaron a esta banda de violentos y además a un pibe que fue capaz de dispararle a la expresidenta, ¿no?",
+      "entidades_detectadas": [
+        "Expectativas",
+        "Comodoro Py",
+        "¿",
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "O Sabag Montiel que fue capaz de dispararle a la expresidenta de la República.",
+      "entidades_detectadas": [
+        "República"
+      ]
+    },
+    {
+      "frase": "Honestamente, sí, creo que hay conexión con la política y con quienes hoy habitan en la política algunos cargos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso claramente porque así las pruebas se han presentado por la querella de Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Estoy refiriéndome al diputado Milman, estoy refiriéndome a la familia Caputo, y por supuesto que Patricia Bullrich para mí y para la querella también tiene… bueno, ha sido la facilitadora, obviamente, de borrar las pruebas en los teléfonos de Milman y sus dos secretarias.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Milman",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Bueno, ha premiado a quien limpió, entre comillas, el celular de los tres.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Bueno, tienen conexiones con los grupos más violentos y más antidemocráticos que tiene la Argentina.",
+      "entidades_detectadas": [
+        "Bueno",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Estoy hablando de Revolución Federal, estoy hablando de esos grupos anticuarentena, antivacunas y antitodo, antidemocrático… como si fuera solamente antivacunas y anticuarentena.",
+      "entidades_detectadas": [
+        "Revolución Federal"
+      ]
+    },
+    {
+      "frase": "Bueno, que sé yo, he conocido miles que son muy buenos y nada peligrosos, pero este no es el caso.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Son organizaciones muy peligrosas y muy antidemocráticas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juliana, hablabas al principio que estabas… que te veías medio desconsolada, no estabas preocupada por todo lo que te pasa.",
+      "entidades_detectadas": [
+        "Juliana"
+      ]
+    },
+    {
+      "frase": "Pero te sentías sensible, dijiste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dentro de estos factores de sensibilidad, entra también lo de Alberto y Fabiola.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Fabiola"
+      ]
+    },
+    {
+      "frase": "No, bueno, yo lo voy a separar porque estoy muy sensibilizada por escuchar a Cristina, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Sensibilizada porque la expresidenta de la República, ocho años presidenta de la República, y ocupó más de 20 años cargos en el Poder Legislativo, fue víctima de un intento de asesinato, de magnicidio y de femicidio.",
+      "entidades_detectadas": [
+        "República",
+        "Poder Legislativo"
+      ]
+    },
+    {
+      "frase": "Y escucharla y escuchar cómo repercute en su vida y cómo repercutió en su familia… muy fuerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Digo, porque eso es lo que me sensibiliza.",
+      "entidades_detectadas": [
+        "Digo"
+      ]
+    },
+    {
+      "frase": "Lo que me sensibiliza es escuchar a Cristina, escuchar lo que le pasó a sus hijos, escuchar cómo sufren sus nietos, el sufrimiento de los demás… que no se le niega empatía a cualquiera, supongo, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Me imagino que no será solamente mi caso… yo lo digo y lo digo medio sollozando, te lo estoy diciendo medio sollozando, porque la verdad es que me sensibiliza enormemente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una mujer a la que quisieron matar delante de todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una mujer a la que quisieron matar delante de toda la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Es la expresidenta de la República a la que quisieron matar delante de todos nosotros.",
+      "entidades_detectadas": [
+        "República"
+      ]
+    },
+    {
+      "frase": "Lo vimos en vivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, si esto no lo sensibiliza… yo no sé qué, entonces, ¿qué lo sensibiliza?",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¿Qué sensibiliza a esta sociedad?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿No?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, verla, verla a Cristina testimoniar… y bueno, realmente sí, me pone sensible.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Obviamente tengo mucho afecto por ella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y quiero mucho a ella, a su familia, obviamente, pero eso no significa que además no pueda ser un razonamiento lógico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es qué?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Además de todo, a nosotros quisieron matar a una mujer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no hay justicia para esa mujer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay justicia para esa mujer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiero escaparme de la pregunta que creo que me hiciste sobre Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Yo solo dije: “Mira, yo le creo a ella”.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "No tengo más nada para decir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le creo a Fabiola.",
+      "entidades_detectadas": [
+        "Fabiola"
+      ]
+    },
+    {
+      "frase": "Se terminó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero te enoja, digo, porque parece que esto… ¿Cómo no me va a enojar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso digo, pero… por eso me va a enojar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero lo que a mí también me enoja, me subleva, es que no me dejan tranquila con mi propio enojo, porque es el expresidente de la República.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, es grave.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un tema grave, y no me dejan enojarme con toda la tranquilidad del mundo, porque la doble moral que tienen algunos, que hacen política con esto, me enoja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero escuchá una cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo los conozco a todos ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué te están hablando?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué me van a hablar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que demoras con la bragueta abierta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y además les importa y hacen un escándalo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un escándalo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el tema es que lo que más les gusta, y eso lo disfrutan… no se puede disfrutar el maltrato, pero se disfrutan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque es Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Mira, yo no lo disfruto.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "A mí me enoja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y además a mí sí me importa que sea violento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, déjenme tranquila con mi enojo, con mi elaboración, con creerle a Fabiola, con tratar de solidarizarme con la víctima.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Fabiola"
+      ]
+    },
+    {
+      "frase": "Déjenme hacerlo.",
+      "entidades_detectadas": [
+        "Déjenme"
+      ]
+    },
+    {
+      "frase": "Juliana, ¿no te parece que a veces también hay un poco de espectacularización de la situación para darle más show y no hablar de otras cosas que están pasando en la Argentina, como por ejemplo el aumento del colectivo?",
+      "entidades_detectadas": [
+        "¿",
+        "Juliana",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Igual es suficientemente grave.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente que van a usar el tema de Alberto Fernández y su violencia en la casa hasta la eternidad de los tiempos.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Pero es una bala que le entró al peronismo, Juliana.",
+      "entidades_detectadas": [
+        "Juliana"
+      ]
+    },
+    {
+      "frase": "Pero nosotros, ¿sabes cuántas balas nos tiraron?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas balas encima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, y si va la de verdad… estamos hablando de Cristina, estamos hablando de los funcionamientos… está bien, pero la responsabilidad es de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Esto queda claro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si Alberto Fernández es violento o no, que lo va a determinar el Poder Judicial… bueno, estamos hablando del Poder Judicial, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Poder Judicial",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Sí, tampoco crees en eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero lo va a determinar el Poder Judicial, capaz que acá hacen las cosas bien, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Poder Judicial"
+      ]
+    },
+    {
+      "frase": "No es peor porque si entra todo… ¿viste?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay revictimización, más revictimización de Fabiola.",
+      "entidades_detectadas": [
+        "Fabiola"
+      ]
+    },
+    {
+      "frase": "No, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tampoco quiero distraerme mucho del tema central que es hoy el de Cristina, porque tampoco quiero tapar con un violento la violencia que cernieron sobre Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Esto también lo quiero decir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiero que hoy sea el día que yo hable sobre este tema porque va a tapar la violencia que se está investigando acerca de Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Un violento no puede tapar la violencia que cernieron sobre Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juliana, estamos viendo a Cristina en el balcón del Instituto Patria en este momento.",
+      "entidades_detectadas": [
+        "Instituto Patria",
+        "Juliana",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Así que te dejo, te dejo, te dejo… ya no te jodo más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te mando un beso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta luego, sobrina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Chau.",
+      "entidades_detectadas": [
+        "Chau"
+      ]
+    },
+    {
+      "frase": "Juliana Editurio, cerradora de \"Chalo Con Nosotros\", está…\n\n\n**",
+      "entidades_detectadas": [
+        "Juliana Editurio"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Realmente",
+    "Igual",
+    "Caputo",
+    "Fernando Sabag Montiel",
+    "Estoy",
+    "Querer",
+    "Alberto Fernández",
+    "¿Qué",
+    "Revolución Federal",
+    "Quién",
+    "Gerardo Milman",
+    "¿Influyó",
+    "Digo",
+    "Patricia Bullrich",
+    "Rívolo",
+    "Sensibilizada",
+    "Cristina Fernández de Kirchner",
+    "Comodoro Py",
+    "Además",
+    "Decimos",
+    "Juliana Editurio",
+    "Vos",
+    "Poder Legislativo",
+    "Alberto",
+    "Juliana",
+    "Hola Paula",
+    "Claro",
+    "“Che",
+    "¿Cuál",
+    "Instituto Patria",
+    "El país",
+    "Argentina",
+    "Expectativas",
+    "¿No?",
+    "Chau",
+    "Jorge Rial te saluda",
+    "¿Quién",
+    "Cristina",
+    "Bueno",
+    "República",
+    "Primero",
+    "Fabiola",
+    "Déjenme",
+    "Estuviste",
+    "la Argentina",
+    "¿",
+    "Poder Judicial",
+    "Mira",
+    "Hola Jorge",
+    "Jorge",
+    "Así",
+    "Milman"
+  ]
+}

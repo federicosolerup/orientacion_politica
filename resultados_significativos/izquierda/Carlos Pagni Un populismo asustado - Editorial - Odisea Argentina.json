@@ -1,0 +1,441 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 51,
+      "derecha": 34
+    },
+    "score_promedio": 0.429,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En ese momento, la Argentina estaba envuelta en un gran escándalo, en una gran pelea política que venía desde hacía un año, en torno al comercio de carnes con Gran Bretaña y, sobre todo, del pacto que se había firmado, el pacto Roca-Runciman entre Argentina y el Reino Unido para garantizar el comercio de carnes que se había cerrado después de la crisis del 30.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empieza una comisión investigadora en el Congreso; muchos recordarán la película \"Asesinato en el Senado de la Nación\".",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dice: \"¿Qué hago?\".",
+      "score": 0.497,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Justo le dice: \"Bueno, lo obvio\" —porque era visible en ese momento—, \"estoy acorralado, estoy entre la espada y la pared, porque me están pegando mucho con el tema de las carnes, está el escándalo en el Congreso, ¿qué podemos hacer?\".",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Botana le dice: \"Repatriar los restos de Gardel, generar la apoteosis de Gardel, que eso va a desviar la atención de la opinión pública y vas a poder, por lo menos, disimular el problema que tenés en el Congreso y en la política\".",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fríamente, como solo ellos podían hacerlo, analizaron con el presidente Justo esa poderosa imagen positiva que el mundo nos devolvía.",
+      "score": 0.602,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado puso su parte, Crítica, la suya\".",
+      "score": 0.32,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este retrato se completa contando que, como dice el propio **Poroto Botana**, la vuelta de los restos de Gardel obligó a hacer toda una gestión ante el gobierno de Colombia para exhumarlo antes de lo que prescribían las leyes.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno mira lo que pasó en la Argentina la semana pasada con la muerte de Maradona, puede intuir algún parentesco entre aquella vuelta de Gardel, que salió perfecta, y esta apoteosis de Maradona, que no salió perfecta.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llamó al presidente de Argentinos Juniors, su club, estaba en la AFA, el hombre, y le dice: \"¿Dónde hacemos el velorio?",
+      "score": 0.498,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo todavía no hablé con Claudia\", le dice el presidente al presidente de Argentinos Juniors, que estaba un poco sorprendido de haberlo tan comprometido personalmente en el tema.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, le ofrecen a la familia de Maradona la Casa Rosada.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le aclaran que para traer un millón de personas, el velatorio tendría que durar tres días.",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se agregó algún otro problema porque **Cristina Fernández de Kirchner** visitó el funeral, visitó la Casa Rosada y eso hizo que se cerraran las puertas y la gente empezara a presionar.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy el presidente, cuando le dicen \"Pero se te escapó de las manos\", \"¿Qué querías que hiciera?",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese problema de seguridad, el ministro **Aníbal Fernández** intentó colgárselo a Horacio Rodríguez Larreta, como suele suceder en esta administración, aprovechando que Larreta es un profesional de poner la otra mejilla.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Que se haga cargo Larreta de esto, que, por favor, intervenga\", dijo el ministro del Interior en este desastre.",
+      "score": 0.32,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Contrásta lo que dice Aníbal Fernández con una página —que era una página, y digo era en tiempo pasado deliberadamente— que estaba colgada en la página web de la Casa Rosada, donde se explicaba, \"usted la está viendo acá\", publicada el jueves 26 de noviembre, cómo todo el operativo de seguridad era coordinado por el gobierno nacional; por supuesto, que intervenía la policía de la ciudad, pero todo terminaba o convergía en un problema del gobierno nacional encargado de organizar el operativo de seguridad.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta trampa es la que deja pegado al gobierno en lo que Aníbal Fernández llama un desastre.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Justo no se le ocurrió —a pesar de todo lo que necesitaba decir—, le ofrecemos la Casa Rosada.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El armado de un funeral donde la figura central sería Alberto y, como se vio después, Cristina.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una nota muy extensa, muy documentada, que publica **Alejandro Horvath** ayer en La Nación, sobre un tema que comenta también en su columna Jorge Fernández Díaz ayer en La Nación.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En otros términos, Raúl Alfonsín decía: \"El pasado para la justicia, el tema, la materia de la política es el presente o el futuro\".",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que mirar, es muy interesante, toda la manipulación de la imagen de Bolívar en la Venezuela de Chávez, o la exaltación del imperio romano, ya bastante más ridícula por parte de Mussolini en la Italia de los años 20 y 30.",
+      "score": 0.766,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí Cristina escribió su carta, lo cual demuestra que está muy atenta a los detalles de la vida cotidiana, y dijo \"Yo con esto no tengo nada que ver.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gobierna Alberto\", y \"Si Alberto dice que las cosas que haces porque yo se las indiqué, no le crean, se hace el títere, no es títere\".",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina no se puede dar ese gusto, y eso no es culpa de Fernández ni de Guzmán, es una historia que viene de atrás, en la que tuvo que ver mucho el gobierno anterior y también antes.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El aporte especial para el trabajo y la producción, que es el aporte que el gobierno le alcanza a las empresas para compensar la caída en el nivel de actividad y que no pueden pagar los sueldos, ese auxilio para que puedan pagar los sueldos, también se eliminó.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Alberto Fernández acaba de eliminar, Guzmán, estos dos planes sociales, si queremos, o estas dos compensaciones o alivios en la recesión, mañana, al mediodía, va a almorzar Alberto Fernández con la conducción de la CGT que le va a ir a hablar, entre otras cosas, de este tema.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le van a ir a hablar de la necesidad de mantener este tipo de programas, porque ven que si no va a haber una caída en las empresas, una gran destrucción de capital, muchas pymes van a quebrar, porque no tienen este auxilio del Estado.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a Fernández le tendrían que decir que no podemos, porque necesitamos hacer un ajuste, porque si no la gente huye del peso, compra dólares y las reservas siguen cayendo, de manera dramática.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y nos enteramos por el proyecto de ley que mandaron al Congreso, una trampita parecida a la del gobierno con lo de la seguridad y quién se hacía cargo de la seguridad del velorio de Maradona, nos enteramos por el proyecto de ley, porque en el decreto de Fernández no estaba, que este 5% que van a recibir los jubilados en diciembre se los van a descontar en marzo.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto con independencia de un tema que hablamos varias veces, pero al que se refirió con mucho detalle **Bernardo Saravia Frías** en la entrevista que le hicimos el lunes pasado, que es la liquidación del patrimonio del ANSES, es decir, de los activos que tiene el Fondo de Garantía Solidaria del ANSES para distintos fines, entre otros, frenar el contado con liquidación, rematando bonos con los que se han perdido.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Solo hay un signo de interrogación sobre todo este programa de ajuste, que es ¿Quién le pone el cascabel al gato?",
+      "score": 0.757,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri hizo mil ajustes, sobre todo a partir de la corrida cambiaria del 2018, del 25 de abril en adelante.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, si uno va a las encuestas a mirar por qué la gente cree que Macri es un ajustador, ¿qué le reprocha a la gente al ajuste de Macri y el aumento de tarifas?",
+      "score": 0.184,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le dicen sus aliados a Macri, desde Carrió a los radicales de Alfredo Cornejo?",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno mira América Latina, desde Brasil en la época de Dilma Rousseff hasta los levantamientos contra Piñera, todos tienen que ver con un aumento de tarifas.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro dato: la imagen de Fernández cae como las reservas, pero también cae menos.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O tiene que ver, como le dicen algunos amigos de él, de su intimidad en la Casa Rosada: \"No, no, Alberto, en realidad te estás recuperando porque Cristina no te habla\".",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "China se está recuperando mucho más rápido de lo que se suponía.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa recuperación de China no solamente es una recuperación que tira para arriba el precio de todas las materias primas que consumen en gran dimensión, China, sino que, además, están reponiendo aceleradamente el *stock* porcino de cerdos alimentados con soja.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los cálculos más moderados, los más equilibrados, dicen que la Argentina podría tener unos 5.000 millones de dólares adicionales el año que viene por exportaciones, gracias a esta recuperación de las materias primas.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que Fernández empieza a recibir algunas nuevas noticias buenas.",
+      "score": 0.74,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le falta la vacuna.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La industria farmacéutica no china está preparando su logística para empezar a repartir vacunas en la región más o menos de aquí a tres meses.",
+      "score": 0.69,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitan un acuerdo con el Fondo antes de Enero.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto de necesidades, se produjo hoy la charla entre Joe Biden y Alberto Fernández.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández sabe que está hablando con el nuevo presidente de Estados Unidos, que es el jefe de Janet Yellen, que es la nueva secretaria del Tesoro, que es la que levanta o baja el pulgar de cualquier acuerdo de cualquier país con el Fondo y, sobre todo, el de la Argentina, que tiene una lupa gigantesca, porque ha sido el acuerdo más ambicioso y el que más rápidamente fracasó de todos los acuerdos que ha hecho el Fondo en su historia.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le tiró un centro a Alberto Fernández: \"Nosotros tenemos muy poca expectativa de cooperar, de converger con Estados Unidos.",
+      "score": 0.34,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por suerte, se fue Trump, le quiso decir eso.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le habló mucho de Bergoglio.",
+      "score": 0.524,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Biden perdió un hijo, y Bergoglio, igual que el arzobispo de Washington en aquel momento, que hoy está en medio de todo un escándalo por pedofilia, etcétera, estuvieron muy cerca de la familia Biden.",
+      "score": 0.737,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, además, porque Biden, junto con John Kerry, el secretario de Estado de Obama, Biden era vicepresidente de Obama, ambos católicos, fueron los que tejieron con el Vaticano toda una política para América Latina que incluía la recomposición de relaciones con Cuba, los acuerdos de paz en Colombia y, a lo mejor, al final del camino, algún tipo de transición para Venezuela.",
+      "score": 0.631,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cae muy bien, muy mal, perdón, en el sur de la Florida cualquier aproximación a Cuba o a Venezuela.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le suma otra ventaja a Fernández en relación con Biden, porque si yo miro América Latina y, sobre todo, el Cono Sur desde Washington, lo veo a Fernández diciendo: \"Tenemos un amigo común que es el Papa\".",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bolsonaro está diciendo, como presidente de Brasil, que la elección de Estados Unidos fue fraudulenta.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le está diciendo que Biden llegó con trampa.",
+      "score": 0.681,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a ver cómo sale Brasil de ese problema.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hubo una conversación también inédita entre Alberto Fernández y Bolsonaro; por primera vez pacífica, por primera vez, una aproximación donde intervino también Daniel Scioli, el embajador en Brasil.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le quiere entrar por la familia a Guzmán y hace bien.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el problema en el que está Alberto Fernández.",
+      "score": 0.59,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ¿qué es lo interesante que uno podría decir?",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el programa, diría un kirchnerista, el programa malditamente neoliberal de Alberto Fernández.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que la polarización automática —Maradona es mío y no tuyo, nosotros somos los buenos y ustedes son los malos— oculta una continuidad importantísima: ¿Cuál es la continuidad entre el gobierno de Macri y el gobierno de Fernández?",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que en el fondo es el programa, valga la redundancia, del Fondo.",
+      "score": 0.381,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esta continuidad está indicando, no una convergencia conceptual o ideológica, no; es la continuidad de determinados problemas que la Argentina no puede resolver a lo largo de mucho tiempo.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les recomiendo, si pueden, después que miren un discurso hoy en el Senado de Martín Lousteau, donde enumera las cifras, los indicadores económicos de la Argentina y Cristina.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Dónde se nota esta divergencia entre Fernández y Cristina?",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No quiero que Cristina tenga muchos problemas en que sea Rafecas, por más que le lleven otros nombres.",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos le llevan hasta el nombre de Aníbal Fernández.",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Cristina, que es inteligentísima, se da cuenta de que si Fernández logra, en un tema tan importante desde el punto de vista institucional, pero sobre todo simbólico, nada menos que el jefe de los fiscales, ligado directamente con los problemas de combate a la corrupción, pactarlo con la oposición, el *bonsái* Fernández le va a crecer.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no está previsto que Fernández sea un gran líder en el mapa o en la hoja de ruta del kirchnerismo.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández tiene que hacer, básicamente, dos cosas: el ajuste, para eso lo pusieron.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Centralmente, Cristina lo puso para hacer estas cosas que está haciendo.",
+      "score": 0.251,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno manda una ley para despenalizar el aborto al Congreso y, de golpe, la vemos a Cristina con un rosario en el pecho.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le llevó a Maradona?",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si miras bien las fotos, está Cristina con un rosario todo el tiempo.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie duda de que es un problema de la fe de Cristina y de Cristina con la religión.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, curiosamente, en el contexto en el que Fernández quiere tratar la ley del aborto.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hoy hay otra mala noticia para Cristina, que es que la Cámara de Casación voltea la pretensión de declarar inconstitucional la figura del arrepentido.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una decisión de primera magnitud de la Cámara de Casación.",
+      "score": 0.544,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para romper mafias, se inventó y abrió todo un debate en el derecho penal la idea de que el Estado se pueda aliar con un corrupto.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El acuerdo entre Cristina y Alberto tenía dos capítulos: un capítulo económico, un capítulo penal.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto va cumpliendo solamente el primero.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 85
+  },
+  "etiqueta_original": "neutral"
+}

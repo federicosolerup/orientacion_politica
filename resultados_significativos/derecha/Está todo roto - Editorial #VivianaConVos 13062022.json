@@ -1,0 +1,376 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 13,
+      "derecha": 59
+    },
+    "score_promedio": 0.715,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina está todo destruido, está todo roto.",
+      "score": 0.709,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Qué quilombo, qué gran quilombo es la Argentina!",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El misterioso avión de venezolanos e iraníes que volaba en secreto y fue retenido en Ezeiza, el gigantesco carguero debió aterrizar en Córdoba por la niebla, pero luego voló hacia Buenos Aires.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo que en Argentina hay vuelos secretos?",
+      "score": 0.847,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Había aterrizado en Córdoba por cuestiones meteorológicas, ninguno de los tripulantes contaba con alertas rojas o cualquier tipo de restricción que impidiera su ingreso a la Argentina.",
+      "score": 0.623,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Embajada de Israel y AMIA.",
+      "score": 0.521,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero se le escapó una bala, ahora un avión.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como diría **Diego Armando Maradona**, a Rossi se le escapó la tortuga, está todo roto en Argentina.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A esos iraníes y venezolanos que venían en ese avión los invitarías a tu casa a comer un asado o una polenta?",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ¿cómo dejamos que se muevan por la República Argentina como si nada hubiera pasado?",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos son nuestros amigos, los amigos de este gobierno, Irán y Venezuela.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este tweet de **Winston** me encantó: Maduro de visita oficial en Irán.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto** defendiendo a Maduro en Estados Unidos.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuáles son los negocios secretos que tiene este gobierno con Irán y con Venezuela?",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le avisó la inteligencia uruguaya.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pienso que si Argentina es un colador, eso también es una decisión política.",
+      "score": 0.226,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos son los negocios del gobierno de Alberto y **Cristina Fernández de Kirchner**.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me pregunto si es tan mala la inteligencia argentina o los tienen contratados para hacerse los boludos.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los controles en la Argentina son así.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los controles en la Argentina son sólo para la gilada.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo es en Argentina una pantomima.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina todo es una gran mentira.",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es lo mismo lo que se le ha hecho a la gente, es que hay que ser un abogado.",
+      "score": 0.571,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que se le ha hecho a la gente?",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que no es lo que se le ha hecho a la gente.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que no es lo que se le ha hecho a la gente.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que no es lo que se le ha hecho a la gente.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se va a comunicar Cancillería para pedirle explicaciones a Venezuela o a Irán?",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que dijo este pibe y le digo pibe porque no le puedo decir canciller.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este video que encontré es muy interesante y te juro que cuando avisen que vamos camino a Venezuela y antes decíamos no, que vamos por el camino a Venezuela, están en pedo.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca Argentina va a ser Venezuela.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando lo entrevistaba **Hugo Chávez**, él le dice a Jaime Bayly que él no es socialista, que él no es autoritario, que él no necesita medios de comunicación propios.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miralo y decime si no sentís que Argentina, nuestra amada Argentina, ya se tomó un vuelo directo a Venezuela y es tan mentiroso como **Alberto Fernández**.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y estoy dispuesto a morir, a morir una y cien veces, para construir en Venezuela el socialismo.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me le echan gas del bueno y me lo meten fresco.",
+      "score": 0.672,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me le echan gas del bueno y me lo meten fresco.",
+      "score": 0.672,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me le echan gas del bueno y me lo meten fresco.",
+      "score": 0.672,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces no vas a ser un presidente autoritario, ¿ah?",
+      "score": 0.745,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, basta con el medio de comunicación que tiene el Estado hoy.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado tiene un canal 8 de televisión.",
+      "score": 0.359,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Venezuela es el norte de los K.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, que va a la Cumbre de las Américas a felicitar al presidente Maduro.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maduro que habla de **Alberto Fernández**.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que con **Macri** subían los precios porque hacía una política neoliberal.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si usted va a los barrios no se va a encontrar esas estadísticas.",
+      "score": 0.482,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la gente no le alcanza.",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el gobierno, el presidente y toda su gente están en su nube de pedos.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viajamos para defender a Cuba y a Venezuela.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Celeste, Pablo y Micaela.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el presidente está en Argentina, se hace el zurdo.",
+      "score": 0.475,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este meme es tape, la verdad que podría ser cierto.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, mientras ellos se están estupirizando, la Argentina se prende fuego.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le pueden dar ese lugar a otros y a otras que quieren luchar o que vienen luchando pero todavía no cobran un plan.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hacemos nosotros todos los días, lo que usted no hace.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted es un gerente del pobrismo, es un sinvergüenza.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le chorean a un pobre víctima, el REN, de los gerentes del pobrismo, mínimo un 20%.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No vale que te pelees con Larreta ahora.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá que la educación le gane finalmente en toda la Argentina.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que salió a castigar a Larreta fue la ministra **Gómez Alcorta**.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A tu gobierno las personas con discapacidad no le importan.",
+      "score": 0.243,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poneme por favor el tape de la nena.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después que ella lo señale, usted lo dice.",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le decimos?",
+      "score": 0.516,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que no se le diga nada.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después que ella lo señale, usted lo dice.",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a ningún chico le sorprende porque es inclusión.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usan el estado como beneficio propio.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le dan la medicación para su hija.",
+      "score": 0.556,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo sube Esteban Bullrich a sus redes.",
+      "score": 0.574,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que le dice esta mujer.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dice una mujer a Esteban Bullrich y él lo publica.",
+      "score": 0.625,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:** Se corrigieron nombres y apellidos de personalidades mencionadas en el texto, como:\n    *   Aníbal Fernández\n    *   Agustín Rossi\n    *   Diego Armando Maradona\n    *   Winston (apellido no especificado)\n    *   Ornella Cirillo (se modificó la grafía)\n    *   Diana (apellido no especificado)\n    *   Federico Villena\n    *   Santiago Cafiero\n    *   Jaime Bayly\n    *   Hugo Chávez\n    *   Alberto Fernández\n    *   Axel Kicillof\n    *   Mauricio Macri\n    *   Axel Kicillof\n    *   Luis Majul (se modificó la grafía)\n    *   Ariel Serna\n    *   Flor Arietto\n    *   Larreta (se corrigió la grafía)\n    *   Facundo Manes\n    *   Gómez Alcorta\n    *   Victoria Donda\n    *   Grasso (se corrigió la grafía)\n    *   Valeria Massa\n    *   Chino Navarro\n    *   Esteban Bullrich\n    *   José (apellido no especificado)\n    *   Franco Rinaldi\n\n*   **Corrección ortográfica:** Se corrigieron errores de ortografía, como el uso de tildes, mayúsculas, y errores de tipeo.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 72
+  },
+  "etiqueta_original": "neutral"
+}

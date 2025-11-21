@@ -1,0 +1,105 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Por lo tanto, le quiero preguntar al profesor Juan Carlos de Pablo qué pensó cuando escuchó al presidente de la Nación decir, el viernes comienza la guerra contra la inflación.",
+      "entidades_detectadas": [
+        "carlos",
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "No, no, bueno, los diarios hoy están spoileando, dicen que las armas de Alberto son suba de retenciones, ampliación de precios cuidados y nada más que eso, y pacto de precios y salarios.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "No, no, un empresario en la Argentina con el nivel de poder que tiene el gobierno de turno, el poder discrecional, no se quiere pelear, por lo menos públicamente.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Hace un tiempo te escuché, hace bastante tiempo te escuché, que a vos te sorprendía cómo tus alumnos en la universidad comenzaban a recitar esto, o en todo caso a tomar que un poco de inflación está bien, cuando nos olvidamos de todo el pasado inflacionario de la Argentina y en las universidades se volvió a argumentar que convivir con un mal, como le llamaste vos, un mal aguantable, no es tan malo.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Bueno, te pregunto, el ferretero que lo escuchó el otro día a Alberto decir que el viernes empezaba la guerra contra la inflación, ¿qué hizo?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Vos, escuchame, Argentina es un país presidencialista y personalista.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Primera modificación de diputado, tanto en el '85 como en el '91, y evidentemente, no voy a decir que fue el último, fue el único factor, pero evidentemente ayudó poderosamente a que Alfonsín primero y Menem después ganaran sus respectivas elecciones.",
+      "entidades_detectadas": [
+        "alfonsín",
+        "menem"
+      ]
+    },
+    {
+      "frase": "Entonces, cuando Alberto Fernández se dé cuenta que está por perder la elección, de repente hace algo.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Argentina es un país presidencialista y personalista.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Imaginate que en este momento Pesce, presidente del Banco Central, dijera, bueno, está muy bien, muy bien, muy bien.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Entonces, te das cuenta, cuando el otro día alguien me pregunta, no, pero el acuerdo con el fondo dice que hay que sacar el cepo, una fantasía, todo el mundo sabe, nadie cree en lo que está escrito allí, ni el Fondo Monetario, ya saben que no lo vamos a cumplir, ya saben que no van a mandar la misión, ya saben que vamos a pedir disculpas, porque acá hay dos realidades en el acuerdo con el fondo, ya nos dieron la guita y nunca la vamos a pagar, y lo sabe todo el mundo, con esfuerzo argentino, por supuesto.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Porque en la historia, dos veces, dos veces, en la historia argentina, Argentina le canceló la deuda al fondo, la primera durante el Proceso y la segunda en estos quince.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Entonces discutir el acuerdo con el fondo, no el acuerdo con el fondo, costo de partida, como si estuviéramos en una situación normal, acá no hay nada normal, este acuerdo tiene más que ver con que el fondo necesita un papelito para que no se le estropee su balance, si su principal deudor no le paga, entonces tiene que hacer una ficción, el acuerdo es una ficción, lo sabe todo el mundo, no tiene nada que ver con la política económica.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Juan Carlos de Pablo.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "**Correcciones y Cambios (Log):**\n\n*   **Nombres y Apellidos:**\n    *   \"Juan Carlos de Pablo\" se estandarizó con mayúsculas iniciales en cada nombre.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "*   \"Alberto\" -> Se entiende la referencia y se asume que es Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

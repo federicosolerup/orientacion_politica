@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 5,
+      "derecha": 0
+    },
+    "score_promedio": 0.07,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, por suerte tenemos un presidente muy, ¿cómo decirlo?, muy atento a la realidad de lo que está sucediendo y está preocupado, por ejemplo, porque los docentes dicen que van a tener que pagar ganancias.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde principio de año, lamentablemente, se están esperando lluvias que no llegan y eso, por supuesto, se traduce directamente en una menor cosecha y, por tanto, en un menor ingreso de divisas por exportación, sobre todo de soja y, sobre todo, de trigo también, que es de todos los cultivos el que hasta ahora ha estado más dañado y más golpeado por la falta de lluvias.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien nos decía que el campo está caliente y realmente es lo que estamos observando, es la imagen que podemos recoger en esta localidad cercana.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted fíjese que ha habido fe en el país, porque la herramienta que vemos es toda renovada, ha sido toda renovada después de la crisis de Martínez de Hoz, y sin embargo no tenemos respuestas.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que vino de la mano del voto no positivo de Cobos y en donde le conocimos mucho la cara, sobre todo lo que no estamos en el sector, Alfredo de Angeli, allí en los Cortes en Gualeguaychú.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

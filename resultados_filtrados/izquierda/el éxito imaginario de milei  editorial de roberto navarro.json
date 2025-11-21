@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Un estudio del Observatorio Humanitario de la Cruz Roja Argentina reveló que uno de cada tres jubilados padece hambre.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La Federación Sindical de Profesionales de la Salud advirtió que en 2024 fallecieron al menos 100 personas por falta de medicamentos, tras la suspensión de su entrega por parte del Estado a pacientes graves.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Argentina atraviesa una crisis humanitaria.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Los alquileres subieron un 262%, más del doble de la inflación medida por el INDEC en 2024.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Los pobres e indigentes en Argentina se encuentran desamparados.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El Estado y la sociedad los han abandonado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Cuando el gobierno suspendió la entrega de alimentos, TN y La Nación Más denunciaron que las organizaciones sociales robaban la comida.",
+      "entidades_detectadas": [
+        "tn",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Al agotarse las reservas, se solicitará un nuevo préstamo al FMI para mantener la estabilidad del dólar hasta las elecciones, sin importar el costo social.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    }
+  ]
+}

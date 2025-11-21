@@ -1,0 +1,301 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 36,
+      "derecha": 21
+    },
+    "score_promedio": 0.359,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En la elección de Alfonsín del 83, la dialéctica era bastante similar.",
+      "score": 0.621,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfonsín había logrado superponer la imagen del peronismo, de ese peronismo ortodoxo de Herminio Iglesias, de Lorenzo Miguel, de la cúpula sindical, con la imagen de la dictadura, hablando de un pacto sindical militar.",
+      "score": 0.313,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el discurso de Fernández es un discurso que casi está únicamente concentrado en cambiar la política económica.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que parece ser una continuidad de un mar de fondo que viene trabajando la política argentina desde hace muchísimo tiempo, secular, presenta en la superficie perplejidades, novedades, curiosidades, como por ejemplo una especie de cambio de roles entre los candidatos.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy vemos a Macri con un discurso económico desesperado, porque sabe que pierde básicamente las primarias por la economía.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri hace promesas económicas.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno trajera a un sueco a mirar la política argentina, alguien que la mira muy desde lejos dice este es el candidato de la oposición, el candidato que puede tener un discurso económicamente demagógico sin que nadie le pida cuentas, porque no tiene nada que ver con el gobierno y no es el presidente que va por la reelección.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el candidato de la oposición, el que dice que hay que cambiar la política económica, parece hacerse cargo de algunas continuidades o de algunas preocupaciones que eran las preocupaciones de Macri hasta hace poco tiempo.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, el otro día estuvo en la Unión Industrial Argentina donde obviamente le piden baja de impuestos y él contesta que no en homenaje al equilibrio fiscal y manifiesta tener mucha preocupación por el déficit fiscal.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, vemos otra peculiaridad, otra rareza en este cambio de roles entre Fernández y Macri en el tipo de campaña.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una vez que Fernández sale primero en estas primarias tan extrañas, que no son primarias, son una elección general al fin y al cabo, porque nadie compite con nadie.",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández las gana y a partir de ahí prácticamente todo lo que aparece de Fernández son relaciones con el establishment, con esto que se ha dado en llamar círculo rojo.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y al revés Macri, que sería tan círculo rojo que es el presidente de la nación, es el gobierno, aparece vinculado a la gente, aparece movilizando a su propia base.",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de la clientela, la base electoral que pueda tener el radicalismo en Tucumán, que por supuesto tiene un asentamiento parcial en sectores populares, los que observan la vida tucumana de manera independiente, con algunos de ellos he hablado hace un rato, decían, no, nos sorprende que han aparecido clase media-media baja que ni siquiera tiene que ver con lo que podría movilizar el radicalismo.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Es gente radicalizada que solamente podría votar por Macri, que al ver la derrota de Macri se moviliza abrazando las ideas que identifica en Macri?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri puede aspirar a mejorar su elección a partir de esta movilización, ¿tendrá algún tipo de contagio?",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una especie de caerse la ficha en la cabeza de aquellos que, como me dijo hoy un dirigente macrista, nos tiraron de la oreja y se quedaron con la oreja en la mano, es decir, se le fue la mano en la advertencia de que querían que se les preste atención.",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un votante que está decepcionado con Macri y que tampoco lo va a votar, pero habría un tercer grupo de los que votó opciones distintas de las de Macri que habría votado en contra de Macri como para decir, che, prestame atención, decime qué me ofrecés para el futuro, acá estoy, date cuenta.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, leyendo esas encuestas es que Macri elabora un discurso diciendo, ahora te escuché, es decir, un voto del desatendido, no del desencantado.",
+      "score": 0.291,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Macri, el gobierno, cambiemos apela a ese voto cuando produce esta movilización y apuesta que esto siga ocurriendo.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La concentración en el obelisco tiene para el no peronismo, bueno, una evocación inevitable que es justamente la del 83 con Alfonsín en el pre cierre de campaña.",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfonsín cerró la campaña en Rosario, pero el penúltimo acto con un millón de personas, una manifestación histórica en el que el momento se realizó en el obelisco.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y porque Tucumán, sea por vocación o por necesidad, se ha convertido en la pieza central del armado federal que construye Alberto Fernández y es una pieza controvertida.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recién Macri le hablaba a los tucumanos y le decía, cuiden la elección, les dio prácticamente instrucciones como instrucciones a un fiscal diciendo sobre todo acá en Tucumán.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, Fernández cuando se acerca a Manzur, igual que cuando se acercó a Uñac, fueron los dos primeros gobernadores que adhieren a un candidato que solo tenía como activo el dedo de Cristina.",
+      "score": 0.659,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora daría la impresión de que la cercanía de Manzur, que dice que va a manejar el área de salud con Fernández a través de uno de los hermanos Jattín, no sabemos cuál de los dos, uno de ellos es secretario de la Gobernación y atrevió bastantes escándalos en Tucumán, no sabemos si Fernández no está empezando a sentirse incómodo con esta proximidad del controvertido Manzur y preferiría tener su alianza federal más basada en gobernadores como Perotti, que está muy cerca de Bordet de Entre Ríos y es más como Schiaretti con el que Fernández empieza a tejer una relación de debajo de la superficie todavía no pública, claro, porque los votos de Fernández en Córdoba no son tan caudalosos como los que tienen otras provincias, Córdoba sigue siendo una provincia macrista.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que la movilización más importante que se produjo ahora, la más novedosa, la más llamativa, donde habrá que indagar qué hay ahí adentro de ese fenómeno, que se produce a favor de Macri y en la que Macri apuesta para recuperar temperamento, temperatura electoral, se produjo en la provincia que sería la cuna del Alberto Fernandismo, allí donde Manzur dijo este es el nuevo jefe del peronismo, olvidándose de Cristina deliberadamente.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Significa también condicionar lo que sería la vida de Cambiemos o de Juntos por el Cambio después de lo que podría ser una derrota el 27 de octubre.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A quién le están hablando?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A María Eugenia Vidal y Horacio Rodríguez Larreta.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay ya una disputa de liderazgo dentro del PRO, dentro de Cambiemos, en la que interviene también el radicalismo, lo hablamos el lunes pasado, que ahora ha quedado sofocada porque no le sirve a nadie abrir ese debate en medio de la campaña electoral.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos debates son postelectorales y suelen producirse en esos congresos catárticos de los partidos cuando pierden elecciones.",
+      "score": 0.503,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La elección no está jugada, pero ya empieza a haber hipótesis para lo que podría ser la escena postelectoral en la hipótesis de que a Macri le siga yendo mal, por decir de alguna manera.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández parece estéticamente, visualmente más desligado de, se lo dijo Horacio González, el intelectual de Carta Abierta, el ex presidente director de la Biblioteca Nacional, de la calle.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "González usa una expresión muy interesante, dice, Fernández es abogado, le gusta decir que es hijo de un juez, viste como un porteño viejo, le está hablando a Cristina, le dice Cristina nos pusiste un De la Rúa.",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La calle parece ser Macri hoy, más que Fernández, y Fernández está recorriendo el establishment, con distintas repercusiones, con distintas respuestas, con distinto trato y el establishment, las distintas instituciones, las distintas corporaciones van tomando posición frente a lo que suponen es una elección ya jugada.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora descubrieron algo que se les decía hace mucho tiempo, cuidado con la prisión preventiva, cuidado con hacer un uso extorsivo de la prisión preventiva para producir arrepentimientos, porque después si no hay pruebas, si no hay pruebas de que ese que fue a prisión preventiva quería obstruir la justicia o quería fugarse, van a tener que hacer una especie de liberación en masa, que es lo que está ocurriendo hoy.",
+      "score": 0.264,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora hay una cantidad de liberaciones que plantean un gran signo de interrogación de por qué hubo gente que estuvo presa durante tanto tiempo sin que la justicia pudiera encontrar las pruebas que esa gente aparentemente podría haber transcrito.",
+      "score": 0.297,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Problemas de la Argentina con el Estado de Derecho.",
+      "score": 0.266,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dictó a Cristina Kirchner ocho indagatorias en un día.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bonadio, por ejemplo, procesa a Luis Ben Nasa de Tequín por la extorsión que recibieron del gobierno de Néstor Kirchner, concretamente de Roberto Baratta, Julio De Vido, para hacer una gestión delante de Chávez y liberar a argentinos que estaban allá prácticamente secuestrados en las empresas de Tequín por el chavismo que había nacionalizado Sidor.",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay una empresa a la que no se le puede reprochar kirchnerismo ni haber hecho negocios con el kirchnerismo de obra pública o de lo que se juzga en los cuadernos es Tequín, que fue discriminada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo la solicitada que decían Clarín, La Nación y Tequín miente.",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por otro lado, una figura emblemática de los negocios del kirchnerismo, prácticamente socio del que manejaba los servicios de inteligencia Francisco Larcher, que aparece mencionado por el contador de los Kirchner como alguien que tenía el secreto junto con Muñoz, el secretario privado de Kirchner, de donde se guardaba el dinero vivo de esa corrupción.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto lo dijo Víctor Manzanares, el contador de la familia Kirchner, que es Eskenazi, Sebastián Eskenazi, que se quedó con el 25% de YPF sin poner una moneda, ni siquiera fue llamado a declarar por el juez Bonadio que, como sabemos, comía con Eskenazi en un restaurante italiano de la calle Ayacucho.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una de ellas, una figura muy controvertida, muy opaca, el mismo Macri en conversaciones privadas dice que es muy opaca, Silvia Majdalani, la segunda de la AFI, a la que se le acaban de descubrir una cantidad de sociedades offshore en Miami, con un dato muy importante, información que tiene todo el aspecto de venir del amigo del norte, es decir, del gobierno americano, probablemente del FBI, quiere decir que el blindaje que suponían en los servicios de inteligencia de Macri tener respecto de los Estados Unidos empezó a resquebrajarse y ahí Macri empieza a tener un problema.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La corte que le acaba de dar un instrumento extraordinario a los gobernadores que es un fallo por el cual las provincias tienen garantizada no sólo una alícuota sino un nivel de recaudación de los impuestos coparticipables.",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y porque si una jurisdicción produce un cambio que afecta a otra y esa otra tiene derecho a hacer un juicio, bastaría con que una provincia aumente el impuesto a los ingresos brutos que baja la base imponible del impuesto a las ganancias para que la nación le pueda hacer un juicio a esa provincia.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digamos aparece un tema que es un tema que mejor no tocar pero que la corte pone en el centro de la escena que es el endiablado sistema de coparticipación de la Argentina y lo pone en un momento en que las provincias están ricas y el estado nacional está pobre y le da a los gobernadores una herramienta extraordinaria para defender su posición fiscal.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es un fallo que no va contra Macri, probablemente vaya contra Alberto Fernández que va a estar en un dilema importantísimo frente a las provincias ¿por qué?",
+      "score": 0.49,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque en alguna medida va a tener que explicarles que hay que hacer un ajuste y en otra medida va a tener que pedir los votos para tener una mayoría parlamentaria que Cristina Kirchner y el kirchnerismo le pueden volver esquiva en el Congreso.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vemos a Fernández con la UIA, vemos a Fernández con los gremios, se empieza a hablar de un acuerdo económico y social, de esto vamos a hablar ahora con Frenkel que es uno de los mayores expertos en pensar cómo se tiene que organizar la sociedad y la dirigencia social frente a un problema de inflación.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí están dos figuras, presten atención, Gerardo Martínez, Daniel Funes de Rioja, Gerardo Martínez, secretario general de la UOCRA, Daniel Funes de Rioja es el Cerebro Legal de la UIA, es el presidente de la COPAL, de la Cámara de Empresas Alimenticias, se conocen de toda la vida, viajan juntos a la OIT porque ambos son representantes, uno por los empresarios, otro por los sindicalistas, habría que mirar en la relación de Martínez con Funes de Rioja para saber si no están redactando ya una especie de acuerdo para Fernández, acuerdo difícil de alcanzar siempre en la Argentina.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque hasta que demuestre lo contrario, Fernández es un presidente o un candidato a presidente, un presidente hipotético débil, todavía no lo hagamos presidente pero hay muchas probabilidades de que lo sea.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus votos, hasta nuevo aviso, son los votos de Cristina y lo que estamos viendo es que la política, los dirigentes políticos, los Massa, los Manzur, la CGT, Daer que quiere ser el jefe de la CGT, los empresarios, la UIA, cada uno está planeando una estrategia de supervivencia pensada sobre la hipótesis no de darle algo a Fernández sino de aprovechar esa supuesta debilidad de Fernández.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miran a Fernández como un equilibrista y Fernández tiene que demostrar si es que gana que en alguna medida los votos son de él y que tiene un punto de apoyo para mover la palanca que haga salir a la Argentina de la crisis.",
+      "score": 0.625,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí está Fernández con los dilemas del establishment mientras Macri moviliza multitudes.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 57
+  },
+  "etiqueta_original": "neutral"
+}

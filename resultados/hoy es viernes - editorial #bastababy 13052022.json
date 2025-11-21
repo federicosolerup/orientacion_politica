@@ -1,0 +1,137 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "A pedido de las autoridades del canal, este viernes haremos un programa diferente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos enfocaremos en mejorar la calidad del programa y de nuestras instalaciones, ya que los bajos índices de audiencia nos preocupan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Consideramos que nuestro trabajo necesita un cambio profundo, y revisaremos cada aspecto del programa para mejorarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sabemos que otros canales nos envidian.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Según Mauro Nieto, directivo del canal 11 (Telefónica), la gerencia se reunió para analizar nuestro éxito, considerando que logramos buenos resultados con pocos recursos.",
+      "entidades_detectadas": [
+        "Según Mauro Nieto",
+        "Telefónica",
+        "canal 11"
+      ]
+    },
+    {
+      "frase": "La pregunta era: ¿cómo es posible que un equipo con tan pocos recursos obtenga un rating de 3 a 4 puntos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La comparación se hizo con otros programas con presupuestos mucho mayores,  pero con menores resultados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestra clave es el afecto que nos une al equipo y al público.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajamos con mucha pasión y dedicación, aún con las dificultades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay una rutina establecida, a menudo nos adaptamos a imprevistos, como la llegada de videos de último momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No trabajamos en contra de ningún partido político; simplemente expresamos nuestra opinión con honestidad.",
+      "entidades_detectadas": [
+        "ningún partido político"
+      ]
+    },
+    {
+      "frase": "Este viernes, estamos agotados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos del equipo están lidiando con problemas personales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Javier, que en paz descanse, se encuentra delicado de salud; la vacuna le afectó mucho.",
+      "entidades_detectadas": [
+        "Javier"
+      ]
+    },
+    {
+      "frase": "El productor también está pasando por una situación difícil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A pesar de todo, seguiremos adelante con el programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Necesitamos su apoyo y comprensión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si logramos un rating de 3 puntos, ¡será una gran victoria!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezaremos el programa analizando brevemente la actualidad argentina, haciendo algunas críticas constructivas al gobierno nacional y al gobierno de la ciudad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy hablé con D'Alessandro en la radio sobre la situación de abandono que sufren las calles luego de las marchas: la basura, los baños destruidos, los destrozos en general.",
+      "entidades_detectadas": [
+        "D'Alessandro"
+      ]
+    },
+    {
+      "frase": "Los impuestos de los ciudadanos se utilizan para reparar los daños ocasionados por manifestantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otra preocupación es la situación en el Mercado de Liniers, donde existen tensiones por el uso de tierras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Asimismo, el Gobierno nacional está perimetrando la ciudad con miras a futuras protestas, por lo que recomiendo a los vecinos estar alerta.",
+      "entidades_detectadas": [
+        "Gobierno nacional está"
+      ]
+    },
+    {
+      "frase": "Este será un año complejo, con alta probabilidad de conflictos sociales, incluso con posibilidad de toma de propiedades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les recomiendo estar muy atentos a la seguridad de sus hogares y pertenencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este tipo de acciones ilegales se están incentivando y la protección de la propiedad privada parece no importar para este gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por favor, cuiden sus casas y pertenencias, y esperemos que este difícil periodo pase pronto.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Consideramos",
+    "Necesitamos",
+    "canal 11",
+    "Nuestra",
+    "Según Mauro Nieto",
+    "D'Alessandro",
+    "Telefónica",
+    "ningún partido político",
+    "Gobierno nacional está",
+    "Javier"
+  ]
+}

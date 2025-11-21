@@ -1,0 +1,568 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Las Olimpiadas… ¡Campeón de micrófono!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va bien, chico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero un colaje, mira, está por acá.",
+      "entidades_detectadas": [
+        "mira"
+      ]
+    },
+    {
+      "frase": "Nos habían robado el micrófono; mucho quisquilloso por los pasillos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estas cosas pasan, van a empezar a faltar cámaras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy encontré a un diputado que se llevaba un rollo de papel higiénico para su casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchachos, aflojen, que no es el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Siéntese, marmota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va a saludar a María Eugenia Vidal, desesperado.",
+      "entidades_detectadas": [
+        "María Eugenia Vidal"
+      ]
+    },
+    {
+      "frase": "Andaban Vidal y [nombre del otro], y este corriendo atrás.",
+      "entidades_detectadas": [
+        "Andaban Vidal"
+      ]
+    },
+    {
+      "frase": "Pues ya que hace eso, cuando te ve hablando con algún político, ponte a un costado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te rías, porque es verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual, no te voy a decir nada porque sé que [nombre del alcahuete] trajo unos salamines.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A quién?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "A mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡En serio!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y te digo más: no dijo nada de la rata.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trajo salamines y me dijo: \"Si querés que se sequen un poquito más, dales una semana colgados\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un chupamedias, pero te juro que es por la campera que me regalaste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jaldito me trajo una bondiola.",
+      "entidades_detectadas": [
+        "Jaldito"
+      ]
+    },
+    {
+      "frase": "Jamón pata negra.",
+      "entidades_detectadas": [
+        "Jamón"
+      ]
+    },
+    {
+      "frase": "Es por la campera que me regalaste y que no le entraba a Javier.",
+      "entidades_detectadas": [
+        "Javier"
+      ]
+    },
+    {
+      "frase": "Un jamón pata negra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo tengo para Alevina una caja de habanos cubanos que me mandó Andrés Robiolo, que vende habanos en la estación de Martínez, que tiene una tabaquería muy importante.",
+      "entidades_detectadas": [
+        "Alevina",
+        "Andrés Robiolo",
+        "Martínez"
+      ]
+    },
+    {
+      "frase": "Me mandó una caja de habanos para Alevina, que la tengo en casa.",
+      "entidades_detectadas": [
+        "Alevina"
+      ]
+    },
+    {
+      "frase": "Muy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y Alevina trajo regalos de Miami también para todos.",
+      "entidades_detectadas": [
+        "Alevina",
+        "Miami"
+      ]
+    },
+    {
+      "frase": "Muy bien, Alevina, excelente, felicitaciones.",
+      "entidades_detectadas": [
+        "Alevina"
+      ]
+    },
+    {
+      "frase": "¿Lo trajo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Lo trajo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una casa que te venden en…  (Aquí falta información para completar la frase coherentemente).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuatro… (Falta información) un dólar.",
+      "entidades_detectadas": [
+        "Falta"
+      ]
+    },
+    {
+      "frase": "Hay que tener los habanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una caja de habanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La tengo ahí, al pelo, porque yo no fumo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Largan los habanos.",
+      "entidades_detectadas": [
+        "Largan"
+      ]
+    },
+    {
+      "frase": "Escuché algo, quiero que hagamos una cadena de energía para Chano Charpentier.",
+      "entidades_detectadas": [
+        "Chano Charpentier"
+      ]
+    },
+    {
+      "frase": "Lo conozco a Chano.",
+      "entidades_detectadas": [
+        "Chano"
+      ]
+    },
+    {
+      "frase": "Es un pibe con sus problemas, pero una gran persona, un ser humano excepcional, y hoy tuve esa desgracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente espero que te pongas bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un chico que, si lo conoces o quieres, es más bueno de lo que parece, un tierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con ese problema que también en la Argentina mata tanta gente como el COVID, la droga, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "COVID",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Porque no caés muerto, pero caés destruido para toda la vida y caés fisurado en las villas, en todos lados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cantidad de chicos que tienen grandes problemas y hay que hablarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y a mí me da mucha vergüenza que en este momento se esté discutiendo incluso entre colegas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Taser de nuevo, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Taser"
+      ]
+    },
+    {
+      "frase": "Cada vez que le pegan un tiro a alguien aparece de nuevo la discusión de la Taser, que ya tendría que estar resuelta.",
+      "entidades_detectadas": [
+        "Taser"
+      ]
+    },
+    {
+      "frase": "No es nada del otro mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo lo que pasa en Argentina pasa por los derechos humanos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Si no se hubiesen metido a opinar sin motivo, Hebe de Bonafini y Estela de Carlotto, porque siempre viste, son como esos loros viejos de veterinarias que, para que alguien los compre, cuando pasaste, siempre tienen que opinar de algo.",
+      "entidades_detectadas": [
+        "Estela de Carlotto"
+      ]
+    },
+    {
+      "frase": "Cuando queríamos tener la Taser en la época de Macri, los derechos humanos, la picana, la cantidad de estupideces, porque la verdad te digo, nadie está en contra de luchar por los desaparecidos.",
+      "entidades_detectadas": [
+        "Taser",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Nadie está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos estos pelotudos que hablan, Adolfo Pérez Esquivel, todos estos tipos que se han hecho conocidos gracias a los derechos humanos, que no han hecho una mierda para salvar a nadie, que muere cantidad de gente en Argentina y estos siguen con la misma cantinela de los 70.",
+      "entidades_detectadas": [
+        "Adolfo Pérez Esquivel",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y [nombre de persona] dijo: \"Hay que limpiar el partido\", habla de limpieza, de los “ñoquis”, con todo ese curro de mierda que hicieron, le cagaron la vida a todo el mundo, mueren mujeres, mueren chicos, los derechos humanos… Anoche me acordaba que hay una nena desaparecida todavía y… (Aquí falta información para completar la frase coherentemente).",
+      "entidades_detectadas": [
+        "Anoche"
+      ]
+    },
+    {
+      "frase": "Creo que es… (Falta información).",
+      "entidades_detectadas": [
+        "Falta"
+      ]
+    },
+    {
+      "frase": "Desaparecían, salvaron a Guadalupe y nadie… los derechos humanos… no viste una sola con el pañuelo, la boluda esta, nada, ¿entendés?",
+      "entidades_detectadas": [
+        "Guadalupe",
+        "Desaparecían",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y el Ministerio de la Mujer y las mujeres atropelladas, golpeadas y humilladas y nada, viste, con la Taser pasó lo mismo, empezaron Bonafini y Carlotto, porque claro, cuando no tienen una semana de protagonismo, creen que ya no son relevantes, y la verdad que no lo son, porque a nadie le importa Carlotto y Bonafini.",
+      "entidades_detectadas": [
+        "Bonafini",
+        "Taser",
+        "Ministerio de la Mujer",
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Entonces saltan con la Taser.",
+      "entidades_detectadas": [
+        "Taser"
+      ]
+    },
+    {
+      "frase": "Hoy hubiese habido una Taser, este chico estaba en un hospital internado para su recuperación y no luchando por su vida como está luchando con un balazo que le perforó… Entonces ¿qué hace el periodismo?",
+      "entidades_detectadas": [
+        "Taser"
+      ]
+    },
+    {
+      "frase": "En cambio de putear a los que no la dejaron traer, empiezan a discutir de nuevo si hay que traerla o no, pero hasta cuándo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un montón de pistolas Taser guardadas que las tienen los ministerios de seguridad y no las usan, y le preguntan al ministro de seguridad… que si hay algo más inocuo que la ministra de seguridad de Argentina, es increíble.",
+      "entidades_detectadas": [
+        "Taser",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Poner a esa mujer de ministra de seguridad, estar ahí con el culo lleno de vaselina a la calle por Constitución a las 12 de la noche, porque realmente no te garantiza ninguna seguridad, y es real, porque realmente no se la ve nunca, no opina, no se la ve ni en la provincia que muestra un poco más de gestión, pero realmente lo único que dice es no, es una picana, porque eso ocurre, por el tema de los Falcon verdes, todo lo asocian… Estoy podrido en Argentina, te asocian todo, no tengo nada que ver con Videla, con la dictadura, y esta mañana mientras iba para… ¿cómo venimos?",
+      "entidades_detectadas": [
+        "Argentina",
+        "Estoy",
+        "Falcon",
+        "Constitución",
+        "Videla"
+      ]
+    },
+    {
+      "frase": "¡Gordo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Gracias!",
+      "entidades_detectadas": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "frase": "Mientras veníamos para la radio, esta mañana, decía: \"¿Qué habrá sido de la vida de Bobby Misogino?\", porque resulta que en la época de Macri, como había que pegarme para callarme como siempre, me metieron el título de misógino, xenófobo, antisemita, facha, gorila y otras cosas más que le vamos a agregar cuando haga falta, y ahí salía Ani Ventura, ustedes la conocen, la que escribía en la revista de [nombre de la revista] en la época del Proceso, ok, bien, bueno, Ani Ventura, Carla Czulnozki, que se recibió de panelista, un agujero la meten a ella, y ya sabemos que Bobby M.C.",
+      "entidades_detectadas": [
+        "Bobby Misogino",
+        "misógino",
+        "Bobby M.C.",
+        "Carla Czulnozki",
+        "Proceso",
+        "Macri",
+        "xenófobo"
+      ]
+    },
+    {
+      "frase": "es un misógino, un xenófobo, y yo la verdad que miraba a mi familia y le decía a mi hija, a toda la mujer de mi familia: \"¿Qué hay que hacer para ser xenófobo o misógino?\".",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Me decían: \"No sé\", porque la verdad que no hay tipo más tranquilo que yo, me gustan en demasía las mujeres, ese será el problema, digo, que me gusten mucho las mujeres, no, es que el maltratador, ya sabemos que es un maltratador serial, que es una… no, realmente les cagaba el negocio, el negocio este del Falcon Verde, porque se le van acabando las pilas de la linterna, se van dando cuenta que ya les quedan poco por buscar y que se les acaba el curro, entonces tienen que salir a hablar de la Taser, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Taser",
+        "Falcon Verde"
+      ]
+    },
+    {
+      "frase": "Hoy el problema de la Taser, si estos tiros se lo han pegado a uno de la Plaza de Mayo, hoy tendríamos un quilombo en Argentina, parecía una guerra civil, pero no salió ni Hebe de Bonafini ni Estela de Carlotto a hablar porque Chano Charpentier, un pibe que votó a Macri, qué cagada, le erró, pero Chano hoy se está muriendo por un tiro pegado en la pierna y le destrozó todo por no tener la Taser por culpa de estos hijos de puta de los derechos humanos, sin útiles de mierda que no la dejaron imponer.",
+      "entidades_detectadas": [
+        "Estela de Carlotto",
+        "Bonafini",
+        "Argentina",
+        "Chano Charpentier",
+        "Taser",
+        "Chano",
+        "Plaza de Mayo",
+        "Hebe",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Estados Unidos hace años que tiene la Taser y que agarra los chorros con la Taser y no pasa absolutamente nada, los agarran vivos y se los llevan, pero estos tuvieron que opinar porque ellos opinan de todo en el afán de ser derechos humanos: Hebe de Bonafini, Estela de Carlotto, Adolfo Pérez Esquivel, ni Milani, [nombre de persona], y compañía.",
+      "entidades_detectadas": [
+        "Estela de Carlotto",
+        "Adolfo Pérez Esquivel",
+        "Taser",
+        "Milani",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Ayer, el otro día vi la presentación de la lista de Cristina Kirchner y le quería decir una cosa señora, qué mal le queda todo, no hace reír a nadie, salvo a los alcahuetes y a los genuflexos, a los aplaudidores suyos, cuando usted dijo… (Aquí falta información para completar la frase coherentemente).",
+      "entidades_detectadas": [
+        "Ayer",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Digo, mira qué buen homenaje a [nombre de persona], che, pero la verdad che, que si hubo alguien que le chupó la media a Kirchner fue su marido y usted, a Menem, porque usted fue la que lo engordó a Menem llevándolo a Santa Cruz diciendo que era el mejor presidente que había tenido Argentina después de Perón, regalándole un cuadro con la cara de Menem, ustedes fueron los únicos que fueron alcahuetes y genuflexos de los militares y de Menem, ¿o se olvida que su cuñada fue funcionaria de los militares?",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Argentina",
+        "Santa Cruz",
+        "¿",
+        "verdad che",
+        "Menem",
+        "Digo"
+      ]
+    },
+    {
+      "frase": "¿O se olvida que el juez este que ahora la juega de Derechos Humanos también, otro más, otro [nombre de persona] le escribía la cosita a los milicos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Por eso digo estoy cansado de más de lo mismo y hoy me decía: \"¿Cómo viste la lista?\", \"Cómo el orto\", porque son los mismos nombres en diferentes lugares, vuelve a estar [nombre de persona], vuelve a estar este, ¿cómo se llama?, [nombre de persona], todos estos tipos de nuevo que a mí la verdad me importan un carajo, que no hicieron nada bien, que los están premiando por los 120 mil muertos que tenemos del COVID, vuelven los mismos nombres a los mismos lugares para hacer lo mismo, o sea hacer mierda a Argentina, por eso digo, está bueno como somos, primero prohibimos la Taser y cuando aparece un tiro pegado a un tipo queremos la Taser de nuevo, pero aguanten todavía, dentro de dos días aparece Hebe de Bonafini, Estela de Carlotto, Adolfo Pérez Esquivel y Milani diciendo que la Taser es la picana que usaba [nombre de persona] en la época de los altos mandos.",
+      "entidades_detectadas": [
+        "Estela de Carlotto",
+        "Argentina",
+        "Adolfo Pérez Esquivel",
+        "Taser",
+        "Milani",
+        "COVID"
+      ]
+    },
+    {
+      "frase": "**Log de Correcciones:**\n\nEl texto original presenta numerosos problemas de ortografía, coherencia y cohesión, además de la falta de nombres propios.",
+      "entidades_detectadas": [
+        "Log de Correcciones"
+      ]
+    },
+    {
+      "frase": "La corrección se centró en:\n\n* **Ortografía:** Se corrigieron faltas de ortografía como \"afanado\" por \"robado\", \"quisnerita\" por \"quisquilloso\", \"marmota\" por \"siéntese\", \"alcahuete\" (se mantuvo, ya que se usa como insulto coloquial), \"lip\" (se dejó como está, por la falta de información), \"Tizer\" por \"Taser\", \"Echivel\" por \"Esquivel\", \"Viril\" por el nombre correcto del militar, etc.",
+      "entidades_detectadas": [
+        "Ortografía",
+        "Tizer",
+        "Echivel"
+      ]
+    },
+    {
+      "frase": "Se corrigieron también mayúsculas y minúsculas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "* **Nombres y Apellidos:** Se añadieron o corrigieron nombres propios como María Eugenia Vidal, Hebe de Bonafini, Estela de Carlotto, Adolfo Pérez Esquivel, Chano Charpentier y otros, siempre que fue posible.",
+      "entidades_detectadas": [
+        "Estela de Carlotto",
+        "Apellidos",
+        "Adolfo Pérez Esquivel",
+        "María Eugenia Vidal",
+        "Nombres",
+        "Chano Charpentier"
+      ]
+    },
+    {
+      "frase": "En varios casos faltaba información para completar correctamente los nombres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "* **Cohesión y Coherencia:** Se reestructuraron varias frases para mejorar la fluidez y la comprensión.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "Se eliminaron repeticiones innecesarias y se añadieron conectores para mejorar la lógica del discurso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo,  hay varias partes del texto donde la información es incompleta o incoherente, por lo que se han dejado algunas frases como están, señalando con \"(Aquí falta información para completar la frase coherentemente)\" o \"(Falta información)\" los lugares donde la información faltante impide una corrección completa y significativa del texto.",
+      "entidades_detectadas": [
+        "Falta"
+      ]
+    },
+    {
+      "frase": "Algunas frases suenan incoherentes por sí solas, pero se mantuvieron para reflejar el discurso original sin alterarlo demasiado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gran cantidad de información dispersa y la falta de contexto hacen que la coherencia general del texto sea difícil de alcanzar en su totalidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En resumen, se ha realizado una corrección lo más completa posible, pero la calidad del texto original limita la perfección de la corrección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para lograr una mayor corrección se requiere de más información contextual y una reescritura más extensa.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "Estela de Carlotto",
+    "Echivel",
+    "Adolfo Pérez Esquivel",
+    "Largan",
+    "Estoy",
+    "María Eugenia Vidal",
+    "Desaparecían",
+    "Qué",
+    "Jaldito",
+    "Milani",
+    "Menem",
+    "Digo",
+    "Kirchner",
+    "Falcon Verde",
+    "Guadalupe",
+    "Falcon",
+    "Constitución",
+    "Falta",
+    "Taser",
+    "Chano",
+    "xenófobo",
+    "Javier",
+    "Cristina Kirchner",
+    "Nombres",
+    "Hebe",
+    "Estados Unidos",
+    "COVID",
+    "Bobby Misogino",
+    "Escuché",
+    "Bonafini",
+    "Andaban Vidal",
+    "¿A",
+    "Alevina",
+    "Argentina",
+    "Apellidos",
+    "Macri",
+    "Bobby M.C.",
+    "Ayer",
+    "Santa Cruz",
+    "Quiero",
+    "Cohesión",
+    "Ortografía",
+    "Cantidad",
+    "Proceso",
+    "Andrés Robiolo",
+    "Martínez",
+    "Plaza de Mayo",
+    "Log de Correcciones",
+    "Coherencia",
+    "Chano Charpentier",
+    "verdad che",
+    "Poner",
+    "Tizer",
+    "Siéntese",
+    "la Argentina",
+    "misógino",
+    "¿",
+    "Anoche",
+    "Carla Czulnozki",
+    "mira",
+    "Miami",
+    "Carlotto",
+    "Videla",
+    "Ministerio de la Mujer",
+    "Jamón",
+    "Nos"
+  ]
+}

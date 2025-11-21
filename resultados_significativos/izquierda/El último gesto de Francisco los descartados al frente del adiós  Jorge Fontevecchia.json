@@ -1,0 +1,81 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 3
+    },
+    "score_promedio": 0.246,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Porque mañana será el funeral del Papa Francisco en Roma y se han invitado a personas trans, diferentes integrantes de la comunidad LGBTQ+, presos, personas sin hogar y otros llamados \"descartables\" por este sistema, palabra que el Papa Francisco colocó en la agenda en su vocabulario, repitiéndola.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, la extrema derecha en auge en el mundo propone un capitalismo deshumanizante, un capitalismo de ganadores y perdedores solamente, pero eso no tiene por qué ser necesariamente el rumbo que tome el mundo, y Francisco nos propuso otro camino.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a servirnos de algunas películas que retrataron la vida de Jesús para rastrear esta cosmovisión al inicio mismo del cristianismo y vamos a compararla luego con las mismas actitudes del Papa Francisco.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al inicio de su pontificado en 2013, el Papa Francisco presionó al mundo para proteger y acoger a migrantes y refugiados.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tras visitar México en 2016 y rezar por los migrantes que fallecieron al cruzar, Francisco dijo del entonces candidato a la presidencia de Estados Unidos, Donald Trump, que cualquiera que construye un muro para mantener fuera a los migrantes no es cristiano.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro ejemplo que tenemos es el Papa Francisco lavando los pies de los reclusos en un Jueves Santo.",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francisco almuerza con mujeres trans en el Vaticano.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**(Transcripción de la noticia)**\n\n**Noticia:** Francisco recibe a mujeres trans en almuerzo especial.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Persona:** Gracias, tío, al UL por todo lo que nos ha ayudado en la pandemia, cuando hemos estado mal, incluso el argentino con MMS.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Persona no binaria:** Esto le respondió a una persona no binaria.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Persona no binaria:** ¿Qué piensas de aquellas personas de la iglesia, o sacerdotes, que promueven el odio y utilizan la Biblia para sustentar esos discursos de odio?",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que hizo Francisco fue un cambio de paradigma radical y, a la vez, como venimos diciendo, un regreso a Cristo.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mañana, en el último adiós a Francisco, los últimos serán los primeros, serán los que acompañen primero el féretro de Francisco en su descanso eterno.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 13
+  },
+  "etiqueta_original": "neutral"
+}

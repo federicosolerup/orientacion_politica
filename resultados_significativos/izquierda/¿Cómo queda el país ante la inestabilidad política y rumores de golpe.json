@@ -1,0 +1,201 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 24,
+      "derecha": 13
+    },
+    "score_promedio": 0.408,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a escuchar dos audios: uno de hace 56 años, sobre un rumor de golpe de estado, y luego otro actual, de ayer, sobre el rumor de la renuncia del presidente.",
+      "score": 0.274,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se supone que el rumor cuenta algo que no se puede contar, por lo que se le asigna mayor importancia, muchas veces, que a las verdades.",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando la segunda lo retransmite, ya le agrega algo.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego está la ley de acentuación del rumor.",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los rumores tienen una forma selectiva, y algunos detalles se van transmitiendo y acentuando por transmisión, como decíamos antes, que cada uno le agrega un pedacito más a la historia.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego está la asimilación.",
+      "score": 0.196,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que van a escuchar para los más jóvenes no les dirá nada, es el doctor Ricardo Balbín, quien fue el líder del partido radical en la mitad del siglo pasado, hasta que llegó Alfonsín, y, de hecho, Alfonsín era el que luchaba contra los balbinistas.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**(Fragmento del audio de Balbín)**\n\nHay algunas versiones respecto de un probable golpe militar, o quizás un probable golpe dentro del régimen obrero o de la masa obrera, que podría producirse en el curso de 1976.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los rumores a que usted alude, yo alguna vez he dicho que es el grito de los náufragos, de los que ya no quieren más que estar en el país, y quieren impedir su desarrollo y su organización.",
+      "score": 0.23,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, la misma pregunta que le hizo un periodista a Balbín, se la hizo a la vocera Gabriela Cerruti.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**(Fragmento del audio de Cerruti)**\n\nBueno, supongo que no desconoce que hoy fue un día con innumerables rumores, rumores que, por supuesto, no se han verificado, pero nos parece importante que usted nos diga si tiene pensado, si pensó, el presidente renunciar, si el presidente de la Cámara de Diputados tiene pensado o pensó en renunciar.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los rumores los hacen, los difunden y los circulan quienes tienen tiempo de sentarse a conspirar, en lugar de estar trabajando y gobernando, pero también, seguramente, quienes son los especuladores de siempre, que no les parece bien que el presidente esté trabajando, que el presidente converse con la vicepresidenta, que el dólar blue haya dejado de subir y haya empezado a descender.",
+      "score": 0.411,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, evidentemente, quienes apostaban a algún tipo de situación que no se dio, echan a correr, en algunas mesas de la City, en algunos lugares de las redes, esos rumores.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La periodista del diario *Perfil*, a eso de las 12:30 de la tarde, publicó en Perfil.com la primicia de una reunión que se había producido el día anterior entre el presidente, la vicepresidenta y el presidente de la Cámara de Diputados, es decir, Alberto Fernández, que, según la propia vocera que habíamos escuchado recién, Cerruti, desmintió, pero finalmente era verdad.",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aquí tenemos cuando entrevistan a la periodista de *Perfil*, explicando que ella le tenía que darle el dato a la vocera, que la vocera ignoraba.",
+      "score": 0.393,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos este audio de Rosario Ayerdi desmintiendo las desmentidas de Cerruti.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**(Fragmento del audio de Ayerdi)**\n\nA Cerruti le vamos a contar detalles.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los tres se reunieron ayer antes de que se ponga el sol, porque Cristina Kirchner tenía el cumpleaños de Florencia Kirchner.",
+      "score": 0.437,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, no hubo cena, hubo un encuentro a la tardecita, hasta las ocho y media de la noche, para que Cristina pudiera irse al cumpleaños de Florencia.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que lo que le pasa es lo siguiente: hubo mucho hermetismo el lunes, cuando también pude adelantar la reunión de Alberto y Cristina en privado que tuvieron.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y tiene que ver con una Cristina que está muy molesta con Alberto Fernández, porque se le fueron las manos.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incluso lo dijo Cristina Kirchner en sus cartas.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la primera vez que hay una reunión de Cristina y Alberto, en donde no se conocen detalles.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Alberto no filtró la información.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No están en un momento para que Alberto pueda filtrar la información.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**(Fin del fragmento)**\n\nBueno, ahora tenemos a Máximo Kirchner hablando ayer en Escobar, planteando algo que es paradójico.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mujer lloraba, y de noche le pegaba, y la suegra, un día, le dice: \"Pero, ¿cómo le hiciste eso a [nombre], no sé, imaginemos María?\", y él dice: \"Lo que pasa es que ella me pega\".",
+      "score": 0.509,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella le pega después de que él la engañó.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y algo parecido es esto que vamos a escuchar ahora de Máximo Kirchner.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchemos a Máximo Kirchner ayer en Escobar.",
+      "score": 0.31,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**(Fragmento del audio de Máximo Kirchner)**\n\nMuchas veces, durante estos últimos meses, no sin dolor, escuché a dirigentes importantes de nuestro espacio referirse muy mal y de muy mala manera...",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo era la compañera Cristina, y se abrazaron a Guzmán, los dejó tirados, y ahí está Cristina otra vez poniendo la cara para sacar esto adelante.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, la devaluación se le produce a Macri, pero, en realidad, es por el miedo a la llegada del kirchnerismo.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pero el tema central hoy son los rumores: rumores de renuncia del presidente, que hicieron, nuevamente, aumentar el precio del dólar, o sea, los rumores, y luego la verificación de los rumores de la salida del ministro, aumentaron el dólar porque se suponía que venía un ministro de economía cercana al kirchnerismo, y ahora, si se va directamente el presidente, se supondría que vendría directamente el kirchnerismo.",
+      "score": 0.291,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, el agente desintegrador es el kirchnerismo, no el presidente o el ministro de economía.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "de hace 56 años de la misma pregunta, en este caso, era a Balbín, al líder del partido que, en ese momento, gobernaba, o sea, en ese momento, fue el presidente Illia, y quienes están aquí, quienes vamos a escuchar nuevamente un pedacito, era el presidente del partido radical sobre los rumores de golpe, y ya cerramos esta apertura nuevamente con Rafael Acara.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**(Fragmento del audio de Balbín)**\n\nRespecto de un probable golpe militar, o quizás un probable golpe de shippin' dentro del régimen de la masa obrera, de la más obrera, que podría producirse en el curso de 1976, ¿qué opina usted concretamente respecto de ese aspecto?",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 37
+  },
+  "etiqueta_original": "neutral"
+}

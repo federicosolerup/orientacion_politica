@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "He estado muy apático.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Que te ningunee Alberto es lo peor.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Están los que trabajamos toda la vida y ustedes que van a apoyar a Cristina por un bono porque no les gusta el trabajo.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Arrancar de nuevo con el miedo en la calle que ponen cuando no pudieron poner miedo desde el Estado porque los votamos en contra.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

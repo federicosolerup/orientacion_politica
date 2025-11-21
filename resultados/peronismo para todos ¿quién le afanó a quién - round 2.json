@@ -1,0 +1,119 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original es incoherente y presenta una estructura caótica, dificultando la comprensión del mensaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La corrección se centrará en aclarar la idea central, aunque la falta de contexto impide una reconstrucción perfecta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se conservarán los elementos que parecen relevantes, intentando mantener el tono informal del original, aunque se suavizará el lenguaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se prescindirá de frases que no aportan información clara ni cohesión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Texto corregido:\n\nJorge, necesitamos hablar de los soldaditos.",
+      "entidades_detectadas": [
+        "Jorge",
+        "Texto"
+      ]
+    },
+    {
+      "frase": "Hay una situación que resolver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, debemos realizar una limpieza del material.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después, profundizaremos en el tema de Juan Subira, el autor de la \"Gorilonga\".",
+      "entidades_detectadas": [
+        "Después",
+        "Juan Subira",
+        "Gorilonga"
+      ]
+    },
+    {
+      "frase": "Tengo otra denuncia que involucra a Jorge, pero podemos solucionarlo.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Podríamos reunirnos una noche, como lo hicimos anteriormente para evaluar el PPT;  el formato es similar.",
+      "entidades_detectadas": [
+        "PPT"
+      ]
+    },
+    {
+      "frase": "Mi límite son los soldaditos; no pueden ser atacados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo, desde niño, siempre los he valorado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi padre era policía, y les tengo un especial respeto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recordemos la experiencia en Plaza Winkel en 1990.",
+      "entidades_detectadas": [
+        "Plaza Winkel"
+      ]
+    },
+    {
+      "frase": "Habíamos vendido 1200 entradas, y el proveedor de catering, que no entendía la logística del espectáculo,  había preparado 3000 docenas de sándwiches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando le preguntamos sobre el tiempo del intermedio, su respuesta fue brusca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los sándwiches sobraron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No queremos que vuelva a ocurrir con los soldaditos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos 500 y necesitamos gestionarlos adecuadamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te pido nada excesivo, solo una gestión apropiada de los soldaditos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es una petición desmedida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, el programa empieza de una manera especial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Presentaremos al \"compañero de la semana\", como se hizo en otras ocasiones.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Gorilonga",
+    "PPT",
+    "Juan Subira",
+    "Presentaremos",
+    "Plaza Winkel",
+    "Jorge",
+    "Después"
+  ]
+}

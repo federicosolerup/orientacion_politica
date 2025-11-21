@@ -1,0 +1,853 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "10:37 de la mañana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dijeron que se acerca el frío.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mañana iré con polera, camisa, chaqueta liviana, bufanda y guantes.",
+      "entidades_detectadas": [
+        "Mañana"
+      ]
+    },
+    {
+      "frase": "También llevaré botas tejanas.",
+      "entidades_detectadas": [
+        "También llevaré"
+      ]
+    },
+    {
+      "frase": "Hoy hay 25 grados, con una máxima de 26.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mañana, miércoles, la mínima será de 13 y la máxima de 19.",
+      "entidades_detectadas": [
+        "Mañana"
+      ]
+    },
+    {
+      "frase": "La mañana estará fresca, y la tarde más agradable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El jueves a la noche, la temperatura rondará los 15 grados, ya que la máxima será de 18.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se esperan lluvias intensas durante todo el fin de semana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer disfrutamos de un fin de semana con mucha actividad cultural; fuimos al teatro y estuvimos muy activos culturalmente.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Hoy, martes, podría llover por la tarde-noche.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He invitado a mi amigo Dante Gebel a ver su espectáculo mañana.",
+      "entidades_detectadas": [
+        "Dante Gebel"
+      ]
+    },
+    {
+      "frase": "Es un show muy entretenido; él no ha visto Nueva York, ¡qué entretenido!",
+      "entidades_detectadas": [
+        "Nueva York"
+      ]
+    },
+    {
+      "frase": "Se presenta en un estadio y ha vendido todas las entradas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sus espectáculos son largos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un gran comediante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo menciono porque ha tenido un gran éxito, vendió todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su video se viralizó hace dos meses, ¡una locura!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que nos juntaremos, así lo habíamos acordado, aunque aún no lo hemos confirmado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo comenzó como una especie de pastor electrónico, ¿recuerdas al pastor electrónico argentino?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Te hablo del año 2006.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando lo conocí, escribí una nota sobre él, destacando su influencia en los jóvenes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era muy joven en ese momento, hace 18 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su éxito en Estados Unidos es impresionante.",
+      "entidades_detectadas": [
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Veremos si podemos traerlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que ha crecido es increíble, pero es una buena persona.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo quiero mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Día 39 de la mañana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El viernes, el ministro de Economía reivindicó el bot de Jumbo, que sabemos que es falso.",
+      "entidades_detectadas": [
+        "ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Pero lo peor es que ayer el presidente, en la entrevista con Fantino, también lo mencionó como ejemplo.",
+      "entidades_detectadas": [
+        "Fantino"
+      ]
+    },
+    {
+      "frase": "Incluso me contaron que Milay insistía en que Fantino mostrara el bot en vivo.",
+      "entidades_detectadas": [
+        "Milay",
+        "Fantino"
+      ]
+    },
+    {
+      "frase": "En realidad, solo estaba viendo un video, y Fantino intentaba cambiar de tema.",
+      "entidades_detectadas": [
+        "Fantino"
+      ]
+    },
+    {
+      "frase": "Milay insistía, y en un momento le dijo a la producción: \"¿Es tan difícil poner un video al aire?\".",
+      "entidades_detectadas": [
+        "Milay"
+      ]
+    },
+    {
+      "frase": "Querían evitar la vergüenza, se estaban cuidando.",
+      "entidades_detectadas": [
+        "Querían"
+      ]
+    },
+    {
+      "frase": "Incluso el presidente reivindicó una mentira: la caída de precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fantino mencionó la caída de precios.",
+      "entidades_detectadas": [
+        "Fantino"
+      ]
+    },
+    {
+      "frase": "Esto ocurrió el 19 de marzo (marzo 7, día 5, 22).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se derrumbará la tasa de inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo anticipé cuando el tipo de cambio estaba en 1350 y cayó a 1000.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dije que el dólar es un indicador adelantado, porque es un activo financiero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En algún momento, cuando pase la estacionalidad de febrero, marzo y abril, la inflación caerá drásticamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Milay, tienes fe en que esto estará encaminado en septiembre y octubre.",
+      "entidades_detectadas": [
+        "Milay"
+      ]
+    },
+    {
+      "frase": "No tengas dudas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo tendrás encaminado, ¡con un bot!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mostró el bot.",
+      "entidades_detectadas": [
+        "Mostró"
+      ]
+    },
+    {
+      "frase": "Toda la información del presidente, de Caputo y de todos los funcionarios que hablaron de esto fue una mentira.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Alguien detrás de una cuenta esperó el momento exacto, hasta que el presidente cayó en la trampa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me recordó a cuando pescábamos mojarras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las mojarras se sienten atraídas por lo brillante, así que usábamos un anzuelo brillante, lo pulíamos bien, buscábamos que el sol se reflejara en el agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La mojara, tonta, iba detrás y la sacábamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alguien esperó pacientemente y cazó a los dos peces más grandes: el viernes el gobernador y ayer el presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer lo dijo el presidente, pero ya nos costaba creerle.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Ahora quedó descubierto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánta verdad hay en sus números?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Los despidos se deciden basándose en rumores o en información susurrada al presidente o al ministro?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos hablando de alguien que habla con un bot inventado, que recibirá un premio de origen desconocido, que quiere iniciar una guerra contra un enemigo desconocido y que dice que no tenemos capacidad para una guerra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, señor presidente, ya sufrimos dos atentados y no queremos más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa parte del mundo no nos gusta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si quiere la guerra, vaya usted.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora que va a ir con Petri (Luis Alfonso Petri).",
+      "entidades_detectadas": [
+        "Luis Alfonso Petri",
+        "Petri"
+      ]
+    },
+    {
+      "frase": "La sigla L.A.",
+      "entidades_detectadas": [
+        "L.A."
+      ]
+    },
+    {
+      "frase": "Petri suena como G.I.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Joe en Estados Unidos (Guillermo Ignacio Joe).",
+      "entidades_detectadas": [
+        "Guillermo Ignacio Joe",
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Pero no fue lo único que dijo el presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer hubo un ataque feroz a la prensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Romina Manguel entrevistó a Alberto Fernández.",
+      "entidades_detectadas": [
+        "Romina Manguel",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Él habló de educación y trabajo infantil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lejos de rectificar, culpó a Romina Manguel.",
+      "entidades_detectadas": [
+        "Romina Manguel"
+      ]
+    },
+    {
+      "frase": "Escuchen esto, es una locura (audio 7).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usé una frase desafortunada, sacada de contexto por una periodista que juega en mi contra sistemáticamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una periodista que siempre habla mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una frase desafortunada, que yo no comparto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es obvio que a esa periodista no se le debería dar cabida en el estudio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una periodista que quiere destruir este espacio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El error fue de Alberto Fernández por haber ido a ese lugar.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Los periodistas también juegan, juegan para destruir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay que darles notas a esos periodistas, porque no les interesa lo que piensas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los liberales son ingenuos, porque no somos manadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fantino fue desafortunado.",
+      "entidades_detectadas": [
+        "Fantino"
+      ]
+    },
+    {
+      "frase": "Casco fue desafortunado el otro día al darle la espalda al descentralizado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Reivindicar que los chicos no vayan a estudiar y además hagan trabajo infantil… eso es lo que reivindicó Venegas Lynch, con certeza.",
+      "entidades_detectadas": [
+        "Venegas Lynch"
+      ]
+    },
+    {
+      "frase": "El presidente, lejos de negarlo, dijo que el error fue el lugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto deja mal parados a los periodistas que lo entrevistan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si él dice que todos los que no lo entrevistan son opositores, ¿qué debo pensar?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Que los que lo entrevistan son oficialistas y están condicionados por el presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Romina Manguel, incluso sin una pregunta directa sobre el tema, creo que estaba hablando sobre educación, y él… entró solito.",
+      "entidades_detectadas": [
+        "Romina Manguel"
+      ]
+    },
+    {
+      "frase": "Atacó a Fontevecchia sin nombrarlo por su nombre y apellido, sino con un apodo relacionado con su cabello.",
+      "entidades_detectadas": [
+        "Atacó"
+      ]
+    },
+    {
+      "frase": "Un presidente que tanto énfasis pone en su estética ataca por ese lado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero a mí me importa poco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perfil, me han pedido notas, pero yo no les di.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Defiendo la libertad de prensa, sobre todo a mis compañeros de Perfil.",
+      "entidades_detectadas": [
+        "Perfil"
+      ]
+    },
+    {
+      "frase": "Y mira lo que decía directamente, está feliz porque según él, puede ir a la quiebra ese medio.",
+      "entidades_detectadas": [
+        "está feliz"
+      ]
+    },
+    {
+      "frase": "Decía que íbamos a robar sus datos, lo que nunca pasó.",
+      "entidades_detectadas": [
+        "Decía"
+      ]
+    },
+    {
+      "frase": "Sin embargo, el diario de Tinturelli usa los datos para enviarme correos electrónicos.",
+      "entidades_detectadas": [
+        "Tinturelli"
+      ]
+    },
+    {
+      "frase": "He pedido varias veces que dejen de enviarme sus publicaciones, y aun así, siguen enviándome correos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tinturelli, está en decadencia, camino a la quiebra.",
+      "entidades_detectadas": [
+        "Tinturelli"
+      ]
+    },
+    {
+      "frase": "Ya quebró una vez, lo salvaron un empresario y luego los políticos, pero ahora, sin pauta publicitaria, va a la quiebra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y se regodea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una perversión sexual detrás de todo lo que dice.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los niños envaselinados, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Contó que había quedado desocupado y hacía cuentas para que comieran sus perros antes que él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La cantidad de familias que pueden quedar en la calle por esto… es una locura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después dijo algo grave para mí.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Victoria Villarruel descubrió hace unas semanas que se habían aumentado las dietas.",
+      "entidades_detectadas": [
+        "Victoria Villarruel"
+      ]
+    },
+    {
+      "frase": "Se armó un quilombo, ¿recuerdas?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Fue la primera a la que se le enmascaró una jugada en la cual se estaban auto aumentando un 48% los salarios los funcionarios de primera línea, el presidente, ministros y secretarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Victoria Villarruel no quería firmarlo, Martín Menem metía a su sobrinito en la cámara, diciendo \"hay que bajar los salarios, ladrones, ladrones\".",
+      "entidades_detectadas": [
+        "Martín Menem",
+        "Victoria Villarruel"
+      ]
+    },
+    {
+      "frase": "Escucha lo que dice sobre los aumentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si un funcionario no depende de su sueldo, ¿de qué vive?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es corrupto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay otra opción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ninguno es millonario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Salvo Caputo, todos viven al día, o eso parece.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Salvo que también nos mientan con las declaraciones juradas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquí viene el audio 9.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los que estábamos en el gabinete, ninguno se enteró de los aumentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie mira el recibo de sueldo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos vienen por la gloria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como todos vienen por la gloria, nadie mira el recibo de sueldo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos viven de lo que tienen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y crees que podemos vivir con lo que ganamos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero bueno, nosotros teníamos un determinado nivel de vida, pero decidimos meternos acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si quieres mantener ese nivel de vida, saca lo que tienes adentro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando hablamos de autos, no son sus autos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son autos del Estado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si él hizo su declaración jurada, tenía 20.000 dólares, pero debió haberlos gastado todo en el Hotel Libertador.",
+      "entidades_detectadas": [
+        "Hotel Libertador"
+      ]
+    },
+    {
+      "frase": "No hubo declaración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si él pagó con su tarjeta… como una garantía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Podría haber pagado en efectivo.",
+      "entidades_detectadas": [
+        "Podría"
+      ]
+    },
+    {
+      "frase": "Con 20.000 dólares ya se debería haber comido todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si un funcionario no mira su sueldo, es porque le llega plata de otro lado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El mismo Milei está tratando de corruptos a sus funcionarios.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Si no le pagamos todos para que nos proteja, ¿quién le paga?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado, todos nosotros, le pagamos para que se encargue de la cosa pública.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Si no lo hace, ¿para qué trabaja?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ayer fue un despropósito.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Escuchaste lo de las Malvinas.",
+      "entidades_detectadas": [
+        "las Malvinas"
+      ]
+    },
+    {
+      "frase": "Vamos a recuperarlas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él decía que la base norteamericana es una jugada por la soberanía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si aliados son los Estados Unidos, sean demócratas o republicanos, el aliado es Estados Unidos.",
+      "entidades_detectadas": [
+        "los Estados Unidos",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Nos regalaron un Hércules.",
+      "entidades_detectadas": [
+        "Hércules"
+      ]
+    },
+    {
+      "frase": "Lo del otro día fue el mayor acto de soberanía de los últimos 40 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una base militar en Ushuaia nos avala el reclamo sobre la Antártida.",
+      "entidades_detectadas": [
+        "Ushuaia"
+      ]
+    },
+    {
+      "frase": "Hay que reclamar nuestras islas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ushuaia es la capital de Tierra del Fuego, Islas Malvinas, Georgias del Sur, Sandwich del Sur y todo el espectro marítimo.",
+      "entidades_detectadas": [
+        "Georgias del Sur",
+        "Tierra del Fuego",
+        "Ushuaia",
+        "Islas Malvinas",
+        "Sandwich del Sur"
+      ]
+    },
+    {
+      "frase": "Fue el mayor acto de soberanía de los últimos 40 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es el primer paso para recuperar Malvinas.",
+      "entidades_detectadas": [
+        "Malvinas"
+      ]
+    },
+    {
+      "frase": "El aliado más grande de Gran Bretaña para matar a nuestros chicos fue Estados Unidos.",
+      "entidades_detectadas": [
+        "Gran Bretaña",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Chile también, no nos olvidamos de los chilenos que daban bases en Punta Arenas.",
+      "entidades_detectadas": [
+        "Punta Arenas",
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Y Ushuaia es capital de Tierra del Fuego desde hace muchísimos años.",
+      "entidades_detectadas": [
+        "Tierra del Fuego",
+        "Ushuaia"
+      ]
+    },
+    {
+      "frase": "El Hércules ya estaba, lo habían comprado en leasing.",
+      "entidades_detectadas": [
+        "Hércules"
+      ]
+    },
+    {
+      "frase": "Los yanquis perdonaron la deuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos un Hércules que ya teníamos.",
+      "entidades_detectadas": [
+        "Hércules"
+      ]
+    },
+    {
+      "frase": "Lo único que hicieron los yanquis es perdonar la deuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mira lo que vale la dignidad del Estado Argentino hoy, cambiamos la dignidad por un Hércules que ya teníamos.",
+      "entidades_detectadas": [
+        "Hércules",
+        "Mira",
+        "Estado Argentino"
+      ]
+    },
+    {
+      "frase": "Básicamente, eso dijo Milei ayer.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Hay mucho más, pero no vamos a perder el tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy a la tarde no te pierdas Argenzuela, porque tenemos unos informes exquisitos sobre este tema.",
+      "entidades_detectadas": [
+        "Argenzuela"
+      ]
+    },
+    {
+      "frase": "Día 54.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estás escuchando Argenzuela.",
+      "entidades_detectadas": [
+        "Argenzuela"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Nueva York",
+    "Podría",
+    "Estado Argentino",
+    "Malvinas",
+    "Caputo",
+    "Alberto Fernández",
+    "Perfil",
+    "Vamos",
+    "Ninguno",
+    "Contó",
+    "Venegas Lynch",
+    "Escuchen",
+    "Tinturelli",
+    "Milei",
+    "Chile",
+    "Punta Arenas",
+    "Romina Manguel",
+    "G.I. Joe",
+    "Luis Alfonso Petri",
+    "Querían",
+    "Atacó",
+    "Defiendo",
+    "las Malvinas",
+    "El Hércules",
+    "Argenzuela",
+    "Estados Unidos",
+    "Sandwich del Sur",
+    "Reivindicar",
+    "Petri",
+    "Fantino",
+    "También llevaré",
+    "Ayer",
+    "Mostró",
+    "Escuchaste",
+    "Decía",
+    "Ushuaia",
+    "Martín Menem",
+    "El Estado",
+    "! Creo",
+    "ministro de Economía",
+    "Después",
+    "Islas Malvinas",
+    "Mañana",
+    "Victoria Villarruel",
+    "Básicamente",
+    "¿",
+    "Mira",
+    "Casco",
+    "Gran Bretaña",
+    "está feliz",
+    "Hotel Libertador",
+    "en Estados Unidos",
+    "Milay",
+    "Dante Gebel",
+    "Guillermo Ignacio Joe",
+    "los Estados Unidos",
+    "Hércules",
+    "Tierra del Fuego",
+    "Georgias del Sur"
+  ]
+}

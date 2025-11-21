@@ -1,0 +1,545 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El presidente está preocupado por la marcha y por la reacción a sus palabras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé qué esperaba que generara su declaración.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es evidente que temas como las preferencias sexuales y la diversidad son transversales a todos los partidos políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entre las personas agredidas, hay mucha gente que lo votó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se le ha pedido al presidente, incluso de manera gentil, que rectifique, diciendo que sus palabras no fueron comprendidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no lo hizo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Peor aún, Francisco salió a decir que si quieren besarse, que lo hagan en sus casas, no en la calle.",
+      "entidades_detectadas": [
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "En otras palabras, está sugiriendo que ser homosexual no está permitido en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Lo dijo claramente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, notó la repercusión de sus dichos, sobre todo considerando que se acerca un año electoral.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Lo sabe, le preocupa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Necesita más diputados y senadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ayer a la mañana, un periodista cercano a mí me contó: \"Javier está enojado porque no salimos a defenderlo\".",
+      "entidades_detectadas": [
+        "mí me contó",
+        "Javier"
+      ]
+    },
+    {
+      "frase": "Lo conté ayer aquí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quienes me siguen a diario habrán escuchado que el presidente está enojado con sus periodistas amigos porque no lo defienden.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al rato, todos empezaron a defenderlo, y todos dijeron lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Recuerdan los carteles de \"caricias significativas\" de la época de Macri?",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Eran bots.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos no son bots, pero dijeron exactamente lo que el gobierno les ordenó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente se enojó como si fueran sus empleados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo lo conté antes de que salieran a defenderlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les dictó el mensaje y lo repitieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es un acto menor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto demuestra que el presidente quiere tener a todos los que lo rodean bajo su control.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso despidió a Marra, y por eso sigue despidiendo gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les está diciendo: \"Si van a trabajar para mí, harán exactamente lo que yo diga, ¿están conmigo o no?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aparentemente, ayer los puso a prueba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tuvieron ningún problema en repetir el mismo mensaje, con las mismas palabras, uno tras otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie disimuló lo que pasó ayer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esto no es un tema menor, considerando el aparato de propaganda estatal que se está armando para estas elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Analicemos: es muy interesante ver cómo todos dicen lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El vicevocero, el segundo de Adorni, \"El Gordo Dan\" —quien dice que trabaja para Milei— y estos operadores mediáticos… es lo mismo.",
+      "entidades_detectadas": [
+        "Milei",
+        "Adorni",
+        "Gordo Dan"
+      ]
+    },
+    {
+      "frase": "No hay diferencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algunos dicen que son empleados, como el vicesecretario de Lanari, el segundo de Adorni.",
+      "entidades_detectadas": [
+        "Adorni",
+        "Lanari"
+      ]
+    },
+    {
+      "frase": "Está bien que defienda al presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, ¿cómo puede ser que Vial escriba lo mismo que Lanari o que \"El Gordo Dan\"?",
+      "entidades_detectadas": [
+        "Gordo Dan"
+      ]
+    },
+    {
+      "frase": "No hay ninguna diferencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Veamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"El Gordo Dan\", en su defensa, dice: \"No marcharon cuando el presidente golpeó a su mujer, no marcharon cuando Alperovich violó a su sobrina, no marcharon cuando Espinosa abusó de su empleada, no marcharon cuando dirigentes de su partido mataron a una chica y se la dieron de comer a los cerdos\".",
+      "entidades_detectadas": [
+        "Alperovich",
+        "Espinosa",
+        "Gordo Dan"
+      ]
+    },
+    {
+      "frase": "Esto es una mezcla de actos individuales, algunos no probados, que no tienen nada que ver con un llamado presidencial contra toda una comunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso, justamente, es fascismo: arrinconar a un sector de la sociedad, sin importar si son buenas personas o abusadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos ese sector, dice el presidente, son un peligro de pedofilia, etcétera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obviamente, esos actos individuales, repito, algunos no probados, no justifican un llamado a defenderse contra acusaciones de abuso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un acto individual, todos lo entendemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, esto lo dice \"El Gordo Dan\", quien dice trabajar para el presidente.",
+      "entidades_detectadas": [
+        "Gordo Dan"
+      ]
+    },
+    {
+      "frase": "Al rato sale Jonathan Viale.",
+      "entidades_detectadas": [
+        "Jonathan Viale"
+      ]
+    },
+    {
+      "frase": "¿Y qué dice Viale?",
+      "entidades_detectadas": [
+        "¿",
+        "Viale"
+      ]
+    },
+    {
+      "frase": "\"Alberto Fernández, Fabiola Yáñez, no marcharon.",
+      "entidades_detectadas": [
+        "Fabiola Yáñez",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Alperovich violó a su sobrina, no marcharon.",
+      "entidades_detectadas": [
+        "Alperovich"
+      ]
+    },
+    {
+      "frase": "Espinosa abusó de su secretaria, no marcharon.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El discurso de Milei en Davos, la marcha federal antifascista y antirracista, son una broma\".",
+      "entidades_detectadas": [
+        "Davos"
+      ]
+    },
+    {
+      "frase": "Esto inhabilita a Viale para seguir diciendo que es periodista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si copia y pega lo que dice \"El Gordo Dan\", quien sabemos que frecuenta Olivos, tiene una relación cercana con el presidente… cumplir órdenes y repetir lo mismo solo demuestra que el presidente está orquestando todo esto.",
+      "entidades_detectadas": [
+        "Gordo Dan",
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "No hay diferencia entre Adorni y \"El Gordo Dan\".",
+      "entidades_detectadas": [
+        "Adorni",
+        "Gordo Dan"
+      ]
+    },
+    {
+      "frase": "De hecho, Lanari dice algo parecido: \"Alperovich violó a su sobrina, no marcharon\".",
+      "entidades_detectadas": [
+        "Alperovich",
+        "Lanari"
+      ]
+    },
+    {
+      "frase": "Es igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El segundo de Lanari dice lo mismo que Viale: \"Fernández y Yáñez no marcharon, Espinosa abusó de su empleada, no marcharon…\".",
+      "entidades_detectadas": [
+        "Espinosa",
+        "Fernández",
+        "Viale",
+        "Lanari",
+        "Yáñez"
+      ]
+    },
+    {
+      "frase": "Van diciendo lo mismo.",
+      "entidades_detectadas": [
+        "Van"
+      ]
+    },
+    {
+      "frase": "Luego apareció Agustín Laje, un periodista con trayectoria,  y dijo lo mismo.",
+      "entidades_detectadas": [
+        "Agustín Laje"
+      ]
+    },
+    {
+      "frase": "No marcharon cuando Fernández golpeó a su mujer, no marcharon cuando Alperovich violó… Es igual.",
+      "entidades_detectadas": [
+        "Alperovich",
+        "Fernández"
+      ]
+    },
+    {
+      "frase": "Tiene mucha más experiencia que yo en periodismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si escuchaste su programa de la mañana, sabes que hace periodismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es esto entonces?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué está pasando en Argentina?",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Otro ejemplo: la cuenta \"Agarra la Pala\", que responde a los intereses de Milei, dice lo mismo.",
+      "entidades_detectadas": [
+        "Milei",
+        "Agarra la Pala"
+      ]
+    },
+    {
+      "frase": "Laje, \"Agarra la Pala\", Lanari… todo es lo mismo.",
+      "entidades_detectadas": [
+        "Agarra la Pala"
+      ]
+    },
+    {
+      "frase": "Es un aparato de propaganda estatal que se activó ayer, y todos dijeron lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué es ponerse en contra de una marcha que defiende los derechos?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Ni siquiera puedo decir que es una minoría, porque las mujeres no son una minoría.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la evolución de la sexualidad lleva a que cada vez más personas tengan libertad sexual, no solo con un género.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es algo tan burdo, tan violento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajar por orden del presidente contra una marcha… el periodismo es un contrapoder.",
+      "entidades_detectadas": [
+        "Trabajar"
+      ]
+    },
+    {
+      "frase": "Acá el poder es político y empresarial.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Si estás a favor de Milei y de los empresarios, ¿cuál es tu rol?",
+      "entidades_detectadas": [
+        "Milei",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Luego salió Anello, el nuevo entrevistador del presidente, que lo entrevista todos los fines de semana en Radio Mitre, y dijo lo mismo.",
+      "entidades_detectadas": [
+        "Anello",
+        "Radio Mitre"
+      ]
+    },
+    {
+      "frase": "Luego salió [nombre omitido], quien hizo un documental para Milei, y dice lo mismo.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Y por la noche, salió Majul, repitiendo lo mismo.",
+      "entidades_detectadas": [
+        "Majul"
+      ]
+    },
+    {
+      "frase": "El año pasado, la Nación Más respondía a Milei, TN tenía algunas diferencias, y América estaba en contra.",
+      "entidades_detectadas": [
+        "Nación Más",
+        "América",
+        "Milei",
+        "TN"
+      ]
+    },
+    {
+      "frase": "Este año, TN sacó a Morel Solá, a Bonelli y a Alfano, y entregó esa franja a Viale y Sheiman.",
+      "entidades_detectadas": [
+        "Bonelli",
+        "Alfano",
+        "Sheiman",
+        "Viale",
+        "Morel Solá",
+        "TN sacó"
+      ]
+    },
+    {
+      "frase": "América, que estaba en contra del gobierno, ahora estará a favor.",
+      "entidades_detectadas": [
+        "América"
+      ]
+    },
+    {
+      "frase": "Te quedarás sin voces disonantes, con voces disciplinadas como un ejército.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es menos democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es una cuestión personal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay gente con la que tengo relación, que son enemigos personales, pero esto es grave institucionalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente va perdiendo su derecho a informarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta gente, cuando se les quitó la comida a los comedores, justificó el hambre de los niños, diciendo que había robo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La justicia rechazó la denuncia y exigió a Petrocelli que entregue la comida.",
+      "entidades_detectadas": [
+        "Petrocelli"
+      ]
+    },
+    {
+      "frase": "Era mentira.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ellos justificaron el hambre de los niños.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego hicieron lo mismo con los medicamentos para personas con cáncer y jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son partícipes necesarios del hambre y de la muerte en muchos casos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora sabemos que la franja de propaganda será más amplia y que son soldados que harán lo que se les diga sin vergüenza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya sabía que habían tuiteado todos lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es un dato político que refleja una menor posibilidad de informarse, una mayor fortaleza de influencia y lobby comunicacional del gobierno, y un nuevo retroceso de la democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es lo que ocurrió ayer.",
+      "entidades_detectadas": [
+        "ocurrió ayer"
+      ]
+    },
+    {
+      "frase": "No es menor y hay que tomarlo en cuenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Morel Solá",
+    "Bonelli",
+    "Alberto Fernández",
+    "¿Qué",
+    "Viale",
+    "Lanari",
+    "TN",
+    "Nación Más",
+    "Yáñez",
+    "Petrocelli",
+    "ocurrió ayer",
+    "Olivos",
+    "Majul",
+    "TN sacó",
+    "Gordo Dan",
+    "Radio Mitre",
+    "Trabajar",
+    "Alperovich",
+    "Javier",
+    "Acá",
+    "Fernández",
+    "Aparentemente",
+    "Claro",
+    "Agarra la Pala",
+    "Buenos días",
+    "Adorni",
+    "mí me contó",
+    "Argentina",
+    "Espinosa",
+    "América",
+    "Van",
+    "Davos",
+    "Fabiola Yáñez",
+    "Francisco",
+    "Jonathan Viale",
+    "Laje",
+    "¿",
+    "Alfano",
+    "Luego",
+    "Sheiman",
+    "Milei",
+    "¿Recuerdan",
+    "Macri"
+  ]
+}

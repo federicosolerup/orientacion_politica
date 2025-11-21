@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La situación es polémica: ¿puede frenarse el Senado por el viaje de una persona a un mundial?",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "Todos estos viajes, con sus particulares y cuestionables motivos, ocurrieron mientras Argentina perdía inesperadamente contra Arabia Saudita.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El gabinete parece consciente de que el Mundial frena la atención sobre los problemas económicos, pero la realidad, como el dólar y la inflación, continúa su curso.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Si bien no se le atribuye toda la responsabilidad, se espera un comportamiento ejemplar de un miembro de la CGT con un alto cargo y un viaje costoso.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    }
+  ]
+}

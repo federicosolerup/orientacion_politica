@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "¿El Estado Nacional los alojará hasta el sábado por la madrugada?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "En principio sí, aunque la situación en Israel hace que la información sea muy cambiante.",
+      "entidades_detectadas": [
+        "israel"
+      ]
+    },
+    {
+      "frase": "El Hércules está reprogramando su partida para Tel Aviv esta tarde-noche; permanecerá en Israel no más de dos horas para recargar combustible, embarcar pasajeros y regresar.",
+      "entidades_detectadas": [
+        "israel"
+      ]
+    }
+  ]
+}

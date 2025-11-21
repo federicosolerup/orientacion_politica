@@ -1,0 +1,38 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¿O no se dice que Argentina es capaz de producir alimentos para 400 millones de personas, más o menos diez veces nuestra población?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿El presidente Alberto Fernández y su vicepresidenta Cristina Fernández de Kirchner, o el gobernador de Entre Ríos, Gustavo Bordet, o el intendente de Paraná, Adán Bahl?",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "¿Alguien se acordará del exgobernador Sergio Urribarri, condenado por corrupción?",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Es una llaga abierta en el corazón de esta sociedad y los datos que ofrece el INDEC son solamente un piso porque Agustín Salvia, el titular del Observatorio de la Deuda Social de la Universidad Católica, dice que en las próximas mediciones ese drama va a ser más grave todavía porque la inflación del período que se ha medido, el primer semestre, es más baja que la que vamos a registrar en el segundo semestre.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "Alberto le declaró la guerra a la inflación y perdió por paliza.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

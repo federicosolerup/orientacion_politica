@@ -1,0 +1,371 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 34,
+      "derecha": 37
+    },
+    "score_promedio": 0.455,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei, como todos sabemos, interpreta o encarna un estilo discursivo muy particular.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él estuvo ahí en una presentación muy larga donde había infinidad de políticos, personalidades, expresidentes, estaba Mauricio Macri, la calle **Pou** (en referencia a la calle, en lugar de un nombre), José María Aznar, ministros del poder ejecutivo, empresarios, políticos, y él a lo largo de ese discurso, en ese discurso pronunció este pasaje que me parece que pasó casi inadvertido y esconde algo interesante de cómo está mirando Milei la economía y el futuro de su gobierno.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ponerle la lupa a este pasaje del discurso de Milei en la Fundación Libertad la semana pasada.",
+      "score": 0.544,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces se piensa, está planteando Milei, que si llegáramos a la inflación cero, la economía comenzara a crecer sanamente, habría más bienes, más servicios, se podría ir expandiendo la masa de moneda, se podría ir emitiendo para acompañar ese crecimiento, y esa emisión no generaría inflación, iría a la par del crecimiento del producto, y, por lo tanto, sería una emisión de moneda sana, tolerable.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto hace juego con otra idea más del discurso de Milei en la Fundación Libertad.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que en el discurso que pronuncia Milei en la Fundación Libertad, da la impresión de que está elaborando, todavía no sabemos con qué nivel de detalle, con qué nivel de meticulosidad, una idea que es tener una economía con poquísimos pesos y un sistema de relajamiento de las normas que permitan el uso de dólares.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Está pensando Milei en un ajuste ultra ortodoxo?",
+      "score": 0.637,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ya saben en el Fondo Monetario Internacional?",
+      "score": 0.496,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el peso, el dólar lo guarda, porque la moneda más débil, esto lo llaman Ley de Gresham, por un economista del siglo XVI, perdón, la moneda más débil termina desplazando a la moneda más fuerte por el uso que uno le da, al revés de lo que uno pensaría intuitivamente.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que Milei está pensando en una segunda fase de su problema económico, que tiene que ver con un ajuste todavía más feroz de la economía, no menos feroz.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y acá está la novedad, que es una novedad que, si se verificara, es una novedad muy importante, que puede explicar en alguna medida la euforia que tiene el presidente cuando habla en público, se ha pasado los últimos cuatro días hablando, y es que Luciano Cohen dice: medí las últimas cuatro semanas y esta inflación, la núcleo, midió cero durante las cuatro semanas, es decir, que la inflación núcleo estaría planchada.",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto estaría diciendo, o estaría justificando, algo que afirmó ayer Milei en una entrevista muy larga y muy interesante que le hizo Horacio Cabak acá en La Nación Más.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gran parte del ajuste de Milei está basado en licuación de jubilaciones, suspensión de determinados pagos de prestaciones sociales, sobre todo los que están intermediados, el **PASAJE** (corregido a EJASASCEN) y el Argentina Trabaja, y licuación de los salarios del sector público, pero básicamente prestaciones sociales.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y fíjense cómo se modera, estos son los subsidios que el gobierno sigue manteniendo por miedo a un tarifazo, no tanto que estrangule a la gente, que le pegue demasiado el índice de inflación.",
+      "score": 0.372,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Arranca más abajo que Milei una gran subida.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De esto vamos a hablar después con Laura Di Marco en la entrevista que le vamos a hacer por su nuevo libro sobre el peronismo.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El éxito de Kirchner es esto, que tiene que ver con toda la recuperación de la economía post-Duhalde, después del ajuste que le hizo Duhalde.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Alberto Fernández, que lo tenemos en esta línea y esto que es impresionante, es un éxito solo de que para hablarle a Néstor Kirchner dilapidado después que es el Alberto Fernández de la pandemia.",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, acá tenemos una idea de lo que le está pasando a Milei.",
+      "score": 0.503,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez tenga que ver, probablemente más con esto, esa manifestación que con el comienzo del descongelamiento de la situación que mantiene a Milei en niveles de popularidad súper aceptables.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dice, dentro de muy poco.",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo dijo ayer en esta entrevista que les decía de La Nación.",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ponerlo según la fantasía que el mismo Milei confiesa.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesita un poquito de empuje por parte del Estado y del presidente.",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dice: la estoy armando yo ahora.",
+      "score": 0.503,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ley del Congreso que se la piden los inversores y se la piden sobre todo el Fondo.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están diciendo: tenés que hacer una demostración de que manejas el juego político.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El debate cansa a todo el mundo dentro de la Cámara de Diputados.",
+      "score": 0.626,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con, aparentemente, una influencia extraordinaria de Pablo Otero.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cada bloque hay un sector que parece responder a Pablo Otero.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y una derrota cifrada de Cristina Kirchner.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Cristina Kirchner, que pensaba.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, pareciera que está más cerca de armar su fórmula política Milei, si sale hoy la ley, que la fórmula política contra Milei que tenía pensada Cristina.",
+      "score": 0.686,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que es el nivel de adhesión que obtiene un presidente en medio de semejante ajuste.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Donde prácticamente admitió en la entrevista que le hizo ayer Kavak.",
+      "score": 0.394,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei encuentra curros en todo aquel que lo critica.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le puede encontrar de todo a todo el mundo.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si quieren podemos escuchar la entrevista que le hizo Nacho Ortelli.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le quiero consultar por qué le hizo a Lijo.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, yo le hago una pregunta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que cuando usted entra en esos detalles puristas.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad es que si usted se puede hacer eso.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted puede encontrarle todo al mundo.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted confía en la idoneidad y en la transparencia de Lijo.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo se lo aclaro, yo le digo que no.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque es una constitución liberal.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a analizar todo lo que dijo en este párrafo el presidente porque está plagado de detalles inquietantes.",
+      "score": 0.608,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque, como se le aclaró después, Lijo no metió preso a Boudou.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la Cámara Federal se lo pidió porque era una causa por enriquecimiento ilícito.",
+      "score": 0.438,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la historia que alguien le vendió tergiversada al presidente.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con causas que no se le pudieron avanzar porque fueron cerradas sin siquiera investigar las pruebas.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ni a Menem se le ocurrió decir: necesito una Corte a **Víctor**.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la gente de la Universidad de Buenos Aires, cuando Milei dice hay que auditarla, le pueden contestar: son cuestiones de puristas.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy hubo, estas son las instituciones, 32, que le dijeron al presidente de un modo u otro por razones morales o por la discriminación de género: Lijo no.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "E insiste, con muy malos argumentos como los que le dio a Ignacio Ortelli, es evidente que no tiene bien pensado el tema porque sería más pícaro para contestar.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se empieza a ver un análisis distinto de la imagen de Milei que el que prevalecía hace dos o tres meses.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy apareció una nota muy importante de un gurú del liberalismo, Guy Sorman, en el diario ABC de Madrid, que es el diario de la derecha española, el diario, vamos a poner así, monárquico, diciendo: hay que salvar a Milei para salvar al liberalismo.",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La tesis de Sorman es: Milei no es un liberal.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no negocia.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei es un fundamentalista.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta visión que formula por primera vez Sorman en la prensa internacional es interesante porque se da en el contexto de esta postulación de Lijo, donde empieza a haber una división en todas las fuerzas políticas, como si Lijo fuera un papel de tornasol que puso Milei casi para demostrar lo que él sostiene, la existencia de la casta, de intereses muy oscuros, muy estructurados, al respecto de la creación de un liberalismo que se basa en la corrupción y que protege la justicia.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Martín Lousteau le está pidiendo muchísima dirigencia del radicalismo que como presidente, además de senador, se pronuncie alrededor del caso Lijo.",
+      "score": 0.524,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es rarísimo porque Lousteau es alguien que se está planteando como lo contrario a Milei y deja pasar semejante oportunidad que lo mueve o que no lo mueve.",
+      "score": 0.695,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Donde Macri públicamente dijo en Punta del Este: uno, no creo en los cupos femeninos, pero creo que debe haber mujeres en la corte.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tres, el concepto más interesante de Macri esa mañana, la confianza, que es el motor de cualquier proceso de progreso económico, no la dan los gobiernos, la dan los jueces.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le estaba hablando obviamente a Milei.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Interesantísima la respuesta de Vidal porque dice: yo hablaba con Lijo como con los demás jueces federales del tema narcotráfico.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También no andaba esa afinidad entre el gobierno de Vidal y la lucha contra el narco.",
+      "score": 0.333,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El expediente 3582, barra 22, una causa por enriquecimiento ilícito contra Vidal por la compra de su departamento en Barrio Norte.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Lijo investiga los fondos derivados por Ferraresi como ministro de Acción Social, de Desarrollo Social y Hábitat, del gobierno de Alberto Fernández, a la municipalidad de Quilmes.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un panorama de la Argentina puesta o sometida al papel de tornasol del juez Lijo.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 71
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,436 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 15,
+      "derecha": 69
+    },
+    "score_promedio": 0.751,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Celebran los 100 años de YPF gastando una vez más la nuestra.",
+      "score": 0.293,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la Argentina del revés.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A este transportista le falta gasoil.",
+      "score": 0.461,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, ¿qué están celebrando Cristina y Alberto?",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el presidente y la Cristina y la mar en coche.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cristina y Alberto entenderán a este hombre, a nosotros, los argentinos?",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quiénes le estaban hablando?",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández y Cristina descartan una tregua política y comparten el acto de YPF para blindar sus espacios de poder.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme, por favor, el tape con algunas de las cosas que hoy decía Cristina Fernández de Kirchner.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "hay que recordarlo a los argentinos que esos que machacan sobre su desánimo, hicieron esas cosas.",
+      "score": 0.602,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre repito esa frase de la *Cantata de los puentes amarillos* de Luis Alberto Spinetta, que dice “No vengan”.",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo me río porque sé que esta vena *hippie* mía a Cristina no le gusta.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tus hijos no van al colegio y el presidente habla del desánimo...",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes necesitan un Estado enorme, gigante, gigante, con mucha plata de la nuestra para mantener a vagos, planeros, gente que se quedó fuera del sistema.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante el gobierno de Macri, este presidente que tenemos hoy, no pensaba lo mismo de la Corte.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina tuvo el mérito de volver a cinco miembros para que no se joda con el número de los jueces, para tener jueces adictos.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En parte impulsada por una idea teórica de Zaffaroni que decía que debía dividir la Corte en salas.",
+      "score": 0.502,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchame lo que dice el presidente cuando el presidente era Macri.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy le dijo públicamente el presidente, “use la lapicera”.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él decía en Córdoba, en este caso, que él nunca, si era presidente, iba a cambiar la justicia.",
+      "score": 0.352,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él decía en Córdoba, en este caso, que él nunca, si era presidente, iba a cambiar la justicia.",
+      "score": 0.352,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dijo al periodista además que lo grabara, que quedara como un archivo porque él no mentía.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cosa que dice Carre, usted se las carga Macri.",
+      "score": 0.746,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué usted no salió a decir, no, nosotros no tenemos por qué cambiar a la justicia?",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted escucha selectivamente.",
+      "score": 0.562,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Perdón, pero usted escucha selectivamente porque dije quinientas veces que lo que dijo, por ejemplo, el miembro de **Yardinerio**, y lo que dijo Zaffaroni, en mi opinión...",
+      "score": 0.563,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted escucha selectivamente, entiendo que esté predispuesto a eso, pero usted escucha selectivamente, no lo tome a pedir.",
+      "score": 0.249,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Respecto al Estado de derecho.",
+      "score": 0.289,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No borro con el juego lo que le enseño a mis alumnos.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parecía una cámara oculta de Joe Match.",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando le preguntaron por la violación del DNU.",
+      "score": 0.368,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos viviendo en una Argentina absolutamente demencial, con el tanque lleno, y siguen tirando de la cuerda.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hombre nos tiene el tanque lleno, Alberto Fernández.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner viajó al Calafate en el Tango.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que volvió vacío a Buenos Aires y luego fue a buscarla.",
+      "score": 0.426,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usa los recursos del Estado mientras la investigan por el uso de aviones oficiales.",
+      "score": 0.481,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina gastó otros 70.000 dólares.",
+      "score": 0.538,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta fue la que le dijo Pampito a Moritán, Pampito.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juraba de esta manera y ahora le dice Pampito a este señor que es un laburante.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por Néstor Kirchner.",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Constitución se la pasan por el quinto forro.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a ser esta señora que juró de esa manera, le decía Pampito.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tengo dos hijos más grandes con otra mujer, si quiere, le cuento que usted es que me da cholula.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le paso...",
+      "score": 0.635,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le cuento...",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juró por la gloriosa J.P., por Juan Domingo Perón, por Eva Perón, por Néstor Kirchner.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ella, por la Santa Federación, por Néstor y Cristina.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por la gloriosa JP, por Juan Perón, por Eva Perón, por Néstor Kirchner y alta absoluta Cristina.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, y ahí se le molesta que Moritán sea el esposo de Pampita.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le hizo las tetas a la mina con la nuestra.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El día que se le ha hecho el tanque lleno.",
+      "score": 0.535,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, a la Argentina le está cagando un elefante de arriba.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque todo el mundo le dijo cara dura.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Encima le sugieren.",
+      "score": 0.71,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni siquiera es que se le ocurrió a ella.",
+      "score": 0.546,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una apagada, pero no se le ocurrió ni siquiera a ella.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si un grupo de asesores, que seguimos manteniendo todos nosotros, el rebaño, te lo tuvieron para que le digan...",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le pasa a los chaqueños?",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me saca que no entiendan que si son diputados o senadores, tienen que ocuparse de las cosas que le interesan a las personas que viven en este país.",
+      "score": 0.545,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de violencia, recordemos a Alberto Fernández, que estaba hoy todo modosito así, ¿viste?",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La escuchaba Cristina así, mirá.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente que escucha así ahora dice...",
+      "score": 0.787,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, el presidente patotero, hasta la primera dama ahora parece Lady Diana.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente que venía a cerrar la grieta.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández fue insultado cuando caminaba por un shopping.",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ex jefe de gabinete de Néstor Kirchner.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es Alberto Fernández.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Alberto Fernández estaba por comprar una entrada de cine.",
+      "score": 0.794,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El hombre le gritó ladrón, asesino y sin vergüenza.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incluso confundieron a Alberto Fernández con Aníbal Fernández.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego del incidente.",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego pidió que la justicia utilice este video.",
+      "score": 0.542,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la verdad es que no estamos para pagar el show de Tini Stoessel, el de la Sole Pastorutti, para festejar que no tenemos combustible en la Argentina de hoy.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un momento en que la Argentina estaba llena de acampes.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me gustaría que en Argentina tengamos políticos como esta mina, **Isabel Díaz Ayuso**.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La retahíla de los propósitos que usted ha espetado aquí.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque es la inspección educativa, con funcionarios a la cabeza los que han de revisar los libros de texto, que la Comunidad de Madrid, mientras yo sea presidenta, estarán libres del adoctrinamiento sectario al que usted quiere someter a la juventud madrileña y, especialmente, a las mujeres, a las que nos tratan como a un rebaño o a un colectivo.",
+      "score": 0.673,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y se le ha dicho también en la primera respuesta.",
+      "score": 0.379,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y se le ha dicho también en la primera respuesta.",
+      "score": 0.379,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le voy a decir otra cosa.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le nadadora trans, andá y contáselo a las minas.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes, chorras, le robaron el “Ni una Menos” a una mamá que perdió a su hija adolescente, porque la mató su novio porque él quería que abortara y ella no.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las del “Ni una Menos” y le chorearon el nombre “Ni una Menos”.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque hoy le pedí si me podía mandar un video.",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 84
+  },
+  "etiqueta_original": "neutral"
+}

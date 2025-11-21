@@ -1,0 +1,559 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En medio del hambre que estamos viendo, el vaciamiento de los comedores y su cierre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por un lado, eso; por otro, la corrupción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se arma un circuito de dinero negro, que se convierte en caja política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En realidad, no es dinero negro, es nuestro dinero, que se convierte en caja política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto terminó haciendo implosionar al Ministerio a cargo de Sandra Petro.",
+      "entidades_detectadas": [
+        "Ministerio",
+        "Sandra Petro"
+      ]
+    },
+    {
+      "frase": "Yo no tengo a Federico Faioli, senador, referente de Patria Grande, además, obviamente, de organizaciones sociales.",
+      "entidades_detectadas": [
+        "Federico Faioli",
+        "Patria Grande"
+      ]
+    },
+    {
+      "frase": "Y es uno de los que hasta ayer eran demonizados, y hoy veo a muchos pidiendo disculpas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Periodistas, funcionarios… ¡No lo puedo creer!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Federico, buenos días, Jorge Rialde de Radio 10, buenos días.",
+      "entidades_detectadas": [
+        "Federico",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "Jorge, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Bien, bien, Federico, bien, bien.",
+      "entidades_detectadas": [
+        "Federico"
+      ]
+    },
+    {
+      "frase": "Bueno, explotó todo finalmente, ¿no?",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Terminó siendo una combinación de cosas, terminó explotando todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tremendo, es indignante, Jorge, esta situación.",
+      "entidades_detectadas": [
+        "Tremendo",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "El nivel de crueldad y sadismo que manejan estos tipos… Disfrutan del sufrimiento de la gente en un contexto, como bien decías, de mucha pobreza y hambre: 50% de pobreza en Argentina, 18% de indigencia.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Que tengan seis millones de kilos de alimentos guardados en un galpón, a punto de vencerse, y que no se los entreguen a la gente… ¡Es criminal!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen que resolverlo porque tampoco alcanza con un comunicado de prensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen que cumplir con lo que la Justicia les pidió, y no hacerse los distraídos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Petrobelli no se puede hacer la distraída, como si no estuviera enterada, porque sí lo estaba.",
+      "entidades_detectadas": [
+        "Petrobelli"
+      ]
+    },
+    {
+      "frase": "Ustedes, a través de los medios de comunicación, lo vienen diciendo hace rato.",
+      "entidades_detectadas": [
+        "Ustedes"
+      ]
+    },
+    {
+      "frase": "Nosotros también lo venimos diciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La denuncia de Juan Grabois llegó a la Justicia, que se expidió.",
+      "entidades_detectadas": [
+        "Juan Grabois llegó",
+        "Justicia"
+      ]
+    },
+    {
+      "frase": "Ahora falta que entren los alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si es urgente, no se puede seguir esperando, y nosotros lo venimos diciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Había alimentos, se estaban por vencer.",
+      "entidades_detectadas": [
+        "Había"
+      ]
+    },
+    {
+      "frase": "Hay hambre, y no entregan los alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras tanto, demonizaron a las organizaciones sociales, a los comedores, los trataron de fantasmas, de que no existían… y por otro lado, estaban armando una caja política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Además, en medio de todo esto!",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "No, esto es criminal, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "El nivel de mentira que manejan estos tipos… Allá, Franco, el actual jefe de Gabinete en el Congreso Nacional, cuando fue a defender la ley base, dijo que el gobierno nacional no había dejado nada de alimentos en la anterior gestión.",
+      "entidades_detectadas": [
+        "Congreso Nacional",
+        "Franco",
+        "Gabinete"
+      ]
+    },
+    {
+      "frase": "¿Se acuerdan de la catástrofe que sufrimos acá en la provincia de Buenos Aires, en Valle Blanca?",
+      "entidades_detectadas": [
+        "Valle Blanca",
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Murieron trece personas, y nos mandaron un kilo de arroz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Y lo tenían!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Una catástrofe, y no mandaron absolutamente nada!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después empezaron con la demonización para escudarse, mintiendo que hay comedores fantasmas.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Hay 45.000 comedores en toda Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Habrán habilitado —entre comillas— alrededor de 2.000.",
+      "entidades_detectadas": [
+        "Habrán"
+      ]
+    },
+    {
+      "frase": "De esos, dicen que mil son fantasmas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge, te quiero contar un caso específico dentro de esos “fantasmas”.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "El comedor de mi barrio —vos sabés que vivo en un barrio popular en Almirante Brown—  el comedor Clarita, trabaja ininterrumpidamente hace diez años.",
+      "entidades_detectadas": [
+        "Clarita",
+        "Almirante Brown"
+      ]
+    },
+    {
+      "frase": "En momentos como este, donde los gobiernos vacían los comedores y no les dan alimentos, trabajan con donaciones, hacen pan, lo venden para comprar alimentos y luego alimentar a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ese comedor aparece como fantasma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los invito a vos y a quienes quieran a visitarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Construyen un discurso para denigrar el enorme trabajo que hacen las organizaciones sociales, los comedores populares, las iglesias en los barrios populares, que somos el dique de contención adonde el Estado no llega.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Para hacer un curro, para guardarse los alimentos, para hacer caja, para enriquecerse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exactamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos ante el primer acto de corrupción visible de este gobierno, que no cumplió ni seis meses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé si es el primero, la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El primero visible, el que podemos comprobar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y además están incumpliendo una orden judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ellos apelaron el fallo de la Justicia —que les pedía que presentaran un plan de entrega de alimentos en 72 horas— pensando que la apelación los eximía de hacerlo.",
+      "entidades_detectadas": [
+        "Justicia"
+      ]
+    },
+    {
+      "frase": "Están incumpliendo la Justicia, prácticamente confesando que tienen los alimentos y no los entregan.",
+      "entidades_detectadas": [
+        "Justicia"
+      ]
+    },
+    {
+      "frase": "Están incurriendo en un delito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espero que Petrobelli resuelva esto rápidamente, porque si no, la próxima va a ser ella la que vaya presa.",
+      "entidades_detectadas": [
+        "Petrobelli"
+      ]
+    },
+    {
+      "frase": "Federico, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Federico",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "Andrés Lerner"
+      ]
+    },
+    {
+      "frase": "Me quedo pensando en la palabra \"rápidamente\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entiendo que la situación apremia, dados los vencimientos: 339.867 kilos de leche en polvo (que algunos vencen el 7 de julio), más de 4.000 kilos de harina de maíz (que vence dentro de dos meses).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdón, Andrés, un paréntesis: esos kilos de leche en polvo, convertidos en leche líquida, son más de 2.700.000 litros.",
+      "entidades_detectadas": [
+        "Perdón",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "¡Es un montón!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Podríamos salvarle la vida a muchos niños.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La pregunta es: si este operativo para repartir los alimentos arranca el lunes o martes de la semana que viene, ¿crees que se van a utilizar todos los alimentos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "O, dada la cercanía de las fechas de vencimiento, se van a vencer más alimentos de los que ya se vencieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Adorno dijo que no, pero algunos kilos de arroz se vencieron.",
+      "entidades_detectadas": [
+        "Adorno"
+      ]
+    },
+    {
+      "frase": "No tengo dudas de que se van a vencer más alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y me indigna ver cómo sufren los chicos y chicas por no tener qué comer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Veo cómo los vecinos que dependían de la comida de los comedores, porque no tienen para alimentar a sus hijos, empiezan a saltearse comidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no tengo duda de que por la ineficiencia, la inoperancia, la crueldad y la vocación de destruir absolutamente todo de este gobierno, sin duda, se van a vencer más alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es mucho volumen, pero muy corta la fecha de vencimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Han destruido todo el tejido social, la solidaridad, el trabajo realizado en la pandemia… El trabajo de las iglesias, las organizaciones sociales, los comerciantes populares, los clubes de barrio… ¡Es impresionante!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y estos tipos están destruyendo absolutamente todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La inoperancia los va a llevar a una distribución errada, pero lo que me importa es que entreguen los alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen estructura para eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La pregunta es: ¿pueden repartirlo rápido?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque el hambre no espera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dudo que lo hagan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuché que van a usar el ejército.",
+      "entidades_detectadas": [
+        "Escuché"
+      ]
+    },
+    {
+      "frase": "Son tan inoperantes, no conocen la Argentina, ni los barrios populares, ni la realidad que vive nuestra patria.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Son todos “culo con rosca”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me genera impotencia, porque juegan con el hambre y la vida de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desgraciadamente, vamos a empezar a ver gente muriéndose de hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya lo vemos en el norte argentino, y lo vamos a empezar a ver en el conurbano bonaerense.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una locura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, una locura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes, como organizaciones sociales, después del ataque, ¿esperan que la Justicia investigue?",
+      "entidades_detectadas": [
+        "Ustedes",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Tienen pensado un contraataque?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestro objetivo siempre fue expresar la situación de los más humildes y trabajar para que los alimentos lleguen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso iniciamos una medida judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estuvimos acompañando a los vecinos de Villa Martelli, que estaban en la puerta del galpón, y los testimonios eran desgarradores.",
+      "entidades_detectadas": [
+        "Villa Martelli"
+      ]
+    },
+    {
+      "frase": "Una vecina, llorando, decía que no podía darle de comer a su nieto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación es desgarradora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Haremos todo lo posible para que esto se resuelva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos estamos ocupando de que estos tipos entreguen los alimentos, pero con eso no alcanza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No vamos a resolver el hambre de la gente con seis millones de kilos de alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una lucha larga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Simultáneamente, hacemos un gran trabajo juntando donaciones, pero no podemos hacernos cargo del hambre de Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Podemos llegar a uno, a dos, a cien, a diez mil comedores… pero no podemos resolver el hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una situación que nos preocupa, y que seguiremos denunciando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exigimos políticas públicas para resolver el hambre en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Federico, te agradezco mucho.",
+      "entidades_detectadas": [
+        "Federico"
+      ]
+    },
+    {
+      "frase": "Vamos a seguir de cerca este tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un abrazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un abrazo grande, saludo a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estuvimos",
+    "Villa Martelli",
+    "Ministerio",
+    "Habrán",
+    "Andrés",
+    "Vamos",
+    "Había",
+    "Andrés Lerner",
+    "Justicia",
+    "Desgraciadamente",
+    "Tienen",
+    "Franco",
+    "Además",
+    "Estado",
+    "Simultáneamente",
+    "Justicia investigue?",
+    "Tremendo",
+    "Petrobelli",
+    "Escuché",
+    "Federico",
+    "Argentina",
+    "Gabinete",
+    "Espero",
+    "Ustedes",
+    "Bueno",
+    "Juan Grabois llegó",
+    "Periodistas",
+    "provincia de Buenos Aires",
+    "Valle Blanca",
+    "Después",
+    "Perdón",
+    "Dudo",
+    "Sandra Petro",
+    "Federico Faioli",
+    "Terminó",
+    "la Argentina",
+    "¿",
+    "Congreso Nacional",
+    "Almirante Brown",
+    "Clarita",
+    "Patria Grande",
+    "Jorge Rialde",
+    "Jorge",
+    "Adorno"
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 22,
+      "derecha": 85
+    },
+    "score_promedio": 0.721,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "A **Máximo Kirchner**, el niño rico que tiene tristeza, no le gusta que nos quejemos.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que Máximo es un heredero.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos le hablás al pueblo, Máximo, y le decís al pueblo que no se puede quejar.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo, tu pueblo es pobre, en tu pueblo, en tu patria, en nuestra patria hay cuatro mil villas.",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un millón y medio de motivos para quejarnos a cada segundo todos los días.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es una monarquía y Máximo Kirchner se cree el rey.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, dijo Máximo Kirchner, hay que dejar de quejarse si cortan una calle y terminar con las pendejadas de la televisión.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Convirtieron ustedes a la Argentina en la gran Villa de la Pobreza.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a ver el tape de Máximo Kirchner y le seguimos contestando todas las pelotudeces que dijo.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner es el rey.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablás de Tugo como si fuera otro gobierno, es Alberto Fernández el presidente, tu mamá te avisa.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta hace diez minutos, ¿quién es presidente del bloque?",
+      "score": 0.608,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece que le escribieron para vos, Máximo.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que Máximo está envenenado porque lo detesta Alberto Fernández.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llevan dos años y medio de gobierno, aquí le están echando la culpa.",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podíamos cantar, decía este personaje.",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo se convirtió en el líder de la oposición.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo juega mucho más fuerte a la oposición que *Juntos por el Cambio*.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que queremos saber es si Alberto le da la nafta.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que queremos saber es si Alberto le da la nafta para cumplir su mandato.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer lo dijo Morales, en el Senado dicen que lo quieren voltear a Alberto Fernández.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No lo dije yo, un día que llegué así como intensa, lo dijo Morales ayer sentado en esta silla.",
+      "score": 0.256,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo Morales eso, en el Senado se comenta que lo quieren voltear a Alberto Fernández.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora lo que dijo Máximo sobre la inflación, la semana que viene...",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el hombre de Máximo y de Cristina en la economía, es empleado de Guzmán, pero lo boludea a Guzmán que es su jefe.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se va a poner feo como a Uribarri, que ya se le empezó a poner bastante fea la cosa.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por suerte no le tocó.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro corrupto más que tiene fotos con el papa, la verdad que a Francisco le dio con todo el amor del mundo a, hola, ciencias de la cruz.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le llevaron?",
+      "score": 0.374,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mermelada, dulce de leche, ¿qué le llevaron al papa?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué dice Francisco de todo esto?",
+      "score": 0.47,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uribarri es o era uno de los preferidos de Cristina Fernández de Kirchner.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le va, Cristina?",
+      "score": 0.381,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como nunca le voy a poder hacer una nota, escribí algunas preguntas que le quiero hacer, me las contestan desde su casa.",
+      "score": 0.527,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le voy a hacer un reportaje, mire, tome nota, usted contésteme desde su casa.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es feliz, ¿Cristina qué le causa felicidad?",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuánta guita tienen usted y sus hijos?",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué tan buena abuela tiene usted y sus hijos?",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se arrepiente de haber elegido a Alberto Fernández?",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la gente le juro que ya la contestó.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se da cuenta que usted es la gran responsable de toda esta tragedia que estamos viviendo?",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La dejo, porque usted está preocupada por los afiches de Cristina Cesina.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ritmo de la justicia con estos carteles era mega lento, con usted fue más rápido que una liebre.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No le pareció que esto era un tremendo ataque a la democracia, políticos, periodistas?",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con esos niños escupiendo, hacíamos un plano grande, con ese niño escupiendo a Mirtha Legrand.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo tan democrático, todo tan republicano, que el traje de pobrecita no le queda, le queda bien el traje de Cruella.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, el presidente se reunió con su par de Bolivia y participaron en una conferencia de prensa.",
+      "score": 0.162,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto le preguntaron por el gas y fue al pedo, no supo bien qué responder, mirale.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta para el presidente Alberto Fernández es si puede confirmar qué cantidad de gas será la que se recibirá de Bolivia y a qué precio.",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, Alberto, usted no sabe nada, ¿cómo va a dar una conferencia de prensa y no sabe cuánto, qué firmaron?",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa al presidente?",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ministro de Desarrollo Social del Presidente se queda dormido, tenemos el tape, por favor, este hombre está agotado, a quejarse, que se acaba el mundo, miralo.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme ahora un despertador, hay que despertarlo, Alberto, hay que despertarlo, poneme un despertador ya.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya me está dando lástima, eso ya me preocupa, me está dando pena Alberto Fernández, me da pena lo que están haciendo con él y lo que está haciendo él con él.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya él es el máximo responsable de lo que le pasa, ya me da pena lo que está pasando con este hombre.",
+      "score": 0.84,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto pidió hace poco un aplauso para Ginés.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está lleno en el gobierno de Alberto Fernández de funcionarios que no funcionan, como Gabriela Cerruti y la Portavoz.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creemos que la solución no es ocupar la calle, pero al mismo tiempo también le decimos al jefe de gobierno de la ciudad de Buenos Aires que la ciudad de Buenos Aires es la ciudad que menos empleo generó según las mediciones del INDEC en el último tiempo y que, por lo tanto, sería de gran ayuda para que haya menos cortes de calle, que la ciudad de Buenos Aires también genere empleo y también mejore la situación económica de los porteños y de las porteñas, para que de esa manera tengamos menos legítimas protestas que son las que muchas veces llevan adelante los trabajadores o los sectores más vulnerables.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están esperando muertos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, no sabés que el 85% de la gente que viene a los cortes viene en esos micros que ustedes les ponen.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya vienen de la provincia, vienen esos bondis escolares, ustedes lo saben, si no, no viene esa gente acá.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí están Alberto, Guzmán y Cafiero, se la mandé, Andrés no sabía cuál era Cafiero.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Andrés es Cafiero.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, no son los tres chiflados pero le recontra, nega, pegan en el palo, son los tres chiflados.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, tengo otro meme, acá lo vemos, Macri con Donald Trump, Alberto con el presidente de Perú, estoy, recorrí las redes.",
+      "score": 0.801,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué ves en común entre Mauricio y Trump y entre el presidente peruano y Alberto Fernández?",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer Macri se reunió con Donald Trump, ojo que no sé qué me va a decir Spilman pero *Juntos por el Cambio* está, que arrebate con esa foto.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ah, tenemos un video inédito donde Macri dice que se viene el segundo tiempo.",
+      "score": 0.631,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y me acordé porque me la mandé a Spilman, esta nota que hice en el 2015 cuando hice para Clarín y para TN.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Spilman me mandó esta mañana esto que se dieron a las redes cuando le pregunto por Donald Trump y por él.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo te imaginas, Mauricio, vos presidente y Donald Trump presidente, yo la vi venir lo de Donald Trump presidente.",
+      "score": 0.272,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él apostaba a Hillary Clinton, recordemos esto que pasaba en el 2015 en Los Abrojos, en la casa de Mauricio Macri con Juliana Awada, lo vemos.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo tuve que firmar un contrato por 600 millones de dólares, yo tengo 24 años, negocio con ese tipo que ahora es candidato a presidente totalmente chiflado.",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y las impuestas le dan muy bien a Donald Trump, pero no puede, no puede.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Imagínate vos presidente, primera reunión con el presidente de Estados Unidos, Mauricio Macri o Donald Trump.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque a nadie le podemos preguntar eso eso.",
+      "score": 0.527,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, yo creo que no puede ganar reacción porque sus posiciones son muy extremas, puede ganar una interna tal vez, pero creo que le facilita la elección a Hillary, ¿no?",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me metí en la casa de Mauricio Macri, en la casa de Sergio Massa y Galmarini, en la casa de Stolbizer con su familia, en la casa de Del Caño, en la casa de Scioli, en la casa de Rodríguez, en San Luis, hice *Brindar por Argentina*, salió un plan I en TN.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo pensaba que iba a ser Scioli el presidente, estaba segura que ganaba Scioli porque, no sé, me parecía que era Scioli.",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el día que fui a la casa de Mauricio Macri, cuando yo le digo a Donald Trump, que para mí era el presidente, me di entre el ganador, él me dijo que no.",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me acuerdo que me di cuenta que era el presidente porque terminamos la entrevista, se apagaron todas las cámaras, se fueron los camarógrafos y yo me quedé con Alejandro Warrenstein, mi marido en ese momento, y Mauricio se puso a llorar.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero decía, pensar que Mauricio se fue porque le iba mal y le había explotado la economía.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá esta sátira de la realidad que grabaron, *Mi ley con Boyano*, *Restaurants*, la Argentina de siempre, a quejarse, que se acaba el mundo, miralo.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le mando un beso a Milei y a Boyano.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poneme la foto del huevo de Pajuaz.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en el fondo del mar.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A un jubilado le regalan 6, así como a un tipo que laburó toda la vida.",
+      "score": 0.497,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le cuesta una y la mitad del otro.",
+      "score": 0.535,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada dos días le cortan la calle.",
+      "score": 0.562,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá después lo que dice Pablo Echarri.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuál es el valor, dice Pablo Echarri?",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El valor periodístico que le encuentra a C5N al poner a debatir a este meritócrata desclasado.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo Echarri, ¿de qué lado estás, chabón?",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le pega a Cuggini?",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mérito para Pablo Echarri es algo negativo.",
+      "score": 0.785,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo Lagoita, Cuggini se la ganó laburando.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le decís desclasado como un insulto.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no fuera por la política civil, no se podría progresar.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que a un tipo de la villa o a un tipo pobre de la vida no le puede dar recompensas y laburas.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los días le cortan la nueve de julio y no puede laburar.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo le sale para el orto.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes era: \"Usted puntual, usted tiene chico, familia, está de novia, pareja, te va a casa\".",
+      "score": 0.847,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le salió competencia elegante.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá somos de altos y esos pecas roban cables.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos *loroloras* hablan, vamos a hacer que callen.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Explotamos todo el *party*, los turros con Rolando, Mari, hacemos los *chanquis*, los *chanquis* con la *huachada*, los *chanquis* con la *huachada*, con Mari hacemos lo necesario, le mandamos todo horario, no nos vengan a joder, a querer escupir el mambo.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme, poneme, poneme la música, poneme *Carnaval Carioca*.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 107
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El presidente Leandro me decía, ¿hablas con alguien?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Estaba leyendo en el diario El País, que son más o menos todos iguales, el diario El País de Uruguay que decía, Pepe Mujica fue a bancar a Dadiebreva.",
+      "entidades_detectadas": [
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "Como había estado una vez con él allá en una vía soberbia, una gente de una amiga.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El pibe le dijo, pues, si, con cámara 1, cámara 2 viene, y se duerme y hace cámara 4.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    }
+  ]
+}

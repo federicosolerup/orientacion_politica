@@ -1,0 +1,476 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 76,
+      "derecha": 16
+    },
+    "score_promedio": 0.218,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy el gobierno, finalmente, con Javier Milei, por supuesto, en el centro, llega a montar la liturgia que se había pensado para mayo.",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son una excusa, estos documentos, es una excusa este ritual montado por el gobierno en Tucumán para que podamos evaluar en qué situación está hoy la Argentina, en qué situación está el oficialismo, quién es hoy Javier Milei.",
+      "score": 0.361,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta noche lo vamos a mirar, este problema desde distintos ángulos, también con una entrevista a Pablo Semán, antropólogo, sociólogo, que viene estudiando el fenómeno Milei y la Argentina que da a Milei desde hace bastantes años, inclusive antes de que Milei se convirtiera en un protagonista de esa Argentina.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo llega Milei a Tucumán?",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la inflación es en la Argentina el tema de nuestro tiempo.",
+      "score": 0.798,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que recordar las discusiones de Cristina Fernández de Kirchner en relación con la inflación cuando estuvo en la Universidad de Georgetown hacia el final de su mandato, de su segundo mandato, y dijo aquella frase: \"No, no puede ser una inflación del 25% anual, esto se haría todo por el aire\".",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde entonces, ella estaba desafiada por la inflación, Macri estuvo desafiado por la inflación y no logró doblegarla, Alberto Fernández recibió ya una inflación alta y dejó una inflación altísima, 25,5% de inflación en diciembre, y Milei logra llevar la inflación mensual de ese 25,5% a un poquito más de 4,2% en el mes de mayo.",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto que la inflación de la ciudad de Buenos Aires, que predice un poco la inflación nacional, está bastante relacionada con la nacional; ahora aparece un poquito más alta, 4,8%, pero desde el 25,5% de diciembre al 4,2% de mayo es un descenso muy, muy fuerte que le da a Milei la posibilidad de presentarse como el San Jorge que por ahora viene matando al dragón, que es el tema de nuestro tiempo, el problema de nuestro tiempo.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo llega Milei a Tucumán?",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso no hay que reprocharle al Congreso, a mi juicio, haberse demorado seis meses en sacarlas, porque si uno mira el contenido de lo que se debatió en otras condiciones, en otras circunstancias, hubiera llevado más de un año, porque cada uno de esos capítulos que contienen estas leyes probablemente hubiera demandado muchos meses de discusión en el Congreso.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea que Milei llega también con un proyecto de reformas, o instrumentos para desarrollar reformas que pongan a la Argentina en la orientación del mercado, en la orientación de una economía más desregulada, con mayor intervención del sector privado y con un estado más chico, obtenidas desde el Congreso, lo cual significa también, y esto tal vez es más importante que el contenido de las leyes, que un gobierno muy desprovisto de capital institucional, sin diputados, sin senadores, sin gobernadores, sin arraigo en los movimientos sindicales y sociales, logra un esquema de gobernabilidad, logra una ecuación política que le permite sacar esas leyes y conquistar esas reformas para ahora llevar adelante su programa.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el gran logro que puede mostrar Milei esta noche en Tucumán cuando se firmen estos acuerdos de mayo/julio.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos todavía, eso está por definirse, después lo vamos a hablar con Pablo Semán.",
+      "score": 0.178,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El bloque de Pichetto hoy no está en Tucumán, Macri está con reservas.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver que en la provincia de Buenos Aires, por ejemplo, lo vamos a ver en un ratito, lo que parecía ser la gente de Milei, hoy parece ser la gente de Kicillof, pero llega entonces Milei con estas dos conquistas, con estas dos colinas capturadas, la inflación, una baja importante de la inflación, que es un activo político por lo que significa la inflación en la larga duración de todo este tiempo y con la demostración de que pudo gobernar el juego en relación con el Congreso.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta que no se despeje la cuestión cambiaria y haya un solo tipo de cambio y hasta que no se despeje la cuestión monetaria y se sepa con alguna estabilidad cuál es la tasa de interés, que está muy ligada a la posibilidad de levantar el cepo, es muy difícil que la economía argentina despegue.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si tomamos los impuestos que tienen que ver con la actividad y excluimos el impuesto país, que va ligado a las importaciones y en el fondo al tipo de cambio, a la evaluación que ocurrió en diciembre, que es este tramo colorado, la caída es mayor.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una caída que va de 13 billones a 10 billones, son 3 billones de pesos de caída si excluimos lo que recauda el Estado por impuesto país, que es el impuesto estrella.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, ¿está el gobierno con un problema para alcanzar el objetivo del superávit fiscal si nosotros quitamos de estos números lo que el gobierno le entrega a las provincias por coparticipación?",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una caída muy importante que pone un signo de interrogación sobre lo más importante del programa económico de Luis Caputo que es lo que se denomina el ente fiscal.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lo que se transfiere a las provincias por coparticipación cayó aproximadamente un billón 300 mil millones de pesos y esto empieza a emitir signos en provincias enemistadas con el gobierno nacional y muy dependientes de los giros del gobierno nacional, como por ejemplo La Rioja, ya se están emitiendo hoy; el gobernador de La Rioja, que no va a estar en Tucumán con el presidente y con el resto del oficialismo, manda a su vicegobernadora.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, hay economistas que hoy se estaban preguntando si esta salida al brutal ajuste fiscal que están teniendo las provincias por caída de la recaudación y por suspensión de giros que habitualmente realizaba el Estado nacional no será contagiosa hacia otras provincias.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No son estrictamente empresas del Estado, son sociedades anónimas con participación estatal mayoritaria, donde obviamente el Estado tiene que invertir.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 51% son empresas del Estado, la participación del Estado es del 51%, 49% de privados que no sabemos cuáles son.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kicillof no encontraba el número para aprobar la creación de esa empresa en la Cámara de Diputados.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También en el Senado pasa lo mismo, sobre todo con un senador que cuando uno decía que era de Massa se ponía muy nervioso, decía que no, Sergio Vargas, y ahora forma parte del mismo bloque que colabora con Kicillof en que Kicillof pueda llevar adelante un programa estatista que sería repudiado probablemente por muchos de los votantes que votaron en la provincia de Buenos Aires a las listas de Milei.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se puede decir que esto es fraude electoral, por ahí es una palabra demasiado fuerte, pero lo cierto es que Kicillof está logrando objetivos que tienen que ver con montar un modelo absolutamente contrastante con el del Gobierno Nacional gracias a diputados que llegaron a la legislatura con las listas de lo que hoy es el Gobierno Nacional.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno después se pregunta si en la Argentina hay una crisis de representación y por qué la hay, después vamos a hablar con Pablo Semán de esto, a lo mejor este tipo de trampa o de malversación tiene que ver con los problemas de representación de la democracia.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este problema fiscal es un problema que seguiremos viendo porque es un problema importante que es hijo de la recesión, por eso los que dicen \"cuidado con los shock fiscales y monetarios\" a veces están pensando en esto, producen lo contrario de lo que se pretende, al final uno encuentra un desequilibrio, esto está ligado al nivel de dinamismo de la economía argentina y el nivel de dinamismo está emparentado con la cuestión monetaria y cambiaria, todo esto es un paquete.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es el único problema, hay también una cuestión que tiene no tanto que ver con el diseño de la política económica sino que tiene que ver con el diseño del gabinete, con la operación de la gestión y con la posibilidad de implementar las reformas que el gobierno obtuvo por autorización del Congreso y acá estamos viendo cómo se va reformulando el equipo de gobierno en estos días, es decir, que Milei llega a Tucumán con la conquista de haber bajado la inflación significativamente, veremos ahora cómo sigue esa curva, con la conquista de haber logrado un esquema de gobernabilidad que le permitió sacar leyes importantes del Congreso, con un enorme problema de recesión que impacta sobre lo fiscal y también llega con un gabinete que se va reacomodando, que se va reformulando de a poco.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos una novedad en un área que es probablemente una de las áreas más importantes si uno mira la economía argentina desde el punto de vista sectorial, dos materias, minería y sobre todo energía, petróleo y gas.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue el encargado de finanzas de YPF durante la gestión de Miguel Gutiérrez, etapa Macri, tiene un cargo importante en IDEA, está vinculado al sector agropecuario porque es director de Adeco Agro, que es una de las grandes empresas agropecuarias de la Argentina y ahora va a ser una especie de puente entre Luis Caputo, el ministro de Economía, y el área de Energía que conduce todavía, subrayo el \"todavía\", Eduardo Rodríguez Chirillo, que es el secretario de Energía que sobrevive desde la época de Nicolás Posse.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos estos son cambios que está llevando adelante Luis Caputo, uno podría decir \"los Caputo\", porque tiene muchísimo que ver Santiago Caputo en todo esto, el asesor de imagen y de estrategia política de Milei, cambios respecto del esquema de poder que había armado Nicolás Posse, el anterior jefe de gabinete, sustituido por Guillermo Francos.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y porque no sabemos si Rodríguez Chirillo va a estar cómodo con que ahora le pongan encima a un hombre que viene con un mandato muy fuerte de parte de Luis Caputo, de quien es amigo, González, Daniel González, el nuevo encargado, una especie de viceministro de todas estas áreas.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toman el poder entonces, más que antes en energía, los Caputo, que operaban ahí a través de un funcionario, asesor, un poco informal al estilo de este gobierno, Diego Aduriz, que es primo hermano de Luis Caputo y por lo tanto también pariente de Santiago Caputo.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una especie de \"caputocracia\" hoy en el gobierno, con enorme poder de Santiago Caputo, que tiene un pie en YPF a través de Giser Mo'Garat, socio de él en la consultora Muv, que es la consultora de opinión pública, estrategias electorales, etcétera, con la que ellos trabajan desde hace mucho tiempo, al comienzo de todo a la sombra de Jaime Durán Barba.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se firmó el decreto, es el decreto 585/24, es un decreto que hay que mirarlo con detenimiento, porque no solamente asigna funciones al ministerio de desregulación y transformación del Estado Sturzenegger, al hacerlo reestablece, rediseña todas las funciones de la Jefatura de Gabinete y también del ministerio de Economía.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora uno entiende por qué se demoró tanto esta designación, porque es evidente que el terreno que le demarcaron a Sturzenegger es un terreno que surge de una larga negociación con la Jefatura de Gabinete y sobre todo con el ministro de Economía.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué es lo que a uno le aparece en la cabeza cuando lee esto?",
+      "score": 0.666,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todas las protecciones, privilegios, distorsiones que tienen los mercados en la Argentina por privilegios que concede la corona, el Estado, Tierra del Fuego.",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, extensiones impositivas y regímenes especiales, es Tierra del Fuego, que está dominado por varios empresarios, pero dos sobre todo, Rubén Czerniachowski, grupo Newsan, y Nicolás Caputo, primo hermano del ministro de Economía, tío segundo de Santiago Caputo, el principal asesor del presidente.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es la relación entre Caputo y Sturzenegger?",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre todo cuando uno mira que en un momento en que lo fiscal empieza a generar dudas a Sturzenegger le dan funciones en lo fiscal.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ¿hay tensión entre Caputo, Luis Caputo y Sturzenegger?",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, se dijo: \"No, Caputo se fue corriendo porque seguramente tendría una reunión, alguna responsabilidad después de la asunción de Sturzenegger\".",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, fue el segundo en saludarlo.",
+      "score": 0.277,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También se iba Patricia Bullrich corriendo.",
+      "score": 0.59,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hay que recordar que Caputo fue el sucesor de Sturzenegger cuando lo sacaron a Sturzenegger del Banco Central en la gestión Macri.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esa comida que se celebró en la Fundación Libertad, Milei lo descubrió a Sturzenegger entre el público, lo elogió, lo trató de \"Titán\" o \"campeón\", no recuerdo bien, y dijo: \"Cuando echaron a Sturzenegger empezó el regreso del kirchnerismo\".",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Milei quiere tener una visión alternativa de la que le ofrece Caputo o se conforma con su propia visión de economista, bastante autosuficiente que es él, que cree que va a ganar el premio Nobel?",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es Ylan Goldfein, actual presidente del BID.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es José de Gregorio, ex presidente del Banco Central de Chile y macroeconomista con un gran manual sobre macroeconomía famoso.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el encargado del mecanismo occidental del Fondo Monetario Internacional, del que Milei sugirió que es un \"bolivariano\" que pertenece al Foro de São Paulo, etcétera, etcétera, por el pecado de haber sido el ministro de Economía, ultra ortodoxo de Michelle Bachelet.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá hay un vínculo intenso de amistad que no sabemos si tiene la misma intensidad y la misma cordialidad que el vínculo entre Luis Caputo y Rodrigo Valdés, el encargado del programa del Fondo para la Argentina.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los ciudadanos que Santiago Caputo también interviene en la política judicial.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si no, miren este caso, que es un caso muy llamativo, es una entrevista que le hace Matías Moreno hoy en La Nación a Guadalupe Taliáferro, que es nada menos, es del PRO de la Capital, la presidenta de la comisión de acuerdos por las que tiene que pasar el pliego de García-Mansilla y de Lijo.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ella dice, con mucha suficiencia: \"El PRO está mareado y despeñido, perdimos la identidad original\".",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, ella pide un PRO más definido, más contundente, con límites o un perfil más claro.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cuando le preguntan por Lijo, miren lo que contesta: \"¿Usted apoyará el pliego del juez Lijo?\", y contesta: \"Los dos candidatos son candidatos del Poder Ejecutivo, ¡qué novedad!\".",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después le preguntan: \"Y si Macri dijera que no, si pide que se rechace el pliego de Lijo, cosa que Macri probablemente esté cerca de hacer\".",
+      "score": 0.423,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que no sabemos si el PRO está mareado, pero Taliáferro seguro está mareada.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque ante semejante tema, que es la designación o no por la comisión que esa preside de un juez que ha desatado una tormenta como nunca se vio en la designación de un juez de la Corte en la historia argentina por temas de sospechas de corrupción, todavía no se puede definir.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo caso donde uno se pregunta, ¿estas dudas sobre temas tan importantes tendrán que ver con cuestiones que hacen a la crisis de representación que se vive en la Argentina?",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si no miren esta carta, es una carta que le envían al presidente de la DAIA, Jorge Knoblovits, los expresidentes de la institución, diciéndole: \"Usted se pronunció en nombre de la DAIA, que es la entidad, como todos sabemos, que reúne a las principales entidades de la comunidad judía en la Argentina a favor del doctor Lijo para la Corte.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es increíble que usted no haya hecho consultas frente a la designación de un hombre que se está produciendo en el marco de un claro disenso de opiniones que fueron expresadas públicamente.",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vemos con preocupación que usted comprometía la opinión y la posición de las entidades que integran la DAIA, sin haber convocado una asamblea extraordinaria\".",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Ahora le pedimos que convoque una asamblea extraordinaria para ver si nos tenemos que pronunciar o no\".",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le afirman?",
+      "score": 0.343,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rubén Beraja, Ariel Coenzabán, Aldo Donzi, José Hercman, Alberto Indij, Amalia Pollak, Ángel Sindler, Julio Schlosser, Roberto Ziedenberg.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, se abre un debate importante dentro de la DAIA por un pronunciamiento inconsulto de su presidente a favor de Lijo.",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ha habido notas en la prensa internacional sobre que este Milei que llega a Tucumán tiene una imagen muy borrosa en materia de calidad institucional.",
+      "score": 0.435,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pareciera que es un Milei unilateral, unidimensional, hiper economicista y que otras cosas no le interesan demasiado, como por ejemplo la designación de un juez de la Corte.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto se proyecta sobre un aspecto muy importante de este gobierno que llega hoy al 9 de julio para firmar esos pactos: la dimensión internacional.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después vamos a hablar de esto con Pablo Semán.",
+      "score": 0.184,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei se ve a sí mismo, antes que como un presidente de la Argentina, como un líder global, como un líder ideológico.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había una costumbre, probablemente malsana, que se fue expandiendo en los últimos años de que determinados presidentes vayan a otro país a favorecer a sus amigos en las luchas electorales de esos países, poniendo entre paréntesis o en suspenso lo que se llama el principio de no intervención, que un Estado no interviene en la política interna del otro.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y era habitual que un presidente venga a hacer campaña por quien es su amigo en el otro país.",
+      "score": 0.535,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, es el caso de Milei con Pedro Sánchez en España, más allá de que lo hayan insultado a Milei antes que insulte a Pedro Sánchez.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el caso de la relación con Lula, que estuvo pendiente de un hilo todos estos días hasta la reunión de la que participó Milei en Camboriú, hablando sobre la situación brasileña, la situación argentina, etcétera.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que él pudiera ahí volver a decir que Lula es un comunista corrupto, como le dijo en su momento a Jaime Bayly en una entrevista.",
+      "score": 0.445,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso a Lula lo ofendió muchísimo, tanto que Lula quebró un compromiso, que era que ninguno de los dos iba a hablar del otro, y ese compromiso Milei lo venía sosteniendo a lo largo del año, diciendo el otro día, la semana pasada: \"Milei me tenía que pedir permiso por las tonterías que dijo\".",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de ese momento, Milei dijo: \"No voy a la cumbre del Mercosur\" que se celebró en Asunción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Milei fue a Camboriú, no habló de Lula, habló sí del socialismo, habló de que Bolsonaro, su amigo, es un perseguido político por la justicia brasileña.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lacalle Pou está reprochando a Milei no haber asistido a la reunión.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero en la reunión, Itamaraty, la cancillería brasileña, rescató el gesto de Milei de no haber hablado de Lula, y se produjo este encuentro, que es Lula da Silva con la jefa de la misión argentina.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El no ir Milei fue Diana Mondino y el canciller Mauro Vieira, que fue el gestor de esta foto, saludan este encuentro desde Itamaraty, y la cancillería argentina lo retuitea.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay un esfuerzo de las dos cancillerías por encarrilar la relación con Brasil de manera más o menos cordial.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto es consecuencia de un clima general del que vamos a hablar con Pablo Semán en todo occidente, que es el de una fractura ideológica, gran despolarización en todas las sociedades, también en la argentina, también en la brasileña, y terminan proyectándose sobre la política exterior.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Papa Francisco excomulgó a un arzobispo italiano, a Carlo Maria Viganò, lo excomulgó por haberse pronunciado en contra de él de manera insultante.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad que no lo sé, pero me parece que es algo sumamente novedoso, porque el Papa Francisco está diciendo: \"Viganò ha iniciado dentro de la iglesia un cisma\".",
+      "score": 0.354,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace juego con Milei, que intervino a la cancillería a través de la hermana, puso ahí a la abogada, Úrsula Basset, solo para revisar pronunciamientos de la Argentina en materia de género, pronunciamientos de la Argentina en materia de medio ambiente y en materia de derechos humanos.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Camila Perochena nos va a hablar de en qué se parece y en qué se diferencia esta Argentina de la Argentina de julio de 1816, ahí en Tucumán.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 92
+  },
+  "etiqueta_original": "neutral"
+}

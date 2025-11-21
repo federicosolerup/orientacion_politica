@@ -1,0 +1,32 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Tras la primera vuelta electoral, Macri contactó a Milley y a Patricia Bullrich.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Se tomaron una fotografía juntos y, a instancias de Macri, Bullrich impulsó la candidatura de Milley, quien recibió el apoyo de Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "En cuanto se elimine el impuesto país, volveremos al mismo déficit que dejaron Alberto Fernández y Sergio Massa.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Este líder, que pone en peligro a la población, no es el único problema; su estado mental podría ser preocupante, pero el verdadero problema radica en los grandes empresarios y sus aliados en el Congreso que lo mantienen en el poder.",
+      "entidades_detectadas": [
+        "congreso",
+        "estado"
+      ]
+    }
+  ]
+}

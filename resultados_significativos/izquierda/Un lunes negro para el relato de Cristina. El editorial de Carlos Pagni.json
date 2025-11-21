@@ -1,0 +1,361 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 45,
+      "derecha": 24
+    },
+    "score_promedio": 0.347,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En la campaña electoral, en la política, en la vida institucional de la Argentina, irrumpió hoy una novedad muy complicada para el oficialismo, en muchas dimensiones, pero sobre todo en una: afecta el corazón del discurso que han sostenido Cristina Fernández de Kirchner y todo su entorno a lo largo de los últimos años respecto de la relación entre política y justicia, kirchnerismo y justicia, persecución judicial, lo \"fair\" y sobre todo una materia que es escurridiza, pestilente, oscura, difícil de manejar: el papel de los organismos de inteligencia, el papel de los sótanos del Estado y de la política en la vida pública.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una serie en Netflix sobre el Mossad, los servicios de inteligencia israelíes, que empieza con la pantalla en negro y una frase en letras blancas, abajo de la pantalla, con cierta dificultad para leerla, que es una sentencia de John le Carré, que dedicó su vida a narrar en distintas formas de ficción el mundo de los servicios de inteligencia y el espionaje.",
+      "score": 0.36,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa frase dice: \"La calidad de una democracia se mide por el control que ejerce sobre sus organismos de inteligencia.\" Ese tema tan escurridizo, si se quiere también peligroso para acercarse, agresivo, atraviesa la democracia argentina de los últimos años de manera muy inquietante y preocupante.",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos recordamos un viaje de jueces, fiscales, exfuncionarios de inteligencia, publicistas, con funcionarios del Grupo Clarín al Lago Escondido.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque se descubre que este policía había retirado, que formó parte de un grupo inorgánico de policías que prestaban servicios clandestinos a la entonces Secretaría de Inteligencia en la época en que la comandaban Francisco \"Paco\" Larcher, mano derecha del espionaje de Néstor Kirchner, Antonio Stiuso, que era el cerebro de esta desorganización y sobre todo su \"brazo\", Fernando Pocino, que era aparentemente el que tenía el vínculo con estos policías en la época de Kirchner.",
+      "score": 0.377,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno, el diputado Rodolfo Tailhade, cerebro fundamental de toda la estrategia judicial de Cristina Kirchner, defensiva y ofensiva respecto de la justicia, cerebro principal de la comisión de juicio político y de las tareas del Congreso en su embestida contra la Corte.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El otro protagonista de esta historia al que reportaba sus informes Santagata, se llama Fabián \"Conu\" Rodríguez y es una figura eminente de La Cámpora, muy ligado a Máximo Kirchner.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su momento fue presidente de Telam, estuvo a cargo con Axel Kicillof de las comunicaciones de la provincia de Buenos Aires y hoy es uno de los directivos de la AFIP.",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el área de Aduanas alguien central en el mundo de poder de Sergio Massa, Guillermo Michel, Virginia María García, excuñada de Máximo Kirchner, y acá lo tenemos a Néstor Fabián Rodríguez.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Informaba Santagata sobre jueces federales, no solamente sobre los que nombra en una larga lista en la que entran, entre otros, el juez Lijo, el juez Gorini, Jiménez Uriburu y Basso, dos figuras importantísimas porque son miembros del Tribunal Oral que jugó y condenó a Cristina en la causa de la obra pública de Santa Cruz, el camarista Hornos, una cantidad de jueces espiados.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es importante que en esta \"Ilíada\", porque además de ser diputado, engranaje principal, como decíamos, de las relaciones agresivas entre Cristina Kirchner y la justicia, antes fue jefe de Contrainteligencia de la AFI durante la presidencia de Cristina Kirchner.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solo preguntaba por jueces, también preguntaba por personalidades del kirchnerismo, preguntaba si investigaba o espiaba o quería tener información de miles de personas, entre las cuales está la propia Cristina Kirchner.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Y voy a poner como testigos a estos periodistas que son compañeros de trabajo míos en esos portales.\" La justicia lo llamó como testigo y nunca se presentaron.",
+      "score": 0.69,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este mecanismo, que es bastante antiguo, parece que se repite mucho en todo lo que nos va mostrando esta causa que hoy dio lugar a algo grave políticamente como el allanamiento de la casa de Fabián Rodríguez, mano derecha en materia de comunicación de Máximo Kirchner.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El diputado Tailhade, que es el número que la justicia identificó como del celular del policía y agente de inteligencia inorgánico Santagata, habla con Tailhade y le informa: \"Te voy a pasar los chats, me los pasó el jefe de inteligencia de la Policía Aeroportuaria de Bariloche.\" Es decir, Santagata le está explicando a Tailhade que la información sobre los chats que después se hacen públicos de estos jueces federales con funcionarios y empresarios, etcétera, son chats provistos por un organismo de inteligencia, esta vez oficial, que es el de la Policía de Seguridad Aeroportuaria.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Victoria Tolosa Paz, como todos sabemos, es la esposa de Enrique Albistur, íntimo amigo de Alberto Fernández, tanto que es el que le presta el departamento en Puerto Madero a Alberto Fernández, y una nota activa de Página/12 como para divertirnos un poco.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una discusión ahora, aparentemente, entre Alberto Fernández y Enrique Albistur sobre quién tiene que pagar las expensas de estos años en que Alberto estuvo en el gobierno, porque él aduce que no tiene que pagarlas porque estuvo viviendo en Olivos.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto es así que en la declaración de descargo que hace el juez Rosatti la semana pasada frente a las acusaciones que le hacen, en la primera página él plantea que gran parte de la acusación está basada en operaciones de inteligencia clandestina como las que ahora salen a la luz hoy debido a estas investigaciones de Martínez de Giorgi y del fiscal Pollicita.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para Massa esto es una gran complicación.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A tal punto que ayer, en este mismo canal, cuando Luis Majul le pregunta por el juicio a la Corte, da una respuesta a la verdad muy mal preparada.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno espera que Massa se prepare un poco más para preguntas que son tan...",
+      "score": 0.557,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"¿Qué opina usted del juicio político a la Corte?\", dice: \"Todavía no estoy enterado, me voy a informar después de que pase el balotaje y ahí voy a enterarme de los fundamentos por los cuales mi coalición en la comisión de juicio político quiere llevar adelante la remoción, nada más y nada menos, que de los jueces de la Corte.\" ¿Por qué es increíble esta respuesta?",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No lo sabremos antes del balotaje y esta ha sido una jugada de Massa de las últimas horas, lograr que hoy en el Boletín Oficial se prorroguen las sesiones ordinarias del Congreso y, por lo tanto, el calendario afecte también con una prórroga la firma del dictamen donde el oficialismo acusa a la Corte, para que sus diputados no tengan que firmar agresivamente frente a la Corte y esto puede ser un argumento de campaña de Milei en contra de él.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, acá hay que preguntarse si Cristina Kirchner, Tailhade, La Cámpora, en todos estos años donde la relación con Massa parecía tan amigable, también quería saber en qué andaba Massa.",
+      "score": 0.261,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A Massa le servirá esto?",
+      "score": 0.57,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nada de esto le conviene.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y tanto no le conviene que hubo un pronunciamiento de dos personas claves para Massa en los últimos días en relación al tema justicia, kirchnerismo, gobierno, justicia, tema que ahora se va a ver agravado, adquiere colores más sombríos todavía con toda esta operación de inteligencia.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno de esos pronunciamientos es, nada menos, que el de Roberto Lavagna, un hombre muy ligado a Massa, a quien Massa acaba de presentar como una especie de consultor que tendría muy en cuenta durante su gobierno para dar una señal de razonabilidad frente a los mercados.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Lavagna condenó el juicio político a la Corte de la fuerza que postula a Massa, pero el que fue más duro fue Juan Schiaretti, que no dijo \"condenó el ataque del gobierno kirchnerista en contra de la Corte\", dijo: \"Condenó el ataque del gobierno kirchnerista del ministro Massa en contra de la Corte\", es decir, se preocupó de poner a Massa como victimario de la justicia, para que quede clara su relación con Massa en este tema y en muchos otros temas, después vamos a hablar de esto durante esta campaña electoral, donde Schiaretti, por razones que vamos a ver ahora, es clave.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de toda esta información, como siempre sucede en la Argentina y mucho más en el kirchnerismo, se desatan todas las fantasías conspirativas y paranoicas, inclusive los que dicen, irracionalmente a mi juicio, no estará Massa detrás de todo esto, porque Massa tiene una relación estrechísima con Martínez de Giorgi.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ¿por qué el mismo Martínez de Giorgi, que realiza estos allanamientos, es el Martínez de Giorgi que realizó allanamientos en una cantidad de empresas financieras, allanamientos en el fondo al servicio de Massa durante todos estos días?",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La AFI, supongamos, estoy suponiendo, Esteban Carella tan ligado a Tailhade, realizan operaciones ilegales, le entregan la información a Santagata y Santagata la publica para no aparecer la AFI haciendo estas operaciones ilegales.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que Tailhade, que fue jefe de Contrainteligencia de la AFI de Cristina, le cabe este artículo.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si un ex funcionario realiza operaciones de inteligencia clandestina, también le cabe el peso de la ley de inteligencia.",
+      "score": 0.419,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decíamos que es muy importante cómo se produce un conflicto entre Schiaretti y Massa, en un momento en que Schiaretti es un activo de la campaña, en la que Massa intenta, con toda lógica, ir hacia el centro y despegarse del kirchnerismo.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para eso Massa no quería que se introduzca el tema del juicio político a la Corte.",
+      "score": 0.47,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para eso no aparece en la campaña Máximo Kirchner.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero más importante todavía es el conflicto que aparece a raíz del juicio político contra la Corte y mucho más a raíz de toda esta información que ha estallado hoy, en una especie de \"lunes negro\" para la campaña de Cristina y de Massa.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, es obvio que de todas las fuerzas que compitieron, quedaron solamente en carrera los dos que ingresan al balotaje: Unión por la Patria con Massa y La Libertad Avanza con Javier Milei.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí hay un caudal de votos importantísimo para Massa y para Milei.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está buscando estos votos y no logra que Schiaretti se los facilite.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dice a su electorado: \"Yo no tengo nada que ver con Massa.\" Sigamos viendo, fíjense que los votos disponibles son el 33,33 por ciento de la elección, son 8.700.000.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para eso Massa envió un emisario a hablar con Schiaretti.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Schiaretti le dijo: \"Yo no tengo nada que ver con Massa.\" ¿Por qué no tengo nada que ver con Massa?",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque con Massa yo fui socio en el año 2019.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un día Massa desapareció y apareció al lado de Cristina Kirchner.",
+      "score": 0.764,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este problema del pase de Massa, de la oposición al kirchnerismo, y gente que había apostado a él y a la que él no le dio explicaciones, lo complica a Massa en la relación con mucha gente.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que en Córdoba, Milei salió primero, después sale Patricia Bullrich y Massa está tercero, es decir, es un electorado muy esquivo para Massa.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Envió a Córdoba a uno de sus principales operadores políticos, astutísimo, Juanjo Álvarez, para ver si puede trabajar en las segundas líneas del peronismo cordobés, un poco a escondidas de Schiaretti y de Llaryora.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy Massa visitó Córdoba para aprovechar ese trabajo de Juanjo Álvarez.",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llaryora y Schiaretti, que tenían que volver ayer a Córdoba, dijeron: \"Desde el viejo mundo prolongamos nuestro viaje, no queremos ni estar cuando Massa va a visitarnos para no tener ningún tipo de compromiso.\" ¿Por qué estamos mirando tanto este tema que relaciona a Massa, el juicio político, las expresiones?",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ejemplo: Massa está tratando, a través de alguien muy ligado a él, entre otras cosas por los negocios de la televisación del fútbol, Claudio \"Chiqui\" Tapia, el presidente de la AFA, está tratando, a través de Tapia, que haya algún guiño de Lionel Messi a favor de la candidatura de Massa.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto abre todo un panorama que es la lucha que hay entre Massa y Macri en esta campaña, es decir, Massa tiene un conflicto electoral con Milei y un conflicto de poder con Macri, que en buena medida explica el alineamiento de Macri con Milei, no es la única razón, probablemente ni la principal, pero es importante.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Luis Majul le pregunta a Massa por la situación judicial de Cristina, él dice: \"Yo no pongo las manos en el fuego por nadie, que se pronuncie la justicia, tampoco me gusta que alguien desde un medio de comunicación o desde una banca legislativa condene por su cuenta sin esperar el pronunciamiento de la justicia, por eso en ese sentido tiene que estar tranquila Cristina\", y agrega él, \"y tiene que estar tranquilo Macri\", y agrega más, \"en la causa de los parques eólicos\".",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie le había preguntado, es obvio que le está mandando un mensaje a Macri, diciéndole: \"Si yo llego al poder, mira bien esa causa, porque yo no me voy a meter con esa causa, pero con esa causa vas a tener problemas\", es obvio el mensaje, muy Massa.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mire esto: el 2 de diciembre son las elecciones para la nueva conducción de Boca Juniors.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una encuesta que es importante, es anterior a la derrota del Boca conducido por Ibarra y Riquelme en Río de Janeiro.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la fórmula de Riquelme, estaría en más o menos 45% de los votos, y acá pregunta la encuesta Andrés Ibarra, que es el candidato del macrismo a presidir Boca, ex ministro de Modernización del Estado de Macri, y Mauricio Macri, y con Mauricio Macri Ibarra saca aproximadamente 37-38%.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el 19 de noviembre gana Milei, Macri se presenta como candidato a vicepresidente de Boca en contra de Riquelme, que llegó a Boca por estímulos de todo tipo, puestos por Massa para desplazar a Macri de Boca.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay una segunda pelea, o una cancha auxiliar, que para Macri no es nada auxiliar, porque Boca es su partido político, Macri viene de Boca, entre Massa y Macri, cifrada en esta pelea electoral en el mundo del fútbol, no es en el único club donde compiten macristas y peronistas o macristas y macistas.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos en presencia de un debate que, gracias a la habilidad de los representantes de Massa en la mesa de discusión, se flexibilizó.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí el cerebro de esta estrategia se llama Juan Manuel Olmos, clave en la campaña, es tal vez el hombre al que Massa le debe su candidatura, que consiguió que en el debate no pueda haber papeles, que haya más intercambio.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri dijo: \"Yo voy a apoyar a Milei, pero la fiscalización la pongo yo del PRO.\" Hubo un corrimiento en las últimas horas de Kikuchi, que era el jefe de la campaña de fiscalización de Milei, ahora irrumpe Guillermo Dietrich de parte del PRO.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo el equipo de fiscalización del PRO en las distintas provincias se está activando y también los radicales neutrales en las provincias donde gobiernan, ¿por qué?",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por una razón elemental: a un gobernador de Juntos por el Cambio, sea radical o del PRO, que gane Milei, casi que le conviene en su distrito, porque esos votos de Milei en la política local están vacantes, muy probablemente los absorba él.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si gana Massa, crece el rival peronista de esa provincia, porque Massa sí tiene sucursales en las provincias, Milei no, entonces hay una tendencia natural de los radicales y de los dirigentes del PRO provinciales que gobiernan, Mendoza, Corrientes, Entre Ríos con Frigerio, Chubut con Torres, etcétera, a fiscalizar informalmente para Milei.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las encuestas, salvo una de Analogías, de una encuestadora de La Cámpora, le dan todas un poco por arriba, con distintos niveles, a Milei.",
+      "score": 0.59,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él dice: \"Massa no puede ganar, pero Milei puede perder.\" Y eso depende de los factores que mencionamos recién, básicamente dos: el debate y, muy importante, la fiscalización.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar Odisea hablando con uno de los más eminentes intelectuales, cientistas sociales, es un sociólogo e historiador muy importante de la Argentina que acaba de relanzar un libro que él ya había editado en los años 90 durante la época de Menem.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 69
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,168 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer, el ministro de Economía, Luis Caputo, refutó la teoría económica austríaca que atribuye la inflación exclusivamente a la emisión monetaria.",
+      "entidades_detectadas": [
+        "Luis Caputo",
+        "ministro de Economía",
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Si bien la emisión de moneda es un factor, países con baja emisión también experimentan inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para abordar este problema, el ministro Caputo mantuvo dos reuniones: una con productores de alimentos y otra con supermercadistas.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "En estas reuniones, se analizaron la desaceleración de la inflación, las políticas de promociones y las estrategias para combatir la suba de precios y proteger al consumidor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El comunicado oficial menciona la participación de las empresas Cencosud, Jumbo, Día, Izi, Disco, Plaza Vea, Coto, La Anónima, Carrefour y Changomas.",
+      "entidades_detectadas": [
+        "Día",
+        "Carrefour",
+        "Coto",
+        "Cencosud",
+        "Changomas",
+        "Plaza Vea",
+        "La Anónima",
+        "Disco"
+      ]
+    },
+    {
+      "frase": "El ministro Caputo, junto al secretario de Industria y Desarrollo Productivo, Juan José Paso, y su par de Comercio, Pablo Lavigne, destacaron que los precios de los productos de consumo masivo no reflejan la realidad económica actual.",
+      "entidades_detectadas": [
+        "Comercio",
+        "Pablo Lavigne",
+        "Juan José Paso",
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Más tarde, se analizará si el INDEC considera las promociones en sus mediciones.",
+      "entidades_detectadas": [
+        "INDEC"
+      ]
+    },
+    {
+      "frase": "Previo a esto, quiero destacar que el argumento gubernamental de que el problema radica exclusivamente en las promociones del tipo \"2x1\" es incorrecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación actual podría describirse como una \"promoción Caputo\": 1x2, donde el consumidor paga el precio de dos productos por uno.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "Para comprender mejor la situación, les invito a ver los balances de estas empresas en YouTube o por televisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes, quiero recordar que ni las promociones ni los aumentos de precios son temas nuevos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En una entrevista anterior, el editor general de Clarín, Ricardo Kirschbaum, entrevistó a Federico Braun, propietario de La Anónima, quien admitió remarcar precios diariamente.",
+      "entidades_detectadas": [
+        "La Anónima",
+        "Ricardo Kirschbaum",
+        "Clarín",
+        "Federico Braun"
+      ]
+    },
+    {
+      "frase": "El acceso a los balances de los supermercados es difícil, pero pude acceder al de La Anónima (disponible en la página de la CNV) y al de Cencosud.",
+      "entidades_detectadas": [
+        "Cencosud",
+        "CNV",
+        "La Anónima"
+      ]
+    },
+    {
+      "frase": "El balance de La Anónima muestra un margen de utilidad del 9%, un porcentaje altísimo para el sector.",
+      "entidades_detectadas": [
+        "La Anónima"
+      ]
+    },
+    {
+      "frase": "A modo de comparación, Carrefour en Francia tiene un margen inferior al 2%, mientras que en Argentina el margen es significativamente superior.",
+      "entidades_detectadas": [
+        "Carrefour",
+        "Argentina",
+        "Francia"
+      ]
+    },
+    {
+      "frase": "El balance de Cencosud, empresa de capitales chilenos, muestra que en Argentina sus ingresos crecieron por encima de la inflación, con un margen EBITDA (ganancias antes de intereses, impuestos, depreciación y amortización) del 17,9% en el cuarto trimestre de 2023.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Cencosud"
+      ]
+    },
+    {
+      "frase": "Este margen es significativamente superior al de otros países donde opera Cencosud (Colombia: 8,5%; Brasil: 5%; Chile y Perú: 2,8%).",
+      "entidades_detectadas": [
+        "Brasil",
+        "Cencosud",
+        "Chile",
+        "Colombia",
+        "Perú"
+      ]
+    },
+    {
+      "frase": "Estos dos ejemplos muestran que la explicación de la inflación basada únicamente en la emisión monetaria es insuficiente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La reunión del ministro Caputo con productores y distribuidores de alimentos evidencia la necesidad de abordar el problema de los precios desde una perspectiva más amplia.",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "El problema actual no es el 2x1, sino la situación donde se paga el precio de dos productos por uno solo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Previo",
+    "Clarín",
+    "Caputo",
+    "Colombia",
+    "La Anónima",
+    "Juan José Paso",
+    "Disco",
+    "Cencosud",
+    "Federico Braun",
+    "Perú",
+    "INDEC",
+    "Comercio",
+    "Argentina",
+    "Ayer",
+    "Carrefour",
+    "Pablo Lavigne",
+    "Coto",
+    "ministro de Economía",
+    "Luis Caputo",
+    "Brasil",
+    "Día",
+    "Changomas",
+    "CNV",
+    "Chile",
+    "Plaza Vea",
+    "Francia",
+    "Ricardo Kirschbaum"
+  ]
+}

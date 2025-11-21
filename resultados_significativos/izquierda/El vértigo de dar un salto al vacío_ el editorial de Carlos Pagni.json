@@ -1,0 +1,351 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 49,
+      "derecha": 18
+    },
+    "score_promedio": 0.309,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se fueron generando sus razones, las motivaciones de esas rarezas, paulatinamente, en cámara lenta, probablemente tan lenta que, en medio del fárrago de las noticias del mundo de la inmediatez, fue difícil percibirlas, percibir ese movimiento.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la odisea que es la existencia en la Argentina de una crisis de representación, de un malentendido, de una pérdida de sintonía entre los representantes y los representados, entre la gente y la política.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo recuerdo, lo recuerdo especialmente en estos días, pero lo he recordado a lo largo de todo este tiempo, y en distintas reuniones ha sido motivo de muchos comentarios, una conversación con **Juan Germano**.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo recuerdo una conversación que tuve con él, calculo que fue en agosto de 2020, en plena cuarentena.",
+      "score": 0.742,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me aparece un pequeño grupo, que ahora lo vamos a ver, porque le pedí a Juan Germano si me podía enviar los gráficos de esa encuesta, aquí está, un grupo, estamos hablando de esta época, el comienzo del gobierno de Alberto Fernández, el primer año, de un 8% de encuestados que eran “ni ni ni ni”.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son los que no quieren ni a Cristina ni a Macri, eso sí había, pero acá aparece un número nuevo, los que no quieren ni a Cristina ni a Macri, ni a Fernández ni a **Rodríguez Larreta**, que eran en este momento de la cuarentena, las figuras que asomaban como los dirigentes capaces eventualmente de reemplazar, de producir una renovación en la vida, una renovación en la escena y reemplazar a Macri, Rodríguez Larreta, y a Cristina Fernández.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una historia electoral, es la historia electoral desde las elecciones generales del 2019, en las que se consagra como presidente Alberto Fernández con Cristina Kirchner, como se dice, hasta las PASO de hace dos domingos.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En las generales del 2019 sacó casi 13 millones de votos, vamos a poner 13 millones de votos, pero en las generales del 2021 sacó 8 millones, es decir, perdió el oficialismo entre el 19 y el 21, 4 millones 700 mil votos, y ahora no sacó 800, sacó 6 millones 400, 6 millones 500, volvió a perder 1 millón 700 mil votos, es decir, que en todo el periodo de Alberto Fernández, ¿cómo no van a estar peleados entre ellos?, y en todo el periodo pierde 6 millones de votos, pierde la mitad de los votos prácticamente, de 13 pasa a 6 500, bueno esta es la historia del oficialismo, es la historia de una gran contracción.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aquí tenemos, bueno, los partidos que no llegaron a superar el umbral de participación que es del 1,5, 728 mil votos, ojo con este número, ¿dónde va a ir esta gente?",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gente que, como dice un prestigioso científico social, **Juan Carlos Torre**, tal vez lo único que quiere escuchar es el mensaje de esos predicadores de la medianoche que dicen “pare de sufrir”.",
+      "score": 0.745,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente está esperando que la política le diga “pare de sufrir”.",
+      "score": 0.581,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la política lo que probablemente va a dar en términos convencionales es más sufrimiento, salvo que se le encuentre un sentido al sufrimiento, lo cual lo vuelve menos doloroso, y ese sentido al sufrimiento se llama futuro, liderazgo, expectativas, cambio de clima.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy está al frente de un instituto de estudios económicos para toda América, para el continente americano en la Universidad de Georgetown, en Washington, pero es uno de los cerebros del programa que se negoció entre la Argentina y el Fondo Monetario Internacional a partir del 2018 y durante el gobierno de Macri.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivió en las entrañas del Fondo Monetario Internacional durante todos estos años y escribió un libro testimonial sobre esa experiencia.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Amphibia es la forma en que se expresan esos investigadores, también hay periodistas.",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El primer círculo, explican Semán y Belchinger, es un círculo, podríamos decir, ideológico, de los que miran en Milei a un economista que habla de economía, habla de ideas económicas, de sistemas económicos muy pro-mercado, por momentos lindantes con el anarquismo, con una gran crítica al Estado.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Crítica al Estado que, nota al pie de página, suele aparecer siempre en procesos de alta inflación.",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esos números aparecen estos últimos votantes de Milei, que son los disconformes que deciden probablemente en la última semana cuál va a ser su opción electoral, y deciden contra el sistema.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei es un beneficiario de una crisis de Juntos por el Cambio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los votantes de Milei son votantes que eran de Juntos por el Cambio.",
+      "score": 0.571,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cambio, los votantes de Milei son estables.",
+      "score": 0.624,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto ya le preocupaba a alguna gente de La Cámpora antes de la elección.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los pobres del conurbano, si los incentivamos a ir a votar, ¿votarán a Massa o votarán a Milei?",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo vota mucha gente que se autopercibe de izquierda, pero igual vota a Milei por otras razones.",
+      "score": 0.355,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, lo que hace el líder populista es tomar ese enojo y volverlo en contra de la clase política, que es lo que hace Milei durante todo este tiempo.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuánto hay de conexión entre experiencias o entre la personalidad de Milei y el sentimiento generalizado que reina hoy en la política?",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En estos días, a mí me llama la atención una entrevista que él le dio a **Alejandro Fantino** el lunes pasado.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a mirar un pequeño fragmento de ese diálogo de Milei con Fantino.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí lo que está diciendo Milei, y lo dice un poco después, lástima que no está ese párrafo, dice: “Yo vine acá, vengo a verte a vos, Ale”, le dice a Fantino, “y hubiera ido a verlo a Mauro y Ale, que está en el cielo, porque ustedes dos me reconocieron”.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo vengo acá, le regalo a Fantino el discurso, el apunte del discurso que había pronunciado el domingo por la noche, porque vos me reconociste, porque a mí me hacían bullying y vos me reparaste.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero probablemente en esos 11 millones que no van a votar, y en los 7 millones de Milei, hace un universo de gente que, como Milei, se siente víctima del bullying de la política o de la realidad.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo más interesante es que probablemente Milei está más capacitado para expresar a esa gente porque él siente eso.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y dice algo que a mí me interesa muchísimo destacar de lo que le dice, que es que la gente se siente víctima de la política o de la realidad.",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y dice algo que a mí me interesa muchísimo destacar de lo que le dijo a Fantino, que es que despertaron los leones.",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no dice “yo soy un león que dirige la manada”.",
+      "score": 0.492,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Congreso no, plebiscitos.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les recomiendo enfáticamente que lean una nota que en este momento está en La Nación sobre el túnel secreto que hay entre Kirchner y Milei, escrita por **Martín Rodríguez Yebra**, que analiza muy bien esta reproducción populista con otro ropaje que está en el centro de la escena hoy.",
+      "score": 0.607,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero como Trump, como Bolsonaro, Milei también introduce en la escena política la idea de que hubo un fraude el domingo de la semana pasada, porque él no sacó 30% de los votos, sacó 35% de los votos, no se sabe dónde está el 5%, pero tampoco hay una denuncia en la justicia electoral.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que generar una regla que le ate las manos a la política.",
+      "score": 0.64,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En medio de todo este panorama, Milei hace dos operaciones, a mi juicio, muy inteligentes, que complican a los dos competidores.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Designa a alguien muy moderado, yo diría muy conservador, muy poco conflictivo, le promete el Ministerio del Interior a **Guillermo Francos**.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y está designando, a mi juicio, en un eventual gobierno de Milei, al Ministro más importante, que no va a ser el Ministro de Economía, va a ser el Ministro del Interior, aquel que le provee andamiaje político a las ideas económicas.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francos hace un mes, cuando todavía no se había bajado la candidatura de **Daniel Scioli**, formaba parte eventual del equipo que iba a tener Scioli en la campaña, eventualmente, si hubiera llegado en un gobierno.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa viaja ahora a Washington, Francos ya renunció a su cargo como representante de la Argentina en el BID, pero se lo hubiera encontrado, tal vez se lo cruza, no sé si volvió ya de Washington.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la otra jugada brillante de Milei es decir, le ofrece un cargo a Macri.",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En alguna medida, aprovechando que Macri no lo condena a Milei, no lo condenó a Milei, dice: “Yo estoy con Bullrich, pero Milei en alguna medida también es mi heredero”.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy debe estar más o menos según las encuestas en 37%, sacando 10 puntos porcentuales respecto al segundo si saca más del 41% de los votos.",
+      "score": 0.66,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno mira todos los planteos de Milei, la palabra Bullrich se repite 40 veces diciendo “Bullrich mentirosa”.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al final de ese argumento, muy probablemente Milei termine apelando al voto útil.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reponga el eje kirchnerismo-antikirchnerismo y diga: “Si querés terminar con Massa y con el kirchnerismo y con la miseria que representa Massa, no la votes a Bullrich.",
+      "score": 0.456,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Bullrich tirás el voto”.",
+      "score": 0.43,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich no, Bullrich sacó 4 millones.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le faltan 2.700.000 para llegar a los votantes de Rodríguez Larreta e incorporarlos.",
+      "score": 0.441,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y tiene que tomar una decisión, ¿compito con Milei o voy hacia el voto moderado y me presento como la garantía de gobernabilidad, como la que tiene equipos?",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Bullrich piensa, muy probablemente con toda lógica o con coherencia, no le podemos dar el Banco Central al ministro de Economía porque eso sería justamente traicionar uno de los criterios que ella defiende para la economía, que es la independencia del Banco Central.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa va a volver del Fondo con algo de dinero, con ese dinero va a tratar de calmar el mercado cambiario que es el jefe de campaña de Milei, el blue.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un problema hay entre Massa y el peronismo, y es que el peronismo está en crisis.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no hubiera sacado los votos que sacó hace dos domingos si no hubiera un gran adelantamiento de elecciones por parte de muchos gobernadores peronistas.",
+      "score": 0.757,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy probablemente si en muchas provincias, San Juan, San Luis, Tucumán, Jujuy, etcétera, si hubieran votado también gobernador, diputados provinciales, intendentes, Milei no hubiera sacado los votos que sacó.",
+      "score": 0.269,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero Milei es beneficiario de un peronismo que también está desencantado con su propio gobierno y que cortó boleta de manera drástica al desdoblar las elecciones.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese es el peronismo con el que tal vez con Francos, como eventual ministro del interior, Milei sueñe gobernar si un día le toca ganar las elecciones.",
+      "score": 0.249,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, la moneda está en el aire y el futuro de la Argentina sigue abierto.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿O es Marine Le Pen?",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a plantear otra, que si usted está de acuerdo o no con la libertad en el uso de armas.",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y inaugura en el Kenan una nueva sección Carola que es Alberto Responde.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para quien le puede interesar, respuesta de Alberto Fernández.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después quédense, porque **Luis Novarezio** entrevista, en más entrevistas, a **Carolina Píparo**, justamente la candidata gobernadora de Milei en la provincia de Buenos Aires.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 67
+  },
+  "etiqueta_original": "neutral"
+}

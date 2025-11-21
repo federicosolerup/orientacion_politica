@@ -1,0 +1,732 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Estamos en línea con un gran conocedor del sector, Julián Domínguez, exministro de Agricultura, Ganadería y Pesca de la Nación.",
+      "entidades_detectadas": [
+        "Agricultura",
+        "Pesca de la Nación",
+        "Ganadería",
+        "Julián Domínguez"
+      ]
+    },
+    {
+      "frase": "Julián, buenos días.",
+      "entidades_detectadas": [
+        "Julián"
+      ]
+    },
+    {
+      "frase": "¿Cómo está?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Andrés Lerner le saluda.",
+      "entidades_detectadas": [
+        "Andrés Lerner"
+      ]
+    },
+    {
+      "frase": "—Qué tal, Andrés, buenos días.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Un gusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Feliz Navidad y que termine bien el año.",
+      "entidades_detectadas": [
+        "Feliz Navidad"
+      ]
+    },
+    {
+      "frase": "—Gracias.",
+      "entidades_detectadas": [
+        "Gracias"
+      ]
+    },
+    {
+      "frase": "Igualmente para usted, Julián.",
+      "entidades_detectadas": [
+        "Julián"
+      ]
+    },
+    {
+      "frase": "Bueno, un primer panorama de estos episodios que se fueron conociendo en los últimos días… ¿cuánto tiene que ver con la situación del sector?",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¿Cuánto considera que tiene que ver con casos particulares?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "—A ver, yo tengo una visión siempre desde el mismo lugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que las políticas públicas en Argentina deben defender a los productores, que son el motor de la economía, y particularmente las organizaciones de productores como la ACA y la FAA en Argentina han jugado un rol decisivo en la promoción del interior del país.",
+      "entidades_detectadas": [
+        "FAA",
+        "ACA",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Producto de la comoditización del sector agropecuario, muchos sectores han sido parte y han construido un sistema financiero en torno a la respuesta y a la demanda que se fueron planteando en el sector.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tema de los insumos estuvo afectado o atravesado por dos o tres factores que permiten comprender el presente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, en 2023 el precio de los insumos estuvo muy alto debido a la guerra y a la restricción de divisas en la importación de insumos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Segundo, algunos insumos que se compraron con el impuesto PAÍS y hoy no lo tienen.",
+      "entidades_detectadas": [
+        "PAÍS"
+      ]
+    },
+    {
+      "frase": "Y tercero, que el productor previamente buscó un reaseguro anticipando la compra de insumos para la cosecha siguiente, una práctica habitual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los productores buscan seguridad en un marco de dificultades, con la volatilidad del tipo de cambio y de los precios de los commodities, en la compra de insumos para la próxima cosecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo esto, obviamente, ha generado los fenómenos que aquí vemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es puntualmente el fenómeno, pero lo que se explica es un proyecto de país donde el costo de la logística, centralmente el costo de la logística por el precio de los combustibles para el sector agropecuario, ha sido un tema absolutamente determinante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Claro.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Julián, usted sabe, obviamente, que una de las grandes discusiones en torno al sector agropecuario fue la de las retenciones, las retenciones móviles, esa propuesta de 2008, que trajo muchos cambios políticos y económicos para Argentina hasta hoy.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Julián"
+      ]
+    },
+    {
+      "frase": "Pero en ese momento lo que se planteaba era un sistema de retenciones móviles: a medida que los precios internacionales subían, se cobraban más retenciones; a medida que bajaban, se cobraban menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al margen de cómo estaba técnicamente implementado, me parece que tiene cierta lógica teniendo en cuenta que es un mercado muy ligado a los precios internacionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora vemos una caída muy fuerte de los precios internacionales, una apreciación cambiaria en Argentina y que las retenciones no se han tocado hasta ahora, pese a que era una promesa de campaña del Presidente.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "—Andrés, el Presidente ha dicho y se ha desdicho de tantas cosas que uno no sabe qué dar por cierto.",
+      "entidades_detectadas": [
+        "Andrés",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Lo que sí es seguro es que siempre el Presidente parece privilegiar a los sectores con mayor poder adquisitivo o con mayor nivel de rentabilidad en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Cree que el crecimiento del país está vinculado a una concentración que dispare el desarrollo y multiplique las riquezas, con una desigualdad notoria sin intervención del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Contrario a lo que pasa en el mundo, y acá vamos al tema de las retenciones, que tiene que ver con el rol del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "A ver, yo no puedo decir… pero… nosotros defendimos un rol del Estado que arbitre, promueva y defina áreas de desarrollo estratégico para el interés de la nación.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Como lo fue el CONICET, como lo fue el INTA, como lo fue el Instituto de Ciencias y Tecnologías y como fueron las obras de infraestructura centrales para el desarrollo de Argentina, que se financiaban con las retenciones.",
+      "entidades_detectadas": [
+        "Instituto de Ciencias",
+        "Tecnologías",
+        "Argentina",
+        "INTA",
+        "CONICET"
+      ]
+    },
+    {
+      "frase": "Que las retenciones, a la luz de este escenario de caída de precios y aumento de costos internos, deben ser revisadas, por supuesto, sin perjudicar a los productores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el sector agropecuario tiene que aportar al Estado, en el Estado que yo imagino desde el peronismo, promotor del desarrollo y de la convicción en el estilo universal de los bienes que tenemos desde el peronismo y desde la doctrina social.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Yo no puedo contradecirme de todo lo que hicimos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros estábamos defendiendo un modelo de organización de la sociedad en 2008, no si le sacábamos plata a un sector o a otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este fue el error.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El sector ha contribuido con una visión de país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema es que los gobiernos de Macri y… mi ley, esa retención la utilizaron para pagar los servicios de la deuda externa.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Este grave problema es el de Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y esta crisis de la empresa es el problema de una visión financiera de la producción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no se produce, si no se genera valor agregado, si no se aplica conocimiento al sistema productivo y si no se lidera y se anticipa en una visión de futuro a partir de la ciencia y el conocimiento, vamos a seguir teniendo estos problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos problemas no son de crecimiento, sino de una decadencia en la financiarización del sistema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque con retenciones, en nuestro gobierno, que tanto critican, no se cayó una sola empresa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es más, se crearon empresas, se multiplicaron eventos biotecnológicos y se transfirió conocimiento a otros sectores, creciendo la producción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay un dato sobre la ganadería: el último año se produjeron exactamente 800.000 toneladas menos que el año anterior.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se exportó un 7% más, pero el mercado interno cayó un 12%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el mercado interno representa el 70% de la producción total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sigue siendo, para Argentina, el consumo interno el motor de la economía.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Hay que hacerlo mirando al mundo, por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que hacerlo mirando a la ciencia, a la biotecnología, a la infotecnología, a los desarrollos de la economía del conocimiento, por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero con los pies puestos en Argentina y defendiendo la patria, no volviendo a ser una colonia.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¿Qué nos pasa en la agricultura y en la ganadería?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Comportamiento de países coloniales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, sobre ese punto, estamos hablando con Julián Domínguez, exministro de Agricultura.",
+      "entidades_detectadas": [
+        "Agricultura",
+        "Julián Domínguez"
+      ]
+    },
+    {
+      "frase": "Y hace un rato mencionábamos un trabajo del Instituto para el Desarrollo Agroindustrial Argentino, firmado por Javier Preciado Patiño, ingeniero agrónomo y ex subsecretario de Mercados Agropecuarios, que habla sobre el incremento en las importaciones de alimentos, particularmente algunos productos muy ligados a las economías regionales.",
+      "entidades_detectadas": [
+        "Mercados Agropecuarios",
+        "Javier Preciado Patiño",
+        "Instituto para el Desarrollo Agroindustrial Argentino"
+      ]
+    },
+    {
+      "frase": "—¿Cuánto hay que preocuparse por este incremento en las importaciones de alimentos, Julián?",
+      "entidades_detectadas": [
+        "¿Cuánto",
+        "Julián"
+      ]
+    },
+    {
+      "frase": "—Mucho, pero mucho más hay que preocuparse porque el Estado no haga análisis de rentabilidad de los sectores empresariales, porque hay un desfasaje en los procesos de comercialización.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Por eso siempre he dicho: Argentina es tierra de productores; defendamos a los productores, defendamos la industrialización y la generación de valor en origen, porque ese mismo importador, ese mismo industrial que agrega valor o ese mismo comercializador que agrega valores exorbitantes que hacen que se importen productos, es el mismo que se convierte en importador sin importarle nada.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El problema es que quien se cae es el productor, se cae la ocupación del territorio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Deberíamos ver algunos productos como la yerba mate… Lo que ha sido una locura es desregular la yerba mate, destruir todo el sistema de producción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ha sido una locura ir contra la organización social de los productores, contra nuestros propios intereses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es decir, Argentina debe ser el único país del mundo donde se exalta la maximización mercantilista de la riqueza en detrimento de la vida de los productores.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y hay una dirigencia… ¿sabe quiénes son los “sipayos”?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los indios que servían al ejército británico en contra de los indios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, en Argentina tenemos argentinos y tenemos dirigentes políticos que atentan contra los propios argentinos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Esta es una pelea cultural.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Presidente tiene razón cuando habla de la pelea cultural.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero la pelea cultural es para defender la patria y proyectarla hacia el futuro, no para entregársela a los pocos que manejan la economía de Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "—Julián, clarísimo, muchísimas gracias por este contacto con la radio.",
+      "entidades_detectadas": [
+        "Julián"
+      ]
+    },
+    {
+      "frase": "—Político, Andrés, no se equivoque, ¿eh?",
+      "entidades_detectadas": [
+        "Político",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "No es un tema económico, ¿eh?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No nos equivoquemos nuevamente en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Es un tema político, de decisión y de visión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes, recuerde que la carrera de Economía era Política Económica.",
+      "entidades_detectadas": [
+        "Política Económica"
+      ]
+    },
+    {
+      "frase": "—Claro, pero está primero el ser humano, hay una equivocación fenomenal; la derrota cultural nuestra es que discutimos la economía.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Hay que discutir la política y las decisiones políticas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y Milei está entregando Argentina a grupos minoritarios que sirven a intereses foráneos.",
+      "entidades_detectadas": [
+        "Milei",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "—Bueno, esto de importar alimentos es una decisión política.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Es una decisión política y es una decadencia la resignación con la cual asumimos este tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es entregar parte de Argentina, entregar a los productores de yerba mate, entregar a Argentina, entregar a los que producen es entregar a Argentina, entregar a nuestros ganaderos es entregar a Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "No, porque aparte, obviamente, cuando se cierra una empresa es mucho más difícil después volver a abrirla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es como cualquier sector de la economía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los sueños de quien apostó, de familias que crecieron, que se ilusionaron… Desde cuándo Argentina vive de la especulación financiera.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Por eso digo, no es un problema económico, es un problema político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá nos está faltando una dirigencia que se haga cargo, que tenga sentido patriótico.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Ahora, para esto también tiene que haber una oposición que… que defienda la patria primero que los intereses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Claro, pero suficientemente activa para poner estos temas sobre la mesa, porque la verdad es que de estos temas no se hablan.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "No sé quién está hablando hoy de lo que está pasando en las economías regionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina es la única que habla.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "—No, pero digo como discusión pública, más allá de… No son temas que estén en el debate.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Pero es que no le dan pelota a los periodistas tampoco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero si además, ¿sabe cuál es el drama?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La inteligencia la construyen las consultoras que trabajan para las empresas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es el quilombo que hay.",
+      "entidades_detectadas": [
+        "quilombo"
+      ]
+    },
+    {
+      "frase": "Y las cooperativas, las entidades sociales, las organizaciones sindicales… no tienen voz en esto, ni dirigentes dispuestos a poner las cartas sobre la mesa en un momento en que están entregando la patria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que le falta fuerza a la oposición para disputarle la agenda al gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Y convicción, mi amigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y convicción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Convicción.",
+      "entidades_detectadas": [
+        "Convicción"
+      ]
+    },
+    {
+      "frase": "Esto se define por las convicciones de los dirigentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es para cobardes esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es para cualquiera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Están entregando la patria en las “4M”: la de Menem, la de Macri y ahora la de Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Si sabemos lo que pasó en las otras, ¿vamos a permitir que vuelva a pasarle lo mismo a Argentina?",
+      "entidades_detectadas": [
+        "¿",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "—Veo que tiene un fin de año tranquilo, Julián.",
+      "entidades_detectadas": [
+        "Julián",
+        "Veo"
+      ]
+    },
+    {
+      "frase": "Que Dios nos acompañe a todos.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "—No, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que Dios nos acompañe a todos.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Esto no es para cobardes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no es para cobardes, Andrés.",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Esto es para gente que tenga convicción y decisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y que tenga claro que se está entregando la patria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos resignarnos a una Argentina donde privilegiemos la estabilidad de los cementerios.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Mira, me contaba un empresario que viajó… con este gobierno… a Italia, vieron que…  Milei se referencia bastante en Meloni, muy elogioso de Giorgia Meloni… que se van a reunir con el ministro de Agricultura de Italia y estaba en ese momento, creo que lo vio la Cancillería argentina, que le dice, bueno, ahora como hay buena onda en nuestro gobierno, ustedes tienen que abrir mucho más a comprarnos productos agroindustriales argentinos, productos agropecuarios argentinos.",
+      "entidades_detectadas": [
+        "Agricultura de Italia",
+        "Cancillería argentina",
+        "Mira",
+        "Italia",
+        "Milei",
+        "Giorgia Meloni",
+        "Meloni"
+      ]
+    },
+    {
+      "frase": "Y la respuesta del ministro de Agricultura de Italia fue: “Mira, ustedes tienen unos campos enormes, tienen un montón de ventajas competitivas para cultivar distintos productos agropecuarios, nosotros tenemos muy poco espacio, tenemos que cultivar ahí al lado de la vía del tren y tenemos que cuidar, dijo, tenemos que proteger a nuestros productores”.",
+      "entidades_detectadas": [
+        "ministro de",
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Pero por supuesto… Y dice que es la cara de la Cancillería argentina, que obviamente que Argentina está…\n\n—Pero Andrés, por eso te digo, son gerentes coloniales, son gerentes coloniales, este es el quilombo que tenemos Andrés, este es el problema, son gerentes de una colonia decadente…\n\n—No, y que además el mundo cambió Julián, que además el mundo cambió y hoy por hoy, casi no pasa ni por una cuestión ideológica, todos los países están cuidando sus producciones.",
+      "entidades_detectadas": [
+        "Pero Andrés",
+        "Argentina",
+        "Andrés",
+        "Cancillería argentina",
+        "quilombo",
+        "Julián"
+      ]
+    },
+    {
+      "frase": "—Andrés, Andrés, no es que el mundo cambió, siempre los países que tienen vocación de defensa de sus intereses defendieron los mismos intereses; los únicos que le construyeron una literatura diferente a la literatura de la Dependencia, fueron los “filingos” que trabajan para consultoras y que están pensando en sus honorarios más que en el destino del pueblo.",
+      "entidades_detectadas": [
+        "Dependencia",
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Y acá es la deuda de la política, no se puede conducir un Estado con el objetivo nacional social si no es con gente comprometida con el pueblo, que venga del pueblo, si no cagamos, hermano.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "—Totalmente.",
+      "entidades_detectadas": [
+        "Totalmente"
+      ]
+    },
+    {
+      "frase": "Julián, le mando un abrazo grande, que termine bien el año y que arranque bien el que viene.",
+      "entidades_detectadas": [
+        "Julián"
+      ]
+    },
+    {
+      "frase": "Feliz año.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "—Que Dios nos cuide a todos, un fuerte abrazo.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "—Un fuerte abrazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Charlábamos con Julián Domínguez, exministro de Agricultura de la Nación.",
+      "entidades_detectadas": [
+        "Julián Domínguez",
+        "Agricultura de la Nación"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "FAA",
+    "No",
+    "Totalmente",
+    "Andrés",
+    "Contrario",
+    "Político",
+    "Ganadería",
+    "acá",
+    "CONICET",
+    "Qué",
+    "Andrés Lerner",
+    "Política Económica",
+    "Giorgia Meloni",
+    "Menem",
+    "Meloni",
+    "Deberíamos",
+    "Instituto para el Desarrollo Agroindustrial Argentino",
+    "Agricultura",
+    "Estado",
+    "Italia",
+    "PAÍS",
+    "Convicción",
+    "Acá",
+    "Feliz Navidad",
+    "Claro",
+    "Agricultura de Italia",
+    "Mercados Agropecuarios",
+    "Argentina",
+    "Pero Andrés",
+    "ACA",
+    "Agricultura de la Nación",
+    "Dependencia",
+    "Cristina",
+    "Presidente",
+    "Bueno",
+    "Primero",
+    "ministro de",
+    "Instituto de Ciencias",
+    "Tecnologías",
+    "¿Cuánto",
+    "¿",
+    "Javier Preciado Patiño",
+    "Mira",
+    "Cancillería argentina",
+    "INTA",
+    "quilombo",
+    "Dios",
+    "Pesca de la Nación",
+    "Julián Domínguez",
+    "Segundo",
+    "Milei",
+    "Macri",
+    "Julián",
+    "Veo"
+  ]
+}

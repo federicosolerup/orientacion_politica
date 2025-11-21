@@ -1,0 +1,410 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hay un gobierno violento que genera violencia, hay hambre que genera violencia, y claramente existe un clima de violencia generalizado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer ocurrieron dos episodios en los que dos figuras públicas buscaron la paz.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Dos importantes jugadores argentinos, personas queridas por muchos argentinos, intervinieron para separar y pacificar a los involucrados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece muy relevante, porque más allá de mis opiniones sobre [Nombre del político 1] o [Nombre del político 2], o de las opiniones que ellos tengan sobre Cristina Fernández de Kirchner o Axel Kicillof, el resto debemos convivir.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "El país debe seguir adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y como tenemos una larga historia de violencia, no sabemos hasta dónde puede llegar esta creciente escalada de violencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así que bienvenidos sean quienes se interponen para separar a los contendientes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quienes tienen la cabeza fría para decir: \"¡No se peleen!\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer lo hizo Juan Román Riquelme, quien alguna vez dijo: \"El poder es que te quieran\", y que tuvo la capacidad de interponerse entre la policía y la barra brava de Boca Juniors.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Juan Román Riquelme",
+        "Boca Juniors"
+      ]
+    },
+    {
+      "frase": "Hay varias imágenes de Riquelme frenando a la policía y luego a la hinchada, poniendo su cuerpo entre ambos bandos.",
+      "entidades_detectadas": [
+        "Riquelme"
+      ]
+    },
+    {
+      "frase": "Se ve a Riquelme sujetando el casco de un policía con aparente ternura.",
+      "entidades_detectadas": [
+        "Riquelme"
+      ]
+    },
+    {
+      "frase": "¿Qué le estaría diciendo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Riquelme, poniendo el cuerpo, arriesgando su integridad física en una situación de gran tensión para pacificar, para buscar la paz.",
+      "entidades_detectadas": [
+        "Riquelme"
+      ]
+    },
+    {
+      "frase": "Por la noche, vimos a Estela de Carlotto, una de las figuras más importantes de la historia argentina, querida por muchos, interviniendo entre dos personajes que mantienen una disputa que está lejos de resolverse y que perjudica gravemente al país.",
+      "entidades_detectadas": [
+        "Estela de Carlotto"
+      ]
+    },
+    {
+      "frase": "Porque la solidez de mi ley no tiene que ver con lo que mi ley hizo, sino con que enfrente no hay un poder unificado que la población perciba como una alternativa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, la población no puede saltar de un lugar a la nada, no puede saltar a un precipicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debe tener una alternativa clara.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y eso está en discusión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si mostramos una foto de Estela entre Cristina Fernández de Kirchner y Axel Kicillof —recién vimos a Riquelme entre la policía y los barras bravas— no estoy haciendo una comparación de violencia, sino de tensión.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Cristina Fernández de Kirchner",
+        "Riquelme"
+      ]
+    },
+    {
+      "frase": "Es muy importante para el sector del peronismo kirchnerista que Cristina Fernández de Kirchner y Axel Kicillof estén unidos.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Y eso es lo que está en discusión: cómo interactuarán estos dos actores políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debido a la gran tensión existente, una reunión reciente terminó tan mal que se dijo que no hubo reunión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debido a lo mal que fue, Estela de Carlotto los unió.",
+      "entidades_detectadas": [
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Claro, siempre habrá quienes trabajen para la desunión.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Desde temprano comenzaron los tuits de miembros de La Cámpora atacando a Axel Kicillof, sabiendo que él estaría presente.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Luego aparecieron carteles en la Panamericana y otras rutas tapando los carteles de la Provincia de Buenos Aires con la leyenda \"Cristina Presidenta\" (y no \"Presidenta del PJ\").",
+      "entidades_detectadas": [
+        "Cristina Presidenta",
+        "PJ",
+        "Provincia de Buenos Aires",
+        "la Panamericana"
+      ]
+    },
+    {
+      "frase": "Sería como un tercer \"operativo clamor\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hubo uno antes del nombramiento de Alberto Fernández, otro antes del nombramiento de Sergio Massa, y este sería el tercero.",
+      "entidades_detectadas": [
+        "Sergio Massa",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Mientras estaban allí, existía un pacto de no agresión tácito para evitar que se cantara a favor de uno u otro, ya que se conmemoraban los 47 años de las Abuelas de Plaza de Mayo.",
+      "entidades_detectadas": [
+        "existía",
+        "Abuelas de Plaza de Mayo"
+      ]
+    },
+    {
+      "frase": "Ese pacto se rompió, quebrantándolo La Cámpora, la misma que colocó los carteles y publicó los tuits.",
+      "entidades_detectadas": [
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Estela de Carlotto lo contó hace un rato en dos entrevistas.",
+      "entidades_detectadas": [
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "En una dijo que percibió una gran frialdad entre ellos y en otra mencionó algo que la molestó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quedó claro que ambos estaban juntos, con una figura histórica entre ellos.",
+      "entidades_detectadas": [
+        "Quedó"
+      ]
+    },
+    {
+      "frase": "Veremos qué sucede más adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dependerá mucho del pueblo y de aquellos que inoportunamente gritaban sus deseos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "[Comentario de Jairo Sacha a Estela de Carlotto].",
+      "entidades_detectadas": [
+        "Comentario de Jairo Sacha a Estela de Carlotto"
+      ]
+    },
+    {
+      "frase": "Estela, buenos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jairo Sacha la saluda.",
+      "entidades_detectadas": [
+        "Jairo Sacha"
+      ]
+    },
+    {
+      "frase": "Perdón por interrumpirla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A qué se refiere con lo que gritaban ayer durante la ceremonia?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "Claro, se refiere a que estábamos con el gobernador, quien también aspira a la presidencia, y con Cristina Fernández de Kirchner, quien también tiene esa posibilidad.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Pero en este momento Cristina Fernández de Kirchner no busca la presidencia, está centrada en otros temas.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Gritaban \"Cristina Presidenta\" en la provincia del gobernador, en una fiesta agridulce, en una conmemoración.",
+      "entidades_detectadas": [
+        "Cristina Presidenta"
+      ]
+    },
+    {
+      "frase": "A mí me molestó un poco eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me molestó porque no estábamos allí para elegir candidatos políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estábamos para recordar todo lo sucedido y para que no vuelva a ocurrir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estela de Carlotto habla de los cantos de La Cámpora pidiendo \"Cristina Presidenta\".",
+      "entidades_detectadas": [
+        "Cristina Presidenta",
+        "La Cámpora",
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Lo que realmente hace falta es lo que hizo Estela de Carlotto.",
+      "entidades_detectadas": [
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Que ella, con toda su carga histórica, simbolice lo que la gente quiere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si uno observa constantemente, la gente dice \"Cristina y Axel\", hay una intención clara.",
+      "entidades_detectadas": [
+        "Axel",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Las dos posturas son: La Cámpora quiere que la situación siga como está, con Axel Kicillof como una especie de gerente, sin poder nombrar diputados, senadores, legisladores provinciales o municipales, y con la posibilidad de que se le cambien los ministros a voluntad.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Axel Kicillof, por su parte, dice que ya ganó varias elecciones y quiere, para el próximo año, colocar a su gente en las listas nacionales y provinciales, para que su carrera presidencial progrese, no decidiendo todo él, pero sí teniendo injerencia.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "Esa es la gran discusión: una Cámpora que quiere a Axel Kicillof como un gerente y un Axel Kicillof que, tras varios triunfos, pide participar en las decisiones.",
+      "entidades_detectadas": [
+        "Cámpora",
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "Recordemos que Sergio Massa tiene su partido y coloca sus legisladores, Juan Grabois también, solo falta que lo haga Axel Kicillof.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Juan Grabois",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "¿Cómo derivará esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se supone que surgirá el \"kicillofismo\" pronto, con algún símbolo que lo defina, y veremos cómo continúa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero la paz depende de la no agresión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, Estela de Carlotto demostró que era posible una tregua momentánea, y esa imagen me parece que impone una obligación.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "No sé si cumplirán con este mandato, pero ayer estuvo Estela de Carlotto y la gente pedía \"Cristina y Axel\", \"los dos\".",
+      "entidades_detectadas": [
+        "Axel",
+        "Cristina",
+        "Carlotto"
+      ]
+    },
+    {
+      "frase": "Eso no es imposible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que terminar con las agresiones, que venimos narrando durante meses, y darles un lugar en la mesa al otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los gestos de Riquelme y Estela de Carlotto, que pueden pasar desapercibidos si no se les da la importancia política que tienen, son imprescindibles hoy.",
+      "entidades_detectadas": [
+        "Estela de Carlotto",
+        "Riquelme"
+      ]
+    },
+    {
+      "frase": "Porque si todos estamos… Vieron que ahora los tuits dicen \"¡Uy!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo lo domó?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos doman a todos, todos son los más astutos, todos los más violentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así terminamos mal, en una enorme fragmentación del campo popular, con la derecha haciendo lo que quiere porque nosotros estamos peleando entre nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La derecha avanza y se queda con los trenes, los aviones y los negocios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hacen falta más Riquelmes y más Estelas que representen el clamor popular por la unidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estela de Carlotto",
+    "Alberto Fernández",
+    "Riquelme",
+    "Esa",
+    "La Cámpora",
+    "Cámpora",
+    "Cristina Fernández de Kirchner",
+    "Abuelas de Plaza de Mayo",
+    "Juan Grabois",
+    "Cristina Presidenta",
+    "Gritaban",
+    "existía",
+    "Comentario de Jairo Sacha a Estela de Carlotto",
+    "Claro",
+    "PJ",
+    "¿A",
+    "Sergio Massa",
+    "Ayer",
+    "Juan Román Riquelme",
+    "Boca Juniors",
+    "Cristina",
+    "Dependerá",
+    "Axel Kicillof",
+    "Perdón",
+    "Axel",
+    "Carlotto",
+    "Provincia de Buenos Aires",
+    "Quedó",
+    "Así",
+    "Jairo Sacha",
+    "Hacen"
+  ]
+}

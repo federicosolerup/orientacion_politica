@@ -1,0 +1,412 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original presenta problemas de ortografía, coherencia y cohesión, además de nombres propios incorrectos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A continuación, se presenta una versión corregida, intentando mantener el estilo coloquial del original:\n\n**Texto corregido:**\n\nHay una intencionalidad política detrás del paro de colectivos.",
+      "entidades_detectadas": [
+        "Texto"
+      ]
+    },
+    {
+      "frase": "Hablé con Gabriela Cerruti, portavoz de la Presidencia de la Nación, para entender la situación.",
+      "entidades_detectadas": [
+        "Hablé",
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "Gabriela, Jorge Rial te saluda.",
+      "entidades_detectadas": [
+        "Gabriela",
+        "Jorge Rial te saluda"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: Bien, buen día.",
+      "entidades_detectadas": [
+        "Jorge Rial: Bien"
+      ]
+    },
+    {
+      "frase": "La situación es complicada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un mal día para los trabajadores que perdieron su jornada laboral, que llegaron a la calle y se encontraron con este paro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, como has conversado con los ministros, y con la Ministra de Trabajo,  es un paro que se asemeja más a un lockout patronal.",
+      "entidades_detectadas": [
+        "Ministra de Trabajo"
+      ]
+    },
+    {
+      "frase": "La empresa no depositó los salarios a sus trabajadores, a pesar de que el gobierno ya había transferido todos los subsidios correspondientes para cumplir con el último acuerdo paritario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De alguna manera, lanzan este paro que afecta la vida de los trabajadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno está realizando todas las reuniones posibles para buscar una solución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un conflicto entre una empresa privada —la principal operadora de líneas de colectivos en el AMBA— y sus trabajadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El paro tiene una gran repercusión por la importancia de esta empresa en el área metropolitana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: ¿El gobierno sospecha de un trasfondo político?",
+      "entidades_detectadas": [
+        "Jorge Rial: ¿"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti: El gobierno cree que la empresa está utilizando el paro como una forma de extorsión para conseguir más subsidios u otros beneficios.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "Los subsidios para el último aumento paritario ya fueron transferidos por el gobierno, pero la empresa los utilizó para otros fines, en lugar de pagar a los trabajadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese es el reclamo de los trabajadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno está evaluando la posibilidad de multar a la empresa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Ministro de Trabajo, según se informa,  ha confirmado una retención de haberes, ya que el dinero para pagar a los trabajadores estaba disponible pero no se les abonó.",
+      "entidades_detectadas": [
+        "Ministro de Trabajo"
+      ]
+    },
+    {
+      "frase": "La empresa parece estar intentando quedarse con ese dinero y obtener más subsidios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El monopolio de esta empresa en tantas líneas del AMBA genera este tipo de inconvenientes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entiendo perfectamente la preocupación de la gente, que espera una solución del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es un conflicto entre la empresa privada y sus empleados,  y el gobierno ha tomado todas las medidas a su alcance.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay también un tema con la relación entre el gremio y la empresa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luciano Fusaro, vicepresidente de la cámara empresaria, mencionó que no recibieron todo el dinero, solo la mitad.",
+      "entidades_detectadas": [
+        "Luciano Fusaro"
+      ]
+    },
+    {
+      "frase": "Según él, la transferencia se notifica por correo electrónico, pero el depósito efectivo no se realizó.",
+      "entidades_detectadas": [
+        "Según"
+      ]
+    },
+    {
+      "frase": "Se dice que el capital se depositó en una provincia diferente,  pero no tenemos datos al respecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La información que tenemos del gabinete indica que los subsidios fueron transferidos, pero que la empresa los usó para otros fines y ahora solicita más.",
+      "entidades_detectadas": [
+        "usó"
+      ]
+    },
+    {
+      "frase": "Hasta el momento, el gobierno cumplió con su parte, y las empresas son las responsables de esta situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Principalmente, la empresa mencionada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: Cambiando de tema, el domingo hay un acto importante relacionado con el gasoducto Néstor Kirchner.",
+      "entidades_detectadas": [
+        "Jorge Rial: Cambiando",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Estarán el Presidente, el Ministro de Economía y la Vicepresidenta.",
+      "entidades_detectadas": [
+        "Ministro de Economía y la Vicepresidenta",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti: Sí, los tres estarán presentes.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti: Sí"
+      ]
+    },
+    {
+      "frase": "Es uno de los actos más importantes de nuestra gestión, ya que celebramos la soberanía energética, un tema crucial en el contexto actual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los periodistas preguntan por la \"foto de unidad\", pero nosotros vemos la importancia de que el Presidente Alberto Fernández, la Vicepresidenta Cristina Fernández de Kirchner y el Ministro Sergio Massa —quienes lideraron este proyecto en diferentes momentos— estén juntos.",
+      "entidades_detectadas": [
+        "Ministro Sergio Massa",
+        "Vicepresidenta Cristina Fernández de Kirchner",
+        "Presidente",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "La Vicepresidenta inició la obra en 2014 y tuvo un rol fundamental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si YPF no tuviera el control del Estado en Vaca Muerta, esta obra no sería posible.",
+      "entidades_detectadas": [
+        "YPF"
+      ]
+    },
+    {
+      "frase": "Recuerdo cuando anunciamos la licitación en abril de 2022: algunos solo se centraban en las críticas a Alberto Fernández, sin comprender la importancia de este proyecto para cambiar la matriz energética de Argentina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Con la llegada de Sergio Massa al Ministerio de Economía, la obra se completó en ocho meses, un tiempo récord.",
+      "entidades_detectadas": [
+        "Ministerio de Economía",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Empleamos a 50.000 trabajadores y el próximo año ahorraremos 4.200 millones de dólares en energía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La guerra elevó el precio mundial de la energía, por lo que esta obra es fundamental.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina está a punto de cambiar su matriz productiva, algo trascendental.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Jorge Rial:  Se decía que la obra se atrasó por internas políticas.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti:  Una vez superadas las dificultades iniciales, la obra se realizó en tiempo récord.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti",
+        "récord"
+      ]
+    },
+    {
+      "frase": "En 2020, la pandemia y la necesidad de un acuerdo con el FMI impidieron un avance más rápido.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "El acuerdo se aprobó en marzo de 2022, y en abril lanzamos la licitación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso el propio Martín Guzmán, al renunciar, mencionó las internas como una de las razones.",
+      "entidades_detectadas": [
+        "Martín Guzmán"
+      ]
+    },
+    {
+      "frase": "Pero finalmente, se demostró que cuando hay voluntad, se puede trabajar eficientemente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La \"foto de unidad\" es la concreción del gasoducto, mucho más significativa que una simple imagen de campaña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: ¿Qué opinas de la oposición?",
+      "entidades_detectadas": [
+        "Jorge Rial: ¿Qué"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti: La oposición se encuentra en una interna feroz, centrada en acusaciones de homofobia, violencia y narcotráfico.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "Si la oposición fuera diferente, podría reconocer la trascendencia histórica del acto del domingo, no solo para el gobierno, sino para toda Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Este país será diferente a partir de ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: Nazarena Lomagno te saluda.",
+      "entidades_detectadas": [
+        "Jorge Rial: Nazarena Lomagno"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti: Hola Nazarena.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti",
+        "Hola Nazarena"
+      ]
+    },
+    {
+      "frase": "Acerca del comunicado oficial y la invitación a gobernadores y funcionarios:  es un acto de gestión de Estado, no de campaña.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "No es una \"foto de unidad\", sino la celebración de una obra emblemática, quizás la más importante del siglo XXI en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Siempre pensamos en la exportación de materias primas, pero este gasoducto demuestra la posibilidad de una matriz productiva diferente, incluyendo la exportación de energía y el desarrollo del litio y el hidrógeno verde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos cambiando el modelo agroexportador del siglo XIX.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: ¿Participará activamente en la campaña del Presidente?",
+      "entidades_detectadas": [
+        "Presidente",
+        "Jorge Rial: ¿Participará"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti:  Como gobierno, la campaña se centra en gestionar y resolver los problemas de la gente.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "No podemos prometer lo que no podemos cumplir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo fundamental es trabajar unidos y mostrar que estamos gestionando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: ¿Cómo ve el armado del espacio político del gobierno?",
+      "entidades_detectadas": [
+        "Jorge Rial: ¿Cómo"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti: Lo que primó fue la unidad y la necesidad de un proyecto fuerte.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "La oposición se centra en una agenda cada vez más a la derecha, con disputas internas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros nos enfocamos en fortalecer la unidad y el proyecto federal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge Rial: Gracias, Gabriela.",
+      "entidades_detectadas": [
+        "Gabriela",
+        "Jorge Rial: Gracias"
+      ]
+    },
+    {
+      "frase": "Gabriela Cerruti: El placer fue mío.",
+      "entidades_detectadas": [
+        "Gabriela Cerruti"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Alberto Fernández",
+    "Jorge Rial: Cambiando",
+    "Nazarena Lomagno",
+    "Recuerdo",
+    "Hola Nazarena",
+    "Jorge Rial",
+    "Según",
+    "Ministerio de Economía",
+    "YPF",
+    "Jorge Rial: Gracias",
+    "Estado",
+    "Luciano Fusaro",
+    "Ministro Sergio Massa",
+    "Empleamos",
+    "Ministra de Trabajo",
+    "Néstor Kirchner",
+    "Hablé",
+    "Entiendo",
+    "Jorge Rial: ¿Cómo",
+    "Argentina",
+    "Sergio Massa",
+    "Jorge Rial te saluda",
+    "Jorge Rial: Bien",
+    "Jorge Rial: ¿",
+    "Jorge Rial: ¿Qué",
+    "Presidente",
+    "FMI",
+    "Principalmente",
+    "Gabriela Cerruti",
+    "Martín Guzmán",
+    "Ministro de Economía y la Vicepresidenta",
+    "Jorge Rial: ¿Participará",
+    "Gabriela Cerruti: Sí",
+    "Vicepresidenta Cristina Fernández de Kirchner",
+    "usó",
+    "Texto"
+  ]
+}

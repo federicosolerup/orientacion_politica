@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En esta entrevista, discutimos la tardanza del presidente argentino a los funerales del Papa Francisco, y la utilización de las Fuerzas Armadas en tareas de seguridad interna.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "**Sobre la tardanza del presidente al Vaticano:**\n\nLa polémica sobre la llegada tardía del presidente al Vaticano generó debate.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Jorge Taiana opina que, considerando la relación entre Argentina y el Papa Francisco, y el tiempo dedicado al velatorio (tres días), la puntualidad era crucial.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La única presencia latinoamericana destacada fue la de Lula da Silva.",
+      "entidades_detectadas": [
+        "lula"
+      ]
+    },
+    {
+      "frase": "Esta ausencia, según Taiana, refleja una falta de aprecio hacia el Papa Francisco y su legado de humanismo y solidaridad.",
+      "entidades_detectadas": [
+        "francisco"
+      ]
+    },
+    {
+      "frase": "Taiana destaca la importancia del mensaje del Papa Francisco en un mundo marcado por el individualismo, y lamenta no haber podido asistir al velatorio personalmente.",
+      "entidades_detectadas": [
+        "francisco"
+      ]
+    }
+  ]
+}

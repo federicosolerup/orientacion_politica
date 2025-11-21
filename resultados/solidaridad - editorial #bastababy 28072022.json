@@ -1,0 +1,402 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo están?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un fuerte aplauso para los chicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Bravo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Viva el doctor!",
+      "entidades_detectadas": [
+        "¡Viva"
+      ]
+    },
+    {
+      "frase": "Hay que enfocarlos desde lejos para que no se note el cambio de ropa, ya que esto está grabado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por un capricho de… no mencionaré a las autoridades, pero  deberían ser ascendidas.",
+      "entidades_detectadas": [
+        "mencionaré"
+      ]
+    },
+    {
+      "frase": "Aquí están, los genios de la televisión, que dicen: \"Sí, Babi, sí, te vas\".",
+      "entidades_detectadas": [
+        "Babi"
+      ]
+    },
+    {
+      "frase": "Una pregunta: ¿Y cómo se llamará el programa si Babi se va?",
+      "entidades_detectadas": [
+        "¿",
+        "Babi"
+      ]
+    },
+    {
+      "frase": "Bueno, el programa continuará hasta que Babi se vaya.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Babi"
+      ]
+    },
+    {
+      "frase": "La gente está… mis compañeros seguirán adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La producción está arriba, todo sigue igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo único que falta soy yo, y tampoco soy tan necesario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, todas las noches hago este pequeño monólogo, cada vez más corto, donde les pido que, por solidaridad con la lucha que hemos tenido durante todo el año, se queden… ¿quién es él?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ah, sí, por solidaridad con la verdad que decimos todas las noches, se queden con mis compañeros, que tienen un programa bárbaro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes que están en cama, y piensan: \"¿Está ese tipo?\", no lo saquen, hay otros igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso… bueno, digamos, otros similares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el programa de hoy les prometo que será espectacular.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy llamé a alguien de afuera para chequear todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, para chequear todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y me dijeron que habrá cosas… ¡casi increíbles!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quédense a ver, no se vayan, quiero mostrarles un mundo diferente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Habrá imágenes mías grabadas desde afuera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Verán lo que les voy a mostrar.",
+      "entidades_detectadas": [
+        "Verán"
+      ]
+    },
+    {
+      "frase": "Después, como todas las noches, habrá críticas a Cristina.",
+      "entidades_detectadas": [
+        "Después",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Hablaremos de los ilícitos del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y tenemos una parte muy linda del juez Zaffaroni nadando, que nunca hemos puesto, y Helena tampoco.",
+      "entidades_detectadas": [
+        "Zaffaroni",
+        "Helena"
+      ]
+    },
+    {
+      "frase": "Toquinio… Toquinio, que bailará una canción muy linda para nosotros.",
+      "entidades_detectadas": [
+        "Toquinio"
+      ]
+    },
+    {
+      "frase": "También hay otros temas, por ejemplo, Carlitos no está hoy, pero… bueno, también podría estar.",
+      "entidades_detectadas": [
+        "También",
+        "Carlitos"
+      ]
+    },
+    {
+      "frase": "Carlitos, mientras ustedes ven la televisión, está en el abierto de San Tropez.",
+      "entidades_detectadas": [
+        "San Tropez",
+        "Carlitos"
+      ]
+    },
+    {
+      "frase": "¡Qué nivel!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Y la delegación de la Torina se quedó cerca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quieren saber qué hay en este programa de esta noche?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Verán un hotel lleno de gente encerrada.",
+      "entidades_detectadas": [
+        "Verán"
+      ]
+    },
+    {
+      "frase": "¿Qué tiene que ver eso?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Qué les cuenta eso?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué verán?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Políticos que mienten por un sobre?",
+      "entidades_detectadas": [
+        "¿Políticos"
+      ]
+    },
+    {
+      "frase": "¿Un programa familiar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Eh?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, ¿entienden?",
+      "entidades_detectadas": [
+        "¿",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "No hay nada mejor que esto, esta hora de la noche, vacaciones de invierno, ya metieron a los chicos… La cariñosa Helena… ¿Ven por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ay, Dios!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Dios mío!",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "En vacaciones uno está más relajado, ¿verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y al hombre le gusta mucho rascarse… Entonces se rasca, se agarra desde el coxis, viene con las uñas… hasta que le queda… piel y pelo, y hay sangre entre las uñas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, y ahí la pasada con el pulgar, uno le pega dos palmadas al muñeco, y con suerte, después del programa, la patrona está relajada.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¿Ok?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, el programa va a estar muy lindo.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "También vamos a pasar una muy buena película.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "¡Y me di un hito!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Hola, amiguitos!",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "¡Y vendrán Ricardo Darín, Susana Giménez y Guillermo Francella a hablar conmigo!",
+      "entidades_detectadas": [
+        "Susana Giménez",
+        "Ricardo Darín",
+        "Guillermo Francella"
+      ]
+    },
+    {
+      "frase": "¡Qué barbaridad!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Archivo de Log (Correcciones):**\n\n* **Nombres y Apellidos:** \"Babi\" se mantuvo como nombre propio.",
+      "entidades_detectadas": [
+        "Babi",
+        "Apellidos",
+        "Correcciones",
+        "Nombres",
+        "Archivo de Log"
+      ]
+    },
+    {
+      "frase": "Se corrigieron \"Zaffaroni\" (ortografía), \"Susana Jiménez\" a \"Susana Giménez\" y \"Guillermo Franchila\" a \"Guillermo Francella\".",
+      "entidades_detectadas": [
+        "Guillermo Francella",
+        "Guillermo Franchila",
+        "Zaffaroni",
+        "Susana Jiménez"
+      ]
+    },
+    {
+      "frase": "\"Carlitos\" se mantuvo como nombre propio informal.",
+      "entidades_detectadas": [
+        "Carlitos"
+      ]
+    },
+    {
+      "frase": "\"Helena\" se mantuvo como nombre propio.",
+      "entidades_detectadas": [
+        "Helena"
+      ]
+    },
+    {
+      "frase": "\"Cristina\" se mantuvo como nombre propio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Toquinio\" se mantuvo (sin información suficiente para saber si es un nombre propio o no, se dejó como estaba).",
+      "entidades_detectadas": [
+        "Toquinio"
+      ]
+    },
+    {
+      "frase": "* **Ortografía:** Se corrigieron múltiples errores ortográficos y de puntuación a lo largo del texto.",
+      "entidades_detectadas": [
+        "Ortografía"
+      ]
+    },
+    {
+      "frase": "Se revisaron mayúsculas y minúsculas en el inicio de oraciones y nombres propios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se eliminaron repeticiones innecesarias de palabras (\"pequeño, pequeñísimo\").",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se cambiaron algunas expresiones coloquiales por otras más formales o adecuadas al contexto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se corrigieron errores gramaticales como la concordancia de género y número.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "* **Cohesión y Coherencia:** Se reorganizaron algunas frases para mejorar el flujo y la comprensión del texto.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "Se eliminaron partes incoherentes o redundantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se intentó mejorar la estructura del discurso, aunque se mantuvo el tono informal y coloquial del presentador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se eliminaron algunas digresiones que interrumpían el hilo conductor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se sustituyeron algunas expresiones soeces (\"boludo\", \"mierda\") por otras menos fuertes o más indirectas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La secuencia de las ideas se revisó para que tuviera más lógica y fluidez.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Zaffaroni",
+    "Helena",
+    "Correcciones",
+    "¿Qué",
+    "¿Políticos",
+    "Qué",
+    "Verán",
+    "Hola",
+    "Guillermo Francella",
+    "Nombres",
+    "¿Eh?  ",
+    "Carlitos",
+    "Claro",
+    "Susana Giménez",
+    "Quieren",
+    "Babi",
+    "Apellidos",
+    "Cohesión",
+    "Ortografía",
+    "Cristina",
+    "Coherencia",
+    "Ustedes",
+    "Bueno",
+    "Después",
+    "mencionaré",
+    "Guillermo Franchila",
+    "Susana Jiménez",
+    "¿",
+    "San Tropez",
+    "Toquinio",
+    "Ricardo Darín",
+    "Hablaremos",
+    "Archivo de Log"
+  ]
+}

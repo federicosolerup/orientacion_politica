@@ -1,0 +1,26 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 0
+    },
+    "score_promedio": 0.103,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos:**\n    *   **Margarita Stolbiser** (Se corrigió la ortografía del apellido).",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   **Carlos Cué** (Se corrigió la ortografía del apellido, asumiendo que era una errata y no un apellido menos común).",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 2
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,421 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 13,
+      "derecha": 68
+    },
+    "score_promedio": 0.734,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Felices Pascuas, la situación en Argentina no es buena.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice así Gabriela Mistral, de una manera magistral:\n\n\"¿De qué quiere usted la imagen?\", preguntó el imaginero.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Déjeme pues que le explique lo que de verdad deseo, yo necesito una imagen de Jesús el Galileo, que refleje su fracaso intentando un mundo nuevo, que conmueva las conciencias y cambie los pensamientos.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante el que exclame admirado, qué torturado más bello, perdóneme si le digo, responde el imaginero, que aquí no hallará seguro la imagen del Nazareno, vaya a buscarla a las calles, entre la gente sin techo, en hospicios y hospitales, donde haya gente muriendo, en los centros de acogida, en que abandonan a viejos, en el pueblo marginado, entre los niños hambrientos, en mujeres maltratadas, en personas sin empleo.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dios está en cada uno de nosotros, en ellos, en vos, en mí, en todos, en los pobres, en los hambrientos, en los enfermos, en los viejos, en los que fueron desechados de esta Argentina rota, señores.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina rota.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy fuerte ver a este hombre, mirá, trepándose, metiéndose, se mete el olor, la comida podrida, la basura, meterse ahí adentro para darle de comer a sus hijos, Argentina rota.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo al gobierno que hagan algo ya, no se puede, no puede la gente meterse con la mierda de la basura.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina juega a \"House of Cards\" con Alberto Fernández, el que tiene la banda, el bastón, pero no tiene poder.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al que le quepa, que se lo ponga.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos sale como yo a la noche, a ver qué le pasa a la gente.",
+      "score": 0.746,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque viendo estas imágenes, le quiero preguntar a Parrilli, que dijo el otro día que había que llevarle alegría a la gente y que volviera el fútbol para todos.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le voy a mostrar este video, Parrilli.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no lo entiende, yo le hago un dibujito.",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es el hambre, esta es la pobreza que tenemos en esta Argentina rota.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes hablan de salud pública y tienen a sus hijos en el Hospital Néstor Kirchner Otamendi.",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se internan en el Hospital Néstor Kirchner Otamendi, en clínicas privadas.",
+      "score": 0.794,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando vi al presidente con la primera dama, salí del Hospital Néstor Kirchner Otamendi, reparé en muchísimos detalles, algunos me los voy a guardar, otros no.",
+      "score": 0.31,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo tuve a mi hija, dije, qué bueno, me siento, claro, que le di anestesia encima, le di la teta, no dormí toda la noche.",
+      "score": 0.793,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenían la huella del pie de Francisco Fernández antes de nacer.",
+      "score": 0.793,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la Argentina de hoy tiene hambre.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quiero que se vayan, quiero que se queden como esos jugadores que juegan mal y que piden al árbitro para irse silbados y tribuneados y el árbitro dice, \"No, quedate hasta el final\", para así la gente se da cuenta de que jugás mal.",
+      "score": 0.723,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, si tiene hijos y nietos multimillonarios, ¿qué le importan los pobres?",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Van por la vida con vidrios polarizados, escuchando solo el relato que ustedes quieren contar, que es una mentira, que Cristina come un año entero, la gente de la villa.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Sabés quién le paga los 12 palos a Nacha?",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota, señores.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿En el de Cristina Kirchner, en el de Mauricio Macri o en el de Alberto Fernández?",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina 54,11%, Macri 36,89%, Alberto Fernández 236%.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan que le dijo a la tía que se le había enviado un mensaje?",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos pareció un montón, pero sin embargo, no le pidió disculpas y se rieron de la nata.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual, Cafiero siempre está en las pelotudeces, mirá lo que dijo.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El presidente es el único imprescindible en este frente político…\".",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Ay, por favor!, se le rió hasta la vecina del quinto piso.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El presidente es el único imprescindible en este frente político, todos los demás son prescindibles\".",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cafiero le afanó la mamadera a Francisco.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al escuchar esta huevada que dijo, a Cristina la tuvieron que internar.",
+      "score": 0.765,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Prescindible: que no es o no se considera necesario o que permite que se prescinda de… Mami… Parece que estuvieron definiendo a Alberto Fernández.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirá a Alberto Fernández frente al dilema del tranvía, es impresionante, miralo.",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según esta teoría, haga lo que haga Alberto Fernández, ya le puso fin a su gobierno.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Che, vieja, ya terminó el partido, prepara la cena\", y la mujer le contesta, \"Que tengas una banda y un bastón no te da ningún poder.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que manda en casa es la mujer, y la que manda Alberto también es Cristina Fernández de Kirchner, la dueña de la casa\".",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece que Cristina ya le pasó contactos de fletes, camiones de mudanza, Alberto todavía no sospecha nada.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es fan de Cristina y fan de los guisos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tipo putea más que putea a los radicales, pero la gente que vive y cómo, a pesar de todo lo que lo cagaron en este gobierno, sigue defendiéndola a la jefa, Argentina está rota.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es Cristina y Perón, miren.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mira qué le da Cristina, dos papas, un guiso, una sopa, o sea, no los entiendo.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández en Argentina es presidente de la Polenta con banda, con bastón y sin poder.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero por gente como vos, la Argentina está rota.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo sí, y no le tengo miedo, y vos sí.",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Libertad de expresión, eso es a lo que tanto le tememos.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Se acuerdan que me puso en una lista negra el año pasado porque le molesta cómo pienso?",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el jugador de Boca juega fuerte.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cuando el funcionario de derechos humanos le pegó a una empleada en la terminal, no dijo nada, claro.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era del gobierno, derechos humanos, no le convenía.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O la mona, o el mone, le mone.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé cómo le dicen a los monos.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tengo, escúchenlo, a ver si en tu casa le queda a ver un laburo porque no vas en… Mirá, dice, \"tengo una maestría, busca trabajo, tengo una maestría de género y especialidad en astrología feminista\".",
+      "score": 0.579,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota, esta gente está rota.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La locura que está sucediendo en China es el show de la pandemia.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá, en China y en todos lados.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Biden habló hoy y está tan, pero tan mal, que termina y le va a dar la mano al hombre invisible.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pregunté el otro día a Llorico, háblame de Biden.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes están viendo lo que le pasa a Biden.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa a Biden?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa a Biden?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa a Biden?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa a Biden?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes están viendo lo que le pasa a Biden.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Volvamos a nuestra Argentina rota.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se olvidaron de que Maradona salió campeón juvenil con la selección argentina en 1979.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina rota.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está rota, señores.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hicimos a buscarlo con una cámara y hablamos con el agresor.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer le tocó a Carlos Campolongo.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me quiere dejar sin trabajo en la calle porque le molesta cómo pienso.",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "*   Se corrigió \"Canosa\" a Viviana Canosa\n    *   Se corrigió \"Llorrico\" a Llorico\n    *   Se corrigió \"Fernández\" a Fernández de Kirchner (en algunos casos, para evitar ambigüedad)\n*   **Corrección de Ortografía:** Se corrigieron errores ortográficos, como tildes faltantes, errores de concordancia y uso de palabras incorrectas.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   Se añadió la palabra \"Hospital\" antes del nombre de \"Néstor Kirchner Otamendi\".",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 81
+  },
+  "etiqueta_original": "neutral"
+}

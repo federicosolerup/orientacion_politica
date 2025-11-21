@@ -1,0 +1,455 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buen día, José.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me alegra poder hablar contigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, quería preguntarte sobre la coyuntura actual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entiendo que te reunirás con Agustín Rossi al mediodía.",
+      "entidades_detectadas": [
+        "Agustín Rossi"
+      ]
+    },
+    {
+      "frase": "Sí, así es.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He estado con Agustín y hemos repasado la estrategia para el debate.",
+      "entidades_detectadas": [
+        "Agustín"
+      ]
+    },
+    {
+      "frase": "Él ya respondió prácticamente a las miles de preguntas de la oposición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La visita del Jefe de Gabinete tiene un aspecto positivo: la oposición, tanto en Diputados como en Senadores,  luego de realizar consultas sobre políticas públicas, ejecución presupuestaria y el presupuesto nacional (cuestiones ya respondidas por el Jefe de Gabinete), recibirá un mensaje sobre el panorama nacional actual y la interacción con las provincias, dado que el Senado representa a los estados provinciales.",
+      "entidades_detectadas": [
+        "Senadores",
+        "Diputados",
+        "Jefe de Gabinete",
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Posteriormente, se abrirá un debate con los presidentes de los distintos bloques, incluido el presidente del bloque mayoritario, y se espera la presencia del Jefe de Gabinete.",
+      "entidades_detectadas": [
+        "Jefe de Gabinete"
+      ]
+    },
+    {
+      "frase": "Es importante destacar que, según me informaron, Agustín Rossi realizará planteos contundentes sobre las declaraciones recientes.",
+      "entidades_detectadas": [
+        "Agustín Rossi"
+      ]
+    },
+    {
+      "frase": "Ayer, el Presidente de la Nación se pronunció al respecto.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "El problema es sencillo: tenemos una Corte Suprema que actúa políticamente, tomando decisiones políticas y comportándose prácticamente como un partido político.",
+      "entidades_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Ayer, aparentemente, alguien llamó a Rosati y le dijo que la situación es crítica, anticipando una derrota inminente (\"5 a 0 el domingo\").",
+      "entidades_detectadas": [
+        "Ayer",
+        "Rosati"
+      ]
+    },
+    {
+      "frase": "Se sugirió que la publicación de ciertas encuestas que favorecen al oficialismo debía detenerse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En respuesta, el Procurador General de la Nación señaló que la Corte no puede intervenir en este tema, ya que se trata de una cuestión de competencia provincial (elecciones provinciales), a menos que se siga un procedimiento legal estricto, que se salte todos los procedimientos normales estableciendo un amparo inmediato para realizar las elecciones, que ya estaban prácticamente listas para llevarse a cabo.",
+      "entidades_detectadas": [
+        "Corte"
+      ]
+    },
+    {
+      "frase": "Creo que alguien con poder –todos sabemos quién o quiénes podrían ser– llamó a Rosati para darle instrucciones, para que dicte un fallo a favor de una causa determinada.",
+      "entidades_detectadas": [
+        "Rosati"
+      ]
+    },
+    {
+      "frase": "El problema radica en el mensaje político subyacente: la posibilidad de que se impida la candidatura de Cristina Fernández de Kirchner faltando pocos días para las elecciones.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Esto es gravísimo, carece de fundamento jurídico y constitucional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer mismo, conversando con un colega del Frente de Todos, llegamos a la misma conclusión.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "La eventual candidatura de Urtubey o Manzur es discutible, con diversas interpretaciones jurídicas.",
+      "entidades_detectadas": [
+        "Urtubey",
+        "Manzur"
+      ]
+    },
+    {
+      "frase": "Más allá de los aspectos legales, hay un claro mensaje político: la Corte Suprema puede actuar para impedir cualquier candidatura que le incomode.",
+      "entidades_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Este mensaje se refleja en la decisión sobre la ley del Consejo de la Magistratura: una ley vigente durante 16 años, base del Poder Judicial, fue declarada inconstitucional en su totalidad, para luego imponer una ley caduca.",
+      "entidades_detectadas": [
+        "Poder Judicial",
+        "Consejo de la Magistratura"
+      ]
+    },
+    {
+      "frase": "Se atacó al Consejo de la Magistratura, a la presidencia de la Corte y a la administración de sus fondos.",
+      "entidades_detectadas": [
+        "Corte",
+        "Consejo de la Magistratura"
+      ]
+    },
+    {
+      "frase": "Esta maniobra fue un verdadero atropello.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Corte no tiene la potestad de derogar una ley y establecer otra, ni de autoproclamarse superior al Poder Ejecutivo y Legislativo.",
+      "entidades_detectadas": [
+        "Corte"
+      ]
+    },
+    {
+      "frase": "¿Cómo comenzó todo esto, con  Raúl Zaffaroni y Pepín Rodríguez Simón?",
+      "entidades_detectadas": [
+        "Raúl Zaffaroni",
+        "Pepín Rodríguez Simón"
+      ]
+    },
+    {
+      "frase": "Atacando la ley del Mercosur, quitando los fueros parlamentarios a Milagro Sala y entregándola al gobierno de Gerardo Morales.",
+      "entidades_detectadas": [
+        "Milagro Sala",
+        "Mercosur",
+        "Gerardo Morales"
+      ]
+    },
+    {
+      "frase": "Macri habló de \"feudos provinciales\", pero luego se retractó ante las críticas de la oposición,  porque  afirmarlo representaba una división en Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Macri",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Los “feudos”, en realidad, son exclusivamente peronistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No existe ningún feudo que no sea peronista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta situación, que empezó con Zaffaroni y Rodríguez Simón, evidenció la influencia de ciertos sectores en la justicia, como lo demuestran casos como el de Nimman, la causa de Vialidad,  el 2x1, la coparticipación, etc.",
+      "entidades_detectadas": [
+        "Rodríguez Simón",
+        "Vialidad",
+        "Zaffaroni",
+        "Nimman"
+      ]
+    },
+    {
+      "frase": "Rosati incluso intervino en asuntos del Banco Central, un ente autónomo,  opinando sobre la emisión monetaria y los títulos públicos.",
+      "entidades_detectadas": [
+        "Rosati",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Ante la crisis judicial y la desconfianza pública en la Corte, Rosati discute sobre el Banco Central y la emisión de títulos públicos.",
+      "entidades_detectadas": [
+        "Corte",
+        "Rosati",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Quizás tenga una solución para la inflación, sería interesante que la comparta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si lo hubiese hecho cuando Macri violó la Constitución Nacional y la ley de Administración Financiera, al contraer una deuda impagable para la Argentina (100.000 millones de dólares), la situación sería diferente.",
+      "entidades_detectadas": [
+        "Constitución Nacional",
+        "Administración Financiera",
+        "Macri",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Ni siquiera se pueden pagar los intereses de dicha deuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rosati, cabe destacar, es peronista.",
+      "entidades_detectadas": [
+        "Rosati"
+      ]
+    },
+    {
+      "frase": "Hay personas que cambian de postura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso Macri intentó crear una imagen de candidato peronista.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "La verdadera lealtad reside en la acción, no en las palabras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alguien presiona a la Corte para favorecer ciertos intereses.",
+      "entidades_detectadas": [
+        "Corte"
+      ]
+    },
+    {
+      "frase": "La situación de la Corte Suprema de Justicia de la Nación es vergonzosa.",
+      "entidades_detectadas": [
+        "Corte Suprema de Justicia de la Nación"
+      ]
+    },
+    {
+      "frase": "Con respecto a Formosa, la Constitución establece que la reelección depende del voto popular.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "¿Qué sucedió con Gildo Insfrán, que pudo ser reelecto?",
+      "entidades_detectadas": [
+        "Gildo Insfrán"
+      ]
+    },
+    {
+      "frase": "¿Y con Macri, que no pudo?",
+      "entidades_detectadas": [
+        "¿",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "La posibilidad de reelección no es absoluta, depende del voto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No podemos atacar la Constitución, la Corte está dispuesta a tomar decisiones políticas arbitrarias.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Corte"
+      ]
+    },
+    {
+      "frase": "El Banco Central debe tener cuidado con sus acciones, la Corte ya lo ha advertido.",
+      "entidades_detectadas": [
+        "Corte",
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Pero no le indicó la forma correcta de proceder ni los costos de actuar de forma incorrecta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nazarena te saluda.",
+      "entidades_detectadas": [
+        "Nazarena"
+      ]
+    },
+    {
+      "frase": "Mencionaste que la calificación de ciertas provincias como \"feudos\" generó una fractura en Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Macri ofendió gravemente al presidente de la Unión Cívica Radical, Gerardo Morales, al tildarlo de feudal.",
+      "entidades_detectadas": [
+        "Gerardo Morales",
+        "Macri",
+        "Unión Cívica Radical"
+      ]
+    },
+    {
+      "frase": "Esto casi provocó la ruptura oficial de Juntos por el Cambio.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "La ofensa fue grave, Morales es quien ha dirigido el país y su rendición de cuentas de 2016 fue rechazada por falta de sustento legal, luego de 500 auditorías.",
+      "entidades_detectadas": [
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Macri, quien criticó el \"feudalismo\", actuó sin respeto al Congreso y a la Constitución.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Constitución",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "La respuesta de Morales, durante la discusión sobre el acuerdo con el FMI, fue que no había participado en la toma de decisiones para dicho crédito.",
+      "entidades_detectadas": [
+        "FMI",
+        "Morales"
+      ]
+    },
+    {
+      "frase": "Desde entonces, Macri lo atacó, acusándolo de feudal.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Macri, tras el desastre económico que dejó en el país,  ha preferido pasearse por la FIFA, hablando de fútbol.",
+      "entidades_detectadas": [
+        "Macri",
+        "FIFA"
+      ]
+    },
+    {
+      "frase": "En Argentina, se debate entre un sistema liberal (representado por Macri, que nos llevó al default) y un sistema nacional y popular.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Este gobierno ha enfrentado una situación económica compleja, sufriendo ataques con todo el poder mediático, la declaración del gobierno como servicio público, fue letal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo declararon enemigo público.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se recurrió a la difamación, la fabricación de noticias y presiones a jueces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación es preocupante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esperemos a ver qué ocurre hoy con el debate y el informe del Jefe de Gabinete, Agustín Rossi.",
+      "entidades_detectadas": [
+        "Agustín Rossi",
+        "Jefe de Gabinete"
+      ]
+    },
+    {
+      "frase": "Un fuerte abrazo, José.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "Incluso Macri",
+    "Zaffaroni",
+    "Frente de Todos",
+    "Rosati",
+    "Banco Central",
+    "Morales",
+    "¿Qué",
+    "Esperemos",
+    "Diputados",
+    "Gildo Insfrán",
+    "La Corte",
+    "Pepín Rodríguez Simón",
+    "Gerardo Morales",
+    "Cristina Fernández de Kirchner",
+    "Manzur",
+    "He",
+    "Constitución",
+    "José",
+    "Consejo de la Magistratura",
+    "Entiendo",
+    "Nimman",
+    "Argentina",
+    "Corte Suprema de Justicia de la Nación",
+    "Alguien",
+    "Ayer",
+    "Juntos",
+    "Administración Financiera",
+    "Raúl Zaffaroni",
+    "Milagro Sala",
+    "FIFA",
+    "Mencionaste",
+    "Primero",
+    "FMI",
+    "Senadores",
+    "Corte",
+    "Cambio",
+    "Vialidad",
+    "Agustín Rossi",
+    "Corte Suprema",
+    "la Argentina",
+    "Nazarena",
+    "Poder Judicial",
+    "Agustín",
+    "Constitución Nacional",
+    "Rodríguez Simón",
+    "Formosa",
+    "Unión Cívica Radical",
+    "Senado",
+    "Macri",
+    "Mercosur",
+    "Jefe de Gabinete"
+  ]
+}

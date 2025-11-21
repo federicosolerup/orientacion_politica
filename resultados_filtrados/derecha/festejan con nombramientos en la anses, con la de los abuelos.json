@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En este contexto, las noticias sobre nombramientos en la ANSES o contrataciones en el PAMI, ambos con importantes recursos y dirigidos por La Cámpora, reflejan lo que este gobierno entiende por Estado: algo de lo que se apropia y que demuestra irresponsabilidad fiscal.",
+      "entidades_detectadas": [
+        "anses"
+      ]
+    },
+    {
+      "frase": "Según Francisco Oliveira en La Nación, entre las erogaciones del bono de la ANSES y los adicionales del PAMI, se gastarán $260 millones.",
+      "entidades_detectadas": [
+        "francisco",
+        "anses"
+      ]
+    },
+    {
+      "frase": "Es probable que Cristina Kirchner no hable de este tema, calificándolo como una aberración neoliberal que debe demonizarse, y no como la consecuencia de un proceso inflacionario impulsado por una emisión monetaria descontrolada.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Seguramente seguirán culpando a los productores y almaceneros por el aumento de precios, mientras el Estado recauda impuestos sin cesar y festeja con los fondos públicos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Los nombramientos en la ANSES o los bonos no cambiarían la situación de los jubilados, pero los ejemplos importan.",
+      "entidades_detectadas": [
+        "anses"
+      ]
+    }
+  ]
+}

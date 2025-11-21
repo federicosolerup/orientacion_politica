@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "El discurso de Macri señaló logros que existen, algunos de los cuales fueron destacados por el diputado Amadeo.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Y está claro que el presidente tiene este déficit en su gestión, el enfocarse más en el \"después\" que en el \"ahora\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "No me gustó la alusión de Macri a Roberto Baradel.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "¿Qué hubieran dicho si, cuando hablaba Cristina Fernández de Kirchner, los opositores hubieran tenido los actos de intolerancia que tuvieron durante el discurso?",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 61
+    },
+    "score_promedio": 0.723,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En el Congreso atentaron una vez más contra la democracia.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina va en caída libre como un tobogán.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando Alfonsín nos decía que con la democracia se come, se cura y se educa?",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a establecer definitivamente en la Argentina la democracia que los argentinos queremos.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dinámica, plena de participación y movilización popular para los grandes objetivos nacionales en el marco bien definido, pero históricamente flexible, de nuestra Constitución, que garantiza todos los derechos, todas las libertades, todos los avances sociales y culturales del mundo moderno, a la vez que asegura la responsabilidad de los gobernantes ante el pueblo a través de los mecanismos jurídicos y políticos de control que la misma Constitución ha previsto y de la periódica renovación de los poderes mediante el ejercicio del sufragio.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alfonsín no pudo terminar su mandato.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía Menem: \"No los voy a defraudar\", y nos defraudó muchísimo.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tuvimos dos atentados terroristas en su gobierno: la bomba de la Embajada de Israel y la AMIA.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A él le explotó todo.",
+      "score": 0.69,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto el gobierno de De la Rúa como el de Alberto Fernández tienen muchos puntos en común.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y me pregunto con mucho asco por qué, con tantos puntos en común con De la Rúa, Alberto no puede terminar igual.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la ayuda de las hojas sacamos cabeza, pero a Néstor le gustaba más la plata que el dulce de leche.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Cristina fue más de lo mismo, pero sin tanto viento a favor.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todavía Cristina se pasea por Comodoro Py, tuvo diez causas en contra.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora le quedan abiertas solo dos.",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El valor de llamarse Cristina Fernández de Kirchner.",
+      "score": 0.771,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de Cristina vino Mauricio Macri.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después de la primera vez que se le puso la mano a la gente, se le puso la mano a la gente.",
+      "score": 0.764,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, que nos decía que era un tipo común.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy estamos gobernados por una alianza donde el presidente de la Nación y el presidente de la Cámara de Diputados decían que la vicepresidenta era corrupta.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obvio que una vez que Cristina le hizo a Alberto, el discurso cambió.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto pasó de pasear el perro a ser presidente.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hagámonos cargo de este quilombo que es nuestro.",
+      "score": 0.732,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá lo vemos al nabo Massa haciéndose el lindo.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando hablan de fuga de capitales, ¿están hablando de Florencia Kirchner y los cinco palos en la caja?",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que pensar en una Argentina grande.",
+      "score": 0.581,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los kirchneristas hicieron una campaña frente al Congreso en contra del acuerdo que Juntos por el Cambio le va a aprobar al gobierno.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la zona del Congreso parecía Kiev.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le prenden fuego a uno de los nuestros, de los buenos, a la autoridad.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá el despacho de Cristina Fernández de Kirchner.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Toda esta policía defendiendo delincuentes y no a nosotros, los que le pagamos a esos delincuentes.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme el tape, por favor.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le preguntaba recién a Juan Manuel Dragani, nuestro abogado, nuestro amigo.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le pregunto: \"¿Cuántos detenidos?\".",
+      "score": 0.431,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Usted le mostró la credencial?",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le dijeron?",
+      "score": 0.431,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están vendiendo el París y usted se está quejando acá.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están vendiendo el París y usted se está negando acá.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El nivel de inestabilidad que hay en la Argentina acá.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted es tan elegante, y nosotros ya un Favaloro.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hasta cuándo tengo que mandar a mi hija al colegio con ese trapo de mierda en la boca si ustedes se cagan en nosotros?",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente me denuncian si mando a mi hija al colegio sin ese trapo de mierda que le está sacando el aire y el oxígeno.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y nuestros hijos, hace dos años que van con la boca tapada al colegio como delincuentes.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque, mientras el país se prende fuego, hablan de la reelección de Alberto Fernández.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En 2023 queremos consolidar la figura del presidente y que pueda estar competitivo para una elección.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Solo Alberto Fernández se pudo haber puesto de ministro.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entiendo que le chupen las medias.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Preguntaban a quienes veían como candidato a presidente para el 2023.",
+      "score": 0.283,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablando de vagos, míralo al presidente leyendo con Dylan.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué el presidente decide mostrarnos esta estupidez?",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué el presidente decide mostrarse esta estupidez?",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo, el presidente es un real pelotudo.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Para qué una monja putea así a un presidente que la cosa está quenchi?",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren, por favor, le pasa a este gaucho.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le agradezco a una periodista de Clarín y a toda la gente que dice que tengo un montón de denuncias por decir lo que pienso.",
+      "score": 0.162,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me encanta que les moleste, porque quiere decir que les estoy tocando un negocio tremendo a las \"verdes\" de Clarín y de todos los diarios y de todos los medios.",
+      "score": 0.507,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Interesante lo que dice con respecto al feminismo, porque, además, le digo gracias, porque empieza a aparecer el otro feminismo, el nuestro, chicas.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos una patria grande, hermosa, pensada.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De ahí a la otra día que le decía que los árboles que plantemos ahora no vamos a ver la sombra nosotros.",
+      "score": 0.453,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bien, Bertuccelli, le mando un abrazo enorme.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entre otras estupideces que dijo, dice que no le cree a \"Mavis\", quien fuera pareja de su padre, una menor de edad.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es re loco, porque ella dice que no le cree a \"Mavis\", pero le cree a Thelma Fardín.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ponéle que le creemos, y no le crees a \"Mavis\" que la viste con tu papá, siendo menor de edad, trece años.",
+      "score": 0.69,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viviana Canosa me dijo \"catadora de trabajo\", dice Dalma, \"no entiendo\", y sí, mami, si no conocés la palabra, le dice la gente en las redes.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, le agradezco a mi padre, porque de él heredé los valores.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es mi verdadera herencia, es la herencia que yo le quiero dejar a Martina Borenstein, mi hija, los valores.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos vamos a morir todos, dejemos una patria hermosa para nuestros hijos y nietos.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Te mando un beso a Esteban Buric, que logramos con Alan, mi querido amigo Alan, que le dieran el título inclusivo, a un chico con síndrome de Down.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te mando un beso enorme, Esteban, y me dijo en el último mensaje, que, gracias a toda esa movida que hicimos con Alan, que yo me puse en mis espaldas, que ningún chico, ni con síndrome de Down, ni con ningún tipo de discapacidad, tiene que hacer nada especial, simplemente ir al colegio y le dan su título.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y usted no tiene derecho a hablar en nombre de todas las mujeres.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque yo no acepto que un hombre hable en mi nombre, y no acepto que usted tampoco hable en mi nombre.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que en Argentina están muy confundidas las \"verdes\".",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y mirá lo que le pasó.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a quien viola, y a quien asesina, y a quien acosa, y a quien grita, \"puta de mierda\", y a quien no te deja salir en pollera, y a quien le tenés miedo por salir con pollera.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una transexual saluda por el día de la mujer y dice que le gusta llamar la atención.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a pasar con una de las historias del día, el médico que iba a trabajar en la Fundación Favaloro, y que estos delincuentes no lo dejaban pasar, mientras prendían fuego a un policía, mientras le tiraban piedras a la policía.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente estamos comunicando lo que le está pasando a la sociedad.",
+      "score": 0.155,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 77
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,562 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Disculpen la interrupción, pero escuché una linda música.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Vikingo fue a pescar y tuvo una jornada exitosa.",
+      "entidades_detectadas": [
+        "Vikingo"
+      ]
+    },
+    {
+      "frase": "Sacó un dorado, una tararira… ¡una hermosa tararira!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comió un bagre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Perdón, ¿me dejan hablar?",
+      "entidades_detectadas": [
+        "Perdón",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sé que vienen de un fin de semana donde los conocieron a ustedes, y que están contentos… ¡hasta tienen un club de fans!).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy nos reunimos con los productores para ajustar los detalles de la grabación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién habla?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Hola, hola… ¿me escuchan?",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "¿Sí?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ¿cómo están todos?",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "A ver, ¿cómo te fue?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuántas fiestas?",
+      "entidades_detectadas": [
+        "¿Cuántas"
+      ]
+    },
+    {
+      "frase": "Entre los tres, más de veinte capturas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tranquilos, con cuidado… ¡no, no, no compartan el micrófono!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gente de Puerto González, ¿se puede?",
+      "entidades_detectadas": [
+        "Puerto González",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Habla al micrófono?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Acérquenlo a la cámara para que todos nos vean, que nosotros también estamos cansados!",
+      "entidades_detectadas": [
+        "Acérquenlo"
+      ]
+    },
+    {
+      "frase": "Parece que el comisario trajo… ¿novias?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero agradecer a la gente de Corrientes, a la gente de Puerto González y a Miguel, que nos trataron muy bien.",
+      "entidades_detectadas": [
+        "Puerto González",
+        "Corrientes",
+        "Quiero",
+        "Miguel"
+      ]
+    },
+    {
+      "frase": "¿Cómo va con ese… culito?",
+      "entidades_detectadas": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "frase": "Miguel hizo una pelea bárbara.",
+      "entidades_detectadas": [
+        "Miguel"
+      ]
+    },
+    {
+      "frase": "Mucha buena onda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pilafuto, te volviste al agua?",
+      "entidades_detectadas": [
+        "¿Pilafuto"
+      ]
+    },
+    {
+      "frase": "Siempre pesca con devolución, muy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que sacar y devolver, pesca deportiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy me llamó alguien de Rosario y me dijo: \"Mami, soy experto en seguridad\".",
+      "entidades_detectadas": [
+        "Rosario",
+        "Mami"
+      ]
+    },
+    {
+      "frase": "No voy a dar el nombre, porque cada vez que esta persona habla, la amenazan de muerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablé con varios políticos de Juntos por el Cambio, con Carlos Lozada y Patricia Bullrich.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Carlos Lozada",
+        "Hablé"
+      ]
+    },
+    {
+      "frase": "Dijeron que me llamarían, pero nunca lo hicieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el área de seguridad, hay un tipo que es contador, una persona mayor, y quiero trabajar con él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero la política no es lo que uno piensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empiezas joven y te tratan como un idiota.",
+      "entidades_detectadas": [
+        "Empiezas"
+      ]
+    },
+    {
+      "frase": "Te usan para pegar afiches y demás, y tienes que hacer carrera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aunque sean analfabetos, no les importa mientras te puedan manejar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si eres experto en seguridad, no te van a poner en un cargo de ese tipo; no vas a ir a Medicina.",
+      "entidades_detectadas": [
+        "Medicina"
+      ]
+    },
+    {
+      "frase": "Fíjate lo que nos pasó con la pandemia: pusieron a Ginés González García por ser amigo del Presidente, no por ser el mejor, cuando había infectólogos mucho más capacitados.",
+      "entidades_detectadas": [
+        "Ginés González García",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "El tipo era médico de cabecera… ¡de esos que te revisan los pies en la pileta!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La política no se hace con gente inteligente, sino con aduladores improvisados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como me dijo Marcelo Corti, un amigo de los años ochenta: \"La política es para los aprovechados y las… putas\".",
+      "entidades_detectadas": [
+        "Marcelo Corti"
+      ]
+    },
+    {
+      "frase": "Siempre hay asesores, en los municipios… ¡la amante, la novia, la querida!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es lo que pasa en la política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, nuestro querido Presidente Alberto Fernández dijo que \"el mérito no existe\".",
+      "entidades_detectadas": [
+        "Presidente",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "La Primera Dama viaja en avión como si fuera un Uber.",
+      "entidades_detectadas": [
+        "Uber"
+      ]
+    },
+    {
+      "frase": "¿Qué mérito tiene para ser Primera Dama?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie conoce su currículum.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá no necesitas mérito, ni carrera honesta, ni antecedentes limpios.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Puedes ser hijo de Cristina, y ya eres líder.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Puedes ser primo de… y ganar millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puedes ser guapo y gustarle a la Presidenta, y convertirte en vicepresidente, y después te regalan la Casa de la Moneda.",
+      "entidades_detectadas": [
+        "Presidenta",
+        "Casa de la Moneda"
+      ]
+    },
+    {
+      "frase": "Ahora se abrieron los cuadernos, los teléfonos… se escuchan las conversaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay mérito en la política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa persona de Rosario, yo estuve en Israel, hice un curso, tengo tres diplomas… pero nada importa.",
+      "entidades_detectadas": [
+        "Israel",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "El problema es otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El que no se da cuenta de eso, pierde el tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La política es para los idiotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay idiotas adentro, con títulos, y que no se les puede decir que son idiotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay idiotas abajo que aplauden a los idiotas que hablan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y hay otros, como nosotros, el 70% de los idiotas, que toleramos a los otros idiotas para que no nos destruyan el país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"País idiota\", no lo digo como insulto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gente sin maldad, a la que todo le da igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos levantamos contra nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y somos tan idiotas que nos hacen creer que \"levantarse\" es una revolución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mira lo que pasa en Bariloche con esos usurpadores mapuches y los idiotas del gobierno, que se hacen los idiotas para no mandar a la Gendarmería y sacarlos a patadas de las tierras que tienen dueño.",
+      "entidades_detectadas": [
+        "Gendarmería",
+        "Mira",
+        "Bariloche"
+      ]
+    },
+    {
+      "frase": "Mientras los idiotas se hacen los idiotas, otros idiotas se matan entre ellos… hasta que un día, se les escapa un tiro de escopeta y matan a alguien, como ayer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero a nadie le importa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos miramos para otro lado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los idiotas del gobierno, porque piensan que los mapuches se lo merecen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los idiotas del gobierno central, porque no quieren hacer lo políticamente incorrecto, porque pierden votos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El idiota del canciller se hace el idiota en Chile, y nos hace quedar como idiotas a los argentinos.",
+      "entidades_detectadas": [
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Ya no tenemos lugar en el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quedamos como idiotas con el Fondo Monetario, que solo nos da una prórroga.",
+      "entidades_detectadas": [
+        "Fondo Monetario"
+      ]
+    },
+    {
+      "frase": "Todos los idiotas dicen: \"¡Ah, parece que arreglaron con el Fondo!\"  Pero a nadie le importa.",
+      "entidades_detectadas": [
+        "Fondo!"
+      ]
+    },
+    {
+      "frase": "¿Sabes cuánta plata imprimieron?",
+      "entidades_detectadas": [
+        "¿Sabes"
+      ]
+    },
+    {
+      "frase": "Te quedas como un idiota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, hoy pensaba… un feriado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un feriado de idiotas, en un país sin trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos más feriados que días laborables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El año que viene, los almanaques vendrán con un \"Día Laboral de Colorado\".",
+      "entidades_detectadas": [
+        "Día Laboral de Colorado"
+      ]
+    },
+    {
+      "frase": "¿No se cansaron de ser idiotas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen que va a ser un diciembre difícil, y un enero y febrero terribles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Hace veinte años que todo es terrible!",
+      "entidades_detectadas": [
+        "¡Hace"
+      ]
+    },
+    {
+      "frase": "Mañana es el primer día laborable.",
+      "entidades_detectadas": [
+        "Mañana"
+      ]
+    },
+    {
+      "frase": "¡Dejémos de ser idiotas!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos los idiotas están pensando en vacaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo más idiota es que… no me dejan entrar a Uruguay con la Sputnik, ni a Estados Unidos.",
+      "entidades_detectadas": [
+        "Uruguay",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "¿Ibas a ir?",
+      "entidades_detectadas": [
+        "¿Ibas"
+      ]
+    },
+    {
+      "frase": "No, pero igual… ¡sos idiota!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí están los cuatro mangos que juntaste, ese papel naranja que no sirve para nada… lo vas a gastar patinando, porque necesitas descansar de ser idiota, tirándote en la arena… y cuando vuelvas, vas a empezar a pagar las cuotas del viaje como un idiota.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es hora de pensar qué hacemos… ¿nos quedamos, o nos vamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este gobierno de idiotas nos aburrió y nos convirtió en idiotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Faltan dos años… ¡se hace eterno!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me encontré con Facundo Manes… y repito: analicen a los idiotas del Congreso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Facundo Manes"
+      ]
+    },
+    {
+      "frase": "No puedo creer que todos los boludos de la Argentina estén ahí juntos, haciendo leyes idiotas y discutiendo idioteces.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Por eso, hoy pensé todo el día… hoy es un día de idiotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo está cerrado, salvo los chinos, que no son idiotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto tiempo más?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "Hablé con Dios… ¿cuánto tiempo más me queda?",
+      "entidades_detectadas": [
+        "Hablé"
+      ]
+    },
+    {
+      "frase": "Es un hastío, una selva, una falta de posibilidades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué ganas de prender la tele a la mañana y que después de la lista de muertos te digan que enero, febrero y marzo van a ser peores?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué ganas de luchar, de levantar la cortina, de hacer un país?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si está manejado por idiotas… está manejado por idiotas.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "El Vikingo",
+    "¿Sabes",
+    "Alberto Fernández",
+    "Comió",
+    "Fondo!",
+    "¿Pilafuto",
+    "Uber",
+    "¿Qué",
+    "Uruguay",
+    "Tranquilos",
+    "Hola",
+    "Israel",
+    "Miguel",
+    "Rosario",
+    "Día Laboral de Colorado",
+    "Hablé con Dios… ¿",
+    "Patricia Bullrich",
+    "Carlos Lozada",
+    "Disculpen",
+    "¿Cómo",
+    "Empiezas",
+    "Mami",
+    "Hablé",
+    "Medicina",
+    "Marcelo Corti",
+    "Acá",
+    "Bariloche",
+    "Estados Unidos",
+    "Ginés González García",
+    "Puerto González",
+    "Gendarmería",
+    "Facundo Manes",
+    "¿Cuántas",
+    "¿Quién",
+    "Casa de la Moneda",
+    "Cristina",
+    "Presidente",
+    "Sé",
+    "País",
+    "Perdón",
+    "Corrientes",
+    "la Argentina",
+    "¿Ibas",
+    "¿Cuánto",
+    "¿",
+    "Mira",
+    "Chile",
+    "Fondo Monetario",
+    "Acérquenlo",
+    "Tenemos"
+  ]
+}

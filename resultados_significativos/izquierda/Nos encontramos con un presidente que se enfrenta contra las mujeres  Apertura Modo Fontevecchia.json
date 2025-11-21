@@ -1,0 +1,116 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 17,
+      "derecha": 3
+    },
+    "score_promedio": 0.194,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "8 de marzo, un día bastante especial, especialmente porque nos encontramos en un momento difícil en la República Argentina en lo que respecta a los derechos de las mujeres.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a repasar un poco lo que sucede aquí en Argentina en relación a este 8 de marzo.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El país está presidido por Javier Milei, quien ya ha demostrado en varias ocasiones su postura al respecto.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con este razonamiento, afirma que no hay brecha salarial, más allá de lo que dicen todas las estadísticas de Argentina y del mundo, entre lo que gana un hombre y una mujer.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a analizar la relación de Javier Milei con las mujeres.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, el título de la apertura de este \"Modo Fontevecchia\" es: D.88: Milei y las mujeres, las mujeres y Milei.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué pasó y cuál fue el diálogo, el trato de Milei con las mujeres a lo largo de su breve y fructífera carrera política?",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Se acuerdan de aquel viaje a Salta en el que dio una conferencia de prensa?",
+      "score": 0.694,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hizo una pregunta a una colega salteña y Milei tuvo una reacción violenta contra esta mujer.",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[Se reproduce el diálogo textual de la conferencia]\n\nEl estilo de Milei es el de la confrontación, en general, buscando humillar a su adversario.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo vimos con Teresita Frías, la colega de Salta, que incluso terminó con tratamiento psiquiátrico a partir de la agresión que recibió de Javier Milei.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro caso que repasamos es la relación del presidente de la Nación.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La relación de Milei con las mujeres.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo trataba Javier Milei a Jessica Bossi en este caso?",
+      "score": 0.405,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[Se reproduce el diálogo textual]\n\nLa relación, en el Día Internacional de la Mujer, el 8 de marzo, repasando la relación de Javier Milei con las mujeres, que tendrá una íntima relación con las políticas de género del gobierno.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sol Pérez terminó llorando tras discutir con Javier Milei.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego intentó justificarse, y lo hizo de esta manera:\n\n[Se reproduce el diálogo textual]\n\nEn resumen, el Día Internacional de la Mujer, 8 de marzo, un día diferente en Argentina.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos a un presidente enfrentado en general con las mujeres, podríamos decir por cuestiones de género.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos revisado las relaciones, las peleas de Milei con mujeres, especialmente en los últimos tiempos, en su corta vida política, y también las opiniones de las mujeres que están gobernando Argentina.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, por supuesto, habrá una marcha multitudinaria en el centro porteño, en el Congreso Nacional, y vamos a seguir todo lo que suceda a partir de esta tarde.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 20
+  },
+  "etiqueta_original": "neutral"
+}

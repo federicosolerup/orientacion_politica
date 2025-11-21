@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "No necesitan que ningún gobierno ni ningún estado los ayude.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Hablaron en los Martín Fierro en defensa del arte y en defensa de otras carencias que hay en Argentina hoy.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Si hay algo que caracteriza a Milei es la incerteza, la incertidumbre, no sabemos qué es capaz de hacer Milei, acaba de poner un tipo de los servicios en la AFI.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

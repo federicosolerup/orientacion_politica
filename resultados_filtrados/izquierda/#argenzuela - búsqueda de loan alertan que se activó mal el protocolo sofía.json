@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La Corte Suprema de Justicia de la Nación indica que en estos casos, se debe dar intervención inmediata al juzgado federal, activando todos los protocolos correspondientes: retenes en rutas, cierre de fronteras, etc.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Gente del Estado o que estuvo en el Estado, formando parte de esta red.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Jorge: La ministra Bullrich viajó a Paraguay, ¿confirma esto que LOAN fue sacado del país y que las cosas se hicieron mal?",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Tenemos varios casos en Corrientes y en todo el país.",
+      "entidades_detectadas": [
+        "corrientes"
+      ]
+    },
+    {
+      "frase": "Pueblos cerca de la frontera facilitan el traslado a Paraguay o Brasil sin control alguno.",
+      "entidades_detectadas": [
+        "paraguay",
+        "brasil"
+      ]
+    },
+    {
+      "frase": "El pueblo de Corrientes está angustiado, se han realizado marchas y seguirán incrementándose.",
+      "entidades_detectadas": [
+        "corrientes"
+      ]
+    }
+  ]
+}

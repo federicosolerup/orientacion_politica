@@ -1,0 +1,167 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Estamos grabando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hola a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un beso grande para Anita, nuestra directora de programación, y a Mariano, nuestro nuevo compañero.",
+      "entidades_detectadas": [
+        "Mariano",
+        "Anita"
+      ]
+    },
+    {
+      "frase": "Mariano es un gran tipo.",
+      "entidades_detectadas": [
+        "Mariano"
+      ]
+    },
+    {
+      "frase": "Bueno, para todos ustedes.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Estamos trabajando en un reportaje sobre la viruela símica; tenemos muchos monos en el estudio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si alguien quiere ver uno, se lo mostramos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Piri, por favor, baja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente quiere ver a un chimpancé en vivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Baja, Piri.",
+      "entidades_detectadas": [
+        "Piri",
+        "Baja"
+      ]
+    },
+    {
+      "frase": "Y encima son monos y no son graciosos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le dejamos la cola afuera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alejandro, el productor, quiere verlo.",
+      "entidades_detectadas": [
+        "Alejandro"
+      ]
+    },
+    {
+      "frase": "Es la “pincha” del mono del día de Sarazá.",
+      "entidades_detectadas": [
+        "Sarazá"
+      ]
+    },
+    {
+      "frase": "El pantalón de Alejandro tiene los dos botones desabrochados para facilitar la movilidad.",
+      "entidades_detectadas": [
+        "Alejandro"
+      ]
+    },
+    {
+      "frase": "Es ropa auténtica, ropa de mono relojero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por favor, alguien me pone una foto del mono relojero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdón, el mono relojero.",
+      "entidades_detectadas": [
+        "Perdón"
+      ]
+    },
+    {
+      "frase": "Día uno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Venga, mono.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Así se lo fue volteando!",
+      "entidades_detectadas": [
+        "¡Así"
+      ]
+    },
+    {
+      "frase": "¡Basta!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora grita “categoría 8”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Produciendo alfajores… voy a decir una cosa: este es un programa cultural que el canal me ha encomendado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realizaremos todo tipo de reportajes culturales para llevarles a sus hogares, mientras están de vacaciones, momentos intelectuales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por favor, le dije al Dr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vila: “Quiero más plata”.",
+      "entidades_detectadas": [
+        "Vila"
+      ]
+    },
+    {
+      "frase": "Me dio esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, chau.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Arranca el programa con mi compañero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy de mal humor.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Perdón",
+    "Alejandro",
+    "Arranca",
+    "Día",
+    "Anita",
+    "Dr. Vila",
+    "Piri",
+    "“Quiero más plata",
+    "Así",
+    "Baja",
+    "Bueno",
+    "Hola",
+    "Mariano",
+    "Sarazá"
+  ]
+}

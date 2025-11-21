@@ -1,0 +1,46 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 4
+    },
+    "score_promedio": 0.479,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Dice, \"Por favor, traten el tema Santa Cruz, la queremos invitar un día como hacemos siempre con usted para este tema\".",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Alberto Juan, ¿cómo le va?\" Bien, bueno, me voy a dar la palabra a la señora.",
+      "score": 0.554,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Menen se baja, no se baja\" solo un borracho podría decir eso.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "PJ es una organización de muchísimos años al servicio del mantenimiento del poder, vinculada a los negocios, lo que puede ser lo mismo que la diferencia entre la UCR y radicales, ¿no?",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Axel Kicillof, ¿cómo le va?\" Bien, bien.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señora presidenta, usted hoy ha tenido, creo, un mal día.",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 6
+  },
+  "etiqueta_original": "neutral"
+}

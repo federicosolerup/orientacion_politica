@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Yo laburé para Alberto Olmedo, en el Estudio Mayor, de Canal 11.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Trabajé con Alberto Olmedo.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Y el tío Alberto contra, viste, la momia y el caballero rojo.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Y ya lejos, lejos de preocuparnos si el fin de semana pelea Martín con Adarath, estamos picándonos si Cristina \"lo basurea\" a Macri, o si la reta es el caballero rojo, o si es el hombre araña, y si Patricia decía a Bullrich que era la vengadora.",
+      "entidades_detectadas": [
+        "bullrich",
+        "cristina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Además, la ley tiene otro artículo que dice que el Estado tiene que garantizar la intangibilidad de la ecuación económico-financiera; o sea, la intangibilidad de la rentabilidad que se va a llevar el que tenga esa concesión por tiempo fijo o variable.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Bueno, los contratos que firmó **Macri** para la prórroga de las concesiones de la autopista del acceso Norte y el acceso Este a la Ciudad de Buenos Aires, que los firmó con sus exsocios porque **Macri** fue socio de la construcción de esas autopistas, dicen que el Estado les va a garantizar una ganancia de 746 millones de dólares de acá al 2030, y si no se llega, la diferencia la pone el Estado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y lo que después pasa con este tipo de contratos, si es que logran aprobar la ley, es que después viene otro gobierno, dice que estos contratos son leoninos, los anula y te hacen un juicio en el CIADI, y después dicen que la culpa de todo lo que sucede en el país, por ejemplo, es de **Axel Kicillof**, que reestatizó YPF por decisión del Congreso, pero era el ministro de economía y supuestamente le hace perder al país 16 mil millones de dólares.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "Que van a tener privilegios impositivos, que van a poder comprar acciones o instalaciones de empresas como ARSAT, YPF o ENARGAS.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "La ley dice que toda se la queda el Estado Nacional, por lo cual, de vuelta, quieren un gobierno nacional con fondos, con cuentas más o menos ordenadas, y provincias pobres.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Dijeron que iban a cambiar la liquidación del Fondo de Garantía de Sustentabilidad.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Efectivamente, sacaron, o por lo menos dijeron que sacaron, el artículo donde el Fondo de Garantía de Sustentabilidad pasaba al Tesoro para que el Tesoro lo venda.",
+      "entidades_detectadas": [
+        "fondo",
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Bueno, esa es la creación del Fondo de Garantía de Sustentabilidad.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Y si no existe más, ¿qué va a pasar con los títulos públicos y con las acciones que hay en ese Fondo de Garantía de Sustentabilidad?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "**Nombres y Apellidos Corregidos:**\n\n*   Navarro (se mantuvo como \"Navarro\" ya que es un apellido común y no se especificó el nombre completo)\n*   Macri (se mantuvo como \"Macri\" ya que es un apellido común y no se especificó el nombre completo)\n*   Axel Kicillof (se mantuvo como \"Axel Kicillof\" ya que no se especificó el nombre completo)\n*   Menem (se mantuvo como \"Menem\" ya que es un apellido común y no se especificó el nombre completo)\n*   Chocobar (se mantuvo como \"Chocobar\" ya que es un apellido común y no se especificó el nombre completo)\n*   Caputo (se mantuvo como \"Caputo\" ya que es un apellido común y no se especificó el nombre completo)\n*   CIADI (se corrigió la sigla)\n*   PAIS (se corrigió la sigla)\n*   ARSAT (se corrigió la sigla)\n*   YPF (se corrigió la sigla)\n*   ENARGAS (se corrigió la sigla)\n\nSe intentó mantener el estilo y el tono original del texto, corrigiendo errores pero sin modificar el mensaje.",
+      "entidades_detectadas": [
+        "axel",
+        "macri",
+        "ypf",
+        "menem",
+        "kicillof",
+        "caputo"
+      ]
+    }
+  ]
+}

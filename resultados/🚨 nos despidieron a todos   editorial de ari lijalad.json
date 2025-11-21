@@ -1,0 +1,514 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer nos despidieron a todos.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Fue un día de mensajes tristes y dolorosos, con miles de despidos a nivel nacional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La cantidad de mensajes que recibimos fue abrumadora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En general, los periodistas nos informan, nos piden ayuda y nos solicitan que difundamos la situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue una tarde-noche de mucha angustia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En parte, porque hemos estado ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo fui despedido en su momento de Radio Nacional y de otros medios públicos.",
+      "entidades_detectadas": [
+        "Radio Nacional"
+      ]
+    },
+    {
+      "frase": "Uno de los lugares más afectados por los despidos, donde se dejó de hacer lo que se hacía diariamente, fue en los medios públicos, pero los despidos llegaron a prácticamente todo el Estado Nacional y tienen un impacto directo en la vida cotidiana de la gente.",
+      "entidades_detectadas": [
+        "Estado Nacional"
+      ]
+    },
+    {
+      "frase": "Por eso digo que nos despidieron a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En estos días hubo centenares de despidos en la Administración Nacional de la Seguridad Social (ANSES), el organismo público más grande del país, porque es el que más trabajo tiene.",
+      "entidades_detectadas": [
+        "ANSES",
+        "Administración Nacional de la Seguridad Social"
+      ]
+    },
+    {
+      "frase": "Administra las jubilaciones y las pensiones de 17 millones de personas que hoy ven su derecho vulnerado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hubo despidos en la Agencia Nacional de Discapacidad (ANDIS), que trabaja directamente con las personas con discapacidad, quienes representan entre el 10 y el 15 por ciento de la población argentina, lo que impacta además sobre sus familias.",
+      "entidades_detectadas": [
+        "Agencia Nacional de Discapacidad",
+        "ANDIS"
+      ]
+    },
+    {
+      "frase": "Hubo despidos en el Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), que controla nuestros alimentos, nuestras exportaciones e importaciones.",
+      "entidades_detectadas": [
+        "Servicio Nacional de Sanidad y",
+        "SENASA"
+      ]
+    },
+    {
+      "frase": "Hubo despidos en el Servicio Meteorológico Nacional.",
+      "entidades_detectadas": [
+        "Servicio Meteorológico Nacional"
+      ]
+    },
+    {
+      "frase": "Y sí, vos, empresario rural, ¿cómo vas a saber ahora si se viene una tormenta, si hay granizo o si se viene una helada?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Hubo despidos en Cancillería, en Cultura, en el Ministerio de Justicia.",
+      "entidades_detectadas": [
+        "Cancillería",
+        "Cultura",
+        "Ministerio de Justicia"
+      ]
+    },
+    {
+      "frase": "Y todos estos despidos tienen que ver con tu vida cotidiana, con tus derechos y con la organización de tu vida, que te la garantizan los trabajadores estatales, quienes realizan un enorme trabajo, en general mal pago, para que vos, trabajador del sector privado, comerciante del sector privado o empresario del sector privado, puedas llevar adelante tu vida porque hay alguien que se está ocupando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay alguien que se está ocupando de que las calles por las que transitás estén en buenas condiciones, de que funcionen los semáforos, de que funcionen las escuelas, de que lleguen los remedios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay alguien que se ocupa, si en este momento viajás por la ruta, de que se hagan controles de alcoholemia para que viajes seguro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay alguien que se ocupa de todo eso, de lo que vos no te ocupás.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esos son los trabajadores estatales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso ayer nos despidieron a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién se va a ocupar ahora, por ejemplo, de lo que hacía el Ministerio de Justicia, como el acompañamiento a víctimas o la relación entre el Poder Judicial y las cárceles?",
+      "entidades_detectadas": [
+        "Poder Judicial",
+        "Ministerio de Justicia",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "¿Quién se va a ocupar en el Ministerio de Economía de hacer los análisis por sector y de ver qué necesidades hay?",
+      "entidades_detectadas": [
+        "Ministerio de Economía",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "El Ministerio de Economía no es solo el ministro.",
+      "entidades_detectadas": [
+        "Ministerio de Economía"
+      ]
+    },
+    {
+      "frase": "¿Quién se va a ocupar en el Ministerio de Educación de la Educación Sexual Integral?",
+      "entidades_detectadas": [
+        "Educación Sexual Integral",
+        "Ministerio de Educación",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "¿Quién se va a ocupar en la Secretaría de Trabajo de lo que hacían los más de 500 trabajadores que ayer recibieron telegramas en su mail?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "¿Quién se va a ocupar de trabajar con los deportistas del país?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Porque ayer también hubo despidos en el Centro Nacional de Alto Rendimiento Deportivo (CeNARD).",
+      "entidades_detectadas": [
+        "Centro Nacional de Alto Rendimiento Deportivo"
+      ]
+    },
+    {
+      "frase": "Despidos en el Ministerio del Interior, despidos en Vialidad Nacional, despidos en Correo Argentino, más de mil despidos en lo que era el Ministerio de Desarrollo Social.",
+      "entidades_detectadas": [
+        "Ministerio de Desarrollo Social",
+        "Ministerio del Interior",
+        "Vialidad Nacional"
+      ]
+    },
+    {
+      "frase": "¿Quién se va a ocupar de los puertos?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Casi 200 despidos en la Administración General de Puertos, pocos días después de que esa administración firmó un convenio con el gobierno de los Estados Unidos para que nos traigan ingenieros de las Fuerzas Armadas estadounidenses a manejar nuestras rutas fluviales.",
+      "entidades_detectadas": [
+        "los Estados Unidos",
+        "Fuerzas Armadas",
+        "Administración General de Puertos"
+      ]
+    },
+    {
+      "frase": "Despidos en la Secretaría de Comercio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién va a controlar que te estén cobrando los precios justos en el supermercado?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Despidos en el Instituto Nacional de Estadística y Censos (INDEC), despidos en Parques Nacionales, despidos en el Instituto Nacional de Cine y Artes Audiovisuales (INCAA), despidos en la Secretaría de Agricultura Familiar.",
+      "entidades_detectadas": [
+        "Instituto Nacional de Estadística y Censos",
+        "Parques Nacionales",
+        "Secretaría de Agricultura Familiar",
+        "Instituto Nacional de Cine y Artes Audiovisuales",
+        "INDEC"
+      ]
+    },
+    {
+      "frase": "¿Quiénes producen tu comida?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quiénes ayudan, colaboran y fomentan la producción de tu comida?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿De dónde te pensás que salen los tomates que ponés en la ensalada?",
+      "entidades_detectadas": [
+        "ponés"
+      ]
+    },
+    {
+      "frase": "¿De la agricultura familiar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si el Estado no está ahí, no vas a tener más tomates.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Y entonces los van a tener que importar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si el SENASA no está ahí para cuidar esos tomates que importan, no sabés en qué condiciones los vas a comer.",
+      "entidades_detectadas": [
+        "SENASA"
+      ]
+    },
+    {
+      "frase": "Y si la Secretaría de Comercio no está ahí para controlar, no sabés a qué precio vas a tener que pagar esos tomates.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos los despidos en el Estado tienen que ver con vos, con tu vida cotidiana, con tus derechos, con la posibilidad de que puedas producir, con la posibilidad de que puedas comerciar.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Es mentira que el Estado no sirve.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "No habría capitalismo sin Estado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado es preexistente al capitalismo.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "¿Quieren vivir un día sin Estado?",
+      "entidades_detectadas": [
+        "Estado?"
+      ]
+    },
+    {
+      "frase": "¡Háganlo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer *pagó los platos* un día sin el Estado.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Ahora no usen nada de lo que el Estado les dio.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Si pueden vivir sin Estado, no usen nada de lo que el Estado les dio.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Entonces yo quiero ver a **Pablo Rocca**, un día sin las rutas que el Estado pagó, sin los puertos que el Estado pagó, sin los trabajadores que el Estado formó.",
+      "entidades_detectadas": [
+        "Estado pagó",
+        "Estado formó",
+        "Pablo Rocca"
+      ]
+    },
+    {
+      "frase": "Porque el Estado también forma, les enseña a leer, a escribir, a pensar en matemáticas y los forma gratis para que después produzcan en las empresas.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Te quiero ver, **Pablo Rocca**, **Marcos Galperín**, **Luis Pagani**, **Eduardo Costantini**, te quiero ver.",
+      "entidades_detectadas": [
+        "Eduardo Costantini",
+        "Marcos Galperín",
+        "Luis Pagani",
+        "Pablo Rocca"
+      ]
+    },
+    {
+      "frase": "No pueden contratar ni un solo trabajador que haya pasado por escuela pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vivan un día sin el Estado, dale.",
+      "entidades_detectadas": [
+        "Estado",
+        "dale"
+      ]
+    },
+    {
+      "frase": "Ni a la esquina llegan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vivan un día sin el Estado, sin cloacas, sin gas, sin el pago de las jubilaciones, sin el Instituto Geográfico Nacional, dale.",
+      "entidades_detectadas": [
+        "Instituto Geográfico Nacional",
+        "Estado",
+        "dale"
+      ]
+    },
+    {
+      "frase": "Salgan en un barco a pescar, sin el Instituto Geográfico Nacional.",
+      "entidades_detectadas": [
+        "Instituto Geográfico Nacional"
+      ]
+    },
+    {
+      "frase": "Salgan sin el Servicio Meteorológico Nacional.",
+      "entidades_detectadas": [
+        "Servicio Meteorológico Nacional"
+      ]
+    },
+    {
+      "frase": "A ver a dónde terminan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No existe lo que están haciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay forma de que funcione una economía, un país, una sociedad, sin un lugar donde organizamos lo que producimos y lo distribuimos en función de la inclusión social, la igualdad y que le llegue a todos, y sobre todo que se redistribuya.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que hicieron ayer fue despedirnos a todos y hay que entenderlo así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que vos no seas trabajador estatal no significa que ayer no te hayan despedido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer lo que hizo el gobierno de **Milei** fue despedirte a vos.",
+      "entidades_detectadas": [
+        "Milei",
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Despedir tus derechos, tu posibilidad de progresar, tu posibilidad de comerciar, tu posibilidad de producir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie se va a salvar solo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y los trabajadores estatales hacen un enorme trabajo para que todo el resto de la sociedad pueda desarrollar su vida cotidiana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde acá, además de plantear todo esto, quiero mandarles nuestro abrazo y nuestro acompañamiento a todos los trabajadores estatales, maltratados sistemáticamente, insultados, a quienes les dicen que no sirven para nada, que son ñoquis, que si saben hacer un trabajo lo van a conseguir en el sector privado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y los que hemos estado en ese lugar, ante ese bombardeo, en algún momento te lo crees, lamentablemente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo estuve ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y a mí me dijeron ñoqui.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y a mí me dijeron que no servía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y me dijeron que robaba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y en algún momento lo creí porque prendía la tele y no había nadie diciéndome que no, eso no es así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso no es así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos en lo que hacés sos un gran trabajador y vos en lo que hacías prestabas un gran servicio al país.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Y tu sueldo además era muy bajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo hacías igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y quiero dejarles este mensaje a los miles y miles de trabajadores estatales que van a pasar un fin de semana horroroso y que a partir de la semana que viene tienen que empezar a buscar trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No crean ni por un segundo toda esa campaña que les dice que ustedes no sirven para nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solamente tenemos agradecimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para todos los trabajadores estatales que sostienen la posibilidad de producción, de trabajo, de comercio, de transporte, de educación, de salud y de derechos que nosotros tenemos todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos despidieron a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Ministerio de Educación",
+    "El Ministerio de Economía",
+    "Fuerzas Armadas",
+    "ponés",
+    "Parques Nacionales",
+    "ANDIS",
+    "Secretaría de Agricultura Familiar",
+    "Servicio Meteorológico Nacional",
+    "Estado pagó",
+    "dale",
+    "Ministerio de Economía",
+    "Cancillería",
+    "Administración Nacional de la Seguridad Social",
+    "Centro Nacional de Alto Rendimiento Deportivo",
+    "Despedir",
+    "Estado",
+    "Cultura",
+    "ANSES",
+    "Estado formó",
+    "Ministerio de Justicia",
+    "Vos",
+    "Eduardo Costantini",
+    "INDEC",
+    "Instituto Nacional de Estadística y Censos",
+    "Vivan",
+    "Ayer",
+    "Radio Nacional",
+    "Despidos",
+    "¿Quién",
+    "Ministerio de Desarrollo Social",
+    "Administración General de Puertos",
+    "¿Quieren",
+    "El Estado",
+    "Vialidad Nacional",
+    "Instituto Nacional de Cine y Artes Audiovisuales",
+    "Marcos Galperín",
+    "Instituto Geográfico Nacional",
+    "Educación Sexual Integral?",
+    "SENASA",
+    "Pablo Rocca",
+    "¿",
+    "Poder Judicial",
+    "¿De",
+    "Estado Nacional",
+    "Salgan",
+    "Agencia Nacional de Discapacidad",
+    "Ministerio del Interior",
+    "Luis Pagani",
+    "Milei",
+    "los Estados Unidos",
+    "Nos"
+  ]
+}

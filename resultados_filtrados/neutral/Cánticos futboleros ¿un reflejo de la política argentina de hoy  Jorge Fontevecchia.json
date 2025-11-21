@@ -1,0 +1,110 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Luego del episodio del canto racista de los jugadores de la selección argentina, la posterior salida del subsecretario de Deportes, **Julio Garro**, y la polémica entre **Javier Milei** y **Victoria Villarruel**, ayer se vio un escándalo en el primer partido de Argentina en los Juegos Olímpicos de París, donde la selección, después de empatar y un gol de diferencia, terminó perdiendo 2 a 1, luego de otra curiosa situación que describiremos al terminar esta apertura en \"Deportes\".",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El fútbol es culturalmente el epicentro de manifestaciones de la sociedad que revela un estado de cosas que lo trasciende.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Tener padres africanos o árabes y nacionalidad francesa es, muchas veces, causa de discriminación para millones de personas en Francia y forma parte de la agenda de la extrema derecha.",
+      "entidades_detectadas": [
+        "francia"
+      ]
+    },
+    {
+      "frase": "De la misma manera que cada vez que gana Argentina en Bangladesh o en Escocia hay fiesta popular, porque en el país asiático hay un sentimiento anticolonialista muy fuerte contra Inglaterra, y en aquel lejano país conocen el conflicto que nuestro país tiene por las Islas Malvinas y la historia del gol a los ingleses de Maradona.",
+      "entidades_detectadas": [
+        "argentina",
+        "malvinas"
+      ]
+    },
+    {
+      "frase": "Obviamente, no ayudó que interviniera **Victoria Villarruel** en la discusión y le diera un carácter de Estado a una polémica racista.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La vicepresidenta salió a respaldar a **Enzo Fernández**, quien luego se disculpó y acusó a Francia de colonialista.",
+      "entidades_detectadas": [
+        "francia"
+      ]
+    },
+    {
+      "frase": "También le dio un carácter de Estado el hecho de que **Javier Milei** haya echado al subsecretario de Deportes, **Julio Garro**, por plantear que el capitán del seleccionado nacional y toda la selección, incluido **Lionel Messi**, deberían disculparse por aquel video.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Debe comprenderse que, por un lado, Argentina es el campeón del mundo y nuevamente campeón de América.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿Es Argentina, o hay en Argentina un ser argentino racista y discriminador?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Argentina se hizo con el sudor y el coraje de los indios, los europeos, los criollos y los negros como Remedios del Valle, el sargento Cabral y Bernardo de Monteagudo.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Viva la argentinidad.\"\n\nHay historiadores que explican que en Argentina no hay negros como Cabral o Remedios del Valle, porque eran quienes enviaban más al frente y murieron todos en la guerra de la Independencia y en la guerra contra el Paraguay.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Luego de esto, en Francia se viralizó un video hecho con inteligencia artificial, que es completamente repudiable.",
+      "entidades_detectadas": [
+        "francia"
+      ]
+    },
+    {
+      "frase": "Bueno, ahora vamos a compartir un fragmento del presidente al respecto.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y ahora vamos a compartir el sonido y la imagen del video de la nueva intervención de **Villarruel** sobre el tema: \"Hay un viento de cola y un estado de gracia que también le pega de frente al seleccionado 223\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Odio al Manchester City, pero espero que podamos tener una discusión racional sobre Sergio Agüero.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "En algo tiene razón el tweet de **Villarruel**: a Argentina la forjan y la forjamos todos: descendientes europeos, pueblos originarios, blancos, negros, bolivianos y paraguayos, la comunidad trans y tantos otros colectivos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos Corregidos:**\n    *   Julio Garros -> Julio Garro\n    *   Javier Millet -> Javier Milei\n    *   Victoria Villarreal -> Victoria Villarruel\n    *   Enzo Fernández (se mantuvo, pero se verifica la ortografía)\n    *   Camila Alsaldo -> Camila Alsaldo\n    *   Adolf Dasi -> Adolf Hitler (se infiere por el contexto)\n    *   Manuel Adorni (se verifica la ortografía)\n    *   Gabriel Millet -> Javier Milei (por contexto)\n    *   Pablo Alavarses -> Pablo Alabarces\n    *   Guillard de Mojino -> Villarruel\n    *   Lucchetti -> Lucchetti (se verifica la ortografía)\n    *   José María Muñoz (se verifica la ortografía)\n    *   Román Lluch (se verifica la ortografía)\n    *   Elian López-Caucero (se verifica la ortografía)\n    *   Simon Kishne -> Simon Kuper\n    *   Cristian David Luquetti -> Cristian David Lucchetti (se verifica la ortografía)\n\n*   **Corrección Ortográfica:** Se corrigieron errores ortográficos en palabras como: xenófabas, País -> París, amigrentar -> amedrentar,  siloaban -> silbaban, etc.",
+      "entidades_detectadas": [
+        "javier",
+        "fernández",
+        "milei"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El pan, un alimento básico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablamos con Gastón Morá, presidente del Centro de Panaderos de Avellaneda.",
+      "entidades_detectadas": [
+        "Centro de Panaderos de Avellaneda",
+        "Gastón Morá"
+      ]
+    },
+    {
+      "frase": "A ver si la gente está contenta… quizás lo esté, como decía Capoto, aunque Gastón y los panaderos observan la realidad en la parada diaria.",
+      "entidades_detectadas": [
+        "Gastón",
+        "decía Capoto"
+      ]
+    },
+    {
+      "frase": "La gente que pasa por la panadería entra contenta,  compra pan, sin importar la cantidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gastón, Jorge Ríos de Radio Díaz le saluda.",
+      "entidades_detectadas": [
+        "Jorge Ríos de Radio Díaz"
+      ]
+    },
+    {
+      "frase": "Jorge, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Buen día, ¿cómo está la audiencia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, como el país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te voy a lanzar la primera pregunta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Risas) No, no lo creí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, la verdad que yo tampoco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Matías, si me está escuchando, disculpame, pero decir que la gente está contenta… No quiero usar malas palabras, pero nadie puede estar contento cuando un kilo de carne costaba 4.000 pesos y ahora cuesta 8.000.",
+      "entidades_detectadas": [
+        "Matías"
+      ]
+    },
+    {
+      "frase": "Una bolsa de harina que costaba 4.000 pesos con el Fondo FETA, hoy cuesta entre 11.000 y 12.800 pesos.",
+      "entidades_detectadas": [
+        "Fondo FETA"
+      ]
+    },
+    {
+      "frase": "La margarina, el producto más económico, valía 25.000 pesos y ahora cuesta 43.000.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la panadería tenemos poco y nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pensamos en cerrar, pero somos una cooperativa y estamos al día con las obligaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si cerramos, ¿qué hacemos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos clientes a los que atender, y si cerramos, otro nos quitará la clientela.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una incertidumbre total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pensaron seriamente en cerrar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, porque tenemos menos de 100 bolsas de harina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer fuimos a cuatro distribuidores y estaban cerrados; dicen que no tienen precios y que volvamos el lunes.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "No venden margarina ni otros insumos para panaderías.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Están limitados en la producción?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, estamos limitados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta situación comenzó 15 días antes del cambio de gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso lo hablamos con Tomás Bulli: no estaban entregando insumos.",
+      "entidades_detectadas": [
+        "Tomás Bulli"
+      ]
+    },
+    {
+      "frase": "Empezaron con excusas, y la saliente Secretaría de Comercio no tenía la autoridad para exigir un plan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay empresarios con pocos compromisos que se dedican a la especulación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si pueden pagar, pagan; si no, mala suerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y cómo reacciona la gente, Gastón?",
+      "entidades_detectadas": [
+        "¿",
+        "Gastón"
+      ]
+    },
+    {
+      "frase": "Mal.",
+      "entidades_detectadas": [
+        "Mal"
+      ]
+    },
+    {
+      "frase": "Los sueldos no aumentaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo puede una persona pagar 1600 pesos por un kilo de pan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una jubilada, ¿entiendes?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una compañera lloraba hoy porque decidimos fijar el precio para jubilados en 1000 pesos, pero si lo ponemos a 1800, es una locura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo hace un jubilado que cobra la mínima para pagar 1600 pesos un kilo de pan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un producto básico, lo que llena la panza de los chicos cuando tienen hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay gente que se ilusiona: \"¡La asignación familiar aumentó 100%!\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aumentó 100%, pero no alcanza con estos precios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 50% de aumento en la tarjeta alimentaria y un 70% de remarcación en todos los productos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un paquete de arroz cuesta 1800 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le están vendiendo espejitos de colores a la gente, y no ven que esto nos va a llevar a un choque terrible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Venimos de un 140% de inflación y un 40% de pobreza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era elegir entre los menos malos, y la gente optó por este gobierno que decía que no quería la \"casta\", pero metió a un inepto como Ministro de Economía.",
+      "entidades_detectadas": [
+        "Ministro de Economía"
+      ]
+    },
+    {
+      "frase": "Gastón, ¿cómo te va?",
+      "entidades_detectadas": [
+        "¿",
+        "Gastón"
+      ]
+    },
+    {
+      "frase": "Mauro Federico te saluda.",
+      "entidades_detectadas": [
+        "Mauro Federico"
+      ]
+    },
+    {
+      "frase": "Gracias Mauro.",
+      "entidades_detectadas": [
+        "Gracias Mauro"
+      ]
+    },
+    {
+      "frase": "Bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tomás Bulli escucha la radio y me dice que es mejor esto a lo que pasaba antes.",
+      "entidades_detectadas": [
+        "Tomás Bulli"
+      ]
+    },
+    {
+      "frase": "Incluso en este programa he tenido varios cruces con Bulli.",
+      "entidades_detectadas": [
+        "Bulli"
+      ]
+    },
+    {
+      "frase": "Él dice que lo bueno de los acuerdos de precios es lo que se evitaba, no lo que se conseguía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo ves esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se nota en los alimentos, donde la situación social es más sensible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo hará la gente para pasar las fiestas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente está desesperada con los aumentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay gente que se arrepiente de haberlo votado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tipo dijo lo que iba a hacer, y lo está haciendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una clase social que no están contemplando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No muestran sensibilidad social, no se preguntan cómo les va a ir a la gente en Villa Corina, en Villa Azul.",
+      "entidades_detectadas": [
+        "Villa Corina",
+        "Villa Azul"
+      ]
+    },
+    {
+      "frase": "¿Cómo hace alguien que cobra una asignación de 50.000 pesos para comprar pan todos los días?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gastón, creo que ayer el vocero presidencial dijo que la devaluación no iba a impactar en los precios ni en el poder adquisitivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo impacta en el pan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ustedes usan commodities.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El impacto es directo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La harina es un commodity, el aceite, la margarina, las tarifas energéticas, la logística…  El reparto, por ejemplo, pasó de 400 a 800 pesos (en referencia a la empresa de reparto NASA).",
+      "entidades_detectadas": [
+        "NASA"
+      ]
+    },
+    {
+      "frase": "Ayer me hablaron cuatro o cinco panaderos que van a cerrar por unos días porque no pueden sostener la situación.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Hay que recomponer los salarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un compañero que ganaba 10 o 12 unidades de valor adquisitivo (UCA), hoy tiene que pagar 7000 pesos por un kilo de carne.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gastón, ¿cómo estás?",
+      "entidades_detectadas": [
+        "¿",
+        "Gastón"
+      ]
+    },
+    {
+      "frase": "NASA Arena te saluda.",
+      "entidades_detectadas": [
+        "NASA Arena"
+      ]
+    },
+    {
+      "frase": "Hablabas de las fiestas, ¿cuánto cuesta un pan dulce?",
+      "entidades_detectadas": [
+        "Hablabas"
+      ]
+    },
+    {
+      "frase": "Vi en redes sociales que venden porciones, no el pan dulce entero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El kilo de pan dulce cuesta 12.000 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pan dulce bien elaborado.",
+      "entidades_detectadas": [
+        "Pan"
+      ]
+    },
+    {
+      "frase": "La gente compra solo pan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya no compran facturas ni otros productos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vienen con 400 pesos y te dicen: \"Dame 400 pesos de pan\", que es un cuarto de pan, dos pequeñas piezas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el tema de la facturación también es un problema, porque si te sobra pan, es una pérdida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que regular y controlar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras no se ajusten los salarios, vamos a estar muy complicados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El pan es un alimento de primera necesidad, y los sueldos no variaron mucho desde que el pan costaba 800 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es terrible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una docena de facturas y un pan dulce económico cuestan casi 5000 pesos, pero el año pasado lo sacamos a 6500 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente solo compra pan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y hay muchos chicos que te preguntan: \"¿No te sobró nada?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto se potenció a partir de diciembre, pero veníamos de una situación complicada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En lo personal, hubiese aguantado hasta después de las fiestas para hacer los cambios gradualmente, pero están más preocupados por el Fondo Monetario que por la gente.",
+      "entidades_detectadas": [
+        "Fondo Monetario"
+      ]
+    },
+    {
+      "frase": "Gastón, vamos a seguir hablando.",
+      "entidades_detectadas": [
+        "Gastón"
+      ]
+    },
+    {
+      "frase": "Un abrazo enorme.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gastón Morá, presidente del Centro de Panaderos de Avellaneda.",
+      "entidades_detectadas": [
+        "Centro de Panaderos de Avellaneda",
+        "Gastón Morá"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Gracias",
+    "Mal",
+    "Pan",
+    "Mauro Federico",
+    "Venimos",
+    "decía Capoto",
+    "¿Pensaron",
+    "NASA Arena",
+    "Vienen",
+    "Matías",
+    "Villa Corina",
+    "Ministro de Economía",
+    "Tomás Bulli",
+    "Bulli",
+    "Hablabas",
+    "Ayer",
+    "Hablamos",
+    "Villa Azul",
+    "Fondo Monetario",
+    "Ustedes",
+    "Bien",
+    "Jorge Ríos de Radio Díaz",
+    "Aumentó 100%",
+    "Gracias Mauro",
+    "NASA",
+    "Centro de Panaderos de Avellaneda",
+    "¿",
+    "Gastón",
+    "Fondo FETA",
+    "Jorge",
+    "Gastón Morá",
+    "Tenemos"
+  ]
+}

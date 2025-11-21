@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Se han aprobado leyes y resoluciones en el Senado para modificar la composición de la judicatura argentina.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "La senadora Cristina Fernández de Kirchner, procesada en causas de corrupción y acusada en un juicio oral por delitos de corrupción, ha jugado un papel central en este proceso.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Su investigación, iniciada a raíz de una denuncia sobre la causa de los cuadernos de las coimas (referida al supuesto Operativo Puf, que involucró al fallecido juez Claudio Bonadio y al fiscal Carlos Stornelli),  fue señalada por irregularidades por la Cámara Federal de Mar del Plata y el Fiscal General de esa cámara.",
+      "entidades_detectadas": [
+        "carlos",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "La causa,  que involucró al periodista Claudio Daniel Santoro (cuya imputación fue luego sobreseída por la Cámara Federal de Mar del Plata) , se expandió considerablemente.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    }
+  ]
+}

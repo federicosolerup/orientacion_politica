@@ -1,0 +1,421 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días, miércoles 17 de agosto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Titulamos la apertura de este programa con la CGT como \"jambles\" (enigmático, confuso).",
+      "entidades_detectadas": [
+        "CGT"
+      ]
+    },
+    {
+      "frase": "En lógica, la contradicción es una incompatibilidad entre dos proposiciones; por ejemplo, \"alguien llegó\" y \"alguien no llegó\".",
+      "entidades_detectadas": [
+        "alguien llegó"
+      ]
+    },
+    {
+      "frase": "Como en este caso, la CGT, ¿a favor o en contra del gobierno?",
+      "entidades_detectadas": [
+        "¿",
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Existe un principio llamado \"principio de no contradicción\", a veces también denominado \"principio de contradicción\" o \"ley de contradicción\", por el cual una proposición y su negación no pueden ser ambas verdaderas al mismo tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se puede estar a favor y en contra del gobierno simultáneamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En realidad, es una duda ontológica entre el ser y el no ser, esto es lo que nos remite al \"jambles\" de Shakespeare, \"ser o no ser\".",
+      "entidades_detectadas": [
+        "Shakespeare"
+      ]
+    },
+    {
+      "frase": "No se puede, al mismo tiempo, pensar que una proposición puede ser verdadera y falsa a la vez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Supongo que la CGT no analizó realmente qué está haciendo, pero el término se llama \"aporía\", que es una dificultad en el razonamiento, que viene del griego.",
+      "entidades_detectadas": [
+        "Supongo",
+        "CGT"
+      ]
+    },
+    {
+      "frase": "A veces se escribe como \"aporisma\", y hace referencia a un razonamiento en el cual surgen contradicciones y paradojas irresolubles, como en el caso de las aporías que plantean estas dificultades lógicas: ¿a favor o en contra del gobierno?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hicimos un recuento de distintos paros nacionales y manifestaciones de la CGT a lo largo de los años, pero vamos a empezar desde la llegada de la democracia.",
+      "entidades_detectadas": [
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Vamos a comenzar con uno de los tres paros que Saúl Ubaldini le hizo al presidente, el primer presidente constitucional, Raúl Alfonsín.",
+      "entidades_detectadas": [
+        "Saúl Ubaldini",
+        "Raúl Alfonsín"
+      ]
+    },
+    {
+      "frase": "Luego abordaremos los gobiernos de Menem, Kirchner y Macri, hasta llegar a la actualidad.",
+      "entidades_detectadas": [
+        "Kirchner",
+        "Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Empecemos con esto: Ubaldini, 1986.",
+      "entidades_detectadas": [
+        "Ubaldini"
+      ]
+    },
+    {
+      "frase": "\"Hemos sido muy claros cuando, luego, el día 24 de enero, en nuestra querida provincia de Corrientes, el Consejo Directivo, harto de promesas, programaba su plan de lucha en busca de encontrar la sensibilidad social que el gobierno no tenía.",
+      "entidades_detectadas": [
+        "Consejo Directivo",
+        "provincia de Corrientes"
+      ]
+    },
+    {
+      "frase": "Hemos sido bien claros, citados por el gobierno para hacer las promesas y para luego querer cambiar el léxico de nuestro pueblo, abandonando los marcos y hablándonos de bandas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los únicos marcos y las únicas bandas que conoce el movimiento obrero es la justicia social, que debe realizarse como verdaderamente corresponde\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, después del gobierno de Alfonsín, vino el gobierno de Menem, dos gobiernos de Menem, y ahí la visión del sindicalismo cambió radicalmente.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Alfonsín",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar primero a Jorge Triaca sobre los reclamos sociales, en 1991, del gobierno de Menem.",
+      "entidades_detectadas": [
+        "Menem",
+        "Jorge Triaca"
+      ]
+    },
+    {
+      "frase": "\"Nosotros creemos que tanto los sectores docentes y, principalmente, los estatales, tienen que comprender la magnitud de la crisis en la que estamos inmersos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es decir, yo no discuto los reclamos salariales que puedan plantearse, porque esa es una norma que las organizaciones sindicales tienen que observar permanentemente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que me parece altamente censurable y condenatorio es que, escudándose en una organización sindical, se apunte hacia un aspecto político, como es el sistema comúnmente denominado de privatizaciones, desde la perspectiva o desde la lucha del campo social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las privatizaciones no van a producir ninguno de los cataclismos que estos agoreros señalan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por el contrario, las privatizaciones van a dar la suficiente amplitud al gobierno, la suficiente amplitud al presupuesto, como para poder atender genuinamente lo que corresponde en educación, en justicia, en salud, en todo aquello que tiene ciertas falencias el Estado por haber incursionado en otros andares y niveles que no le son propios\".",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Triaca hablaba más como un ministro de Economía que como un sindicalista.",
+      "entidades_detectadas": [
+        "Triaca"
+      ]
+    },
+    {
+      "frase": "Luis Barrionuevo, otro sindicalista muy relevante en aquellos años 90, habla como un sindicalista, pero de cualquier forma también se puede marcar la diferencia con Saúl Ubaldini, y la diferencia de época, de los 90 con los 80.",
+      "entidades_detectadas": [
+        "Saúl Ubaldini",
+        "Luis Barrionuevo"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar a Luis Barrionuevo.",
+      "entidades_detectadas": [
+        "Luis Barrionuevo"
+      ]
+    },
+    {
+      "frase": "\"Acá vino un hombre que cambió la vida del país, Carlos Menem.",
+      "entidades_detectadas": [
+        "Carlos Menem",
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Acá hay un fenómeno social.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Vino un hombre y cambió la vida del país con actitudes simples, lo que parecía difícil, pero no lo sacaron a uno.",
+      "entidades_detectadas": [
+        "parecía difícil"
+      ]
+    },
+    {
+      "frase": "Bueno, pero eso es lo que digo.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Esto es lo que sirve y hay que entenderlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que tratar de no robar, por lo menos, dos años en este país, y los empresarios y todos los especuladores deben entenderlo si no sacamos este país adelante\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, esa frase marcó la historia: \"Tenemos que tratar de no robar por dos años\".",
+      "entidades_detectadas": [
+        "Bueno",
+        "marcó"
+      ]
+    },
+    {
+      "frase": "Vamos ahora al 2001.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se estaba cayendo la convertibilidad y \"no habrá paz sin justicia social\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"La única concertación que vamos a apoyar va a ser la concertación con el pueblo de la paz, compañeros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay ninguna otra concertación que podamos apoyar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que no se equivoquen las aves de rapiña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que creen que van a concertar en nombre del pueblo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque hasta que no le den solución al pueblo, hasta que el pueblo no tenga las soluciones que reclama, va a ocurrir lo que decía nuestra compañera Eva Perón: No habrá paz sobre la tierra, sin justicia social\".",
+      "entidades_detectadas": [
+        "Eva Perón"
+      ]
+    },
+    {
+      "frase": "Muy bien, verán que el tono nuevamente se parece al tono de Ubaldini.",
+      "entidades_detectadas": [
+        "Ubaldini"
+      ]
+    },
+    {
+      "frase": "Haremos seguir a Hugo Moyano en el año 2001, y a Cristina Fernández de Kirchner como presidenta.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Hugo Moyano"
+      ]
+    },
+    {
+      "frase": "\"Ningún gobierno en los últimos años hizo más por los jubilados.",
+      "entidades_detectadas": [
+        "Ningún"
+      ]
+    },
+    {
+      "frase": "Ningún gobierno en los últimos años hizo más por los jubilados.",
+      "entidades_detectadas": [
+        "Ningún"
+      ]
+    },
+    {
+      "frase": "Pero todo lo que se haga por nuestros trabajadores jubilados a veces resulta insuficiente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo le pido a la señora presidenta que ya lo debe tener en venta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo le doy un esfuerzo más para que los jubilados estén un poco mejor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos quieran engañar con esas leyes que no tienen ningún sustento y que es engañar a nuestros jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No queremos que engañen a nuestros jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Queremos que les den la dignidad que sus jubilados merecen\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, este era el Moyano kirchnerista.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Ahora vamos a escuchar un Moyano no kirchnerista.",
+      "entidades_detectadas": [
+        "Moyano"
+      ]
+    },
+    {
+      "frase": "Lo que acabamos de escuchar era del año 2010, en el momento de apogeo de Cristina Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Y ahora vamos a escuchar el 2015, en el momento de retirada, en un acto a favor de Mauricio Macri, cuando todavía Mauricio Macri era el jefe del gobierno de la ciudad.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "En el 2015, Moyano cambió su visión.",
+      "entidades_detectadas": [
+        "Moyano"
+      ]
+    },
+    {
+      "frase": "\"No queremos hacer ningún tema político ni que se parezca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo único que queremos es reconocer la respuesta que nos ha dado el gobierno de la ciudad permanentemente a los trabajadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que ha sido permanentemente la respuesta que nos ha dado, cosa que no ha hecho otro gobierno y otros municipios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ojalá los municipios de todo el país reconozcan a los trabajadores de la recolección de residuos y barrido manual de calles como lo ha hecho el gobierno de la ciudad\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pues ahora hablemos de Héctor Daer, y escuchemos qué nos dice Daer hoy, en el contexto actual.",
+      "entidades_detectadas": [
+        "Héctor Daer"
+      ]
+    },
+    {
+      "frase": "\"Estamos en un momento crítico, un momento que no es casual, un momento que viene como consecuencia del endeudamiento del gobierno anterior, tanto con bonos privados como con el Fondo, y la realidad es la que tenemos hoy.",
+      "entidades_detectadas": [
+        "Fondo"
+      ]
+    },
+    {
+      "frase": "Tenemos un proceso inflacionario muy grande, tenemos debilidad en el tema reservas y, en este escenario, tenemos dos caminos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un camino es el que marcan los sectores de concentración económica y financiera, y muchos de los que especulan en términos de sus ganancias y su rentabilidad a partir de las exportaciones, que tienen que ver con lo que pretenden: salidas devaluatorias, de shock devaluatorio, suba de tarifas, etcétera, etcétera.",
+      "entidades_detectadas": [
+        "suba de tarifas"
+      ]
+    },
+    {
+      "frase": "Esto lo único que genera es un empobrecimiento colectivo, con la consecuencia segura de pasar otro pedazo más de la población a la pobreza estructural, de la que después no terminan de salir nunca\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con el pueblo, Héctor Daer Reda, y es el mismo embrollo del principio de contradicción que hablábamos al comienzo, respecto de estar a favor o en contra.",
+      "entidades_detectadas": [
+        "Héctor Daer Reda"
+      ]
+    },
+    {
+      "frase": "Entonces, la CGT, finalmente, ¿marchará a favor del gobierno, o contra los especuladores y los creadores de precios?",
+      "entidades_detectadas": [
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Si bien muchos de los que van a marchar, en realidad, lo toman como en contra del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, una CGT que, como en Dinamarca, tiene una contradicción ontológica entre ser o no ser oficialista.",
+      "entidades_detectadas": [
+        "Dinamarca",
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Para poner un poquito de humor, vamos a cerrar esta apertura con un clásico de \"No vamos a trabajar\" de Rodolfo Zapata.",
+      "entidades_detectadas": [
+        "Rodolfo Zapata"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "parecía difícil",
+    "Vamos",
+    "Rodolfo Zapata",
+    "suba de tarifas",
+    "Triaca",
+    "marcó",
+    "provincia de Corrientes",
+    "Menem",
+    "Luis Barrionuevo",
+    "Kirchner",
+    "Cristina Fernández de Kirchner",
+    "Shakespeare",
+    "Estado",
+    "Vino",
+    "Raúl Alfonsín",
+    "alguien llegó",
+    "Cristina Kirchner",
+    "Héctor Daer",
+    "Fondo",
+    "CGT",
+    "Acá",
+    "Saúl Ubaldini",
+    "Supongo",
+    "Jorge Triaca",
+    "Dinamarca",
+    "Carlos Menem",
+    "Queremos",
+    "Bueno",
+    "Hicimos",
+    "Mauricio Macri",
+    "Eva Perón",
+    "Ningún",
+    "Moyano",
+    "¿",
+    "Hugo Moyano",
+    "Alfonsín",
+    "Consejo Directivo",
+    "Héctor Daer Reda",
+    "Ubaldini",
+    "Macri"
+  ]
+}

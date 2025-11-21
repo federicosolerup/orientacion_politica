@@ -1,0 +1,116 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 10
+    },
+    "score_promedio": 0.491,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se recuerda un fantasma a la coalición opositora respecto a que el gobierno de **Mauricio Macri** terminó en diciembre de 2017, cuando se creía que, habiendo ganado las elecciones, podían ahora hacer lo que luego **Mauricio Macri** dijo: hacer lo mismo más rápido, que no habían podido hacer entre 2015 y 2017, y chocaron contra aquella tonelada de piedras cuando quisieron modificar el sistema de actualización de las jubilaciones.",
+      "score": 0.374,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este diciembre de 2017, cuando llegó **Perón** a la Argentina en 1972 y 1973, que vivió también en una casa que no era la Casa de Gobierno, y entonces los vecinos veían su vida alterada por la cantidad de manifestantes.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, como les decía, de ir hacia atrás para luego poder ir hacia adelante.",
+      "score": 0.269,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En noviembre, el 17 de noviembre de 1972, **Perón** volvió a la Argentina después de estar fuera del país prácticamente dos décadas.",
+      "score": 0.365,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está allí alrededor de 20 días, se vuelve a España y vuelve el 20 de junio de 1973, y allí está hasta el 12 de octubre, cuando ganan las elecciones y se muda a la Casa de Gobierno y a la quinta de Olivos.",
+      "score": 0.512,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bien, ¿esta gente ha estado siempre aquí o ha estado exiliada en algún momento de su vida?",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, muchos de los compañeros que están aquí presentes han sufrido cárceles, muchos han estado exiliados y otros han estado muchas veces escondidos donde ha peligrado la vida de ellos.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La casa de usted es lindera por los fondos, ¿verdad?, con la casa del general **Perón**?",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se alternó el vecino que decía que no había dormido por dos días, pero que estaba todo muy bien.",
+      "score": 0.529,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos a **Cristina Fernández de Kirchner**, el sábado en la puerta de su casa.",
+      "score": 0.645,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que pedirle a la oposición, sobre todo ahora que se avecina una nueva campaña presidencial, que dejen de competir entre sí para ver quién odia más y quién le pega más a los peronistas.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, quién odia más y quién le pega más a los peronistas.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, en cambio, la vicepresidenta y el propio presidente de la nación, muchos dirigentes del kirchnerismo, con sus declaraciones estos días, el día de hoy, no hacen más que echar nafta al fuego.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vicepresidenta busca distraer, busca que la solución de sus problemas con la justicia de la nación, y que las manifestaciones de la nación argentina se diriman en la calle, enfrentando a unos argentinos con otros.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso le pido, señora vicepresidenta, que asuma la responsabilidad, que usted asuma la responsabilidad, que los manifestantes se retiren esta noche pacíficamente a sus casas.",
+      "score": 0.689,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahora nuevamente vamos a escuchar a **Cristina Fernández de Kirchner**, luego nuevamente a **Horacio Rodríguez Larreta**, y ahí vamos a la música final con la que normalmente cerramos nuestras aperturas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero este audio de la vicepresidenta, el mismo sábado también, tiene especial resonancia prestando atención a cómo podría ser eventualmente esta misma situación.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás alguien podría decir que hoy la violencia verbal es superior, gracias a Dios.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podríamos decir que a lo mejor esa es la forma que se tiene de canalizar la polarización, mientras que en aquella época, como veíamos en el video, el discurso era muy cordial, pero luego en las prácticas se llevaba la violencia armada directamente.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No queremos ni pensar lo que hubiera pasado si no hubiese estado la policía ahí.",
+      "score": 0.425,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 20
+  },
+  "etiqueta_original": "neutral"
+}

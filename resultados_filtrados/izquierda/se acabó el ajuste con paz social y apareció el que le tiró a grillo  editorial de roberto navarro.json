@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Un dron de TN captó la imagen clave, mostrando al tirador en el momento exacto del disparo.",
+      "entidades_detectadas": [
+        "tn"
+      ]
+    },
+    {
+      "frase": "La fuga de 500 millones de dólares el viernes pasado, la mayor venta del Banco Central desde que asumió Javier Milei, es un indicativo de la crisis económica.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "El economista Carlos Melconian, cercano al gobierno, propone un dólar a 1500 pesos (45% más alto), lo que incrementaría la inflación.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Clarín manipula la información, utilizando términos como \"camporista\" para demonizar a la oposición.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Patricia Bullrich encubre a los responsables de la violencia.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Milei, imitando un mensaje de Cristina Fernández de Kirchner,  se dirige a los oligarcas advirtiéndoles que sus acciones tendrán consecuencias.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "* **Corrección de nombres y apellidos:** Se corrigieron los nombres y apellidos, incluyendo a Patricia Bullrich, Javier Milei,  Gonzalo Farías, Santiago Maldonado, Rafael Nahuel,  Carlos Melconián, Pablo Wende,  Héctor Ferreira, Marcelo Fabián Porra Melconian, y Claudio Miguel Brigioni.",
+      "entidades_detectadas": [
+        "javier",
+        "carlos"
+      ]
+    }
+  ]
+}

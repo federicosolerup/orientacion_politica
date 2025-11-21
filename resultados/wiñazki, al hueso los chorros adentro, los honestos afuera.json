@@ -1,0 +1,157 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Iba a hablar de otra cosa, pero tras la noticia de Quilmes, voy a parafrasear a Jorge Lanata: voy a hablar de robos, del hecho de que los delincuentes están afuera y los honestos, adentro.",
+      "entidades_detectadas": [
+        "Quilmes",
+        "Jorge Lanata",
+        "Iba"
+      ]
+    },
+    {
+      "frase": "Los ladrones están fuera de las cárceles —esto, obviamente, es una generalización—, y los honestos (otra generalización) estamos confinados en nuestros hogares por el aislamiento obligatorio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El caso de Jorge Ríos, de Quilmes, es muy emblemático, dramáticamente ilustrativo.",
+      "entidades_detectadas": [
+        "Quilmes",
+        "Jorge Ríos"
+      ]
+    },
+    {
+      "frase": "Jorge Ríos fue herrero toda su vida y está jubilado.",
+      "entidades_detectadas": [
+        "Jorge Ríos"
+      ]
+    },
+    {
+      "frase": "Su hija nos contó que él fabricó todas las rejas del barrio para que los vecinos no sufrieran robos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es normal que las casas estén llenas de rejas, aunque en Argentina sí es común.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Jorge Ríos fue robado tres veces la misma noche.",
+      "entidades_detectadas": [
+        "Jorge Ríos"
+      ]
+    },
+    {
+      "frase": "Si alguno de ustedes ha sufrido un robo —espero que no—, sabe lo traumático que es.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le entraron tres veces a su casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora él está en arresto domiciliario por matar a un ladrón, mientras el resto de los delincuentes andan libres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bienvenidos al futuro, porque lo que vendrá después de la pandemia ya está ocurriendo: una profunda crisis económica y social en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Así lo anticipó la titular del Servicio Penitenciario Federal,  Gabriela Garrigós de Rébori, quien, como si fuera una analista de la situación,  predijo un aumento de los delitos violentos y relacionados con el dinero tras la pandemia.",
+      "entidades_detectadas": [
+        "Gabriela Garrigós de Rébori",
+        "Servicio Penitenciario Federal"
+      ]
+    },
+    {
+      "frase": "¿Qué le podrían haber robado a Jorge Ríos, un jubilado y herrero, un trabajador de toda la vida?",
+      "entidades_detectadas": [
+        "Jorge Ríos"
+      ]
+    },
+    {
+      "frase": "Tres veces.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La tercera vez, mientras dormía, lo despertó alguien con un destornillador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estaba armado y, según la investigación —si no me equivoco, Darío Lopreite lo contó—, a unos sesenta metros de la casa, forcejeó con uno de los ladrones.",
+      "entidades_detectadas": [
+        "Darío Lopreite"
+      ]
+    },
+    {
+      "frase": "Ahí, presuntamente, se produjo el disparo que lo mató.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La justicia, a cargo de la fiscal  [Nombre del Fiscal - información faltante en el texto original], considera que Ríos pudo haber cometido homicidio por exceso en la legítima defensa, ya que habría disparado dentro de su casa.",
+      "entidades_detectadas": [
+        "Ríos",
+        "Nombre del Fiscal"
+      ]
+    },
+    {
+      "frase": "Tras un forcejeo, durante el tercer robo,  se encuentra en arresto domiciliario, mientras el fiscal continúa la investigación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para que sea condenado por homicidio por exceso en la legítima defensa, debería haberse probado una clara intención de matar a alguien indefenso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, hubo un forcejeo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un herrero que fabrica rejas en un barrio donde hasta prender las luces se vuelve dramático… esto es solo el comienzo de lo que se avecina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la provincia de Buenos Aires, la delincuencia está aumentando, y paradójicamente, nos estamos quedando sin dinero.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Hay escasez de billetes en Argentina, debido a dos factores, según fuentes oficiales: la baja velocidad de circulación del dinero (quienes pueden sacar dinero no tienen dónde gastar, y muchos lo están guardando) y la falta de billetes de $5000.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Debido a la necesidad de una nueva emisión, el gobierno se ve obligado a contratar imprentas extranjeras para imprimir billetes argentinos, algo que no sucedió ni siquiera durante la hiperinflación de Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Así estamos, enfrentando las consecuencias de una pandemia que, además, aún no ha terminado.",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Darío Lopreite",
+    "Jorge Ríos",
+    "Argentina",
+    "Ahí",
+    "Nombre del Fiscal",
+    "Iba",
+    "Quilmes",
+    "Ríos",
+    "Gabriela Garrigós de Rébori",
+    "Alfonsín",
+    "Así",
+    "Jorge Lanata",
+    "Servicio Penitenciario Federal"
+  ]
+}

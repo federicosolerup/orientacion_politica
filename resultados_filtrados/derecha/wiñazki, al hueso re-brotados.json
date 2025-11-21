@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La situación actual en Argentina parece indicar el comienzo de una segunda ola de COVID-19, con cepas más virulentas que las anteriores.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Sin embargo, el cierre de 90.000 negocios incrementó el desempleo, y actualmente 6 de cada 10 niños en Argentina viven en la pobreza.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Se estima que el mundo necesita 5.000 millones de dosis para alcanzar la inmunidad de rebaño, y Rusia no puede producir más Sputnik V para Argentina a un ritmo más acelerado.",
+      "entidades_detectadas": [
+        "argentina",
+        "rusia"
+      ]
+    }
+  ]
+}

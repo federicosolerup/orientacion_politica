@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El titular, \"Atención: a partir de ahora la AFIP controlará los gastos desde 30.000 pesos con tarjeta de débito\", era engañoso.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "La operatoria consiste en que los bancos deben informar a la AFIP sobre los gastos superiores a 30.000 pesos.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "Esto no implica que la AFIP controle lo que cada persona compra; al contrario, busca que se bancaricen los gastos para facilitar el cobro de impuestos.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "De hecho, si accedes a la página de la AFIP con tu clave fiscal, puedes ver tus consumos con tarjeta.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, no debería sorprender que la AFIP tenga esta información.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    }
+  ]
+}

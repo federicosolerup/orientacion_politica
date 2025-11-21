@@ -1,0 +1,48 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Elegí la nota de *Jorge Fernández Díaz*.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Publicó una nota hoy que se llama \"El triunfo de la Argentina feudal\".",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Y volviendo a este editorial de *Jorge Fernández Díaz*, con esta línea que está marcando de que el pueblo se equivoca y no entiende básicamente lo que está votando, dice: \"El domingo ganó el sistema corporativo que provocó esta catástrofe económica y social.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Tal vez ser un millonario corrupto se haya convertido en una vocación aspiracional de esta nación venal y degradada.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Milei por fuera y Massa por dentro aspiran a encarnar esa aventura.",
+      "entidades_detectadas": [
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Lo que no te dice es todos los que han estado sacando \"platita\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Si vienen siguiendo este programa, saben que nosotros creemos que hay cosas que se tienen que hacer desde el Estado para frenar esto.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

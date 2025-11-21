@@ -1,0 +1,196 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 31,
+      "derecha": 5
+    },
+    "score_promedio": 0.204,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los paros nacionales han sido una de las principales formas de protesta de los trabajadores en Argentina y en todo el mundo.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, en los últimos años, las modificaciones en el mundo laboral han disminuido su impacto, con la fragmentación del mercado laboral y, además, la utilización política de las medidas gremiales a nivel máximo y la corrupción de ciertos dirigentes sindicales, que son otros de los factores que muchas veces desgastan la legitimidad de estas iniciativas.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para introducir la columna de hoy, entonces, de cara al paro general de la CGT convocado el próximo 10 de abril y reflexionar sobre la utilidad de los paros generales y de las huelgas en particular, vamos a escuchar una canción de John Lennon que se llama \"Working Class Hero\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la respuesta del trabajador, de \"rapipero\" o de algunas aplicaciones que estaba en la situación precarizada podría ser más o menos así: \"¿Qué derecho me van a sacar si yo no tengo nada de eso?\".",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que agregar, además, que el 40% del empleo en Argentina es informal, lo que hace que ese 38% sea menos de uno de cada cuatro trabajadores sindicalizado.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si consideramos que somos el segundo país de América Latina en sindicalización, solo después de Uruguay, podemos afirmar, además, que la enorme mayoría de los trabajadores de la región no están agrupados en sindicatos.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina tiene uno de los movimientos sindicales más importantes del mundo, incluso en muchos casos superior a países desarrollados en el hemisferio norte.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestras sociedades han cambiado y el sindicalismo moderno, vale la pena repasarlo, que nace en Europa en el siglo XIX, tras la Revolución Industrial, con el impulso de las fábricas que se multiplicaban y crecían en los centros urbanos, planteando nuevos desafíos políticos y sociales a los habitantes de entonces.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver un breve testimonio, un vídeo, lo vamos a escuchar en radio, que explica de qué se trató el movimiento cartista y luego vamos a avanzar nosotros con el movimiento cartista, que era la Carta del Pueblo.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego se fueron conquistando gradualmente derechos civiles que transformaron la estructura social y permitieron otro tipo de trabajo político y parlamentario que antes estaba vedado para los trabajadores.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso anticasta que generó una gran parte de la ciudadanía termine simpatizando con Javier Milei, encuentra una de sus representaciones más cabales en cierta vigencia sindical que se ha alejado del modo de vida de sus afiliados, tienen negocios en el exterior, es millonaria y, por momentos, más que corrupta y piensa más en la conveniencia personal a la hora de realizar las medidas de lucha que en las verdaderas necesidades de sus representantes e inclusive en las conveniencias del sindicato como institución, más que de sus representados.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La CGT ha sido siempre más dura con los gobiernos no peronistas.",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cabe mencionar que Alfonsín solo enfrentó nada más y nada menos que 13 paros generales y que Alberto Fernández, aún siendo de los gobiernos recientes, donde finalmente, los últimos años, con el crecimiento de la inflación cayó el poder adquisitivo, no tuvo ninguna huelga general en su contra.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando en el año 2003, el kirchnerismo, como esto, comenzó a mostrar signos de agotamiento, Cristina hablaba de los trabajadores privilegiados por tener salario en blanco que debían colaborar con un impuesto, o sea, el impuesto a las ganancias a quienes no tenían trabajo, y con Hugo Moyano al frente de la CGT, llamó a una huelga general para el 27 de octubre con la consigna principal que era en contra del impuesto a las ganancias en la cuarta categoría.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver cómo fue esa convocatoria de Hugo Moyano el 27 de octubre.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí con la producción, qué lejano que parece esto en esa época.*\n\nTambién, Moyano insistía que tenía que haber un presidente obrero.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me recuerdo que Cristina Kirchner, trabajadora, que contestó que era trabajadora y los dos estaban hablando totalmente fuera de registro en la comparación que ponían en la Lula.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lula sí era un trabajador, tiene un dedo cortado por una máquina, nació en una situación de extrema pobreza, no comían, no tenía las tres comidas en su casa por día, vino desde el nordeste hasta San Pablo parado, parado en un camión.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en el 2016, Hugo Moyano se corrió del puesto principal de la central, fue reemplazado por un triunvirato conformado por Carlos Acuña, Héctor Daer y Juan Carlos Schmid.",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta conducción le imprimió un carácter de mayor conciliación con el gobierno Macri, tratando de evitar medidas de luchas directas.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, en marzo de 2017, durante un acto, sufrieron el desborde de las agrupaciones sindicales y trabajadores que le exigían un paro general por la pérdida de poder adquisitivo, achatándole a esta conducción de la CGT de ser colaboracionista con el gobierno.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están reclamando a la CGT que ponga fecha para el paro general.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juan Carlos Schmid se acaba de retirar de esa manera ante los insultos de la gente.*\n\nBueno, y finalmente le puso la fecha.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*La CGT va a declarar paro de 24 horas.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchémoslo.*\n\n*Finalmente le meten la mano en el bolsillo a los trabajadores, al futuro de los trabajadores activos y condena a la sobrevivencia y a la miseria a los actores jubilados, nunca ha tenido nuestra aprobación y, obviamente, los rechazamos de plazo en todos sus términos.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que saber que nosotros, alrededor de esta situación, sabemos que ha habido un acuerdo a nivel de las gobernaciones y a nivel del Senado de la Nación, que naturalmente nosotros no compartimos, de modo tal que la Confederación General del Trabajo seguramente declarada a partir de este momento en sesión permanente, va a seguir de cerca todos los acontecimientos y, para el día de mañana, está acompañando y avalando todas las expresiones sociales sindicales que se van a manifestar frente al Congreso y va a declarar un paro de 24 horas después que se inicie el tratamiento y la eventual aprobación de la ley de reforma previsional.*\n\nLlama la atención que, durante el gobierno de Alberto Fernández, en los trabajadores, como yo decía, fundamentalmente, los dos últimos años, con el incremento de la inflación sufrieron retrocesos en su salario real, no tuvo ningún paro general, cuando sí los tuvo Cristina Kirchner.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No habla algo de Alberto Fernández de su capacidad negociadora, sin ninguna duda.",
+      "score": 0.447,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, la CGT no realizó, como decíamos, ningún paro general durante su gestión y sí lo realizó durante los de Cristina.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Así, Sergio Massa diciendo: \"El salario no es ganancia, es remuneración\".",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí, para mí, para mí, el salario no es ganancia, el salario es remuneración, es el pago por el trabajo y el esfuerzo que hace cada trabajador a lo largo del día, de su semana, del mes y de alguna manera era vergonzoso que en un país donde promovemos el trabajo, los trabajadores paguen impuesto a las ganancias y hemos decidido enviar al Congreso Nacional una ley que elimina la cuarta categoría de impuesto a las ganancias para todos los trabajadores, para todos los trabajadores y jubilados y jubilados de la Argentina.*\n\nEntonces, a pesar de que muchas veces los trabajadores sindicalizados adhieren a las medidas convocadas por sus dirigentes para hacer sentir su reclamo, lo cierto es que muchos sindicatos poseen un gran desprestigio, incluso entre sus propios afiliados.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Heraldo, en el canal de streaming Gelatina, cuando Pedro Rosemblat le preguntó por qué la CGT no apoya las marchas de jubilados.",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que no hay que hacer es confundir el enemigo o el adversario, no hay que confundirlo, hay que tener en claro hacia dónde se camina y cuando los objetivos son superiores, hay que pensar en esos objetivos superiores y no los matices de interpretación de ansiedades que a veces tenemos todos en la política.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De paso le mandamos un mensaje a Daer, que lo estamos llamando desde hace tres días y nos gustaría que hoy o mañana lo pudiéramos entrevistar.*\n\nEsta entrevista fue hace 10 días y probablemente en un contexto político y social distinto, después de la marcha pacífica del miércoles anterior y de la enorme marcha pacífica del lunes 24 de marzo.",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los motivos de la CGT pueden tener legitimidad, pero la falta de consecuencia en ciertos dirigentes puede quitarle argumentos y dejarle servido al gobierno para deslegitimar sus medidas de lucha y desprestigiar los reclamos.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno nacional adelantaron que mantendrán una posición inflexible ante la protesta gremial y le fijaron de altamente político el paro nacional.",
+      "score": 0.447,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo, creo que a la Casa Rosada le conviene enfrentarse con los sindicalistas.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 36
+  },
+  "etiqueta_original": "neutral"
+}

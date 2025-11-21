@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Estábamos con el equipo de cámara y fue una nota nada sencilla.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Primero, vamos a escuchar a Jey Mammón hablando de su estado actual.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "*(Se reproduce un audio de Jey Mammón)*\n\n—Se lo notaba afectado, justificando su estado y reacciones.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

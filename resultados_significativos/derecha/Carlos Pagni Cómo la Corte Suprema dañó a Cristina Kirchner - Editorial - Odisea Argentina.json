@@ -1,0 +1,501 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 42,
+      "derecha": 55
+    },
+    "score_promedio": 0.513,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "La cadena se corta siempre por el eslabón más inseguro, por el eslabón más débil, y esta coalición que gobierna la Argentina empieza a mostrar una fisura importante.",
+      "score": 0.439,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández pretende dar vuelta la página de una gran crisis institucional que viene de años en la Argentina y que tiene que ver, sobre todo, con la calidad del poder judicial, del Ministerio Público, de las fiscalías, de la vinculación entre todo ese universo y los servicios de inteligencia, y la vicepresidenta que se considera víctima de una persecución judicial y le pide al gobierno actuar para que se limpie el terreno judicial que la afecta a ella y que afecta, sobre todo, a su familia, a sus hijos.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el centro de este problema está el fallo que emitió la Corte Suprema de Justicia referido a la situación de dos camaristas que fueron trasladados de tribunales orales a la Cámara Federal de la Ciudad de Buenos Aires: los doctores **Bruglia** y **Bertuzzi**, dos jueces, dos funcionarios judiciales desconocidos que de golpe, por toda esta situación política que rodea la peripecia judicial de la vicepresidenta, se ven ahora consagrados, probablemente muy a pesar de ellos, por la fama.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué el fallo de la Corte afecta tanto a Cristina Kirchner?",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella considera, como considera Lula da Silva, como considera Rafael Correa, como considera Maduro, que la justicia la persigue como instrumento de todo un aparato de poder, no porque durante su gobierno y el de su esposo se hayan cometido delitos, no porque haya aparecido José López con nueve millones de dólares y una ametralladora en un convento, no porque haya habido un registro infinito de coimas minuciosamente contadas en los cuadernos de Centeno, no por las coimas que el propio Ricardo Jaime confesó haber recibido, no, la persigue por haberse metido con intereses muy poderosos del sistema financiero, de las empresas exportadoras y de los medios de comunicación.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A eso ella lo llama *lawfare*, una persecución arbitraria que en la vieja doctrina penal se le llamaba el derecho penal del enemigo, un derecho penal arbitrario hecho a la medida de la persecución de un enemigo, que sería ella.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri, que fue el ejecutor político de esa persecución del *lawfare*, fue a buscar a dos camaristas que cubrieran las vacantes que el propio Macri había provocado en la Cámara Federal: **Pablo Cayssials**, Eduardo Freiler, Eduardo Farah, tres camaristas que se fueron por distintas razones, y Macri va a buscar a dos jueces ligados a él o ligados a su abogado para cubrir esas vacantes de la Cámara Federal y de manera arbitraria perseguir a Cristina Kirchner.",
+      "score": 0.43,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso a Cristina Kirchner le interesaba fundamentalmente, y eso es lo que empiezan a ejecutar sus representantes en el Consejo de la Magistratura, demostrar que Bruglia y Bertuzzi habían sido puestos por Macri de manera arbitraria, evitando el acuerdo del Senado que jamás hubieran obtenido si hubieran ido por la vía que correspondía.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner ahora se ve privada de un argumento principal.",
+      "score": 0.873,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella podría haber ido al Tribunal Oral, a la propia Corte, a decir: \"A mí me juzgaron arbitrariamente porque la Corte dijo que Macri había puesto a esos dos jueces, Bruglia y Bertuzzi, de manera incorrecta\", y la Corte la ha privado de ese argumento, que era central para después cuestionar los pronunciamientos de esos camaristas, entre ellos el procesamiento en la causa *cuadernos*.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que tiene tan irritado el núcleo íntimo de Cristina Kirchner.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Tienen el mismo compromiso que nosotros en esta cuestión que hace a la persecución contra Cristina Kirchner?\".",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que ha provocado, no solamente que desde el entorno de Cristina se critique a la Corte –hay que recordar que Leopoldo Moreau ya había hecho una caracterización muy negativa de los cinco jueces de la Corte, previendo que no iban a venir buenas noticias–, sino que alguien tan calificado y tan gravitante en el mundo kirchnerista como Horacio Verbitsky, desde su página, *El cohete a la luna*, haya escrito una nota también que bordea lo insultante respecto de estos jueces, donde adelanta que la Comisión Veraldi va a proponer la ampliación de la Corte, y el propio Verbitsky sugiere que, ya que se va a ampliar, se incorporen cuatro mujeres para que haya cuatro varones y cinco mujeres.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, en el caso del juez Rosatti, le reprocha a Rosatti tener un colaborador, Silvio Robles, que es colaborador de Rosatti desde la época en que Rosatti era ministro de Néstor Kirchner, diciendo que antes había trabajado para Ricardo Jaime.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, donde el kirchnerismo duro, Cristina Kirchner, se siente desamparada o siente que hay un escasísimo compromiso de la ministra de Justicia, que es la socia de toda la vida de Alberto Fernández, se inscribe el problema del procurador general de la Nación, que es hoy la piedra donde descansa este equilibrio inestable, cada vez más inestable, entre la Casa Rosada y el Instituto Patria, o, mejor dicho, la Casa Rosada y la Presidencia del Senado.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién es el procurador general de la Nación como figura, el titular del Ministerio Público?",
+      "score": 0.435,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el que puede decir: \"A esta causa le vamos a sacar a este fiscal y vamos a poner a este otro\".",
+      "score": 0.639,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el que le puede decir al fiscal: \"Acá acusa, acá deja de acusar\", por ejemplo, a los fiscales que van a acusar o dejar de acusar a Cristina Kirchner en los juicios orales y a todos los funcionarios que están involucrados en causas de corrupción.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entre otras personas, por ahí tiene que pasar Cristina Kirchner con sus causas, quiere decir que la designación del procurador general de la Nación es importantísima, pero mucho más importante es ahora para ella cuando descubre que la Corte no responde a lo que ella esperaba.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reproches que Moreau le hace a **Rosatti**, pero que ella, en realidad, le tendría que hacer a Wado de Pedro, porque el operador real del oficialismo delante de la Corte es el ministro del Interior.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese operador que Fernández nos decía que no quería tener es el ministro del Interior.",
+      "score": 0.48,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina está viendo los comportamientos de la Corte.",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La semana pasada fue debido, pidiendo que se revise una pericia en el caso de la compra de trenes chatarra, que es una causa donde él se lo está juzgando, del mismo modo que Cristina pide que en la causa por la obra pública de Santa Cruz se revise una pericia y la Corte le dijo no, no, cuando llegue acá el tema, mientras tanto, que te juzgue el Tribunal Oral.",
+      "score": 0.237,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto hace que para Cristina Kirchner la figura del procurador se vuelva estratégica, mucho más importante que antes.",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, Alberto Fernández tiene una expectativa, tiene un proyecto.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesita dos tercios del Senado para aprobarlo.",
+      "score": 0.639,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto Fernández quiere aprobarlo con los dos tercios.",
+      "score": 0.754,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería un éxito llamativo que en el clima de polarización de la Argentina actual, en temas que tienen nada menos que ver con las acusaciones de corrupción, el Presidente logre un acuerdo con la oposición para decir quién es el que acusa.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso está negociando Alberto Fernández con la oposición los dos tercios para Rafecas y el nuevo estatus institucional que va a tener el procurador, cuánto tiempo va a durar, si va a dejar de ser vitalicio, etc.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el Congreso empieza a haber conversaciones con gente del Senado.",
+      "score": 0.479,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández quiere avanzar hacia este objetivo que lo mostraría a él como un hombre muy distinto del kirchnerismo clásico en el campo institucional.",
+      "score": 0.391,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Cristina Kirchner y en los senadores y senadoras que rodean a Cristina Kirchner que dicen: \"No, acuerdo no.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo creo que los que tienen problemas judiciales están pensando con Cristina Kirchner a la cabeza.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la Corte me trata como me está tratando y le dio el argumento a Macri de decir: \"Acá no hubo persecución política, es mentira que son los jueces que me trajo perechada para perseguir a Cristina, los nombré correctamente\", ¿qué debo esperar si ahora el procurador va a ser pactado entre Alberto Fernández y en el fondo Macri?",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Carrió ya dijo: \"Yo quiero bendecir este acuerdo porque no quiero que el procurador lo ponga Cristina para perseguir a la oposición\".",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los radicales empiezan a plegarse a la postura de Carrió, Horacio Rodríguez Larreta y María Eugenia Vidal también.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Macri dice: \"Si hay un acuerdo, tiene que ser un acuerdo sobre todo el régimen institucional\", pero no está diciendo del todo no.",
+      "score": 0.295,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora dice algo más: \"Que venga una oferta\", dice Macri, \"de todo el oficialismo\", es decir: \"Fernández, no te pongas de acuerdo conmigo en contra de Cristina, ponete de acuerdo con Cristina y convencela a ella de que quiere un acuerdo\".",
+      "score": 0.606,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, hoy no hay dos actores, hay tres actores y una quiebra importante entre Alberto Fernández y Cristina Kirchner en un tema tan importante como este.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si mañana el Senado aprueba una ley que reduce los dos tercios, y mucho más si no es Raffecas el candidato, el propio Rafecas, digo yo, \"no quiero ser procurador si no es con dos tercios, yo quiero surgir de un acuerdo con la oposición\", lo que vamos a tener es una degradación importantísima de la autoridad del Presidente que va a estar mirando el Poder Judicial, la sociedad en su conjunto, el Fondo Monetario Internacional, los inversores, los sindicatos, los gobernadores.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Oscar Parrilli fue al acto de homenaje a Néstor Kirchner al que se negó a ir Cristina Kirchner, y Alberto Fernández tuvo palabras cariñosas para Oscar Parrilli y después lo invitó a almorzar.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un mensaje cifrado para Máximo Kirchner, que hasta ahora era él el que ejercía esa intermediación entre Fernández y Cristina, que desde hace tiempo no se hablan.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es el único mensaje de Alberto Fernández para Máximo Kirchner.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner está armando con La Cámpora una cantidad de candidaturas en el Conurbano bonaerense para quedarse con intendencias, aprovechando que los intendentes tienen dos reelecciones y después tienen que dejar un período libre.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, de Avellaneda, les dijo el otro día: \"Eso de la limitación a las reelecciones habría que revisarlo\".",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le está hablando a los intendentes en contra de La Cámpora, por ahora.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el viernes pasado, en Lomas de Zamora, que es un distrito importantísimo de la tercera sección electoral, es nada menos que el distrito de Duhalde, es el distrito de Insaurralde, que fue el candidato de Cristina en la provincia.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le está tirando un centro, está haciendo un gesto hacia Juntos por el Cambio, o es Insaurralde que arma su propio partido por si avanza La Cámpora sobre su distrito.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se rompe la relación entre Insaurralde y Máximo Kirchner.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En todo este juego está la voz del presidente que le dice a los intendentes: \"Olvídense de La Cámpora, busquen su propia reelección\".",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "se la hace también el Fondo Monetario Internacional, después vamos a hablar con Marcos Buscalia de las negociaciones que empiezan mañana.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Implica un ajuste que ya le anticipó, como contamos el lunes pasado, Guzmán a los empresarios.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese presupuesto que mandó al Congreso no va a ser el presupuesto que le va a presentar al fondo.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese presupuesto que mandó al Congreso tiene un déficit de 4,5 y él pretende presentarle al fondo uno de menos de 4 puntos, posiblemente 3,9.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si es que el fondo no le pide uno de 3 puntos del producto como déficit.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Todos mis compromisos de ajuste con el fondo los va a sacar el Congreso\".",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando dice: \"El acuerdo con el fondo lo va a aprobar el Congreso\", lo que quiere decir es: \"Quédense tranquilos en Washington.",
+      "score": 0.516,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Congreso es Cristina.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿El fondo se quedará tranquilo con esa promesa?",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una oficina presupuestaria en el Congreso, es la que controla el presupuesto que emite un informe, y emite un informe sobre todos los artículos que se incorporaron al presupuesto que Guzmán le mandó a Massa, a Sergio Massa, presidente de la Cámara de Diputados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De esos artículos hay algunos donde es evidente que hay fenomenales negocios, y otros tienen que ver con intereses específicos de Massa y de la familia Massa.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Lo sabe Alberto Fernández?",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta más importante, ¿lo sabe Cristina Kirchner, que esta semana tiene que tratar ese presupuesto?",
+      "score": 0.681,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se aumenta en 0,5% el impuesto sobre seguros del automotor para crear un fondo de 1.500 millones de pesos que lo va a manejar la Comisión Nacional de Regulación del Transporte, que controla el señor José Ramón Arteaga, del Frente Renovador, un platense de Massa.",
+      "score": 0.226,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa arma un fondo con un impuesto que va a pagar usted si paga el impuesto del auto, y no lo va a manejar la Superintendencia de Seguros, sino que lo va a manejar la Comisión de Transporte, que como a Massa le asignaron toda el área de transporte dentro del gobierno, lo maneja alguien de Massa.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso también lo agregó Massa y se lo va a administrar la Superintendencia de Seguros.",
+      "score": 0.273,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro fondo que arma Massa para administrar él a través de sus allegados.",
+      "score": 0.605,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para cualquier empresa que tenga 80% de participación del Estado Nacional se le baja el impuesto al cheque.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene una excepción, que es un regalo que se le baja a la Comisión de Regulación del Transporte.",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un regalo que le hace Sergio Massa a su esposa, Malena Massa.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado se desfinancia para que Aisa pague menos impuestos.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero hay dos novedades mucho más importantes para Cristina Kirchner, esto.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri se los había bajado a cero.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora Massa los vuelve a aumentar.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos si es de Alberto Fernández.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gerardo Morales es viejo socio político de Massa.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted va a pagar ahora por cualquier electrónica que compre 6% más, que es un impuesto que le puso Massa.",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero a lo importado, si usted se compra un celular importado, no hay que tener mucha imaginación para imaginar una marca, el impuesto pasa de 5,5%, que es el que tenía puesto por Macri, a 17%.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le aumenta el 300% a ese impuesto por el importado.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Qué curioso que el día antes o días antes de que se apruebe esto, el señor Nicolás Caputo, el hermano de la vida de Mauricio Macri –que lo ve acá detrás de mí en la foto con Macri– compró Varaystar, que es una de las grandes empresas que le faltaba el completar para la fabricación de celulares!",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gran negocio de Nicolás Caputo que compra y después recibe esta ventaja.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Va a ser delicioso ver a Cristina Kirchner aprobarle un negocio a Caputo de esta naturaleza en el Senado.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Scioli enfrentó a Macri, Caputo recaudaba para Macri, Cherniahovsky recaudaba para Scioli.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que visitó, al poco tiempo de haber inaugurado la presidencia, Alberto Fernández.",
+      "score": 0.576,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fenomenal negocio entonces que le armó Massa a la –comillas, comillas, comillas– industria de electrónicos de Tierra del Fuego.",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la empresa tiene inversiones genuinas en el país, por ejemplo, pensemos por casualidad, supongamos que la empresa invirtió en un gran salón de juego en Rosario o en el hipódromo de Palermo.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un momento en que en la ciudad de Buenos Aires y en la provincia de Buenos Aires se está compitiendo una licitación por el juego *online*, la licitación se armó en la Cámara de Diputados.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La dirige un señor muy prestigioso, Néstor Tognetti, que viene del INVAP.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese es el que va a armar la caja del 5% de este impuesto nuevo que se acaba de aprobar en el presupuesto de la Cámara de Diputados.",
+      "score": 0.673,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Sabrá Cristina todo esto?",
+      "score": 0.611,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece haber ahora algo nuevo en la Argentina: el costo Massa, que lo pagamos entre todos, con artículos que le agregan el presupuesto.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Sabrá Máximo Kirchner, que es su socio en el Congreso?",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, Massa está armando una especie de gabinete dentro de la Cámara de Diputados.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la Oficina de Control Presupuestario le va a agregar una de salud, seguramente habrá gente de los laboratorios que va a ir a ofrecer servicios para mejorar la visión que tiene la Cámara de Diputados del tema de salud, como si no hubiera una comisión de salud, y una oficina de ciencia y tecnología.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De a poco, va a ir armando Massa su gabinete en la Cámara de Diputados, como si hubiera una especie de gobierno parlamentario, de gabinete en las sombras, de gobierno paralelo, con un presupuesto propio.",
+      "score": 0.768,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta ahora la pregunta de la Cámara de Diputados es: ¿manda Cristina o manda Alberto?",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con él vamos a hablar de las elecciones en Estados Unidos, de qué le cambia al mundo en materia económica y a la Argentina en particular, el triunfo de Biden.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 97
+  },
+  "etiqueta_original": "neutral"
+}

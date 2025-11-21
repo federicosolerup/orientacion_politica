@@ -1,0 +1,67 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Luciano Fusaro, vicepresidente de la cámara empresaria, mencionó que no recibieron todo el dinero, solo la mitad.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "La información que tenemos del gabinete indica que los subsidios fueron transferidos, pero que la empresa los usó para otros fines y ahora solicita más.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Jorge Rial: Cambiando de tema, el domingo hay un acto importante relacionado con el gasoducto Néstor Kirchner.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Los periodistas preguntan por la \"foto de unidad\", pero nosotros vemos la importancia de que el Presidente Alberto Fernández, la Vicepresidenta Cristina Fernández de Kirchner y el Ministro Sergio Massa —quienes lideraron este proyecto en diferentes momentos— estén juntos.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "massa",
+        "cristina",
+        "presidente",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Si YPF no tuviera el control del Estado en Vaca Muerta, esta obra no sería posible.",
+      "entidades_detectadas": [
+        "ypf",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Recuerdo cuando anunciamos la licitación en abril de 2022: algunos solo se centraban en las críticas a Alberto Fernández, sin comprender la importancia de este proyecto para cambiar la matriz energética de Argentina.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Con la llegada de Sergio Massa al Ministerio de Economía, la obra se completó en ocho meses, un tiempo récord.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    },
+    {
+      "frase": "Argentina está a punto de cambiar su matriz productiva, algo trascendental.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En 2020, la pandemia y la necesidad de un acuerdo con el FMI impidieron un avance más rápido.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    }
+  ]
+}

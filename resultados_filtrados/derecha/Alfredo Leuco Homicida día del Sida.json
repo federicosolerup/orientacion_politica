@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Inmediatamente se acordó de ese fin de semana que pasó en El Tigre con Alberto y Sergio, en medio de tanta pasión y besos.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Dice sabiamente que el daño provocado por el aislamiento y la marginación repercute directamente en el estado inmunológico de la persona discriminada.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El tratamiento evita que se replique el VIH, no cura la infección, pero evita que el virus se multiplique y que destruya las defensas del cuerpo.",
+      "entidades_detectadas": [
+        "evita"
+      ]
+    }
+  ]
+}

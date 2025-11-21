@@ -1,0 +1,321 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto presenta varios problemas de ortografía, cohesión y coherencia, además de inconsistencias en los nombres propios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La transcripción de la entrevista también parece incluir algunos errores o imprecisiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A continuación, una versión corregida con las mejoras posibles, considerando las limitaciones de no tener acceso a la fuente original para verificar los nombres y detalles específicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Texto Corregido:**\n\nJosé Urtubey, ex vicepresidente de la Unión Industrial Argentina (UIA), dialogó con nosotros esta mañana.",
+      "entidades_detectadas": [
+        "Texto Corregido",
+        "UIA",
+        "Unión Industrial Argentina",
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Buenos días, José.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "**José Urtubey:** Buenos días, Jorge.",
+      "entidades_detectadas": [
+        "Jorge",
+        "Buenos días",
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Un gusto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:**  Recién el ministro Caputo habló de reactivación económica.",
+      "entidades_detectadas": [
+        "Caputo",
+        "Jorge Rialde",
+        "Recién"
+      ]
+    },
+    {
+      "frase": "¿Se nota en la realidad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**José Urtubey:**  Sí, participo en este Congreso Latinoamericano del Foro Latinoamericano de Finanzas.",
+      "entidades_detectadas": [
+        "Congreso Latinoamericano del Foro Latinoamericano de Finanzas",
+        "Sí",
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Creo que los desafíos siguen pendientes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buscar el equilibrio macroeconómico requiere trabajar en los equilibrios microeconómicos, considerando el impacto en los distintos sectores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí reside la tarea pendiente: la convergencia entre macro y microeconomía es el desafío argentino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:** Le falta un poco en el día a día, ¿no?",
+      "entidades_detectadas": [
+        "Le",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "Se nota una fuerte mirada en la macroeconomía, pero falta atención a la micro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien la reactivación de la microeconomía depende de un equilibrio macro, se necesita una hoja de ruta, un modelo claro de impacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un país federal requiere equilibrio territorial, lo que nos lleva a la discusión sobre los recursos provinciales y la coparticipación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La agenda en cuanto a equilibrios sustentables – social y políticamente – aún está en veremos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**José Urtubey:** La ley base es una herramienta normativa, pero lo fundamental es la confianza para atraer inversión extranjera y local.",
+      "entidades_detectadas": [
+        "La ley",
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "La sustentabilidad requiere observar índices macro, micro, sociales y políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina se basa en cinco sectores: energía, minería, agroindustria extensiva, tecnología y turismo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Pero con 46 millones de habitantes,  el mercado interno necesita atención; no podemos dejarlo a la espontaneidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que estimularlo, al igual que a los proveedores locales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:** Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "Andrés Lerner",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "Volviendo a lo que dijo Caputo sobre la recuperación ya en marcha… ¿qué observas?",
+      "entidades_detectadas": [
+        "Caputo"
+      ]
+    },
+    {
+      "frase": "No se ve claro de dónde vendrá la recuperación, pues la inversión estatal parece escasa y la vía del consumo vía ingreso está muy limitada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con la caída del empleo y la masa salarial, no se entiende muy bien el panorama.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablamos de una recuperación real, al menos a los niveles de noviembre de 2023 (que ya eran bajos).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo la ves?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**José Urtubey:**  Eventualmente habrá una recuperación, si se logra un trabajo conjunto, equilibrio macro-micro.",
+      "entidades_detectadas": [
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Pero no será una recuperación rápida (\"V\" en forma de gráfico).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La veo más bien en forma de \"L\" (lenta y gradual).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:** Para los no economistas, ¿qué significa eso?",
+      "entidades_detectadas": [
+        "¿",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "**José Urtubey:**  Una recuperación \"V\" es rápida y segura.",
+      "entidades_detectadas": [
+        "segura",
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Yo veo una recuperación más gradual,  quizás una meseta a partir del nivel actual de actividad, muy bajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:** Funes de Rioja (UIA) se reunió con Guillermo Francos y no ven brotes verdes.",
+      "entidades_detectadas": [
+        "UIA",
+        "Funes de Rioja",
+        "Guillermo Francos",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "¿Coincidís?",
+      "entidades_detectadas": [
+        "¿Coincidís"
+      ]
+    },
+    {
+      "frase": "**José Urtubey:** Todavía no hay un impacto significativo porque se está trabajando en el equilibrio macro, pero eso no alcanza sin estímulo a la microeconomía y la evitación de errores no forzados (por ejemplo, en el sector energético).",
+      "entidades_detectadas": [
+        "Todavía",
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Los cortes de gas afectaron a industrias en Santa Fe, Buenos Aires y Córdoba.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Córdoba",
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "**Jorge Rialde:** El Presidente se molesta al hablar de un plan productivo.",
+      "entidades_detectadas": [
+        "Jorge Rialde",
+        "El Presidente"
+      ]
+    },
+    {
+      "frase": "¿Te preocupa que se desista de esa idea?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**José Urtubey:**  El gobierno necesita un plan productivo que vaya más allá de esos cinco sectores.",
+      "entidades_detectadas": [
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "Debe incluir políticas industriales y productivas del interior y las economías regionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:** ¿Ves una visión federal en el gobierno?",
+      "entidades_detectadas": [
+        "¿Ves",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "**José Urtubey:**  Necesita una mayor amplitud, por ejemplo, en la coparticipación, que necesita una norma desde 1994.",
+      "entidades_detectadas": [
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "La Argentina ha subsistido con parches y pactos fiscales.",
+      "entidades_detectadas": [
+        "La Argentina"
+      ]
+    },
+    {
+      "frase": "Recortar la distribución discrecional desfinancia a las provincias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rialde:**  ¿Cómo se maneja una meseta con millones de personas en riesgo de caer al sistema por temas de hambre y pobreza?",
+      "entidades_detectadas": [
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "**José Urtubey:** Se necesitan mecanismos de contención social y políticas que impulsen otros mercados más allá de los cinco sectores mencionados.",
+      "entidades_detectadas": [
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "**Jorge Rialde:**  José, gracias por tu tiempo.",
+      "entidades_detectadas": [
+        "José",
+        "Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "**José Urtubey:** El gusto fue mío.",
+      "entidades_detectadas": [
+        "José Urtubey"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Caputo",
+    "Congreso Latinoamericano del Foro Latinoamericano de Finanzas",
+    "Buscar",
+    "Andrés Lerner",
+    "Funes de Rioja",
+    "Guillermo Francos",
+    "Córdoba",
+    "¿Coincidís",
+    "La Argentina",
+    "José",
+    "Texto Corregido",
+    "UIA",
+    "Buenos días",
+    "Argentina",
+    "Debe",
+    "Santa Fe",
+    "Recién",
+    "La ley",
+    "Recortar",
+    "Unión Industrial Argentina",
+    "José Urtubey",
+    "El Presidente",
+    "Buenos Aires",
+    "Le",
+    "¿",
+    "segura",
+    "Todavía",
+    "¿Ves",
+    "Jorge Rialde",
+    "Jorge",
+    "Sí"
+  ]
+}

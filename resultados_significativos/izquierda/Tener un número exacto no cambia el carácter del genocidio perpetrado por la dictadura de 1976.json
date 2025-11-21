@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 17,
+      "derecha": 4
+    },
+    "score_promedio": 0.229,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Rafael Lemkin, un profesor polaco de origen judío que abandonó su país huyendo del Holocausto, publicó en 1944 su libro *El Poder del Eje en la Europa Ocupada*, en el que expuso todas las atrocidades cometidas por Hitler para exterminar al pueblo judío.",
+      "score": 0.555,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El informe Whitaker de las Naciones Unidas también calificó la persecución del Bahaísmo en Irán como un genocidio, a pesar de que el hecho de que el gobierno hubiera asesinado a 202 practicantes hasta 1996 es un número de vidas que no resulta significativamente alto, pero aun así fue calificado de genocidio.",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es una de las razones por la que la discusión que impulsa el gobierno de Javier Milei acerca de si el número exacto de desaparecidos es 30.000 o es menos, le quita profundidad a lo que pasó en este país durante la última dictadura.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y luego vienen y les escriben otros libros, les dan otra cultura y les inventan otra historia.",
+      "score": 0.525,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces la nación comienza otra vez a olvidar lo que es y lo que ha sido.” Esto lo dice Milan Kundera, un escritor checoslovaco, en su libro *Sobre la risa y el olvido*.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Robin explicó que el Estado Mayor Argentino propuso en 1959 un acuerdo para que expertos franceses en la llamada \"guerra antisubversiva\" dictaran cursos y fueran asesores pagados por el ejército argentino.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La misión francesa permanente en Buenos Aires, compuesta por veteranos de la guerra colonial de Argelia, se mantuvo hasta 1981 con el apoyo de los gobiernos de Argentina y Francia en aquel entonces.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que traemos sobre las conclusiones de los militares franceses que le transmitieron a los militares argentinos nos hace pensar que el grado de preparación del plan de exterminio de la dictadura militar necesitó muchos años de cursos para poder prepararlo.",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Frente a esto, el presidente Milei planteó que lo que hubo durante la dictadura fue una guerra.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Javier Milei diciendo: \"No fueron 30.000 los desaparecidos.",
+      "score": 0.238,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para nosotros, durante los 70s hubo una guerra y en esa guerra las fuerzas del Estado cometieron excesos.",
+      "score": 0.391,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estuve, como dije, detenido ilegalmente en el centro El Olimpo y luego fui puesto a disposición del Poder Ejecutivo Nacional.",
+      "score": 0.223,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo un genocidio utilizando las herramientas del Estado contra un sector de la población.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había sido una polémica en aquel momento, cuando un funcionario del gobierno de Macri había dicho que en realidad eran menos de 9.000.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo que siguió fue una matanza feroz para quebrar todo sentido de participación política, de reivindicaciones sociales, todo ese estado de emergencia y de lucha que no pasó por la lucha armada y que apagó la presencia de la gente.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay algo que, increíblemente, se ha escurrido en este retroceso que estamos teniendo en estos años, que son las características particulares que tuvo la represión del terrorismo de Estado respecto de otras tragedias políticas.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si el Estado reprimió de manera clandestina e ilegal, y los cuerpos los sustrajo y la información no la dio, la cifra abierta no es solo que no sabemos.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una exigencia de la respuesta.” Allí le estaba respondiendo a lo pérfido que era el funcionario en el gobierno macrista que había puesto en duda la cantidad de 30.000.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pongamos un número, pongamos 5.000, la sociedad argentina cambiante, no se hubiese bancado los fusilamientos.",
+      "score": 0.787,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se pensó en su momento dar a conocer las listas, pero luego se planteó que, si se dan por muertos, enseguida vienen las preguntas que no se pueden responder: ¿Quién mató, dónde y cómo?",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[…],  que hubiera sido sólo una igualmente sería grave y las víctimas de aquella tragedia finalmente fue toda la población argentina que en aquel momento tenía 26 millones de habitantes.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

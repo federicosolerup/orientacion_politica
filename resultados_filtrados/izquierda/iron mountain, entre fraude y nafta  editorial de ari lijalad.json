@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Si bien YPF y el gobierno anunciaron la normalización del abastecimiento, priorizando las zonas urbanas,  la situación revela la influencia de las grandes empresas petroleras.",
+      "entidades_detectadas": [
+        "ypf"
+      ]
+    },
+    {
+      "frase": "La gestión de esta crisis también se relaciona con la posición política de Sergio Massa, principal candidato a la presidencia tras la primera vuelta electoral.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Finalmente, cabe mencionar las denuncias de posible fraude electoral por parte de La Libertad Avanza, el partido de Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Esta campaña se basa en una página web fraudulenta que permite realizar denuncias anónimas, y es impulsada por Fernando Cerimedo, un personaje ligado a las campañas de Jair Bolsonaro y  actual responsable de las redes sociales de Milei.",
+      "entidades_detectadas": [
+        "bolsonaro"
+      ]
+    },
+    {
+      "frase": "Esta estrategia, ya empleada por Bolsonaro y Trump, busca deslegitimar los resultados electorales.",
+      "entidades_detectadas": [
+        "bolsonaro"
+      ]
+    }
+  ]
+}

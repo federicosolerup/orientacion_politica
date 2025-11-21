@@ -1,0 +1,101 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 6
+    },
+    "score_promedio": 0.452,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Titulamos la apertura de este programa con la CGT como \"jambles\" (enigmático, confuso).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supongo que la CGT no analizó realmente qué está haciendo, pero el término se llama \"aporía\", que es una dificultad en el razonamiento, que viene del griego.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hicimos un recuento de distintos paros nacionales y manifestaciones de la CGT a lo largo de los años, pero vamos a empezar desde la llegada de la democracia.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar con uno de los tres paros que Saúl Ubaldini le hizo al presidente, el primer presidente constitucional, Raúl Alfonsín.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego abordaremos los gobiernos de Menem, Kirchner y Macri, hasta llegar a la actualidad.",
+      "score": 0.196,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos sido bien claros, citados por el gobierno para hacer las promesas y para luego querer cambiar el léxico de nuestro pueblo, abandonando los marcos y hablándonos de bandas.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por el contrario, las privatizaciones van a dar la suficiente amplitud al gobierno, la suficiente amplitud al presupuesto, como para poder atender genuinamente lo que corresponde en educación, en justicia, en salud, en todo aquello que tiene ciertas falencias el Estado por haber incursionado en otros andares y niveles que no le son propios\".",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque hasta que no le den solución al pueblo, hasta que el pueblo no tenga las soluciones que reclama, va a ocurrir lo que decía nuestra compañera Eva Perón: No habrá paz sobre la tierra, sin justicia social\".",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Haremos seguir a Hugo Moyano en el año 2001, y a Cristina Fernández de Kirchner como presidenta.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo le pido a la señora presidenta que ya lo debe tener en venta.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo le doy un esfuerzo más para que los jubilados estén un poco mejor.",
+      "score": 0.686,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, este era el Moyano kirchnerista.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos a escuchar un Moyano no kirchnerista.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que acabamos de escuchar era del año 2010, en el momento de apogeo de Cristina Kirchner.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora vamos a escuchar el 2015, en el momento de retirada, en un acto a favor de Mauricio Macri, cuando todavía Mauricio Macri era el jefe del gobierno de la ciudad.",
+      "score": 0.46,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el 2015, Moyano cambió su visión.",
+      "score": 0.322,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, una CGT que, como en Dinamarca, tiene una contradicción ontológica entre ser o no ser oficialista.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 17
+  },
+  "etiqueta_original": "neutral"
+}

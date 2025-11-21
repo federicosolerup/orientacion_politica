@@ -1,0 +1,251 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 35,
+      "derecha": 12
+    },
+    "score_promedio": 0.325,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "No solo habla de la impericia política de este resultado, sino que también estamos frente a una manifestación, un indicio acerca de la idea de funcionamiento del Estado que tiene el presidente y, sobre todo, la posición ante la ley que tiene el gobierno de Javier Milei.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la historia de nuestra democracia latinoamericana ha habido importantes hitos en los que el Congreso ha puesto límites a los presidentes y, en ocasiones, se ha dado el ejemplo inverso de que el Ejecutivo, de manera no democrática, le impone límites al Legislativo.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hacer un recuento de estos hitos, tanto en Argentina como en nuestros países vecinos, para luego analizar qué es lo que puede suceder en esta contienda política por la aprobación de la Ley Bases.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alfonsín sostenía que había un pacto sindical-militar y que la dictadura había sido resultado de un pacto sindical-militar.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina hoy está gobernada en todos sus niveles por auténticos representantes de la voluntad popular.",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un estado de derecho.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Don Raúl Alfonsín no logró que el Congreso votase la célebre ley.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mucci, como decíamos, fue rápido, porque fue al año de haber asumido, o menos del año, en diciembre del 83, comenzó la piedra en el zapato, que terminaría con esos 14 paros generales.",
+      "score": 0.529,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos al caso inverso, donde el Ejecutivo le pone límite al Legislativo.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el caso de Perú, cuando Alberto Fujimori se hace cargo y disuelve el parlamento, conocido como el \"Fujimorazo\".",
+      "score": 0.365,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Como presidente de la República, he constatado directamente todas estas anomalías y me he sentido en la responsabilidad de asumir una actitud de excepción para procurar acelerar el proceso de esta reconstrucción nacional, por lo que he decidido tomar las siguientes trascendentales medidas.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, disolver temporalmente el Congreso de la República hasta la aprobación de una nueva estructura orgánica del Poder Legislativo, la que se aprobará mediante un plebiscito nacional.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tercero, reestructurar la Contraloría General de la República, con el objeto de lograr una fiscalización adecuada y oportuna de la administración pública, que conduzca a sanciones drásticas para los responsables de la malversación de los recursos del Estado.\"\n\nBueno, esto en Argentina creo que luce absolutamente imposible, pero de cualquier forma aquí encontramos un ejemplo cercano en el tiempo y cercano en la geografía de una situación inversa, al Ejecutivo poniéndole límites al Legislativo.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de los principales conflictos que tuvo Argentina desde la vuelta a la democracia fue el kirchnerismo con el campo.",
+      "score": 0.475,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo le pido a la Presidenta de los Argentinos que tiene la oportunidad de enviar un nuevo proyecto que contemple todo lo que se ha dicho, todos los aportes que se han brindado, gente de afuera o aquí mismo.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le pido perdón si me equivoco.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las imágenes, además de enfocar a Julio Cobos, que era el vicepresidente y, por lo tanto, le tocaba presidir el Senado, enfocaban continuamente el gesto adusto de Miguel Ángel Pichetto, que era en ese momento el presidente de la bancada peronista, conducida por Cristina Fernández de Kirchner en aquel momento.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivíamos entonces con ansiedades, con angustias, pero por sobre todo con la esperanza de lograr el alivio de terminar con un conflicto y un enfrentamiento.\"\n\nHay momentos extremos de la política en que un poder no solo le pone freno al otro, sino que es el instrumento de un cambio de poder del país.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El expresidente Luiz Inácio Lula da Silva difundió un video para defender al gobierno del PT: \"Estoy convencido de que el voto de impeachment no va a aprobarse.",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Brasil está polarizado y se esperan manifestaciones durante todo el fin de semana a uno y otro lado del muro provisorio levantado junto al parlamento en Brasilia.\"\n\nSi al menos 342 de los 513 diputados apoyan el inicio del juicio político, el Senado comenzará a analizarlo el lunes y votará en un plazo de 10 días.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, finalmente, Lula se equivocó y la Cámara, tanto diputados como senadores, aprobó el impeachment y Dilma dejó de ser presidenta de Brasil.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La caída de otro presidente en manos del parlamento, en el caso de España, está prevista la moción de censura, en este caso la moción de censura a Mariano Rajoy, del Partido Popular.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos que hubo toda una discusión en el Congreso con la primera Ley Bases, también llamada \"Ley Ómnibus\", que el presidente decidió retirar de la Cámara de Diputados porque no estaba conforme con los múltiples cambios que la oposición le estaba realizando, que por entonces eran bastante menores que los que ahora sí aceptan.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, la oposición también conoció a Milei y al fenómeno libertario.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto fue hecho por la Oficina del Presidente el 27 de diciembre de 2023, presentación de la Ley Ómnibus.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento, viajaba una carpeta llena de páginas impresas en un auto hacia el correo y la llevaba el ministro del Interior, como si fuese una especie de correo del SAR, y se la llevaba al presidente de la Cámara de Diputados para ponerla en tratamiento.",
+      "score": 0.438,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No estoy dispuesto a negociar nada.\"\n\nEn la Ley Ómnibus, ¿cuáles son esos artículos en los que usted no está dispuesto a ceder, que son innegociables?",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei dice: \"Estamos publicando las fotos de los traidores.\"\n\nBueno, digamos, estamos publicando aquellos diputados que votaron a favor y que votaron en contra.",
+      "score": 0.319,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, ahora también estamos publicando las fotos de estos traidores para que la gente tenga claro, digamos, quiénes son los que le mienten de modo directo a los argentinos.",
+      "score": 0.686,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Había mucho hastío en la sociedad frente a los políticos y Milei era una estrella ascendente en la opinión pública.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente hizo una lista con todos los supuestos, entre comillas, traidores del pueblo y no sucedió nada.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei siguió teniendo el apoyo que tenía y los supuestos traidores conservaron también el apoyo que tenían.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y de ahí el fortalecimiento de la figura del nuevo jefe de gabinete, Guillermo Francos, alguien que en la anterior experiencia de la Ley Bases intentó vanamente generar acuerdos con los diferentes bloques, mientras Milei se dedicaba a romper todos los puentes, tratando al Congreso como un nido de ratas.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el inicio del gobierno de Milei era un fenómeno extraño que apenas había asumido.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, luego de cumplir seis meses de gobierno, los bloques políticos ya no se definen por su mayor o menor lejanía al peronismo, sino por su mayor o menor cercanía con La Libertad Avanza.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, en el PRO, Horacio Rodríguez Larreta se terminó alejando por el ingreso de ese espacio al gobierno.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aún hay polémicas entre Mauricio Macri y Patricia Bullrich, la ministra de Seguridad, que plantea directamente la fusión con La Libertad Avanza, y el fundador del PRO, que defiende la idea, que parece también más lógica, de tener una autonomía.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pareciera como si todavía siguiese sonando en la mente de Macri aquel \"off\" que decía que si a Milei le iba bien, el PRO perdería todo su capital político y el libertario los absorbería.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si a Milei le iba mal, sería arrastrada con su experiencia frustrada.",
+      "score": 0.336,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este \"off\", que en su momento se le había adjudicado a Ritondo, podría hacerse entendible al conjunto de la oposición dialoguista.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si se percibe a un radicalismo demasiado acercado a Milei, el presidente seguirá diciendo que son socialistas, casta, responsables de todo lo malo de la historia del país.",
+      "score": 0.463,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, no tendría nada bueno estar cerca del presidente y, al mismo tiempo, tiene sus costos estar alejado.",
+      "score": 0.502,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez sea esta la cuenta que el senador y el presidente de la UCR, Martín Lousteau, tenga en su cabeza.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El \"no positivo\" del año 2008, en la expresión de Julio Cobos, significó una bisagra en la política argentina y estuvo a punto de generar una crisis institucional que luego fue bien reconducida.",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y estuvo a punto de generar una crisis institucional que luego fue bien reconducida.",
+      "score": 0.234,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Unión por la Patria sabe que los radicales de los TOP pueden ser la prenda de unidad que garantice una mayoría ganadora.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay trascendidos que hablan de un supuesto acuerdo entre el presidente radical y Cristina Fernández de Kirchner, en el que Unión por la Patria votaría en contra del proyecto en general, sabiendo que, de cualquier manera, va a salir, pero que hay un acuerdo con la votación por artículos.",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 47
+  },
+  "etiqueta_original": "neutral"
+}

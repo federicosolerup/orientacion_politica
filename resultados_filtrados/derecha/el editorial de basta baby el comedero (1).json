@@ -1,0 +1,26 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Ahora hablaré de Ebe, pero antes quiero decir… se le va a poner difícil a Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández del peronismo puro, la gobernadora del peronismo puro, Cristina Fernández de Kirchner del kirchnerismo, algunos del marxismo… cada uno querrá imponer su ideología y se enfrentarán.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Si esa es la gente que has traído, si ese es el gabinete que nos vas a imponer, yo aguantaré dos años, pero después te votaré en contra en un 99%, porque este país no lo queremos y lo que estamos viendo es una catástrofe.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    }
+  ]
+}

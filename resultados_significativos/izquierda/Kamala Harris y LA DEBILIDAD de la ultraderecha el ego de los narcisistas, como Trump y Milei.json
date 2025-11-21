@@ -1,0 +1,96 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 6
+    },
+    "score_promedio": 0.325,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a compartir y vamos a comparar, también, esos rasgos del ex presidente norteamericano que tienen en común con nuestro presidente actual, Javier Milei.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un momento del debate, Kamala Harris dijo que la gente se aburría y se iba de los mítines de Donald Trump porque hablaba siempre de problemas, hacía siempre planteamientos delirantes, pero nunca proponía soluciones concretas.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento, Donald Trump se mostró visiblemente ofuscado y dijo que nadie se va de sus mítines, que sus reuniones son las más grandes de la historia de la política y luego lanzó varios disparates que hicieron que fuera cuestionado, incluso por el propio moderador.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar este fragmento del debate entre Trump y Kamala Harris y le pediremos a nuestros locutores, Luis Cauchero y Camila Saldo, que lo traduzcan en vivo para aquellos que, además de escucharnos y vernos por televisión, nos escuchan por la radio, porque, para aquellos que nos ven por televisión, además está doblado el letrero.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y nuevamente le pediremos a nuestros locutores que traduzcan el vídeo mientras se reproduce.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La vicepresidenta Harris dice: \"Que las mujeres no deberían confiar en usted en el tema del aborto, porque ha cambiado muchas veces de opinión, ¿por qué deberían confiar en usted?\".",
+      "score": 0.647,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está bien, no existe ningún estado en este país donde sea legal matar a un bebé después de nacer.",
+      "score": 0.508,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "donde hay ningún estado de este país que sea legal matar a un bebé después de nacer\", y donde el trámite dice: \"Los demócratas piensan que la ejecución después del nacimiento está bien\".",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos a ver otro fragmento del debate en el que, ahora, nos venimos a la Argentina, Sergio Massa descoloca a Milei antes de las últimas elecciones y vamos a hacer una reflexión comparativa entre un tema y el otro, y el cambio de tiempo.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, no ten allí que el ego de Milei es el Banco de electo de Massa.",
+      "score": 0.596,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, era interesante, hablábamos la diferencia del tiempo, no solamente la diferencia entre Trump en el debate de ayer con el de Milei, porque aquel Trump, aquel Milei era distinto, mientras que Trump ya fue presidente y anteriormente era un personaje reconocido, tanto por su programa de televisión como por ser un empresario de altísimo perfil, mientras que Javier Milei llegó a ese debate siendo alguien mucho más desconocido y, probablemente, eso hizo que, frente al ataque certero de Massa, hubiera una parte de la audiencia que lograra empatizar con Milei por haber sido acorralado por el candidato peronista.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez, en un nuevo escenario, luego de escuchar a Milei en reiteradas ocasiones decir que es la segunda de las personas más importantes del planeta, el efecto del ataque, del ataque al ego del presidente libertario, generaría otros efectos en la audiencia.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El pueblo lo veneraba, sus enemigos le temían, pero nadie, ni él mismo, sabía la debilidad que tenía en su talón, y ahí viene la frase del talón de Aquiles.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Introducción al narcisismo, un texto de Freud, de la segunda tópica, del año 1914, se exploró el concepto de narcisismo, que inicialmente consideraba una desviación patológica, pero luego lo reconoció como una etapa normal del desarrollo humano.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al no ver que la realidad le devuelve la imagen del espejo que tiene de sí mismo, es el narcisismo nace en la temprana infancia y, en todo caso, su reproducción en la edad adulta requiere una falla en el desarrollo psicoemocional que lo vuelva una suerte de defensa frente a los aspectos negativos del propio yo.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos son amenazas para la democracia con falsa investigación, Rusia, Rusia, Rusia, que no llegó a ninguna parte\".",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 16
+  },
+  "etiqueta_original": "neutral"
+}

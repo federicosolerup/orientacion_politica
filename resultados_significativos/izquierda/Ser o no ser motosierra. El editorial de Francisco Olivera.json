@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 9
+    },
+    "score_promedio": 0.386,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a meternos en la política argentina porque quedan nada más que cuatro días hábiles para la asunción de Javier Milei.",
+      "score": 0.534,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo dos notas muy interesantes que salieron en La Nación el fin de semana, que quiero volver a recomendar.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le vamos a preguntar por el ajuste y por la motosierra.",
+      "score": 0.565,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incluso Marco Buscaglia, a quien le vamos a preguntar en un rato, decía, \"son un pseudo-problema\".",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quién le pone el cascabel al gato?",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo entiendo que en la cabeza de Javier Milei está.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer José del Río contaba que Javier Milei anota todo en un moleskine.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pasamos del cuaderno Arte de Néstor al moleskine.",
+      "score": 0.595,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le preguntaba recién a Florencia Donovan.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ajuste de cinco puntos tiene que hacer Javier Milei.",
+      "score": 0.576,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Funcionario clave que tampoco está: el presidente del Banco Central.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina pone la fe en el Messi de las finanzas.",
+      "score": 0.24,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente electo designó a un ex operador de Wall Street para tomar el comando de una economía enferma, descompuesta.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así reciben a Caputo el mercado.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante quién va a ser el presidente del Banco Central por el recorrido que venimos haciendo.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo lo escuchaba la semana pasada al exitosísimo presidente del Banco Central de Perú decir: \"Hablar con el ministro es causal de despido para cualquier funcionario\".",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está el recuerdo de aquel 28 de diciembre de 2017, cuando Federico Sturzenegger, entonces presidente del Banco Central de Macri, apareció en una conferencia de prensa rodeado de cinco ministros que en la imagen parecían condicionarlo.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Incluso él, cuando le hacen una pregunta, dice: \"Pero no tendría que hablar solamente usted\".",
+      "score": 0.473,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, ¿quién va a conducir las dos cámaras del Congreso, la Cámara de Diputados y la Cámara de Senadores?",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Inicialmente, cuando venía Milei con todo el influjo después del triunfo en el balotaje y el respaldo macrista, los de Juntos por el Cambio proponían a Cristian Ritondo.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que responden a los gobernadores, los que responden a Patricia Bullrich y están en la lista.",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

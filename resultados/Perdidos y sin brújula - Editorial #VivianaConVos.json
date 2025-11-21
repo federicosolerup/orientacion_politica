@@ -1,0 +1,1549 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "¡Hola!",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "¿Cómo están?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy buenas noches, gracias por acompañarnos, por dejarnos entrar en sus casas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este muchacho sigue hablando, sigue dando explicaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno está perdido y sin brújula, y esa tarde lo comprobamos escuchando a Juan Cabandié, que todavía sigue hablando.",
+      "entidades_detectadas": [
+        "Juan Cabandié"
+      ]
+    },
+    {
+      "frase": "Es un gobierno que no cree en el mérito, entonces cualquiera puede ser ministro, ministro de cualquier cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y este es el caso de Cabandié, que no me cae mal, pero no tiene nada que hacer en ese lugar que le dieron.",
+      "entidades_detectadas": [
+        "Cabandié"
+      ]
+    },
+    {
+      "frase": "Recordaba hoy por la tarde que lo entrevisté previo a las elecciones y él había contado que fue quien ofreció su casa para que Alberto Fernández se reconciliara con Cristina Fernández de Kirchner y ahí entiendo un poco más este favor que le están haciendo, teniéndolo como ministro de Ambiente.",
+      "entidades_detectadas": [
+        "Ambiente",
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Yo creo que tenía una huerta en la casa y por eso lo eligieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Corrientes, el gobernador Gustavo Valdés, de Juntos por el Cambio, le ganó las elecciones por más de 20 puntos al Frente de Todos.",
+      "entidades_detectadas": [
+        "Cambio",
+        "Corrientes",
+        "Frente de Todos",
+        "Juntos",
+        "Gustavo Valdés"
+      ]
+    },
+    {
+      "frase": "No quiero creer que por esto no le dieron bola en Corrientes, quiero pensar que solo fueron inoperantes.",
+      "entidades_detectadas": [
+        "Corrientes"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar parte de lo que decía hoy Juan Cabandié, que realmente debo decirlo, me dio mucha vergüenza ajena.",
+      "entidades_detectadas": [
+        "Juan Cabandié"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo, por favor.",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "(Fragmento de Cabandié) Personas especializadas, idóneas, formadas, que son del Estado independientemente de los gobiernos y que tienen mucha trayectoria en la materia.",
+      "entidades_detectadas": [
+        "Estado independientemente de los gobiernos",
+        "Fragmento de Cabandié"
+      ]
+    },
+    {
+      "frase": "Son ellos los que están observando los mapas, el Sentinel, el Europeo, el de la NASA, los que detectan los reportes, los que detectan los índices de peligrosidad, los que detectan dónde están los focos.",
+      "entidades_detectadas": [
+        "Europeo",
+        "NASA",
+        "Sentinel"
+      ]
+    },
+    {
+      "frase": "Por tanto, sinceramente, nosotros somos quienes asumimos una responsabilidad política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi caso, el ministro, los secretarios, el secretario específico del área, Sergio Federovisky.",
+      "entidades_detectadas": [
+        "Sergio Federovisky"
+      ]
+    },
+    {
+      "frase": "Nosotros somos apasionados de esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros tenemos muchísima responsabilidad sobre el tema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos en los focos, los observamos, vamos, apagamos si es necesario junto a ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Apasionados de la gestión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, por favor, señor.",
+      "entidades_detectadas": [
+        "señor"
+      ]
+    },
+    {
+      "frase": "Por tanto, cuando nosotros abordamos esto, lo hacemos con plena conciencia y entendemos que esto es un trabajo de...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "es decir, en algún punto...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero recordar mi idea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, me imagino a los correntinos en sus casas ahora, si es que no las perdieron, escuchando al ministro de Ambiente, Juan Cabandié.",
+      "entidades_detectadas": [
+        "Ambiente",
+        "Bueno",
+        "Juan Cabandié"
+      ]
+    },
+    {
+      "frase": "Me sale la voz bajita, no puedo creer, se me hace un nudo en la boca del estómago.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Habla de responsabilidad, de apasionamiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y luego dice que había más focos de incendio en Chile.",
+      "entidades_detectadas": [
+        "Chile"
+      ]
+    },
+    {
+      "frase": "Dijo, entre otras cosas, nervioso y titubeando, la NASA detecta los índices de peligrosidad.",
+      "entidades_detectadas": [
+        "NASA"
+      ]
+    },
+    {
+      "frase": "\"Asumimos una responsabilidad si es necesario, apagamos algunos focos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros somos apasionados de la gestión, nuestro trabajo es en algún punto quirúrgico.\" Ustedes, vos que estás en tu casa, ¿le crees a Cabandié?",
+      "entidades_detectadas": [
+        "Ustedes",
+        "¿",
+        "Cabandié"
+      ]
+    },
+    {
+      "frase": "¿Te parece bien que Cabandié siga siendo ministro?",
+      "entidades_detectadas": [
+        "Cabandié"
+      ]
+    },
+    {
+      "frase": "¿No debería renunciar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Olvidaba las redes sociales, y todo el mundo tiene mucha imaginación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pongan la foto de la remera de Cabandí.",
+      "entidades_detectadas": [
+        "Cabandí"
+      ]
+    },
+    {
+      "frase": "Como total, en el país no pasa absolutamente nada, los kirchneristas ahora inventan verbos y fabrican remeras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y salió la remera de Cabandí.",
+      "entidades_detectadas": [
+        "Cabandí"
+      ]
+    },
+    {
+      "frase": "Ahí la tenemos, \"Cabandiar\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay varios puntos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno, cuando por total incapacidad de acción se generan daños irreparables en alguien o algo.",
+      "entidades_detectadas": [
+        "acción"
+      ]
+    },
+    {
+      "frase": "Dos, acción de intimidar a una fuerza de la ley haciendo uso de frases hechas como, \"soy hijo de desaparecidos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O tres, vivir del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El gobierno está perdido y sin brújula.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cabandié tampoco la tiene, obviamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque Corrientes está en llamas.",
+      "entidades_detectadas": [
+        "Corrientes"
+      ]
+    },
+    {
+      "frase": "Recién veía la broma de su hijo, las últimas imágenes con una cronista ahí al lado del fuego.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Con qué cara, de verdad lo digo, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Con qué cara van a hablar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuánta irresponsabilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Varios funcionarios del Ministerio de Ambiente, Puchinelli, viajaron a Brasil para visitar un centro de entrenamiento y cuidado de elefantes.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Puchinelli",
+        "Ministerio de Ambiente"
+      ]
+    },
+    {
+      "frase": "¿Se dan cuenta de que esto es una locura?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un centro de entrenamiento y cuidado de elefantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No estamos de vacaciones, estamos prendidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se está prendiendo fuego una provincia, por favor, no jodan más con los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miren esta foto: Argentina con Corrientes para combatir y controlar los incendios.",
+      "entidades_detectadas": [
+        "Corrientes",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El Estado Nacional invierte, escuchen el error, hasta 200 millones de pesos por día en brigadistas, logística, campamentos y medios aéreos.",
+      "entidades_detectadas": [
+        "Estado Nacional invierte"
+      ]
+    },
+    {
+      "frase": "Ministerio de Ambiente y Desarrollo Sostenible.",
+      "entidades_detectadas": [
+        "Ministerio de Ambiente y Desarrollo Sostenible"
+      ]
+    },
+    {
+      "frase": "¿No era, como dijo Alberto Fernández, que ellos no tuiteaban sobre Corrientes y sobre todo lo que hacían?",
+      "entidades_detectadas": [
+        "Corrientes",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Al final, el gobierno tuitea con lo que supuestamente hace en Corrientes.",
+      "entidades_detectadas": [
+        "Corrientes"
+      ]
+    },
+    {
+      "frase": "Pero tengo un dato, que es un error, porque lo leí, donde dice 200 millones por día, debe decir 200 millones en total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si se hubieran mandado 200 millones por día, sería una maravilla, pero no es así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí lo tenés.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ministerio de Ambiente y Desarrollo Sostenible.",
+      "entidades_detectadas": [
+        "Ministerio de Ambiente y Desarrollo Sostenible"
+      ]
+    },
+    {
+      "frase": "Otro que tuiteó fue Gustavo Valdés, el gobernador de Corrientes.",
+      "entidades_detectadas": [
+        "Corrientes",
+        "Gustavo Valdés"
+      ]
+    },
+    {
+      "frase": "\"El presidente de la Nación me confirmó que el viernes 25 de febrero estará en Corrientes.",
+      "entidades_detectadas": [
+        "Corrientes",
+        "Nación"
+      ]
+    },
+    {
+      "frase": "Juntos vamos a recorrer distintas zonas afectadas por los incendios.\" Lo del presidente me parece increíble.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pero quién va a ir a Corrientes el viernes por la noche?",
+      "entidades_detectadas": [
+        "Corrientes"
+      ]
+    },
+    {
+      "frase": "Claramente no le importan los correntinos, pero es el presidente de todos los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como no te votaron, no te dan bola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él sigue atajando penales, inauguraron un polideportivo, pero no tuvo tiempo para estar con los correntinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tienen perdón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fíjense lo que nos dice el comunista de Puerto Madero: \"Argentina tiene que ser la puerta de entrada para que Rusia ingrese a América Latina de modo más decidido.\" Vergonzoso, es un cara dura.",
+      "entidades_detectadas": [
+        "Rusia",
+        "Argentina",
+        "América Latina",
+        "Puerto Madero"
+      ]
+    },
+    {
+      "frase": "¿Ven que lo de Sputnik era ideológico?",
+      "entidades_detectadas": [
+        "Sputnik"
+      ]
+    },
+    {
+      "frase": "Estamos perdidos y sin brújula.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debemos quitar el Fondo Monetario Internacional y coqueteamos con Putin.",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional",
+        "Putin"
+      ]
+    },
+    {
+      "frase": "Miren lo que dice Víctor Hugo Morales, por ejemplo.",
+      "entidades_detectadas": [
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "\"¿Alberto intercede para evitar la guerra a Rusia-Ucrania?\" Víctor Hugo, con todo respeto, no puede ni apagar el fuego en Corrientes.",
+      "entidades_detectadas": [
+        "Corrientes",
+        "Víctor Hugo",
+        "Rusia-Ucrania"
+      ]
+    },
+    {
+      "frase": "Imagine si va a interceder para evitar la guerra a Rusia-Ucrania.",
+      "entidades_detectadas": [
+        "Rusia-Ucrania"
+      ]
+    },
+    {
+      "frase": "Dios mío, ¿dónde quedó el sentido común?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno no condena el avance de Putin en Ucrania y pide diálogo constructivo.",
+      "entidades_detectadas": [
+        "Putin",
+        "Ucrania"
+      ]
+    },
+    {
+      "frase": "Pedirle diálogo constructivo a Putin es como pedirle un baño de humildad a Cristina.",
+      "entidades_detectadas": [
+        "Putin",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Tenemos la foto de Cristina con Lázaro Báez?",
+      "entidades_detectadas": [
+        "Lázaro Báez",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Un ex AFIP habló de sobreprecios y confirmó la usina de facturas truchas que usaba Lázaro Báez.",
+      "entidades_detectadas": [
+        "Lázaro Báez",
+        "AFIP"
+      ]
+    },
+    {
+      "frase": "Ahí los vemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La justicia se tiene que poner los pantalones en serio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque todos sabemos lo que pasó, pero el pánico es tremendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, hoy a mí me llamó un juez de la nación antes de empezar el programa para decirme que me cuide.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre me pregunto, ¿para qué quieren tanta plata?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quieren ser los más ricos del cementerio?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos vamos a morir y no nos vamos a llevar nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué quieren tanta plata?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué la quieren?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Como el conurbano está muy tranquilo, vamos a ver esta foto porque es impactante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo les juro, yo les juro, ahí está, Néstor Mear, yo les juro que ni el mejor director y autor de cine imagina todo este delirio que vivimos los argentinos.",
+      "entidades_detectadas": [
+        "Néstor Mear"
+      ]
+    },
+    {
+      "frase": "Ahí está la intendenta de Quilmes, Mayra Mendoza.",
+      "entidades_detectadas": [
+        "intendenta de Quilmes",
+        "Mayra Mendoza"
+      ]
+    },
+    {
+      "frase": "No tuvo mejor idea que inventarse esta remera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sabemos que es fanática de Néstor Kirchner, pero es un montón.",
+      "entidades_detectadas": [
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "La remera, \"Néstor Mear\", como si no estuviera pasando nada en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, una que diga, \"estamos con corrientes, corrientes\", no sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y dice así, \"ante la adversidad, tomar la decisión más osada, práctica y beneficiosa para el pueblo, levantarse, volver a creer, utilizar la política como herramienta para transformar la realidad.\" Pongan \"ele\".",
+      "entidades_detectadas": [
+        "Pongan"
+      ]
+    },
+    {
+      "frase": "Yo les juro que me da una vergüenza ajena todo esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se superan todos los días, es un montón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, por ejemplo, pongan la foto de Luana y su novio de vacaciones.",
+      "entidades_detectadas": [
+        "Luana"
+      ]
+    },
+    {
+      "frase": "Porque esto también sería \"Néstor Mear\", pongan \"ele\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sonre contra \"Megan a can pop\", pero se van de vacaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A \"can pop\" con el dos del PAMI.",
+      "entidades_detectadas": [
+        "PAMI"
+      ]
+    },
+    {
+      "frase": "Y no les importa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, vi la conferencia con el presidente la semana pasada y se rieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras tanto, el gobierno y Sergio Aguzman hacen todo lo posible para que vos no puedas irte de vacaciones o sacar tus dólares del país.",
+      "entidades_detectadas": [
+        "Sergio Aguzman"
+      ]
+    },
+    {
+      "frase": "Yo diría que el doble discurso también es \"Néstor Rear\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Doble discurso, doble vara, doble moral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Néstor Rear\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La oposición mandó otras remeras en las redes sociales de \"Néstor Rear\", pero con otras definiciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, pusieron \"Néstor Rear\", dos puntos, \"sentir un irrefrenable amor por el dinero público mal habido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acción de abrazar cajas fuertes.",
+      "entidades_detectadas": [
+        "Acción"
+      ]
+    },
+    {
+      "frase": "Maniobra por la cual, a través del conocimiento de información privilegiada y basándose en leyes de la dictadura, un individuo adquiere propiedades a presos y rectores.\" También llegaron otras remeras con nuevos verbos.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "¡Qué Argentina tan difícil!",
+      "entidades_detectadas": [
+        "Qué Argentina"
+      ]
+    },
+    {
+      "frase": "Acción de apropiarse de lo ajeno.",
+      "entidades_detectadas": [
+        "Acción"
+      ]
+    },
+    {
+      "frase": "Sinónimos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Corromper, saquear, licitar, transar, mexicaniar, afanar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antónimo, devolver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay otra remera del librero ahora devenido canciller que dice, \"vivir del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Acción de generar déficit fiscal.\" Antónimo, trabajar.",
+      "entidades_detectadas": [
+        "Acción",
+        "Antónimo"
+      ]
+    },
+    {
+      "frase": "El que no tiene una remera, pero se la merece es Marcelo Tinelli.",
+      "entidades_detectadas": [
+        "Marcelo Tinelli"
+      ]
+    },
+    {
+      "frase": "Miren la foto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo voy a poner en esta foto de Marcelo Tinelli la mesa del hambre duró 30 segundos.",
+      "entidades_detectadas": [
+        "Marcelo Tinelli"
+      ]
+    },
+    {
+      "frase": "Yo diría que esta es la foto de la panza llena, todos en París comiendo.",
+      "entidades_detectadas": [
+        "París"
+      ]
+    },
+    {
+      "frase": "¡Qué vergüenza que fue la mesa del hambre!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Miren esta, la mesa de la panza llena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No les importa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obscenidad al palo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos caretas sacándose la foto en París después de haber dejado a la gente con la mesa del hambre.",
+      "entidades_detectadas": [
+        "París"
+      ]
+    },
+    {
+      "frase": "Se sacan la foto porque son caretas, porque pueden, porque tienen impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie hizo un carajo por los pobres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se ve ahí Marcelo en la mesa de la panza llena, que te da mucho más creíble.",
+      "entidades_detectadas": [
+        "Marcelo"
+      ]
+    },
+    {
+      "frase": "Me quiero hacer una pregunta que les hago a ustedes y es si después de lo que dijo Estela de Bonafini, la justicia no actuó.",
+      "entidades_detectadas": [
+        "Bonafini",
+        "Estela"
+      ]
+    },
+    {
+      "frase": "Dijo Estela de Bonafini que había que ir a quemar los campos.",
+      "entidades_detectadas": [
+        "Dijo Estela",
+        "Bonafini"
+      ]
+    },
+    {
+      "frase": "¿La justicia la llamó?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si yo digo eso en este programa, en cinco minutos tengo un patrullero esperándome a la salida de mi programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasa?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es muy grave lo que dijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, hoy Cabandié dijo que hay muchos focos de incendio que fueron provocados.",
+      "entidades_detectadas": [
+        "Cabandié"
+      ]
+    },
+    {
+      "frase": "Y yo pensaba, ¿por Estela de Bonafini, Cabandié?",
+      "entidades_detectadas": [
+        "Bonafini",
+        "¿",
+        "Cabandié"
+      ]
+    },
+    {
+      "frase": "¿Qué más pruebas necesitamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué más obviedades?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos todo servido en bandeja, pero nadie hace nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y la justicia?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Pongan la foto de Alberto, porque estamos perdidos y sin brújula, lo sabemos.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Alberto está con arresto domiciliario, está preso en su casa y da clases de moral con tobillera.",
+      "entidades_detectadas": [
+        "tobillera",
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Increíble.",
+      "entidades_detectadas": [
+        "Increíble"
+      ]
+    },
+    {
+      "frase": "Parece que ayer Alberto estaba mirando este programa cuando estábamos con el D.I.T.I.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "No le gustó lo que dijo el D.I.T.I.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezó la guerra tuitera porque no le gustó que el D.I.T.I.",
+      "entidades_detectadas": [
+        "Empezó"
+      ]
+    },
+    {
+      "frase": "hablara de peronismo, porque ahora tenés que pedir permiso para hablar de cualquier cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pongan, por favor, los tweets cruzados del D.I.T.I.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "con Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "(Tweets) Este burro analfabeto le dice a Alberto que no conoce absolutamente nada de la historia argentina, debería lavarse la boca antes de opinar de Perón y lo arroba.",
+      "entidades_detectadas": [
+        "Tweets",
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "\"Hola, Alberto\", le dice el D.I.T.I.",
+      "entidades_detectadas": [
+        "Hola",
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "\"Este burro analfabeto vive libre y vos estás con una tobillera electrónica, besos, bebé.\" Pongan el que sigue, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En un rato, te va a contar Juan Manuel Dragani por qué el D.I.T.I.",
+      "entidades_detectadas": [
+        "Juan Manuel Dragani"
+      ]
+    },
+    {
+      "frase": "le pidió que lo asesore, porque se sintió amenazado por Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "\"Tobillera Alberto\".",
+      "entidades_detectadas": [
+        "Tobillera Alberto"
+      ]
+    },
+    {
+      "frase": "Burro, prepárate, porque cuando te encuentre, le dice Alberto, el hombre de la tobillera preso en su domicilio, \"este lo vamos a arreglar de hombre a hombre\", le dice.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Burro"
+      ]
+    },
+    {
+      "frase": "A lo que el D.I.T.I.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "le responde: \"Si lo dejan salir de la prisión domiciliaria, me voy hasta su casa en Ramos, ahí en Avenida de Mayo y lo arreglamos.",
+      "entidades_detectadas": [
+        "Avenida de Mayo",
+        "Ramos"
+      ]
+    },
+    {
+      "frase": "Yo no soy Mauro, lo arreglamos como quiera, a los guantes o a los tiros, usted elige.",
+      "entidades_detectadas": [
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Beso, tobillín.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usted no me puede encontrar, Alberto, ¿sabe por qué?",
+      "entidades_detectadas": [
+        "Alberto",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Porque yo estoy libre y usted no puede salir de su casa porque está preso por delincuente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si quiere, sumamos como amenaza este tweet para que le sigan dando un par de mitos más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando le den libertad, hablamos.\" Diciela.",
+      "entidades_detectadas": [
+        "Diciela"
+      ]
+    },
+    {
+      "frase": "Están en la pelotudez todos, eh.",
+      "entidades_detectadas": [
+        "eh"
+      ]
+    },
+    {
+      "frase": "El D.I.T.I.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "viene a un programa de televisión y opina libremente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un señor con tobillera le da clases de moral de peronismo.",
+      "entidades_detectadas": [
+        "tobillera"
+      ]
+    },
+    {
+      "frase": "Pobre Perón, no dirá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me defiendan más, les agradezco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes de pasar a un video que, les juro, cuando lo vi hoy, casi que me descompenso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos tan perdidos y sin brújula que no lo puedo creer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo puedo creer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miren esto, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se llama el colectivo de Les Gordes.",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "El colectivo de Les Gordes.",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "Activistas de Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Les pido que, por favor, lo miren con atención.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les pido que, por favor, lo miren con atención.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque este país está perdido y sin brújula.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miren.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Video de Les Gordes) Hola.",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "Hola.",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "Hola.",
+      "entidades_detectadas": [
+        "Hola"
+      ]
+    },
+    {
+      "frase": "Hola a todes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Somos el colectivo de Gordes Activistas de Argentina.",
+      "entidades_detectadas": [
+        "Gordes Activistas",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y queremos invitarles al primer encuentro plurinacional de Gordes en Argentina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Gordes"
+      ]
+    },
+    {
+      "frase": "El colectivo de Gordes Activistas de Argentina es una organización autoconvocada de activistas gordes y activistas por la diversidad corporal.",
+      "entidades_detectadas": [
+        "Gordes Activistas",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Que se enuncia en contra de la patologización y discriminación constante hacia los cuerpos gordos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestro objetivo es dar luz a diferentes violencias para así erradicar la estigmatización y la gordofobia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creemos que el primer paso para lograr esto es encontrarnos, establecer un canal de comunicación entre la comunidad gorda para poder trabajar en conjunto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el encuentro van, talleres, debates, actividades y lo más importante es...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro y de Gordes para compartir el espacio y tensar estrategias para desactivar el sistema gordofóbico que nos oprime.",
+      "entidades_detectadas": [
+        "Gordes"
+      ]
+    },
+    {
+      "frase": "La entrada es libre y gratuita, el evento es apto para menores de edad y es para todas las identidades de género.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Necesitamos de identidades diversas para debatir aquello que une todas nuestras experiencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ser Gordes.",
+      "entidades_detectadas": [
+        "Gordes"
+      ]
+    },
+    {
+      "frase": "Esperamos este sábado desde las 10 de la mañana en la mansión Tere, Santa María de Oro 3530 en Castelar.",
+      "entidades_detectadas": [
+        "Santa María de Oro",
+        "Tere",
+        "Castelar"
+      ]
+    },
+    {
+      "frase": "En nuestra Instagram vamos a estar contándoles mucho más de todo lo que va a estar pasando este sábado.",
+      "entidades_detectadas": [
+        "Instagram"
+      ]
+    },
+    {
+      "frase": "Nos vemos ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos vemos el sábado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos vemos ahí el sábado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí veíamos a Les Gordes.",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "Espero que, así como se autoconvocan Les Gordes, se autofinancien Les Gordes.",
+      "entidades_detectadas": [
+        "Espero",
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "No me digan que a Les Gordes les tenemos que también financiar nosotros la convocatoria de Les Gordes.",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "Yo no le quiero pagar a Les Gordes.",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "Les digo la verdad, yo no le quiero pagar a nadie más, viste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo les juro, cuando vi a Les Gordes, digo, no, no...",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "¿Quién paga esta movida de Les Gordes?",
+      "entidades_detectadas": [
+        "Les Gordes",
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "¿Nosotros?",
+      "entidades_detectadas": [
+        "¿Nosotros"
+      ]
+    },
+    {
+      "frase": "Seguro que nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con esto del tema del género nos están sacando y afanando a Manzalva.",
+      "entidades_detectadas": [
+        "Manzalva"
+      ]
+    },
+    {
+      "frase": "Poniendo esta bala a ganza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre hay que garpar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les Gordes vayan a trabajar.",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "Les Gordes vayan a laburar.",
+      "entidades_detectadas": [
+        "Les Gordes"
+      ]
+    },
+    {
+      "frase": "Ahora hay algo impresionante del presidente Alberto Fernández que hoy lo escuchaba y digo, no, estoy escuchando mal, estoy escuchando mal.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández dice que la Argentina no se detuvo en la pandemia.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Escúchenme, Argentina no se detuvo en la pandemia.",
+      "entidades_detectadas": [
+        "Escúchenme",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Si no me creen, escúchenlo, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Fragmento de Alberto Fernández) \"¿Nos detuvimos en la pandemia?",
+      "entidades_detectadas": [
+        "Fragmento",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "En el aire, nieto, no se detuvieron los científicos, no se detuvo la obra pública, no se detuvo la construcción de colegios, no se detuvo absolutamente nada de lo que era poner en peromina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se detuvo absolutamente nada de lo que era poner en de la Argentina.\"\n\nPresidente, se detuvo el mundo.",
+      "entidades_detectadas": [
+        "Presidente",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Se detuvieron nuestras vidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se nos murieron familiares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdimos amigos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo que nada se detuvo en la pandemia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pero nos ven la cara de boludos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se detuvo todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cerraron las escuelas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Miren acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo los datos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quebraron, presidente, 200.000 comercios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Presidente, quebraron 200.000 comercios mientras ustedes estaban festejando en la quinta de Olivos el cumpleaños de su esposa.",
+      "entidades_detectadas": [
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Para ustedes no se detuvo nada, porque todo siguió igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo les festejé a mi hija dos cumpleaños por Zoom.",
+      "entidades_detectadas": [
+        "Zoom"
+      ]
+    },
+    {
+      "frase": "Festejé a los míos por Zoom.",
+      "entidades_detectadas": [
+        "Zoom"
+      ]
+    },
+    {
+      "frase": "Se murió la abuela de mi hija y no la pudimos enterrar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y usted dice que no se detuvo nada en la pandemia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son tan insensibles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdimos seres queridos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no los pudimos acariciar, tomar de la mano, velarlos, enterrarlos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Teníamos los velatorios de la gente que amamos por el teléfono.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y usted dice que nada se detuvo en la pandemia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ver, voy a repetir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quebraron 200.000 comercios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cerraron 300.000 pymes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y se detuvo todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cerraron 300.000 pymes y 400 colegios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no se detuvo nada en la pandemia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Destruyeron los teatros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La obra pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dejaron sin trabajo a 7 millones de argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero voy a repetir, presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque a esta altura a mí me da vergüenza ajena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se detuvo el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se detuvo el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué nosotros no íbamos a hacerlo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que alguien le diga al presidente que no está bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque además, usted puede decir lo que quiera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero cada uno de nosotros vivió la pandemia como pudo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quebraron 200.000 comercios, presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cerraron 300.000 pymes y 400 colegios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un montón de chicos que no vuelven más al colegio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y además ahora consumen más paco que antes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Destruyeron teatros, obra pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dejaron sin trabajo a 7 millones de argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero para usted no se detuvo nada en la pandemia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y usted lo dice sin ponerse colorado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente no lo puedo creer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son ellos los que nos gobiernan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos perdidos y sin brújula.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero, tengo, como todos los días, les digo, una buena noticia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Faltan 655 días para que se vayan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bienvenidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es Viviana con vos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Ministerio de Ambiente",
+    "Víctor Hugo Morales",
+    "Creemos",
+    "América Latina",
+    "Olvidaba",
+    "Miren",
+    "Corromper",
+    "Mayra Mendoza",
+    "Alberto",
+    "Nación",
+    "PAMI",
+    "Fragmento",
+    "acción",
+    "tobillera",
+    "Les Gordes",
+    "Recién",
+    "Espero",
+    "Sinónimos",
+    "Increíble",
+    "Cambio",
+    "Corrientes",
+    "NASA",
+    "Cabandié",
+    "Pongan",
+    "Pedirle",
+    "Zoom",
+    "Seguro",
+    "Alberto Fernández",
+    "Vamos",
+    "Santa María de Oro",
+    "Putin",
+    "Perdimos seres",
+    "Juan Cabandié",
+    "Cristina Fernández de Kirchner",
+    "Juan Manuel Dragani",
+    "Gustavo Valdés",
+    "Cabandié?",
+    "Diciela",
+    "Nuestro",
+    "Sergio Federovisky",
+    "Instagram",
+    "Bonafini",
+    "Argentina",
+    "Manzalva",
+    "Ramos",
+    "Estado independientemente de los gobiernos",
+    "Cristina",
+    "Ustedes",
+    "Puchinelli",
+    "Bienvenidos",
+    "¿",
+    "¿Con qué",
+    "Sergio Aguzman",
+    "Dijo",
+    "Marcelo Tinelli",
+    "¿Pero",
+    "Tenemos",
+    "Cerraron",
+    "Frente de Todos",
+    "Olivos",
+    "Lázaro Báez",
+    "Ministerio de Ambiente y Desarrollo Sostenible",
+    "¿No",
+    "Fragmento de Cabandié",
+    "Néstor Kirchner",
+    "Burro",
+    "Les Gordes?",
+    "Avenida de Mayo",
+    "AFIP",
+    "Claramente",
+    "Maniobra",
+    "Juntos",
+    "Fíjense",
+    "Dijo Estela",
+    "Beso",
+    "Gordes",
+    "Presidente",
+    "Antónimo",
+    "Brasil",
+    "París",
+    "Qué Argentina",
+    "Luana",
+    "También",
+    "Tweets",
+    "Empezó",
+    "Ambiente",
+    "Rusia",
+    "Acción",
+    "Hola",
+    "Sputnik",
+    "Estela",
+    "Víctor Hugo",
+    "Europeo",
+    "Estado",
+    "Néstor Mear",
+    "Ucrania",
+    "Tobillera Alberto",
+    "Rusia-Ucrania",
+    "Escuchémoslo",
+    "Sentinel",
+    "Quiero",
+    "Cabandí",
+    "¿Quieren",
+    "Quebraron",
+    "Puerto Madero",
+    "Bueno",
+    "Estado Nacional invierte",
+    "la Argentina",
+    "Marcelo",
+    "Sonre",
+    "Tere",
+    "Ser Gordes",
+    "Chile",
+    "Castelar"
+  ]
+}

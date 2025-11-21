@@ -1,0 +1,57 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La situación actual que enfrenta el presidente es similar a la que han vivido muchos mandatarios anteriormente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Podemos recordar, por ejemplo, la devaluación de 2014 durante el gobierno de Cristina Fernández de Kirchner con Axel Kicillof como ministro de Economía, que resultó en una inflación del 38% y una caída del PBI.",
+      "entidades_detectadas": [
+        "axel",
+        "cristina",
+        "fernández",
+        "kirchner",
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Mauricio Macri también enfrentó esta problemática al asumir la presidencia, y en 2018, bajo la presión del FMI, se vio obligado a una devaluación que posiblemente influyó en su derrota electoral.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "La política económica de Donald Trump ha acelerado este proceso, agravando la situación.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "Esta tensión se refleja en la actitud del presidente y de su equipo económico, especialmente en la comunicación.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El gobierno intenta culpar a (nombre eliminado por no estar confirmado en el texto) por la situación actual, pero la principal causa del problema reside en la política de Donald Trump y su impacto en la economía global, especialmente en la caída de los precios de los granos, principal exportación argentina, y en la industria petrolera de Vaca Muerta.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "Las medidas de Trump han provocado una guerra comercial con graves consecuencias, incluyendo la posibilidad de devaluaciones en cadena.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "La respuesta de China a las acciones de Trump, con amenazas de una guerra comercial, financiera o de otro tipo, agrava la situación internacional.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    }
+  ]
+}

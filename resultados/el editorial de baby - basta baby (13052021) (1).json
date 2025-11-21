@@ -1,0 +1,518 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Estoy entrenando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Viste cuando corres por el hipódromo de San Isidro y ves a alguien que pasa con una vincha?",
+      "entidades_detectadas": [
+        "San Isidro",
+        "¿Viste"
+      ]
+    },
+    {
+      "frase": "¡Qué ridículo!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "El reloj, todo digital; la ropa, digital.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si todos se ponen eso… ¡No!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En San Isidro, todos son bronceados y flacos, con calzas o pantalones cortos, zapatillas, medias largas… ¡Y este tipo va con un aparato de terapia intensiva, todo conectado!",
+      "entidades_detectadas": [
+        "San Isidro"
+      ]
+    },
+    {
+      "frase": "Camina así… ¡Esa cara!",
+      "entidades_detectadas": [
+        "Camina"
+      ]
+    },
+    {
+      "frase": "¡Ahí está!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque me arruinaste el decorado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hola, Caro, ¡qué linda estás!",
+      "entidades_detectadas": [
+        "Hola",
+        "Caro"
+      ]
+    },
+    {
+      "frase": "Hola, Babi, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Hola",
+        "¿",
+        "Babi"
+      ]
+    },
+    {
+      "frase": "Hoy te elegimos reina, prepárate.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Carlito, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Carlito"
+      ]
+    },
+    {
+      "frase": "Bien, muy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Babi/Cabi trabaja 24 horas al día, en todos lados.",
+      "entidades_detectadas": [
+        "Cabi",
+        "Babi"
+      ]
+    },
+    {
+      "frase": "Vivió aislado todo el año porque está de un programa a otro, y cada vez que alguien cae con síntomas, a Gaby lo saca.",
+      "entidades_detectadas": [
+        "Gaby",
+        "Vivió"
+      ]
+    },
+    {
+      "frase": "Bueno, dice… Otro tema: mucho se ha hablado de la \"fiebre\" de la vacuna, el capricho del gobernador, toda esa historia.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Hoy estaba pensando y haciendo un recuento de otros temas, como la gente que muere todos los días por la inseguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La cantidad de inseguridad que hay en la provincia es terrible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Asaltan a la gente… Hoy, para robarle la gorra a un chico, le pegaron un tiro en el pecho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, en Rosario, le pegaron un par de tiros a una señora y se equivocaron.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Dijeron \"sorry, mi amor\", y la dejaron tirada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La delincuencia está a la orden del día.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy estaba… no sé, en un bar, comprando algo en la panadería, y entró un chico, pobrecito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora también está la portación de rostro: cualquier chico con gorra y de tez morena, todo el mundo se aleja, como si fuera lepra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso también lo consiguió el gobierno nacional y popular, en la grieta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes, un chico humilde era un chico humilde; ahora, un chico pobre es un potencial delincuente para la sociedad media o alta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad, no es culpa ni de la sociedad media-alta, ni del chico que usa la gorra; la culpa es del gobierno, que los ha estigmatizado y lo muestran todos los días por televisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y son todos parecidos, porque la gente humilde es toda parecida porque no tiene la posibilidad de vestirse diferente o cambiar su look.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con esto no me quiero hacer el demagogo, pero quiero decir que muere más gente en la Argentina por inseguridad que por gripe asiática o apendicitis, por ejemplo.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Todos los días tenemos 6 o 7 muertos por eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro tema es la inseguridad, a la que nadie le da bola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este país nos hemos acostumbrado a convivir con la muerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Somos el único país del mundo que no tiene vacunas de COVID; las van trayendo ahora, pero no llegan las segundas dosis de la Sputnik V.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo me puse la primera… ¡El día que me pongan la segunda, fabricaremos inodoros sin pies!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué lástima!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "Llamamos a la otra y se acabó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer… hoy te doy la rusa… bueno, no importa.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Son dos dosis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, la segunda dosis nunca va a llegar, y parece que si llega… según dijeron hoy… ¡Quién sabe!",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Te sale una testa en la frente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que tener mucho cuidado, porque nadie sabe nada de la vacuna, pero nosotros sabemos menos, porque no la tenemos y estamos peleando contra el COVID tirándole muertos.",
+      "entidades_detectadas": [
+        "COVID"
+      ]
+    },
+    {
+      "frase": "¿Sabes qué pasa?",
+      "entidades_detectadas": [
+        "¿Sabes"
+      ]
+    },
+    {
+      "frase": "Acordate de la campaña de COVID que hicieron Ginés González García, Carla Vizzotti, Alberto Fernández y Cristina Fernández.",
+      "entidades_detectadas": [
+        "Ginés González García",
+        "Cristina Fernández",
+        "Carla Vizzotti",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "El desembarco de Normandía… ¿sabes cómo fue?",
+      "entidades_detectadas": [
+        "Normandía"
+      ]
+    },
+    {
+      "frase": "Los estadounidenses hicieron pie en la arena cuando a los alemanes se les acabaron las balas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras iban bajando, iban matando a 1500… perdón, 15.000 por desembarco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desembarcaban, los mataban a todos; desembarcaban, los mataban a todos; desembarcaban, los mataban a todos… hasta que al alemán que disparaba se le empezó a apoyar el dedo, y 45 llegaron y lo mataron.",
+      "entidades_detectadas": [
+        "Desembarcaban"
+      ]
+    },
+    {
+      "frase": "Bueno, parece ser que con el COVID la está peleando Alberto Fernández, que es un estratega.",
+      "entidades_detectadas": [
+        "Bueno",
+        "COVID",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Napoleón hubiera sido un peón al lado de él… ¡Un estratega de COVID!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual que él, están más preocupados por la campaña (que van a perder las elecciones del año que viene) a corto plazo, que por la gente que muere todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mueren tres… ¡No, mueren 500 o 600 personas!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero ellos están preocupados con la campaña: a ver cómo arman la lista, a ver a quién ponen, a ver a quién denostan… y, por supuesto, todo termina con un gol por elevación a Macri: ¡la culpa de Macri!",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "No, ¡la culpa de Alberto y de Cristina!",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Pero en realidad, mientras nos preocupamos por luchar contra el virus sin nada… porque estamos luchando tirándole viejos para que el virus se los coma… primero se comió a los de 80, después a los de 70, después a los de 60… y ahí sale el chino [nombre omitido para preservar la privacidad] a tocarte bien el orto y decirte: \"Ya me vacuné y me lo merezco\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ibarburu también… somos una raza superior… ¡Unos caraduras!",
+      "entidades_detectadas": [
+        "Ibarburu",
+        "Unos"
+      ]
+    },
+    {
+      "frase": "Nosotros seguimos sin contemplar que detrás del virus hay una república que va a seguir después del virus.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa república está llena de chorros, sin justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos más preocupados por lo de Chocobar que por la cantidad de chorros de los que nunca se supo quiénes son y que mataron a mucha gente.",
+      "entidades_detectadas": [
+        "Chocobar"
+      ]
+    },
+    {
+      "frase": "Entran a la casa de los abuelos, los matan… encontraron a un jubilado muerto, otro con dos puñaladas en la espalda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Encima le ponen el rótulo de \"crimen pasional\", como si estuviéramos justificando que mataron a una persona por pasiones \"normales\", no \"anormales\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Matarlo para robarle la plancha… También la falta de medicamentos, la falta de plata para comprar medicamentos, los jubilados que no llegan a fin de mes, las obras sociales que no entregan medicamentos, la falta de alimentos… la gente se alimenta de polenta, harina y agua.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "La verdad es que es recontraso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y todos esos temas que aún no se tocan, porque lo único que saben hacer los Kirchneristas es salir a explicar que están haciendo por el COVID… nada más.",
+      "entidades_detectadas": [
+        "Kirchneristas",
+        "COVID"
+      ]
+    },
+    {
+      "frase": "O sea… bueno, hoy abrieron un vacunatorio en La Matanza, pero no hay vacunas; hay hisopados.",
+      "entidades_detectadas": [
+        "La Matanza"
+      ]
+    },
+    {
+      "frase": "Hemos abierto un centro de hisopados… ¿pero qué carajo me importa el hisopado?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era hace un año y medio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora tiene que ser la vacuna.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay vacunas; siguen sin llegar las vacunas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente se sigue muriendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mandamos escuadrones de viejos para que mueran, para que caigan en carpas de oxígeno… no hay oxígeno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro tema de Kicillof y otro tema de Alberto del que no hablan es que el país se está incendiando, y nosotros seguimos pelotudeando.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "La vacuna les sirve fenomenal, porque si la traemos, la fabricaremos… ¡China nos dará todo!",
+      "entidades_detectadas": [
+        "China"
+      ]
+    },
+    {
+      "frase": "Mentira tras mentira.",
+      "entidades_detectadas": [
+        "Mentira"
+      ]
+    },
+    {
+      "frase": "Pero después esto se divide en dos: por un lado los muertos del COVID, y por otro lado los muertos de hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya no hay asadito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Menos mal que no hay asado, porque si tuviesen que hacerse un sándwich de chorizo… ¡el pan cuesta 200 pesos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, ¿qué pasa?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A otros presidentes que no eran K, cuando subía dos pesos el costo de vida, les ponían el helicóptero amarillo en Plaza de Mayo, les tiraban 120 toneladas de piedras, les rompían la Casa de Gobierno, los querían matar… y a este no.",
+      "entidades_detectadas": [
+        "Casa de Gobierno",
+        "K",
+        "Plaza de Mayo"
+      ]
+    },
+    {
+      "frase": "¿O lo domesticaron tanto?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿O hay algún interés extraterrestre que nos está dando Lopid desde una nave para que no reaccionemos?",
+      "entidades_detectadas": [
+        "¿",
+        "Lopid"
+      ]
+    },
+    {
+      "frase": "La realidad es que el gobierno de Kicillof es desastroso, que el gobierno de Alberto Fernández es desastroso.",
+      "entidades_detectadas": [
+        "Alberto Fernández",
+        "Kicillof"
+      ]
+    },
+    {
+      "frase": "La vuelta que pegaron por Europa habrá sido muy linda para la foto, pero fue muy fea para el producto.",
+      "entidades_detectadas": [
+        "Europa"
+      ]
+    },
+    {
+      "frase": "La verdad es que estamos hechos mierda, y creo que, aunque se enoje todo el mundo conmigo, todos los que no piensan como nosotros, hay que decirle la verdad a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente anda por la calle y se dice: \"Si todo está tan bien, ¿por qué estamos tan mal?\".",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Estamos tan mal porque están gobernando muy mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Están gobernando para Cristina Fernández, están gobernando para la mentira, están gobernando para el embuste, y no están gobernando para la gente.",
+      "entidades_detectadas": [
+        "Cristina Fernández"
+      ]
+    },
+    {
+      "frase": "Por eso, usted que es jubilado, no le alcanza la plata; usted, clase media, se le cerró el negocio, se lo fundieron; y usted, clase alta, está sacando todos los papeles para radicarse en otro país, porque este país ya no sirve.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta es la realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro tema del que nadie habla… Por eso quería contarles esta noche… Podría pasarme dos horas puteando a Kicillof, a Alberto Fernández, a Ginés González García y a Vizzotti por la falta de medicamentos, pero mejor hablar de la cantidad de gente que muere por la inoperancia de un gobierno inútil.",
+      "entidades_detectadas": [
+        "Ginés González García",
+        "Podría",
+        "Alberto Fernández",
+        "Kicillof",
+        "Vizzotti"
+      ]
+    },
+    {
+      "frase": "Vamos, ¡Dilma!",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Podría",
+    "¿Sabes",
+    "Alberto Fernández",
+    "Kicillof",
+    "Cabi",
+    "Gaby",
+    "Vizzotti",
+    "Casa de Gobierno",
+    "Lopid",
+    "Vamos",
+    "Somos",
+    "San Isidro",
+    "Qué",
+    "Hola",
+    "Rosario",
+    "Carla Vizzotti",
+    "China",
+    "Alberto",
+    "Cristina Fernández",
+    "K",
+    "COVID",
+    "Vivió",
+    "Asaltan",
+    "Ginés González García",
+    "La Matanza",
+    "Camina",
+    "Europa",
+    "Matarlo",
+    "Babi",
+    "Ayer",
+    "Cristina",
+    "Plaza de Mayo",
+    "Bueno",
+    "Mentira",
+    "Ibarburu",
+    "la Argentina",
+    "Caro",
+    "¿",
+    "Chocobar",
+    "Kirchneristas",
+    "Macri",
+    "Carlito"
+  ]
+}

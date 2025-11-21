@@ -1,0 +1,411 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 59,
+      "derecha": 20
+    },
+    "score_promedio": 0.289,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fue un buen día, martes 14 de mayo, y el 14 de mayo de 1989 se inició una era en la Argentina democrática que seguramente quedará en la historia con un término que hoy resuena: la hegemonía de un populismo neoliberal.",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, recibimos la apertura del programa con este spot \"¡Que vuelva Carlos!\" utilizado en la campaña de 2003, titulamos la apertura de hoy, día 156 de **Javier Milei**, \"a Javier Menem\", con un poquito de humor.",
+      "score": 0.39,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es conocida la frase de **Hegel**: \"La historia se repite, primero como tragedia y luego como farsa\".",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy vamos a analizar las similitudes y las diferencias de las presidencias de figuras políticas como Carlos Menem y Javier Milei, asumiendo que Javier Milei lo admira y desea de alguna manera tener un resultado similar al de Carlos Menem, que para mucha gente no fue un buen resultado.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos de vuelta, contó Carlos Menem en su inicio con el apoyo de partidos marxistas como el Partido Comunista Revolucionario, de extracción ideológica maoísta.",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es 1989, el spot de Carlos Menem que proponía \"revolución productiva\" para que los argentinos dejemos de ser víctimas de la especulación.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, al poco tiempo de este spot de campaña, y decíamos, el apoyo del partido, el partido con la orientación ideológica maoísta, el Partido Comunista Revolucionario, al poco tiempo el programa de Menem fue radicalmente distinto: neoliberalismo, privatizaciones, indulto a los militares, apertura a las recetas del Fondo Monetario Internacional.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El Poder Ejecutivo Nacional ha decidido hoy enviar un proyecto de ley al Congreso de la Nación que dispone la convertibilidad del austral y que elimina todas las cláusulas y los métodos de indexación que se han venido utilizando hasta el presente.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí, la producción me acotaba una nota de color: en un reportaje que le hizo recientemente el diario El Mercurio, la semana pasada, al presidente Javier Milei, el periodista tomó nota de que en el escritorio de Javier Milei había una foto del expresidente Carlos Saúl Menem.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La clase media yéndose a Miami o comprando electrodomésticos de última tecnología era una parte del apostolado, y la pobreza extrema, las aulas docentes y el creciente hambre en el conurbano bonaerense y las provincias se manifestaban particularmente entre los niños y los jubilados, la otra cara de las dos caras de la misma moneda.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem siempre planteaba que para ganar una elección era necesario tener una suficiente cantidad de votos, no todo el país.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem ganó por segunda vez casi con el 50 por ciento de los votos, en contra, en aquel momento, de **José Octavio Bordón**, del FrePaSo, ex gobernador peronista de Mendoza, que tuvo solo el 29 por ciento.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le ganó casi por el doble, por 21 por ciento más de votos.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El radicalismo había quedado relegado a una tercera fuerza, y el radicalismo que había ganado las elecciones en 1983, salió segundo en 1989, salió tercero en 1995, y la clave del triunfo de Menem fue la estabilización económica.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa misma estabilización económica que era la que le había permitido a Alfonsín, con el Plan Austral, del que hablaba Cavallo, que era la moneda vigente en ese momento, le había permitido ganar las elecciones de 1985 y haber bajado la inflación de manera drástica, es decir, aquel presidente que logra bajar la inflación de manera drástica, es premiado por la sociedad, por lo menos así lo fue en 1985, pos Plan Austral, y en 1991 por el plan de convertibilidad, es decir, muchos argentinos habían sacado diferentes productos en cuotas, por eso se llamaba el \"voto licuadora\", y temían que un gobierno de distinto color político terminara con la convertibilidad y se convirtieran en impagables las deudas que tenían en cuotas, en ese \"voto cuota\" en dólar.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese gobierno de Menem transformó completamente la historia argentina y el impacto que tuvo es monumental.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tendría la necesidad de una extensión mucho mayor de la que tenemos en esta apertura, estamos haciendo una síntesis a partir de que hoy van a colocar el busto de Menem, contábamos ayer, corre en el busto de Néstor Kirchner a un costado para darle un lugar más protagónico en el salón de los bustos de la Casa Rosada, pero lo que haremos hoy es aprovechar la doble efemérides para realizar un análisis comparativo del gobierno de Menem y el actual gobierno de Milei.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar unos audios que diferentes analistas y militantes políticos le enviaron a nuestra producción.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar primero el audio del economista **Lucas Llach**, de la Fundación Mediterránea, es decir, de donde se originó Domingo Cavallo, que llama: \"Es sumamente interesante hacer un comparativo entre lo que sería Menem y Milei, sobre todo a cinco meses de gestión.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero que todo, hay una coincidencia en lo ideológico, no tanto en la gestión del presidente peronista Menem con el presidente libertario Milei.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segundo, Milei ganó diciendo lo que iba a hacer, esto lo puede diferenciar un poco de Menem, dado que planteaba la revolución productiva, el \"salariazo\", y después terminó tomando una gestión del gobierno que fue mucho más, no, que fue mucho más capitalista de lo que él planteaba en la campaña.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tercero, Menem tenía un partido político constituido que lo respaldaba y muy fuerte, como el Partido Justicialista, en ese momento, así que eso le daba un aval que el presidente Milei no tiene.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había, además, justamente por esta situación, distintas urgencias para resultados, Milei tiene que mostrar resultados lo antes posible para llegar con posibilidades de éxito a las elecciones del 2025.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem era un presidente que buscaba más la negociación política, mientras que Milei se mantiene como una persona que es un outsider de la política y que quiere llevar adelante un plan de gobierno.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después, por último, a Menem le costó definir un plan de gobierno inicial, o sea, no lo tenía, más allá de que tenía un gran apoyo político institucional, es decir, del arco político, mientras que la diferencia con Milei es que tiene un plan de gobierno, pero no tiene ese apoyo político institucional que sí tenía Menem\".",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Jorge Asís**, el periodista y escritor, que además fue embajador de Menem en Europa en aquellas épocas, él escribió hace muy poquito una columna que titulaba \"El gobierno de Milei como menemismo sin PJ\", es decir, sin el apoyo detrás del Partido Justicialista.",
+      "score": 0.293,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En aquel momento Menem tenía, y el peronismo tenía, la gran mayoría de todos los gobernadores, mayoría absoluta en diputados y prácticamente mayoría absoluta en el Senado, situación que obviamente no tiene Javier Milei.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, Menem en la reelección compite contra una parte del peronismo, por el radicalismo, como dijimos, salió tercero.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchémoslo a Julio Bárbaro: \"Desde el punto de vista económico, Menem fue peor que la misma dictadura.",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta idea de destruir el Estado para agrandar la nación, que era de la dictadura y que expresó Menem y que ahora expresa Milei, en el fondo es la más mínima carencia de patriotismo.",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin Estado no existen países en el mundo.",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En eso fue lo mismo Menem que Milei, por eso tantos Menem se reiteran en el gobierno de Milei\".",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, este planteo que hace Julio Bárbaro, en el que se menciona la similitud de los planes económicos de Menem y Milei, se puede encontrar en muchos momentos nodales de los gobiernos menemistas.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos referimos a los gobiernos peronistas y menemistas porque hubo dos Menem, uno de seis años, Menem II, de cuatro años.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Nación Argentina cumplimenta esta noche siete cabalísticas privatizaciones, siete sectores estratégicos del quehacer nacional.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que parece además hasta un discurso antiestatista que el presidente continúa con total vigencia.",
+      "score": 0.621,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos a escuchar al propio Menem, antiestatista, perdón, que el presidente actual continúa con total vigencia.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar al propio Menem defender esas ideas en dos ocasiones particulares, una cadena nacional el 31 de octubre de 1991, donde Carlos Saúl Menem decreta la desregulación de la economía.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de hoy rompemos la telaraña de un Estado prebendario, asfixiante y arbitrario, que trabó la vida productiva nacional con un conjunto de innecesarias regulaciones\".",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora vamos a compartir otro fragmento donde Carlos Menem, después de decir lo que van a escuchar: \"A partir de hoy rompemos la telaraña de un Estado prebendario\", algo pareció la definición de \"casta\" que hace Milei.",
+      "score": 0.353,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, vamos a otro, Carlos Menem diciendo: \"Se acabaron las situaciones de privilegios\", que también en los privilegios de la, el nuevo neologismo \"casta\".",
+      "score": 0.649,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el punto de vista económico se encuentran varias similitudes en sus programas, ahora, desde el punto de vista de las personalidades de ambos dirigentes, se encuentran muchas, muchas diferencias, o sea, Carlos Menem era una persona que trataba que los demás lo quisieran e inmediatamente trataba de empatizar personalmente con cada una de las personas con las que se encontraba.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas diferencias se pueden observar, no implica que Milei le tenga un gran aprecio al expresidente Menem.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar el programa como lo defendían, en este caso, Javier Milei en \"La Nación Más\".",
+      "score": 0.355,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El mejor presidente de la democracia\".",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El primer gobierno de Menem es el mejor gobierno de la historia.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El primer Javier Menem.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei y Javier Menem de Carlos.",
+      "score": 0.794,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Carlos Milei y Javier Menem.",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como decíamos antes, él dice: \"Menem fue el mejor presidente de la democracia\".",
+      "score": 0.705,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, **Martín Menem**, y, ni más ni menos, el sobrino del expresidente, quien también plantea que el gobierno de Milei es una actualización de las ideas de su tío, el expresidente Menem.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a Martín Menem en 2022.",
+      "score": 0.577,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Yo creo que Milei es quien mejor representa las ideas de Menem\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, que hubo errores en los 90, y eso no lo vamos a negar, pero fundamentalmente en diciembre del 99, la Argentina estaba creciendo de nuevo con estabilidad monetaria, el último semestre del 99 Argentina estaba creciendo.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, en el 97 Argentina crece con deflación.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Carlos Menem venía de una importante trayectoria política, había sido dos veces gobernador de La Rioja, histórico militante peronista, había estado preso durante la dictadura.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei podríamos decir que uno de los que estuvo más tiempo preso, estuvo inicialmente detenido en un famoso barco que había en el puerto argentino, dependiendo de la Armada, en aquel momento, conducido por Masse, y luego había estado preso en Las Lomitas, en Formosa.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se podría considerar a Menem un outsider, no en el sentido de que alguien sea fuera del sistema político, sino de alguien que estaba por fuera del personal político clásico del área metropolitana.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se podría decir que Menem, en algún sentido, por lo menos estéticamente, o por lo menos para la zona pampeana y obviamente la ciudad de Buenos Aires, representaba un outsider, mientras que el prolijo Antonio Cafiero representaba todo aquello de lo políticamente correcto.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su primer ejercicio del Poder Ejecutivo es ahora como presidente, es decir, su experiencia política es casi nula, tratando de marcar las diferencias que bien decía Jorge Asís, que Milei pretende hacer menemismo sin PJ, es decir, sin el apoyo atrás ni la trayectoria del Partido Justicialista.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otro lado, Menem era un dirigente político que lograba alinear a todo ese partido detrás de sí, ese amplio partido que ni siquiera Cristina Kirchner y Néstor Kirchner lograron colocar detrás de sí, porque, por ejemplo, el peronismo cordobés, ni con la época de Néstor Kirchner, ni con la época de Cristina Kirchner se alineó detrás del presidente de ese momento.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem sí lo logró.",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei creó un partido nuevo, y tiene dificultades en varias de sus líneas.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem era un dirigente de mente fría, rara vez se lo vio fuera de su eje.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei, sin embargo, nos tiene acostumbrados a explosiones de ira y palabras desmedidas contra aliados y adversarios, y por otra parte, Menem logró la estabilización macroeconómica y tenía un modelo económico definido con sus ganadores y perdedores.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Falta ver cuál es la viabilidad económica de la estabilización macroeconómica que Milei plantea.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem generó privatizaciones, generó una reforma laboral en convivencia con la mayoría de las cúpulas sindicales.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei se enfrenta a todos los sindicatos.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem ganó la hegemonía política argentina, logró ser un presidente figura con ciertos aires de farándula.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei aún está intentando construir esa hegemonía y es muchas veces ridiculizado.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei y Menem son dos políticos distintos que van para el mismo lado.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus aptitudes personales hacen creer que puede tener problemas para poder imitar a su antecesor y el maestro, sin embargo, la política es el arte de lo posible, y nunca se puede subestimar a un personaje que logró canalizar un sentir popular y se transformó en presidente, como es el caso de Javier Milei.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la gestión actual se repite, no solo el nombre Menem, también hay nombres que resuenan de aquellos años 90, obviamente Cavallo, pese a sus críticas, es una referencia continua, de hecho, su hija también pasa a ser representante de Argentina en un organismo interior y exterior, el apellido Mondino también se repite, dado que Guillermo, el hermano del actual canciller, también fue parte de aquella gestión.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ministro del Interior, **Guillermo Francos**, es otro apellido que se repetía de la época de Menem a hoy, como **Alberto Fernández**, que decía no estar de acuerdo con las \"20 verdades peronistas\".",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Menem introdujo en la cultura popular otra variación de la doctrina.",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A instancias de un periodista muy famoso en aquellos años, **Bernardo Neustadt**, decía que la marcha partidaria, que se anunciaba la famosa marcha peronista, que tiene un estribillo que es \"combatiendo al capital\", debía ser cambiada por \"seducir al capital\".",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se puede decir que, de alguna manera, el periodista Bernardo Neustadt y su programa era algo equivalente a lo que hoy hace Milei con las redes sociales, todo el apoyo que tenía Menem de aquel periodista y toda su caja de resonancia sería equivalente en aquella época, no existía el internet, a lo que hoy logró hacer Milei con internet y con las redes sociales.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viene una memoria que podría ser un buen título de una apertura, que es de Bernardo Neustadt a Elón Musk: ¿Sucederá ese acto de seducción en el gobierno actual con este estilo hiperbólico de Javier Milei?",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Deberá ser un Carlos Milei, como decíamos en la apertura de este programa, para que tenga éxito el Javier Menem que está en el gobierno?",
+      "score": 0.368,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 79
+  },
+  "etiqueta_original": "neutral"
+}

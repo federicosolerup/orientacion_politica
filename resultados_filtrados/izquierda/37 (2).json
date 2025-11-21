@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Y ahora este asesinato en Córdoba… no recuerdo el nombre de la víctima, pero mañana, en la reunión de la comisión, la directora de nuestra sede en Córdoba nos informará sobre el hecho y el mensaje intimidatorio atribuido a Estela Mauro.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Las amenazas a la mujer de Córdoba comenzaron días antes del asesinato.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Mañana, en la reunión de comisión, la joven a cargo de nuestra sede en Córdoba nos contará los detalles, cómo ha actuado el Estado en esta provincia.",
+      "entidades_detectadas": [
+        "estado",
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Escuchaste a Cristina Kirchner el sábado?",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Jorge Rial: Maduro está ofendiendo la memoria de Chávez.",
+      "entidades_detectadas": [
+        "maduro"
+      ]
+    },
+    {
+      "frase": "En Latinoamérica debemos defendernos, todos sufrimos dictaduras y perdimos familias.",
+      "entidades_detectadas": [
+        "latinoamérica"
+      ]
+    },
+    {
+      "frase": "Tenemos un presidente del cual no sabemos quién es en definitiva.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

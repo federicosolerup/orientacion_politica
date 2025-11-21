@@ -1,0 +1,271 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 30,
+      "derecha": 21
+    },
+    "score_promedio": 0.416,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fue lo que dijo Néstor Kirchner en uno de los comienzos de la pelea contra el grupo mediático, y quedó instalado como frase símbolo.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente en muchas ocasiones apareció nervioso, sin embargo, en esta oportunidad se lo ve especialmente nervioso.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes asisten a la política argentina hoy ven en el presidente una nueva forma de *hubris*, de la furia de Alecto, generadora de enfrentamientos que pueden hacer tambalear los propios cimientos de su esquema de la libertad.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo ayer \"degenerados fiscales\", y volvió a decir \"ratas\", llamó el presidente a los diputados, que reunieron dos tercios de los votos presentes en el Congreso para votar una nueva fórmula jubilatoria que ayuda a recuperar en parte los haberes de los jubilados.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derrota del oficialismo en el Congreso tuvo una particularidad: unió a diputados de Unión por la Patria con la Unión Cívica Radical, formaron coaliciones federales, unió a la oposición dura con la oposición dialoguista, un escenario inédito que requiere más de la política que de los enojos.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá del contenido, pongamos particular atención en la siembra de discordia en las respuestas de Milei a esta derrota que fue ayer en el Economic Forum de Latinoamérica.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar primero a Javier Milei diciendo: \"Les voy a vetar todo, me importa tres carajos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri tomó un déficit fiscal de 7 y dejó, al fin de su mandato, un déficit fiscal de 0.5, se bajó 6.5 y no voló para nada por los aires.",
+      "score": 0.722,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le echó, por ejemplo, la culpa de la situación en la votación de anteayer al kirchnerismo.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar otro audio de Javier Milei, donde dice: \"La apuesta de nuestros predecesores era que se gatillara una gran corrida para volver al poder en enero\".",
+      "score": 0.374,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pues no, esa contrafáctica que construye el presidente está en su cabeza, es una conjetura imposible de comprobación.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ministro de Economía, por su lado, Luis Caputo, defendió el estilo confrontativo de Milei, y en el mismo evento, la ira de Milei tendría, como en la mitología, un sentido restaurativo.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos ahora a Luis Caputo, que dice que si Milei no tuviera esa personalidad, no tendríamos la oportunidad histórica que tenemos.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente y su personalidad.",
+      "score": 0.681,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque yo creo realmente que si no tuviéramos este presidente con esta personalidad, hoy no estaríamos en frente de la oportunidad histórica que tenemos en frente, y que no se puede cambiar el país que viene, como todos sabemos, en caída libre de los últimos 100 años\".",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente subió un curioso tuit en el que se ve una imagen hecha con inteligencia artificial.",
+      "score": 0.764,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la imagen hay un león con una motosierra, que vendría a ser él, con una bandera argentina de fondo, defendiendo una caja de un grupo de ratas, que vendrían a ser los diputados.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comunicado de la Oficina del Presidente, 5 de junio: \"La Oficina del Presidente ratifica que el presidente vetará la ley.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Minutos después, en el mismo recinto, votaron en contra de eliminar las jubilaciones de presidentes y vicepresidentes; es decir, la misma noche en la que se disponían a quebrar el Estado Nacional, optaron por perpetuar los privilegios de algunos.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por todo lo expuesto, con el propósito de rectificar lo acontecido en la Cámara de Diputados de la Nación, y en consonancia con la determinación del Poder Ejecutivo de desmantelar el entramado normativo de privilegios políticos, el presidente Javier Milei presentará ante la ANSES su decisión de no ejercer el derecho a la jubilación de privilegio.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta administración lamenta que diputados bienintencionados participaran de la trampa legislativa de Máximo Kirchner y reitera su decisión inquebrantable de mantener el equilibrio fiscal utilizando todas las herramientas que proporciona la Constitución Nacional, incluyendo el veto, de ser necesario.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la Nación ha demostrado de sobremanera la voluntad de cooperar con la dirigencia política recurriendo al Congreso de la Nación en búsqueda de las herramientas necesarias para salir de la crisis reuniendo el Pacto de Mayo para acordar políticas de estado con todos los actores de la vida económica y social de la Argentina.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos actores quieren que la Argentina siga por el mismo rumbo que nos ha condenado al fracaso.",
+      "score": 0.577,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina ha cambiado y el mandato popular será defendido con todas las herramientas del Poder Ejecutivo\".",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice que esta buena voluntad del presidente no ha sido recíproca.",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad que los diputados, a los que los ha acusado de \"ratas\", de \"chorros\", de \"coimeros\", no parece que hayan tenido más benevolencia que la que el presidente tuvo para con ellos.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Prometió que le iba a meter la mano en el bolsillo a los jubilados, y nosotros prometimos que íbamos a defender a los jubilados, y es lo que vamos a hacer.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No sabe la Constitución el presidente?",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No sabe que si veta y el Congreso insiste con dos tercios, la ley es igual de todas maneras?",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están dando vuelta al tema y nadie lo dice.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fundamentalmente cree que la política es para narcos, marginales, delincuentes, gente que no tiene ningún interés en defender la Argentina y piensa que el presidente, cuando termina su mandato, tiene que ir a pedir trabajo a alguna fábrica.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No rompamos este principio que reconoce en la figura de un presidente de la Nación un derecho.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Miguel Ángel Pichetto le toca por primera vez estar en contra de un gobierno.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hecho del eventual veto nos remonta a cuando Cristina Kirchner vetó el 82% móvil a los jubilados, tras perder la votación en el Congreso.",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Parlamento le ha devuelto al sistema previsional y a los jubilados la dignidad que la dirigencia política le había arrebatado durante todos estos años.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo he votado conforme a lo que venía diciendo, y, así que, en ese sentido, me expresé manteniendo la coherencia de lo que habíamos hecho en Mendoza en forma conjunta con la Nación.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es una ley de quiebra del Estado y estafa a los jubilados, como lo han hecho ya en otras oportunidades\".",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, una producción le preguntó a Delia Ferreira, doctora en Derecho y miembro del Consejo Global sobre Buen Gobierno del Foro Económico Mundial, sobre el aspecto técnico del veto del presidente y cómo funciona ese recurso que tiene el Poder Ejecutivo.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También, el presidente puede vetar el proyecto que ha recibido.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando veta totalmente o veta parcialmente un proyecto de ley, lo debe volver a enviar a las cámaras, entrando por la cámara de origen.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El presidente está cometiendo un grave error político, otro más.",
+      "score": 0.656,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, además, y esto creo que es lo más importante, es que el presidente no ha advertido de que esta ley ha sido aprobada por una amplísima mayoría que supera, inclusive, los dos tercios de los votos, por lo cual, conforme la Constitución, si el presidente pretendiera vetarla, podría la Cámara, a través de esta mayoría especial, igualmente ponerla en vigencia.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo cual, creo que el presidente tiene que recuperar la cordura y la mesura y entender que el camino es el debate legislativo\".",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Agradece por el presidente Milei a esta iniciativa para aplicar este mecanismo de movilidad jubilatoria.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me da la impresión que otras cuestiones que él podría hacer, como aumentar bienes personales, o como levantar las exenciones impositivas que hay en Tierra del Fuego, para conseguir los recursos para pagarles a los jubilados, lo que él decide es ir con esta herramienta, una herramienta que es muy excepcional y, en mi criterio, tiene que ver un poco con su estilo bastante autoritario de proceder.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El pueblo lo veneraba y sus enemigos le temían, pero nadie, ni él mismo, sabía de la debilidad que tenía en su talón.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Será el punto débil de Milei la unidad de la oposición?",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿O, simplemente, el talón esté en el enojo y en la furia que se le produce?",
+      "score": 0.628,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Partiendo de que hubo coincidencias entre una de las cartas de Cristina Kirchner que hablaba, y con otros términos, la reforma laboral, y varias de las ideas de Miguel Ángel Pichetto, por ejemplo, ¿podrá esta oposición encontrar otros puntos de acuerdo?",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuevamente, la justicia volvió a insistir, le decía a la ministra en segunda instancia, que presente el plan de distribución de alimentos.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos estos elementos hacen ver al presidente nervioso y pueden terminar de unir a la oposición, lo que reiteramos puede ser el talón de Aquiles de Javier Milei.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 51
+  },
+  "etiqueta_original": "neutral"
+}

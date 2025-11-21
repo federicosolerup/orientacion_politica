@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei mantiene su popularidad por una razón fundamental que eclipsa otras cuestiones: la baja, rápida y contundente de la inflación.",
+      "entidades_detectadas": [
+        "javier",
+        "presidente",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Esto indica que el dólar está barato, una situación similar a la de los últimos años del gobierno de Carlos Menem.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Sin embargo, la baja del dólar bajo Menem terminó con una recesión de cinco años (tres de su gestión y dos de la de Fernando de la Rúa).",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "A diferencia de Menem, que vendió empresas para obtener dólares, Argentina cuenta hoy con un gran ingreso de divisas sostenibles a largo plazo gracias a las exportaciones de hidrocarburos (petróleo y gas), minerales (litio, cobre, etc.) y productos agropecuarios.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En resumen, la popularidad de Milei se basa en la baja de la inflación, lograda mediante una recesión y un dólar bajo.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

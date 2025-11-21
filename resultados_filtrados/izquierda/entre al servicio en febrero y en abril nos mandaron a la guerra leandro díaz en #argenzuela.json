@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Estábamos anotados en la revista del Centro de Ex Combatientes de Malvinas (Beguema), para asistir al acto conmemorativo.",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    },
+    {
+      "frase": "Algunos venían de lejos, de Campana, otros habían participado de la vigilia en San Andrés de Giles.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "¿Escuchó el discurso del presidente Alberto Fernández?",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente"
+      ]
+    }
+  ]
+}

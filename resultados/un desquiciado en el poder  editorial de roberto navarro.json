@@ -1,0 +1,468 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Todo lo que puede salir mal, saldrá mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si no hay Estado, las funciones que este cumple quedarán desatendidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, grandes empresas del país y vehículos convertidos a gas enfrentan problemas de suministro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las empresas no pueden producir y los vehículos no pueden circular.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque el Estado no se ocupó de finalizar el gasoducto ni de adquirir el gas necesario.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Cuando llegó el frío, un ministro exclamó: \"¡Qué frío que hace!",
+      "entidades_detectadas": [
+        "llegó"
+      ]
+    },
+    {
+      "frase": "Deberíamos revisar la falta de gas\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro respondió: \"¡Uy!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se me pasó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Debimos hacerlo en febrero\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy carecemos de gas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este no es un incidente aislado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hace tiempo que se advierte la falta de mantenimiento en los trenes, negligencia que culminó en un choque.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estuvieron más de un mes sin clorar el agua, hasta que alguien preguntó: \"¡Che!",
+      "entidades_detectadas": [
+        "¡Che"
+      ]
+    },
+    {
+      "frase": "¿No deberíamos clorar el agua?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se realiza mantenimiento de rutas, ni se implementaron controles de alcoholemia en las rutas nacionales durante las vacaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado no está funcionando.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "De hecho, el 70% de los puestos necesarios para su funcionamiento están vacantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En algunos casos, permanecen empleados de la gestión anterior, mientras que en otros no hay nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin firmas autorizadas, no se pueden tomar decisiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado se está paralizando, y con ello, el país se apaga.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esto empieza a desmoronar uno de los mitos creados en Argentina: la necesidad de un Estado pequeño.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Se argumenta que el Estado es un problema.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "¿De dónde surge este mito?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde aprendió la gente a repetirlo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente lo repite, ¿pero dónde lo aprendió?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿En el colegio, en la universidad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, lo aprendieron en la televisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos no estudian demasiado en el colegio, pero sí prestan atención a la televisión, y allí aprendieron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aprendieron todo lo que enseñaba la televisión, que promovía el odio hacia los sindicalistas que defienden a los trabajadores, hacia los abogados laboralistas que también los defienden, y hacia el Estado, porque los empresarios no quieren pagar impuestos y prefieren un Estado lo más pequeño posible para evitar controles.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "De ahí el discurso anti-Estado y, en los últimos tiempos, el discurso antipolítica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquí tenemos otro mito: no solo el mito del Estado, sino también el mito de que los políticos son todos malos, como una raza inherentemente enferma.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Se los compara con el cáncer, y se proclama la necesidad de un \"no político\" al mando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, y un \"no político\" llega al poder sin saber cómo funciona el sistema.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Libera las prepagas y luego debe dar marcha atrás.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sabe qué botones apretar en la Casa Rosada para gobernar, ni cómo sacar una ley, ni cómo relacionarse con los países socios.",
+      "entidades_detectadas": [
+        "Casa Rosada"
+      ]
+    },
+    {
+      "frase": "Por eso, el barco de gas está en el puerto, pero no descarga porque Lula dice: \"No, muchachos, los estaba esperando.",
+      "entidades_detectadas": [
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Les falta un papelito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vuelvan mañana en horario de oficina y los atenderé\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los Estados son administrados por políticos.",
+      "entidades_detectadas": [
+        "Los Estados"
+      ]
+    },
+    {
+      "frase": "Si un político no te gusta, lo reemplazas por otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si mi médico clínico no me gusta, no lo reemplazo por un plomero o un ingeniero, sino por otro médico clínico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero a la gente le enseñaron a odiar a los políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los medios nunca critican a los empresarios, que para ellos son todos buenos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No investigan cuántos impuestos evaden.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema es si una señora se quedó con dos kilos de arroz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay muchos mitos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, el mito de que al bajar el gasto público la inflación desaparecería.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero la verdad es que en los últimos cinco meses tuvimos un 120% de inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro mito que te vendieron en la televisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el mito de que había demasiados ministros, ¿recuerdan?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "\"Esos gabinetes enormes...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pero qué quieren?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con ocho alcanza\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ocho, cuatro se los dieron a [nombre corregido].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desarrollo Social, Trabajo, Educación, Cultura, todo en manos de la ex productora de [nombre corregido].",
+      "entidades_detectadas": [
+        "Trabajo",
+        "Educación",
+        "Cultura",
+        "Desarrollo Social"
+      ]
+    },
+    {
+      "frase": "No tiene la menor idea de qué hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el problema del país era que teníamos muchos ministros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te lo enseñó la televisión, ¿eh?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ponete [canal de noticias ficticio] a las 20 que te lo repiten todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y se acuerdan de [apodo ficticio] cuando [apellido corregido] decía \"fuera, fuera\"?",
+      "entidades_detectadas": [
+        "¿",
+        "ficticio"
+      ]
+    },
+    {
+      "frase": "Iba quitando ministros y [apodo ficticio] se reía.",
+      "entidades_detectadas": [
+        "ficticio",
+        "Iba"
+      ]
+    },
+    {
+      "frase": "Siempre se ríe cuando habla [apellido corregido].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, no se puede gobernar con tan pocos ministros, ¿vieron?",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Hay un montón de mitos, que este desquiciado está rompiendo en poco tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todas las cosas que te enseñó la televisión eran mentiras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hace falta Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Hace falta que nos gobiernen los políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema de la inflación es mucho más complejo de lo que te hicieron creer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se necesita un ministerio para cada tema, con sus secretarios de Estado, sus subsecretarios.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Todo lo que te contó la televisión es mentira.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo más importante de todo es entender que el Estado es primordial, y que en el Estado deberían estar los mejores, y a esos mejores hay que pagarles bien.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El Estado es importantísimo, es imprescindible.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "No podemos vivir sin Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "¿Querían tener un Estado chico?",
+      "entidades_detectadas": [
+        "¿Querían"
+      ]
+    },
+    {
+      "frase": "¿Querían poner a cualquier desquiciado con tal de que no haya un peronista?",
+      "entidades_detectadas": [
+        "¿Querían"
+      ]
+    },
+    {
+      "frase": "Bueno, hoy no hay gas.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Y ojo, eh, cuando se suban a un auto, porque los colectivos no pueden hacer mantenimiento, porque les subieron el combustible y no les dan subsidios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y publicó Rodrigo Núñez que por la ola polar se esperan cortes de electricidad programados.",
+      "entidades_detectadas": [
+        "Rodrigo Núñez"
+      ]
+    },
+    {
+      "frase": "¿Se acuerdan hace cuántos años?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo me acuerdo, hubo en Argentina, en los 80, después de la dictadura, que nos dejó destruidos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Bueno, cortes de electricidad programados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin gas, sin electricidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el desquiciado, para no votar a [nombre corregido], votaron a ese.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque te lo enseñó la tele.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "¿Qué tal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo les va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cómo",
+    "Rodrigo Núñez",
+    "Desarrollo Social",
+    "Lula",
+    "Deberíamos",
+    "Estado chico?",
+    "Estado",
+    "Cultura",
+    "Buenos días",
+    "Claro",
+    "Hace",
+    "Argentina",
+    "Ocho",
+    "Los Estados",
+    "Educación",
+    "¡Che! ¿",
+    "El Estado",
+    "¿Querían",
+    "Bueno",
+    "Iba",
+    "¿Dónde",
+    "¿",
+    "ficticio",
+    "Trabajo",
+    "Vuelvan"
+  ]
+}

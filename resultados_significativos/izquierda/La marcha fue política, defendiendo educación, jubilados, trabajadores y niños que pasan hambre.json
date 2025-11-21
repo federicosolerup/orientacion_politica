@@ -1,0 +1,156 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 25,
+      "derecha": 3
+    },
+    "score_promedio": 0.135,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Tenía razón Javier Milei, la marcha de ayer fue política; expresó no solo la preocupación de más de un millón de argentinos por la situación educativa, sino también sumó el descontento de muchos sectores de la sociedad con la gestión del gobierno.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La presencia de la CGT, de políticos de centro progresista como Horacio Rodríguez Larreta o de Lilita Carrió, junto con los partidos de izquierda, con el kirchnerismo, revela una suerte de dos tercios simbólicos de la representatividad política en las calles.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver cómo afectó la marcha de ayer a Javier Milei, si la movilización golpeó al gobierno o fue un hecho más y, antes de contestar esta pregunta, vamos a intentar hacer una genealogía de las marchas como instrumento de reclamo.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a analizar el impacto que distintas marchas tuvieron en la historia y luego nos volveremos al presente y a las consecuencias de esta importante marcha universitaria de ayer.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los seguidores del parlamentario y periodista John Wilkes se movilizaron para exigir que se le permita postularse en las elecciones y luego volvieron a marchar para que no sea destituido del parlamento.",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En su periódico semanal llamado *The North Briton*, el parlamentario había criticado al rey Jorge III y esto le valió la furia de la corona inglesa y el apoyo de buena parte de los trabajadores.",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La novedad que se produjo en Inglaterra con los seguidores de Wilkes es que a esa forma de moverse por el espacio se sumó una serie de consignas que le daban a esta acción un sentido nuevo.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jóvenes pedían el fin del imperialismo del que Francia era gran exponente y la liberación de la moral y las costumbres conservadoras de la sociedad.",
+      "score": 0.276,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francia fue un lugar único para vivir la revolución, aunque en otros países como México o Checoslovaquia la represión fue más dura, el movimiento contestatario era global.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para los obreros, las reivindicaciones culturales de los estudiantes están en un segundo plano, piden mejores condiciones materiales y salariales para el desempeño de su trabajo.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Será en el caso de la Argentina algo parecido?",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasaron pocos años de este joven Boric, que parecía tener un look más similar al que hoy tendría en la Argentina Juan Grabois.",
+      "score": 0.519,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Argentina fuimos parte del movimiento global que produjo el Mayo Francés, nada más que llegó un año después y concentrado en el tema de los obreros, estamos hablando del famoso Cordobazo de 1969, 29 de mayo de 1969.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre los cordobeses dicen que Córdoba anticipa a la Argentina; de hecho, en la marcha de ayer en Córdoba fue más multitudinaria de lo que había sido la anterior, teniendo en cuenta, además, que Córdoba es uno de los lugares donde Milei sacó más cantidad de votos.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay veces que dirigentes de agrupaciones estudiantiles, o que organizan marchas o movilizaciones, luego continúan ganando representación en diferentes cargos políticos, como mencionábamos recién, el caso por excelencia es el de Gabriel Boric en Chile.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La marcha de ayer podrá generar una nueva figura política a la que Milei deba tener en cuenta.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto puede provocar que Milei deba enfrentar una derrota porque no tendría los números en el parlamento para sostener el veto del presidente, como sí sucedió con el de las jubilaciones.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la imagen positiva de Milei se deteriora lo suficiente y, al mismo tiempo, el descontento social sigue en aumento con un juicio político, es decir, no es lo mismo el primer veto que el segundo veto.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es una discusión de cifras ni reclamos de un sector en particular, lo que está en juego es algo mucho más profundo: los valores que nos unen como nación, esos que están enraizados en nuestra historia y en nuestro ser, en nuestro ser argentino.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, vamos a empezar con Cristina Kirchner, diciendo: \"Soy hija y tributaria de la universidad pública\".",
+      "score": 0.615,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y para toda la gente que como yo es hija y tributaria de la universidad pública, me salió gratuita, mi viejo era trabajador, después fue comerciante, pero era muy laborante, mi mamá también, y tuve una hija abogada, otra médica, bueno, esa universidad, el ascenso social ascendente que nos permitió ser una argentina diferente.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar a la presidenta de la Federación Universitaria Argentina, Piera Fernández de Piccoli, leer el fragmento del documento acordado para este acto, y vamos a compartir nuevamente el discurso de ayer de Piera Fernández de Piccoli.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soñamos un país en el que el futuro no esté condicionado por el lugar donde a cada quien le tocó nacer.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece un acierto que esta vez no hayan sido los sindicalistas quienes hablaban, porque lo que estaba sucediendo allí trascendía claramente a un tema sindical, y como bien lo marcó Piera Fernández y es interesante su idea, se está hablando del futuro, algo que no estuvo naturalmente presente en la marcha, la defensa de la educación como defensa del derecho a tener un futuro próspero, un futuro de ascenso social.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei se decidió a combatir el pasado para tratar de explicar que todo el pasado estuvo mal, sin embargo, nunca se dedicó a pelear por una real, una real proyección de futuro y lo que tiene que ver a la educación, y hoy parte importante de la juventud, es decir, del sector que más lo votó, cree que con este tipo de políticas no hay futuro posible.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, contaba Mardones en el programa anterior, en este mismo programa, pero previamente que cuando se logró el tercio que bloqueaba a los dos tercios en el veto del presidente a los aumentos de los jubilados, luego, cuando se celebra el triste asado, no tuvo la misma cantidad, ya hubo ausentes que habrá que ver qué hacen hoy.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa posible mayoría circunstancial podría desembocar en una mayoría general con una agenda diferente a las del gobierno y que pueda realmente enfrentar a Milei.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta que queda latente y tendrá que ver justamente con la marcha del resto de los frentes al gobierno, es decir, si a este tipo de malestar general que se tiene con este gobierno le sigue sumando otros por las tarifas de transporte, las tarifas en los servicios públicos, el alza de precios, los alimentos y esa mayoría social pueda oponerse y criticar al gobierno en el resto de sus políticas.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 28
+  },
+  "etiqueta_original": "neutral"
+}

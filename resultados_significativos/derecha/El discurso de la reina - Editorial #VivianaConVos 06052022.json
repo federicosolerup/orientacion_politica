@@ -1,0 +1,376 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 7,
+      "derecha": 65
+    },
+    "score_promedio": 0.754,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Todos los días en Argentina esperamos a ver qué dice hoy la reina.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pelea, yo no le pegué a nadie, a mí tampoco me pegó nadie.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso le pido que nadie se haga de este estado, sea el poder judicial o el poder legislativo.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos son, esas son las víctimas.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, aunque te quieran separar, Unidad de Ciudadanos, hayan lanzado su candidatura, no sé si a gobernadora, a presidente para el 2023.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta conferencia de la reina tenía un título preocupante: Cristina **Fernández** de Kirchner, Estado, Poder y Sociedad, la insatisfacción democrática.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos saben que quiere arrojar al presidente por el balcón.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi padre me dijo: \"no le digas más 'el gordo'\".",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le digas más 'gordo', ¿a quién?, al presidente.",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella se cree el Estado y también es el poder.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es impresionante, le preguntan a la señora que tiene la remera de La Cámpora.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella vino a defender a todos los que son las causas de Cristina y de Asilio.",
+      "score": 0.506,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le escuchaba a la señora, una militante de Alma, defiende cualquier cosa.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** es un pelele y Cristina Kirchner es una tragedia.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin dudas, Cristina ya es una tragedia para este país.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que queremos a este país no queremos que Argentina sea ni un país marginal, ni una anomalía irremediable.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no quiero que Argentina sea una anomalía irremediable, ni que siga en una decadencia crónica.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el problema es que mucha gente empieza a dar a Argentina por perdida, desde hace tiempo, como una anomalía irremediable.",
+      "score": 0.48,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué representa Cristina Kirchner como mujer en la política?",
+      "score": 0.584,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé, me parece una tragedia para Argentina volver a estar en estas manos.",
+      "score": 0.571,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Respecto a la vuelta suya, pues no sé, me parece, insisto, trágico para los argentinos que Cristina Kirchner haya vuelto.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablamos un poco de usted y que pretenda continuar, porque quiere el poder a perpetuidad.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De ahí el autogolpe que hace y trata al presidente como un pelele.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo, la justicia en España es lo mismo.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tampoco es que en España están mucho mejor que nosotros, pero un poquito mejor todavía, sí.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente no decide, vamos a ver en un rato lo que hizo hoy fue un papelón.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esperemos que la salida de Argentina no sea, como siempre decimos, es eiza.",
+      "score": 0.557,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted me decía: \"lo mejor a **Susana**\".",
+      "score": 0.71,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted es un sol, mi vida, me muero de pensar...",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted me recibiste, me muero de pensar, me muero, me muero...",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si yo no hago tele para que pasen estas cosas, mejor me voy a mi casa, porque a veces tengo ganas de mandarlos a todos a la puta madre que los parió e irme a vivir a la China o el Congo.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que nosotros estamos peleando acá por los derechos de otras jubiladas, porque **Roberta** ya, a **Cristina** le dio la jubilación de tres palos y medio.",
+      "score": 0.787,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los chorros, los delincuentes, los que saquearon a la Argentina, no apeló a lo que le pidió **Cristina**.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que de verdad la ayuden, la escuchen, porque tampoco le dan los remedios en el PAMI.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una hermosa vieja de 89 años que laburó toda la vida y cuidó a su familia, al igual que su marido, y merece lo que le corresponde.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy me llamaron de ANSES, hoy me llamaron del PAMI y también me llamó la gente del banco donde ella se sintió maltratada.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le dan un retroactivo de 100 lucas, 7 años reclamando, vergüenza.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es lo que piensa el pueblo, que si nada del pueblo, pero no piensa en el pueblo, si no tendría que estar haciendo esto yo, porque le dicen y ella recurriendo a nosotros.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que le pasa a los jubilados todo el tiempo.",
+      "score": 0.739,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O que tienen un buen plato de comida, le tenés que decir: \"hijo, vos sos de los cuatro que...\" Me ponen mal, perdón.",
+      "score": 0.571,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez le da más recursos para seguir viviendo.",
+      "score": 0.581,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente se queja y **Fontevecchia** lo mira con cara de...",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Será por eso que el PAMI no te los da.",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si pudiera, entonces, **Alberto Fernández** podría poner la eutanasia mañana.",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que no se banca más al presidente es esta vecina.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entraron a su casa a afanarle guita, ahorro, no tenía nada, le dieron vuelta a la casa.",
+      "score": 0.696,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren lo que le pasó a esta señora.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recorcho, le dice: \"lamento que nos hayan robado nuestros corchos, que nos hayan dado vuelta la casa\".",
+      "score": 0.742,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hacen nada, no hacen nada, no le dan seguridad a la gente, no le dan seguridad en la calle, no le dan seguridad mental ni espiritual, no le dan seguridad de nada.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Cristina dijo que ya no estaba de acuerdo con la boleta única.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren, **Pepín Rodríguez Simón**, segundo en la lista de Juntos por el Cambio, Parla Sur.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argumentos que daba para oponerse a la boleta única y ahora vamos a escucharla cuando decía que la boleta única era el debate que la democracia se merecía, o sea, ya la democracia no se debe a ningún debate.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo la veo, cada vez que le habla, más le hace una sonrisita, ¿viste?",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, ¿cómo le va?",
+      "score": 0.507,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le votaron tres leyes al que le dimos un exitazo de la oposición.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, en este colegio del Conurbano le hicieron caso a **Agui** y a **Iggi**.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡No le va a matar a la griga!",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡No le va a matar a la griga!",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le hizo mucho daño a los pibes.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como diría **Valeria Lynch**, el presidente es un profesional de la mentira.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Vos, que estás en tu casa, le comprarías un auto usado al presidente **Alberto Fernández**?",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Vos, que estás en tu casa, le comprarías un auto usado al presidente **Alberto Fernández**?",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Vos, que estás en tu casa, le comprarías un auto usado al presidente **Alberto Fernández**?",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Olivos Gate violó el DNU.",
+      "score": 0.761,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un mentiroso ya casi de estudio el presidente **Alberto Fernández**, enfermo de mentiras.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me pasaba con Cristina también, están hablando y decís: \"está mintiendo\", \"no, está diciendo la verdad\", \"está mintiendo\".",
+      "score": 0.412,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo me acuerdo haber estado en Tierra del Fuego en aquel entonces y lo único que me comentaban era como los que vivían en Tierra del Fuego se volvían a sus provincias del norte porque acá no encontraban futuro.",
+      "score": 0.377,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Cristina grita el presidente, por favor, mentiroso, cara dura, que encendió la economía, ¿qué economía la dice que se encendieron?",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, grita que nadie nos desuna, que nadie nos desuna, que son ellos los que desunen, fue la **Roque**, fue la del **Mequetrés**, el Ocupa, fue Cristina con la banda de **Guilhastón**, ellos están desunidos, **Guado de Pedro**.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni los peronistas, dijo además **Guado**, ni los antiperonistas están conformes con la Argentina de hoy.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy escucharla a Cristina me pareció ya casi una tortura, echándonos la culpa de todo a nosotros.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen que es conductora de televisión, le haría un gran favor si es conductora de tele y deja de ser vicepresidente y sigue postulándose.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 72
+  },
+  "etiqueta_original": "neutral"
+}

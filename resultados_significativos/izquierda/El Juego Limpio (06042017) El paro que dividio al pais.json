@@ -1,0 +1,46 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 6,
+      "derecha": 0
+    },
+    "score_promedio": 0.16,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "No lo digo yo, lo dice el INDEC con las cifras de pobreza, lo dice el Observatorio de la Deuda Social de la Universidad Católica Argentina.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de sus representantes aquí con nosotros, Pablo Micheli, lo fue también con el kirchnerismo.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, hay un elemento sobre el cual la dirigencia política argentina debería reflexionar profundamente.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hay sectores del gobierno, empezando por el presidente Macri, que cuando se paraba en la época de Cristina, decían: \"esto es un llamado de atención\", y la defendían.",
+      "score": 0.191,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si de esto, vamos a ver después qué se discute, nos sale una idea superadora de entender que la problemática socioeconómica argentina es muy compleja, exige un debate profundo de todos los actores políticos para encontrar soluciones reales, nos quedaremos con la anécdota del paro.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si de todo esto nos quedamos excesivamente en la anécdota, podría mostrarles grabaciones de otros paros en donde se vería que todo es lo mismo.",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 6
+  },
+  "etiqueta_original": "neutral"
+}

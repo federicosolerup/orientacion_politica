@@ -1,0 +1,126 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 20,
+      "derecha": 2
+    },
+    "score_promedio": 0.174,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Beatriz, quería preguntarte primero tus primeras impresiones a partir de lo que sucedió el día de ayer con el triunfo de Javier Milei.",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Menem llegó, para ponerlo como ejemplo, cambió el estilo del presidente anterior.",
+      "score": 0.482,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Menem llegó, se adaptó al estilo presidencial argentino.",
+      "score": 0.491,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estoy diciendo que sea el mejor estilo del mundo, estoy diciendo que Menem hizo el esfuerzo de alguna manera de adaptarse a ese estilo.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá tenemos un nuevo presidente que llega rodeado de sus amigas, hermanas, primas, cuñadas, que son todas esas mujeres que lo rodean, y que quizás está inaugurando un estilo.",
+      "score": 0.289,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Depende del vigor intelectual y político de los líderes, no digo que Menem no lo tuviera, pero depende del camino que elijan los líderes, no necesariamente con un nuevo estilo.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás la gente esté esperando un nuevo estilo, pero eso ya sería materia de un análisis cultural y sociológico sobre los votantes y sobre el pueblo, y no materia de análisis sobre el líder o el presidente que se avecina.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Ves que Javier Milei expresa la bronca o el enojo de un sector muy importante de la sociedad argentina?",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Crees que el triunfo de Javier Milei representa a sectores que están muy enojados con las políticas públicas que se han llevado adelante en los últimos años?",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, si representara a esos sectores, estaría enojada una parte muy importante de la Argentina, incluso aquellos que se han atendido en los hospitales públicos, incluso aquellos que dependen de esas políticas públicas.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que hay un estado de hartazgo que no sé si hay que enmarcarlo únicamente en datos materiales, hay un estado de hartazgo que es más bien ideológico cultural.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué te parece que abarcaría ese estado ideológico cultural de malestar?",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero yo lo que digo es, la Argentina es un país que se ve como sin destino, que creyó durante muchas décadas, y todavía viven aquellos que creyeron, creyó durante muchas décadas que era un país que iba a ser importante en América Latina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si vos pensás, al comienzo del siglo XX, Argentina era, junto con Namibia, uno de los países más importantes del llamado tercer mundo.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y resulta que hoy la Argentina se parece más a esos países, sin tener las causales económicas de esos países que fueron países pobres y países muy explotadores.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina no es un país pobre si vamos analizando en esos términos.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que no tengo expectativas, es decir, si Milei llegara a cumplir lo que grita por los micrófonos, algunas serían convenientes y otras serían menos convenientes para la Argentina, pero no tengo expectativas.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Ese hartazgo se puede convertir en impaciencia, digo, de que se le exija a Milei resultados rápidos en esto que él planteó en la campaña?",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y Mauricio Macri puede jugar un rol ahí o la estructura del PRO?",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No me hagas a mí decir que Mauricio Macri puede no jugar un rol.",
+      "score": 0.534,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No creo que sea un político distinguido, pero también uno tendría que decir que la Argentina ha perdido el elenco de sus políticos y políticas distinguidos.",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo digo lo que falta hoy en la Argentina, un país que tuvo planes y que tuvo líderes que tenían esos planes, etcétera, es falta de pensamiento político y de estilo político que puedan llevar planes que sus dirigentes piensen y que transmitan a los votantes.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 22
+  },
+  "etiqueta_original": "neutral"
+}

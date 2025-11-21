@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Nos vamos a tomar el auto y nos dirigiremos a Cariló para analizar el comienzo de la temporada y conversar con Mauro Moyano, empresario hotelero y vicepresidente de la Cámara de Turismo de Cariló.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Peor que el 2001 porque, claro, estamos hablando con Mauro Moyano, hotelero y vicepresidente de la Cámara de Turismo de Cariló.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Claro, ¿y tuviste la oportunidad de hablar de esto con algún funcionario del Gobierno Nacional en tu rol de dirigente de la Cámara Empresarial?",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Obviamente, depende de los municipios que, en algunos casos, han hecho publicidades, pero no de la presidencia de la nación ni del Estado nacional.",
+      "entidades_detectadas": [
+        "nación",
+        "estado"
+      ]
+    },
+    {
+      "frase": "El municipio nos ayuda en cuanto a las herramientas que tiene, pero el Estado nacional no.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y cuando Scioli dijo que iba a activar las herramientas para promocionar la temporada… nada de eso ocurrió hasta ahora, entre el 10 de diciembre y…\n\nAl día de hoy, nada.",
+      "entidades_detectadas": [
+        "scioli"
+      ]
+    },
+    {
+      "frase": "Y cuando ves esta foto y decís: “Che, acá hay algo que está raro”, porque hay una crisis económica, hay una crisis de ingresos en la Argentina y sin embargo, está moviendo a mucha gente que se va al exterior; entonces, hay algo que no cuadra ahí.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

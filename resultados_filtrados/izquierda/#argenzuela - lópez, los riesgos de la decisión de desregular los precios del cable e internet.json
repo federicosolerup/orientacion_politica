@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En algunos casos, las cooperativas preexistían a la llegada de grandes empresas como [nombre de la empresa], ya que el Estado no podía llegar a ciertas zonas.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La telefonía celular, el servicio más extendido y democrático en Argentina (55 millones de celulares para 47 millones de habitantes), se ve afectado.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿No te parece extraño el apoyo permanente del presidente a [nombre de la empresa]?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Es sorprendente que un presidente haga publicidad estatal a una empresa como si fuera una publicidad comercial.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Incluso, viaja a Miami para reunirse con [nombre de la persona] de Tesla en Texas.",
+      "entidades_detectadas": [
+        "miami"
+      ]
+    }
+  ]
+}

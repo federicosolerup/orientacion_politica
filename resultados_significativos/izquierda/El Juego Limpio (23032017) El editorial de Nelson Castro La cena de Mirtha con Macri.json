@@ -1,0 +1,26 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 1,
+      "derecha": 1
+    },
+    "score_promedio": 0.362,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Quiero cerrar con una reflexión a propósito de los acontecimientos de esta semana, destacando el valor del diálogo que se dio hoy en el programa, entre Juan Pablo Persico y Diego Santilli.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No del presidente, a quien le consta que aceptó lo que vivió en la cena con Mirtha Legrand, que no hizo otra cosa que preguntarle lo que le pregunta a todos y a todas abiertamente.",
+      "score": 0.708,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 2
+  },
+  "etiqueta_original": "neutral"
+}

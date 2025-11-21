@@ -1,0 +1,894 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El siguiente texto es una transcripción de una entrevista radial, con varias imprecisiones propias del habla coloquial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se ha intentado mantener el tono informal, corrigiendo solo los errores más graves de ortografía, coherencia y nombres propios que se han podido identificar con la información disponible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algunas interpretaciones son necesarias debido a la ambigüedad del texto original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que digamos, es uno de los más cercanos a la Vicepresidenta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Patrón y Jorge Rialde de Radio 10, buen día.",
+      "entidades_detectadas": [
+        "Jorge Rialde",
+        "Patrón"
+      ]
+    },
+    {
+      "frase": "Buen día Jorge, ¿cómo te va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, bien, bien, gracias por atendernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué está pasando ahí?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde se rompe el vínculo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde afuera parece que se rompió y que la están operando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo de ayer lo publicó la propia Vicepresidenta, por favor, ten en cuenta eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro, porque el gobierno ha elegido una estrategia a la vista de todos, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Es salvar a Cristina Kirchner de la ficha limpia y de la condena final, que juegue las próximas elecciones y polarizar contra ella.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Y eliminar todo lo que está en el medio, todo lo que asoma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, se baja a Mondino y a Villarroel y se sube a Lilita Carrió y a Alejandra Liggera (posiblemente se refiera a una persona que no se identifica claramente en el texto original, o un error de transcripción).",
+      "entidades_detectadas": [
+        "Mondino",
+        "Lilita Carrió",
+        "Villarroel",
+        "Alejandra Liggera"
+      ]
+    },
+    {
+      "frase": "Bueno, son decisiones del \"Triángulo de Hierro\".",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "¿Y tiene que ver con qué queda?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y con una alianza subterránea entre Cristina y (nombre no especificado)?",
+      "entidades_detectadas": [
+        "¿",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Todo eso pensaron que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que le haga justicia el nombramiento del hijo y que no dieran quorum el otro día, cuando le pidieron 10 minutos más para poder avanzar en el proyecto, Menem levantó la sesión, con sentido.",
+      "entidades_detectadas": [
+        "Menem"
+      ]
+    },
+    {
+      "frase": "¿Y por qué atacan a Villarroel?",
+      "entidades_detectadas": [
+        "¿",
+        "Villarroel"
+      ]
+    },
+    {
+      "frase": "Porque asoma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque acá todo el que tiene un poquito de brillo molesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Nombre no especificado), en estas últimas horas, algunos periodistas que tuvieron contacto con él, él está convencido de que la Vicepresidenta lo quiere voltear.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Usa esa palabra.",
+      "entidades_detectadas": [
+        "Usa"
+      ]
+    },
+    {
+      "frase": "En este caso, por medio del juicio político, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Disparate, Jorge.",
+      "entidades_detectadas": [
+        "Disparate",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Es un disparate.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro que es un disparate.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie más comprometido con este gobierno que la Vicepresidenta, que se ha quitado el Senado al hombro, sin prácticamente fuerza propia, con un compromiso, con una responsabilidad total, hemos sacado absolutamente todas las leyes que ha mandado el Ejecutivo y a la vista de todos.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Pero bueno, no sé si están al tanto en las redes sociales del trabajo que se ha hecho en el Senado.",
+      "entidades_detectadas": [
+        "Senado"
+      ]
+    },
+    {
+      "frase": "Bueno, tal vez están al tanto.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Están muy al tanto, según me cuentan también, que las encuestas que llegan la ponen en una posición casi, digamos, empatada en imagen con el Presidente, pero ella jamás manifestó ninguna intención política de nada.",
+      "entidades_detectadas": [
+        "jamás",
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Leal al proyecto, leal al Presidente, y así lo ha manifestado en reiteradas ocasiones.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Pero bueno, ven fantasmas por todo lado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué ven fantasmas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si el gobierno de (nombre no especificado), el país de (nombre no especificado), digo lo que dice el Presidente, es fenómeno.",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "¿Qué te puedo decir, Jorge?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "A ver, a mí me echaron por ponerme del hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo he defendido la ley base y el paquete fiscal como ninguno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el hijo no entraba en el contrato que firmamos cuando firmamos la alianza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y bueno, pero eso ya me valió que me echaron del (lugar no especificado).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, la libertad no es tan libre por eso.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Claro, porque siempre decía, bueno, no somos un rebaño, cada uno opina como quiere.",
+      "entidades_detectadas": [
+        "Claro"
+      ]
+    },
+    {
+      "frase": "No es así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, todo contradictorio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aparte, escúchame, el liberalismo, el proyecto de vida irrestricta, de (nombre no especificado), no, el Presidente, no, que ya...",
+      "entidades_detectadas": [
+        "Presidente"
+      ]
+    },
+    {
+      "frase": "Entonces, un chiste era.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y cómo te cayó esto del brazo armado, todo esto?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Otro disparate, otro disparate.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son unos impresentables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese (nombre no especificado), ¡da un estafador moral, pero contraprivilegiado de la peor casta de Santiago del Estero, que se pueda imaginar lo que se vistió, lo que vivió, lo que comió y lo que estudió, todo pagado de la casta de Santiago del Estero!",
+      "entidades_detectadas": [
+        "Santiago del Estero",
+        "comió"
+      ]
+    },
+    {
+      "frase": "Si vienen a hablar de la casta, es un estafador moral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero le dan una bola grande, (nombre no especificado), y entra a la casta rosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero es el error, es el error, el Ministro Guillermo Moreno saliendo a defender a un twittero impresentable.",
+      "entidades_detectadas": [
+        "Ministro Guillermo Moreno"
+      ]
+    },
+    {
+      "frase": "¿A vos te parece bajar a Mondino y a Villarroel?",
+      "entidades_detectadas": [
+        "Mondino",
+        "¿A",
+        "Villarroel"
+      ]
+    },
+    {
+      "frase": "¡Semejante disparate, dónde?",
+      "entidades_detectadas": [
+        "Semejante"
+      ]
+    },
+    {
+      "frase": "¿Se ha visto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso nunca he visto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo sigo en la política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no creo que haya mucho antecedente de subir a un twittero y bajar a mis presidentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A Mondino le hicieron una cama, (nombre no especificado).",
+      "entidades_detectadas": [
+        "Mondino"
+      ]
+    },
+    {
+      "frase": "Mira, todo lo que ha planteado el gobierno, un límite ético y moral, salieron ejecutados.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Salimos ejecutados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me incluso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y cuál fue ese límite que le puso a Mondino?",
+      "entidades_detectadas": [
+        "Mondino",
+        "¿"
+      ]
+    },
+    {
+      "frase": "No lo sé, pero cada vez que ha expresado su forma de ver y de pensar, indudablemente lo molestan, porque acá es pensamiento único.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es todo lo que indica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El otro día en una nota a un Diputado (nombre no especificado), llaman al Diputado, salió mi nombre y no, el problema (nombre no especificado) es que es un libre pensador.",
+      "entidades_detectadas": [
+        "Diputado"
+      ]
+    },
+    {
+      "frase": "Este hombre habrá escuchado lo que es liberalismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una cosa increíble que lo diga un Diputado que a veces hasta reemplaza a Martín Lousteau, la presidencia de este Diputado.",
+      "entidades_detectadas": [
+        "Diputado",
+        "Martín Lousteau"
+      ]
+    },
+    {
+      "frase": "Francisco (apellido no especificado), ¿cómo te va?",
+      "entidades_detectadas": [
+        "¿",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Mauro Federico te saluda.",
+      "entidades_detectadas": [
+        "Mauro Federico"
+      ]
+    },
+    {
+      "frase": "Ahora, cada vez que te lo preguntan, me digo como que marcas no diferencias, pero sí que no es así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero a mí me consta, por fuentes desde dentro del espacio de la Libertad Avanza, que vos estás trabajando en el armado político de Victoria Villarroel.",
+      "entidades_detectadas": [
+        "Libertad Avanza",
+        "Victoria Villarroel"
+      ]
+    },
+    {
+      "frase": "Pero no es así, es una iniciativa personal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Pero cómo personal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Política no hay iniciativa personal.",
+      "entidades_detectadas": [
+        "Política"
+      ]
+    },
+    {
+      "frase": "Yo dije, voy a armar esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Francisco (apellido no especificado) me dijo, ¿este es el momento de hacer algo?",
+      "entidades_detectadas": [
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Porque si acá se va a polarizar con Cristina, corremos el riesgo de que Cristina le gane.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Entonces, como yo no tengo ganas de volver a cometer los errores que se han cometido en el pasado, nos queremos convertir en una alternativa política que defiende la ciudad de la libertad, pero que también tiene un rasgo fuerte institucional y de desarrollo estratégico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso por afuera de la Libertad Avanza.",
+      "entidades_detectadas": [
+        "Libertad Avanza"
+      ]
+    },
+    {
+      "frase": "O sea, incluso usted es...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Yo ya estoy afuera?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo me voy a decir que no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay varias personas que están afuera y que la gente del MID está afuera, pero articula.",
+      "entidades_detectadas": [
+        "MID"
+      ]
+    },
+    {
+      "frase": "¿Ustedes directamente van a confrontar a la Libertad Avanza?",
+      "entidades_detectadas": [
+        "¿Ustedes"
+      ]
+    },
+    {
+      "frase": "No, no confrontar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo estoy votando todo lo que decimos en campaña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El voto más predecible del Senado de la Nación, es (nombre no especificado).",
+      "entidades_detectadas": [
+        "Senado de la Nación"
+      ]
+    },
+    {
+      "frase": "Pero esto que...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiene que ser campaña, así vota (nombre no especificado).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero eso que le estás armando de votos propios a Victoria Villarroel, seguramente en algún momento se lo votas a (nombre no especificado).",
+      "entidades_detectadas": [
+        "Victoria Villarroel"
+      ]
+    },
+    {
+      "frase": "Si Victoria armó esto, hay posibilidades que vallamos.",
+      "entidades_detectadas": [
+        "Victoria"
+      ]
+    },
+    {
+      "frase": "Como te dijo recién Mauro, por afuera de la Libertad Avanza.",
+      "entidades_detectadas": [
+        "Libertad Avanza",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "¿Es una posibilidad?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Bueno, no sé.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Yo no lo he contemplado de esa manera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pues yo digo es como una alternativa que defiende la generalidad, pero que también fuerte institucionalidad, la síntesis de la fuerte institucionalidad, el hijo no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el desarrollo estratégico, porque la macro no va a hacer magia, no te va a arreglar los problemas al país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos graves complicaciones en la micro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que poner la lupa en la micro porque si no nos va a ir mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no nos va a ir mal al gobierno, nos va a ir mal a todos los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Francisco, recién acabo de decir algo como al pasar corremos riesgo de que gane Cristina.",
+      "entidades_detectadas": [
+        "gane Cristina",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Lo de la ficha limpia, no hubo votación de la ficha limpia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué no lo hicieron y la sacaban de la cancha a Cristina?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Porque no quieren, se la eligieron para jugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero incluso con el riesgo de perder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero a vos qué te parece si la economía termina de recuperarse?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿O querés que te cuente lo que pasó en el 2019?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puta madre, Macri hizo lo mismo y no le fue bien.",
+      "entidades_detectadas": [
+        "Macri",
+        "Puta"
+      ]
+    },
+    {
+      "frase": "No le fue bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero escuchadme, piensan que la abuela no tiene dientes y se lo vamos a explicar de a uno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero vos qué lo crees, para, ¿me lo están diciendo para meterle miedo?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Vos crees que realmente Cristina, que no tiene dientes y le están creciendo, puede llegar a quedarse con todo?",
+      "entidades_detectadas": [
+        "Cristina",
+        "¿Vos"
+      ]
+    },
+    {
+      "frase": "Pero Cristina puede ganar la provincia de Buenos Aires y que sembró y terminó de talibarme todo el territorio.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires",
+        "Cristina",
+        "sembró"
+      ]
+    },
+    {
+      "frase": "Ah, se va a poner lindo esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es hermoso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se va a poner lindo esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te pregunto de mi parte por último.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Vos ya cerraste con partidos esta suerte de alianza por fuera de la Libertad Avanza?",
+      "entidades_detectadas": [
+        "¿Vos"
+      ]
+    },
+    {
+      "frase": "¿Me podés mencionar algo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, me imagino que el partido demócrata de Villarroel está.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Villarroel"
+      ]
+    },
+    {
+      "frase": "Estamos hablando con varios, cerrados no tenemos nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero sí, sí, muchas conversaciones y avanzando, poniéndonos de acuerdo en las ideas centrales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, hay algunas figuras ya confirmadas de diferentes lugares del país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quiénes por ejemplo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Provincia de Buenos Aires.",
+      "entidades_detectadas": [
+        "Provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Todos sabemos que es la madre de las batallas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y quiénes podemos mencionar ahí?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Un tío genio de (nombre no especificado).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos conversando con Gustavo Tarrari.",
+      "entidades_detectadas": [
+        "Gustavo Tarrari"
+      ]
+    },
+    {
+      "frase": "La que estuvo en la UIF de Macri.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Y Gustavo Tarrari, economista Pime.",
+      "entidades_detectadas": [
+        "Gustavo Tarrari",
+        "Pime"
+      ]
+    },
+    {
+      "frase": "Que jugaría por primera vez y estaría ingresando a la política por primera vez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ahí viene el armado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gente nueva, gente mayormente profesionales, gente que viene con un conocimiento de la actividad privada, de la problemática desde la raíz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y aire fresco, me endeno, no me dejan con gente que hace 20 años me estaba en los diarios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquí creo que apenas hasta un año de asumido Milei, que era lo nuevo en la política, ya estamos buscando algo más nuevo todavía.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Perdón, cuatro días antes de asumir a mí me bajaron de la Provincia de (nombre no especificado).",
+      "entidades_detectadas": [
+        "Perdón",
+        "Provincia"
+      ]
+    },
+    {
+      "frase": "No, no, es verdad, pero hasta ese momento lo nuevo era Milei.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Para mí fue cuatro días antes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso te digo, pero lo nuevo era Milei y ahora un año después estamos hablando vos y yo, y estamos hablando que hay que buscar una nueva alternativa a la nueva alternativa.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Pero esto no es de una sola persona, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Vos necesitabas armar un gran equipo nacional manteniendo una línea en nueve de arte, pero el gobierno no son tres personas, querido.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Lo hemos atrasado en el pasado cuando el gobierno te lo quiere manejar tres tipos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sea quien sea, y en el proceso no tenemos que ponerlos a Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En el camino de crecimiento económico, pero con política en estado de largo plazo, y que ya 20 años, y 20 años nueve de un presidente, desde cuatro, de cinco, de seis, es así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y le hice la una madre que inició que fue una bisagra, todo lo que vos quieras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eres uno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero este es un país, señores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay una persona.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Francisco, como siempre, me gusta hablar con vos, eh.",
+      "entidades_detectadas": [
+        "eh",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Te mando un abrazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro para ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias, eh, Francisco, por contarnos.",
+      "entidades_detectadas": [
+        "eh",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Fuerte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se dio un contorno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Te das cuenta que a Cristina pareciera ser que...?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "MID",
+    "Gracias",
+    "¿Vos",
+    "Gustavo Tarrari",
+    "Mauro Federico",
+    "Victoria",
+    "Lilita Carrió",
+    "Disparate",
+    "Buen día Jorge",
+    "Mondino",
+    "Milei",
+    "Victoria Villarroel",
+    "Política",
+    "Menem",
+    "Fuerte",
+    "jamás",
+    "Mauro",
+    "Villarroel",
+    "Pime",
+    "Semejante",
+    "Cristina Kirchner",
+    "comió",
+    "sembró",
+    "Vos",
+    "Puta",
+    "Claro",
+    "Argentina",
+    "¿A",
+    "¿O",
+    "Senado de la Nación",
+    "Santiago del Estero",
+    "Cristina",
+    "Patrón",
+    "Presidente",
+    "gane Cristina",
+    "Bueno",
+    "Libertad Avanza",
+    "provincia de Buenos Aires",
+    "Provincia",
+    "Perdón",
+    "Francisco",
+    "¿Dónde",
+    "¿",
+    "Ah",
+    "Aparte",
+    "Ministro Guillermo Moreno",
+    "Mira",
+    "qué queda?",
+    "Usa",
+    "Santiago del Estero!",
+    "Jorge Rialde",
+    "Jorge",
+    "Martín Lousteau",
+    "Diputado",
+    "Provincia de Buenos Aires",
+    "Senado",
+    "Macri",
+    "Alejandra Liggera"
+  ]
+}

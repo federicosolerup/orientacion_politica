@@ -1,0 +1,354 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Nicolás Buñuel, quien había prometido contarnos algo en Alhué, dijo que no había nada que festejar.",
+      "entidades_detectadas": [
+        "Alhué",
+        "Nicolás Buñuel"
+      ]
+    },
+    {
+      "frase": "Sí, no hay nada para celebrar, o al menos no son solo números.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta hoy, según la información oficial, hay 556 muertos por coronavirus en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Para muchos es poco, para otros es mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hice este cálculo simple para ver la dimensión de lo que está pasando y analizar algunas afirmaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "556 muertos desde que comenzó el aislamiento obligatorio el 20 de marzo (hay fallecidos anteriores a esa fecha).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En los atentados del 11 de marzo de 1976 murieron 51 personas; es decir, hay lamentablemente diez veces más fallecidos por coronavirus.",
+      "entidades_detectadas": [
+        "coronavirus"
+      ]
+    },
+    {
+      "frase": "En el atentado a la AMIA, el más grave atentado terrorista con bomba sufrido por la República Argentina en su historia, hubo 85 muertos, varias veces menos que los muertos por COVID-19.",
+      "entidades_detectadas": [
+        "AMIA"
+      ]
+    },
+    {
+      "frase": "En el atentado a la embajada de Israel murieron 29 personas;  25 veces menos que las muertes por COVID-19.",
+      "entidades_detectadas": [
+        "Israel",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "En la tragedia aérea de LAPA, donde un avión se estrelló en la Costanera, hubo 65 muertos, 8 veces menos que los fallecidos por COVID-19 en Argentina (556).",
+      "entidades_detectadas": [
+        "Costanera",
+        "Argentina",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "En el incendio de Cromañón murieron 194 personas, casi tres veces menos que las muertes por COVID-19.",
+      "entidades_detectadas": [
+        "Cromañón",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "En el caso del submarino ARA San Juan, murieron 44 personas, 12 veces menos que las muertes por COVID-19 en Argentina hasta la fecha (556).",
+      "entidades_detectadas": [
+        "Argentina",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Todas las tragedias que mencioné ocurrieron en democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Podría añadir el lamentable hundimiento del crucero General Belgrano en Malvinas.",
+      "entidades_detectadas": [
+        "Podría",
+        "Malvinas",
+        "General Belgrano"
+      ]
+    },
+    {
+      "frase": "Las tragedias en democracia que mencioné,  suman 461 muertos, mientras que por COVID-19 hay 556.",
+      "entidades_detectadas": [
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Para algunos, esto es, no un motivo de festejo, sino una justificación para el aislamiento temprano en Argentina cuando se conocieron los primeros casos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Sin embargo, es llamativo que de esas 556 muertes, que superan la suma de las víctimas de los atentados del 11 de marzo, la AMIA, la embajada de Israel, la tragedia de LAPA, Cromañón y el ARA San Juan (461), la impunidad persiste en la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Israel",
+        "Cromañón",
+        "AMIA",
+        "ARA San Juan"
+      ]
+    },
+    {
+      "frase": "Siempre conocemos a familiares de las víctimas que se convierten en caras emblemáticas de la protesta mediática y judicial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta ahora, las muertes por COVID-19 carecen de rostro, pero no son solo números.",
+      "entidades_detectadas": [
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Cada una era una vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sé que hay un sector del oficialismo que, sin celebrar, argumenta que, comparado con otros países, Argentina está bien con 556 muertes.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Y me pregunto: ¿Argentina está bien?",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Porque, analizando la situación en otros países y en Argentina, nuestro país está completamente confinado.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Las fronteras están cerradas, no llegan vuelos internacionales, las provincias están compartimentadas, al igual que los municipios, no hay transporte de larga distancia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si bien hay provincias sin casos, están cerradas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se puede viajar en auto de Buenos Aires a Jujuy, te paran en varios puntos.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "Mendoza también endureció sus controles fronterizos.",
+      "entidades_detectadas": [
+        "Mendoza"
+      ]
+    },
+    {
+      "frase": "Hay debates sobre si el aislamiento es correcto, pero quería resaltar algo:  ya superamos los 3.000 casos de contagiados, Corea del Sur, por ejemplo, tuvo la mitad de muertos.",
+      "entidades_detectadas": [
+        "Corea del Sur"
+      ]
+    },
+    {
+      "frase": "Sé que comparar con otros países puede ser odioso o incorrecto, pero en algún momento Argentina tendrá que abrirse.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Los científicos que asesoran al presidente y la información extranjera indican que la vacuna tardará mucho en producirse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ojalá me equivoque.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué digo esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tendremos que convivir con el virus, pero desconfinados, lo que puede provocar más contagios y muertes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero cerrar con un homenaje.",
+      "entidades_detectadas": [
+        "Quiero"
+      ]
+    },
+    {
+      "frase": "556 no son solo un número.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una nota en TN.com.ar conmovedora que cuenta las historias de las víctimas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Guillermo Abel Gómez, de 64 años, porteño, fue la primera víctima fatal de COVID-19 en Argentina y Latinoamérica.",
+      "entidades_detectadas": [
+        "Latinoamérica",
+        "Argentina",
+        "Guillermo Abel Gómez",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Era diabético, hipertenso, bronquítico crónico, con insuficiencia renal crónica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue un militante histórico del movimiento villero peronista junto a su esposa Nelly en los 70.",
+      "entidades_detectadas": [
+        "Nelly"
+      ]
+    },
+    {
+      "frase": "Fueron perseguidos, secuestrados y torturados, exiliándose en Francia (ella embarazada).",
+      "entidades_detectadas": [
+        "Francia"
+      ]
+    },
+    {
+      "frase": "Vivían en San Telmo.",
+      "entidades_detectadas": [
+        "San Telmo",
+        "Vivían"
+      ]
+    },
+    {
+      "frase": "Volvieron a Europa a ver a su hija.",
+      "entidades_detectadas": [
+        "Europa"
+      ]
+    },
+    {
+      "frase": "Guillermo contrajo la enfermedad y, según su hijo Diego Molinas, el primer muerto de COVID-19 en Argentina y Latinoamérica llevaba en su cuerpo las consecuencias del horror.",
+      "entidades_detectadas": [
+        "Latinoamérica",
+        "Guillermo",
+        "Argentina",
+        "Diego Molinas",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Algunos casos más: el 21 de marzo, en el Hospital Municipal de San Andrés de Giles, murió la primera mujer por COVID-19 en Argentina.",
+      "entidades_detectadas": [
+        "Hospital Municipal de San Andrés de Giles",
+        "Argentina",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Su esposo fue dado de alta y despedido por los médicos con un aplauso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Venían de un crucero y el esposo borró las fotos del celular.",
+      "entidades_detectadas": [
+        "Venían"
+      ]
+    },
+    {
+      "frase": "Guido Alió, de 53 años, juez de paz en Chaco, dedicado a la música y la docencia, viajó y empezó con síntomas el 11 de marzo, muriendo el 24.",
+      "entidades_detectadas": [
+        "Guido Alió",
+        "Chaco"
+      ]
+    },
+    {
+      "frase": "Diana Ruiz, pediatra querida en La Rioja, no viajó al exterior, pero tuvo contacto con infectados.",
+      "entidades_detectadas": [
+        "La Rioja",
+        "Diana Ruiz"
+      ]
+    },
+    {
+      "frase": "Tenía 52 años, era de una familia humilde (su padre panadero, su madre empleada doméstica).",
+      "entidades_detectadas": [
+        "Tenía"
+      ]
+    },
+    {
+      "frase": "Su padre murió de cáncer cuando ella tenía 12 años; ella murió el 31 de marzo en la clínica donde trabajaba en La Rioja, en el Mercado Luna.",
+      "entidades_detectadas": [
+        "Mercado Luna",
+        "La Rioja"
+      ]
+    },
+    {
+      "frase": "Podría seguir, pero quiero cerrar escuchando \"Tears in Heaven\" de Eric Clapton, escrita tras la muerte de su pequeño hijo que cayó de una ventana.",
+      "entidades_detectadas": [
+        "Eric Clapton",
+        "Podría"
+      ]
+    },
+    {
+      "frase": "\"¿Sabrías mi nombre si te viera en el cielo?\", pregunta Clapton.",
+      "entidades_detectadas": [
+        "Clapton"
+      ]
+    },
+    {
+      "frase": "El tiempo puede romperte el corazón, pero más allá de la puerta hay paz, asegura.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Hospital Municipal de San Andrés de Giles",
+    "Podría",
+    "Malvinas",
+    "Corea del Sur",
+    "COVID-19",
+    "Costanera",
+    "Mendoza",
+    "Jujuy",
+    "Israel",
+    "Nelly",
+    "Guido Alió",
+    "Eric Clapton",
+    "Nicolás Buñuel",
+    "AMIA",
+    "Tenía",
+    "Chaco",
+    "General Belgrano",
+    "Diana Ruiz",
+    "Latinoamérica",
+    "Argentina",
+    "Europa",
+    "Guillermo",
+    "San Telmo",
+    "Quiero",
+    "Diego Molinas",
+    "Mercado Luna",
+    "coronavirus",
+    "ARA San Juan",
+    "La Rioja",
+    "Guillermo Abel Gómez",
+    "Buenos Aires",
+    "la Argentina",
+    "Alhué",
+    "Clapton",
+    "Vivían",
+    "Venían",
+    "Cromañón",
+    "Francia"
+  ]
+}

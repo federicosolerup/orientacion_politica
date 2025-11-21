@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El tema son las vacunas que nos llegan acá y que son nuestras, que las pagamos y nos afanaron ustedes, gobernadores, intendentes truchos, además, ¿qué ejemplos pueden dar ustedes cuando de pronto un concejal de no sé dónde se mandó una joda en Tucumán, una joda para 400 personas, pero antes había estado el gobernador de Tucumán haciendo una reunión para 400 personas, a ustedes no se agarra el virus, lo corren para que los agarre y si no le pegan a la vuelta a *Manzana* y lo agarran de frente porque son tan pelotudos, gobiernan tan desprolijamente, son tan desastrosos para gobernar, están en un quilombo tan grande y ayer me llamó un empresario muy conocido y me dijo, ¿cómo ves la cosa en la Argentina?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "hoy fue *Alberto* a decir que al Fondo Monetario le iba a explicar cuáles eran las nuevas reglas...",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Y yo decía, hay dos caminos, uno es Venezuela y el otro es Colombia.",
+      "entidades_detectadas": [
+        "venezuela"
+      ]
+    }
+  ]
+}

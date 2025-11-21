@@ -1,0 +1,654 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¿Cómo les va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo están?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, vamos a empezar… Se me va el tiempo.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Hoy es el último día, hoy… voy a hacer una prueba televisiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy con mis compañeros, con Carmela Lozada, Gabriela Levina y Gabriela Díaz, pero les voy a pedir un minuto… Una licencia, una falta de respeto, pero voy a hablar.",
+      "entidades_detectadas": [
+        "Carmela Lozada",
+        "Gabriela Díaz",
+        "Gabriela Levina"
+      ]
+    },
+    {
+      "frase": "Tengo mucho que decir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy,  escuchen atentamente… ¿Cuál es la encuesta, Javier?",
+      "entidades_detectadas": [
+        "Cuál",
+        "Javier"
+      ]
+    },
+    {
+      "frase": "La encuesta de… Baza Baby y Doy.",
+      "entidades_detectadas": [
+        "Baza Baby"
+      ]
+    },
+    {
+      "frase": "La encuesta de Baza Baby y Doy es la siguiente: “¿Le creyeron las lágrimas a Cristina Fernández de Kirchner y Alberto Fernández en el escenario?",
+      "entidades_detectadas": [
+        "Baza Baby y Doy",
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¿Vieron el acto de cierre de campaña en Mar del Plata?",
+      "entidades_detectadas": [
+        "¿Vieron",
+        "Mar del Plata"
+      ]
+    },
+    {
+      "frase": "¿Se les llenaron los ojos de lágrimas cuando hablaron de Néstor Kirchner, cuando hablaron de Roberto, incluso?” ¿Le creyeron esas lágrimas a Alberto y Cristina en el escenario?",
+      "entidades_detectadas": [
+        "Roberto",
+        "Cristina",
+        "Alberto",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Esa es la pregunta de hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La historia es… se esconde mucha hipocresía, mentira, el efecto lástima y todas esas cosas que estamos acostumbrados a ver de parte de la señora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero… voy a hacer una prueba que nunca me animé a hacer porque pensé que perdería público y con este bajo rating uno está constantemente preocupado por la audiencia, con miedo de que TN o C5N, u otro canal, nos la quite.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero digo, bueno, me arriesgaré para que ustedes se queden.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros les damos lo que tenemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo que voy a mostrar esta noche me cambió la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después les contaré la historia completa, pero ahora se los voy a mostrar.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "La historia es que, una vez hablando con Pacho O'Donnell, le pregunté por qué sacó a la gente a la calle a los recitales en la época de Alfonsín.",
+      "entidades_detectadas": [
+        "Pacho O'Donnell",
+        "qué sacó",
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Me dijo que, después de tanta dictadura, tanto oscurantismo y tanta violencia, la gente no salía a la calle por miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les quedó el miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como le va a quedar a la gente de los motochorros, que algún día terminarán, se calcula… o no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, después del kirchnerismo, vino el macrismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El macrismo se mantuvo muy tranquilo hasta que, un día, se dieron cuenta tarde de que necesitaban recuperar la mística y salieron a las calles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la gente salió a la calle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y se dio cuenta de que podía salir a la calle y que no iba a haber, hasta hoy, un grupo de matones y delincuentes rompiéndole el auto, la cabeza, ni iba a estar Grabois con los piqueteros de Grabois, ni Esteche con las bombas de estruendo y las armas.",
+      "entidades_detectadas": [
+        "Esteche",
+        "Grabois"
+      ]
+    },
+    {
+      "frase": "Que se podía salir con la bandera celeste y blanca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que, entre paréntesis, entre las cosas que han robado, se robaron en el acto porque hicieron lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy no había banderas comunistas, llevaron todas celeste y blancas, ellos también en Mar del Plata, pero en realidad las caras no decían lo mismo.",
+      "entidades_detectadas": [
+        "Mar del Plata"
+      ]
+    },
+    {
+      "frase": "Entonces, lo que quería decir es que Pacho me contó que había sacado a los conjuntos musicales a la calle, a Víctor Heredia, para que la gente se acostumbrara a pisar de nuevo las calles.",
+      "entidades_detectadas": [
+        "Víctor Heredia",
+        "Pacho"
+      ]
+    },
+    {
+      "frase": "Todo da una vuelta, un círculo, como decía Platón.",
+      "entidades_detectadas": [
+        "Platón"
+      ]
+    },
+    {
+      "frase": "Y vuelve al comienzo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y recuerdo que había una canción que decía que había sacado las calles nuevamente de lo que fue Santiago ensangrentada.",
+      "entidades_detectadas": [
+        "Santiago"
+      ]
+    },
+    {
+      "frase": "Y hoy de nuevo están las calles de Santiago ensangrentadas, el cadáver del tirano Franco en un cementerio común de donde nunca debió haber salido.",
+      "entidades_detectadas": [
+        "Franco",
+        "Santiago"
+      ]
+    },
+    {
+      "frase": "Porque a los asesinos no se les hacen monumentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y Cristina subió al escenario como si estuviera libre de culpa, con una libertad no condicional, sino completa, olvidándose de los procesos por los robos, hablando de la indignidad, hablando de una cantidad de cosas que me dan vergüenza ajena escuchar.",
+      "entidades_detectadas": [
+        "Cristina subió"
+      ]
+    },
+    {
+      "frase": "Y terminaron, por supuesto, con él y un par de lágrimas porque no puede haber madre de la patria si no hay un padre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y como el padre de la patria para ella murió, nada mejor que quien estuvo al lado del padre de la patria para sustituirlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, un padre de la patria medio tío, y nosotros seríamos todos hijos de los dos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por otro lado, Macri no puede creer la cantidad de gente que movilizó y se dio cuenta tarde de que si alguien quiere hacer una república, son muchos más de los que todos creen que lo pueden seguir.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Y el peronismo, que creía que la calle era suya, se dio cuenta de que les ganaron la calle y que, ganen o pierdan el domingo, va a haber 13 o 14 millones de personas que vamos a estar fiscalizando cada acto y se va a acabar el patoterismo del miedo, donde se dice: \"No vayas porque está Esteche con los palos y te rompe la cabeza\".",
+      "entidades_detectadas": [
+        "Esteche"
+      ]
+    },
+    {
+      "frase": "Se acabaron los palos, se acabó Esteche, se acabó todo y, a lo mejor, si Dios nos ayuda, se acaba Cristina.",
+      "entidades_detectadas": [
+        "Esteche",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Empecé a ser tan reaccionario y a importarme un carajo de todo cuando ganó el FONCI.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenía bastante plata y fabricaba mucha ropa, e iba a comprar telas un sábado a la mañana.",
+      "entidades_detectadas": [
+        "Tenía"
+      ]
+    },
+    {
+      "frase": "Pero era un infeliz como ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un tipo que lo único que encontraba para vivir en Latinoamérica era tener plata, porque si no tenías plata tenías que ir a votar por un plan, y en esa época era por una caja de pan.",
+      "entidades_detectadas": [
+        "Latinoamérica"
+      ]
+    },
+    {
+      "frase": "Entonces, me subí a mi auto, escuché el monólogo que les voy a pasar ahora, volví a mi casa y dije: \"Renuncio a todo y voy a ser feliz haciendo lo que me gusta, que es esto, hablar\".",
+      "entidades_detectadas": [
+        "Renuncio"
+      ]
+    },
+    {
+      "frase": "Por eso ahora voy a pasar el monólogo final de \"Solos en la madrugada\", y me gustaría de corazón que no se caiga la aguja a cero, no porque me miren más o menos, sino porque, a lo mejor, como me pasó a mí, a partir de este monólogo a ustedes les explota la cabeza y el domingo, cuando vayan a votar a quien quieran, sepan lo que ustedes quieren, no lo que quieren los candidatos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escúchenlo, miren qué bueno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que hacer algo, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Para algo tendrá que servirnos el cambio, digo yo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pues venga, vamos a cambiar de vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Rossi, ¿qué te pasa?",
+      "entidades_detectadas": [
+        "¿",
+        "Rossi"
+      ]
+    },
+    {
+      "frase": "¿Que tu vida con Andrés y los chicos no te gusta?",
+      "entidades_detectadas": [
+        "Andrés"
+      ]
+    },
+    {
+      "frase": "Pues fuera, una separación con él y cada uno por su lado, pero con dos o varios, como si fuéramos mayores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y tú, Nacho?",
+      "entidades_detectadas": [
+        "¿",
+        "Nacho"
+      ]
+    },
+    {
+      "frase": "¿No te ha tirado siempre lo otro?",
+      "entidades_detectadas": [
+        "¿No"
+      ]
+    },
+    {
+      "frase": "Pues venga, guerra, adelante, pero sin tapujos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ponte la peineta y a ello, pero con dignidad, con la cara bien alta, que no pasa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a ver, Andrés, ¿tú no estás loco por dejar esas contabilidades de mierda y vivir solo con el sueldo?",
+      "entidades_detectadas": [
+        "Andrés",
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿A qué esperas?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "¿Que no puedes?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claro que puedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Plántate.",
+      "entidades_detectadas": [
+        "Plántate"
+      ]
+    },
+    {
+      "frase": "Plántate con Hernández, con Gil, con Troncoso, plantaros todos y pedir un sueldo digno.",
+      "entidades_detectadas": [
+        "Gil",
+        "Troncoso"
+      ]
+    },
+    {
+      "frase": "Ya verás cómo se acojonan los de la planta noble y a vivir como un ser humano y no como un robot.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y a estar con tus hijos?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y a charlar con tu mujer?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿O no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "A la mierda la familia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero esta vez de verdad, sin echar la culpa a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que comprometerse consigo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que tratar de ser uno mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ir a las libertades personales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Margarita, de mi vida, ya no me sirve eso que me dices siempre de que te pasas la vida metida en casa, de que Vicente no te saca.",
+      "entidades_detectadas": [
+        "Vicente",
+        "Margarita"
+      ]
+    },
+    {
+      "frase": "¿Qué pasa?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Que tú quieres ir al cine y Vicente no quiere?",
+      "entidades_detectadas": [
+        "Vicente"
+      ]
+    },
+    {
+      "frase": "Pues vete al cine, fíjate que es sencillo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese metro, ese autobús, bueno, me da una butaca y ya está.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y qué pasa?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Se ha terminado eso de ser víctimas de la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que vencer a la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que tomar el mando en la cama.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que mandar a la mierda la parcela.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que devolver el televisor en color.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿O no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Si lo que quieres es un televisor en color, cómprate el más grande que encuentres porque es lo que quieres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No ahorráis cuatro perras para dejárselas a vuestros hijos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Y qué?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No ahorráis cuatro perras para dejárselas a vuestros hijos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Disfrutad de la vida vosotros porque es vuestra vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y porque, además, esas cuatro perras luego no van a ser nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que empezar a tratar de ser libres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo también quiero ser libre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tener que mentirme tanto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sé que tengo que hacer algo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A lo mejor… escuchar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuchar más a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O hacer un programa de radio para adultos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para hablar de las cosas de hoy porque… porque no podemos pasar nosotros 40 años hablando de los 40 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les prometo que Ray Peterson, Raymundo Pérez, si hubiera nacido en el imperio, no volvería a decirle a Laura que la quiere.",
+      "entidades_detectadas": [
+        "Laura",
+        "Raymundo Pérez",
+        "Ray Peterson"
+      ]
+    },
+    {
+      "frase": "¿Por qué es que Laura tiene ya 35 años, cinco hijos y está casada con un veterinario de Arkansas?",
+      "entidades_detectadas": [
+        "Arkansas",
+        "Laura"
+      ]
+    },
+    {
+      "frase": "Y esto hay que afrontarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No soy político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ni sociólogo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero creo que lo que deberíamos hacer es… darnos la libertad los unos a los otros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aunque sea una libertad condicional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero el caso es empezar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que sí podemos hacerlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para la gente que se quedó, para mis compañeros que trabajan todos los días, y para todos los que se quedaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para la gente que se quedó todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y para todos los argentinos que… que sabemos muy bien que el lunes tenemos que vestirnos por la mañana y salir a pelearla como todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque todavía no se nos ocurrió nada que nos meta esa cosquilla donde tenemos la piedra y nos haga disfrutar de la existencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias, muchachos.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Nacho?",
+    "Mar del Plata",
+    "Pacho",
+    "Alberto Fernández",
+    "Empecé",
+    "Andrés",
+    "Vamos",
+    "Margarita",
+    "Mar del Plata?",
+    "Raymundo Pérez",
+    "Pacho O'Donnell",
+    "Ray Peterson",
+    "Qué",
+    "Baza Baby",
+    "¿Vieron",
+    "Gabriela Levina",
+    "Ponte",
+    "Carmela Lozada",
+    "Roberto",
+    "Arkansas",
+    "Cristina Fernández de Kirchner",
+    "Esteche",
+    "Franco",
+    "¿No",
+    "Néstor Kirchner",
+    "Plántate",
+    "Grabois",
+    "Cuál",
+    "Renuncio",
+    "Alberto",
+    "Tenía",
+    "Vicente",
+    "Claro",
+    "Gil",
+    "qué sacó",
+    "Latinoamérica",
+    "Rossi",
+    "¿A",
+    "Santiago",
+    "Troncoso",
+    "Cristina subió",
+    "Gabriela Díaz",
+    "Cristina",
+    "Bueno",
+    "Después",
+    "Víctor Heredia",
+    "Platón",
+    "Javier?",
+    "¿",
+    "Alfonsín",
+    "Laura",
+    "Macri"
+  ]
+}

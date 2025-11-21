@@ -1,0 +1,631 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "No puedo acceder a archivos externos, incluyendo archivos de log.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo tanto, no puedo proporcionar un archivo de log que detalle mis correcciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, te proporciono el texto corregido con la mayor fidelidad posible al original manteniendo el tono y estilo coloquial, aunque suavizando algunas expresiones:\n\n\nEl texto original es tan caótico y lleno de jerga coloquial, cambios bruscos de tema y expresiones vulgares que una corrección \"limpia\" perdería su esencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He intentado corregir la ortografía, la gramática y la puntuación para que sea legible, pero he mantenido el estilo informal y algo desorganizado del original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una transcripción más literaria y organizada  requeriría una reescritura completa,  lo cual se sale del alcance de esta tarea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Texto corregido:\n\n¿Cuál es el secreto?",
+      "entidades_detectadas": [
+        "Cuál",
+        "Texto"
+      ]
+    },
+    {
+      "frase": "Él no se arregla el pelo en Inglaterra.",
+      "entidades_detectadas": [
+        "Inglaterra"
+      ]
+    },
+    {
+      "frase": "Antes pensaba que en el primer programa me maquillé y peiné.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy bajo del auto...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ni eso!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no me \"chupan huevos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ser natural.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que en cualquier momento que nos desconectamos volvemos al ruedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desavisado, en camisa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a cambiar algo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero la gente detrás de las cámaras, ¿cuál es el secreto?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Ayer, con un rating de cuatro puntos y medio, se gastaron millones, toda la carne al asador, mucha publicidad.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Empezaron Pena, Fantino, Canosa… y yo llegué y pensé: \"¿qué hacemos?\".",
+      "entidades_detectadas": [
+        "Canosa",
+        "Fantino"
+      ]
+    },
+    {
+      "frase": "No tenía editorial, ni idea de qué haríamos.",
+      "entidades_detectadas": [
+        "qué haríamos"
+      ]
+    },
+    {
+      "frase": "Seríamos la gran sorpresa, la gente vería nuestra naturalidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me estoy olvidando...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El año que viene no podré hacerlo más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El secreto es que, por primera vez en la televisión argentina, dan libertad a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque siempre hay un productor, un director, que te dicen: \"Mira a cámara, mira a cámara.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Manda el corte, el 32\".",
+      "entidades_detectadas": [
+        "Manda"
+      ]
+    },
+    {
+      "frase": "El sonidista: \"Muy bajo, sube esto, baja aquello\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y a ustedes, que no se les vea.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Está mal editado, hace dos horas te pido el material para cambiar esto\".",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Pero somos felices.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Venimos a trabajar y a divertirnos, nos queremos, nos cuidamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sale esta \"porquería\" que mide bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si funciona, no lo cambies.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Preocupación por la cámara...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si funciona, no lo cambies.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Esto funciona fantástico!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé si a usted le gustará, pero todos nos imitan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cada programa que ven tiene algo nuestro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bailan, hacen el trencito...",
+      "entidades_detectadas": [
+        "Bailan"
+      ]
+    },
+    {
+      "frase": "Hasta los \"grabs\" imitan nuestro fondo de pantalla, la luna...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "hacen los mismos chistes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero los auténticos somos nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Bravo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué somos!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "¡Tiburones!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Qué corte de clima!",
+      "entidades_detectadas": [
+        "¡Qué"
+      ]
+    },
+    {
+      "frase": "¡Es un pelotudo!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dígale a su productor que no me moleste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me llama para su programa del domingo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo se llama el fracaso?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto dura?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "Cinco horas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto me pagan?",
+      "entidades_detectadas": [
+        "¿Cuánto"
+      ]
+    },
+    {
+      "frase": "No lo sé, pero que no me llame todos los días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Tiene que llamar al conductor!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes de irme...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si pone esto en la programación nocturna… ¿No tiene medias?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Necesita medias, y taco!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Taco!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ir a un zapatero que nos acerque.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, mocacino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Traigan otros tarros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llévese esto, póngale aceite, filtro, alineación, balanceo… Alberto se fue a España.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Llévese",
+        "España"
+      ]
+    },
+    {
+      "frase": "Sí, ¿quién lo ve?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es el único canal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡El primer camarógrafo no vidente de la televisión argentina!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Tiene al perro atado a la cámara!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Muy bien!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Normal o bajo?",
+      "entidades_detectadas": [
+        "¿Normal"
+      ]
+    },
+    {
+      "frase": "Normal o bajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tu compañero es como un tiburón, lo tiraste bajo del tren, pobre chico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hace veinte años y no aprendió nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos te pones nervioso y aprendes menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Somos unos boludos, pero al menos no somos presidentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto se fue a España de pesca, sin agenda, sin nada.",
+      "entidades_detectadas": [
+        "Alberto",
+        "España"
+      ]
+    },
+    {
+      "frase": "Como nosotros, improvisando, y la gente nos copia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto estuvo en España con Ricardito, saludando a todos.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Cuando vi a Alberto y Cafiero, pensé en Don Quijote y Sancho Panza.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cafiero",
+        "Sancho Panza"
+      ]
+    },
+    {
+      "frase": "El rey de España dijo: \"Don Quijote y Sancho Panza\".",
+      "entidades_detectadas": [
+        "España",
+        "Sancho Panza"
+      ]
+    },
+    {
+      "frase": "Fue a hablar de ideas para España.",
+      "entidades_detectadas": [
+        "España"
+      ]
+    },
+    {
+      "frase": "¿Le parece?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice que tiene cosas para ayudar a España.",
+      "entidades_detectadas": [
+        "España"
+      ]
+    },
+    {
+      "frase": "Creo que está loco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Afortunadamente no fue a Rusia, sino le tiraría una bomba atómica a Estados Unidos de broma.",
+      "entidades_detectadas": [
+        "Rusia",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "No tiene idea de nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dio una nota en un jardín, hablando de inversiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le preguntaron si se postularía de nuevo, y dijo que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tiene idea de la situación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras tanto, la primera dama ofrece dinero para evitar un juicio por la fiesta de Olivos, y falta lo de la vacunación.",
+      "entidades_detectadas": [
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Un padre sigue recordando a su hija muerta por COVID.",
+      "entidades_detectadas": [
+        "COVID"
+      ]
+    },
+    {
+      "frase": "Un día lo traeremos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este programa debe tener éxito porque la gente está cansada de las campañas, las promesas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como dice Sandro, al final la vida sigue igual.",
+      "entidades_detectadas": [
+        "Sandro"
+      ]
+    },
+    {
+      "frase": "Todos quieren ser presidentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El que gobierne Argentina necesita ser un mago.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Tiene que arreglar el agujero que dejó esta gente, la ruina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto sigue tirando indirectas a Cristina desde España, y con lo de Macri… ¡Termine con Macri!",
+      "entidades_detectadas": [
+        "Macri",
+        "Alberto",
+        "Cristina",
+        "España"
+      ]
+    },
+    {
+      "frase": "Déjese de joder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Macri puede volver, y usted sigue lamentándose.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Macri es mentira.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Hace dos años y medio que es presidente y solo ha hecho un decálogo de errores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hizo una fiesta en Olivos y nos trató de idiotas.",
+      "entidades_detectadas": [
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Nos vendieron vacunas defectuosas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos estafaron Cristina y usted.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Y anda por el mundo diciendo… ¡Deje de boludear!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dan asco los \"maricones\" (en sentido figurado).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para ser presidente hay que tener los huevos bien puestos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que mandar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No vaya a llorar a España y hable mal de Cristina allá.",
+      "entidades_detectadas": [
+        "Cristina",
+        "España"
+      ]
+    },
+    {
+      "frase": "Dígalo en su cara.",
+      "entidades_detectadas": [
+        "Dígalo"
+      ]
+    },
+    {
+      "frase": "Deje de hacer mariconeadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Párese frente a ella y dígale que quiere gobernar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se quede como un pelotudo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Deje de joder, deje de contarle al rey de España y al primer ministro de España.",
+      "entidades_detectadas": [
+        "España"
+      ]
+    },
+    {
+      "frase": "Macri me dejó la miseria.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "¡Deje de joder!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando se postuló sabía la situación, sabía que Cristina era una araña.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "No se venga ahora a hacer el pelotudo cuando estamos todos fundidos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No llore, sea macho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ponga los huevos sobre la mesa.",
+      "entidades_detectadas": [
+        "Ponga"
+      ]
+    },
+    {
+      "frase": "No sea pelotudo, Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Presidente, con todo respeto, mándeme una carta documento, juzgándome, pero deje de joder y gobierne.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cafiero",
+    "Rusia",
+    "Ponga",
+    "Venimos",
+    "Párese",
+    "Sancho Panza",
+    "Empezaron Pena",
+    "Inglaterra",
+    "Olivos",
+    "¿Cómo",
+    "Está",
+    "Cuál",
+    "Vos",
+    "Alberto",
+    "Estados Unidos",
+    "Dígalo",
+    "Argentina",
+    "Fantino",
+    "Ayer",
+    "qué haríamos",
+    "Desavisado",
+    "Llévese",
+    "Cristina",
+    "Traigan",
+    "Presidente",
+    "Dígale",
+    "Sandro",
+    "España",
+    "¿Cuánto",
+    "¿",
+    "Él",
+    "Mira",
+    "Normal",
+    "Manda",
+    "Deje",
+    "Sí",
+    "Canosa",
+    "Macri",
+    "Nos"
+  ]
+}

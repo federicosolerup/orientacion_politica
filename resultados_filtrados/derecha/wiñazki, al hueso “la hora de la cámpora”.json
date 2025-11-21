@@ -1,0 +1,62 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Un ejemplo clave es la salida de Guillermo Nielsen de YPF, la empresa más grande de Argentina (si bien no la más exitosa, presenta un importante déficit), reemplazado por Pablo González, ex vicegobernador de Santa Cruz.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Esto me lleva a enumerar los puestos de poder que La Cámpora ocupa, demostrando que su influencia ya es significativa,  incluso sin que Máximo Kirchner haya llegado a la presidencia.",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "La Cámpora también gestiona ANSES (Administración Nacional de la Seguridad Social),  responsable del pago de jubilaciones y subsidios en todo el país.",
+      "entidades_detectadas": [
+        "anses"
+      ]
+    },
+    {
+      "frase": "Luana Volnovich, cercana a Máximo Kirchner, maneja el PAMI.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "La influencia de La Cámpora se extiende a organismos como la ANAC (Administración Nacional de Aviación Civil) y la ANSeS (Administración Nacional de la Seguridad Social), así como al Ministerio de Desarrollo Social de la provincia de Buenos Aires, liderado por Andrés \"El Cuervo\" Larroque.",
+      "entidades_detectadas": [
+        "anses",
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Su presencia en áreas estratégicas como energía, pagos de jubilaciones, salud (a través del PAMI), Ministerio del Interior, y la influencia en la Cámara de Diputados (con Máximo Kirchner y aliados) es innegable.",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Si bien el presidente Alberto Fernández parece considerar que la gestión es efectiva, existe cierta resistencia dentro del gobierno hacia La Cámpora, vista por algunos como una especie de \"guardia pretoriana\" de Cristina Kirchner.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Esto se evidencia en casos como la decisión de Fernanda Raverta en ANSES de no apelar la sentencia judicial que otorgó a Cristina Kirchner dos jubilaciones de privilegio, lo que contrasta con la postura usual con jubilados comunes.",
+      "entidades_detectadas": [
+        "anses",
+        "cristina",
+        "kirchner"
+      ]
+    }
+  ]
+}

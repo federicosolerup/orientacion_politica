@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Uno es evidente: la derecha argentina demuestra una voracidad excesiva, llegando a destruir lo que necesitan para su propio funcionamiento; por ejemplo, un mercado local para comercializar sus productos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Actualmente, si un empleador despide a un trabajador en negro, además de la indemnización, enfrenta denuncias ante la AFIP (Administración Federal de Ingresos Públicos), con el consiguiente pago de impuestos y multas.",
+      "entidades_detectadas": [
+        "afip"
+      ]
+    },
+    {
+      "frase": "Se propone un fondo de despido, reemplazando las indemnizaciones actuales.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "El 8% de la masa salarial será administrado por los bancos, creando un fondo gigantesco, similar a las AFJP.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "En cinco años, este será el fondo más grande de Argentina, administrado por entidades privadas sin control ni transparencia.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    }
+  ]
+}

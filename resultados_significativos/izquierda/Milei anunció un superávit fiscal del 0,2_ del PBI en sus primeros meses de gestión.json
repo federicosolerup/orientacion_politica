@@ -1,0 +1,241 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 36,
+      "derecha": 9
+    },
+    "score_promedio": 0.279,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El martes 23 de abril, rodeado por sus colaboradores económicos, este lunes Javier Milei inició la noche de PESA con una cortísima cadena nacional en la que dio a conocer los resultados económicos de sus primeros meses de gestión, que arrojaron un superávit fiscal del 0,2% del Producto Bruto Interno.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, decíamos, el presidente Milei utilizó la cadena nacional para dirigirse a la población.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fueron poco más de 15 minutos en los que leyó un discurso acompañado por las más altas autoridades económicas de su gestión, concretamente el presidente del Banco Central, el ministro de Economía, el secretario de Finanzas y el vicepresidente del Banco Central.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente reconoció que estamos frente a una dura situación, pero, sin embargo, dijo que ya recorrimos la mitad del camino, lo que llevaría a pensar que, si pasaron cuatro meses y si hicimos la mitad del camino, quedarían cuatro meses más.",
+      "score": 0.301,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vale preguntarse entonces a quién le habla Milei.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, en Davos, uno podría inferir que no le habló a la audiencia argentina, sino que le habló a la derecha del hemisferio norte.",
+      "score": 0.169,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, ¿a quién le habló?",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A quién le habló el presidente Milei?",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podríamos decir que fue al Fondo Monetario Internacional, es otra de las alternativas que podría aportar los dólares necesarios para que salga del cepo.",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le estaba hablando a los propios en el caso de Milei.",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás sea uno de los marchantes de hoy, especialmente los jóvenes de la UBA que irán al Congreso y a la Plaza de Mayo, y que en ellos probablemente haya una buena parte significativa.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Verón le da ese nombre al destinatario negativo porque es aquella construcción discursiva del dirigente con la que se polemiza.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, fueron nuevamente los medios de comunicación y los economistas que discuten con el presidente Milei respecto de la sustentabilidad o de la calidad de la aplicación de sus medidas.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo discurso político le apunta a un contrincante.",
+      "score": 0.617,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y aquí el presidente utilizó estrategias que son las más conocidas, como, por ejemplo, la batalla cultural y la posverdad.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a compartir dos fragmentos de la cadena nacional de ayer y luego vamos a analizar qué hay de posverdad en el discurso de Javier Milei, cuando es a un paradestinatario, a un prodestinatario o a un contradestinatario.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, por primera vez, no traslada el costo del ajuste a toda la población argentina, sino solamente a aquellos que fueron beneficiados por el modelo empobrecedor del pasado.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La cadena nacional del presidente fue un discurso de la posverdad, tales así que, en sus principales conclusiones, reflejadas en los fragmentos que acabamos de pasar, tiene una contradicción interna.",
+      "score": 0.505,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, por el otro, Milei sostiene que el pueblo argentino viene haciendo un esfuerzo muy grande por el ajuste y que ya se llegó a más de la mitad del camino.",
+      "score": 0.088,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Justamente, se percibe un sacrificio entre la clase media y los trabajadores porque, según el Observatorio de la Deuda Social de la Universidad Católica Argentina, se alcanzó un porcentaje de pobreza del 57% cuando, al final del gobierno de Alberto Fernández, era 42%.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ningún elogio al presidente Alberto Fernández, que, de cualquier forma, tuvo una pésima performance con la pobreza y la inflación que aumentó el último año.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo mismo valdría para también el gobierno de Mauricio Macri y también para el segundo gobierno de Cristina Fernández de Kirchner.",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, durante la gestión de Javier Milei hay 3,2 millones de personas más que cayeron en la pobreza.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata prácticamente de un millón de nuevos individuos promedio por cada mes de gobierno de Javier Milei.",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este desplome de los ingresos se generó luego de las devaluaciones de diciembre, 118%, y en los sucesivos meses inflacionarios, comparativas que, en muchos casos, estuvieron alrededor del 20% de aumento en el primer trimestre del año.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de decir estos datos, no olvidemos que el gobierno cumplió solo cuatro meses.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No lo pagó la casta, lo está pagando la Universidad Pública, varias de cuyas facultades en todo el país no saben, perdón, si van a poder abrir el segundo cuatrimestre y, por eso, hay una movilización por la licuación de los haberes de los usuarios del transporte público, de la quita de subsidios y el incremento de las tarifas.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo estamos haciendo incluso contando con márgenes de maniobra acotados, producto de que el Congreso no le ha dado todavía a este gobierno las herramientas con las que todas las administraciones pasadas contaron.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inflación, sobre el final del gobierno de Alberto Fernández, en sus peores meses, rondó entre el 10 y el 12%, según la devolución de Caputo en diciembre.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría ser otro ejemplo de posverdad.",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo, en realidad, creo que en este caso el presidente tiene razón.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy por hoy, no es esa la situación que tenemos en la acumulación de inflación del primer cuatrimestre que gobierna Javier Milei.",
+      "score": 0.409,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, este término lo conocimos con el nombre del \"relato\", se le adjudica al kirchnerismo, pero finalmente todos tienen un relato para construir y una narrativa.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a pasar ahora a Javier Milei, esto no es magia, utilizando, probablemente, propositalmente, la misma frase que utilizaba Cristina Kirchner en su momento.",
+      "score": 0.715,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El Estado no gasta más de lo que recauda y no recurre a la emisión, no hay inflación, no es magia.\" Estos son conceptos que ya han sido largamente demostrados a lo largo de la historia de la humanidad y que la Argentina rechaza por una razón muy simple.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para nosotros, la única tarea del Estado es proteger la vida, la libertad y la propiedad de los argentinos, para que cada uno pueda ser arquitecto de su propio destino.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro aspecto de lo que podría ser el \"relato Milei\" es la referencia bíblica al Éxodo, un pueblo elegido caminando por el desierto hasta hallar la tierra prometida y guiado por un profeta.",
+      "score": 0.391,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nada de todo esto podría ser posible sin el esfuerzo heroico de la mayoría de los argentinos que están sufriendo, pero que saben que este es el único camino posible si queremos un futuro mejor para nuestros hijos.",
+      "score": 0.433,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora vamos a compartir otro fragmento del discurso de Javier Milei en el que hay un respaldo específico a Luis Caputo y a Santiago Bausili.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Quiero cerrar estas palabras destacando la enorme tarea que está llevando adelante nuestro equipo económico liderado por Luis Caputo y Santiago Bausili, que, teniendo todo en contra, decidieron poner el pecho para intentar sacar este país adelante, motivados únicamente por el patriotismo de saber que las decisiones las toman los que dicen presente.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos hombres que tengo a mi lado, estos patriotas que tenían un país prendido fuego por delante, no solo no le dieron la espalda, sino que corrieron hacia el fuego para intentar ayudar a sus compatriotas.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y luego están aquellas que pueden tener que ver con el inconsciente de la persona, con el mensaje dirigido a la historia, dirigido a sí mismo, dirigido hacia el futuro.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, hicimos un análisis de todas las posibles motivaciones que podría tener el presidente desde el punto de vista racional, que eran como siempre las motivaciones de orden irracional.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que con el tiempo iremos viendo a quién le hablaba Javier Milei en el discurso de ayer, cuando todo el mundo esperaba que hubiera un anuncio importante, como, por ejemplo, un anuncio de la salida del cepo, por ejemplo, o de un cambio de sistema monetario, o una promesa de cualquiera de estas dos cosas.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie duda de la voluntad del presidente en reducir el déficit fiscal y tener superávit fiscal.",
+      "score": 0.398,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 45
+  },
+  "etiqueta_original": "neutral"
+}

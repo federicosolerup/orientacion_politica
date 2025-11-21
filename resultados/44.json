@@ -1,0 +1,401 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Desastre natural impresionante con el fenómeno meteorológico conocido como DANA.",
+      "entidades_detectadas": [
+        "Desastre"
+      ]
+    },
+    {
+      "frase": "Hasta hace poco, el número de fallecidos ascendía a 140, aunque ahora desconozco la cifra exacta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La tragedia afectó gravemente a Valencia, con inundaciones catastróficas.",
+      "entidades_detectadas": [
+        "Valencia"
+      ]
+    },
+    {
+      "frase": "Las imágenes son devastadoras: automóviles apilados unos sobre otros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se están realizando rescates aéreos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "He leído informaciones sobre si se prestaron atención a las alertas meteorológicas o no, y sobre la influencia del cambio climático.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luis Carlos Navarro, vecino de Valencia y dedicado a la construcción, ha sufrido daños menores.",
+      "entidades_detectadas": [
+        "Valencia",
+        "Luis Carlos Navarro"
+      ]
+    },
+    {
+      "frase": "Su padre, por desgracia, es una de las víctimas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdió su automóvil, pero se encuentra bien, observando los acontecimientos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luis Jorge Rialde, de Radio 10, en Buenos Aires, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "¿",
+        "Luis Jorge Rialde"
+      ]
+    },
+    {
+      "frase": "Buenas tardes, Jorge.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Gracias a Dios, estamos aguantando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero enviar un saludo a toda Argentina y agradecer su preocupación.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Quiero"
+      ]
+    },
+    {
+      "frase": "Comenzaré a relatar lo sucedido a partir de la noche del 29 de septiembre.",
+      "entidades_detectadas": [
+        "Comenzaré"
+      ]
+    },
+    {
+      "frase": "Salí del trabajo sobre las seis y media de la tarde y me dirigí a mi vivienda, una quinta en Valencia, cerca de las obras del nuevo estadio de fútbol, el nuevo Mestalla.",
+      "entidades_detectadas": [
+        "Valencia",
+        "nuevo Mestalla"
+      ]
+    },
+    {
+      "frase": "Estaba realizando algunos arreglos en la casa cuando el cielo comenzó a cambiar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezamos a correr inmediatamente, alertando a nuestros contactos por móvil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un viento tremendo rompió nuestro paraguas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lloviendo a mares, fui a buscar el coche, recogí a mi pareja y la llevé a casa de su padre.",
+      "entidades_detectadas": [
+        "llevé"
+      ]
+    },
+    {
+      "frase": "Yo me dirigí a Chirivella.",
+      "entidades_detectadas": [
+        "Chirivella"
+      ]
+    },
+    {
+      "frase": "De camino, llovía, pero no parecía nada extraordinario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se emitieron avisos adecuados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A las seis y media de la tarde se comunicó que la tormenta se dirigía hacia Teruel (provincia, no comarca de Valencia).",
+      "entidades_detectadas": [
+        "Teruel",
+        "de Valencia"
+      ]
+    },
+    {
+      "frase": "De camino a casa, el viento se intensificó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hubo pequeños tornados que derribaron árboles, no solo en Chirivella, sino en toda la provincia de Valencia, afectando naves industriales y el conocido centro comercial Bonaire, en Aldaya.",
+      "entidades_detectadas": [
+        "Aldaya",
+        "Bonaire",
+        "provincia de Valencia",
+        "Chirivella"
+      ]
+    },
+    {
+      "frase": "La gente tuvo que refugiarse allí, ya que el centro se inundó, con el agua llegando a tres metros de altura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los coches flotaban y el aparcamiento estaba inundado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un amigo mío que trabajaba en una nave de un supermercado Lidl se vio atrapado por la creciente.",
+      "entidades_detectadas": [
+        "Lidl"
+      ]
+    },
+    {
+      "frase": "Todo empezó en Utiel y Requena, donde cayeron 500 litros por metro cuadrado.",
+      "entidades_detectadas": [
+        "Requena",
+        "Utiel"
+      ]
+    },
+    {
+      "frase": "Las presas reventaron (como la de Manises) y el río Turia, en el este de España, se desbordó, afectando a Chirivella, Mislata, Manises y otras localidades.",
+      "entidades_detectadas": [
+        "Manises",
+        "España",
+        "Chirivella",
+        "Turia",
+        "Mislata"
+      ]
+    },
+    {
+      "frase": "La riada bajó desde Utiel, Requena, Dibaioja, Cheste, Chiva, Buñol, Turís, Catadau, La Pobla de Vallbona, Montroy hasta Valencia.",
+      "entidades_detectadas": [
+        "Catadau",
+        "Montroy",
+        "Requena",
+        "Utiel",
+        "La Pobla de Vallbona",
+        "Chiva",
+        "Valencia",
+        "Turís",
+        "Buñol",
+        "Cheste",
+        "Dibaioja"
+      ]
+    },
+    {
+      "frase": "Un desastre total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dijiste algo interesante sobre la falta de aviso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una de las críticas es que, a pesar de los indicios, se tardó mucho en lanzar la alerta roja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dejaron ir a los niños al colegio y a los trabajadores a sus empleos?",
+      "entidades_detectadas": [
+        "¿Dejaron"
+      ]
+    },
+    {
+      "frase": "Sí, los colegios cerraron una vez lanzada la alerta, pero la gente sí que fue a trabajar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Unos responsables del gobierno anunciaron por Twitter a las seis y media de la tarde que la tormenta había pasado y que se podía hacer vida normal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente, confiada, siguió con su rutina, yendo a centros comerciales y supermercados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando la gravedad de la situación se hizo evidente, ya era demasiado tarde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se escuchaban las sirenas de ambulancias por todas partes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo está la situación ahora mismo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fatal.",
+      "entidades_detectadas": [
+        "Fatal"
+      ]
+    },
+    {
+      "frase": "La entrada a Chirivella desde Valencia está colapsada.",
+      "entidades_detectadas": [
+        "Valencia",
+        "Chirivella"
+      ]
+    },
+    {
+      "frase": "Estoy atrapado, la policía solo permite la salida en caso de urgencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay cortes de carreteras en pueblos y localidades.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se pide a la gente que solo se desplace en caso de necesidad, para dar prioridad a los servicios de emergencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Están suspendidas todas las actividades?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algunos comercios, bares, fruterías y algunos supermercados como Consum y Lidl (este último ya cerrado por falta de existencias) permanecen abiertos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Falta agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fui a varios supermercados y solo encontré tres packs de seis botellas de litro y medio en uno de ellos.",
+      "entidades_detectadas": [
+        "Fui"
+      ]
+    },
+    {
+      "frase": "La gente estaba desesperada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hubo saqueos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un compañero que trabaja en Fobasa me envió audios relatando cómo ayudaron en la zona de La Eliana y Quart de Poblet, y cómo estaban sacando barro y agua de un supermercado Mercadona.",
+      "entidades_detectadas": [
+        "Mercadona",
+        "La Eliana",
+        "Quart de Poblet"
+      ]
+    },
+    {
+      "frase": "Mientras ayudaban,  muchas personas robaban delante de la policía, que estaba priorizando el rescate de personas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Hubo antecedentes similares en Valencia?",
+      "entidades_detectadas": [
+        "Valencia",
+        "¿Hubo"
+      ]
+    },
+    {
+      "frase": "Sí, en 2001 hubo una inundación con un tercio de los daños de la actual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Aldaya, Alacuás, Paiporta, Massanassa y otras localidades afectadas, las calles se convirtieron en ríos.",
+      "entidades_detectadas": [
+        "Aldaya",
+        "Massanassa",
+        "Paiporta",
+        "Alacuás"
+      ]
+    },
+    {
+      "frase": "También hubo daños en Almusafes.",
+      "entidades_detectadas": [
+        "Almusafes"
+      ]
+    },
+    {
+      "frase": "Acabo de enterarme de que en La Torre rescataron a ocho personas ahogadas en un garaje.",
+      "entidades_detectadas": [
+        "La Torre"
+      ]
+    },
+    {
+      "frase": "Hay un desaparecido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las imágenes son terribles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Agradezco tu testimonio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos procesando lo sucedido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Almusafes",
+    "Manises",
+    "Mercadona",
+    "de Valencia",
+    "Quart de Poblet",
+    "Valencia",
+    "Bonaire",
+    "Turís",
+    "Luis Carlos Navarro",
+    "Comenzaré",
+    "Luis Jorge Rialde",
+    "Dibaioja",
+    "Agradezco",
+    "Lloviendo",
+    "La Eliana",
+    "nuevo Mestalla",
+    "Dijiste",
+    "Requena",
+    "Gracias a Dios",
+    "Empezamos",
+    "Turia",
+    "Mislata",
+    "Alacuás",
+    "llevé",
+    "Argentina",
+    "Montroy",
+    "Utiel",
+    "Massanassa",
+    "La Torre",
+    "Quiero",
+    "La Pobla de Vallbona",
+    "provincia de Valencia",
+    "Chiva",
+    "Cheste",
+    "Paiporta",
+    "Buenos Aires",
+    "Catadau",
+    "Chirivella",
+    "Desastre",
+    "España",
+    "¿Dejaron",
+    "Fui",
+    "Aldaya",
+    "¿",
+    "Teruel",
+    "Lidl",
+    "Jorge",
+    "Buñol"
+  ]
+}

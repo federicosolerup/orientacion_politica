@@ -1,0 +1,788 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¿Cómo estamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uy, ahí te digo, hay que enviar una paloma mensajera para volver.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una esquela.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nada, funciona acá.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una mala situación, bueno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eh, nada, estamos bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te ofendas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sos mucho mejor que el Vikingo, ¿eh?",
+      "entidades_detectadas": [
+        "¿",
+        "Vikingo"
+      ]
+    },
+    {
+      "frase": "El Vikingo te ha hecho un favor insignificante, agrandado.",
+      "entidades_detectadas": [
+        "Vikingo"
+      ]
+    },
+    {
+      "frase": "Sos mucho mejor que el Vikingo, lejos.",
+      "entidades_detectadas": [
+        "Vikingo"
+      ]
+    },
+    {
+      "frase": "Vos también.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "Son todos buenos, no sé qué me… ¡Oh!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Ah!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mira que os… ¡Oh!",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "¡Si se habrá masticado Jorge Luz!",
+      "entidades_detectadas": [
+        "Jorge Luz!"
+      ]
+    },
+    {
+      "frase": "Luz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué pocas emisiones del canal.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Acá se hacía notar la diferencia.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "¿O no, John?",
+      "entidades_detectadas": [
+        "¿",
+        "John"
+      ]
+    },
+    {
+      "frase": "Me acordé de Jorge Luz porque estaba… Jorge Luz, Fernando Peña.",
+      "entidades_detectadas": [
+        "Fernando Peña",
+        "Jorge Luz"
+      ]
+    },
+    {
+      "frase": "Estaba yo, estábamos todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recién empezábamos, cha cha cha, todo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después lo compró el señor Ávila, el padre de Juan Cruz, cuyo padre, escándalo, fue el que descubrió que Grandona era un sinvergüenza.",
+      "entidades_detectadas": [
+        "Ávila",
+        "Grandona",
+        "Después",
+        "Juan Cruz"
+      ]
+    },
+    {
+      "frase": "Lo filmó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo me admiro de que todos le echaron la culpa al señor Ávila.",
+      "entidades_detectadas": [
+        "Ávila"
+      ]
+    },
+    {
+      "frase": "No dijeron que Grandona era un corrupto.",
+      "entidades_detectadas": [
+        "Grandona"
+      ]
+    },
+    {
+      "frase": "Dijeron: “Ávila lo filmó”, viste, porque acá se puede robar, pero no se puede decir.",
+      "entidades_detectadas": [
+        "Ávila"
+      ]
+    },
+    {
+      "frase": "Cada vez tengo menos pelo, voy a tener que ir a… Herri Covery.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este… Sin miedo, lo que te pedí… Herri Covery.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, lo que te pedí es que no digas tonterías.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En todo lo demás, tenés que estar más relajado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy, estoy, estoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy, estoy, estoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No trabajar para el pueblo, tenés que trabajar.",
+      "entidades_detectadas": [
+        "tenés"
+      ]
+    },
+    {
+      "frase": "¿Cómo andan tus masajes capilares?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Te crece un poco el pelo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no me hago masajes capilares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Soy un quisquilloso, no, no, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me gusta que me toquen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me gusta que me toque una masajista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo les conté cuando fui a la… ¿A dónde?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "Contáale, contáale.",
+      "entidades_detectadas": [
+        "Contáale"
+      ]
+    },
+    {
+      "frase": "La de Santiago.",
+      "entidades_detectadas": [
+        "Santiago"
+      ]
+    },
+    {
+      "frase": "Contáale, contáale.",
+      "entidades_detectadas": [
+        "Contáale"
+      ]
+    },
+    {
+      "frase": "¿Qué tenía la toalla?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Residuos de otros clientes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La podías levantar así como gasto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué mugre.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Tenía una contractura.",
+      "entidades_detectadas": [
+        "Tenía"
+      ]
+    },
+    {
+      "frase": "Tenía una contractura que me estaba matando.",
+      "entidades_detectadas": [
+        "Tenía"
+      ]
+    },
+    {
+      "frase": "¿Y quién te asesoró para ir?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Macari, un amigo mío, en Pepino.",
+      "entidades_detectadas": [
+        "Macari",
+        "Pepino"
+      ]
+    },
+    {
+      "frase": "Y cuando iba a la ESA, yo vi a… Yo estuve… ¿Tenía anteojos?",
+      "entidades_detectadas": [
+        "Tenía",
+        "ESA"
+      ]
+    },
+    {
+      "frase": "No, escúchenme, después vamos a… ¿Se puede contar al aire?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, hasta ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A una mugre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A una mugre que encima me dice: “Son 50 pesos”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenías anteojos de botella, ¿no?",
+      "entidades_detectadas": [
+        "Tenías",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Sí, culo de botella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya me agarraste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así porque se le caiga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezó con el aceite.",
+      "entidades_detectadas": [
+        "Empezó"
+      ]
+    },
+    {
+      "frase": "¿Y de qué charlabas?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿De qué charlabas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo estaba en un grito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabes lo que es?",
+      "entidades_detectadas": [
+        "¿Sabes"
+      ]
+    },
+    {
+      "frase": "Que un arte… Te piso la otra y te agarras del nervio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estaba así, medio cuerpo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Venía de acá.",
+      "entidades_detectadas": [
+        "Venía de acá"
+      ]
+    },
+    {
+      "frase": "¿La Coacimón?",
+      "entidades_detectadas": [
+        "¿La Coacimón"
+      ]
+    },
+    {
+      "frase": "Gracias, Mariano.",
+      "entidades_detectadas": [
+        "Mariano"
+      ]
+    },
+    {
+      "frase": "Dame una cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto me va a doler más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muy solitaria la… El pasajero era solitario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una cosa horrible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a hablar de la pobreza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Habla todo el mundo de la pobreza, pero la pobreza existe.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo pensaba: “Y si no le dieran a la gente los 30.000 pesos todos los meses, ¿cuántos pobres tendríamos ahora?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "60, 70% de pobres, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "O más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Realmente, ¿qué querés que te diga?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Yo no estoy a favor de los piqueteros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero tampoco estoy en contra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque tienen hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, es muy fácil para el que cobra un sueldo grande por mes, para nosotros los que cobramos bien, es muy fácil hablar del hambre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo tengo una ventaja.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo lo pasé en la época de Alfonsín.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Alfonsín me fundió, me hizo mierda.",
+      "entidades_detectadas": [
+        "Alfonsín"
+      ]
+    },
+    {
+      "frase": "Siempre hubo un presidente que te hace mierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Viste que la Argentina es como el baile de la escoba.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Cuando vos te creés que te levantaste a la más linda, un boludo hace… Y tenía que volver a agarrar la escoba y la agarró otro.",
+      "entidades_detectadas": [
+        "tenía"
+      ]
+    },
+    {
+      "frase": "La plata se la van pasando de mano en mano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces mi abuelo tuvo un tambo, tenía plata, quiso dejar la Argentina grande para mi papá, murió en la pobreza.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Mi papá fue gráfico, tuvo una imprenta enorme, quiso dejarme un país mejor a mí, murió en la pobreza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo creo que soy un tipo previsor y los miro bien a mis hijos como diciendo: “El día de mañana, pónganme un colchón”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque en este país te la comen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y es raro que en este país haya gobiernos y sindicalistas tan millonarios y un pueblo tan pobre, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Es insólito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que quieran castigar a un tipo que gana 400.000 pesos cuando un político en una hora se lleva 2, 3, 4 millones de dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que un tipo en una licitación de consoladores, como el otro día, los penes para aprender a poner el preservativo, querían, se llevaban como 4 o 5 millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que hagan esos inventos para llevarse plata con la licitación del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Hoy el hijo de un amigo mío, que es proveedor del Estado, licitó un trabajo que tenía que hacer.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Y estaba contento porque se habían ganado 2 millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando facturó con todos los papeles, porque facturás con todo, le quedaban 900.000 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, un millón cien mil se lo come el Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "De lo que vos ganas, este señor que habla de vender el aire al oro ruso y de… ¿Tú lo dices que dice?",
+      "entidades_detectadas": [
+        "¿Tú"
+      ]
+    },
+    {
+      "frase": "Y la señora que está tan preocupada por volver a agarrar el sillón de Rivadavia para terminar de hacernos mierda, se llevan el 60% de su dinero.",
+      "entidades_detectadas": [
+        "Rivadavia"
+      ]
+    },
+    {
+      "frase": "Este pibe en una licitación de dos millones, imagínate el campo, con la soja, el maíz, imagínate las empresas, y estos hijos de mil putas, y ahí me enojé, la reputa madre, estos hijos de mil putas, creen que el campo florece el choclo solo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el campo que tiene, los empresarios que tienen, los ricos que tienen, pero la verdad que los que tienen son ellos que nos robaron el país y lo tienen los Muñoz, lo tienen los Moyanos, lo tienen todos los sindicalistas, el otro hijo de puta que estábamos en Uruguay que tenía colección de autos, una chacra, ellos tienen la plata.",
+      "entidades_detectadas": [
+        "Uruguay",
+        "tenía",
+        "Moyanos"
+      ]
+    },
+    {
+      "frase": "Nos robaron ellos, muchachos, los jueces, casa en Cariló, casa en Punta del Este, los encontrás en Miami, los políticos, pisos en todos lados, casa en todos lados, uno le dice: “No, venía a conocer la chacra”, la chacra cuando tiene dos mil hectáreas, “venía a conocer mi casa en Miami”, está con el barco en la puerta.",
+      "entidades_detectadas": [
+        "Punta del Este",
+        "Miami",
+        "Cariló"
+      ]
+    },
+    {
+      "frase": "Y nadie pregunta cómo le hicieron estos tipos que no pueden hacer la boca con un vaso, estos cínicos, estos perversos, hoy viene una foto del hijo de Cristina, ¿cómo se llama el pibe?",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Máximo, y el hijo de Moyano.",
+      "entidades_detectadas": [
+        "Máximo",
+        "Moyano"
+      ]
+    },
+    {
+      "frase": "¿Vos sabés lo que es eso?",
+      "entidades_detectadas": [
+        "¿Vos"
+      ]
+    },
+    {
+      "frase": "Esa es la bomba atómica, acá la fórmula, pase mierda a lo que toca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Agarrate los huevos cuando lo ves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y realmente con un descaro se reían y yo pregunto: “¿De qué se ríen?”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O le vino mal o alguien le hace cosquillas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque reírse en este momento, como dejaron hecha mierda la Argentina, ellos, precisamente ellos y además la dinastía de corruptos, vos muriendo corrupto y vos decís: “Entre la lástima que se murió, respiro porque decís: Bueno, menos mal.",
+      "entidades_detectadas": [
+        "Bueno",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Un corrupto menos”, pero aparece el hijo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el hijo arranca y dice: “¿Te vas a dedicar a la política?” Y en eso estoy, cagamos, 20 años más embargados porque viene el que en eso estoy y todos los amigos atorrantes del que en eso estoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos fijate hace 20 años que nos queremos sacar a los K, que no nos sale ni con callecía la orilla.",
+      "entidades_detectadas": [
+        "K"
+      ]
+    },
+    {
+      "frase": "Y van creciendo nuevas dinastías de K y cuando lo veo a Máximo con los pibes en brazos me asusto por mis nietos porque bueno, a mí me cagó el padre, me cagó la madre y me está cagando el hijo.",
+      "entidades_detectadas": [
+        "Máximo",
+        "K"
+      ]
+    },
+    {
+      "frase": "Pero a mis nietos y a mis hijos los van a cagar estos guachos nuevos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces ya te da miedo saber que la dinastía de los hijos de puta y los de los criadores nos van a terminar destrozando la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso mismo no me quería enojar, prefería bromear, hablar de la masajista de los anteojos, boludear un poco con mis amigos como ahora vamos a boludear y de la pobreza no se habla, se les da de comer, se les da trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero Alberto, escucha una cosa, si está fresco… No, porque hoy está fresco, no.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "No se habla de la pobreza, se la extermina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no se dice que le van a dar un trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque el trabajo de Alberto son 30.000 pesos y la limpia y no dura a género.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "A la gente hay que darle dignidad, hay que abrir la fábrica y en cambio el charco de las gomas, como siempre digo, hay que volver el humo de las chimeneas como cuando yo era chico, que todas las fábricas y todas las empresas trabajaban a 24 horas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi abuela tenía un almacén, iban a comprar la gente de obra sanitaria con libreta, no había tarjeta de crédito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la verdad que no tenían autos 0 km ni plasma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero tenían la alacena con todo guardado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se conocía el hambre, no se conocía la miseria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El humilde comía, que era normal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que no tenía el humilde era el chalet con teja, tenía la casita con chapa.",
+      "entidades_detectadas": [
+        "tenía"
+      ]
+    },
+    {
+      "frase": "Pero esto de dormir en la calle, de estar tirado en la calle, de cagar y mear en la calle, esto de estar como animales quejándose, yo no lo vi nunca realmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la señora, la reina madre, Doña Margarita, se queja por las piedras.",
+      "entidades_detectadas": [
+        "Doña Margarita"
+      ]
+    },
+    {
+      "frase": "No le importa que la gente se caga de hambre, que se muere de frío, porque ella ya tiene guardado, como dicen los judíos el “pécale”, ya tiene el “pécale” guardado para los hijos, los hijos y los hijos de los hijos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya robaron para varias generaciones hasta que cambien de apellido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No le importa a los pobres que se quejan, a ella le importa si los pobres se quejan en frente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ella le importa si los pobres le van a romper la bola a Alberto o a Macri.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Pero que haya pobres no le importa, porque ya aprendieron que los almacenes de pobres, donde los crían y los reproducen, los usan en beneficio propio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso mejor hablemos tonterías, porque mientras esta mierda está enquistada en el gobierno, la Argentina no va a salir nunca.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Ávila",
+    "El Vikingo",
+    "Realmente",
+    "¿Sabes",
+    "Empezó",
+    "¿Vos",
+    "Jorge Luz! Luz",
+    "Esa",
+    "Uruguay",
+    "Qué",
+    "Nada",
+    "tenía",
+    "Contáale",
+    "Mariano",
+    "¿Tú",
+    "Moyanos",
+    "Fernando Peña",
+    "Estado",
+    "Punta del Este",
+    "Viste",
+    "Grandona",
+    "Máximo",
+    "Vos",
+    "Tenía",
+    "Acá",
+    "K",
+    "Alberto",
+    "Venía de acá.",
+    "tenés",
+    "Cariló",
+    "Argentina",
+    "¿A",
+    "Doña Margarita",
+    "Sí",
+    "Recién",
+    "Así",
+    "Cristina",
+    "Bueno",
+    "Después",
+    "¿La Coacimón?",
+    "ESA",
+    "Moyano",
+    "Pepino",
+    "Jorge Luz",
+    "Macari",
+    "la Argentina",
+    "¿",
+    "Miami",
+    "Rivadavia",
+    "Alfonsín",
+    "Pero Alberto",
+    "Tenías",
+    "Macri",
+    "Juan Cruz"
+  ]
+}

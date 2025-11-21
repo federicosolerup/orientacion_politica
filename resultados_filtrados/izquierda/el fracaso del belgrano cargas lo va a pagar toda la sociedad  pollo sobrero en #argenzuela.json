@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Además, cuentan con el visto bueno del gremio nacional, de Sergio Sasia, que avala la privatización a cambio del 10% de las acciones.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "**Rubén:** El gremio de la Unión Ferroviaria, con Sergio Sasia como secretario general, ha acordado con el gobierno.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Lo mismo que Menem, solo que Menem entregó todo el ferrocarril.",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "A pesar de las vías destrozadas (435 descarrilamientos en un año, cada uno costando entre 1 y 5 millones de dólares),  las empresas privadas ligadas a los agroexportadores, como el NCA, Ferroexpreso Pampeano y FerroSur, rompen las vías y el Estado las tiene que reparar.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Utilizan la traza, rompen las vías y el Estado debe intervenir.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

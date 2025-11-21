@@ -1,0 +1,73 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El presidente amenazó con vetar una ley, especialmente por las disposiciones sobre jubilaciones.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Si bien puede vetar, el Congreso puede insistir con una mayoría de dos tercios, según la Constitución.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Jorge Rial:  Entonces, si el Congreso obtiene los dos tercios, el presidente debe promulgar la ley.",
+      "entidades_detectadas": [
+        "presidente",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "El Congreso tiene la última palabra.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Además, el Congreso representa a toda la provincia, un concepto que el presidente parece no comprender.",
+      "entidades_detectadas": [
+        "presidente",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "La situación es compleja políticamente porque el Congreso puede bloquear otras leyes como represalia ante un veto que considere injustificado.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Un presidente que en seis meses no ha logrado aprobar una ley en el Congreso, demuestra una gran incapacidad.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Con su actitud de \"elevar la apuesta\", el presidente no comprende las correlaciones de fuerzas en la política democrática.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Los inversores extranjeros, por ejemplo, observan la capacidad del presidente para manejar políticamente la situación.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Sin contar otras cuestiones, como la lista de YARVI (asumiendo que es una sigla y conservándola, ya que el texto original es inentendible en este punto), donde el Estado pagaba a gente que no trabajaba y compraba dólares de manera irregular.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "24 horas después, la cámara falló en contra del Ministerio de Desarrollo Social.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    }
+  ]
+}

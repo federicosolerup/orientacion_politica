@@ -1,0 +1,336 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 53
+    },
+    "score_promedio": 0.755,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En eso Cristina ha puesto el foco en la caja de los más pobres, de los más necesitados.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente ya pactó con todos los movimientos sociales, porque si no le prende fuego la calle, la Argentina.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Cristina tiene otra idea de mantener y de manejar el tema, el poder.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira esta canción que le dedican las piqueteras a **Cristina Fernández de Kirchner**.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, quedó claro, Cristina va por todo.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le reveló hasta **Luis Delía**, la jefa, la trata de \"chorra\".",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo fui concejal, diputado, secretario de Estado y viví siempre en asentamiento.",
+      "score": 0.336,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando lo veíamos que le encontraban en una cuenta de Estados Unidos 60 millones de dólares.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, hasta Delía se anima a decirle \"chorra\", y **Pablo Lugones**, que los acusó de \"chorros\" durante toda la vida, ahora le parecen \"carmelitas descalzas\".",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este video que encontré y le mando un beso a **Ariel Tarico**.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy me dejó un mensaje divino y un libro que le mandaron para mí.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso le quiero dedicar este tango a **Felipe Pigna**, el director de la revista \"Caras y Caretas\".",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Canta un plan y no laburan, choripán y verdura que el piquete le garpó.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que abro la boca me mando un cagadón.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que abro la boca me mando un cagadón.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que es un meme, pero en realidad es una tragedia, la ira de Dios.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente ya eligió y sabe que necesita a los piqueteros y a los gerentes del pobre.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso están Pérsico, Navarro y Delía, que salen al cruce de Cristina Fernández de Kirchner.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso le dicen de todo a Cristina, pero no le dicen ni \"mu\" al presidente **Alberto Fernández**.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, que ya en el gobierno de Alberto tenía planes.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo queremos que a la Argentina le vaya mejor si el gobierno no para de mandarse una cagada tras otra, provocando, como siempre, la ira de Dios?",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández viajó a Alemania a una cumbre del G7.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me encanta porque lo tuvo a Putin por un zoom y se cagó en las patas.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le dijo lo que pensaba sobre la guerra.",
+      "score": 0.52,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí está la elegancia de Alberto Fernández.",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le vamos a vender al mundo?",
+      "score": 0.353,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y Moyano qué hace?",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Puede reposar usted mismo?",
+      "score": 0.614,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al precio que se ha puesto el combustible, usted me dirá.",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, **Moyano**, usted está despertando la ira de Dios.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le dan pena a los camioneros, sus camioneros, los camioneros que no pueden transportar ni siquiera los alimentos.",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dentro de poco no vamos a poder comer ni polenta, Moyano, pero usted no hace nada.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Recuerdan que tenía el cuadro, el marco con las fotos de Néstor y de Cristina?",
+      "score": 0.518,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo es un segundo en la vida de cada uno de nosotros.",
+      "score": 0.561,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le gritaban, delincuente, chorro.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso, Ginés, no sabés, la ira que le provocó a Dios.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la única promesa que cumplió el presidente Alberto Fernández, y tiene que ver con la muerte de inocentes.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá la clase política, como Alberto Fernández, como Ginés, defendieran con ese fundamentalismo que tienen con el aborto a los chicos que están muertos de hambre, a los chicos que tienen que estudiar, a los pobres jubilados que no ganan un mango.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya sigo con esto, pero me acabo de acordar porque hoy le pedí al canal si me dejaban poner un aborto.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y mucho más con lo que pasó en la corte de los Estados Unidos, le pedía al director del canal si me dejaban poner un aborto.",
+      "score": 0.73,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y tenía como 20 videos, algunos peores que otros, como descuartizan a los chicos, le cortan las piernas, le cortan la cabeza, los van descuartizando.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después van de otros un poco más, más light, si se le puede llamar así.",
+      "score": 0.436,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta mujer se copa y le gusta que le digan piropos.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, viste, vas a un restaurante y un señor te dice, no sé, le abro la puerta y dice, señora, ábrala.",
+      "score": 0.443,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, señora, ábrame la puerta, por favor, le pido.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Margarita Barrientos lo apoyó a Macri en su momento.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No importa la ideología de esos pobres.",
+      "score": 0.265,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Margarita le tiene que dar de comer a la gente.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y este gobierno no le mandó las cosas que se merecía, que necesitaba.",
+      "score": 0.761,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para los que decían que Macri solo podía ir a la \"biela\", mira, vi varias fotos de Macri con la gente muy pobre que va a comer a la de Margarita Barrientos.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imaginate lo mal que gobierna este gobierno que la gente más pobre le pida fotos a Mauricio Macri.",
+      "score": 0.619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"En Cuba saben que tienen lo que necesitan, que hicieron con mucho orgullo en relación a eso, a su educación, a sus sensibilidades\".",
+      "score": 0.738,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero vos fijate, mirá, el presidente está de viaje.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se quedó en el Calafate porque ella dice: \"Si Alberto se fue a ese G7, yo me quedo en el Calafate\".",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un dólar a 230 mangos es una locura, pero el ministro Guzmán, el de Economía, **Aníbal Fernández**, el de Seguridad, saludaban a un trabajador del Estado en su día.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una sesión de la Cámara de Diputados.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y bueno, ya le garpamos las tetas con nuestros impuestos.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y bueno, ya le garpamos las tetas con nuestros impuestos.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A este nabo le tirás una pala y sale corriendo, obviamente.",
+      "score": 0.558,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Esta es la Argentina que queremos?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es la Argentina que queremos.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy vamos a conversar con **Amalia Granata**, con el **\"Pollo\" Sobrero**, con Javier y **Guacel**.",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández dando clases de moral, mintiendo en Europa, nos da vergüenza.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina del Calafate, porque ella es la reina, dice: \"Yo no quiero ir allá, me quiero quedar en el Calafate hasta que se me dé la gana\".",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 64
+  },
+  "etiqueta_original": "neutral"
+}

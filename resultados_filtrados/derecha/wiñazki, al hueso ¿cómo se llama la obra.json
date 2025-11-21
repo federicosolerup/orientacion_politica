@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Había una vez una expresidenta, Cristina Fernández de Kirchner, quien, durante su mandato, enfrentó numerosas acusaciones de corrupción.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Se investigó la mala administración de sus hoteles, la situación irregular de su inmobiliaria, y un memorando con Irán que fue objeto de un juicio.",
+      "entidades_detectadas": [
+        "irán"
+      ]
+    },
+    {
+      "frase": "En resumen:  (1) Cristina Fernández de Kirchner y sus hijos están involucrados en juicios orales por corrupción.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "(2) Ella eligió a Alberto Fernández como candidato a vicepresidente, quien luego ganó las elecciones y ahora ocupa la presidencia del Senado.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "(3)  Desde antes, y ahora con mayor intensidad, se ataca a los investigadores judiciales y periodistas que investigan casos de corrupción,  incluso a través de las redes sociales por parte de la propia Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Actualmente, se avanza contra jueces en el Senado y contra el procurador general de la Nación,  acciones que parecen dirigirse específicamente contra aquellos que fallaron contra los Kirchner.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "**Archivo de Log (Correcciones):**\n\n* **Nombres y Apellidos:** Se corrigieron las menciones a Cristina Fernández de Kirchner, Alberto Fernández, Ronald Noble, Amado Boudou, Delia y Milagros Sala, Mauricio Macri.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

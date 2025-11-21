@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Sergio Palazzo, diputado y secretario general de La Bancaria, saluda a la audiencia de \"Tengo Online\".",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "El Ministro de Economía,  Luis Caputo (supongo que con información privilegiada), lo confirmó, al igual que el vocero presidencial.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Andrés León me saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Afirmó que Argentina necesita tenerlo en el exterior para obtener un retorno.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Caputo prometió un dólar para pagar impuestos, combinando en una sola frase dos promesas incumplidas: la dolarización y la baja de impuestos.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "* **Sergio Jorge Riga:** Se eliminó, ya que se asume que es el nombre del entrevistador, que es Sergio Palazzo.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    }
+  ]
+}

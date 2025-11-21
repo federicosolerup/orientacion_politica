@@ -1,0 +1,59 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Como mencionaste, el jueves parte una misión al FMI para obtener más dólares y cumplir con las metas del acuerdo.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "La paradoja es que necesitamos dólares del FMI para cumplir con las metas de acumulación de reservas que el mismo FMI impone.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Entrevistador: Andrés, ¿podrías explicarnos qué significa la renegociación del programa con el FMI y el adelanto de desembolsos?",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Andrés: El programa con el FMI se firmó hace más de un año, con metas y compromisos de reformas estructurales.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Este acuerdo se firmó antes del comienzo de la guerra entre Rusia y Ucrania, por lo que las condiciones económicas mundiales cambiaron drásticamente.",
+      "entidades_detectadas": [
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Actualmente, no estamos pagando la deuda al FMI directamente, sino que cumplimos con las revisiones y recibimos fondos.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Mercedes: Creo que la decisión es entre una devaluación gestionada por el Estado o una devaluación impuesta por el mercado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La devaluación gestionada por el Estado requiere medidas de contención de precios y salarios, un consenso difícil de lograr en el Frente de Todos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Argentina ha vivido situaciones similares, y deberíamos aprender de la experiencia para evitar errores pasados.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

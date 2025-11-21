@@ -1,0 +1,67 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El sábado, manifestantes, algunos con antecedentes penales, apedrearon en Chubut, provincia con un clima social complejo, la camioneta en la que viajaba el presidente Alberto Fernández, junto a su pareja Fabiola Yañez y colaboradores.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Al día siguiente, en El Calafate, frente a la residencia de Cristina Fernández de Kirchner, se produjo una manifestación con cacerolazos por la suspensión de las clases presenciales.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Asesores del presidente Alberto Fernández le habrían recomendado moderar sus discursos sobre la justicia.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "El ataque a la camioneta presidencial en Chubut –con la zona afectada por incendios y la polémica ley minera– muestra un nivel de osadía.",
+      "entidades_detectadas": [
+        "chubut"
+      ]
+    },
+    {
+      "frase": "Similar es el caso de Cristina Fernández de Kirchner en El Calafate.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Se insiste en que el presidente no se centre tanto en la justicia, y que el proyecto de ganancias en el Congreso podría aliviar la tensión.",
+      "entidades_detectadas": [
+        "presidente",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Chubut enfrenta un déficit de 3000 millones de pesos, problemas de pago de sueldos estatales y la suspensión de clases durante tres años.",
+      "entidades_detectadas": [
+        "chubut"
+      ]
+    },
+    {
+      "frase": "Es necesario que quienes tienen poder en Argentina tomen conciencia de esta situación.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "**(Archivo de log de correcciones)**\n\n* **Nombres y Apellidos:** Se corrigieron los nombres y apellidos de las figuras políticas mencionadas (Alberto Fernández, Fabiola Yañez, Mauricio Macri, Cristina Fernández de Kirchner, Alicia Kirchner, Gabriel Katopodis, Mariano Arcioni, Juan Pablo Biondi).",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "No queríamos ser ricos, no soñábamos con Miami y ninguno soñaba con ser más que el otro.",
+      "entidades_detectadas": [
+        "miami"
+      ]
+    },
+    {
+      "frase": "Un brindis por los que no están sin Covid que también se tuvieron que ir porque llegó la hora.",
+      "entidades_detectadas": [
+        "covid"
+      ]
+    },
+    {
+      "frase": "Javi ha estado en las peores de mi vida a mi lado y además es un excelente profesional, como yo siempre digo, es mi pata periodística, mi cable a tierra, no es el que me dice \"sentate derecho que se te marca la panza\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

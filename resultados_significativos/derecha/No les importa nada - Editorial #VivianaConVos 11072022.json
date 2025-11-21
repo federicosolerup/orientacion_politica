@@ -1,0 +1,531 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 87
+    },
+    "score_promedio": 0.764,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "La ministra que asumió, la señora de las Flores, y le di al *boleto picado*.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy esperé con mucha expectativa, seguramente igual que vos, a las 8:30 de la mañana, mientras trabajaba, a ver qué decía esta mujer y no dijo nada, no anunció nada, no hubo anuncios.",
+      "score": 0.155,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo que no va a gastar más de lo que tenemos, yo no le creo.",
+      "score": 0.457,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice que no va a permitir el abuso de precios, yo no le creo.",
+      "score": 0.223,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El control de precios en Argentina nunca funcionó, ¿por qué va a funcionar ahora?",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se mantienen las metas acordadas con el Fondo Monetario Internacional.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Soy una persona que cree mucho en el equilibrio fiscal, creo en la solvencia del Estado como promotor de la actividad económica y de generación de puestos de trabajo.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la verdad es que la matriz estructural de Argentina está intacta.\" Bueno, no nos dijo una mierda, no dijo absolutamente nada.",
+      "score": 0.351,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin boludos no hay Cristina, decía este cartel en la marcha del otro día.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá la ves a Cristina acusada como la jefa de una asociación ilícita porque la corrupción es el gran motor del kirchnerismo.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es tan claro que no les importa nada a ninguno que la Unidad de Información Financiera, un organismo que depende del gobierno, planteó que Cristina es inocente.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obra pública de Santa Cruz, la UIF pidió la absolución de Cristina Kirchner y del resto de los acusados.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, nosotros le seguimos pagando el sueldo absolutamente a todos ellos.",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso también el presidente en Tucumán mintió de una manera descarada.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No sintieron vergüenza con el presidente **Alberto Fernández** el fin de semana?",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Bajen las armas\", dijo Alberto Fernández.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández encabezó el acto oficial por el Día de la Independencia en Tucumán.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apuntó con la idea de que el presidente se debía a la justicia.",
+      "score": 0.501,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la Dependencia en Tucumán apuntó contra quienes siembran el desánimo.",
+      "score": 0.788,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habló por primera vez luego de la renuncia de Guzmán.",
+      "score": 0.681,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen que la llevó a Vilma Ibarra para que le haga de contenedora emocional.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández encabezó el acto del 9 de julio.",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente no se anima a criticar a **Cristina Fernández de Kirchner** y nos tira mierda todo el día, todo el tiempo.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además de poco, cuando le preguntaron sobre Guzmán, dijo, mejor eso que la intimidad.",
+      "score": 0.59,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué confundido que está el presidente Alberto Fernández.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le van a decir al presidente cuando lo vean pasar?",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le van a decir?",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le van a decir al presidente cuando lo vean pasar?",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le van a decir?",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le van a decir al presidente cuando lo vean pasar?",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le van a decir?",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue algo parecido a lo de **Duangon, a Agustín Rossi**, a parte el primero que le pone el micrófono, habrá dicho, ¿por qué no seguiré en la casa del gran hermano?",
+      "score": 0.742,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "decía la ex Gran Hermano.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese chico tucumano la tiene mucho más clara que el presidente y que todo el gabinete, ¿no?",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo que me llamó poderosamente la atención, esto que decía al comienzo, que si te tapabas los ojos, hacías ese ejercicio, yo lo hice cerrando los ojos o no mirando la tele, no sabías qué canal estabas mirando, porque el pueblo, la gente no hablaba, la gente gritaba, la gente puteaba, la gente estaba enojada.",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo ponen a Alberto como el \"chiter\" de Cristina.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya es tiempo que Dios y la patria se los demanden.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dios y la patria pónganse las pilas y demandenlos ya.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente enojada insultaba al presidente Alberto Fernández y le pedía a Cristina que se vaya a Cuba.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que una se vaya a Cuba y que el otro renuncie.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero yo recordaba hoy cuando el presidente Alberto Fernández, en campaña, decía que, por favor, si realmente las cosas no les salían bien o no estábamos de acuerdo con lo que él hacía, que saliéramos a la calle.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero poneme el tape porque es tremendo escuchar al pueblo.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les va a pasar lo de Nerón y cantos contra Alberto y contra Cristina.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le gusta.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina de hoy es una verdadera tragedia.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no le pidan buenos modales a la gente que está perdiendo todo, hasta la dignidad.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero te acordás cuando **Alberto Flemón** les decía en campaña, \"si estoy haciendo las cosas y no les parece bien, por favor, salgan a la calle y digan que no\".",
+      "score": 0.779,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando dijo eso, recordemos que cuando ganó Alberto Fernández, en los primeros tres meses, la imagen positiva era del 80%.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En los primeros tres y cuatro meses, Alberto Fernández lo bancamos encerrados, con miedo, con pánico, perdiéndolo todo.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero esto decía en plena campaña.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora, cuando la gente sale a decirle lo que le pasa, la ningunean.",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora, cuando la gente salga a decirle lo que le pasa, la ningunean.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Impresionante cómo se convirtió el presidente en Pinocho Fernández.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le decía una cosa y después hizo absolutamente todo lo contrario.",
+      "score": 0.704,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente no paró de mandarse cagadas.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros lo contamos en dos oportunidades porque fue lo que el presidente hizo.",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al presidente tampoco le importa absolutamente nada.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y decía que tampoco le importamos a la policía de la ciudad de Buenos Aires.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero tampoco a la cana le importa nada.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo que no les pase lo de Sri Lanka, eh.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras miraba algunas de las imágenes de Sri Lanka, decía, mirá, la gente se le metió en el palacio, en la piscina, en el cuarto, en la suite presidencial.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le tomaban las bebidas, le comían la comida.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por estos días se cumple el aniversario de la fiestita, de la fiestucha, la fiestichola de Fabiola y Alberto Fernández en Olivos.",
+      "score": 0.651,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de gente miserable, desde el PAMI denuncian desvío de fondos a Urlingham para militancia del novio de **Luana Volnovich**.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia le pide a la hija de Moyano que devuelva 434 mil dólares, pero ya los gastó.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo que la hija del principal sindicalista de la Argentina tiene casi 500 lucas verdes de veteran?",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le piden que la devuelva, pero dice que ya lo gasté.",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La tiene que devolver, pero no le importa nada, ¿entendés?",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy veía a su padre, a su madre llorando por televisión, agradeciéndole a los medios de comunicación porque le daban aire en el día más difícil de sus vidas.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le importa nada.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le robaron el futuro, le robaron la vida.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como no tenemos en Argentina problemas importantes, el presidente Alberto Fernández sale a bancar a su amigo español.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández criticó a cierto periodismo por difamar a **Pablo Iglesias** de la izquierda española, se sumó a **Gabriel Boric**, a **López Obrador** y a **Gustavo Petro** para repudiar las noticias falsas difundidas por cierto periodismo, para desanimar o perseguir dirigentes políticos.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual ocurre entre nosotros, acotó el presidente Alberto Fernández.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la economía explotada en el horno prendida a fuego, pasada de roscas, el presidente se ocupa de su amigo español.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué nos importa lo que pasa en España con las *fake news*?",
+      "score": 0.874,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirad a esta chica genuflexa, la locutora de Cristina Fernández de Kirchner.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta la reina de Tolosa le pareció un montón que le dijera \"Excelentísima\", así la presenta la locutora genuflexa, a la Excelentísima Cristina Fernández de Kirchner.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le importa nada, no les importa nada, mira.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se dirige a ustedes la Excelentísima señora vicepresidenta de la nación, Cristina Fernández de Kirchner.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Cristina y señora vicepresidenta, está bien.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se dirige a ustedes la Excelentísima señora vicepresidenta de la nación, Cristina Fernández de Kirchner.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Cristina y señora vicepresidenta, está bien.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para que le haya parecido mucho a ella, querida, detesto que me digan eso, detesto.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de expresidentes, a 20 años del nacimiento del PRO, hoy tiene que ser más que nunca el representante del cambio que necesita la Argentina y mantenerse al lado de la gente en este momento crítico.",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Don Alfonsín dice, no te la puedo creer.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El carguito es siempre para todos la Embajada Argentina en Madrid.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Plena crisis económica mientras tanto, Ricardito Alfonsín bailando al ritmo de los Palmeras en la Embajada de España.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguro que para organizar esos eventos usan el dólar oficial, la desconexión es total.",
+      "score": 0.427,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo lo que pasa en la Argentina a Ricardito Alfonsín le chupa un huevo porque a ellos no les importa absolutamente nada.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de ministros que le hicieron mucho daño al país, acá lo tenés también a este otro, al Dogor.",
+      "score": 0.767,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué te pasa cuando ves al tipo que de verdad te encerró, te arruinó la vida por dos años, se creyó mil, vos querías vacunar a tu familia y no pudiste, se te murió tu viejo, tu vieja, tu hermano, tu amigo, a él no le importó nada, él se fue a tomar unos vinos a España, ahora está en Roma.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro que se fue a gastar unos billetes a Europa es **Aníbal Fernández**, hace algunos días estuvo en Europa, porque todo es la doble vara y la doble moral.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando ellos viajan por Europa no colisiona absolutamente nada, colisiona todo cuando los que viajamos somos nosotros, el rebaño de \"pelotudos\", no les importa nada.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay dos o tres personas en un estado crítico muy grave, no les importa nada.",
+      "score": 0.544,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchaba hoy algunas entrevistas en algunos portales con actrices que dicen que la Argentina siempre tuvo crisis y que esta es una crisis más y que somos resilientes los argentinos.",
+      "score": 0.399,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con su iPhone ella tuitea un 9 de julio, un día tan importante para la patria que tenemos que tener una ley anti-fake news.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, dentro del frente de todos contra todos su gobierno se tiran misiles, se mata la vice con el presidente, el presidente con el otro, el otro con el otro y ella dice por una ley anti-fake news.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, en Argentina no sabemos si este gobierno, este presidente, llega al mundial, Genancie Dupla que lloraba, que lloraba en el gobierno de Macri por el dólar a 50, ahora pide una ley anti-fake news.",
+      "score": 0.679,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero decir a Nancy que eso que decía Maldonado era en sí mismo una *fake news*.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acusaba al gobierno de Macri de la desaparición de Maldonado.",
+      "score": 0.605,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente en Argentina no come, hay más pobres y a ellos no les importa nada.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ella le importa una ley porque hay *fake news* en la Argentina.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 103
+  },
+  "etiqueta_original": "neutral"
+}

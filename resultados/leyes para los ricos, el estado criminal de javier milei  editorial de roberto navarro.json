@@ -1,0 +1,216 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Buenos días.",
+      "entidades_detectadas": [
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "Ayer, el Jefe de Estado decidió que la Universidad de Buenos Aires tendrá actualizado su presupuesto de funcionamiento, pero no así las otras 60 universidades.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Universidad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Mi ley necesita los votos de quienes manejan la UBA para sacar adelante leyes, leyes que benefician a los ricos.",
+      "entidades_detectadas": [
+        "UBA"
+      ]
+    },
+    {
+      "frase": "Si van a votar a favor o en contra, la verdad es que no lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que sí conozco es la intención del Jefe de Estado de favorecer a una universidad con fondos, mientras que las otras 60 no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El día anterior, el Estado había ingresado de madrugada a humildes casas de los pobres para disciplinarlos y que dejen de pedir comida.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Pensé entonces que el Estado no está ausente, como pensábamos, sino que está más presente que nunca, que está hiperpresente.",
+      "entidades_detectadas": [
+        "Estado",
+        "Pensé"
+      ]
+    },
+    {
+      "frase": "El tema es a favor de quién está presente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este Estado propone una ley de inversiones que, si invertís 200 millones de dólares para establecer una empresa nueva hoy, pagás la mitad del impuesto a las ganancias que la empresa que está al lado tuyo y que funciona hace 20 años.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Y ese Estado omnipresente decide que la nueva empresa no pagará derechos de importación ni de exportación, mientras que la que está al lado, con 20 años de funcionamiento, sí.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "También permite que puedas dejar los dólares afuera, pero la empresa que está al lado no.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "Este Estado omnipresente también decidió que el combustible que usa el colectivo tiene un precio libre, pero el boleto de colectivo es regulado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Que los remedios tienen un precio libre, pero que las prepagas vuelven a ser reguladas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado decide que los que no pagaron impuestos tienen un blanqueo, pero que los que sí pagaron impuestos no reciben nada.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El Estado ha decidido ahora que tener empleados en negro es legal.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El Estado está haciendo ricos a pocos y pobres a muchos con las medidas que toma todos los días.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Ese Estado es el que decidió no entregar más comida a los comedores ni remedios a los enfermos graves, al mismo tiempo que decidió seguir beneficiando a Mercado Pago con 100 millones de dólares anuales de excepciones impositivas.",
+      "entidades_detectadas": [
+        "Mercado Pago",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Ese Estado decide lograr el equilibrio fiscal quitándole lo poco que reciben los pobres, pero a la vez le baja el impuesto a la riqueza a los ricos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese Estado omnipresente, más presente que nunca, se metió en las casas humildes de madrugada, perjudicando a esos pobres.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El Estado está más presente que nunca en sus decisiones diarias.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El tema es que el Estado está del lado de los ricos, esos ricos que lo aplaudían ayer.",
+      "entidades_detectadas": [
+        "Estado está"
+      ]
+    },
+    {
+      "frase": "Encantados, porque el Estado actual, tal como dijo el presidente, ahora sí es una organización que le roba a los humildes para dársela a ellos.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Está de fierro por las noches y le entrega el botín a ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El Estado de **Milei** es un Estado más presente que nunca.",
+      "entidades_detectadas": [
+        "Milei",
+        "Estado de *",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "El Estado de **Milei**, ahora sí, es una organización criminal.",
+      "entidades_detectadas": [
+        "Milei",
+        "Estado de *"
+      ]
+    },
+    {
+      "frase": "Buen día, ¿qué tal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo les va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Se corrigió \"Miney\" a \"Milei\".",
+      "entidades_detectadas": [
+        "Milei",
+        "Cambios Realizados",
+        "Corrección"
+      ]
+    },
+    {
+      "frase": "*   **Correcciones ortográficas y gramaticales:**\n    *   Se corrigieron errores de tildes (como \"a que\" por \"a que\")\n    *   Se corrigieron errores de concordancia verbal (como \"va a tener\" por \"tendrá\").",
+      "entidades_detectadas": [
+        "Correcciones"
+      ]
+    },
+    {
+      "frase": "*   Se ajustaron algunas palabras para mejorar la fluidez y la claridad (por ejemplo, \"humildes casas de los pobres para disciplinarlos y que dejen de pedir comida\" se modificó por \"humildes casas de los pobres para disciplinarlos y que dejen de pedir comida\" para una mejor redacción).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se reemplazaron palabras o frases repetitivas o poco precisas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Mejora de la cohesión y la coherencia:**\n    *   Se ajustaron algunas frases para que el texto fuera más claro y fácil de entender.",
+      "entidades_detectadas": [
+        "Mejora"
+      ]
+    },
+    {
+      "frase": "*   Se eliminaron algunas redundancias y se reorganizó el orden de algunas ideas para mejorar el flujo del texto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se agregó el conector \"mientras que\" para enlazar ideas opuestas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se cambió \"le dio vuelta la casa\" por \"perjudicando a esos pobres\" para evitar el lenguaje inapropiado.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Ese Estado",
+    "Cambios Realizados",
+    "Pensé",
+    "Correcciones",
+    "Ayer",
+    "Universidad de Buenos Aires",
+    "Estado",
+    "Corrección",
+    "Mercado Pago",
+    "Este Estado",
+    "Estado está",
+    "El Estado",
+    "Milei",
+    "UBA",
+    "Buenos días",
+    "Mejora"
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 43,
+      "derecha": 53
+    },
+    "score_promedio": 0.519,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Porque la sociedad argentina está, desde hace mucho tiempo, sometida a una circunstancia peculiar.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuba, otro estallido, con manifestaciones de disidencia inesperadas, como, por ejemplo, que Pablo Milanés se sume a los que están en contra del régimen de Castro y Díaz-Canel.",
+      "score": 0.636,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que sabemos por ahora no es lo que la gente le dice a la política, sino lo que la política le dice a la gente.",
+      "score": 0.386,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mire, el comportamiento de la campaña de vacunación argentina en relación con la cantidad de gente.",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina está en una situación muy mala en términos de vacunación.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Brasil supera el 17%.",
+      "score": 0.209,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina tiene apenas más del 13% de la población vacunada.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero claro, para Brasil llegar al 17% implica una cantidad impresionante de vacunas.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es mucho más meritorio el 17% de Brasil que el 13% de la Argentina, si consideramos la cantidad de vacunas que cada país tiene que adquirir para alcanzar esa proporción.",
+      "score": 0.69,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Héctor Daer, que es probablemente, y sin probablemente, el sindicalista más cercano a Alberto Fernández, el que le prestó la estructura de su sindicato para que Alberto Fernández pudiera constituir su partido político, que se llama \"Parte\", que está subsumido ahora en el frente de \"Todos\", o \"Todes\", no sé cómo se dice.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La carta de Cecilia Nicolini al encargado del Fondo de Inversión Ruso que administra la venta de la vacuna Sputnik tuvo un párrafo que pasó casi inadvertido, que no habla mal del gobierno, no habla mal de Nicolini; todo lo contrario, habla de la opacidad con la que se mueve Rusia en este campo, opacidad que produjo un escándalo en Medio Oriente por la aparición de intermediarios en la compra y venta de la vacuna Sputnik.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Me gustaría agregar\", dice, le dice a Anatoly Breberman, \"que alguien de su equipo de producción le está pidiendo al laboratorio Richmond de Marcelo Figueiras que le solicite al Ministerio de Salud argentino que le haga la factura y que reciba el pago completo por las dosis producidas acá\", es decir, que Figueiras y Richmond funcionen como intermediarios, no que Figueiras produzca la vacuna, se la entregue al Fondo de Inversión Ruso y el Fondo de Inversión Ruso, como está pactado en el contrato, se la siga proveyendo al gobierno argentino, no.",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dice Nicolini: \"Ante esta información, como usted puede comprender, nosotros no podemos modificar el contrato y, aún menos, tener un intermediario local en esto y pagarle una suma adicional en impuestos, porque habría que pagarle una suma adicional por el impuesto que tiene que tributar Richmond, el laboratorio que no tributa en Rusia, porque fue exceptuado de ese impuesto en la importación\".",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría ser, le dice Nicolini, \"un gran problema político con la opinión pública, que no podemos siquiera enfrentar si cambiamos una letra del contrato original.",
+      "score": 0.318,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le pedí una llamada por esto varios días atrás, e informé acerca de nuestra situación, pero todavía no tuve información oficial de parte de Rusia\", difícilmente la tenga, porque lo que le están proponiendo es un negociado.",
+      "score": 0.371,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno dice que hay un tema de impuestos, etc., pero ella dice algo muy concreto: \"Si hubiera un problema de impuestos por parte de Rusia, lo hubiera planteado el Fondo Ruso al gobierno argentino\".",
+      "score": 0.746,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto debe ser festejado seguramente en este momento, esta información que pone por escrito Nicolini en su carta, por cancillerías como la Cancillería de Estados Unidos o del Reino Unido, países que tienen un conflicto enorme con Rusia y frente a los cuales Rusia levanta su vacuna como una especie de guerra de combate, porque no hay que olvidar algo central: la vacuna para Rusia es un instrumento de marketing en el tablero geopolítico internacional, centralmente.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay otro dato sumamente relevante que pasó inadvertido, extrañamente inadvertido, y es que el viernes pasado, es decir, al día siguiente de que se conociera la carta de Nicolini, el gobierno argentino, concretamente el Ministerio de Salud, se vio seguramente obligado a firmar y emitir un comunicado conjunto con el Fondo Ruso.",
+      "score": 0.454,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, una vez que se produjo la crisis de la carta, rápidamente los rusos pidieron al gobierno argentino suscribir ese comunicado conjunto, que dice lo siguiente: \"Luego de una reunión virtual entre el Ministerio de Salud de la Nación y el equipo del Fondo Ruso de Inversión Directa, que se desarrolló hoy, viernes, reafirmamos nuestro trabajo conjunto para garantizar y acelerar el suministro de la vacuna Sputnik a la Argentina.",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La producción en el país convierte a la industria farmacéutica argentina en un líder regional, capaz de proveer medicamentos de alta calidad y generar empleo, dice el Fondo Ruso y el gobierno argentino.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Nuestro principal objetivo es trabajar para minimizar el impacto de la pandemia vacunando a la mayor cantidad de personas lo antes posible y seguiremos haciendo nuestro máximo esfuerzo para lograrlo\".",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir, le decimos al mundo que lo que dijimos en la carta de Nicolini, en realidad, no lo tendríamos que haber dicho.",
+      "score": 0.635,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y a qué cosas renuncia la Argentina después de este comunicado conjunto donde dicen \"no vamos a reclamar\"?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En segundo lugar, el párrafo donde ambos dicen, el Fondo Ruso y el gobierno argentino, un elogio a la vacuna Sputnik porque se produce en la Argentina, igual que la de AstraZeneca con Sigman.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir, y esta es una pregunta que habría que hacerle a Alberto Fernández, que no se aplica un criterio sanitario para decidir cuál es la buena o mala vacuna, sino un criterio económico de si se fabrica o no se fabrica acá.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto es interesante porque se da en un contexto donde, por ejemplo, Rusia acaba de respaldar al gobierno dictatorial de Nicaragua, que con distintos subterfugios ya suprimió la competencia electoral de noviembre, porque ya no hay candidatos; todos fueron dados de baja por Daniel Ortega.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sino que, además, en ese comunicado, agradece Nicaragua, escuche bien, la puntualidad con que Rusia provee la vacuna Sputnik.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este repunte del 2007 al 2008 saca 45% Cristina en el año 2007.",
+      "score": 0.52,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Año 2009 pierde Néstor la provincia de Buenos Aires.",
+      "score": 0.415,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El comportamiento del salario que lleva a Cristina al 54%.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es el salario real durante 2016-2017 y el gran triunfo de Macri con el 42%, que en una elección de medio término hay que ir prácticamente a la presidencia de Alfonsín para encontrar algo igual.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es el comportamiento del salario posterior, que hace que Macri pierda y saque 40%.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo: \"Nosotros vamos a recibir del Fondo Monetario Internacional una especie de moneda de juguete, pero que sirve para integrar las reservas del Banco Central, que son los derechos especiales de giro.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La vamos a usar, son más o menos 4.300 millones de dólares, para pagarle al Fondo Monetario los dos compromisos que tenemos en septiembre y diciembre.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con la plata que nos da el fondo, le vamos a pagar al fondo.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Pero no era que el Senado había dicho, por escrito, los senadores de Cristina, que esa plata de ninguna manera se iba a usar para pagar deuda?",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo es lo que decía Martín Guzmán?",
+      "score": 0.57,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que Macri se endeudaba cuando podría hacer obras de infraestructura con esa plata que tomaba, pero la dedicaba para pagar deuda.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora, Guzmán, Cristina Kirchner acaba de decir que, como Macri, ella va a tomar plata del Fondo para pagarle deuda al Fondo.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no tiene miedo a perder votos por un ajuste.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para entender todo esto, hay que entender que la economía argentina se mueve de manera cada vez más anómala.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver si, con todo este ruido con Rusia, le conviene construirla.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora sabemos que el grupo Werthein, Adrián Werthein, que tuvo que salir a explicar qué pasó con la plata de muchos amigos y familiares que aparentemente le habían confiado su fondo, si desaparecieron o se fumaron.",
+      "score": 0.458,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A quien Werthein conoce de inversiones en la Argentina en el sector cable.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene Stiglit el principal operador de cable de Venezuela, de la Venezuela de Maduro.",
+      "score": 0.319,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el capitalismo que se va formando en la Argentina en este contexto de inflación y de problemas cambiarios.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vimos el acto de Cristina Kirchner, Axel Kicillof, Sergio Massa, Alberto Fernández en Escobar, donde presentaron las candidaturas.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa se burló de los que cambian de distrito, seguramente una referencia a su íntima amiga y socio en su momento en el gobierno anterior, sociopolítica, María Eugenia Vidal, y también a Santilli, que pasa de la capital a competir en provincia.",
+      "score": 0.458,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro que no se da cuenta delante de quién estaba hablando, porque, que nosotros sepamos, Cristina Kirchner se pasó de Santa Cruz a la provincia de Buenos Aires.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo más interesante es que Kicillof hace dos años era diputado por la capital y ahora gobernador por Buenos Aires.",
+      "score": 0.494,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, lo más insólito de todo es que Kicillof anoche, en una entrevista con Yadrovsky en C5N, se burlaba de los que cambian de distrito.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, Kicillof se olvidó de que Kicillof era diputado por la capital hace dos años y hoy es gobernador de la provincia de Buenos Aires.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ese acto hubo algo mucho más interesante, que fueron los discursos de Cristina Kirchner, donde dijo eso que mencioné del Fondo Monetario, de Kicillof y de Massa.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos tres discursos, si uno tuviera que ir al centro del discurso, al centro del mensaje, el centro del mensaje es: \"Miren, habíamos prometido muchas cosas, pero no pudimos hacer nada porque nos agarró la pandemia\".",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tuvo que salir Alberto Fernández a defender su gobierno y a recordar que algunas cosas hizo.",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y parecía, en el discurso, que Alberto Fernández les estaba hablando, en realidad, a Kicillof, a Cristina Kirchner y a Massa, sus principales socios, diciendo: \"Miren que yo algunas cosas hicimos, no me tiren tan abajo del camión\".",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es obvio que hay muy poca vocación, y tal vez tengan razón, por parte de Cristina Kirchner, de Massa, de Kicillof, para defender la obra de Alberto Fernández.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las listas se terminaron de definir el viernes en una reunión entre Cristina Kirchner y Alberto Fernández, de la que participó solamente Máximo Kirchner por teléfono manos libres.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podrá decir Alberto Fernández que es un gobierno federal.",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oferta central a lo que le está prestando atención Cristina Kirchner, Máximo Kirchner, el propio Alberto Fernández, Massa, es la provincia de Buenos Aires.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto es así que se les escapa un conflicto en Santa Fe que está abierto, donde un ministro de Alberto Fernández, Agustín Rossi, arma una lista en contra de Perotti, del gobernador de Santa Fe.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con una peculiaridad, Cristina Kirchner, en un ejercicio llamativo de la responsabilidad política y en una demostración igualmente llamativa de pragmatismo, apoya a Perotti, que votó como senador el allanamiento a su casa.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, estamos delante de alguien que, como ya demostró en el caso de Massa y de Alberto Fernández, sabe olvidar, o sabe que el poder es más importante que el rencor.",
+      "score": 0.512,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apoya Cristina Kirchner a Perotti y lo ataca, probablemente, de parte de Alberto Fernández, que tiene con Perotti una vieja cuenta que es el poco apoyo o la disidencia de Perotti en su política respecto de la pandemia.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo ataca Fernández a Perotti, a través de la postulación de Agustín Rossi.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el segundo criterio de este armado, además de que es un armado básicamente, la oferta electoral está pensada, sobre todo, para la provincia de Buenos Aires, el segundo criterio es que hay que privilegiar la unidad por encima de todo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segundo criterio donde Cristina Kirchner vuelve a las fuentes del 2019 y se encarga de hacer las listas poniendo a todo el mundo adentro.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a guardar ese tuit para el 2023, cuando se juegue la Intendencia de Hurlingham, quiero ver si La Cámpora le arma una lista en contra.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y eso lo negociaron entre la Roque, cuyo cuñado era el candidato de La Cámpora, Martín Rodríguez, el socio político de Zabaleta en el gobierno nacional, Catopodis, ministro de Obras Públicas, Máximo Kirchner, y una conciliación de la que participó el propio Zabaleta.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo por orden de Cristina Kirchner, que no quiere fisuras.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tercer criterio de Cristina es volver también al 2019, enmascarando a su grupo detrás de albertistas.",
+      "score": 0.562,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y creo que es injusto caracterizarla, como se la está caracterizando, solamente como la mujer del hombre que le presta el departamento a Alberto Fernández, por decir lo que ellos dicen.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otros creen que el departamento es de Alberto y que Alister presta otra función.",
+      "score": 0.639,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en el 2007, cuando Cristina se presenta como candidata a senadora por primera vez, enfrentando a Chiche Duhalde, en el Teatro Argentino de La Plata estaba tratando de entrar.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero viene de la política y tiene como tarea una tarea difícil, encarnar los votos de Cristina Kirchner.",
+      "score": 0.549,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo otro curioso es que Alberto Fernández se haya resistido tanto a que Cafiero vaya como candidato a la provincia.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es lo que le pedían?",
+      "score": 0.378,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No le dijeron \"testimoniales\"?",
+      "score": 0.624,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, le dijo Cristina.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una humillación de Cristina Kirchner para los funcionarios que no funcionan.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo segundo que hacen es esconder a Macri, como es obvio.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto que Jorge Macri hizo una campaña diciendo \"Más Jorge que Macri\".",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A tal punto que Alberto Fernández, en el acto de Escobar, dijo que él conoce de casos de empresarios que quisieron invertir durante el gobierno de Macri, que pedían de rodillas inversiones, y que el gobierno mismo les dijo: \"No, no inviertan, no hay que invertir, hay que importar.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una foto curiosa porque, así como van radicales en el Frente de Todos, estos son todos antiguos peronistas, igual que María Eugenia Vidal en la capital.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Santilli, una entrevista interesantísima por las cosas que dijo Santilli, que le efectuó acá en La Nación más ayer Luis Majul.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y usted tiene que recorrer el Conurbano para saber lo que piensa la gente.",
+      "score": 0.513,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y dijo en esa entrevista que a él la gente le dice, y para él es una novedad, que volvió el narco.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el mismo argumento que usa Kicillof respecto de Vidal y que usa el gobierno de Alberto Fernández respecto de la gestión de María Eugenia Vidal en la provincia de Buenos Aires.",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cuatro años, en solo cuatro años, Kicillof no pudo destruir todo.",
+      "score": 0.724,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, en dos años, Kicillof logró, según Santilli, que volvió el narco, y Santilli se enteró por lo que le dice la gente cuando camina por el Conurbano.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Santilli, usted es ministro de Seguridad de la ciudad de Buenos Aires.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, Randazzo busca el voto del disidente de Alberto y de Macri y Manes, en alguna medida, también en la interna de Juntos.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lo mejor que le puede pasar al gobierno es alentar a Manes, que Manes pierda frente a Santilli, y que quede opacado Randazzo.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es verdad que está Massa detrás de Manes, a través de Gerardo Morales.",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una vieja relación entre Massa y Gerardo Morales.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Gerardo Morales es un gran promotor de que el radicalismo enfrente al PRO en esta interna.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 96
+  },
+  "etiqueta_original": "neutral"
+}

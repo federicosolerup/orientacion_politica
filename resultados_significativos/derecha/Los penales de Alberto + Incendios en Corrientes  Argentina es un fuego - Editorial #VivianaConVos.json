@@ -1,0 +1,461 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 75
+    },
+    "score_promedio": 0.748,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Muy buenas noches, le ponemos un poco de música a esta Argentina, que es un juego.",
+      "score": 0.612,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es un juego, señores, ya lo saben, lo saben todos menos él.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se me ocurrió, mientras escribí este editorial, estoy con esto hace tres o cuatro días, porque me fui dos meses y tenía que hacer memoria de todo lo que escuchaba, todo lo que leía cada día y decidí poner que la Argentina es un juego.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras la provincia de Corrientes está en llamas, el presidente **Alberto Fernández** ataja penales en el mar de Ajo.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan que **Maradona** decía que el arquero era como el tonto?",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El anterior presidente se metía goles solo.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente prometía en campaña terminar con la grieta.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Vallejos** le dice: \"Ocúpame, que trece, es inútil y no pasa nada\".",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se habla de la revolución y le besan a la primera dama.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Te acordás cuando el librero que ejerce de canciller nos decía que el mundo estaba muy interesado en escuchar al presidente **Alberto Fernández**?",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa a **Alberto Fernández**?",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa al presidente y a los argentinos?",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace unos días el presidente **Alberto Fernández** declaró ante el juez y además se burló del fiscal federal diciendo que él no conocía a **Lázaro Báez**.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está claro que el presidente tiene menos palabra que **Bernardo Neustadt**.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las empresas contratistas sabían que la código le estaba pidiendo a **Néstor**, quizá, y le estaba pidiendo a **Cristina**, quizá.",
+      "score": 0.788,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes le chupabas las medias a Macri, ahora a los K.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está claro que el presidente tiene menos palabra que **Bernardo**, ya lo dije recién.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que dice el presidente de su relación con **Lázaro Báez**: ¿Cuándo usted lo conoció, usted sabía a qué se dedicaba ese señor **Lázaro Báez**?",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, el presidente en su vida no vio a **Lázaro Báez**.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para la justicia, confirmó el procesamiento de **Cristina Fernández de Kirchner** en la causa \"cuadernos de la corrupción\".",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando **Cristina** decía que había que salir a apretar a los jueces?",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se lo decía a **Parrilli** el 11 del 6 del 2016.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que hizo con el Tratado de Irán es deplorable.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El segundo mandato de **Cristina** a mí me cuesta muchísimo, muchísimo encontrar un elemento valioso.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si escuchaste bien, gobierno de **Puebla**, que es el segundo mandato de **Cristina**, es deplorable.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que le decía la presidenta de la República.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que le decían este fin de semana en el día de su cumpleaños en la puerta de su casa: \"¡Chorra!",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Chorra!\" Bueno, esto le cantaban en la puerta de su casa el fin de semana.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que decía **Pablo Beccari** hace unos años: \"Si se comprueba que son corruptos, votaría a **Fernández** igual\".",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le importa si afanaron.",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este sábado **Cristina Fernández de Kirchner** cumplió años, pero ella no apareció en ningún lado.",
+      "score": 0.466,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijeron que **Cristina** le tiene fobia a las malas noticias.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora la provincia de Corrientes está en llamas.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente prefiere atajar penales en Mardinjo, mientras la provincia de Corrientes se prende fuego.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá el tuit que le regaló **Diego Geller** a **Cristina** por su cumpleaños: \"Feliz cumpleaños, señora presidenta.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fuego hoy corona y oficializa el infierno que usted construyó con planes, pobreza, aislamiento internacional, falsos mitos y cinismos\".",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se decía que eso pasaba porque gobernaba la derecha.",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos lo que decía la portavoz del gobierno cuando pasaba lo que pasaba en Australia: \"Lo que está pasando en Australia nos tiene a todos profundamente conmovidos por una cantidad de razones.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pensar que nosotros le pagamos el sueldo, que son nuestros empleados.",
+      "score": 0.427,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta el presidente de Brasil, Jair Bolsonaro, envió varias dotaciones de bomberos para combatir los incendios.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es lo que decía el gobernador, Gustavo Valdés: \"A ver si lo tenemos.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias en nombre del pueblo correntino al presidente de Brasil, Jair Bolsonaro, al senador, al gobernador de Río Grande, a Eduardo Leite, al alcalde, por ayudarnos con diversos recursos para enfrentar los incendios\".",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Ustedes entienden que Bolsonaro ayudó a los correntinos?",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobernador de Corrientes le mandó un mensaje a los Estados Unidos para que lo ayuden.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, Corrientes se prende fuego.",
+      "score": 0.519,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está el ejército, bomberos...\" Qué triste es la vida de la Argentina gobernada por estos personajes.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chile tiene más focos de incendio que Argentina.",
+      "score": 0.736,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Anda a contarle al correntino que perdió todo si le importa lo que pasa en Chile.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí lo ves: por un lado, un bombero frustrado porque se prende fuego Corrientes y, del otro lado, la gestión de ambiente.",
+      "score": 0.246,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poneme la foto de ese cinco, ¿te acordás?",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incendio en el Amazonas, la derecha, Bolsonaro no reacciona.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Se acuerdan de los K entre otros?",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ofelia, Ofe, Fernández, lloraban por el Amazonas y aprovechaban para pegarle a Bolsonaro por tunista.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía **Ofelia**, gobiernan para explotar sus ambiciones en el presente sin convicciones puestas en el futuro.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el estilo Bolsonaro, a Macri le gusta bastante.",
+      "score": 0.299,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le voy a decir **Ofelia**, se quema Corrientes y ustedes no hacen una mierda.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno me está tirando, me den las gambas, le dé un botón.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El amigo del presidente Elegante, ahí lo ven, míralo.",
+      "score": 0.833,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le doy un beso para que ella se monte sin saber por qué no tiene compes.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su gato no le da, entonces me llama y voy.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pide que le haga el totó.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dale turra, dale turra, atrévete que llegó el que más le mete.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la titular del PAMI, **Luana Volnovich**, se va con su novio, su segundo del PAMI, de vacaciones a Cancún.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más, el presidente dio una conferencia de prensa el otro día con ella y no pararon de reírse.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le permitimos que hagan lo que se les dé la gana.",
+      "score": 0.568,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llenan la boca hablando de los derechos humanos.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llenan la boca hablando de los derechos humanos, pero cuando ellos ejercen su momática, son muy cínicos y solo pueden hacer el t페, pero cuando ellos ejercen la violencia de género, ahí no dicen nada.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Dónde está el colectivo verde defendiendo a la pobre mujer que, porque llegaba tarde el colectivo, este hijo de su madre, que se hacía el discapacitado, le pegó?",
+      "score": 0.851,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo El Charry, ese que dice que lo botaría igual aunque supiera que robaron, dijo que lo quería mucho a Elegante.",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le garpa en Tecnópolis.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mira esto, salario de **Cristina Fernández de Kirchner**: 330 mil pesos.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A **Tevez** también lo mataron cuando un tipo que nació en la villa dijo: \"Che, lo de Formosa está todo mal, hay muchísimos pobres\".",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y espero que no le cobren impuestos y que todo esto se vaya a pasar.",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y espero que no le cobren impuestos y que todo esto llegue a Corrientes.",
+      "score": 0.385,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina es un fuego.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene a ver un tipo que está diciendo, podamos a esta manga de pelotudos que le tosen al teléfono.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fijate la mirada extraña que tiene de la economía el presidente **Alberto Fernández**, y el problema ahora es que la gente vive más.",
+      "score": 0.898,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todos modos, el presidente dice que habla de que ahora la gente vive más.",
+      "score": 0.841,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez le da más recursos para seguir viviendo.",
+      "score": 0.581,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi presidente ya como lo saludaba a **Milei**.",
+      "score": 0.781,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente propone un exterminio de los viejos.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que el presidente sabe lo que está diciendo.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en un país prendido fuego, con floggers que hacen terrorismo disfrazado de mapuche, y con funcionarios como **Santiago Cafiero**, que mientras se incendia Corrientes y se prende fuego la Argentina, habla del compañero **Fernández** para el 2023.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le pregunto a **Cafiero** y al gobierno si realmente piensan en **Alberto Fernández** para el 2023.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un delirio pensarlo, pero además lo piensan, y no les da vergüenza, porque mientras se prende fuego Corrientes, yo lo decía el fin de semana, en un diario lo leía, decía esto, que piensen en **Alberto** para el 2023.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Piensen en el aquí y ahora, Corrientes se prende fuego.",
+      "score": 0.506,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es como un laberinto sin salida.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le preguntaron?",
+      "score": 0.563,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "más que pedir el pase sanitario, yo le pediría la ficha limpia a todos.",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 89
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,87 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La situación se agravó por la declaración de Carlos Melconian, un influyente consultor de grandes empresas argentinas.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Sus declaraciones, con un pronóstico económico muy negativo, presionaron a Caputo a realizar su intervención.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "El Banco Central ha estado vendiendo los dólares depositados por la población, lo cual es gravísimo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La Nación incluso insinuó una próxima devaluación.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Se habló de una posible entrada masiva de fondos, pero Melconian señaló que una refinanciación del FMI sería preferible, ya que un ingreso de dinero que no se puede utilizar adecuadamente crearía expectativas falsas, generando un problema mayor que la solución en caso de no cumplirse.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Sin embargo, considerando la deuda argentina de 14.000 millones de dólares,  el ingreso neto sería de solo 6.000 millones, una cifra muy baja.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Caputo argumentó que, sumando el financiamiento del FMI, el BID, el Banco Mundial y la CAF, Argentina alcanzaría cerca de 50.000 millones de dólares en reservas brutas.",
+      "entidades_detectadas": [
+        "argentina",
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Mi consultor, sin embargo, considera que los 6.000 millones de dólares adicionales son insuficientes, especialmente considerando el vencimiento de 14.000 millones de dólares en deuda con el FMI en los próximos cuatro años.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Además, critica que Caputo haya omitido mencionar la posibilidad de una flotación cambiaria en su conferencia de prensa.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, las cadenas de supermercados están importando asado de Brasil a un precio significativamente menor que el del asado argentino.",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "El economista Carlos Rodríguez también criticó la falta de una política económica coherente, señalando la creciente salida de argentinos al exterior y la disminución de los ingresos de divisas.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Otro punto crítico es la estrategia electoral del oficialismo, con maniobras como el intento de desdoblamiento de las elecciones en la provincia de Buenos Aires por parte de Axel Kicilloff, que generó disputas internas con la Cámpora y generó una crisis política.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "La división interna del peronismo, con figuras como Máximo Kirchner, Sergio Massa y Axel Kicilloff, dificulta la respuesta a la crisis.",
+      "entidades_detectadas": [
+        "sergio",
+        "axel",
+        "massa",
+        "máximo"
+      ]
+    }
+  ]
+}

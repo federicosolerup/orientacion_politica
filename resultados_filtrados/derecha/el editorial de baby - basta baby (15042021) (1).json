@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Ahora es el presidente sin corazón, y le voy a explicar por qué.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "De hecho, un compañero me contaba que el argumento de ayer se lo cambió Kicillof sobre la marcha, y salió a encerrarnos a todos porque la provincia de Kicillof se le está incendiando y se ve venir que va a perder las elecciones por su incapacidad.",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Kicillof tampoco es tan vivo, y las mentiras como las de Kicillof tienen las patas cortas.",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Con el COVID nos quedamos en casa castigados, presos, y empezamos a pensar y nos dimos cuenta de que nos estaban estafando, Alberto querido.",
+      "entidades_detectadas": [
+        "covid",
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Realmente, como ciudadano, considero que usted es el peor presidente de la historia argentina, y como ciudadano considero que los que están a su alrededor, en muchos casos, son corruptos y nos robaron el país, y que no son ni los chicos de los colegios, ni los chicos con capacidades diferentes, ni los médicos los que se relajaron; busque a los relajados que tiene alrededor.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Apláudalos de pie, porque un médico gana mucho menos que una de esas personas con conchabos o esos inútiles que hay dentro del Congreso siendo asesores, y los que están sentaditos también, y los que tienen los observatorios también, y no pararon de trabajar un año y medio, y muchos se han muerto trabajando: enfermeras, médicos, personal de limpieza, por dos mangos.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    }
+  ]
+}

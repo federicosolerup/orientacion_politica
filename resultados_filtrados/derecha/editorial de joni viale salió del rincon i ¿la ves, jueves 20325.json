@@ -1,0 +1,54 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Los golpes de Estado los hacen los milicos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Lo que nosotros buscamos es otra cosa, con la Constitución en la mano.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Juicio político por inhabilidad moral del presidente y de *Videlita*, que ahora se hace la que llora, pero que es igual que él.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Sacar a este presidente como corresponde, legalmente.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La derecha argentina está derrotada.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Con 39 diputados, nuevo acuerdo con el Fondo Monetario Internacional.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "El grado de efectividad política que tiene el gobierno para, con esta caterva de *Lúmpenes*, lograr una aprobación de un DNU, de un acuerdo con el Fondo Monetario, cuyas cláusulas, montos y especificaciones se desconocen, ya directamente fascinante, o sea, fascinante con una minoría en la cámara y armado básicamente de tuiteros y gatos.",
+      "entidades_detectadas": [
+        "fondo",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Recordando que la sesión anterior fue levantada porque peligraba el DNU de Poderes Especiales, o sea que pasan de una semana de estar en completa minoría y tener que levantar una sesión de forma completamente inconstitucional, a tener una mayoría para aprobar con el Fondo Monetario.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    }
+  ]
+}

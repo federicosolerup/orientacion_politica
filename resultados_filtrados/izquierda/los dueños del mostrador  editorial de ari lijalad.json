@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Esta metáfora se usó mucho durante la presidencia de Mauricio Macri, cuando se le condonó —y luego se intentó frenar— la deuda del Estado a su familia por el caso Correo Argentino.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Decíamos que estaban de los dos lados del mostrador porque la familia Macri era deudora del Estado, y al mismo tiempo, estaba a cargo temporalmente del mismo, intentando condonarse la deuda.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Quiero mostrarles que nada de esto sería posible, y los que realmente gobiernan la Argentina no podrían legislar y dictar Decretos de Necesidad y Urgencia (DNU) sin un sistema mediático que los legitime, los apoye y silencie estas irregularidades.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Una sobre los ingresos de Federico Sturzenegger a la Quinta de Olivos mientras se diseñaban el DNU y la ley \"omnibus\".",
+      "entidades_detectadas": [
+        "olivos"
+      ]
+    },
+    {
+      "frase": "Daniel Funes de Rioja, un hombre con gran presencia mediática, es el presidente de la Unión Industrial Argentina (UIA) y de COPAL (Coordinadora de las Industrias de Productos Alimenticios).",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El presidente de la UIA y de COPAL.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

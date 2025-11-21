@@ -1,0 +1,71 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Durante ocho días, el Banco Central había estado perdiendo reservas, y ayer se registró la situación más crítica: a pesar del gasto significativo del Banco Central, el dólar siguió subiendo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La situación se agravó por la intervención de Carlos Melconian, un actor histórico del mercado argentino y consultor de grandes empresas.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Sus declaraciones pesimistas, con un fuerte impacto político, presionaron a Caputo a actuar con urgencia.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Esta situación generó una incertidumbre innecesaria en el mercado, alimentando la especulación sobre una inyección de fondos del FMI que, en realidad, podría ser contraproducente.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Caputo, en una conferencia de prensa, anunció que se espera un desembolso total del FMI de 20.000 millones de dólares.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Esto indica que Argentina tiene más del doble de reservas en dólares que de base monetaria, una situación de respaldo que nunca se había dado ni siquiera en la convertibilidad.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Sin embargo, un destacado consultor económico, en un mensaje privado, calificó las medidas anunciadas por Caputo como insuficientes.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Este consultor también señaló que en los próximos cuatro años vencen pagos al FMI por 14.000 millones de dólares, dejando sólo 6.000 millones de dólares de nuevos recursos, una cifra escasa.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "La omisión de la palabra \"flotación\" en la conferencia de prensa de Caputo también generó incertidumbre en el mercado.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Carlos Rodríguez, cercano al gobierno, reconoció la gravedad del desequilibrio económico.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Argentina ha sido calificada como un país en vías de autocratización.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

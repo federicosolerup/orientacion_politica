@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Fue felicitado por el diputado Agustín Romo por, según se dice, haber dejado un trabajo próspero en el sector privado para aceptar un cargo en el Estado con la mitad del salario.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Carreira trabajaba en Microestrategia Brasil, ubicada en la Avenida Corrientes al 800, en Buenos Aires.",
+      "entidades_detectadas": [
+        "corrientes"
+      ]
+    },
+    {
+      "frase": "Sermeño no solo encabeza este grupo empresarial, sino que también estuvo involucrado en la campaña de Bolsonaro y es acusado de participar en el intento de golpe de Estado contra Lula.",
+      "entidades_detectadas": [
+        "bolsonaro",
+        "estado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hace 42 días que desapareció Loan.",
+      "entidades_detectadas": [
+        "Loan"
+      ]
+    },
+    {
+      "frase": "La presión social se centra en el gobernador, quien debe dar explicaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Asimismo, señor Presidente, con el debido respeto, le solicito su intervención en este caso.",
+      "entidades_detectadas": [
+        "señor Presidente"
+      ]
+    },
+    {
+      "frase": "La defensa del gobernador por parte de Patrizaburri, argumentando que no desea interferir en los tres poderes del Estado, resulta inaceptable.",
+      "entidades_detectadas": [
+        "Patrizaburri",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Se ha producido una desaparición en democracia, tras una manifestación pública que pedía \"A Loan con vida\".",
+      "entidades_detectadas": [
+        "Loan"
+      ]
+    },
+    {
+      "frase": "Un presidente debería utilizar su influencia para lograr este objetivo;  sin embargo, parece que sus prioridades se centran en otros asuntos, como su viaje a Francia o las Olimpiadas.",
+      "entidades_detectadas": [
+        "Francia"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Loan",
+    "Estado",
+    "señor Presidente",
+    "Francia",
+    "Patrizaburri"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Primero, se analizan las declaraciones de Patricia Bullrich y Ricardo López Murphy, a quienes se califica como \"halcones\" del PRO, con posturas firmes sobre el orden y la represión del delito.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    },
+    {
+      "frase": "Luego, se incluyen declaraciones de Cristina Fernández de Kirchner, con una perspectiva opuesta, criticando a sus opositores.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "También se cita a Elisa Carrió, quien cuestiona la capacidad intelectual de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Se menciona una reunión de la mesa chica del PRO y se cierra el programa con un mensaje sobre la importancia de la unidad.",
+      "entidades_detectadas": [
+        "pro"
+      ]
+    }
+  ]
+}

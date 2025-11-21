@@ -1,0 +1,51 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 7,
+      "derecha": 0
+    },
+    "score_promedio": 0.109,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lo conversamos con Facundo Moyano y lo mencionó Jorge Fernández Díaz.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina necesita construir acuerdos políticos que le den al país, como bien dijo Jorge, un rumbo definido.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina es un país impredecible.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Macri va a Fray, le dicen: \"Mire, no sabemos si vamos a invertir en Argentina porque, tal vez, mañana cambie la situación\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted notó que se piensa de forma diferente, lo cual lleva al país a otro lugar.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ese concepto de que el otro puede tener tanta razón como yo se consolida en la política, entonces sí, Argentina comenzará a caminar en pos de un futuro mejor, que hoy nos sigue pareciendo lejano.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Ortografía:** Se corrigieron errores de ortografía como \"edificar\" por \"construir\", \"a invertir\" por \"invertir\", \"el otro que es el opositor\" por \"el otro, el opositor\", \"en pos\" en vez de \"en pos del\".",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 7
+  },
+  "etiqueta_original": "neutral"
+}

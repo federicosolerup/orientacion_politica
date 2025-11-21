@@ -1,0 +1,312 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El aroma a negociado es evidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a conversar un rato con el maestro Raúl Colman, conductor del programa \"Rayos X\" los domingos a última hora de la tarde.",
+      "entidades_detectadas": [
+        "Raúl Colman"
+      ]
+    },
+    {
+      "frase": "¿Cómo le va, mi amigo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué noticias tiene para nosotros, Raúl?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hola, amigo querido, ¿cómo estás, Mauro?",
+      "entidades_detectadas": [
+        "Hola",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Bien, bien, bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me encantó la nota de hoy; el relato sobre cómo se gestó esta compra es impactante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Nos cuenta más detalles?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, la novedad más reciente es que el Ministerio de Defensa francés envió una carta al ministro de Defensa argentino, Jorge Taiana, diciendo que los aviones comprados nunca volarán.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Jorge Taiana",
+        "Ministerio de Defensa"
+      ]
+    },
+    {
+      "frase": "Jorge Taiana viajó a Francia y les dijo que no se habían vendido con la condición de que Argentina proveyera repuestos nuevos.",
+      "entidades_detectadas": [
+        "Jorge Taiana",
+        "Argentina",
+        "Francia"
+      ]
+    },
+    {
+      "frase": "Pero nadie quiere dar esos repuestos, ya que el Reino Unido, poseedor de una pieza clave —los asientos eyectables—, no los vende debido al conflicto de Malvinas.",
+      "entidades_detectadas": [
+        "el Reino Unido",
+        "Malvinas"
+      ]
+    },
+    {
+      "frase": "La respuesta del ministro fue que no pudieron conseguirlos y que no hay ninguna posibilidad de que los aviones vuelen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, otros repuestos están discontinuados.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "En resumen, se compraron cinco aviones que nunca volaron ni volarán jamás.",
+      "entidades_detectadas": [
+        "jamás"
+      ]
+    },
+    {
+      "frase": "Como usted mencionó Malvinas,  pensé inmediatamente en la conexión con los repuestos y con el Reino Unido.",
+      "entidades_detectadas": [
+        "Reino Unido",
+        "Malvinas"
+      ]
+    },
+    {
+      "frase": "¿No fue uno de esos aviones el utilizado por la Armada Argentina en el conflicto de Malvinas?",
+      "entidades_detectadas": [
+        "¿No",
+        "Armada Argentina"
+      ]
+    },
+    {
+      "frase": "No recuerdo si se hundió un acorazado británico o no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre creí que se utilizaron Mirage en ese momento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Independientemente de eso, al momento de la compra, el avión ya estaba prácticamente obsoleto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El G20 fue en noviembre de 2018, y los aviones, desmantelados y sin repuestos, llegaron en junio.",
+      "entidades_detectadas": [
+        "G20"
+      ]
+    },
+    {
+      "frase": "No había ninguna posibilidad de que estuvieran operativos para el G20.",
+      "entidades_detectadas": [
+        "G20"
+      ]
+    },
+    {
+      "frase": "Esto huele a negociado, tal como usted dijo al principio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No había ninguna posibilidad de que estos aviones estuvieran disponibles para repeler un eventual ataque durante el G20.",
+      "entidades_detectadas": [
+        "G20"
+      ]
+    },
+    {
+      "frase": "Los estadounidenses, a pesar de la confianza depositada, tampoco los tenían.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno de Macri pactó con ellos, y los estadounidenses llenaron de aviones el país para el G20 (Montevideo, San Fernando, Ezeiza, Mendoza).",
+      "entidades_detectadas": [
+        "San Fernando",
+        "Ezeiza",
+        "Mendoza",
+        "Montevideo",
+        "G20",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "No tuvieron mucha fe en nuestra defensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Claramente, cuando llegaron los mandatarios, optaron por su propia seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hice lo que muchos periodistas jóvenes hacen, y debí haberlo hecho antes: investigar a fondo el tema.",
+      "entidades_detectadas": [
+        "debí"
+      ]
+    },
+    {
+      "frase": "El Super Étendard fue el que hundió al Sheffield, la corbeta de la Armada británica, durante el conflicto de Malvinas el 4 de mayo de 1982.",
+      "entidades_detectadas": [
+        "Sheffield",
+        "Malvinas",
+        "Armada británica"
+      ]
+    },
+    {
+      "frase": "Me sonaba familiar el nombre, ya que es un avión clásico de la Armada francesa.",
+      "entidades_detectadas": [
+        "Armada francesa"
+      ]
+    },
+    {
+      "frase": "La ironía es que los ingleses bloquean los repuestos, y la propia Armada francesa admite que los aviones son inutilizables.",
+      "entidades_detectadas": [
+        "Armada francesa"
+      ]
+    },
+    {
+      "frase": "¿Dónde están esos aviones?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Arrumbados en una base de la Armada en Punta Indio, en un lugar apartado de la base principal, ya que obstruyen el espacio.",
+      "entidades_detectadas": [
+        "Armada"
+      ]
+    },
+    {
+      "frase": "Hay historias inexplicables: como los aviones carecían de repuestos y llevaban mucho tiempo sin despegar, obtenerlos y realizar el mantenimiento, además del entrenamiento, llevaría mucho tiempo y dinero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En definitiva, hubo algún tipo de negociado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué hay de las causas judiciales?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Más allá de que algún organismo estatal investigue la irregularidad en la administración de los fondos públicos, ¿no hay una causa judicial abierta?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "No, porque el Ministerio de Defensa argumenta que son ellos quienes deben presentar la denuncia, y no el Gobierno Nacional.",
+      "entidades_detectadas": [
+        "Gobierno Nacional"
+      ]
+    },
+    {
+      "frase": "El hecho es que no hay ninguna denuncia penal hasta el día de hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, se compraron otras cosas para el G20 que llegaron mucho después del evento.",
+      "entidades_detectadas": [
+        "G20",
+        "Además"
+      ]
+    },
+    {
+      "frase": "Fue un negociado escandaloso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Diría que todo lo relacionado con el armamento para el G20 fue un negociado bastante escandaloso, incluyendo la llegada de SpaceX en ese momento.",
+      "entidades_detectadas": [
+        "G20",
+        "Diría"
+      ]
+    },
+    {
+      "frase": "Algún día habrá que analizar los movimientos en el entorno de Patricia Bullrich y sus relaciones con estos temas, tanto ella como personas muy cercanas a la precandidata de Pro.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Algún"
+      ]
+    },
+    {
+      "frase": "El Ministro de Defensa, como usted sabe, demora las denuncias contra el gobierno de Macri, mientras que actúa rápidamente contra Cristina Fernández de Kirchner y sus funcionarios.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Macri",
+        "Ministro de Defensa"
+      ]
+    },
+    {
+      "frase": "Bueno, Raúl, querido, te escuchamos el domingo a las 19 horas en \"Rayos X\".",
+      "entidades_detectadas": [
+        "Raúl"
+      ]
+    },
+    {
+      "frase": "Un abrazo, queridos amigos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Chau, amigos!",
+      "entidades_detectadas": [
+        "Chau"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Malvinas",
+    "Ministerio de Defensa",
+    "Raúl",
+    "Armada Argentina",
+    "Vamos",
+    "¿Qué",
+    "Ezeiza",
+    "Mendoza",
+    "El Ministro de Defensa",
+    "Hola",
+    "Reino Unido",
+    "Arrumbados",
+    "Patricia Bullrich",
+    "jamás",
+    "el Reino Unido",
+    "Cristina Fernández de Kirchner",
+    "¿No",
+    "Además",
+    "Diría",
+    "Raúl Colman",
+    "Armada",
+    "Armada británica",
+    "Sheffield",
+    "Claramente",
+    "Argentina",
+    "Hice",
+    "Jorge Taiana",
+    "Chau",
+    "Bueno",
+    "Algún",
+    "debí",
+    "¿",
+    "San Fernando",
+    "Gobierno Nacional",
+    "Francia",
+    "Montevideo",
+    "G20",
+    "Macri",
+    "Armada francesa"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Fiscal, ¿no es cierto?",
+      "entidades_detectadas": [
+        "¿",
+        "Fiscal"
+      ]
+    },
+    {
+      "frase": "La justicia es el pilar fundamental de la República.",
+      "entidades_detectadas": [
+        "República"
+      ]
+    },
+    {
+      "frase": "Sin justicia, no hay República.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin justicia, las leyes no se cumplen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fíjese lo que le ocurrió al fiscal, ¿verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le retiraron toda la seguridad y protección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alguien podría haber asesinado a Cartacía, y también al fiscal.",
+      "entidades_detectadas": [
+        "Cartacía"
+      ]
+    },
+    {
+      "frase": "De la misma manera que lo hicieron con Nisman.",
+      "entidades_detectadas": [
+        "Nisman"
+      ]
+    },
+    {
+      "frase": "Por eso, insisto en la gravedad de la situación, más allá de cuál haya sido la causa que llevó a lo que le pasó a Cartacía.",
+      "entidades_detectadas": [
+        "Cartacía"
+      ]
+    },
+    {
+      "frase": "Hoy, los fiscales y los hombres de la justicia que trabajan con honestidad e investigan a las mafias, pueden convertirse en otro Nisman sin problema alguno.",
+      "entidades_detectadas": [
+        "Nisman"
+      ]
+    },
+    {
+      "frase": "Es una reflexión sumamente importante que deberían considerar las autoridades de todos los estamentos institucionales de la República para buscar soluciones y cambiar esta realidad.",
+      "entidades_detectadas": [
+        "República"
+      ]
+    },
+    {
+      "frase": "Porque el caso Nisman demostró esto.",
+      "entidades_detectadas": [
+        "Nisman"
+      ]
+    },
+    {
+      "frase": "Cuando Nisman murió, la investigación sobre el pacto con Irán y otros asuntos relacionados con la AMIA se detuvo.",
+      "entidades_detectadas": [
+        "AMIA",
+        "Irán",
+        "Nisman"
+      ]
+    },
+    {
+      "frase": "Es decir, la impunidad prevaleció.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta la próxima, muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Nisman",
+    "Fíjese",
+    "Cartacía",
+    "¿",
+    "Irán",
+    "AMIA",
+    "República",
+    "Fiscal"
+  ]
+}

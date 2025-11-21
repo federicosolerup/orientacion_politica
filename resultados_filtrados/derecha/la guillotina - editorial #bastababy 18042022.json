@@ -1,0 +1,69 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Solo sé que después quiero hablar tranquilamente con Carolina, que lo único que hacen es desmantelar el Estado y lo único que se les ocurre es sacar más dinero de algún lado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La única irritación que le causó a Alberto Fernández, y después sale Alberto, y yo no termino de entender si lo hace a propósito para fastidiar a Cristina Fernández de Kirchner, no sé, sale, apoya a Venezuela porque le hace un guiño, porque quiere quedar bien con Cristina, con Nicolás Maduro.",
+      "entidades_detectadas": [
+        "venezuela",
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Y dice que en Venezuela habrá una democracia más o menos estable, después de haber matado a tanta gente, haberse llevado a 200 periodistas, haber destruido Venezuela, que hoy una casa en Isla Margarita cuesta 10.000 dólares, pero tampoco la podés tener porque te la sacan cuando quieren, después de haber destruido Venezuela, que nosotros teníamos miedo, pero ya superamos a Venezuela.",
+      "entidades_detectadas": [
+        "venezuela"
+      ]
+    },
+    {
+      "frase": "Sale a defender a Venezuela y a decir que hay que ayudar a Venezuela, como si él fuera alguien que pueda ayudar a Venezuela.",
+      "entidades_detectadas": [
+        "venezuela"
+      ]
+    },
+    {
+      "frase": "La verdad es que creo que es un disparate tan grande que da vergüenza hasta hablar, y Guzmán no presentó ningún plan económico, no dijo nada, siguen repartiendo bonos, y Alberto dice, bueno, la idea es que primero los últimos.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Mira, yo siempre lo defiendo por lástima, a Alberto Fernández, ¿no?",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Porque es el presidente y la figura presidencial y una vez se le tira un centro por… ¡Ah!",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y si Macri se postula, lo voto con las dos manos, así de claro.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Y nunca recibí un mango de nadie, lo hago para sacar a Cristina y a Alberto, que no vuelvan.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "**Nombres y Apellidos:** Se corrigieron los nombres y apellidos de los personajes mencionados (Alberto Fernández, Cristina Fernández de Kirchner, Nicolás Maduro, Mauricio Macri, Carolina Lozada).",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

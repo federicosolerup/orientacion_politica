@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Javier y yo somos de River.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Lo viví con Alfonsín; teníamos a uno en el gobierno de Alfonsín que se llamaba  [Nombre del Ministro de Economía de Alfonsín].",
+      "entidades_detectadas": [
+        "alfonsín"
+      ]
+    },
+    {
+      "frase": "A mí me gusta que todos los juicios de Cristina tengan juzgamiento y condena o no.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Y van a hablar tonterías a Chile, y van a hablar tonterías a Uruguay, y van a hablar tonterías a Brasil, y donde tienen oportunidad de hablar a Bolivia hoy, el otro tonto.",
+      "entidades_detectadas": [
+        "bolivia"
+      ]
+    }
+  ]
+}

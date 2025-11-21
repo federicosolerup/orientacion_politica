@@ -1,0 +1,376 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 58
+    },
+    "score_promedio": 0.757,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Están tan enajenados que **La Roque** (en adelante, se usará el apellido) le dice públicamente al presidente que tiene que echar a **Martín Guzmán**, el ministro \"zaraza\" de economía.",
+      "score": 0.956,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uy mamita, están enajenados, viven enajenados, poneme la foto.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Roque, ¿quién carajo sos para decirle al presidente que lo tiene que echar a Guzmán?",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Roque nunca le diría eso a Cristina de un ministro que eligió Cristina.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el \"Cuervo\" le dice que a \"Sarasa\" no lo votó nadie, obvio, pero lo eligió el presidente, La Roque, ¿Te parece poco?",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto lo eligió a Guzmán.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la facultad del presidente para elegir un ministro, en este caso el de Economía, y de elegir a quien se le cante, La Roque.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Cristina no te animás, ¿no?",
+      "score": 0.644,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Roque, no, con Cristina no, y mira que se manda cagada.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández está enajenado, el presidente Alberto Fernández vive enajenado.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esta gente de La Cámpora, al intendente de Morón, se le ocurrió una idea buenísima: enseñarle a los pibes a drogarse, a tus hijos.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vean lo que decía el instructivo para drogarte: recordá, además, que esta folletería la pagás vos con tus impuestos en Morón.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Intendente, hola, intendente, usted tiene que renunciar, usted está enajenado.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Leí en su perfil de Instagram o de Twitter que usted tiene dos hijos.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le diría a sus hijos que tomen cocaína, pero poquita?",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver qué le pasa con su cuerpo.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le va?",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le caería si voy yo a su casa y le digo a usted que se rompe el alma para educarlo como toda la gente de trabajo que cuida a sus hijos?",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sabés ni quién sos a los 14, 15 años y usted la regala a \"falopa\".",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un ayuntamiento de Argentina, por eso llegó a España, el diario El Mundo de España: un ayuntamiento de Argentina aconseja a los jóvenes consumir drogas en cantidades pequeñas para ver cómo reacciona el cuerpo.",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El consumo de drogas ha crecido de forma muy importante en las últimas dos décadas en la Argentina y la reciente pandemia de coronavirus ha agravado el problema.",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, hablan de la Argentina hace dos décadas, el kirchnerismo gobierna desde el 2003.",
+      "score": 0.626,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creció en Argentina el poder de los narcos, son los dueños, los narcos de los territorios, mirá esto.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Rosario se convirtió en una ciudad manejada, gobernada por los narcos, que peleen, sino que corran.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa en Rosario es el gran fracaso de la política, por eso el Estado no puede fomentar el uso de drogas.",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero que todos los niños que se han perdido, que se han perdido, que se han perdido, escuchen este testimonio porque a él me conmovió, un ex adicto le contesta al intendente de Morón con esta fabulosa idea que tiene y con ese instructivo que le enseña a los pibes a drogarse.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quién puede votar a alguien que explícitamente le está diciendo a nuestros hijos, a nuestros amigos, a nuestros pibes cómo drogarse.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pregunté si ustedes mismos qué beneficios sostienen esos políticos delincuentes, creando una generación de drogadictos, repartiendo esto en un polideportivo donde se tendría que promover el deporte y la educación.",
+      "score": 0.482,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá tenés el testimonio de un ex adicto, le costó muchísimo como a todos los adictos recuperarse, es un día a día, es una tortura.",
+      "score": 0.298,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo los tengo que cubrir cuando están vendiendo \"falopa\" con las ambulancias, dice el enajenado Iji, amigo del presidente Alberto Fernández.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias Alberto Fernández por este narcoestado.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensá que a tu hijo le dicen que tome cocaína de a poquito.",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando tenés hambre, no te la saca ni la yerba, ¿por qué no le dan a la gente carne?",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No tienen un, una nutricionista para que les diga que no le pueden dar yerba a la gente como alimento para engañarles el estómago?",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ex de Lázaro Báez había arreglado un divorcio por 800 millones de pesos, pero le parece poco y quiere recibir la negociación.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Norma Calismonte** cree que el empresario le ocultó bien.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se robó toda la Argentina tu ex marido, ¿no te avergüenza el padre de tus hijos?",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señora, usted está reclamando más plata, pero esa es nuestra plata porque su marido se la robó, nos la robó.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que usted está reclamando es mío, es suyo, es de Pilman, es de Juéz que ya vino, es de todos nosotros.",
+      "score": 0.825,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no es ninguna santa, señora, ninguna santa, no haga la víctima.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no es una santa, usted fue cómplice de su marido y de sus hijos.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no es una santa, usted fue cómplice de su marido y de sus hijos.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le explica, Calismonte?",
+      "score": 0.485,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Te manda Macri pegar a Lilita!",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual no es que le pegue a Lilita, si a Lilita dice boludeces, le voy a decir.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre metiendo el dedo en la llaga para hacer quilombo y hacer más quilombo juntos por el cambio.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si Macri se manda cagadas, también lo voy a decir.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quiero ni aborto, ni \"falopa\", ni gente enajenada que le dan hierba para sacarle el hambre, sin vergüenzas.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hierba, poneme otra vez a Calismonte.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señora, sabe que los pibes no tienen ni para polenta y por su culpa y la de su marido y de sus hijos y de Cristina y de Néstor y de todos, les dan hierba, no tienen para comer, cagaron generaciones y usted reclama porque no le alcanzan 800 palos, sin vergüenza.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de Lilita, lo criticó a Macri por la foto con Donald Trump.",
+      "score": 0.481,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tu opinión con la foto de Macri y Trump nos chupa un huevo.",
+      "score": 0.611,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa a Juntos por el Cambio?",
+      "score": 0.777,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Síganle a Macri por teléfono que no le gustó la foto con Trump.",
+      "score": 0.156,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le conseguí un video a Lilita para que se alegre.",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se lo dedicamos: Donald Trump y yo, mirá Lilita, te lo muestro.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá vemos quiénes somos, las editoras de género de la Argentina y cuál es nuestro trabajo.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pidió a las autoridades de América que me echaran y las chicas festejan que tiene un laburo digno, ¡ah, buenísimo!",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, cuando una mujer no le deja ver los hijos al padre porque inventó denuncias, ¿ustedes se ocupan?",
+      "score": 0.613,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tranquilo, que el presidente Alberto Fernández le está declarando la guerra a la inflación, Pablo.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este chico se saca una foto hasta que le empieza a preguntar: pará, pará, vos en la época de Macri te metías con la pobreza en el 20 y se dieron en plena campaña porque el gobierno se la, el gobierno de Cristina digamos.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, cuando el pibe le pregunta por la pobreza a Alberto, el pibe se arraja y casi le roban el teléfono.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto te ponía la guita en campaña 2019 y hablaba de los pobres que había dejado Macri, que la verdad eran un montón.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, los pobres de ahora se chupan un huevo, claro, si estos pobres ponemos 60 lucas y le damos hierba.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no le dan leche en vez de hierba a la gente?",
+      "score": 0.785,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se acerca de Patricia más que de Alberto Fernández.",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina está tan enajenada que solo piensa en la impunidad, vamos a hablar con Luis Juéz enseguida de Cristina.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le tiene miedo, lo traemos, ponemos la imagen, un juez para Cristina, vino perfecto.",
+      "score": 0.618,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero tranquila, tranquila, que con la tuya le vamos a hervir a los pibes.",
+      "score": 0.883,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto decía Juéz, falta que digan que Florencia tenía 5 millones de pesos en las cajas y que por la humedad se pusieron verdes los billetes y si parece una joda, pero no, el kirchnerismo te lo puede decir.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos el colectivo de Gordes activistas de Argentina y queremos invitarles al primer encuentro plurinacional de Gordes en Argentina.",
+      "score": 0.288,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El colectivo de Les Gordes activistas de Argentina es una ocupación autoconvocada de activistas gordos y activistas por la diversidad corporal que se enuncia en contra de la patologización y discriminación constante hacia los cuerpos gordos.",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 72
+  },
+  "etiqueta_original": "neutral"
+}

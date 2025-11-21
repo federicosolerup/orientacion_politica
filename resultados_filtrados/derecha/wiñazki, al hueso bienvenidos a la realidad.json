@@ -1,0 +1,45 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En la exposición del presidente de la Nación, Alberto Fernández, y del ministro de Salud, Ginés González García, sobre la producción de la vacuna de Oxford en Argentina, quedaron claras algunas cuestiones que hasta ahora las autoridades no habían explicitado con tanta claridad, o al menos no nos las habían comunicado con la misma transparencia sobre cómo será nuestro futuro.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El presidente también se sinceró sobre la cuarentena.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Hoy, Alberto Fernández asume esta nueva realidad: a pesar de los decretos de confinamiento, este no existe o, al menos, no al 100%.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Por eso, el presidente llama a la reflexión social y a evitar reuniones, y posiblemente endurezca las medidas en su anuncio del viernes.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Este anuncio de hoy, a mi juicio, es positivo porque el presidente asume la nueva realidad: el virus estará entre nosotros, como mínimo, hasta el primer trimestre del año próximo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Habrá que ver qué dice Axel Kicillof al respecto, ya que el presidente también remarcó la mayor cantidad de casos en la provincia de Buenos Aires que en la Ciudad de Buenos Aires, lo que contradice las declaraciones previas del ministro de Salud bonaerense, Daniel Gollán.",
+      "entidades_detectadas": [
+        "axel",
+        "presidente",
+        "kicillof"
+      ]
+    }
+  ]
+}

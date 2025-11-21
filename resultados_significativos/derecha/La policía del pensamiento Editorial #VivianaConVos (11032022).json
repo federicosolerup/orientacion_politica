@@ -1,0 +1,316 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 27,
+      "derecha": 33
+    },
+    "score_promedio": 0.529,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Me quiere censurar la editora de género de Clarín por lo que siento, por lo que pienso y por lo que digo.",
+      "score": 0.632,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es parte de la nota que ayer publicó Clarín sobre mí, que escribió Mariana Iglesias.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Clarín recula, dice Urgente24, y baja la nota que pedía echar.",
+      "score": 0.537,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no me meto con Clarín ni con Papel Prensa.",
+      "score": 0.245,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decía que hablan de inclusión, pero matan a los bebés por nacer.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes saben que prefieren, editora de Género de Clarín, letra E, censora hija putativa de Miriam Lewin que me persiguió durante dos años en la pandemia, porque le molestaba lo que yo decía y cómo yo pensaba.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes no prefieren a esas minas que son pro vida y son pro familia.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy del lado de la vida, soy pro vida, vos estás del lado de la muerte, aborto.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero decía que te encanta escribir de mí y lo comprobé a la madrugada mientras preparaba esto.",
+      "score": 0.306,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poneme la foto de Mariana Iglesias, de Clarín, la periodista, la editora de género.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si fueras un hombre diría, che, le pasa algo.",
+      "score": 0.611,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa a Viviana Canosa?",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le pasa?",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Pero quién le gustó primero?",
+      "score": 0.731,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una señora salteña le molesta mucho que las verdes usen la expulsión de la ropa.",
+      "score": 0.936,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La salteña le molesta mucho que las verdes usen la excusa del 8M para ir a la catedral de Salta y ensuciarla.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con las uñas le tienen que hacerles pintar a estas locas reventadas con el perdón de Dios, porque lo único que hacen es vivir de planes sociales.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos una cámara hasta en el culo.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que Francisco decía que pactar con el mal conduce a la esclavitud.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que decía Felipe Miguel, lo vi a la madrugada.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice: \"CABA ya está terminando de limpiar el congreso y trabajando en los arreglos\".",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "CABA ya está terminando de limpiar el congreso y trabajando en los arreglos.",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ya acordás de esto que decía Alberto Fernández, el famoso A.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dos años después, la Argentina tiene la misma inflación que en el año 2015.",
+      "score": 0.321,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La política económica de Macri ha fracasado.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Macri no puede hacerse el distraído.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Macri usa la justicia como parte de su engranaje electoral.",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Te vi contento en Chile en la asunción del nuevo presidente.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sea el que le gustan los zurdos, me encanta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y enseguida nos metemos con el tema Cristina y su miniserie de Netflix, ¿no?",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soy de una generación que empezó a hacer política en el '83, marchando contra el pago de la deuda externa y contra el Fondo Monetario Internacional.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llegamos al gobierno con un acuerdo con el Fondo Monetario Internacional que no hubiéramos querido, con una deuda que no hubiéramos contraído si fuéramos gobierno en ese momento.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llegamos al gobierno y nos encontramos con una deuda de 45.000 millones que no hay ninguna posibilidad de que Argentina cancele, que solo los vencimientos que tenía este año Argentina nos hubieran obligado a ingresar en default porque no hay ninguna posibilidad con los recursos que tiene la Argentina de cancelarlos.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice Martín Tetaz, no hubiera existido el problema del Fondo Monetario Internacional si Cristina hubiera entregado con el superávit.",
+      "score": 0.319,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No existiría el problema del Fondo Monetario Internacional, lo he dicho 300 veces y lo voy a decir una vez más, pero quiero ser muy claro, for the record.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No existiría el problema de la deuda ni el problema del Fondo Monetario Internacional.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros no estaríamos teniendo esta discusión acá si Cristina Fernández hubiera entregado con superávit como recibió.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante los gobiernos de Cristina Fernández, el resultado fiscal empeoró todos los años, chequeado, verdadero, si quiere lo subo dentro de un rato a Twitter.",
+      "score": 0.438,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El resultado implicó que Cristina hiciera crecer la deuda, habiendo recibido 179.000 millones de dólares a 240.000 millones de dólares cuando entregó.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está a punto de hacer una nueva miniserie en Netflix que llamaría ChrisFlix.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que Cristina Fernández de Kirchner hizo en su despacho es una maravilla.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la música de Juanso Joaquín y a ver cómo vuela la cortina en el despacho.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la música, poneme la de House of Cards porque me encanta.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién puede creer que lo que se dio en el despacho de Cristina fue cierto?",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer por la tarde, cuando la Cámara de Diputados iniciaba el tratamiento del nuevo acuerdo con el Fondo Monetario Internacional para financiar el préstamo que Mauricio Macri solicitó a ese organismo por 57.000 millones de dólares, estábamos en mi despacho en la presidencia del Senado, en el Congreso de la Nación, el senador Oscar Parrilli, la senadora Anabel Fernández Sagasti, el diputado Máximo Kirchner y quien les habla.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento, en la Plaza de los Dos Congresos, se desarrollaba una multitudinaria movilización política en contra del plan económico del Fondo Monetario.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Unos minutos después de que en la esquina de Hipólito Yrigoyen y Entre Ríos comenzara una quema de las iniciales del Fondo Monetario Internacional con neumáticos, un pequeño grupo de manifestantes inició una intensa pedrada contra el Congreso.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paradójicamente, fue mi despacho el que atacaron, el despacho de quien hizo frente a los fondos buitres, quien mantuvo fuera del país al Fondo Monetario Internacional, cumpliendo el legado de mi compañero Néstor Kirchner, y que además construyó con su decisión el Frente de Todos que permitió derrotar a los fondos buitres.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poneme música que entra la piedra.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos tan armados, chicos, la verdad, todos tan armados, o sea, ¿a quién le quieren acercarse a este verso?",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo quedó en pie la estatueta de Néstor Kirchner, suelto el pie, un quilombo de vidrio, es una locura.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual, mandó la peromacri y adelantó Cristina que es la que le ha dicho, que es la que le ha dicho, que es la que le ha dicho, que es la que le ha dicho, que es la que le ha dicho, y adelantó Cristina que su voto es no positivo.",
+      "score": 0.468,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablando de si nos quieren o no burros, enseguida este tema lo vamos a debatir en la mesa, ya está Lea Granata, hoy también Pablo Novak, que hizo declaraciones muy interesantes con respecto al progresismo en ese país.",
+      "score": 0.535,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme el tape, por favor, porque definitivamente te quieren burro.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, si creían que habían visto todo hasta acá, ya voy terminando, me voy a la mesa, como les dije, está Granata hoy, está Pablo Novo para hablar del progresismo en la Argentina, pero si pensaban que con esto de Ciudad Universitaria estabas más o menos perdido, mirá esto, porque es increíble.",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Faltaba Miriam Bregman diciendo, mientras hablaban todos del Fondo Monetario Internacional, ¿sabes a quién me llevó a decir?",
+      "score": 0.274,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no, habló de Cositorto, metió a Cositorto en la discusión del Fondo Monetario Internacional.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ni a Cositorto se le ocurrió prometer los intereses que prometía Caputo.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cositorto en la discusión por el Fondo Monetario Internacional.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cositorto en la discusión por el Fondo Monetario Internacional.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 60
+  },
+  "etiqueta_original": "neutral"
+}

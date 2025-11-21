@@ -1,0 +1,85 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "En vista de todo lo que hemos analizado sobre la realidad argentina, ocurren hechos que, si no fueran tan dramáticos, resultarían hilarantes, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un grupo de diputados del Frente para la Victoria ha solicitado al presidente Mauricio Macri que se le inicie un juicio político, acusándolo de mal desempeño, incompatibilidad de funciones y abuso de autoridad, entre otras cosas.",
+      "entidades_detectadas": [
+        "Frente para la Victoria",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "A esos diputados les pregunto, y me sorprende especialmente que el diputado José Luis Gioja haya firmado esa solicitud: en la época de Cristina Fernández de Kirchner, cuando se cometían abusos de poder, un enriquecimiento ilícito descarado y actos de corrupción, ¿dónde estaban ustedes?",
+      "entidades_detectadas": [
+        "José Luis Gioja",
+        "¿",
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "¿Para dónde miraban?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué actitud más lamentable.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Hasta la próxima, muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres/Apellidos corregidos:**\n    *   \"Macri\" (se mantuvo, pero se capitalizó)\n    *   \"Cristina Fernández de Kirchner\" (se corrigió la ortografía y se mantuvo el formato de nombre y apellido)\n    *   \"Gioja\" (se corrigió la ortografía de \"Gioja\" y se completó con el nombre \"José Luis\")\n*   **Ortografía corregida:** Se corrigieron errores ortográficos como \"desopirantes\" por \"hilarantes\", y acentuación faltante.",
+      "entidades_detectadas": [
+        "Cambios Realizados",
+        "Cristina Fernández de Kirchner",
+        "Ortografía",
+        "Gioja",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "*   **Coherencia y Cohesión mejoradas:**\n    *   Se reformuló la primera frase para mejorar la fluidez.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "*   Se añadió \"acusándolo de...\" para aclarar la petición de juicio político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se suavizó el lenguaje y se utilizaron sinónimos para evitar repeticiones (por ejemplo, \"enriquecimiento brutal\" por \"enriquecimiento ilícito descarado\").",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se eliminó la repetición de \"cosas\" y se reemplazó por un lenguaje más específico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se ajustó la última frase para mejorar la despedida.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cambios Realizados",
+    "Cohesión",
+    "José Luis Gioja",
+    "¿",
+    "Frente para la Victoria",
+    "Cristina Fernández de Kirchner",
+    "Coherencia",
+    "Ortografía",
+    "Gioja",
+    "Qué",
+    "Macri",
+    "Mauricio Macri"
+  ]
+}

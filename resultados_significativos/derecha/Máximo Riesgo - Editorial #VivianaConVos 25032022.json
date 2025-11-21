@@ -1,0 +1,341 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 54
+    },
+    "score_promedio": 0.726,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Máximo riesgo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí está, máximo riesgo.",
+      "score": 0.588,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, **Máximo Kirchner** puso en riesgo al presidente **Alberto Fernández**.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer **Máximo Kirchner** demostró que le quiere sacar la banda y la lapicera a **Alberto Fernández**.",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos desalmados que somos los porteños.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Será porque los Kirchner hicieron su fortuna con la dictadura?",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Confiesa que los Kirchner se hicieron ricos durante la dictadura, escuchalo.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante la dictadura, le tenemos bajando el cuadro.",
+      "score": 0.537,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y también aprovechó para pegarle un palo al presidente **Alberto Fernández**.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le sacaron recursos a los porteños durante la pandemia, durante la cuarentena, inhumano.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy recordaba que sí habló con **Bebe Conte**, fue a mis amigos, **Bebe** no le preguntó nada y él respondió esto.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y **Diego Tatian**, que es un amigo cordobés, un filósofo, un escritor, me manda a través de **Liliana Herrero** una filmación de la noche de los festejos del aniversario de la ciudad de Roma, en la cual **Ricardo Muti**, el director de teatro, presenta al Nabucco, de Giuseppe Verdi, delante de Berlusconi y de quien había sido también el intendente de Berlusconi, que antes de poner la obra en escena le hace una crítica feroz a Berlusconi allá adelante.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira, yo recuerdo una frase de Pete Townshend muy buena, si se levanta pidiendo verdad y no auxilio, si se compromete con un coraje que no está muy seguro de poseer y si se pone de pie para indicar que algo está mal y no pide sangre para remediarlo, entonces es rock and roll.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero si te referís al número de desaparecidos, vamos a escuchar a **Graciela Fernández Meijide**.",
+      "score": 0.545,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero porque estoy muy mayor y no podría ni terminar.",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero segundo porque podría ser objeto de una provocación.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y saben qué, muchachos, me pregunto yo y le pregunto a cualquiera.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Me van a decir que hay 20.000 familias en la Argentina que no han denunciado la desaparición de un miembro?",
+      "score": 0.605,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Díganme, explíquenme cómo, por ejemplo, el número de personas que han desaparecido en la Argentina, por favor, ¿te creen que la sociedad argentina es así?",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si me entero que los Kirchner robaron igual los volvería a votar.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá el quilombo que hicieron ayer en la calle.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los colectivos cargados con la nuestra, le garparon con la nuestra.",
+      "score": 0.601,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que a la mayoría de la gente le preguntaban si no tenían idea de qué era esto.",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que a la mayoría de la gente le preguntaban si no tenían idea de qué estaban haciendo ayer en este lugar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto en realidad, todo esto está hecho para que **Máximo** se poronguee al presidente y vean quién la tiene más larga.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que ayer demostró **Máximo** y La Cámpora es que el presidente está muy solo, que lo están dejando solo, que ya lo dejaron solo, **Alberto Fernández**.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que tener muchos huevos para esa decisión y creo que a **Alberto** no le alcanza.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que en la Argentina se me falta huevo.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que dice **Lucas Romero**, la Roque le reconoce al presidente que tiene la lapicera, pero le recuerda que solo tiene el 4% de la tinta, un amigo de La Roque.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos padeciendo a un presidente sin poder.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que también le pegó durísimo a **Alberto Fernández** fue **Axel Kicillof**, dio un discurso para el canal de las madres, las madres tienen un canal.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo: al que no le interese pelearse con nadie que sepa que no lo necesitamos.",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al que no le interesa pelearse con nadie que sepa que no lo necesitamos.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo riesgo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo riesgo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se dan cuenta que el presidente tiene la manzana rodeada por todos ellos?",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque encima, viste que le decía, no, el gordo que juega a la play, qué sello.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le decían que era un vago que jugaba, ¿te acordás?",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le da una tuba.",
+      "score": 0.865,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le da una tumba.",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, si no era por Clarín, Néstor no ganaba.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Néstor no lo conocían ni el loro.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y también, si no fuera por Néstor, Clarín se perdía muchos negocios.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Máximo riesgo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo no mide nada, pero tiene un apellido que pesa.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si Cristina quiere, Máximo es candidato.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que atendió a Máximo fue **Luis D'Elía**, que no es santo de mi devoción, pero dijo algo bastante lógico.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Ricardo nunca le dieron los espacios en la UCR por ser hijo de...",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "que le damos a **Máximo** en el Frente de Todos.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué mérito tiene **Máximo** para que le den todo ese lugar y encima le paguen la marchita con la nuestra?",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De esos que brindaron el día que mataron a Aramburu.",
+      "score": 0.735,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A usted le parece bien tener odio, Visceral?",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo decía el 151.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evita decía que hay que fusilar a Menéndez, militares golpistas, derrotados en la Plaza de Mayo, para que nadie más se atreva a eso.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina se cae a pedazos gracias a ustedes.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le iba a hablar a esa mujer que la fue a encarar.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensar que yo le estuve miedo.",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imaginate cómo estamos que yo le tenía miedo a esa gente.",
+      "score": 0.353,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina está tan confundida que un agricultor en una 4x4, un oligarca, pero un sindicalista con un auto importado y guardaespaldas, es un luchador social.",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Descubrió una bandera de la agrupación de **Teresa Rodríguez**, que fue la misma que le tiró las piedras en el despacho a **Cristina**.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿De esos los que tiraron?",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El movimiento **Teresa Rodríguez** es el que le tiró las piedras en las ventanas del Senado del otro día.",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es raro, salvo que haya estado todo armado.",
+      "score": 0.395,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Máximo riesgo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero tengo unas convicciones y si me ponen esos sobres tengo otras porque no queda otra, no me jodan.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 65
+  },
+  "etiqueta_original": "neutral"
+}

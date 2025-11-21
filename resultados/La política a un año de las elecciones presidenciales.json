@@ -1,0 +1,133 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Mi perro está lamiéndose la herida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El cruel no va a ganar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La rabia está por aflorar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nadie está tan limpio, pero esto huele mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acuesta el dolor de tanta tensión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El pico de piel se guardó bajo el colchón.",
+      "entidades_detectadas": [
+        "pico de piel"
+      ]
+    },
+    {
+      "frase": "El problema es ser un \"yo\" más en la emoción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"No, claro, yo estoy entendiendo a los actores y también entiendo al presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Efectivamente, en esa línea que vos planteás, el presidente necesita conservar algún lugar desde donde discutir esa oferta electoral, quiere discutirla.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el presidente tiene, puede utilizar un término que parece duro, pero es un término muy politológico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se llama potencial de chantaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El potencial de chantaje, habitualmente, se designa a eso a las partes minoritarias de una coalición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando esa parte minoritaria es minoritaria, pero es determinante para poder afectar las posibilidades del conjunto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, yo creo que Alberto todavía tiene potencial de chantaje para querer pretender discutir también los espacios de las candidaturas del año que viene.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "No creo que en su fuero íntimo él esté convencido de que pueda ser candidato nuevamente, pero en todo caso, el sostenimiento de su candidatura o su expectativa de candidatura me parece que es una estrategia de negociación para ver si puede conservar un lugar de poder, para negociar espacio para sus propios dirigentes, de su espacio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A quien él representa, hay actores importantes, hay organizaciones sociales que están incolumnadas detrás del liderazgo del presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay todo un conjunto de dirigentes que van a querer tener espacios en las candidaturas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, detrás de todo eso se explica la candidatura de Alberto Fernández\".",
+      "entidades_detectadas": [
+        "Bueno",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "\"Bien, Lucas Romero, politólogo, director de Sinopsis Consultores, gracias por este contacto con Modo Fonteviquia\".",
+      "entidades_detectadas": [
+        "Modo Fonteviquia",
+        "Lucas Romero"
+      ]
+    },
+    {
+      "frase": "\"No, por favor, un beso a todos, gracias a ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que tengas una buena mañana\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Son las 8 de la mañana, 31 minutos, así arrancamos, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Teníamos previsto hablar de quiénes son los posibles presidenciables, pero el video de Cristina vino a romper con esto una vez más, acusando en este caso a la oposición y puntualmente al diputado Milman por lo que sucedió frente a las puertas de su casa, poniéndolo casi en el lugar del autor intelectual del hecho y anunciando que va a recusar a la jueza Capuchetti, que es la que lleva adelante esta causa\".",
+      "entidades_detectadas": [
+        "Milman",
+        "Cristina",
+        "Capuchetti"
+      ]
+    },
+    {
+      "frase": "Nosotros seguimos así.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Alberto Fernández",
+    "Modo Fonteviquia",
+    "El pico de piel",
+    "Capuchetti",
+    "Cristina",
+    "Efectivamente",
+    "Bueno",
+    "Alberto",
+    "Milman",
+    "Lucas Romero"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Argentina llegará a los 80 días de aislamiento obligatorio el 8 de junio.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Argentina superará a Wuhan y a Nueva York en duración de la cuarentena.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, Cristina Fernández de Kirchner trabaja para evitar que avance su juicio oral por corrupción, mientras que el Senado y la Cámara de Diputados sí pueden transmitir sus sesiones.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "senado",
+        "kirchner",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "¿Qué opinión tiene Cristina Fernández de Kirchner sobre la cuarentena?",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "El presidente Alberto Fernández dijo que la cuarentena era un sacrificio.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "¿Cuándo el gobierno permitirá una desescalada como en Italia o España?",
+      "entidades_detectadas": [
+        "italia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 59,
+      "derecha": 31
+    },
+    "score_promedio": 0.362,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es fácil pensar que ese estado de desazón respecto de la vida pública, de las prestaciones de la dirigencia política y del Estado, estuvo asociado a esa gran crisis, a ese gran trauma, rarísimo, de una sociedad encerrada frente al espectro, a la posibilidad de la enfermedad y hasta de la muerte.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, a partir de ahí, un período de recuperación, un proceso de recuperación que coincide con la llegada de Néstor Kirchner al poder y la aparición de un nuevo liderazgo, el de Kirchner, que venía de un proceso electoral muy endeble, de una situación, la de él, de extraordinaria fragilidad, como todos recordamos, con apenas el 22% de los votos.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, estábamos en un momento de gran crisis económica, un largo período de desencuentro entre la gente y su dirigencia y la aparición de un presidente débil, cuyo mandato comienza cuando empieza un período de recuperación.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, a partir de ahí, se constituye un nuevo liderazgo, y a partir de ahí, se constituye un nuevo ciclo de poder, aparece un nuevo centro de poder: Kirchner, Néstor Kirchner.",
+      "score": 0.181,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre que uno se hace esta pregunta, le podríamos llevar el tema a Camila Perochena después; siempre que uno intenta comparar en historia, se entusiasma con las similitudes y al minuto aparecen las diferencias.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero es probable, o por lo menos tenemos que plantearnos la pregunta, de si el liderazgo de Milei no está insinuando, y esta es la pregunta de ahora hasta el año que viene con las elecciones, la aparición de un nuevo ciclo político, si no se está constituyendo alrededor de Javier Milei un nuevo centro de poder.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner: 2,49 el promedio del mandato.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense, la gestión de Kirchner es esta recuperación impresionante respecto de presidencias débiles anteriores.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo dos presidencias muy débiles y aquí hay una recuperación que deja a Kirchner en una situación muy competitiva.",
+      "score": 0.426,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner: 1,71 el promedio, muy por debajo de su esposo, 1,83.",
+      "score": 0.316,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri recupera de nuevo, 2,27.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, una especie de De la Rúa, 1,69 el promedio de su mandato, parecido al primer mandato de Cristina Kirchner con 1,71.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El promedio de lo que lleva hasta ahora Milei de mandato con esta gran recuperación es parecido y supera al de Néstor Kirchner con 2,49 y, por ahora, viene siendo, claro que en un período mucho más corto para medir, el más ventajoso.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la llegada de Milei y acá está Milei flotando con una caída que se agudizó en el mes de julio y ahora una recuperación.",
+      "score": 0.245,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que mirar la parte de la barra, la parte verde de la barra, que es la aceptación, la aprobación de cada presidente desde enero hasta noviembre de su primer año de gobierno, en este caso, de Cristina le está tomando el segundo mandato en 2012, ella se renueva en diciembre del 2011.",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri enero del 16 a noviembre del 16, Alberto Fernández enero del 2020 a noviembre del 2020 y Milei enero de este año a noviembre de este año.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina en ese primer año, de enero a noviembre, cae la aceptación de 64 a 47 por ciento.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, estamos hablando del año de la pandemia, que le rindió muchísimo en términos de liderazgo, cae igual, de 67 a 63, 4 puntos, la aceptación.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina con 64, Macri con 67, Alberto Fernández con 67, Milei con 45, tiene una base más pequeña, pero la evolución es positiva.",
+      "score": 0.282,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense las caídas, Cristina 17 puntos, Macri 10 puntos, Alberto 4 puntos, Milei sube 3 puntos.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es difícil de identificar una razón, es muy difícil, pero si uno mira el comportamiento de las variables que determinan la adhesión o el rechazo, de la sociedad de un gobierno, que determinan en el fondo sería el voto, hay muchísimos factores que influyen en cómo vota la gente, pero hay uno que, en general, es el que mejor explica el comportamiento de la sociedad frente a un gobierno, frente a un líder, y es el comportamiento del salario real, o el comportamiento del poder adquisitivo, o para ponerlo en otros términos, la relación entre los salarios nominales y el comportamiento de la inflación.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, este es un tema que Diego Groppo, la recesión en realidad nos desvía, es qué piensa la gente respecto de la recesión, si usted cree que el gobierno podrá sacar al país de la recesión, y si la recesión se terminó o no.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente no le cree todavía que salió de la recesión, pero me interesa el gráfico que sigue.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto todavía no sabemos respecto de la recesión, la gente no cree que hayamos salido de la recesión, muchos economistas tampoco, muchos empresarios tampoco, miran por sectores, en algunos sectores y otros sectores cruciales como la construcción está en planchado, pero daría la impresión de que ese problema todavía no se politizó, todavía no influye en el rechazo al presidente o en la adhesión al presidente.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, esa mejoría tiene que ver con el gran problema de la Argentina de los últimos, empieza a haber inflación en 2005, casi 20 años.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el 2008, Cristina Kirchner, con Alberto Fernández de Jefe de Gabinete, ya interviene el INDEC.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso probablemente explica la mejoría en el índice de confianza y explica que, a diferencia de todos sus predecesores, desde Néstor Kirchner y adelante, en el primer año, en vez de caer sube, mejora su imagen.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se engancha con otros temas, como vamos a ver después, y como nos va a explicar después Ana Parra Aguirre cuando habla de la batalla cultural, que le ayuda también a la política internacional.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero esto, que es crucial lo que acabamos de ver, que tiene que ver con el empobrecimiento de franjas muy importantes de argentinos que no llegan a cubrir las necesidades básicas porque los precios se dispararon y su ingreso quedó detenido, esto, en la medida en que se revierte, implica un capital político que nos hace preguntar, todavía no afirmar, si, en la descomposición política que caracteriza a la Argentina del 2020 en adelante, con una gran reestructuración de los partidos tradicionales que pierden espacio de representación, si no aparece alrededor de Milei un centro de nuevo poder y si no empieza un nuevo ciclo político, similar al que veíamos con Néstor Kirchner.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque las cosas que consumimos, en general, están hechas de dólares, entonces es una forma de mejorar el poder adquisitivo atrasando el tipo de cambio y generando un problema que muchos o algunos economistas, no muchos, empiezan a ver, que es un problema de que la economía argentina probablemente no tenga la cantidad de dólares que necesita para mantener los niveles de actividad y de consumo que se presume va a haber si hay una recuperación.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Furiase dice en esa conferencia: “Los momentos en que, en la Argentina, hay confianza, el dólar puede seguir apreciándose y en esos momentos en que ha habido picos de confianza, el dólar vale lo que hoy equivaldría a 600 pesos”.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le contesta Rapetti mostrando este gráfico.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le contesta Rapetti, volvamos a la anterior, primero con una corrección.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ni siquiera en el momento de máximo atraso cambiario con Martínez de Hoz el tipo de cambio llegó a 600 pesos si fuera el de hoy.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este dólar barato que Furiase lo quiere más barato, lo quiere un 30% más barato, se le suman otras condiciones de la política económica actual para abrir una enorme discusión, que es la discusión que viene, que está instalada ya, que empezó la semana pasada.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, en segundo lugar, los que dicen: “Bueno, con estas plataformas de comercio electrónico, mi comercio está en crisis.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un tuit de la semana pasada en la plataforma X de la UIA planteando esta cuestión y le contesta José Luis Espert, que no es cualquier dirigente político.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Espert es el presidente de la Comisión de Presupuesto y Hacienda de la Cámara de Diputados, es decir, es la voz económica del Poder Ejecutivo, es la voz económica de Javier Milei en el Congreso.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, José Luis Espert le dice a los de la UIA: “Cara dura, siempre lo mismo, siempre le falta algo para competir, pero cara de piedra para vendernos cosas caras y de mala calidad durante décadas y décadas de miseria espantosa, le sobra”.",
+      "score": 0.766,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y termina con, obviamente, un exabrupto: “Váyanse a cagar”, le dice a los empresarios de la UIA.",
+      "score": 0.368,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y entre los invitados está uno de los adalides, vamos a usar la palabra de Milei, colosos de la regulación y la apertura y la competencia de mercado, Federico Sturzenegger, a quien le prepara la llegada a la reunión de la UIA, Espert, con este insulto.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mañana va a estar lindo ver cómo se defiende Sturzenegger de los reproches que seguramente le harán por este exabrupto de Espert.",
+      "score": 0.674,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después va a ser muy interesante cómo se discute esta cuestión de la apertura económica que lleva adelante el gobierno con figuras importantes, uno es Sturzenegger, el otro es Pablo Lavigne, que es el encargado de comercio, que es también un liberal aperturista.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, quiere decir que hay zonas de la realidad, aspectos de la economía, donde Milei cumple con su palabra, otros no.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, todo esto para el gobierno de Milei es anecdótico porque es un gobierno que, con derecho por esos números que vimos, está instalado en la euforia, está instalado en la autocelebración.",
+      "score": 0.51,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy difícil, como todos sabemos, plantearle al gobierno y, sobre todo, a Milei algún tipo de sombra de duda respecto de la marcha triunfal que él preside hacia el éxito.",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con números de opinión pública que le dan la razón, con números de inflación que le dan la razón, con números de riesgo país que le dan la razón y con un dólar que se comporta disciplinadamente, es cierto, en un mercado intervenido.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un gobierno que va a Brasil a plantear una agenda que está relacionada con lo que se denomina batalla cultural.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que el gobierno fue, y Milei fue a Brasil, al ordenador del G20, casi con la idea de no firmar el documento, que firman de consenso todos los países que intervienen, con planteos disidentes en términos de cambio climático, políticas de género, la agenda 2030, que es la agenda que aprobó Naciones Unidas en el 2015 para todo lo que tiene que ver con sustentabilidad ambiental, social, etcétera, de las políticas económicas o de las políticas en general de los países, en su momento se escuchó inclusive la posibilidad de que expulsen a la Argentina del G20, porque, al no firmar un país, por la lógica de ese club, impide que se emita el documento.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, el gobierno frenó ahí, obviamente, Milei no quiere la noticia de que fue expulsada la Argentina del G20 a donde entró por Menem, por las políticas de los 90, y lo que hizo fue lo que se hace en estos casos, una larga declaración diciendo: “Nosotros firmamos este documento que firman todos, pero con estas disidencias en estas materias”.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen que influyó mucho Emmanuel Macron, que, como sabemos, estuvo antes con el presidente en decirle: “Mirá, no rompas todo”.",
+      "score": 0.412,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aún así, hubo reproches de Canadá, hubo reproches de Australia en la reunión respecto de la posición de la Argentina, y hubo un reproche muy expreso, muy explícito, sin nombrar a Milei, de Gabriel Boric, el presidente de Chile, reivindicando las banderas que Milei cuestionaba.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto le generó a Milei un estado de malestar, de irritación, que lo llevó a prohibirle al canciller Gerardo Huerte, viajar a la celebración que se realizó hoy en el Vaticano, por los 40 años del acuerdo entre Argentina y Chile por el conflicto del Beagle, que, como todos sabemos, se realizó por una intervención de la Santa Sede en aquel momento de Juan Pablo II, que designó al cardenal Samoré como mediador.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, hoy estuvo Chile representada por su canciller, por el canciller  Alberto van Klaveren, pero la Argentina estuvo representada ni siquiera por el vicecanciller, sino por el embajador en Roma, que es el embajador Luis Beltramino.",
+      "score": 0.581,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es otra manifestación del conflicto de Milei con Boric, a quien en su momento llamó “empobrecedor serial”, a pesar de que Chile tuvo un gesto con la Argentina durante el gobierno de Milei, igual que Ecuador, igual que Brasil, igual que Colombia, que fue presentarse ante el juzgado de la jueza Loretta Preska como amicus curiae para defender a la Argentina de la demanda del fondo Borfor, que es el fondo detrás del cual están los accionistas por la estatización de YPF en tiempos de Cristina Kirchner y Axel Kicillof.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esta euforia que el gobierno lleva al plano internacional, que lo asocia temáticamente con el gobierno de Trump, en realidad, Milei parecía un adelantado del gobierno de Trump en la reunión del G-20, Estados Unidos estaba obviamente representado por Joe Biden, es una euforia que también se traduce en las relaciones con los demás actores políticos.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner produjo un gesto este fin de semana, la semana pasada, alguien que le responde mucho a ella, que es la senadora por Catamarca, Lucía Corpacci, firmó a favor el pliego, el dictamen que avala el pliego de Ariel Lijo para la corte.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como todos sabemos, hay una gran controversia por los cuestionamientos morales que tiene el juez Lijo de parte de cantidad de instituciones y líderes de opinión sensibilizados por la calidad de institución en la Argentina.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Cristina Kirchner hasta ahora no se pronunciaba, todos entendieron que se pronunció con el voto de Corpacci y que el voto de Corpacci, que está en ese dictamen, que está en la comisión de acuerdos, es un voto que estaría anticipando que Lijo tiene la adhesión suficiente en el recinto como para llegar a los dos tercios que se necesitan para ser juez de la corte.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Curioso lo de Cristina, porque, en realidad, Cristina estaría votando por el candidato de una de las figuras que, en materia institucional, más detesta, que es Ricardo Lorenzetti, que es el verdadero padrino del juez Lijo.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cisuras de Cristina Kirchner, ciertas confusiones.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zamora firmó los pactos de mayo, ultraliberales, diría Cristina, neoliberales del presidente Milei, y es el que le permitió a Milei defender la regulación vigente de los decretos de urgencia que quería afectar el Congreso, haciendo ausentar a dos diputados de Santiago, sobre todo a uno de ellos, que es José Gómez, un sindicalista, que estaba en el festejo de Cristina.",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, muchos se preguntan si este entusiasmo de Cristina por Zamora no es un mensaje a Axel Kicillof, si Zamora no será un candidato que Cristina tiene en su libreta pensando en el candidato a presidente del peronismo para el 2027.",
+      "score": 0.437,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pero ahí está Cristina apoyándolo a Zamora, y tal vez Zamora terminando la de convencer de que conviene apoyar a Lijo.",
+      "score": 0.896,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es lo único que sorprende a esta posición de Cristina Kirchner, lo que más sorprende es otra coincidencia, que ya no es con Lorenzetti, es con Patricia Bullrich.",
+      "score": 0.394,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha producido lo que se creía imposible, que Patricia Bullrich y Cristina Kirchner coincidan, nada menos que en la identidad de alguien con la relevancia institucional de un juez de la corte, Ariel Lijo.",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, coinciden ahora Cristina Kirchner y Patricia Bullrich.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo pone a Milei en un aprieto, Cristina, por eso yo el mío o el que ahora empieza a ser mío, Lijo, te lo voto.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá aparece una alternativa, nombrar a los dos por decreto, Guillermo Francos, que es hábil declarante, declara siempre con alguna ambigüedad, pero va corriendo la marca, va corriendo la frontera de las posiciones del gobierno, se está analizando si nombrar a los dos jueces por decreto como los nombró Macri, a Horacio Rosatti, a Carlos Rosenkrantz, que después fueron avalados por el Senado por decreto.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay algunos indicios de que podría ser cierto, no lo sabemos.",
+      "score": 0.295,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos se hacen esta pregunta, hay todo un debate sobre si es constitucional o no designar jueces por decreto, porque la Constitución dice “empleos”.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están los que dicen que Rosatti no le tomaría el juramento si vienen así.",
+      "score": 0.702,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la verdad es que la Corte es la que decide si se toma o no juramento, no el presidente de la Corte.",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debería haber un fallo o una acordada de los miembros de la Corte en su totalidad, también de Lorenzetti, para ver si el presidente le toma o no juramento a esos jueces nombrados por decreto.",
+      "score": 0.301,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay como 150 vacantes, ¿que el gobierno podría enviar al Congreso en extraordinarias?",
+      "score": 0.369,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si manda extraordinarias para que le den el acuerdo del Senado a esa cantidad impresionante de jueces nacionales y federales, ahí podríamos tener indicio de si Milei y Cristina se están entendiendo en las negociaciones que se van adelante.",
+      "score": 0.225,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner puede decir que si los nombras por decreto, te los rechazo porque yo te estoy diciendo que, ya para Lijo, no necesitas decretos si tenés los votos.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, el gobierno está analizando y si los nombramos por decreto, después el Senado puede votar y rechazarlos.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre todo si siguiera el antecedente de Rosenkrantz y Rosatti, donde, por ejemplo, alguien tan cercana a Cristina Kirchner como la senadora Anabel Fernández Sagasti se rasgó las vestiduras porque Macri nombró a los jueces por decreto en aquel momento.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decían, y esto de que el Senado ahora los vote y los apruebe, no subsana la inconstitucionalidad y el error de haberlos nombrado por decreto.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el kirchnerismo le dice al gobierno: “Poné a Lijo y te regalamos el procurador siempre que no pongas a alguien que sea aberrante para nosotros”.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero cambialo a García-Mansilla y Milei sigue diciendo no, en su euforia.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué le sirve al gobierno?",
+      "score": 0.673,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La primera es que probablemente, en la estrategia electoral del gobierno, estén pensando en que Cristina sea candidata para polarizar contra Cristina.",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viejos sueños también de Mauricio Macri en su momento, peligrosísimo, porque un día te va mal y el que estaba en 32 pasa a 45 y ganó Cristina.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le sirve la PASO?",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, en general, tiene la lapicera del presidente para designar a los candidatos.",
+      "score": 0.587,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Axel Kicillof está pensando en adelantar la elección provincial, garantizarse la legislatura, las intendencias y los consejos deliberantes.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kicillof contra Cristina.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo novedoso, después vamos a hablar con Emmanuel Ferrario, que es un dirigente importante del PRO en la capital, es que Jorge Macri, el jefe de gobierno, está pensando lo mismo.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 90
+  },
+  "etiqueta_original": "neutral"
+}

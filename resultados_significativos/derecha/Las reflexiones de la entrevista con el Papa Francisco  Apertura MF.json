@@ -1,0 +1,121 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 7,
+      "derecha": 14
+    },
+    "score_promedio": 0.543,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Francisco es la nueva luz, un faro que alumbra todo.",
+      "score": 0.879,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eligió su nombre en honor a San Francisco de Asís.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el 266° papa de la Iglesia Católica, y como tal, además, es el jefe de Estado y el octavo soberano de la Ciudad del Vaticano.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El papa Francisco es conocido por su humildad, por su adhesión a la opción preferencial por los pobres, y su compromiso de diálogo con personas de diferentes orígenes y credos.",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El papa Francisco nació en Buenos Aires en 1936, en el barrio porteño de Flores.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el mayor de cinco hijos del matrimonio formado por Mario José Bergoglio, contador público y empleado de ferrocarril, quien nació en Porta Comaro, Italia, y tuvo que emigrar a Argentina debido al avance del fascismo, y Regina María Cívori, ama de casa, nacida en Buenos Aires, hija también de inmigrantes provenientes de Piamonte y Génova.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En 1957, el hoy papa Francisco decidió convertirse en sacerdote.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando en Argentina se discutió el matrimonio de personas del mismo sexo, la conferencia explicó algo de una gran discusión.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero me fue mal en la votación interna de la conferencia y por eso salió la ley, porque no le dimos una traductora a los gobiernos.",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Francia hacía años que estaba ahí, y por eso es una manera de darle una cierta cabida social a las uniones del mismo sexo.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y de esos 30, casi 10 tienen la pena de muerte.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esos sí siguen con la modalidad antigua de tapar.",
+      "score": 0.574,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se podría decir antipironista\".",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"¿Cómo se podría decir antipironista?",
+      "score": 0.576,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso me acuerdo cuando volvieron de Paz a Francia los cantitos que habían aprendido ahí.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le dice, quiero aclarar una cosa.",
+      "score": 0.579,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí había una fusión, porque De Carlo le dio la redacción de la doctrina social de la Iglesia que Perón las unió.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Mediados de 2022, debido a sus problemas de rodilla, hizo referencia a la posibilidad de que usted algún día pudiera decidir alejarse de sus funciones de papa.",
+      "score": 0.346,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, porque llegaba a la edad que se fue en el 25, que cada vez empieza a ser más normal, que la persona pase unos 90 años, pero uno tiene que saber cuando ya no le da la fuerza, cuando empieza a chochear, cuando se olvida el nombre\".",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Dicen que usted tiene una memoria muy importante\".",
+      "score": 0.545,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Padre, cuando usted era arzobispo de Buenos Aires, fue crítico de los gobiernos de Néstor y Cristina Kirchner, quienes también respondieron a sus críticas\".",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 21
+  },
+  "etiqueta_original": "neutral"
+}

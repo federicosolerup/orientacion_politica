@@ -1,0 +1,39 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Ayer, anteayer y el mes pasado, se nos sometió a la misma farsa, mientras el problema de fondo empeora.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "¿Alguien puede explicar si el presidente lo mantiene por conveniencia política o porque es un incondicional de Cristina Fernández de Kirchner?",
+      "entidades_detectadas": [
+        "cristina",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Para eso está Máximo Kirchner, quien pronosticó que la inflación de marzo será muy alta.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Argentina acaba de firmar un acuerdo con el Fondo Monetario Internacional, y Feletti declaró que es \"letra muerta\".",
+      "entidades_detectadas": [
+        "argentina",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Hay dos gobiernos enfrentados dentro del mismo, y Feletti responde a Cristina Fernández de Kirchner, dejando claro que intentarán desmantelar lo acordado con el FMI.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

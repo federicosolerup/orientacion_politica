@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El ministro de Economía, Sergio Massa, anunció que casi siete millones y medio de jubilados y pensionados recibirán este refuerzo en septiembre, octubre y noviembre.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "La devaluación, según Massa, respondió a las presiones del Fondo Monetario Internacional (FMI).",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Este contexto económico está fuertemente condicionado por la deuda contraída con el FMI durante el gobierno de Mauricio Macri.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Si bien la renegociación de la deuda es un tema debatible, la situación actual requiere entender la dependencia de Argentina del FMI y la necesidad de los desembolsos.",
+      "entidades_detectadas": [
+        "argentina",
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Es importante recordar que en 2018, Mauricio Macri afirmó que el préstamo del FMI no tenía condiciones, a diferencia de las propuestas de ajuste más severas, como las planteadas por Javier Milei.",
+      "entidades_detectadas": [
+        "javier",
+        "macri",
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Milei, tras los anuncios de Massa en Twitter, criticó la inyección de dinero en los sectores más vulnerables, tildándola de \"Keynesianismo modelo fuerte\" que, según él, siempre falla.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Estas medidas económicas parecen estar dirigidas a mejorar la imagen del candidato Sergio Massa, especialmente después de sus viajes a Estados Unidos y las negociaciones con el FMI.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Se ofrecerán créditos a trabajadores endeudados a través de ANSES con tasas reducidas (la mitad de las tasas de mercado).",
+      "entidades_detectadas": [
+        "anses"
+      ]
+    }
+  ]
+}

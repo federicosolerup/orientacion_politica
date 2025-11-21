@@ -1,0 +1,106 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 2
+    },
+    "score_promedio": 0.115,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es un rock en la misma época en que anunciaba Cristina Fernández de Kirchner la alianza que tenía con los sectores del peronismo que la habían criticado y colocaba a Alberto Fernández al frente de la fórmula que finalmente ganó las elecciones ese mismo año.",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto tiene que ver con la idea de lo que está haciendo Sergio Massa, si es que Massa está produciendo un ajuste, que ese ajuste va a hacer que, en realidad, las posibilidades electorales del peronismo o de la alianza de gobierno, crezcan o decrezcan, que es lo que suponen algunos sectores.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto tiene que ver con la necesidad de realizar grandes inversiones en infraestructura y bienes de capital, o sea, primero viene la inversión, y luego viene la generación de empleo y el aumento de la productividad.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, esta es una teoría muy discutida, es la famosa teoría del derrame, y hay discusiones respecto a si esto es económicamente así, y si así fuera, el Estado tiene que hacer algo para equilibrar, para que ese crecimiento inicial no se concentre en los sectores del capital.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así se mantuvo en los años 2016 y 2017, hasta que Macri vuelve a ganar las elecciones de medio término, y ahí comienza un proceso de caída del sector del trabajo, y un proceso de crecimiento del sector del capital.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, hay una caída casi de 8 puntos sobre el total del producto bruto y la cita que fue, en alguna medida, al sector del trabajo y en parte a sectores independientes, es decir, claramente la distribución de la renta en la Argentina empeoró.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es si nos estamos encontrando frente a una situación como la que vivimos en el año 2002, que luego de una destrucción del valor de los activos, se produce un crecimiento que va más allá de las políticas económicas que puedan generar los gobiernos.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estará sucediendo en el mundo en los últimos años un cambio de valor de aquellos elementos que la Argentina exporta, y de los potenciales que la Argentina tiene que le permitan convertir lo que podríamos decir, recursos en riqueza, recursos en riqueza.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que una montaña se convierta en riqueza, tiene que haber la posibilidad de poder explotar esos recursos de manera que sean económicamente viables y generen un beneficio en esa explotación.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Convertir una montaña en riqueza requiere un esfuerzo que, en determinado momento, no depende solamente de la capacidad y el deseo de los habitantes de ese país, sino de los términos de intercambio internacionales, de que esa riqueza o esos recursos sean valorados a un costo mayor que el costo de explotarlos.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero bueno, esta es una de las hipótesis de que, en realidad, el aumento de la desigualdad en la Argentina es una señal de que se está invirtiendo más en capital, y que pronto la Argentina va a despegar.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar tres audios de Massa anunciando sus medidas, que de alguna manera son un prólogo.",
+      "score": 0.584,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo sufrimos en la Argentina y lo está sufriendo el mundo.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cuanto a los motores: inversión, producción, exportaciones y defensa del mercado interno.”\n\nCuando Massa habla de los principios, el último principio, el de desarrollo con inclusión, sería el principio anti-Kuznets.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno tiene que ajustarse el cinturón en determinado momento para luego poder crecer, y por otro lado, la teoría de que con inclusión hay que redistribuir en el mismo momento que se crece.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Vengo a trabajar de una manera muy comprometida para tratar de ayudar a que a la Argentina le vaya bien y a los argentinos mejor, a que podamos transformar nuestros recursos en riqueza.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina es un país con recursos en vías de desarrollo, no un país rico.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que resolver esta doble cara de la Argentina que crece al 6% anual y genera empleo, pero que tiene una enorme falta de confianza en su moneda, desorden del gasto, brechas de inversión pública, y una enorme injusticia en la distribución del ingreso.”\n\nBueno, cinturón abrochado, cinturón desabrochado, y vamos a cerrar con la canción de Cristina, porque obviamente, en todo este proceso, el efecto Cristina judicial, podemos decir que tiene un examen abierto respecto a si beneficia a Massa, en que puede ir haciendo las correcciones de la economía como por debajo del radar, sin que nadie vaya a protestar, o por el contrario, destruye la confianza en la coalición política y su unión en este momento.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 18
+  },
+  "etiqueta_original": "neutral"
+}

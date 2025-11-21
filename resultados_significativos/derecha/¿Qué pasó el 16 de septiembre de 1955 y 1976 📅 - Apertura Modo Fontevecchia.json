@@ -1,0 +1,86 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 6,
+      "derecha": 8
+    },
+    "score_promedio": 0.529,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Como presidente de la República, yo pido al pueblo que me escuche en lo que voy a decirle.",
+      "score": 0.702,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le pido a los compañeros que no se despeguen.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le pido a los compañeros trabajadores que refrenen su propia ira, que no cometan ningún desmán.",
+      "score": 0.722,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No nos perdonaríamos nosotros si a la infamia de nuestros enemigos le agregáramos nuestra propia infamia.",
+      "score": 0.895,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, luego tenemos que finalmente, más allá de los bombardeos, el golpe triunfa, y acá tenemos un mensaje de radio sobre la llegada de **Juan Domingo Perón** a Buenos Aires.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La patria es una sola, y uno solo es el pueblo.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuánto ha progresado nuestro nivel de tolerancia y de otredad, aunque nos quejemos de la grieta actual, y compararlo con esto que se decía en aquella época nos tendría que hacer poner contentos.",
+      "score": 0.247,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vayamos ahora a otro referente de esa época, **Rogelio Frigerio**:\n\n\"Con intensa emoción he observado la obra que realizan sus hechos argentinos en pro de la pacificación de nuestro pueblo.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La conmoción que ha vivido la República ha sido tan dramática y tan honda, que no habrá un solo espíritu que tenga sentimiento de patria que no ponga todas sus fuerzas al servicio de la idea de fraternidad, de paz y de armonía entre todos los argentinos.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El porvenir está despejado, y la República Argentina va a volver a ser la patria gloriosa para todos los hombres del mundo que quieran contribuir a su grandeza y a su prosperidad\".",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo que le da origen a la Noche de los Lápices es, primero, el golpe militar del 24 de marzo de 1976.",
+      "score": 0.864,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y más allá de que fue malinterpretada la idea de la casa está en orden, porque luego vino dos leyes que relativizaron la responsabilidad en los subalternos...",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vale la pena reflexionar sobre aquella Argentina que sentimos que era mejor, que en algunos aspectos, sin ninguna duda, del punto de vista económico, la pobreza, los indicadores sociales, eran mejor, pero el huevo de la serpiente, en toda esta violencia, estaba construyendo este pasado peor.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar nuevamente con \"Cantata de los Puentes Amarillos\", **Luis Alberto Spinetta**:\n\nNo todo pasado fue mejor...",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 14
+  },
+  "etiqueta_original": "neutral"
+}

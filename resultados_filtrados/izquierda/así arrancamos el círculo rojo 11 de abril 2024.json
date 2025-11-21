@@ -1,0 +1,32 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Como siempre hay un cúmulo de noticias en Argentina, el presidente Alberto Fernández está fuera del país.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Este paro probablemente contribuyó a la decisión de la CGT (Confederación General del Trabajo) de convocar a un segundo paro general contra el gobierno de Mauricio Macri para el 9 de mayo.",
+      "entidades_detectadas": [
+        "macri",
+        "cgt"
+      ]
+    },
+    {
+      "frase": "La reunión previa entre la CGT y el gobierno, que parecía acercar posturas, probablemente abordaba temas como una reforma laboral, que algunos gremios de la CGT aceptarían.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Otros conflictos laborales simultáneos incluyen una importante marcha en Villa Constitución (asumo que se refiere a la ciudad de Villa Constitución, Santa Fe),  despidos en PepsiCo de Mar del Plata, asambleas y permanencia en la fábrica, marchas de docentes en Mendoza, movilizaciones estudiantiles en varias universidades (UBA, Mar del Plata, Neuquén, Mendoza), y una movilización mañana de los trabajadores de GPS.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    }
+  ]
+}

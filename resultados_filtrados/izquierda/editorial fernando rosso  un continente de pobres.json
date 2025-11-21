@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Como Argentina parece estar siempre al borde del colapso, cada medida se percibe como la última posible.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Hoy se conoció la alarmante cifra de pobreza informada por el INDEC para el segundo semestre de 2022: el 39,2% de la población se encuentra por debajo de la línea de pobreza, y el 8,1% es indigente.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "El punto de partida es la deuda con el Fondo Monetario Internacional (FMI), un tema ampliamente discutido.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "A las medidas mencionadas, se suman otras concesiones, como fuertes subvenciones estatales a la producción hidrocarburífera (no convencional en Vaca Muerta) y a megaproyectos mineros (litio),  acceso preferencial a divisas para cancelar deudas entre empresas privadas (facilitando la fuga de capitales), y la orden a organismos públicos de desprenderse de títulos en dólares a bajo precio para adquirir títulos en pesos del Fondo de Garantía de Sustentabilidad,  una medida para supuestamente bajar la brecha cambiaria.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "En resumen, todo esto implica una transferencia de recursos del Estado (financiado con impuestos) hacia grupos económicos concentrados.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "No hay un Estado ausente, sino un Estado presente con una lógica neoliberal, que realiza concesiones para impulsar la economía, con las consecuencias que vemos hoy: un agravamiento de la crisis y un aumento de la pobreza.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

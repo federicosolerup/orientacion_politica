@@ -1,0 +1,56 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 6,
+      "derecha": 2
+    },
+    "score_promedio": 0.386,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Aquí está el texto corregido:\n\nLo que ocurrió hoy en Brasil es lo siguiente: el juez que investiga los actos, y que a su vez es investigado por el presidente en ejercicio de sus funciones, allanó el Congreso con 40 policías y se dirigió al despacho del senador Aécio Neves.",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Brasil tiene alguna posibilidad de mejorar y avanzar hacia la decencia, es gracias a este accionar judicial.",
+      "score": 0.144,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Imaginen ustedes, un juez en Argentina que hubiera allanado el despacho de algún senador en el Congreso.",
+      "score": 0.469,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podría haber hecho esto.",
+      "score": 0.564,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podría haber actuado así, por más que hubiera querido.",
+      "score": 0.473,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver si esa oportunidad, como se dice, se concreta o no, pero le da a la justicia la posibilidad de combatir la corrupción.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Usted cree que con una justicia así, Argentina puede combatir efectivamente la corrupción?",
+      "score": 0.248,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repito, no sé cómo le irá a Brasil, pero tiene la oportunidad de, como se dice, renovar toda una clase política en medio de una crisis.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 8
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,56 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "A las 18:32 horas, ¿recuerdan que Carlos Rosenkrantz dijo hace tiempo en una conferencia en una universidad chilena que detrás de cada derecho no hay un derecho gratuito?",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Además, ellos caracterizan la Argentina como si tuviera un solo partido populista: el peronismo, el cual discute precisamente estas cuestiones.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, cuando Carlos Rosenkrantz dice que su rol en la vida es combatir el populismo, en realidad está diciendo que su rol es combatir al peronismo en Argentina.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Cuando se habla de terrorismo de Estado y violaciones a los derechos humanos, es porque, al ser perseguido por el Estado, ¿a quién le reclamas protección?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La ley argentina establece que un juez no puede intervenir en causas de sus ex clientes.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, Roberto Boico, exabogado de Cristina Fernández de Kirchner, ganó un concurso, el presidente lo nombró juez en la Cámara Federal de Comodoro Py, y cada vez que llega una causa que involucra a Fernández de Kirchner, se excusa de intervenir.",
+      "entidades_detectadas": [
+        "cristina",
+        "presidente",
+        "fernández",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Se dice que el problema de Argentina es la anomia, que el peronismo no es institucionalista, que no cumple las reglas… pero la Corte Suprema no cumple una ley sencilla: los jueces no pueden intervenir en causas de sus ex clientes.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Esto ha sido silenciado por la prensa, especialmente por Grupo Clarín y Grupo América.",
+      "entidades_detectadas": [
+        "clarín"
+      ]
+    }
+  ]
+}

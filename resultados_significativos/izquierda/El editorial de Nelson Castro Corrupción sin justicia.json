@@ -1,0 +1,71 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 8,
+      "derecha": 3
+    },
+    "score_promedio": 0.327,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En conclusión, quiero referirme a un hecho que ocurrió en estas obras, relacionado con la carta que recibió el presidente de la República, Mauricio Macri, de un trabajador, quien le expresó: \"Te creí, pero creo que me fallaste\".",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le decía el trabajador?",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le decía: \"Te creí, pero veo que no llego a fin de mes, veo que me dijiste que íbamos a eliminar el mínimo no imponible y no es así, veo que los corruptos, como habíamos hablado, están libres por la calle\".",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente respondió, señalando que algunas de estas cuestiones son, por supuesto, atendibles.",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me inquietó un fragmento donde el presidente reconoce que es verdad que los precios no alcanzan, porque los comerciantes o empresarios lo que valen dos lo cobran cuatro.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero le digo al presidente, la respuesta da la impresión de que todo es culpa de otros.",
+      "score": 0.645,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el presidente está allí y todo lo que afecta a esta persona es culpa de otros y nada se puede hacer, el voto de la persona no tiene sentido.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso me quedó muy grabado de la respuesta del presidente de la República y me inquietó, porque hay situaciones actuales muy difíciles y algo el gobierno debe hacer para que el futuro mejor sea una realidad, porque no hay futuro mejor sin un presente mejor.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un deber del gobierno, porque el presidente prometió algo en su campaña.",
+      "score": 0.407,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el resultado es que, tras esas promesas, el presidente hoy no puede hacer nada sobre esas cosas, el ciudadano se preguntará: \"¿Y para qué lo voté?\".",
+      "score": 0.617,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es la reflexión que quiero transmitirle al presidente de la República en un momento difícil para mucha gente en la República Argentina, en esta compleja y dramática República Argentina que estamos viviendo día a día.",
+      "score": 0.223,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 11
+  },
+  "etiqueta_original": "neutral"
+}

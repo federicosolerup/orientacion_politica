@@ -1,0 +1,153 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hoy, una nota en Clarín de la colega  Natalia Quiroga describe los diez tipos de dólar que existen en Argentina.",
+      "entidades_detectadas": [
+        "Natalia Quiroga",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Su complejidad me inspiró a realizar una sencilla simulación de compra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Supongamos que compro diez dólares, cada uno a un tipo de cambio diferente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comienzo con un dólar oficial a $75,19.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Necesito $75,19).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "Luego, un dólar solidario a $130,76.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Necesito $130,76, redondeo a $132).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "El dólar blue, supuestamente usado por narcotraficantes y vendedores de armas (según una declaración oficial que genera preocupación por la falta de transparencia en su control), lo simulo a $140.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Necesito $140; pongo $150).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "El dólar \"app\" —el utilizado en aplicaciones móviles para compras digitales— tiene un tipo de cambio de aproximadamente $120 (pago $120).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El dólar bolsa (o contado con liqui), cuyo valor depende de las operaciones bursátiles, lo estimo en $128.",
+      "entidades_detectadas": [
+        "liqui"
+      ]
+    },
+    {
+      "frase": "(Necesito $128; pongo $130).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "El dólar contado con liquidación (CCL), que se obtiene a través de la compra de bonos en el exterior, lo fijamos en $132.",
+      "entidades_detectadas": [
+        "CCL"
+      ]
+    },
+    {
+      "frase": "(Necesito $132; pongo $150).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "Para el dólar soja, considerando las retenciones,  asumo un valor de $50.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Necesito $50).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "El dólar cereal, que se relaciona con la comercialización de granos, lo simulo en $70.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Necesito $70).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "El dólar vaca, que refleja el valor del ganado bovino, se estima en $72.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Necesito $72,11).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "Finalmente, el dólar MEP (Mercado Electrónico de Pagos), vinculado a operaciones bursátiles, está en $122.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "(Necesito $122).",
+      "entidades_detectadas": [
+        "Necesito"
+      ]
+    },
+    {
+      "frase": "En resumen, esta simulación ilustra la complejidad del mercado cambiario argentino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La falta de transparencia y la multiplicidad de tipos de cambio afectan la economía, generando incertidumbre y dificultando la planificación económica, además de perjudicar al consumidor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La proliferación de estos tipos de cambio, con nombres tan creativos (dólar soja, dólar vaca, etc.)  refleja una situación económica compleja que necesita ser abordada de manera integral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después de mis compras simuladas, me quedan $139, según mis cálculos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El dólar \"puré\", un término coloquial, refleja la situación general de confusión y falta de previsibilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En definitiva, la situación es caótica y todos estamos cansados de esta inestabilidad.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Natalia Quiroga",
+    "Argentina",
+    "liqui",
+    "CCL",
+    "Luego",
+    "Necesito",
+    "Supongamos",
+    "Comienzo",
+    "Después"
+  ]
+}

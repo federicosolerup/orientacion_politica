@@ -1,0 +1,416 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 66
+    },
+    "score_promedio": 0.725,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Y finalmente, esto es el reflejo de esta Argentina en la que vivimos todos.",
+      "score": 0.525,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la Argentina del “sálvese quien pueda”.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No estoy dispuesta a vivir en esa Argentina egoísta y cero empática.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que le agradezco al canal que en estos casos siempre me dejan hacer lo que yo siento.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es la manera en la que más segura me siento, con mis compañeros que me están conteniendo detrás de esta cámara y en el control.",
+      "score": 0.634,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina está para atrás, entre otras cosas, porque nadie mira al otro y solo se quieren salvar a sí mismos.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo soy una argentina que no se quiere salvar sola.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la misma con la que arrancamos.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No soy una cámara de televisión.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la verdad que es muy difícil estar de pie hoy en la Argentina en la que vivimos, en la que no tenemos paz y no tenemos justicia.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno que ayer decía que inclusive ya siente que no va a haber ni papel higiénico.",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Alberto Fernández** y **Cristina Fernández de Kirchner** cenaron en un clima marcado por la tensión y las diferencias por la economía.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pareja presidencial se volvió a encontrar luego de un mes y tras la abrupta salida de **Guzmán** del gabinete, la reunión no sirvió para limar asperezas, y las diferencias sobre el rumbo del país en materia económica volvieron a ser el punto de discordia.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que al gordo le tuvieron que dar patalgina porque le dio una puntada en el estómago.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es una bomba a punto de estallar.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, que no vino la noche, hice zapping, y sabés que cuando llegaban los canales oficialistas se me revolvían las tripas, porque yo, ¿cómo le pueden mentir a la gente así, de esta manera?",
+      "score": 0.656,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Tuny (Tuny) Kolman (Kolman)**, **Raúl Kollman (Kollman)**, definición de la cena entre **Alberto Fernández** y **Cristina Fernández de Kirchner**.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le da la jeta con un país devastado?",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él dijo, cuando yo le preguntaba, ¿por qué no salimos a la calle?",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente y la vicepresidente conversaron durante una hora, dice ella.",
+      "score": 0.596,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ella no le importa que el dólar se haya disparado a las nubes, no le importa nada.",
+      "score": 0.886,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Qué sinvergüenzas los que se llenan la boca hablando de los pobres, no tienen paz!",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Te acordás que **Alberto** le declaró la guerra a la inflación?",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver si eso le queda un poquito más a mano.",
+      "score": 0.583,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad que es durísimo, porque esto no le divierte a nadie.",
+      "score": 0.903,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá que no importa de qué lado estés, de qué vereda estés, esto no le puede hacer bien a nadie.",
+      "score": 0.899,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que **Cristina** se enoja con **Alberto** le raja un ministro.",
+      "score": 0.991,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ¿qué solo lo dejaron y qué solo se quedó el presidente por ser tan mala persona?",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que salió cruzado en el presidente **Alberto Fernández** fue también **Alberto Fernández**.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente salió a cruzar a **Alberto Fernández** por sus dichos.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el presidente **Alberto Fernández** es un meme.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente habla y habla y habla y no dice absolutamente nada.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le agradeció a **Cristina** por hacer que ganara el Frente de Todos.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren, yo por eso le digo a los compañeros, respeto con **Cristina**.",
+      "score": 0.654,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y se paran y le ponen música épica.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la Argentina está arrasada, destruida.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le ponen música épica.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por favor, no le da vergüenza delante de toda esta gente que los votó.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De alguna manera le está diciendo a **Alberto Fernández**, no sé si te ocurre, gordo, decir que va a hacer una reelección, porque me mato, o sea, tener un poco de dignidad y correrte, dejarnos a nosotros.",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la gente le está pasando horrible.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cada acto le sigue pegando a **Alberto Fernández**, que bien merecido se lo tiene, pero no da.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él no le contesta, como el marido maltratado.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le habla?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le habla?",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos que a **Macri** le tiraron 14 toneladas de piedras con un dólar a 14 pesos.",
+      "score": 0.631,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos cómo cagaban a piedrazos el Congreso con un dólar a 14 pesos.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué suerte que este gobierno tiene una oposición tan tibia, que tiene pánico que le digan golpistas, cagones, muchos de ellos.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A qué le tienen miedo?",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A qué le tenemos miedo los argentinos?",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una que no tiene miedo de decirle nada al presidente es **Hebe de Bonafini**, que es como si él era **Cristina**.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo el tiempo **Hebe** habla del presidente con metáforas que tienen que ver con la muerte.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Hebe** es tu gobierno, es el presidente de tu gobierno.",
+      "score": 0.632,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de Paraguay reveló que un tripulante del avión venezolano viajó a Cuba a hacerse una cirugía para cambiarse la cara.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que en Argentina, un quilombo que tenemos, millones se van comiendo al otro.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero uno de esos tipos que decía **Agustín Rossi**, que estaban piloteando un avión...",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dijo **Juan**.",
+      "score": 0.625,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero en Argentina no tenemos paz.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé, mirá, y le pego cuando sale de la casa.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se me ocurrió el nombre de un desfile que podría ser de un diseñador de modas.",
+      "score": 0.454,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que podría llamarse \"Las Tres Flores de la Costa\".",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le ponemos humor, es triste.",
+      "score": 0.771,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esta le pagamos una fortuna.",
+      "score": 0.566,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habla de Boca, sí, de Boca Juniors.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando sea presidenta de Boca te invito.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aprovecho y te pregunto si le va a dar los dólares a River para traer a **Borja**.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando sea presidenta de Boca te invito.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aprovecho y te pregunto si le va a dar los dólares a River para traer a **Borja**.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está **Duggan** ahí, que es el canal que le dice.",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tipo que se vio se escapó la cara en Cuba todo, pero el tipo es un amigo.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tomamos match y acá dicen, bueno, chiste, le hacen a la ministra de Economía.",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No llegan a fin de mes y ustedes le preguntan, y si quiere ser presidenta de Boca.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Usted cree que es un premio esto que le dieron?",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted debería contarlo ya.",
+      "score": 0.76,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Va a la tele y dice que le gustaría ser presidenta de Boca.",
+      "score": 0.226,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y todos se ríen y le festejan.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a mandar a una comunista a negociar con el Fondo Monetario Internacional.",
+      "score": 0.878,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero escuché a lo que decía **Ferraresi**, la señora **Aguchova** insultaba en la calle el que vacunó a **Purita** primero, lo que hizo de la clase media.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando nosotros inauguramos el coloso que está acá, en la ciudad de Avellaneda, que lo hizo el artista **Daniel Santoro**, **Daniel Santoro**, el bueno, el nuestro, decía que el gran éxito del peronismo va a ser cuando saquemos cero voto.",
+      "score": 0.318,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Odian a la clase media, odian a los porteños, odian a la gente que se esfuerza y a la que le va bien, odian a los que quieren progresar y seguir trabajando dignamente, odian al campo.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La CGT toma distancia de la interna del Frente de Todos y se avanza con la idea de realizar",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 80
+  },
+  "etiqueta_original": "neutral"
+}

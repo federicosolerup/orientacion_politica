@@ -1,0 +1,155 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "No he presenciado con frecuencia la conmoción de un diputado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, recuerdo haber leído un excelente discurso del diputado [Nombre del diputado], quien leyó el preámbulo de la Constitución Nacional en el Congreso, el órgano legislativo del país.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Constitución Nacional"
+      ]
+    },
+    {
+      "frase": "[Nombre del Diputado Maza] también estaba visiblemente afectado, y recibió una ovación general.",
+      "entidades_detectadas": [
+        "Nombre del Diputado Maza"
+      ]
+    },
+    {
+      "frase": "Parecía un desahogo colectivo.",
+      "entidades_detectadas": [
+        "Parecía"
+      ]
+    },
+    {
+      "frase": "Insisto, no busco señalar responsabilidades ni culpar a nadie; no estoy indignado.",
+      "entidades_detectadas": [
+        "Insisto"
+      ]
+    },
+    {
+      "frase": "Creo que la clase política es consciente de que posiblemente nos dirigimos hacia un desastre inevitable y no encuentran la manera de frenarlo; algunos, incluso, parecen acelerarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué sentido tiene el nuevo subsidio a los usurpadores en la provincia de Buenos Aires?",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Es inexplicable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿A quién se le ocurre darle $50.000 a quien usurpa un terreno?",
+      "entidades_detectadas": [
+        "¿A"
+      ]
+    },
+    {
+      "frase": "Es incomprensible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un policía que debe desalojar un terreno gana menos que eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se premia a quien comete un delito,  a pesar de que se reconocen las dificultades del problema, que es un problema de larga data y difícil solución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se les recompensa con un pago de $50.000 durante seis o tres meses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**(Archivo de Log - Correcciones):**\n\n1.",
+      "entidades_detectadas": [
+        "Correcciones",
+        "Archivo de Log"
+      ]
+    },
+    {
+      "frase": "**Nombres y Apellidos:** Se sustituyeron \"negri\" y \"Maza\" por \"[Nombre del diputado]\" y \"[Nombre del Diputado Maza]\".",
+      "entidades_detectadas": [
+        "Nombres",
+        "Nombre del Diputado Maza",
+        "Maza",
+        "Apellidos"
+      ]
+    },
+    {
+      "frase": "Es necesario conocer los nombres reales para una corrección completa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "2.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Ortografía:** Se corrigieron errores ortográficos como \"quiebre\" (conmoción o afectación emocional sería más preciso en el contexto), \"leemos bien\" (se cambió por una redacción más fluida), \"quebrado\" (se sustituyó por una expresión más formal como \"visiblemente afectado\"), \"desabogo\" (desahogo), \"cenan\" (se corrigió a \"recompensan\"),  \"lucas\" (se escribió con pesos),  \"explicámela\" (se reformuló la frase para mayor corrección).",
+      "entidades_detectadas": [
+        "Ortografía"
+      ]
+    },
+    {
+      "frase": "También se revisaron y ajustaron las mayúsculas y la puntuación para una mejor legibilidad.",
+      "entidades_detectadas": [
+        "También"
+      ]
+    },
+    {
+      "frase": "3.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Cohesión y Coherencia:** Se reorganizaron algunas frases para mejorar la fluidez y la lógica del texto.",
+      "entidades_detectadas": [
+        "Cohesión",
+        "Coherencia"
+      ]
+    },
+    {
+      "frase": "Se eliminó la repetición innecesaria de \"insisto\" y se reformularon algunas expresiones para una mayor claridad y precisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se eliminaron las interjecciones excesivas (¡Explicámela!) y se reescribió el texto para una mayor coherencia argumentativa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se integró una mejor transición entre las ideas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La frase \"y esto no es para responsabilidad ni echar responsabilidad\" se eliminó por redundante y se simplificó el mensaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se buscó una mejor conexión entre el ejemplo de los policías y el subsidio a usurpadores.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "También",
+    "¿A",
+    "Apellidos",
+    "Cohesión",
+    "Correcciones",
+    "Maza",
+    "Nombres",
+    "Insisto",
+    "Coherencia",
+    "Constitución Nacional",
+    "Parecía",
+    "Ortografía",
+    "Archivo de Log",
+    "Nombre del Diputado Maza",
+    "provincia de Buenos Aires"
+  ]
+}

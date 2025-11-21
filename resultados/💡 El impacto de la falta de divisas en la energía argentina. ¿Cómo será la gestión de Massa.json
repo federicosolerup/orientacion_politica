@@ -1,0 +1,479 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días, viernes 5 de agosto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Faltan 101 días para el mundial y cumplimos la semana, día quinto, desde que se anunció que **Sergio Massa** es el nuevo ministro de Economía.",
+      "entidades_detectadas": [
+        "ministro de Economía",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Hoy titulamos la apertura de este programa: \"Energía como Metonimia de Dólares\".",
+      "entidades_detectadas": [
+        "Metonimia de Dólares"
+      ]
+    },
+    {
+      "frase": "La metonimia es una figura de la lingüística en la que se sustituye una palabra por otra, ¿verdad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La metáfora es la que se refiere de manera indirecta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La metonimia sustituye directamente una palabra por otra, y la Argentina ha tenido problemas de energía a lo largo de prácticamente toda su historia reciente.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Por eso decimos que es una metáfora de dólares, es decir, finalmente, la falta de energía es equivalente a la falta de dólares o a la falta de recursos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El dólar también como metonimia, al revés de energía, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Hicimos una serie de selecciones de audios sobre los distintos problemas energéticos que ocurrieron en la Argentina reciente, comenzando desde la llegada a la democracia, aunque también hubo antes.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Pero primero, una reflexión sobre lo que significa energía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El término energía viene del latín, pero en realidad se refiere al griego, que significa actividad, operación; es una fuerza en acción, una fuerza de trabajo.",
+      "entidades_detectadas": [
+        "acción"
+      ]
+    },
+    {
+      "frase": "Energía, a su vez, se refiere a la capacidad de obrar, de surgir, de transformar o de poner en movimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "También energía, a su vez, es la capacidad, decíamos, de transformar, algo que supuestamente **Massa** tendría que demostrar en su gestión.",
+      "entidades_detectadas": [
+        "También",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Ergón era un dios de la antigua Grecia, que era el padre de la energía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se apela a él cada vez que se habla del trabajo, el que se opone al reposo; o sea, Ergón sería el movimiento, la energía sería el movimiento, la actividad en oposición a la inactividad, a la pasividad, que supuestamente es lo que vendría a solucionar Sergio Massa como reconocimiento de falta de actividad y de pasividad, falta de uno y exceso de lo otro en el actual gobierno.",
+      "entidades_detectadas": [
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Heráclito decía que es el padre y el rey de todas las cosas, o sea, que Ergón es el padre y el rey de todas las cosas, y que a partir de él se originan todos los contrastes.",
+      "entidades_detectadas": [
+        "Heráclito"
+      ]
+    },
+    {
+      "frase": "No en vano se le dio el nombre de Ergía a la unidad de trabajo; de allí surge, en toda la lingüística, energía, en guion, Ergía, sería el trabajo que está dentro, o sea, en esa energía lo que tenemos es trabajo que está dentro.",
+      "entidades_detectadas": [
+        "Ergía",
+        "allí surge"
+      ]
+    },
+    {
+      "frase": "Vamos a hacer un análisis, como decíamos antes, de audios, una especie de *racconto* sonoro de cuatro momentos en que la Argentina tuvo problemas de energía, cuatro momentos que en realidad se dieron en todos los gobiernos.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Vamos a comenzar primero con el de Alfonsín, esto en 1988, cuando el ministro de Obras y Servicios Públicos, **Roberto Echarte**, anuncia que los cortes eran de 6 a 21.",
+      "entidades_detectadas": [
+        "Alfonsín",
+        "Roberto Echarte",
+        "Obras"
+      ]
+    },
+    {
+      "frase": "O sea, tomemos en cuenta esto: no cortes de 6 horas, sino de 6 a 21.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar 1988 del ministro de Obras y Servicios Públicos.",
+      "entidades_detectadas": [
+        "Obras"
+      ]
+    },
+    {
+      "frase": "**(Audio)** Los cortes a partir de mañana van a comenzar a las 6 de la mañana y se prolongarán hasta las 21 horas, de tal manera que los cortes seguirán haciéndose en dos cortes diarios de tres horas, pero con un intervalo de seis horas entre cortes y cortes, con lo cual entendemos que ayudamos a ordenar la actividad de los usuarios.",
+      "entidades_detectadas": [
+        "Audio"
+      ]
+    },
+    {
+      "frase": "Los cortes se harán de 6 a 21 y quedará en reserva el turno de 21 a 24, por si algún incremento fuerte de la demanda obliga a hacer un corte adicional, de manera que esto se va a anunciar en los diarios y a partir de mañana los turnos serán los mismos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tan impactantes fueron electoralmente las consecuencias de los cortes de electricidad y la metáfora de que la falta de energía en realidad era la falta de dinero, que fueron uno de los puntos fuertes de la campaña de la oposición, que terminó ganando, que era **Carlos Menem**.",
+      "entidades_detectadas": [
+        "Carlos Menem"
+      ]
+    },
+    {
+      "frase": "Escuchen, este es un spot de campaña de Carlos Menem.",
+      "entidades_detectadas": [
+        "Carlos Menem"
+      ]
+    },
+    {
+      "frase": "**(Audio)** El corte no está...",
+      "entidades_detectadas": [
+        "Audio"
+      ]
+    },
+    {
+      "frase": "Escuchen, está programado.",
+      "entidades_detectadas": [
+        "Escuchen"
+      ]
+    },
+    {
+      "frase": "¿Hasta cuándo vamos a seguir con esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El país necesita una revolución productiva y para lograrla Carlos Menem los convoca.",
+      "entidades_detectadas": [
+        "Carlos Menem"
+      ]
+    },
+    {
+      "frase": "¡Mírenme!",
+      "entidades_detectadas": [
+        "Mírenme"
+      ]
+    },
+    {
+      "frase": "Vamos a repetirlo, y es importante, pues es cortito, vamos a repetirlo, para que quienes, además, nos están viendo, ya sea por Net TV o por alguna de nuestras aplicaciones audiovisuales, vean y presten atención, que las personas están con velas, lo cual es muy interesante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vayamos nuevamente con el mismo spot.",
+      "entidades_detectadas": [
+        "spot"
+      ]
+    },
+    {
+      "frase": "**(Audio)** El corte no estaba programado, ¿eh?",
+      "entidades_detectadas": [
+        "Audio"
+      ]
+    },
+    {
+      "frase": "Sin duda, está programado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Hasta cuándo vamos a seguir con esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El país necesita una revolución productiva y para lograrla Carlos Menem los convoca.",
+      "entidades_detectadas": [
+        "Carlos Menem"
+      ]
+    },
+    {
+      "frase": "¡Mírenme!",
+      "entidades_detectadas": [
+        "Mírenme"
+      ]
+    },
+    {
+      "frase": "Vamos a repetirlo, ¡miren!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los trabajadores...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El clásico de la campaña de Carlos Menem, los trabajadores del clásico seguimos la esperanza.",
+      "entidades_detectadas": [
+        "Carlos Menem"
+      ]
+    },
+    {
+      "frase": "Nuevamente, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "En producción y energía, nuevamente como metonimia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos ahora al kirchnerismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá tenemos a **Julio De Vido**, año 2008.",
+      "entidades_detectadas": [
+        "Acá",
+        "Julio De Vido"
+      ]
+    },
+    {
+      "frase": "Escuchemos a De Vido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**(Audio)** El corte más bajo de la historia argentina en relación a las condiciones climáticas.",
+      "entidades_detectadas": [
+        "Audio"
+      ]
+    },
+    {
+      "frase": "En el mes de enero, en la misma circunstancia, teníamos 200.000 cortes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros no estamos conformes, igual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creemos que se ha mejorado, pero estamos conscientes de los problemas que estos cortes causan en la población.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que vamos a analizar, sector por sector, es el motivo del corte, y como hemos hecho en otras oportunidades, aplicaremos las sanciones y las multas correspondientes a las concesionarias de servicios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está claro que este gobierno no es permisivo con las concesionarias de servicios públicos, inclusive ha rescindido más de un contrato por incumplimiento de los mismos.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Nosotros vamos a ser severísimos, como hemos sido hasta el momento, con aquellos incumplimientos de contrato.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Interesante el lenguaje de De Vido, el ministro De Vido en su momento, “conscientes”, siempre palabras bastante poco usuales.",
+      "entidades_detectadas": [
+        "De Vido"
+      ]
+    },
+    {
+      "frase": "Hay audios a lo largo de todo el kirchnerismo, **Capitanich**, por ejemplo, siendo jefe de Gabinete en 2013.",
+      "entidades_detectadas": [
+        "Gabinete",
+        "Capitanich"
+      ]
+    },
+    {
+      "frase": "Nos vamos a aburrir, pero el tema era recurrente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a saltar ahora directamente a **Mauricio Macri**.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Mauricio Macri, si está en su casa en remera y en patas, es porque está consumiendo energía de más.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Julio de 2016, recién comenzado el gobierno de Cambiemos.",
+      "entidades_detectadas": [
+        "Cambiemos"
+      ]
+    },
+    {
+      "frase": "**(Audio)** Entonces cuando de golpe ustedes se encuentren en su casa en invierno y se vean que están en remera o están en patas, es que están consumiendo energía de más.",
+      "entidades_detectadas": [
+        "Audio"
+      ]
+    },
+    {
+      "frase": "Entonces en invierno vos tenés que estar abrigado aún en tu casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces ahí estarás consumiendo la mínima energía necesaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además de algo fundamental, la energía daña el medio ambiente, consumir energía contamina el medio ambiente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces por eso vienen estas inundaciones y después las sequías y todos los problemas que tenemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y así esas pequeñas cosas que parecen como demasiado bobas para que las estemos comentando, son las que cambian en serio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En remeras y en patas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a matizar, ya seguimos con más audio, vamos a ir a audio del extranjero, pero primero vamos a escuchar a **Sergio Denis** con \"Dame Luz\".",
+      "entidades_detectadas": [
+        "Sergio Denis"
+      ]
+    },
+    {
+      "frase": "\"Dame amor, dame luz\", normalmente metáfora de amor; “dame luz barata” podría ser “dame amor”, que algunos votantes le pueden pedir a distintos gobiernos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y sin ti no sé vivir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a seguir con la mirada internacional, ahora vamos a España, a **Pedro Sánchez**.",
+      "entidades_detectadas": [
+        "España",
+        "Pedro Sánchez"
+      ]
+    },
+    {
+      "frase": "Recientemente, allí el problema en la contrastación que tenemos es el exceso de calor, pero finalmente, para combatirlo, como para combatir el exceso de frío, lo que hace falta es luz, energía, en cualquiera de sus significantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar a Pedro Sánchez diciendo que hay que sacarse la corbata para ahorrar energía y, al mismo tiempo, enviando un paquete de medidas de cortes de energía para toda España.",
+      "entidades_detectadas": [
+        "España",
+        "Pedro Sánchez"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Pedro Sánchez.",
+      "entidades_detectadas": [
+        "Pedro Sánchez"
+      ]
+    },
+    {
+      "frase": "**(Audio)** Si me gustaría que vieran, en fin, no llevo corbata, eso significa que podemos todos también ahorrar desde el punto de vista energético y he pedido a los ministros y ministras y a todos los responsables públicos, me gustaría también, y al sector privado, si aún no lo ha hecho, que cuando no sea necesario, pues que no utilicen la corbata, porque así también estaremos haciendo frente al ahorro energético que tan necesario es en nuestro país.",
+      "entidades_detectadas": [
+        "Audio"
+      ]
+    },
+    {
+      "frase": "En el próximo Consejo de Ministros vamos a aprobar un paquete de medidas urgentes para la eficiencia y el ahorro energético.",
+      "entidades_detectadas": [
+        "Consejo de Ministros"
+      ]
+    },
+    {
+      "frase": "Se trata de medidas trabajadas durante semanas por parte de los ministerios competentes liderados por la vicepresidencia tercera de Transición Ecológica y Reto Demográfico, que han sido debatidas con el sector privado, que han sido informadas, muchas de ellas, al conjunto de administraciones públicas y también a los grupos parlamentarios.",
+      "entidades_detectadas": [
+        "Reto Demográfico",
+        "Transición Ecológica"
+      ]
+    },
+    {
+      "frase": "Unas medidas que van a ser comunicadas a la población el próximo lunes para que todos colaboremos en una tarea que es de todos, porque ahorrar energía es prioritario, es una tarea de todos y va en línea con lo que están haciendo otros países europeos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con todo ello, lo que estaremos haciendo es reducir nuestra factura energética y, por tanto, también contribuir entre todos a reducir nuestra dependencia del agresor, en este caso de Putin, de Rusia y, sin duda alguna, también a reducir y a doblegar entre todos la curva de la inflación.",
+      "entidades_detectadas": [
+        "Rusia",
+        "Putin"
+      ]
+    },
+    {
+      "frase": "Sí, Ergón era para los griegos el padre de la energía y para Heráclito el padre y rey de todas las cosas, porque a partir de la energía se pone en movimiento la vida y es la unidad del trabajo, y dentro de la energía, en Ergía, era el trabajo que está dentro.",
+      "entidades_detectadas": [
+        "Ergía",
+        "Ergón",
+        "Heráclito"
+      ]
+    },
+    {
+      "frase": "Ergón sería el papel que pretende cumplir Sergio Massa; veremos cómo le va en ese papel de Ergón y si energía era sinónimo de dólares, Massa debe pretender que Ergón sea metonimia de él mismo.",
+      "entidades_detectadas": [
+        "Massa",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Vamos a cerrar con un poquito de humor y en este caso con una canción de **Alexis y Fido** que se llama “Casualmente Energía”.",
+      "entidades_detectadas": [
+        "Fido",
+        "Alexis"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Metonimia de Dólares",
+    "También",
+    "Rusia",
+    "Sergio Denis",
+    "Vamos",
+    "Massa",
+    "Putin",
+    "Alexis",
+    "Escuchen",
+    "De Vido",
+    "Heráclito",
+    "Transición Ecológica",
+    "Pedro Sánchez",
+    "Fido",
+    "Ergía",
+    "Obras",
+    "Además",
+    "Está",
+    "Ergón",
+    "Reto Demográfico",
+    "Acá",
+    "spot",
+    "Sergio Massa",
+    "acción",
+    "Audio",
+    "Carlos Menem",
+    "Gabinete",
+    "Capitanich",
+    "allí surge",
+    "ministro de Economía",
+    "Hicimos",
+    "Mauricio Macri",
+    "España",
+    "la Argentina",
+    "¿",
+    "Vayamos",
+    "Cambiemos",
+    "Alfonsín",
+    "Consejo de Ministros",
+    "Julio De Vido",
+    "Roberto Echarte"
+  ]
+}

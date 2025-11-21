@@ -1,0 +1,34 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Gobierna Alberto Fernández, manda Axel Kicillof y la oposición se resiste.",
+      "entidades_detectadas": [
+        "axel",
+        "alberto",
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "He vivido muchos años en Argentina y he sufrido los desatinos de varios gobiernos, que fueron, sin duda, muy malos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿Cómo es que los hijos de Kicillof van a colegios privados caros?",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández y Cristina Fernández Kirchner no los defienden, pero sí lo hacen estas señoras de clase alta, que piden el regreso a clases, pero no para sus propios hijos, ellos sí tienen clases.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    }
+  ]
+}

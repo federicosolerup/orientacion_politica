@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Cheques sin fondo dados al pueblo, promesas infundadas.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Pero los peronistas, hace unos 20 o 30 años, porque Menem era honesto… Menem decía, “Me voy con la Ferrari, la llevo a la lluvia”.",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "Cada tanto sale a hablar Cafiero III, en línea de sucesión.",
+      "entidades_detectadas": [
+        "cafiero"
+      ]
+    },
+    {
+      "frase": "Acuérdense de las cosas que dijo de Cristina y se le dijeron.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Por eso digo que esta mentalidad de ingenuo y de cornudo que tenemos los argentinos, de esperar que no lleguen las PASO, de esperar que no lleguen las elecciones, de que estos cuatro inútiles nos sigan engañando, mintiendo y riéndose, nos lleva a esta situación donde, por más que mañana a los rusos se les ocurra quedarse con Argentina y la cambien por 40 millones de vacunas, no tenemos salvación porque el virus te mata, pero la ignorancia te hace sufrir como estamos sufriendo ahora, como perros.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

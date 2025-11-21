@@ -1,0 +1,236 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 10,
+      "derecha": 34
+    },
+    "score_promedio": 0.692,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Argentina tiene hambre, Argentina pasa hambre.",
+      "score": 0.606,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina nos engañan el estómago.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, en Argentina te distraen cuando tenés hambre.",
+      "score": 0.53,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo tengo hambre de que a mi querida Argentina le vaya bien de una vez por todas.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además de tener hambre de futuro, en Argentina también tenemos hambre espiritual.",
+      "score": 0.182,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina tenemos hambre de felicidad.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina tenemos hambre de futuro.",
+      "score": 0.338,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy me contaron en una reunión que tuve, que esa gente que va extorsionada, a la que le preguntás en un piquete a qué va y no tiene la menor idea, que los punteros, de las 20 lucas que cobran, les sacan tres lucas.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero decía lo de Dinamarca.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, al no poder votar un tipo que cobra un plan, se evita que la ciudadanía se transforme en clientelismo político.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El movimiento Evita y otros movimientos sociales salieron a bancar al presidente.",
+      "score": 0.779,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El movimiento Evita y los planeros salieron en el día del laburo en Argentina a bancar al presidente.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mucha gente fue y toda esa gente la pagó el rebaño de pelotudos para celebrar al presidente en el día del trabajo.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que salió a hablar de este tema fue **Miguel Ángel Pichetto**, que dijo que en la Argentina todo está al revés.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le gustan mucho las contradicciones al chino.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece que el chino **Navarro** toma clases de oratoria con el presidente **Alberto Fernández**, el Pinocho.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el presidente le habló a los trabajadores, trabajadoras y más trabajadores y trabajadoras.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así hablaba hoy el presidente **Alberto Fernández** en un país con hambre de futuro.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Hoy es un día importante porque estamos elevando al Congreso Nacional este proyecto de ley.",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora le queda al Congreso.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que estoy seguro que el Congreso va a acompañar.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el día que el Congreso saque esta ley será un día de festejo.",
+      "score": 0.552,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque en la Argentina habrá más derechos y una sociedad con más derechos es una mejor sociedad.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Voy a contarles la interna feroz del frente de todos contra todos en un rato, pero decía que al presidente le encanta hablar de trabajadores y trabajadoras, pero no generan laburo, no generan puestos de laburo.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La CGT está más que guardada.",
+      "score": 0.265,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la CGT no le clava ni un paro.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero como el presidente peronista, nada.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señora Intendente o Intendenta, o como le gusta que le llamen a ustedes, regala tres kilos de asado por persona como si regalara un viaje al Caribe.",
+      "score": 0.938,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, lo que nosotros queremos también, así como nosotros vemos TN, La Nación Más, todos digamos con capitales, con intereses bien definidos y claramente definidos, donde no hay un periodismo independiente que informe, que informe y que la gente saque sus propias conclusiones, yo voy a plantear la necesidad de armar dentro del norte grande una red de comunicación que permita que todos los medios de comunicación tengamos canales propios en cada una de nuestras provincias.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le cabe bien el traje de dictador, ¿no?",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Existe el control remoto, es súper democrático, usted cambia o apaga.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos hambre de futuro y estos tipos no se dan cuenta, la gente come de la basura y a él le importa lo que dicen TN, América, C5N o la...",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A usted no le gustan los medios nacionales porque no los puede manejar.",
+      "score": 0.698,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente en su provincia, con un poquito de pauta, dicen lo que a usted le queda bien, gobernador de la rioja.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, en su provincia nadie lo va a criticar porque usted les garpa, se la pone toda y ellos dicen lo que usted quiere escuchar.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué pueden decirle a usted tan grave?",
+      "score": 0.818,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos hambre de futuro y a usted les importa un pito, no entienden nada.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Hebe de Bonafini** te decía que quiere trompear al ministro de Economía, **Martín Guzmán**.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aunque sea, le juro, me da la gana de pegarle esa cara de piedra que tiene cuando habla.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que arregla, nos mienten el presidente y él.",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora va contra el presidente **Alberto Fernández** y contra el ministro de Economía, **Martín Guzmán**.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, el oficialismo en el Senado intentará avanzar esta semana con la reforma de la Corte Suprema.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina**, ojalá que prontamente, en las próximas elecciones, termines fuera de la vida política argentina, porque eso es lo peor, junto con el *kirchenerismo*, que te rodea desde 2003, que le pasó a la democracia argentina.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Bibiana (nombre de la presentadora, se asume por el título de la sección)\n    *   Miguel Ángel Pichetto\n    *   Diego Santilli\n    *   Alberto Fernández\n    *   Malena Galmarini\n    *   Sergio Massa (se deduce por el contexto)\n    *   Doris Rodríguez\n    *   Ricardo Quintela\n    *   Hebe de Bonafini (en sus diferentes menciones)\n    *   Martín Guzmán\n    *   Cristina Fernández de Kirchner (en sus diferentes menciones)\n    *   Jack London (se asume por el contexto)\n*   **Corrección de ortografía:**\n    *   \"Con vos\" (se corrige la preposición)\n    *   \"De la BBC de Londres\" (se agrega la preposición \"de\")\n    *   \"qué va\" (se agrega la tilde para preguntar)\n    *   \"¿Saben por qué?\" (se corrige la ortografía)\n    *   \"hace dos meses\" (se escribe correctamente)\n    *   \"peronista\" (se escribe con minúscula)\n    *   \"asueto laboral\" (se corrige la palabra)\n    *   \"kirchenerismo\" (se escribe con k, no con q)\n    *   Tildes faltantes en palabras como \"más\", \"qué\", \"sé\", etc.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 44
+  },
+  "etiqueta_original": "neutral"
+}

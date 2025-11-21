@@ -1,0 +1,76 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Quiero mostrarles algo que encontré, un sicario de Cristina Kirchner, muy peligroso, un tipo enviado a destruirnos.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández repetía \"hoy empieza\", \"hoy empieza\".",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Máximo Kirchner llegó tarde, rodeado de una custodia palaciega.",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "(Muestra una foto de Máximo Kirchner).",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "(Se ve una foto de Máximo Kirchner rodeado de seguridad).",
+      "entidades_detectadas": [
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Hoy la payasada fue para dejar a Alberto como único responsable de la derrota.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Un Alberto enclenque, sin protección.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Y al presidente también habría que cuidarlo mucho.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Tuvo un altercado con un encargado de edificio en Neuquén al 1000.",
+      "entidades_detectadas": [
+        "neuquén"
+      ]
+    },
+    {
+      "frase": "(Se muestra foto de Guasón con Cristina y Alberto).",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "[4] **Nombres propios:** Se corrigieron o aclararon los nombres de personas mencionados (Baby Etchecopar, Luis Majul, Jonatan Viale, Eduardo Feinmann, Máximo Kirchner, Alberto Fernández, Cristina Kirchner).",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "máximo"
+      ]
+    }
+  ]
+}

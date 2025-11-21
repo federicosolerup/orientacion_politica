@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Estamos en un estado que va a iniciar una semana terrible.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Pero nosotros tenemos algo maravilloso, que no se lo debemos a Cristina Fernández de Kirchner: la democracia.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Están jugando con el diamante, porque la democracia está lejos de Cristina y está lejos de la oposición.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Quiero decir esto y también le digo a Cristina Kirchner que acepte la condena si llega la condena, porque todos debemos tener la altura y la dignidad de aceptar las condenas si cometemos un error o, por lo menos, un delito.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Cuando ganó Alfonsín y nos abrazamos todos.",
+      "entidades_detectadas": [
+        "alfonsín"
+      ]
+    }
+  ]
+}

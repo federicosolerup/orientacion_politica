@@ -1,0 +1,73 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Me voy a España este domingo, pero todavía estoy en Los Ángeles.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "¿Te vas a España este domingo?",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "Sí, este domingo por la tarde ya viajo a España y voy a estar un par de semanas allí por la gira.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "A Coruña… Oiga, alguien me contó que estuviste en la renovación del mandato de Nayib Bukele…\n\nLa reasunción se llama, la reasunción…\n\nMe dijeron por ahí que te cruzaste con el Rey de España y hubo un intercambio de saludos.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "El Rey de España es un caballero.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "Cuando estaba ahí, iban entrando los mandatarios, entre los que estaba el presidente de Argentina, Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Y una tamaña responsabilidad… inclusive cuando entró Alberto Fernández y vos lo ves, y lo ves una persona normal.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Delante mío estaba una silla; delante, Donald Trump Jr.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "Yo también me sorprendió que pocos conocen la realidad de Argentina o la realidad de otros países de la región.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Entonces ahí descubrí que muchas veces el aplauso también es subjetivo; uno aplaude… Donald Trump Jr.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "Justamente porque Trump siempre está en las noticias; no siempre la popularidad es sinónimo de prestigio necesariamente.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    }
+  ]
+}

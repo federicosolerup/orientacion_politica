@@ -1,0 +1,73 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La Argentina está colapsada, al igual que, probablemente, su sistema de salud.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El viernes próximo, el presidente Alberto Fernández firmará un decreto de necesidad y urgencia con nuevas restricciones.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "A pesar de las disputas entre Horacio Rodríguez Larreta y sus funcionarios, y entre Axel Kicillof y Rodríguez Larreta, finalmente, los tres jefes de Gabinete de los tres distritos llegaron a un acuerdo.",
+      "entidades_detectadas": [
+        "axel",
+        "larreta",
+        "gabinete",
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Probablemente, si viven en la Ciudad de Buenos Aires y están en el secundario, no; existe un plan, aceptado por la Jefatura de Gabinete porteña, de priorizar la presencialidad de los alumnos de primaria y jardín de infantes.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Quizás Kicillof ceda y las clases, actualmente suspendidas, puedan reanudarse para los alumnos de primaria.",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Hasta ayer, el discurso oficialista, liderado por Cristina Kirchner y Axel Kicillof, hablaba de un desastre inminente y del colapso total de las camas de terapia intensiva.",
+      "entidades_detectadas": [
+        "axel",
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Incluso, el viceministro de Salud, Nicolás Kreplak, predijo hace aproximadamente ocho días que Argentina llegaría a 50.000 casos diarios de COVID-19 (el 18 de abril).",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Como mencioné, el Gobierno se reunió con un comité de expertos (quince o más) y concluyeron que no es necesario un confinamiento de quince días (como proponía Axel Kicillof), que hay falta de oxígeno y que el sistema de salud está saturado y estresado, pero que se deben esperar 48 horas para evaluar la evolución de los contagios, ya que aparentemente la cifra se ha estabilizado, aunque sigue siendo alta.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Ahora bien,  Amado Boudou (se corrige el nombre y se evita el uso de apodos peyorativos), condenado a cinco años y diez meses de prisión, tuvo una rebaja de diez meses por tiempo cumplido.",
+      "entidades_detectadas": [
+        "evita"
+      ]
+    },
+    {
+      "frase": "En la sentencia se afirma que el dinero lavado por Báez, con el que casi compra un banco, provenía de la corrupción de Cristina Fernández de Kirchner, y que esa corrupción se investiga en un juicio en el que ella no participa.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

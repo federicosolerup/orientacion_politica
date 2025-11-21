@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Como se trataba de una mujer, no la toqué;  tampoco lo habría hecho si fuese un hombre, dado el estado en el que se encontraba.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Sus publicaciones en redes sociales muestran una obsesión con mi persona, incluso con imágenes de mi programa incluyendo a Andrés y Patricia.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Nuestra compañera Ivi investigó y descubrió que Sosana, que trabaja como enfermera con un empleo inestable, ha estado obsesionada conmigo las últimas semanas.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

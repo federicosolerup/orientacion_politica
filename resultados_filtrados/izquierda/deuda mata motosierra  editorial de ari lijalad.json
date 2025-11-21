@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Quiero hacer una aclaración: la alta ejecución en deuda se debe a los vencimientos de pagos, según el cronograma establecido en el acuerdo con el FMI (renegociado luego del acuerdo anterior).",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Insisto en esto porque, como mostramos anteriormente, una frase del presidente Nicolás Avellaneda (siglo XIX) decía: \"Pagaré la deuda ahorrando sobre el hambre y la sed de los argentinos\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La Oficina de Presupuesto del Congreso informó cómo el gobierno logró el superávit recortando jubilaciones, salud y educación, y aumentando los pagos de deuda.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    }
+  ]
+}

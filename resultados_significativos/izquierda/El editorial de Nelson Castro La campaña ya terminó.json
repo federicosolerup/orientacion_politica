@@ -1,0 +1,26 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 0
+    },
+    "score_promedio": 0.219,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es muy importante votar por quien usted quiera, pero es fundamental hacerlo.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre todo, es crucial transmitir esto a la gente joven, que, afortunadamente, quizás no ha experimentado lo que costó en Argentina imponer y consagrar esta costumbre, esta sana costumbre de votar.",
+      "score": 0.142,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 2
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La Cámara de Casación Penal, instancia superior, instó a acelerar el juicio para evitar esta situación.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Marijuán descubrió inmuebles en Santa Cruz, Chubut y otras provincias, encontrando hasta 50 inmuebles por día hasta llegar a la cifra aproximada de 440 propiedades.",
+      "entidades_detectadas": [
+        "chubut"
+      ]
+    },
+    {
+      "frase": "Los negocios de Báez y los Kirchner estaban estrechamente relacionados.",
+      "entidades_detectadas": [
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Fundó su constructora poco antes de la asunción de Néstor Kirchner.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Su cercanía con los Kirchner incluyó visitas a la Quinta de Olivos, y desarrollaron numerosos negocios en conjunto.",
+      "entidades_detectadas": [
+        "kirchner"
+      ]
+    }
+  ]
+}

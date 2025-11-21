@@ -1,0 +1,471 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 77
+    },
+    "score_promedio": 0.762,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina estamos viviendo, sintiendo día a día una crisis escandalosa para que un funcionario, un ministro diga que Alberto Fernández ha hecho magia en la Argentina.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un país que está para atrás, cada día peor, y nos dicen que el gobierno de Alberto Fernández ha conseguido cosas mágicas, como que los pibes no estudien, como que los pibes no coman o como lo que veíamos recién, la gente comiendo mierda de la basura.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina con esos gobernantes es un escándalo.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández ha conseguido cosas mágicas para el país y eso debería premiarse, dijo Aníbal Fernández.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estaba pensando en algunas de las cosas mágicas que consiguió Alberto Fernández, por ejemplo, el teléfono.",
+      "score": 0.764,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aníbal Fernández, ¿qué te pasó que respaldás la reelección de Alberto Fernández?",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Alberto Fernández, sos su fan.",
+      "score": 0.885,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me encantaría que Aníbal Fernández, en este estudio, sentado acá en el escritorio, me venga a explicar cuáles son las cosas mágicas que hizo y que hace Alberto Fernández.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo mágico habrá sido que el presidente Alberto Fernández violara su propio DNU y festejara el cumpleaños de la primera dama.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos un reverendo rebaño de pelotudos porque eso que hizo el presidente violó su propio DNU, él, su mujer y sus amigos.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque nadie quiere que le toquen la suya, su guita, su caja.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice Juan Grabois ahora que este gobierno, el suyo, el del frente de todos contra todos, no lo representa.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que el presidente Alberto Fernández, dice Juan Grabois, está en un termo con cinco amigos de la capital federal.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente soportó la pandemia, soportó el macrismo, peleó, luchó, intentó sus cosas.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sale la señora Cerruti, que no sabe si Jujuy queda en la Argentina o queda en otro país, porque dice el presidente vuelve a la Argentina de Jujuy.",
+      "score": 0.611,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente tiene que reaccionar.",
+      "score": 0.525,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hermano, salí del termo y pensá en la gente, porque tu primer discurso decía empezar por los últimos para llegar a todos, no empezar por el FMI para llegar a los últimos.",
+      "score": 0.434,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Grabois amenaza al presidente.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están amenazando al presidente Alberto Fernández.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy llano, allá el Pablo diciendo, entre otras cosas, que Batakis le da un mensaje al mercado y no al pueblo hambreado.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente que está haciendo este golpe, este escándalo, es la misma gente que en el 2017 le quiso voltear el gobierno a Mauricio Macri con 14 toneladas de piedras en el Congreso.",
+      "score": 0.951,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto quieren hacerle ahora al presidente Alberto Fernández.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo quieren voltear porque en cinco minutos, si no le dan la guita que piden y lo que ellos quieren, sacan a toda la gente a la calle, saqueo, quilombo, te prenden fuego la Argentina, el propio gobierno, los propios integrantes del gobierno están amenazando a Alberto Fernández.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En algo tiene razón Grabois, porque el gobierno, porque Alberto Fernández no puede ver lo que venimos diciendo todos los días ahora.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dice Grabois que vive en un termo él con sus cinco amigos de la capital.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente Alberto Fernández, Juan Grabois, que es de su gobierno y dice que no se siente representado, le está pidiendo que haga algo.",
+      "score": 0.776,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el presidente Alberto Fernández, la verdad, no está en lo importante.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al presidente Alberto Fernández solo le interesa la ideología de género, el 0,12 del censo ese al que no le pagaron todavía a muchos de los docentes que fueron a hacerlo, donde no sabemos cuánta gente discapacitada, pero a ellos les importa la ideología de género.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente y el gobierno tienen equivocadas todas las prioridades, esto es un escándalo.",
+      "score": 0.785,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al presidente solo le importa la ideología de género, al presidente solo le importa hablar con la E, los albañiles y las albañilas y los no sé qué.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina se prende fuego, esto es un escándalo.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted veía recién el tape con el que arrancamos este programa con la gente, ahí está y felicito a mi equipo de producción y edición porque es una joya, si no fuera que es una tragedia este tape.",
+      "score": 0.423,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Igual todos sabemos que tanto a Grabois como a todos, solo les importa la plata, la guita.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La que tiene que poner el capital para mantener a los compañeros nuestros, porque nosotros cuando peleamos, peleamos con plata, nosotros vamos a hacer un quilombo ahora para sacar plata y no es paso de la revolución.",
+      "score": 0.599,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque además ellos lo saben, si no les ponen la guita, ya lo están amenazando al presidente por televisión.",
+      "score": 0.84,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Para qué querés trabajar si el Estado te puede mantener?",
+      "score": 0.442,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice que la guita de los planes la tiene que manejar el Estado sin intermediarios.",
+      "score": 0.749,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le pidió Horacio Rodríguez Larreta a los piqueteros que si quieren se armen un partido político, se presenten a elecciones y ganen.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo tiene que manejar el Estado sin intermediarios.",
+      "score": 0.134,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado está delegando en organizaciones el manejo de miles y miles de millones de pesos.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado delega la decisión de quién recibe un apoyo del Estado y quién no.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que no está bien es que el Estado delegue en organizaciones que nadie votó algo tan sensible y tanta plata.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las chicas de Juan Grabois también salieron a hacer campaña.",
+      "score": 0.701,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí la vemos a Ofelia Fernández, le encanta escandalizar.",
+      "score": 0.869,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo hace a propósito y le sale bastante bien.",
+      "score": 0.556,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si un pibe roba o lo que sea, no lo hace porque tiene ganas o porque le divierta el papel de rebelde sin causa.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y lo dice al lado de Bloomberg que le mataron al hijo?",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Inconscientes, al lado de Bloomberg que le mataron, que le asesinaron a su hijo.",
+      "score": 0.399,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tendrían que rajar a patadas en el culo, lo está diciendo de verdad al lado de Bloomberg que le mataron al hijo.",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros, el rebaño de pelotudos, a esta legisladora le pagamos el sueldo, un escándalo.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, futuro presidente y Aurora, jubilada.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde que esta gente gobierna, lamentablemente en la Argentina no hay futuro para nadie.",
+      "score": 0.74,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero bueno, de algo le sirvió el etiquetado frontal.",
+      "score": 0.734,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina siempre podés vivir un poco peor.",
+      "score": 0.784,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo que si el campo sigue con el paro, bueno, Nipolenta va a llegar a la mesa de les argentines, presidente.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dieron a la maquinita sin parar, despilfarraron mucha plata.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llaman a indagatoria a funcionarios del PAMI por el presunto desvío de fondos a locales de La Cámpora.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, esto que está pasando en el PAMI es un escándalo.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El segundo de Luana Volnovich es su novio y es el que se llevó la guita a centros de jubilados que no existen.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le pide la renuncia a Luana Volnovich.",
+      "score": 0.84,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El PAMI trata a los pobres como a la mismísima basura.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la policía, que no sabía que era un suegro, le dio un mensaje.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le entró la tierra dentro del cajón.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se gastan la plata del PAMI en cualquier cosa.",
+      "score": 0.856,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "PAMI no es gratis.",
+      "score": 0.303,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando enterraron el cajón, se les abrió la tapa otra vez y le entró tierra al muerto.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El funcionario kirchnerista, doble moral, Enrique Cresto, vocero de Kirchner y de Batakis.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ni un clavito le ponen.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el segundo de Volnovich, el novio.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablamos a la primera dama como presidente de la Fundación Banco Provincia.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La primera dama, ya lo decía ayer, Karina Banfi, era la que tenía los empleados que tiene.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque te acordás que dicen que no tiene, pero al final en el Olivos Gate era gente, su hijo, su marido, que trabajaba con y para ella.",
+      "score": 0.759,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, él era presidente de la Fundación del Banco Provincia, no pudo justificar el Olivos Gate.",
+      "score": 0.362,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué le dan cargos a las primeras damas?",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto que dice Cristina, me lo acordé hoy, lo dijo la semana pasada y me pareció muy interesante, porque Cristina dice que cuando abrís la puerta, ¿no?",
+      "score": 0.634,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no tomó conciencia que nosotros en Argentina estamos peor que en Ucrania.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Grabois amenazando, no sé, con 14 toneladas de piedras al presidente, no lo sé, pero vos mirás la irrealidad en la que viven y lo que decía Cristina la semana pasada, que bien vale que lo pongamos en el día de hoy.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la sensación que yo siento hoy como Argentina con el mundo.",
+      "score": 0.608,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podés ni enterrar a un muerto que se le abre la tapa con la guita que se choreó el novio de Luana Volnovich, que se la llevó a hacer política y el tipo que aportó toda la vida no puede tener ni un velatorio digno ni un ataúd digno.",
+      "score": 0.976,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Déjenme de joder, pero si en Ucrania deben estar más tranquilos que acá, por favor, es un escándalo.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evo es tan panqueque como Alberto Fernández, se pone un día la camiseta de River, al rato se pone la camiseta de Boca, por favor, todo les da igual, no es lo mismo ser de River que de Boca, chabón, ¿de qué lado estás?, ahí está, igual que Alberto, Pinochos.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que está re caliente con Evo Morales y Diego Velar, dice que Evo Morales es un cobarde que huyó de Bolivia, que no fueron sacados del poder, que no hubo un golpe.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le puso un correctivo y lo durmió, igualito que acá, para los \"safaronistas\", para los garantistas, míralo.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este policía en la República Argentina iría preso.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tipo va borracho, lo toca, le toca los pechos, lo toca, lo manosea, lo boludea.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá un garantista ve que un policía lo fustigó y le dice, no, todo mal, reprimió, violentó.",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le exige al gobierno medidas contra la inflación y contra la corrupción.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Va para Cuba con Castro.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El placer de levantarte en una Argentina donde no estés pensando que un pibe se fuera a dormir sin morfar.",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería hermoso vivir en una Argentina como la que...",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le digo al presidente Alberto Fernández, que, entre albañil y albañila, la inclusión, la verdadera inclusión, presidente, no es albañil y albañila.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 91
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,39 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El presidente parece desconocer la tristeza y la angustia que genera en los jubilados la situación económica actual.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La jubilación mínima con bonos en Argentina es de $304.540, mientras que la canasta básica asciende a $800.000.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Comparando con otros países de América Latina como México, Brasil, Chile y Perú, Argentina se encuentra en una situación deplorable.",
+      "entidades_detectadas": [
+        "argentina",
+        "américa",
+        "chile"
+      ]
+    },
+    {
+      "frase": "La situación es compleja y requiere una explicación más detallada, incluyendo la situación de la rectora Cristina Camaño.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Las condenas emitidas por el ex presidente Alberto Fernández carecen de legitimidad moral considerando su propia conducta.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "fernández"
+      ]
+    }
+  ]
+}

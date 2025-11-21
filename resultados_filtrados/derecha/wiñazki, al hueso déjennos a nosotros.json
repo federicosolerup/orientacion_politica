@@ -1,0 +1,57 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El 20 de marzo, el presidente de la República Argentina anunció a la nación la necesidad de confinamiento domiciliario para convivir con el nuevo virus, indicando que la situación se extendería por un tiempo considerable.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Se argumenta que un hospital en Moreno para 700.000 personas era insuficiente incluso antes de la pandemia, para atender casos de fiebre de 38.5 °C, y menos ahora.",
+      "entidades_detectadas": [
+        "moreno"
+      ]
+    },
+    {
+      "frase": "A pesar de la construcción de otro hospital – iniciativa positiva –,  la clase política, ante la inminencia de la pandemia, pudo finalmente construir o inaugurar hospitales que faltaban, o aquellos inaugurados en múltiples ocasiones por Cristina Kirchner sin llegar a funcionar, o los que no construyó María Eugenia Vidal, como suele destacar Axel Kicillof.",
+      "entidades_detectadas": [
+        "axel",
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "¿Cuáles son las cifras reales para que la población de Moreno no piense que, aunque se desborde el sistema local, podrá contar con el Hospital Posadas?",
+      "entidades_detectadas": [
+        "moreno"
+      ]
+    },
+    {
+      "frase": "Si el hospital de Moreno se satura, también lo hará el Posadas.",
+      "entidades_detectadas": [
+        "moreno"
+      ]
+    },
+    {
+      "frase": "La República Argentina no es la Confederación Argentina de 1853.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Entiendo la dificultad del Presidente al dar un mensaje sin que todo esté confirmado, especialmente si el Gobernador de Buenos Aires está en teleconferencia con intendentes, anunciando más controles en los trenes (¿se implementaron o no los controles en los trenes?).",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Argentina enfrenta problemas estructurales de larga data.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 58,
+      "derecha": 8
+    },
+    "score_promedio": 0.175,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El ministro de Economía, **Luis Caputo**, anunciaba el acuerdo el pasado 6 de marzo en el 6º foro de inversiones y negocios, donde **Luis Caputo** en la apertura que fue el 6 de marzo dijo: \"Jamás el fondo pidió una devaluación\".",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como siempre dijimos, jamás el fondo pidió una devaluación.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí va a haber nuevos fondos frescos; esos fondos van a ser para recapitalizar el balance, los activos del Banco Central.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque ese préstamo del Fondo Monetario, que va a ir al Tesoro Nacional, el Tesoro Nacional con esos fondos va a recomprar deuda que tiene el Banco Central en su activo, deuda del propio Tesoro.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y desde una columna de opinión en el diario La Nación, el sábado el presidente **Javier Milei** justificó el acuerdo como un mecanismo para recomponer el patrimonio del Banco Central, siguiendo lo mismo que decía el Sr.",
+      "score": 0.278,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, el presidente defendió su política económica asegurando que ha logrado frenar la emisión monetaria y cortar el déficit fiscal, factores que, según su visión, fueron los causantes del deterioro inflacionario de las últimas décadas.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuestionan que la estabilidad económica lograda por el presidente puede ser sostenida a largo plazo, dependiendo de determinadas circunstancias, o sea, hay que ver si puede ser sostenida.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El arranque de 2025 ha estado marcado por incertidumbre en los mercados argentinos.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, sin dudas, la voz más resonante contra este nuevo acuerdo ha sido la de la expresidenta **Cristina Fernández de Kirchner**, que representaba la visión económica opuesta del líder libertario.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acabo de leer la nota que publicaste ayer en La Nación, donde querías explicar lo inexplicable, que vas a pedir miles de millones de dólares al FMI sin que ellos generen deuda nueva.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque con esos dólares vas a pagar las letras intransferibles que el Tesoro le debe al Banco Central.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo que hizo Macri cuando dijo que se endeudaba en dólares para pagar el déficit en pesos y el totocaputo le terminó pidiendo 57 mil millones de dólares al FMI.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, que para vos, economista, experto en crecimiento, con o sin dinero, es lo mismo una deuda de letras intransferibles entre el Tesoro y el Banco Central, o sea, una deuda intraestado, una deuda interna que no es exigible, no tiene valor de mercado, con tasa de interés más baja y, además, sujeta a la legislación nacional, que una deuda argentina con el FMI, que tiene condicionalidades sobre la política económica nacional, cuya tasa de interés más recargos ronda el 7%, que no admita quitas y que somete al país a la legislación y jueces extranjeros.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, ¿no era que quería cerrar el Banco Central porque era el ladrón más grande que existía en la Argentina y resulta que ahora pedís un préstamo al FMI para fortalecer su balance?",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En realidad estás tan desesperado porque te faltan dólares que vas a terminar haciendo el pésimo negocio para los intereses del país de cambiar una deuda barata y controlable por otra deuda más cara, que, además, somete a la Argentina a la extorsión permanente, \"papelitos de colores\", como le llaman algunos a las letras firmadas por el Tesoro por deuda en dólares constantes y sonantes del FMI.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta del millón: ¿Qué te va a exigir el FMI con el tipo de cambio?",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es llamativo que hace dos años Milei hacía una crítica a **Alberto Fernández** muy similar a la que **Cristina Fernández de Kirchner** le hace a él ahora, cuando el gobierno anterior llevó al Congreso la propuesta de renegociación de la deuda.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como dato curioso, en aquella ocasión, Milei estaba en contra del acuerdo, al igual que Máximo Kirchner.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar lo que decía Milei hace dos años cuando era diputado, entrevistado en aquel momento por La Nación Más, y decía: \"El FMI es una institución perversa.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI es una institución infinitamente cuestionada en el mundo.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los liberales libertarios, además, lo detestamos al FMI porque, en realidad, es una creación de White, un espía ruso, y Keynes.",
+      "score": 0.394,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero acá se quejan porque dicen que el fondo es duro.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, la crítica del mundo con el fondo es que es blando, que es muy laxo.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En mi caso, ni siquiera debería existir porque el fondo es una institución perversa.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le permite tirar el ajuste para adelante.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquella idea de que el pasado se construye en el futuro, porque es el futuro el que le da sentido.",
+      "score": 0.238,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquello que él decía en aquel momento podía parecer honesto en la medida en que, con el paso del tiempo, se mantuviese.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La declaración, además, es interesante porque Milei se opuso, además de la inexistencia del Fondo Monetario Internacional como una cuestión de principio para los libertarios, pero desde un extremo opuesto lo hizo junto con el kirchnerismo.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no critica la pérdida de soberanía, al contrario, critica al Fondo Monetario Internacional por ser una institución que interviene alterando las leyes del libre mercado entre otras naciones, salvando a los gobiernos de sus crisis económicas.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escucharlo decir, \"El mundo necesita una institución como el Fondo Monetario Internacional.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no existiera, la reinventaríamos\", y antes de escucharlo vale mencionar que Stiglitz fue el más crítico del Fondo Monetario Internacional.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay lo que podría llamarse fuerzas reincidentes a las que les gustaría que el FMI volviera al viejo FMI para restablecer la austeridad.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, el problema no es la deuda externa en sí, ni la existencia del FMI como tal, sino cómo y para qué se toma deuda y los términos del acuerdo que cada deuda implica entre el acreedor y el deudor.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En él analiza la recurrencia de las crisis económicas en la Argentina debido a la alternancia de dos modelos.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El primero es \"Pansionista y Popular\", que promueve el desarrollo de la industria mediante subsidios, el consumo interno y la distribución del ingreso, pero luego enfrenta la escasez de divisas, reinflación y crisis externas por falta de dólares, y esto genera el agotamiento y el desprestigio de ese modelo, que da paso luego al segundo modelo, \"Ortodoxo-Liberal\", que prioriza reducir el déficit y la apertura hacia los mercados, pero genera endeudamiento, pérdida de poder adquisitivo y desempleo, lo que provoca, por tanto, descontento social y protestas.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veamos algunos de estos movimientos pendulares respecto de la deuda externa argentina y, fundamentalmente, la relacionada con el FMI para darle sustento a esta idea del eterno retorno de lo mismo.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Raúl Alfonsín**, con el retorno a la democracia, criticó las imposiciones del FMI sobre la política económica.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como el caso de México, que puso en marcha sus nuevos yacimientos de petróleo, o Venezuela, o Siderurgia, o el Brasil, que montó un parque industrial en diez años mayor que el de la República, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, que se ha convertido en un país de la democracia, teniendo en cuenta el comunicado del Fondo Monetario Internacional de hace apenas no más de una hora, en el sentido de que el préstamo de facilidades ampliadas entrará en vigencia antes del final del primer trimestre de 1992, hemos decidido ofrecer a los bancos comerciales el inicio de las negociaciones de un Plan Brady para nuestra deuda externa en la última semana de enero de 1992\".",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora al discurso del Ministro de Economía de entonces, **Domingo Cavallo**, que dice: \"Estamos muy satisfechos por esta decisión del señor **Camdessus**, que era el presidente del Fondo Monetario.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta del director gerente del Fondo Monetario Internacional supone un desembolso total de 3.609 millones de dólares, es decir, representa un 236% de la cuota argentina en el fondo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos muy satisfechos por esta decisión del señor Camdessus de proponer al directorio del Fondo Monetario Internacional una cifra global de desembolsos que era la que Argentina venía solicitando\".",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También allí lo que queda claro es la inflación en dólares, no como de 3.000 a 30.000, que lejos quedan esos 3.000 millones de dólares de hace casi más de 30 años.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El plan de convertibilidad se mantuvo más o menos como fue, aguantando, la economía argentina podía aguantar con su escasez de divisas y, junto con la política de austeridad impuesta por los organismos externos.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tras el estallido, el Estado llegó al extremo de suspender completamente el pago de la deuda externa.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso fue anunciado en esta fatídica semana en que la Argentina tuvo varios presidentes.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El Estado argentino suspenderá el pago de la deuda externa\", y había sido aplaudido como si fuera una heroicidad.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La deuda externa argentina se ha venido pagando sin cumplirse con el requisito constitucional que dice que es atributo del Congreso arreglar el pago de la deuda externa interior y exterior de la nación.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En primer lugar, anuncio que el Estado argentino suspenderá el pago de la deuda externa.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de **Néstor Kirchner**, favorecido por los superávits gemelos que le dejó Duhalde y la eficaz conducción económica de Lavagna, tanto el fiscal como el comercial en el caso de los superávits, producto también de los precios extraordinarios de las materias primas a nivel internacional, aprovechó para saldar completamente la deuda con el Fondo Monetario Internacional e impulsó una política de subsidios.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner** diría luego que fueron pagadores seriales de la deuda externa.",
+      "score": 0.36,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, como anticipó Diamand, en su ensayo sobre el péndulo argentino, el modelo kirchnerista mostró signos de agotamiento luego de un periodo al no generar transformaciones estructurales que aumenten la productividad y multipliquen la generación de divisas.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero también encontró límites a su programa con fuertes movilizaciones contra la reforma jubilatoria, tuvo que acudir al Fondo Monetario Internacional para financiarse, multiplicando nuevamente la deuda externa del país.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 2018, cuando comienza el ciclo de caída de **Mauricio Macri**, **Javier Milei** criticó muy duramente este endeudamiento que llevó a la salida de **Luis \"Toto\" Caputo** del gobierno de **Mauricio Macri**, en aquel momento presidente del Banco Central, el que hoy es ministro de Economía.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar lo que decía Milei sobre su actual ministro de Economía el 31 de octubre de 2018.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desastre monetario que fue el 28 de diciembre, se lo trató de arreglar como pudo, se terminó en el Fondo Monetario Internacional, vino Caputo, o sea, lo echaron a Sturzenegger acusándolo de manejar mal la mesa, se fumó 15.000 millones de dólares de reserva irresponsablemente e ineficientemente y nos deja este despiole de la lechucería y bueno, ahora **Sanleri** va a tratar de hacer lo que pueda.",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la verdad, digamos, acá vos fijate esto, Caputo es uno de los responsables del 28 de, y es uno de los grandes desastres que se hicieron en el Banco Central, lo hizo Caputo en dos o tres meses\".",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Endeudarse puede ser una herramienta útil para el crecimiento económico si los fondos se utilizan estratégicamente, como decía Alfonsín, por ejemplo, que hizo Brasil para construir su industria en diez años, que a la Argentina le había llevado 80, o en el caso de México, para construir su industria petrolera, o, por ejemplo, para la inversión en infraestructura, desarrollo productivo, incluso para el saneamiento de pasivos que generen distorsiones en la economía.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema surge cuando la deuda se destina a financiar déficits estructurales sin una estrategia clara de desarrollo que permita un crecimiento económico sostenible que luego permita pagar esa deuda, o, peor aún, cuando se quema ese dinero a corto plazo, simplemente por una especulación electoral, porque las elecciones pasan, pero la deuda cae sobre las espaldas de las futuras generaciones.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Imagínese que un demonio le dijera a usted que su vida de ahora, tal como la está viviendo, como la ha vivido en el pasado, tiene que volver a vivirla, pero un número interminable de veces, y que no habría nada nuevo en ella.",
+      "score": 0.536,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, \"somos un Haster en una rueda\", o lo que dijo **Michel Foucault** de Zaratustra, \"lo que ha sido será, nada nuevo bajo el sol\", o esa frase que se dice que si uno se va a la Argentina una semana y vuelve, parece que ha cambiado todo, pero si se va diez años y vuelve, parece que no ha cambiado nada.",
+      "score": 0.338,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra vez el Fondo Monetario Internacional como tema crucial de la agenda argentina, repetida a veces desde hace 50 años, medio siglo.",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina atrapada en una suerte de eterno retorno de lo mismo, que todo cambia para que nada cambie, el famoso \"gatopardismo\".",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según Milei, el problema del país es la inflación, según Cristina Fernández de Kirchner es el endeudamiento y la economía bimonetaria.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La causa es que el entramado productivo del país es insuficiente para sostener la sociedad argentina en cuanto a su puesto de trabajo, a la generación de divisas para financiar la salud, la educación y la infraestructura necesaria.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin reformas estructurales que promuevan el desarrollo productivo y la generación de divisas, Argentina continuará dependiendo del crédito externo para tapar déficits, la aparición de la soja, la aparición del litio, todos elementos que pueden tener un momento de precios altos y luego caídas, repitiendo ciclos de endeudamiento y ajuste que terminan afectando a la sociedad en su conjunto.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si una hoja de ruta clara y sostenida en el tiempo, cualquier nuevo acuerdo con el Fondo Monetario Internacional será solo un capítulo más en la historia de un país atrapado en su propio péndulo.",
+      "score": 0.553,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 66
+  },
+  "etiqueta_original": "neutral"
+}

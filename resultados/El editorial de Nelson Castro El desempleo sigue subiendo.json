@@ -1,0 +1,57 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "El dato de la semana: aumento del desempleo, 9,2%, representando un aumento de 1,7% en la cifra del desempleo, la cifra más alta de los últimos años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuché algunas de las explicaciones del gobierno y, la verdad, me inquietaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El discurso del gobierno es que se está creando y aumentando el empleo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El INDEC, al cual todos hoy le creemos, y es un mérito del gobierno haber logrado un INDEC absolutamente creíble, dice exactamente lo contrario.",
+      "entidades_detectadas": [
+        "INDEC"
+      ]
+    },
+    {
+      "frase": "Me parece que el gobierno, y en especial el Presidente de la República, debe abordar esta situación con seriedad y gran atención para darse cuenta de que hay una realidad que no concuerda con su discurso actual.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y debe hacerlo de cara al futuro, porque efectivamente lo que el INDEC ha demostrado y comunicado es que todo este discurso, insisto, tanto del Presidente como de sus funcionarios, de que el empleo en Argentina está aumentando, no es verdad.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Presidente",
+        "INDEC"
+      ]
+    },
+    {
+      "frase": "Y como decía Aristóteles, la única verdad es la realidad.",
+      "entidades_detectadas": [
+        "Aristóteles"
+      ]
+    },
+    {
+      "frase": "Hasta el próximo jueves, muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Escuché",
+    "Argentina",
+    "El INDEC",
+    "Aristóteles",
+    "Presidente",
+    "INDEC"
+  ]
+}

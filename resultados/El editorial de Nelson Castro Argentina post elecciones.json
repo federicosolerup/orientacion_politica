@@ -1,0 +1,75 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy bien, reflexión final a propósito de este momento de Argentina, pasada ya la contienda electoral.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Argentina necesita construir consensos.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Para debatir los temas profundos que hay que abordar en pos de las reestructuraciones que necesita el país, hacen falta consensos, discusiones, opiniones diferentes y acuerdos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La democracia argentina, la dirigencia política le debe esto a Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Ojalá esa deuda se empiece a saldar a partir de ahora mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta la próxima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **\"puja electoral\"** se cambió a **\"contienda electoral\"**: Se corrigió para mejorar la precisión y el tono formal.",
+      "entidades_detectadas": [
+        "Cambios Realizados"
+      ]
+    },
+    {
+      "frase": "*   **\"hay que en la Argentina abordar\"** se cambió a **\"hay que abordar\"**: Se eliminó una redundancia para mejorar la fluidez.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "*   **\"saltar\"** se cambió a **\"saldar\"**: Se corrigió el verbo para que concordara con el contexto de una deuda.",
+      "entidades_detectadas": [
+        "saldar"
+      ]
+    },
+    {
+      "frase": "*   **\"el próximo juego\"** se cambió a **\"la próxima\"**: Se corrigió para adecuar el cierre a un contexto de reflexión general.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **No hubo nombres o apellidos que corregir** en el texto original.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   Se modificó la puntuación para una mejor fluidez en la lectura.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "saldar",
+    "Argentina",
+    "Cambios Realizados",
+    "la Argentina"
+  ]
+}

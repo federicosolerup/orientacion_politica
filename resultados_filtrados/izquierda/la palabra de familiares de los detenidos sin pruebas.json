@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El fiscal Carlos Stornelli pidió que 14 de ellas vuelvan a ser encarceladas.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Sasha fue detenida a 20 cuadras del Congreso, en la calle México y Lima.",
+      "entidades_detectadas": [
+        "méxico"
+      ]
+    },
+    {
+      "frase": "Paz y estudia Antropología en la Universidad de San Andrés (UdeSA), aproximadamente en segundo o tercer año.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Es un video de TN que muestra el momento en el que él sale del subte, creo que grita algo y lo agarran por detrás.",
+      "entidades_detectadas": [
+        "tn"
+      ]
+    },
+    {
+      "frase": "Van de la mano de la idea de que se quiso hacer un golpe de Estado que se tradujo en la vía judicial.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Esto es lo que decidió Patricia Bullrich antes de irse a sacar fotos al penal de máxima seguridad de Bukele en El Salvador.",
+      "entidades_detectadas": [
+        "bullrich"
+      ]
+    }
+  ]
+}

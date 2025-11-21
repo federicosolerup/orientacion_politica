@@ -1,0 +1,102 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La situación política en Argentina es compleja.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El trabajo de un presidente siempre es difícil, pero la actual situación se ha vuelto crítica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto Fernández, en declaraciones radiales, afirmó que al país le fue mejor con la pandemia de coronavirus que con la gestión de Mauricio Macri, una afirmación que generó una fuerte reacción de la oposición.",
+      "entidades_detectadas": [
+        "generó",
+        "Mauricio Macri",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Posteriormente, Fernández acusó a Macri de haberle propuesto, en una conversación privada, levantar la cuarentena sin importar las consecuencias, dejando morir a quienes debieran morir.",
+      "entidades_detectadas": [
+        "Macri",
+        "Fernández"
+      ]
+    },
+    {
+      "frase": "Macri, desde Zúrich, Suiza, donde reside actualmente, negó categóricamente estas afirmaciones a través de una carta.",
+      "entidades_detectadas": [
+        "Suiza",
+        "negó",
+        "Macri",
+        "Zúrich"
+      ]
+    },
+    {
+      "frase": "Esta controversia, que involucra a dos expresidentes electos,  ha exacerbado el debate político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La discusión se centra en la gestión de la pandemia y las implicaciones éticas de las decisiones tomadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Añadido a esto,  la vicepresidenta Cristina Fernández de Kirchner, impulsa una reforma constitucional, lo que añade otra capa de complejidad a la situación.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "El escenario se complica aún más con las declaraciones de Eduardo Duhalde, quien en una entrevista con Luis Novaresio,  sugirió la posibilidad de un golpe de Estado y la cancelación de las elecciones de 2021, citando la inestabilidad política y social del país.",
+      "entidades_detectadas": [
+        "Luis Novaresio",
+        "Eduardo Duhalde"
+      ]
+    },
+    {
+      "frase": "Sus declaraciones fueron rechazadas unánimemente por el gobierno, la oposición y las Fuerzas Armadas.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas"
+      ]
+    },
+    {
+      "frase": "Sin embargo, la posibilidad de postergar las elecciones debido a la pandemia del coronavirus es un tema que ya se está debatiendo en los ámbitos políticos y judiciales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Cámara Nacional Electoral, considerando la duración de la pandemia según la OMS y los ejemplos de otros países que han suspendido o postergado sus elecciones, está evaluando diferentes escenarios para garantizar la realización de las elecciones,  si bien se ha confirmado que se celebrarán las primarias, abiertas, simultáneas y obligatorias (PASO).",
+      "entidades_detectadas": [
+        "OMS",
+        "Cámara Nacional Electoral"
+      ]
+    },
+    {
+      "frase": "En resumen, la Argentina se enfrenta a un complejo panorama político,  caracterizado por fuertes controversias entre los principales líderes políticos y la incertidumbre sobre el desarrollo de las próximas elecciones en medio de la pandemia.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Luis Novaresio",
+    "Argentina",
+    "Eduardo Duhalde",
+    "Alberto Fernández",
+    "Macri",
+    "generó",
+    "Posteriormente",
+    "Zúrich",
+    "Suiza",
+    "Cristina Fernández de Kirchner",
+    "Fuerzas Armadas",
+    "La Cámara Nacional Electoral",
+    "la Argentina",
+    "OMS",
+    "Fernández",
+    "Mauricio Macri",
+    "negó"
+  ]
+}

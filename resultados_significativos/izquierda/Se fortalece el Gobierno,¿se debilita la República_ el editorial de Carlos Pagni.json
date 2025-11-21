@@ -1,0 +1,511 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 77,
+      "derecha": 22
+    },
+    "score_promedio": 0.251,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Después le vamos a preguntar a Alejandro **Catterberg** por qué estas fluctuaciones están marcadas, si son normales, si son habituales en todas las administraciones o es una caracterización, una peculiaridad de la administración de Javier Milei.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense: la recuperación de la confianza en el gobierno en diciembre, con el cambio de gobierno, fue de 1,69, el promedio de toda la administración de Alberto Fernández.",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto explica por qué el kirchnerismo y todo el peronismo hacen escarnio de Fernández: una gran recuperación con la llegada de Milei y una tendencia a la baja, una baja pronunciada el mes pasado y ahora una recuperación.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si queremos comparar -y el índice compara, los expertos que elaboran este índice comparan-, cuando Macri estaba en octubre de su primer año de gobierno, estaba un 7,9% mejor de lo que está Milei ahora, como referencia.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Octubre de 2016, Macri estaba por encima de lo que está Milei en este momento; estaríamos hablando más o menos de esta etapa; bueno, aquí está la llegada de Macri y estaríamos hablando más o menos de este momento.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si comparamos con Alberto Fernández, en octubre de 2020, es decir, en el mismo momento en que la Universidad Di Tella mide ahora a Milei, estaba un 21,7% por debajo, peor que Milei.",
+      "score": 0.256,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo comparamos con el gobierno de Macri, está peor, pero después vamos a preguntarle a Alejandro si se pueden hacer estas comparaciones, y me va a interesar preguntarle por algo que llama la atención de todo el mundo: que la situación de Milei a lo mejor no es tan buena como la de Macri en términos comparativos, pero da la impresión de que es más estable, de que se estableció en una determinada franja de consideración pública y de ahí no se mueve ni mucho para arriba ni mucho para abajo.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habría que preguntarse por qué; le vamos a preguntar a Alejandro **Catterberg** por qué.",
+      "score": 0.656,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La primera respuesta que a uno se le ocurre, muy improvisada, diríamos vulgar, tiene que ver con el conflicto universitario y con esta caída en esa edad, que justamente es la edad de los universitarios.",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, la confianza del mercado en que la Argentina va a honrar su deuda, es decir, que la Argentina como entidad, como sujeto de crédito, merece más confianza, está subiendo.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sube el precio de los bonos, los que tienen bonos están de fiesta, por eso también hay un clima financiero muy proclive al gobierno, que lo notaron los que viajaron a la reunión que se realizó esta semana pasada en Washington, del Fondo Monetario Internacional.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vieron que el argentino es una especie de rockstar o Milei es una especie de rockstar.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son 914 puntos contra países como Brasil o Uruguay o Colombia, que tienen índices de riesgo menores a 400, es decir, todavía duplicamos, más que duplicamos, a países similares.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, habría que leer el informe que hoy produjo EconViews, la consultora de Miguel **Kiguel**, que dice, bueno, primero, sigue pesando la reputación para la Argentina, la reputación por el tratamiento de la deuda durante el gobierno de Cristina **Fernández** de Kirchner, la reputación por el reperfilamiento de deuda durante el final del gobierno de Macri, la reputación por una renegociación de deuda que el mercado vio como muy mediocre durante el gobierno de Alberto Fernández.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay también otras razones que tienen que ver con las dificultades del Banco Central para obtener o mejorar sus reservas, a pesar de que le están mejorando, y las mejora; está comprando dólares en todas, en las últimas 20 rondas, el Banco Central.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto mejora a aquellos que dicen: \"La Argentina tiene recursos para pagar\", va mejorando la imagen.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También es cierto que la deuda argentina, y esto lo explica **Kiguel** en su informe, en relación con el producto bruto, es baja, es del 36%; en Brasil es del 60%; en Uruguay es del 52%.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, uno podría decir: \"¿Cómo puede ser que con una deuda tan baja tengamos más del doble de riesgo país?\".",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después hay otra observación que realiza Miguel **Kiguel**, que es que el Fondo Monetario...",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Funcionarios del Fondo Monetario Internacional, en conversaciones informales con operadores del mercado, han deslizado que, preocupados por que el fondo pueda cobrar la deuda, su deuda con la Argentina, que es voluminosa, aconsejarían una renegociación de la deuda con el sector privado, y esto retrae a los privados.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También hay un punto, y es que el mercado confía en que en algún momento la Argentina va a liberarse del cepo cambiario, que es una condición indispensable para que se normalice la economía y se reactive la economía.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una opinión generalizada en el mercado, que cree en la palabra del presidente y cree en la palabra de Luis Caputo, que dice: \"En algún momento, cuando la inflación converja con el índice de evaluación del 2% mensual, ahí pensaremos en levantar el cepo\".",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Kiguel** dice: \"El día en que el índice de riesgo país no sea de 914, no sea de 800, que es lo que él cree que va a pasar a fin de año, en diciembre, sino que si llega a 600, la Argentina va a poder volver al mercado de crédito\".",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, este tema, que es la mejora del índice de riesgo hoy, es importante para la Argentina y es otra razón por la cual se ve a Milei como el titular de un gobierno fortalecido.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Milei está dando pruebas -lo comentábamos la semana pasada, insisto, esta semana con lo mismo ahora- de que en la panza visceralmente sabe manejarse con el poder.",
+      "score": 0.584,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, al mercado le interesa tanto eso...",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que, por lo menos al mercado financiero, y ya no a las empresas, a los que se mueven en la bolsa o en el mercado de bonos, mucho no les importa la calidad de esa gobernabilidad que estaría garantizando Milei con este temperamento respecto al poder.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le interesa que garantice que esté en el control de la escena, cómo no importa.",
+      "score": 0.252,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este ejecutivo de Goldman les decía lo siguiente: \"Hoy en el mundo hay dos estrellas políticas, que son dos sujetos políticos que están llevando adelante reformas muy importantes en sus países y a los que estamos mirando con muchísimo interés.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero da la impresión de que a la banca, por lo menos, mucho no le importa eso; le importa un gobierno que se muestre fuerte.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es uno de los rasgos que habla de la fortaleza de Milei y la división de los otros?",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno mira la expresión más clara del oficialismo nacional en la ciudad de Buenos Aires, que es Karina Milei y el bloque de legisladores locales de ella en la legislatura porteña, vamos a ver qué realiza una oposición bastante hostil al gobierno de Jorge Macri.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se enojaría mucho Milei si Mauricio Macri, con sus diputados o sus senadores, llevara ese tipo de oposición al Congreso Nacional respecto de su gobierno.",
+      "score": 0.432,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, hay un intento de capturar a un sector del PRO que tiene algún parecido con el intento exitoso, en aquel momento, por lo menos hasta la 125, de capturar un sector del radicalismo por parte de Néstor Kirchner en el comienzo de su gobierno.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué es lo que le interesa acá al oficialismo?",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo más obvio: Milei se ve fortalecido por el clima financiero, mucho más que por el clima económico general.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Confía en que, como dice todo el tiempo y le dijo hace tiempo ya a sus ministros, de ahora en adelante lo único que viene en materia económica son buenas noticias, un gran optimismo, probablemente muy audaz, y desde esa plataforma que le da la economía y el éxito administrativo, se propone ser el líder monopolio de todo lo que vaya del centro a la derecha.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Milei dice: \"No\", y sobre todo Santiago Caputo, el mago del Kremlin, el principal asesor político del presidente, dice: \"No, la vamos a encabezar nosotros; ustedes, en todo caso, pasan segundos, guarden su propia lista\".",
+      "score": 0.535,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el PRO tiene otro desprendimiento, hasta ahora bastante imperceptible, sigiloso, que es Rodríguez Larreta, cuya gestión como alcalde se recuerda luminosamente.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Larreta está pensando en ser también candidato a senador, por fuera del PRO, probablemente por fuera del PRO.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, habría una fragmentación en el PRO que haría que el gobierno se sienta con su minoría más fuerte, postulando a quién?",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el mismo conflicto, si uno se pone a hacer memoria, que tenían Kirchner con Duhalde entre 2003 y 2005.",
+      "score": 0.567,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era una pelea entre Chiche Duhalde y Cristina Kirchner, que la terminó de consolidar a Cristina Kirchner y a Kirchner en la provincia de Buenos Aires.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo, Milei lo que está haciendo es seguir el manual de Maquiavelo, que decía: \"Lo primero que tenés que hacer cuando llegás al poder es cortar la cabeza a los que te ayudaron a llegar\".",
+      "score": 0.626,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, parece ir en esta línea, con toda cordialidad, la misma cordialidad que tenía durante 2003 y 2004 Kirchner con Duhalde.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablando del mago del Kremlin, hay una foto que está circulando que es muy interesante, acá lo tenemos: Santiago Caputo con un grupo de militantes muy ligados a él, entre los que están Nahuel Sotelo, está Agustín Romo.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ponemos una lupa, si pusiéramos una lupa acá, le aplicamos un zoom a esta parte de la mesa: *El mago del Kremlin*, la novela referida a una especie de Santiago Caputo de Putin, escrita por Giuliano Da Empoli, que estuvo la semana pasada en Buenos Aires dando conferencias, en las cuales planteó toda una caracterización de la nueva política en el mundo, de la nueva política de las derechas en el mundo, que nos va a reconstruir después en el programa Anne **Parraguirre**.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, cuando miramos a Caputo, ahí está el libro, cuando miramos a Caputo, uno debería decir: \"Bueno, esta línea, por la cual pretenden sustituir al PRO como representación de los sectores medios de centro y centro-derecha, no es nada más que una apuesta de Santiago Caputo a lo que fue su primera hipótesis de trabajo en el año 2018\".",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo trabajaba para Macri, vía Durán Barba, vía Rodrigo Lugones, y a él se le reconoce haber tenido la intuición de decir: \"A mi juicio, ustedes sigan acá en esta nave, yo me bajo, porque creo que la gente, el electorado, ya le bajó el pulgar al PRO y a Macri, y que acá empieza otra cosa, distinta, más radicalizada\", y lo vio a Milei, lo vio a Milei cuando no lo veía nadie, cuando Milei era un panelista de programas de televisión, un opinador.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Postoy le fue bien.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la razón por la cual Milei está tan reconocido por Santiago Caputo.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, daría la impresión de que Caputo sigue esa línea de decir: \"El PRO está agotado y ahora vamos a terminar de agotarlo quedándonos con su electorado\".",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cualquiera de los casos, no nos puede pedir la mitad de la lista, y si no le gusta, que arme su propia lista, y si arma su propia lista Macri en la provincia de Buenos Aires y el gobierno pierde contra un peronismo fortalecido, fortalecido, imaginemos, es una hipótesis, es un escenario, no es un pronóstico, fortalecido por una situación social que no termina de despegar, eso es un escenario, es un escenario riesgoso para el gobierno.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de un triunfo peronista kirchnerista en la provincia de Buenos Aires el año que viene, que podría anticipar un regreso de eso.",
+      "score": 0.217,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mercado también quedó escaldado con esa costumbre argentina de que el péndulo vuelva a lo que es ya conocido, la dificultad de inventar algo nuevo.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una fractura que llega ahora al juzgado de María Servini de Cubría entre Cristina Kirchner y Ricardo Quintela, el gobernador de La Rioja, que desafía al kirchnerismo para la presidencia del PJ.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le reprochan a Quintela desde el kirchnerismo?",
+      "score": 0.476,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Coincide la junta electoral con la posición de Cristina Kirchner.",
+      "score": 0.221,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Cámpora tomó la sede del PJ y ahí opera con total arbitrariedad.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la idea de que esa elección les va a dar más tiempo para constituirse territorialmente y poder hacerle fuerza a una Cristina que puede ganar.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice: \"Esto no es una pelea por la conducción del PJ solamente; no es tan inocente\".",
+      "score": 0.566,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ve eso Cristina, ve gente de Salta que representa al gobernador Sáenz, ve obviamente a Jaldo, gobernador de Tucumán, que pone nada menos que al presidente del bloque oficialista de la Cámara de Diputados de Tucumán, como hombre en la lista de Quintela.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ve gente de Alberto Rodríguez Saá en la misma lista de Quintela.",
+      "score": 0.455,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué es esto?, se pregunta Cristina Kirchner.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina dice: \"No, no, acá hay otra cosa.",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá Quintela es el caballo de Troya para la constitución de un juego político nuevo\".",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo ponemos en términos brasileños, sería un *Centrão*, una fuerza de centro que libra una batalla política dentro del PJ, pero a su vez le sirve de plataforma al gobierno.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están los que le dicen a Cristina: \"Vos provocaste esa fractura\".",
+      "score": 0.644,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y porque pusiste en tu lista y enarbolaste con tu facción a Germán Martínez, presidente del bloque de diputados del peronismo, que debería ser una figura ecuménica; no, se enarboló con un sector, y también a José Mayans, presidente del peronismo en el Senado.",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que acompañamos a Quintela en el Senado o en la Cámara de Diputados tenemos derecho a irnos de esos bloques que están presididos ahora por un sector.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto dicen los que le replican a Cristina la idea de que detrás de Quintela hay una operación de combinación con el gobierno.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parte de ese dinero es una deuda de los últimos tres meses de Massa, parte de ese dinero es una deuda de todo este año, que eso se interpreta en un castigo a los riojanos por la disidencia del gobernador Quintela respecto de Milei y, probablemente, por alguna influencia de los Menem, Martín Menem, Lule Menem, muy cercano a Karina Milei, que tiene una guerra importante territorial en La Rioja contra Quintela y forman parte del gobierno.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lloma, que como ustedes saben, es simpatiquísimo y tiene un gran sentido del humor, le explicó a Francos algunos criterios de José Lloma, su padre, lecciones financieras que le impartía José Lloma, dueño de una bodega, al pequeño Jorge Lloma y le decía: \"Vos tenés que reconocer cuando hay una deuda, cuando alguien tiene una deuda con vos, que te reconozca el 50% de esa deuda, porque ya con eso pedís crédito.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Deuda reconocida es deuda pagada en un 50%\", le decía José Lloma a Jorgito Lloma, chiquito.",
+      "score": 0.351,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo otro que le decía es: \"Cuando vas a pedir plata, andá de traje, no vas a zaparraso, ponete un traje para darle la sensación al que te presta que le vas a devolver la plata\".",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene razón Cristina Kirchner; detrás de la lista de Quintela hay una operación por la cual el gobierno quiere provocar una división en los bloques del Congreso.",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá aparece una figura importantísima a la que no mencioné todavía, Axel Kicillof, que lo llamó hoy a Quintela para preguntarle cómo le había ido a Lloma.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, la pregunta es: detrás de la lista que enfrenta a Cristina en el PJ, ¿hay una reconfiguración de todo el sistema?",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Podría ser Kicillof, tan dogmático, tan tirado hacia la izquierda, en su momento tan leal a Cristina Kirchner, podría ser un candidato panperonista que se corra al centro y lidere a todo este peronismo federal, una especie de liga de gobernadores?",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son todas preguntas que están abiertas hoy en la vida del PJ y en la vida del país porque de lo que estamos hablando es de la gobernabilidad que está buscando Milei, que no tiene fuerza parlamentaria ni en la Cámara de Diputados ni en la Cámara de Senadores.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hay una nota muy interesante que yo recomiendo leer, si usted todavía no la leyó, de Claudio Fantini en La Nación, donde habla...",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y habla en esa nota de Fantini Santiago Caputo, el mago del Kremlin; habla también el autor de *El mago del Kremlin*, Da Empoli, pero es interesante lo que dice Caputo en la nota de Fantini: \"Vamos por todo\", porque \"todo este recorrido de fortalecimiento va a terminar en una reforma de la Constitución\".",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Para volver a la Constitución de Alberdi o para otra Constitución?",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la primera vez que se habla abiertamente de esto en la nota de hoy publicada en La Nación por Fantini.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, vamos ahora a mirarlo institucionalmente y me refiero a otro artículo periodístico publicado ayer, Alejandro Berkovich en Diario AR dice: \"El gobierno está pensando en meter a Ariel Lijo y a Manuel García-Mansilla en la Corte por decreto\", como Macri hizo, siguiendo la doctrina de Pepín Rodríguez Simón con Horacio Rosatti y Carlos Rosenkrantz.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿El peronismo, el kirchnerismo podría gritar en el cielo?",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una pregunta, porque hay quienes dicen que estaría en acuerdo con el kirchnerismo todo esto, que hay mucho diálogo entre Wado de Pedro y Santiago Caputo a través de Guillermo Garat, socio de Caputo, que está sentado en la parte de publicidad y relaciones institucionales de YPF.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un mensaje raro, rarísimo, dos veces lo emitió Máximo Kirchner: \"El presidente tiene todo el derecho del mundo a emitir decretos de necesidad y urgencia y no tenemos derecho a patalear\".",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno trata de componer a tres, se rompe todo y acá hay tres: el gobierno, el kirchnerismo y, cada vez más claramente, un peronismo, por lo menos no kirchnerista, con la incógnita y la peculiaridad, la rareza, de que podría ser liderado por Kicillof o llevar a Kicillof como candidato.",
+      "score": 0.207,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Te dije, mamá, que era un traidor\", esto le está diciendo todos los días Máximo Kirchner a Cristina.",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién iba a decir que a Milei le iba a interesar tanto el aparato de cobro de impuestos?",
+      "score": 0.492,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las designaciones conflictivas de Andrés Vázquez...",
+      "score": 0.61,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Andrés Vázquez en la Corte lo miran de reojo, dicen: \"No nos gusta esto\", ¿designaciones hechas para qué?",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Será contra nosotros si hacemos algún fallo que al gobierno no le guste?",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En *Clarín* les gusta menos, porque Andrés Vázquez cuando entraba como *Pancho* por su casa en Olivos, tiempos del kirchnerismo duro, es el que organizó el allanamiento de *Clarín*.",
+      "score": 0.29,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una restauración de lo anterior, mientras el marketing dice que cambia todo y, sobre todo, que echan gente y le ofrecen jubilación, y acá viene un problema también, porque aparentemente la jubilación sería con los 20 sueldos, de 20 sueldos del mejor sueldo cobrado.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después vienen las designaciones, las designaciones de Vázquez y de Véliz, acá lo tenemos a Vázquez, Andrés Edgardo Vázquez, DNI 13.965.131 y a Véliz 12.960.798.",
+      "score": 0.158,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense, es una resolución que la vamos a ver ahora, que la firma Andrés Vázquez, la firma Andrés Vázquez, las designaciones de los nuevos directivos, muchos de los cuales también son restauración de gente que viene del pasado.",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece que sea el primer interés de Andrés Vázquez cuando llegó.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 99
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,57 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Hay información que indica que la fórmula es la de Gerardo Morales y Juan Manzur.",
+      "entidades_detectadas": [
+        "morales"
+      ]
+    },
+    {
+      "frase": "Por ahora, solo la candidatura de Gerardo Morales está confirmada; la fórmula de Daniel Scioli aún no define a su compañero o compañera de fórmula.",
+      "entidades_detectadas": [
+        "scioli",
+        "morales"
+      ]
+    },
+    {
+      "frase": "Este domingo hay elecciones en Córdoba y Formosa, ambas importantes.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Las elecciones en Formosa fueron especialmente significativas, ya que obligaron a la Corte Suprema a no intervenir, pues de lo contrario, todo indicaba que las elecciones se iban a realizar de todas formas.",
+      "entidades_detectadas": [
+        "formosa"
+      ]
+    },
+    {
+      "frase": "En una de ellas se encuentra Patricia Bullrich, quien hasta el día de hoy no ha condenado el intento de magnicidio contra Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Además, se anunció la fórmula de Horacio Rodríguez Larreta y Gerardo Morales.",
+      "entidades_detectadas": [
+        "larreta"
+      ]
+    },
+    {
+      "frase": "Esta fórmula representa un riesgo para la democracia: Rodríguez Larreta pone en riesgo la democracia en la Ciudad de Buenos Aires, y Morales en Jujuy, donde existe una presa política desde hace casi ocho años.",
+      "entidades_detectadas": [
+        "larreta",
+        "morales"
+      ]
+    },
+    {
+      "frase": "Morales reformó la constitución para limitar la protesta social, cercenar los derechos de los pueblos originarios y reprimir para facilitar negocios con el litio, recurso abundante en Jujuy.",
+      "entidades_detectadas": [
+        "constitución",
+        "morales"
+      ]
+    }
+  ]
+}

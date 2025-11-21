@@ -1,0 +1,81 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 2
+    },
+    "score_promedio": 0.207,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Retomamos la frase de ayer, que considero podría ser la frase del mes o del año, respecto a que “sin Cristina no hay peronismo y sin peronismo no hay Argentina”, atribuida a **\"El Cuervo\" Larroque**.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En otras palabras, el planteo es: si no hay peronismo sin Cristina y si no hay Argentina sin peronismo, entonces no hay Argentina sin Cristina.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la sumisión a las autoridades designadas por Dios era una obligación de todo creyente, porque en el fondo significaba una sumisión a sí mismo.",
+      "score": 0.51,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este tipo de pensamiento, creo que resulta muy peligroso, no solo para la Argentina en su conjunto, sino para la propia Cristina Fernández de Kirchner en la forma en que lleva adelante su defensa.",
+      "score": 0.245,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar una serie de audios relacionados con las respuestas de personas cercanas a Cristina Fernández de Kirchner, fundamentalmente la abogada que la asiste en el Senado, el abogado que la asiste en la defensa en el Tribunal y el ministro de Justicia, respecto de las acusaciones en el juicio de Vialidad.",
+      "score": 0.519,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto no es en detrimento; creo que la recusación no pone en juego la calidad moral ni del juez ni del fiscal, solo pone de frente a una cuestión objetiva, que es un razonable temor de la parte que es juzgada respecto a la imparcialidad de los magistrados.\"\n\nVamos al segundo audio de Graciana Peñafort, donde dice que la mitad de la Corte Suprema, que finalmente es la que va a tener que fallar, no tiene legitimidad; o sea, lo que plantea es un oxímoron: la recusación va a llegar hasta la Corte Suprema y, finalmente, la Corte Suprema no tiene autoridad, lo que plantea en sí mismo algo de imposible concreción.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vayamos a este segundo audio de Graciana Peñafort: \"Estoy casi segura de que esto va a dar lugar a una nulidad que va a discurrir varias instancias por la casación y luego por la Corte Suprema, que tampoco es el organismo adecuado para resolver esto, porque la mitad de la Corte Suprema, es decir, de los cuatro miembros que tiene, dos de ellos están acusados en la causa de Cristóbal López por tener comunicaciones habituales con **Pepín Rodríguez Simón**.\"\n\nAhora vamos a escuchar un audio de **Gregorio Dalbón**, el abogado que la defiende directamente frente a los tribunales que están en este momento juzgando:\n\n\"Vamos a continuar con un juicio ilegal.",
+      "score": 0.122,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenían que acercarse a eso, tenían que aceptar la discusión, porque además le darían posibilidad de continuar el proceso, porque si no, ellos bancan la situación y dicen: 'No, yo juego al fútbol, pero no soy amigo, somos conocidos', y ponen alguna excusa.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a continuar con un juicio ilegal, tarde o temprano, como le pasó con Lula, el juicio va a ser declarado ilegal.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El juicio de Lula está anticipando su expectativa de que suceda algo parecido a lo que sucedió con el juicio de Lula en Brasil, donde el juez Moro le daba indicaciones al fiscal Dagañol, y eso fue lo que terminó haciendo que se anule en la Corte del Supremo Tribunal de Justicia, que es equivalente a nuestra Corte Suprema, el juicio al presidente Lula.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esa expectativa es que encuentre luego un WhatsApp entre el fiscal y uno de los jueces, y se plantee exactamente lo mismo.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos viendo una promiscuidad total entre funcionarios judiciales, en este caso el presidente del Tribunal Oral que está llevando adelante este juicio, Jiménez Uriburu, jugando con el mismo equipo que el fiscal que está hoy haciendo estos alegatos, **Pascualeta**, un fiscal que no muestra pruebas, pero le grita a la Cámara, a una computadora, y con frases netamente políticas, más que pruebas acerca de la comisión de algún ilícito, que es lo que deberían estar investigando.",
+      "score": 0.247,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Sin Cristina no hay peronismo, sin peronismo, no hay país, sin Cristina no hay Argentina.\" Escuchemos a No Te Va a Gustar, \"Fuera de Control\" y comenzamos el programa.",
+      "score": 0.457,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 13
+  },
+  "etiqueta_original": "neutral"
+}

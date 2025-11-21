@@ -1,0 +1,226 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 36,
+      "derecha": 6
+    },
+    "score_promedio": 0.204,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este es el último día de septiembre y ayer se produjo el debate final, que fue un debate muy agitado, fundamentalmente entre el actual presidente, Jair Bolsonaro, y el futuro, probablemente, presidente, Luiz Inácio Lula da Silva.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empezamos con la acusación de \"bandido\" que se profirieron, tanto Bolsonaro a Lula, como Lula a Bolsonaro.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue un debate muy acalorado, la primera media hora fue muy intensa, luego se fue calmando progresivamente; probablemente, también se fue acabando la energía y la adrenalina de los contendientes.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los medios brasileños coinciden en que Bolsonaro salió derrotado o que desaprovechó la última oportunidad que tenía de tratar de derrotar a Lula, al menos discursivamente.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí vamos a escuchar el primer audio, donde Lula le contesta a Bolsonaro de manera muy enfática.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estaba muy duro Lula al comienzo: \"Y no te voy a mandar a tu casa, el pueblo brasileño, el próximo domingo, te va a enviar a tu casa\".",
+      "score": 0.371,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Pero es una insanidad que un presidente de la República venga aquí y diga lo que dice, como un desfase artístico.",
+      "score": 0.84,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para saber lo que tanto quieres esconder con esos secretos, voy a hacer un decreto para saber lo que este hombre esconde con esos secretos, y yo voy a parar por aquí porque quiero que los otros participen en el debate\".",
+      "score": 0.157,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí está Lula diciendo que es un desfase artístico y una insanidad que un presidente de la República se presente con su discurso y mienta, le pide que mienta menos y, además, que el pueblo el día domingo lo va a vencer electoralmente, es decir, lo va a dejar sin la presidencia.",
+      "score": 0.335,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habla de que una de las primeras medidas que Lula va a tomar cuando sea presidente es eliminar el decreto de la ley de Secreto, que es la ley de secreto por la cual Bolsonaro colocó una cantidad de temas que no pueden ser revelados como secreto de Estado.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El secreto es para temas sensibles y, por ejemplo, Bolsonaro lo pidió para lo que se llaman los certificados de vacunación de él y sus hijos, la visita que recibieron en el Palacio de Planalto, que sería equivalente a donde vive y, al mismo tiempo, a donde gobierna, las informaciones de registro de visita de pastores, especialmente las visitas que recibieron sus hijos.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto estaría protegido por un decreto de secreto de Estado por 100 años, que es lo que Lula dice que va a derogar el primer día que asuma como presidente.",
+      "score": 0.198,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos a Bolsonaro ahora:\n\n\"Mentiroso, ex presidiario, traidor de la patria, que 'rachadinha', 'rachadinha' a tus hijos, robando mil millones de empresas após tu llegada al poder, que CPI es esta, la falsa que vienes a defender aquí, que me achaste, nada, que dinero de propina, no tiene propina, propina tiene, el señor Carlos Gabas, del consorcio Nordeste, de los gobernadores amigos que fue descubierto de 50 millones de reales y nada fue apurado, el gobierno, a través de Carlos Gabas, consorcio Nordeste, hizo a muchos nordestinos morir por falta de aire, porque fue desviado el dinero de las compras de respiradores, nada tiene contra mi gobierno, nada, desde mentir, solo me avergüenza la cara\".",
+      "score": 0.179,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, aquí Bolsonaro le dice mentiroso, ex presidiario, traidor de la patria, y habla de la propina, la propina es lo que sería pagar un soborno, y dice que nunca hubo en el caso de su gobierno esos sobornos, como si está probado en el caso de su gobierno, y habla de la \"rachadinha\".",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La \"rachadinha\" sería algo equivalente a la devolución que hacen los empleados que él contrata, o sea que alguien tiene, por ejemplo, 100 empleados en un ministerio y le devuelven un porcentaje de lo que cobran.",
+      "score": 0.624,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es la \"rachadinha\" que acusa Bolsonaro al PT y fundamentalmente a Lula de cobrar \"rachadinha\", es decir, que las personas que contratan le devuelvan una parte de lo que fue contratado.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar ahora este otro audio donde Luiz Inácio Lula da Silva le contesta a Ciro Gomes.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ciro Gomes, hay una carta de muchos intelectuales de Brasil pidiéndole que se retire, que podría tener entre el 4 y el 6% de los votos, y los votantes de Ciro Gomes son votantes de centro-izquierda.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, Ciro Gomes integró el gobierno de Lula y fue muy crítico con Lula ayer, tratando, probablemente, como un Edipo clásico, de separarse de su padre.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos esta polémica entre Lula y su exfuncionario y candidato a presidente de la República.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que no recuerdo que tú saliste del gobierno para ser candidato a la república federal contra mi voluntad, que quería que tú fueras por bien del 10.",
+      "score": 0.329,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí le dice, pareciera la frase de Néstor Kirchner que tomó para estos carteles, \"estás nervioso\", es lo que le dice Ciro Gomes a Lula.",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero habla de la tragedia de Bolsonaro, o sea, lo acusa de haber, con su fracaso, traído a Bolsonaro, o sea, claramente Ciro Gomes se coloca desde el lugar de que los votantes de Ciro Gomes, en un eventual balotaje, si no ganara Lula en primera vuelta, votarían por Lula porque consideran a Bolsonaro una tragedia.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo acusa de haber traído a Bolsonaro por el fracaso del PT, y en otra parte del debate entre Ciro Gomes y Lula, Ciro Gomes le dice que si hubiera sido tan exitoso el gobierno del PT, no hubiese llegado a que Bolsonaro pudiese ser presidente de Brasil, y ahí Lula le contesta con una serie de logros de su gobierno, que ahora vamos a poder escuchar en este audio que coloquemos.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lula da Silva, la ley de cuotas es un pago de una deuda que tenemos con los 100 años de esclavitud, escuchemos.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Que la ley de cuotas es el pagamento de una dívida que el Brasil tiene de 350 años de escravidad, la ley de cuotas permite que recuperemos la posibilidad de enfrentar el racismo, de enfrentar el preconceito, de enfrentar la malignación, de dar al pueblo periférico la oportunidad de estudiar, de tener derecho en este país, y no sabes que he tenido y he sido un presidente que no tiene diploma universitario, que tiró a la universidad brasileña de 3 millones y medio estudiantes para 8 millones de estudiantes, ¿no sabes lo orgulloso que tengo de saber que una niña de la periferia negra, una niña de la empregada doméstica, de pastilleros, de lixeros que cargan la profesora, tiene un hijo haciendo ingeniería, medicina, diplomacia, eso es lo importante que tenemos que hacer, dar a las personas que durante tanto tiempo no tienen derecho, el derecho de ganar ciudadanía\".",
+      "score": 0.047,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, vamos a escuchar ahora lo que serían los logros de Lula y cómo la prensa brasileña, que es equivalente a nuestro chequeado, dice dónde Lula exageró.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lula dijo que nosotros generamos 22 millones de empleos, dice que esto es exagerado, que se generaron solamente 19,4 millones de empleos, de cualquier forma parece bastante.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego dice que Lula: \"Nosotros aumentamos el salario mínimo en 77%\" y dice que fue 75%, fíjense el nivel de insignificancia en las exageraciones.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego Lula dice que cuando yo llegué al gobierno tenía 100 billones de flujo de exportaciones y lo dejamos en el mercado de la universidad, y aquí hace todo un análisis en que, en realidad, el flujo del año de Brasil, las importaciones restaron también al flujo de las exportaciones y hay toda una discusión respecto de la cantidad de importaciones y exportaciones, pero no cabe ninguna duda que aumentaron significativamente las exportaciones.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego, otro de los temas que Lula mencionaba como parte de sus logros, es que en mi tiempo de gobierno se creó una cosa llamada portal de transparencia, o sea, el portal de transparencia, por el cual todas las informaciones de los gastos públicos del gobierno federal eran transparentes y puestos en internet, cosa que es cierto.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego se dice que fue exagerado cuando Lula dijo: \"Yo dejé el Banco Central de Brasil con 370.000 millones de dólares de reservas\" y, en lugar de 370.000, fueron 290.000.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, Lula dijo: \"Y además nosotros pagamos toda la deuda con el Fondo Monetario Internacional\", lo que también es cierto, dijo el número de 31 millones de personas pasando hambre, y lo que plantea el chequeo brasileño es que eran 33, y luego Lula dijo: \"Los números dicen que hay 105 millones de personas con algún problema de inseguridad alimentaria, o sea, con falta de alimentos hoy, o sea, la situación que él describe de responsabilidad de Bolsonaro\", y en lugar de ser 105, son 125 millones, y finalmente Lula dijo que en su período las universidades de Brasil pasaron de 3,5 millones de estudiantes a 8 millones de estudiantes y el chequeado dice que en realidad pasaron de 3,5 millones a 6,3 millones de estudiantes.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y así sigue, pero la lista de logros de Lula son significativamente impresionantes.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Usted es responsable de la corrupción en Brasil, todos sabemos que usted cometió estos actos, usted es un descondenado, usted no debería ni estar aquí como candidato a presidente de la República, ¿por qué usted está aquí?",
+      "score": 0.871,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted sabe por qué, usted debería saber la verdad, pero usted es cínico, miente, usted me mató, miente todo el tiempo, usted debe aceptar a un padre, fantaseado, ni respeto, usted debe respetar\".",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Señoras, por favor, vamos a cortar los micrófonos de los señores y le pido disculpas al público por la pena que en este momento está desenvolviéndose aquí, porque, infelizmente, no está habiendo el cumplimiento de un ordenamiento que había sido hecho, de una combinación de todos los candidatos.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, lo que están viendo aquí es el momento en que este padre, Kelmon, increpa a Lula y Lula le responde.",
+      "score": 0.237,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Globo fue muy crítica, tanto de Lula como de Bolsonaro, y cuando Lula fue preso, quienes recuerden su discurso en el momento que él se entrega, él dice que en este momento la Globo estaba teniendo un orgasmo, la Globo y Veja, que era la revista Veja, que eran los dos grandes adversarios, de acuerdo a Lula, que tenía.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el presentador William Bonner, que era quien mediaba hacia la mediación, cuando empezaron a subir de tono las acusaciones que le hacía el padre Kelmon y Lula, se cerró los micrófonos, pidió disculpas a la audiencia por el espectáculo que se estaba dando, llamaba a la reflexión a los dos contendientes para que bajaran el tono pugilístico de su diálogo.",
+      "score": 0.191,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La discusión, Lula le decía que los diputados que tenían eran falsos.",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esperemos que Brasil recupere su tradicional buena onda.",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 42
+  },
+  "etiqueta_original": "neutral"
+}

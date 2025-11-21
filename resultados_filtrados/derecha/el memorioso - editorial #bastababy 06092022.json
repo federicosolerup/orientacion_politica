@@ -1,0 +1,69 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hoy, el presidente habló en la Sociedad Rural Argentina.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El presidente no me mencionó, pero dijo que alguien había hablado de esto en un programa de televisión.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Pero, señor Alberto Fernández, el primero que habló mal de este gobierno fui yo cuando critiqué a Cristina Kirchner, cuando se rió creyéndose estadista,  haciendo referencia a la muerte de Nisman, al dinero que faltaba y a lo ocurrido en el sur.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Yo lo critiqué cuando, en su último discurso, Kirchner dijo que usted había hecho negocios con Clarín junto a su marido.",
+      "entidades_detectadas": [
+        "kirchner",
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Para mí, usted es el peor presidente de la historia argentina.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Me llamó la atención que, sin saber qué decir sobre la economía (porque la está manejando Massa) y sobre el gobierno (porque lo está manejando Cristina Kirchner), usted no usó ese espacio para pedir disculpas públicas por la fiesta que se mandó, ni por la conga con mi querida Fabiola, ni por las vacunas que se malversaron en su gobierno, ni por los negociados en la compra y venta de vacunas, ni por sus amigos que se vacunaron fuera de turno, ni por la fortuna gastada en veterinarios, cuidadores y personal trainers.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "El presidente que recrimina a los periodistas por lo que dicen del Instituto Patria… ¡usted es el primer odiador!",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Hoy le dedicaré algunos recuerdos de sus declaraciones sobre Cristina Kirchner, para que comprenda por qué Cristina lo detesta y por qué nadie olvida lo que dijo.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "El primer odiador fue usted, quien, en los programas de televisión, se hacía el estadista y criticaba al gobierno de Cristina y Néstor Kirchner.",
+      "entidades_detectadas": [
+        "néstor",
+        "cristina"
+      ]
+    },
+    {
+      "frase": "¿Y de lo que pasó cuando se reunió con Putin y le abrió las puertas de Argentina sin permiso alguno, diciéndole al genocida que tenía abiertas las puertas de su país?",
+      "entidades_detectadas": [
+        "argentina",
+        "putin"
+      ]
+    }
+  ]
+}

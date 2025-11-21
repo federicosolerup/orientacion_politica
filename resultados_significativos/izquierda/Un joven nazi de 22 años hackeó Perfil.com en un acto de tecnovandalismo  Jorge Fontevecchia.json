@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 3
+    },
+    "score_promedio": 0.22,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde Perfil, nos pusimos a trabajar para controlar el ataque y luego lo hicimos saber, de la misma forma que lo hacemos siempre: haciendo periodismo.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, tiene conocimientos técnicos específicos que le dan un gran poder sobre los sistemas de seguridad de empresas, de gobierno y de usuarios particulares.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una táctica recurrente en los hackers: primero demostrar al cliente su vulnerabilidad de su servicio, es decir, en este caso, la sociedad en su conjunto que representa el gobierno, para luego vender su trabajo.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Te referís a nacionalsocialista en la misma línea ideológica del partido nazi de Adolf Hitler, o estás diciendo, yo pienso en una visión distinta, aplicable a, no sé, la Argentina de hoy, o Uruguay de hoy, o la región de hoy?",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "bueno, y cuando decía que la gente...",
+      "score": 0.667,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mira, fíjate, presidente judío, Donald Trump, judío...",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por otro lado, junto con los mensajes antisemitas, publicó una foto de Javier Milei que le robó de la página de ReNaPer.",
+      "score": 0.316,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En parte de la entrevista, dice que odia a Javier Milei y a Donald Trump por ser pro-judíos.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que al menos este joven, probablemente otros que lo sigan en esta idea de crisis, lo disruptivo deje de ser que estos personajes de extrema derecha busquen otros que respondan a sus frustraciones, a esos baluartes de odio de los que hablaba Julián de Empole, en *Los ingenieros del caos*.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, la diferencia es que los conocimientos de \"gov\" le generan mucho poder de fuego, mucho mayor que estos \"copitos\".",
+      "score": 0.546,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a este fragmento en que se ve cómo este mismo hacker le hizo un ataque a la página del Anses.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un análisis del especialista en ciberseguridad, Julio López: \"La aplicación argentina es un paraíso, es un portal que tiene información relativa a todo lo que hace el estado, las aplicaciones que tiene el estado, en la sepa, para que vos entres específicamente en algunos sitios.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo han firmado tres personas, han dejado un video, en el video se ve que varios traperos conocidos, por ejemplo, \"Visa Rap\", \"El Duque\", le dejan mensajes de saludos a uno de los que serían uno de los supuestas personas que perpetraron este hecho.",
+      "score": 0.281,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es que \"Visa Rap\" lo supiera, \"El Duque\", y a quién le estaban enviando un mensaje, simplemente que ellos, tanto \"El Duque\" como \"Visa Rap\", envían mensajes escuchando así que, gracias a Dios, y por favor, entiéndame bien con esto, gracias a Dios, fue solo una estudiantina, porque, porque si en vez de haber puesto insultos al presidente y firmado egocéntricamente por tres personas, hubiese una noticia ayer a la noche que dice: \"Argentina entra oficialmente en default a partir de mañana a la mañana\", vos tenés un problema de información muy serio, en este para, después volverlo para atrás puede causar pánicos y puede causar situaciones bastante peores.\"\n\nBueno, no todos los hackers son nihilistas necesariamente, tienen estas características del caso que estamos mencionando.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre reflexionó de que algo sucedió en el humor social para que en 20 años pasase de ser \"Occupy Wall Street\" a ser \"Occupy the Capitolio\", es decir, que se desplazase en la responsabilidad del 1% más rico en los políticos, lo que de alguna manera también plantea cierta forma de nihilismo porque es mucho más difuso esa responsabilidad que concretamente la concentración de la renta en el 1% más rico, que es un hecho objetivo, palpable, y que, claramente, podría tener una solución a través de la redistribución de la renta, lo que plantea Piquetí, y el impuesto a la herencia, es un problema objetivo y claro, mientras que considerar a los políticos en su conjunto, correctos, no lleva a ningún lado, porque finalmente van a tener que ser nuevos políticos los que asuman, o personas que no son políticas, pero asumen luego como políticos, por lo que, en esencia, hay un oxímoron y, por lo tanto, llevan al limbo.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

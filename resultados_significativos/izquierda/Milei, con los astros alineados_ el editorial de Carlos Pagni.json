@@ -1,0 +1,196 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 23,
+      "derecha": 13
+    },
+    "score_promedio": 0.37,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Como si fuera el tema central y probablemente lo haya sido de todos estos años, hay que recordar que el INDEC fue intervenido en el año 2008; es decir, ya en el año 2008 el kirchnerismo había advertido que la inflación era un problema y eligió como estrategia dejar de medirla, no resolverla.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si miramos los números, vamos a ver que este plan político, que lo propone a *Milei* como una especie de liberador del flagelo de la inflación, de la peste de la inflación, le ha dado resultados y le va a seguir dando resultados, pero me gustaría agregar: relativos.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toma como si diciembre del 2018 le asignamos valor 100.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si miramos la historia de todo este periodo y esta caída, la caída del 23 y, sobre todo, la caída que tiene que ver con la devaluación y la disparada de la inflación de diciembre, acá hay una explicación de por qué parte de la sociedad argentina repudió la política tradicional y decidió caminar hacia lo desconocido.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto implica que mucha gente en la Argentina enfrenta la inflación sin la ventaja de tener un sindicato que defienda su salario.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El desempleo, entre el tercer trimestre del año pasado, antes de que llegue *Milei*, y el segundo trimestre de este año, que es la última medición, pasó de 5,7 a 7,6%.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El subempleo, que es donde está la informalidad de la que hablábamos recién, pasó entre el tercer trimestre del año pasado y el segundo trimestre de este año de 10,3 a 11,8%.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay una mayoría negativa que no le gusta al gobierno.",
+      "score": 0.554,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hemos pintado un gobierno al que le va bien, que, después de una enorme incertidumbre respecto de cómo se iba a configurar la política, se constituyó en un centro de poder.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después **Camila Perochena** nos va a hablar de antecedentes de este tipo de problemas, que es el problema del duelo entre el presidente y el vicepresidente.",
+      "score": 0.763,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá tenemos un presidente, no solo un gobierno, el presidente explícitamente ha declarado -es rara la forma clarísima en que lo hizo, deliberada, casi que buscó dar una entrevista para emitir este mensaje- ha declarado a **Victoria Villarruel** una especie de enemiga, y que **Victoria Villarruel** haya habilitado y haya dado lugar a la sesión en la cual se expulsa **Cúneo**, daría la impresión para el gobierno que ratifica ese lugar de **Victoria Villarruel** en el oficialismo, que es ser casi tan expulsada como **Cúneo**, si pudieran expulsarla, tal vez la expulsarían, lo que sucede es que ella tiene los mismos votos que *Milei*.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre la expulsión de **Cúneo**, que, como digo, en parte, se le atribuyen a **Villarruel** por haber presidido esa sesión, hay toda una polémica institucional, bastante contradictoria, argumentos, contraargumentos, el que quiera tener una visión, yo diría casi cómica o irónica de todo lo que ha sido la discusión institucional alrededor de la expulsión de este senador, tendría que leer la nota de **Martín Rodríguez Yebra** ayer en *La Nación*, donde reconstruye con mucha gracia y con mucha información el enredo en el que se metieron todos al tratar de explicar, sobre todo el presidente, al tratar de explicar esa expulsión, de un presidente que dice que hay que echarlo a patadas, pero, a su vez, que la sesión en la que se le ha hecho a patadas es nula, porque no habría que echarlo a patadas, porque, en el fondo, lo que está diciendo, el voto de **Cúneo** era nuestro.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un argumento que dice: \"Bueno, está mal echado porque la sesión era inválida\" y la sesión era inválida porque *Milei* estaba fuera del país, ese argumento tiene un contraargumento y es que, una vez que el presidente sale del país, el vicepresidente automáticamente está al frente del poder ejecutivo, aunque el acta del traspaso del poder la firme más tarde.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, con acta o sin acta de transferencia formal del mando, **Villarruel** estaba al frente del poder ejecutivo, pero para muchos eso tampoco inhibe a **Villarruel** de presidir la sesión del Senado porque no vota, no tuvo que votar.",
+      "score": 0.876,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si votara, sí ejercería un rol legislativo, operaría como una legisladora que desempata una votación, como le pasó, por ejemplo, a **Julio Cobos**, con la famosa resolución 125 en el conflicto con el campo.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después está otro argumento, que es: \"No, el Senado no podría haber sesionado porque el presidente no había convocado a sesiones extraordinarias\", cosa que tiene que hacer explícitamente por un decreto, y los que dicen: \"No, esa convocatoria a sesiones extraordinarias solo se refiere a la capacidad legislativa del Congreso\", pero el Congreso puede hacer otras cosas que no son legislar como, por ejemplo, echar a un senador.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice: \"Me acuerdo como si fuera ayer cuando éramos solo dos diputados con el presidente *Milei* contra el kirchnerismo, que es el mismo que está ahora, porque no cambiaron ni un nombre.",
+      "score": 0.723,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos hacían la vida imposible, nos destrataban e intentaban denigrarnos en cada oportunidad que tenían, pero a pesar de eso nos acompañamos, sabiendo que el destino de la Argentina era brillante\".",
+      "score": 0.178,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué le está diciendo **Villarruel**?",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un consejo que ella le está dando al presidente, y probablemente es un consejo inteligente.",
+      "score": 0.516,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente el impulso de echar a alguien al Senado lo tengamos frente a alguien que a primera vista es un demonio, alguien que le encontraron plata viva.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después hizo un juicio al Estado y estuvimos pagándole durante cuatro años la dieta a **Buzzi**, que ya no era legislador, porque no se habían seguido los procedimientos, que siempre son desagradables.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quién le hizo una cama a **Queder**?",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, a este senador que cruzó la frontera con 200.000 dólares en una valija, en una mochila, le iban a asignar el rol en el Congreso de controlar los fondos reservados de la SIDE.",
+      "score": 0.477,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Hugo Alconada Mon** publica que **Andrés Vázquez**, que es el nuevo jefe del ADGI, compró, a través de sociedades en el exterior, tres inmuebles en Miami por 2 millones de dólares que seguramente los ganó honestamente, de manera decente, pero no los declaró ante la Oficina Anticorrupción.",
+      "score": 0.749,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando se creó ARCA en reemplazo de la AFIP, el presidente firmó dos decretos: un decreto de la organización administrativa que disolvía la AFIP y creaba ARCA.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que selecciona ese personal es **Santiago Caputo**, que se va inoculando las perversidades de la casta a la que el propio **Santiago Caputo** critica, condena en el discurso que le organiza a *Milei*.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Caputo**, como sabemos, es el mago del *Kremlin*, el que le organiza a *Milei* la relación con la opinión pública o, por lo menos, el que pone en un pentagrama lo que *Milei* tararearía.",
+      "score": 0.235,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Vázquez** parece que está congelado, está esperando que le den instrucciones.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia sobreseyó al fiscal luego de muchas idas y vueltas.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Kicillof** está tratando de hacer oposición a *Milei*, no desde el punto de vista discursivo, sino de una manera bastante inquietante, que es: \"Si *Milei* quiere achicar el Estado, **Kicillof** está agrandando el Estado bonaerense\".",
+      "score": 0.216,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pregunta, ¿quiénes van a distribuir esos medicamentos?",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gran guerra de **Kicillof** con la industria farmacéutica, salvo con algunos laboratorios, que serían los que le proveen esos medicamentos que ahora va a fabricar el Estado o que va a vender el Estado.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Marcelo Figueiras** del Laboratorio Richmond es uno de esos laboratorios, hay quienes se preguntan eso, entre los colegas de **Figueiras**, que son los laboratorios perjudicados.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si las primarias se dan de baja en el Congreso, habrá que ver qué pasa en las extraordinarias en las sesiones extraordinarias, a **Kicillof** le va a quedar un solo recurso para enfrentar a la que hasta ahora es su jefa.",
+      "score": 0.918,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente que dice \"se acabaron las malas noticias\".",
+      "score": 0.855,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 36
+  },
+  "etiqueta_original": "neutral"
+}

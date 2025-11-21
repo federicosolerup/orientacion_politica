@@ -1,0 +1,512 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hoy escuché a algunos políticos en campaña.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos prometieron cosas imposibles.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dijeron estar preocupados por la situación, pero parece que la política lleva cuarenta años desmejorándola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi pregunta es: ¿ahora que descubren que todo está hecho un desastre, presentan un plan para solucionarlo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen un plan para todo, incluso para la bomba atómica, ¡pero son mentirosos!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos como estamos por culpa de todos ustedes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando se critica, no se ataca a un político en particular, sino a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vengan, les explicaré.",
+      "entidades_detectadas": [
+        "Vengan"
+      ]
+    },
+    {
+      "frase": "Antes, aquí había flores y un hornero con hermosos pájaros.",
+      "entidades_detectadas": [
+        "aquí había flores"
+      ]
+    },
+    {
+      "frase": "Mire, ahí está, perfecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡A la mierda la plata!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy escuché a Alberto Fernández hablar sobre la nueva moneda y el homenaje a Eva Perón, Juan Manuel de Rosas y Juan Miguel de los Reyes en los billetes.",
+      "entidades_detectadas": [
+        "Juan Manuel de Rosas",
+        "Juan Miguel de los Reyes",
+        "Eva Perón",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Pero me indigna ese homenaje, porque les mostraré lo que es un billete de verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo hice ahora mismo, porque me dicen Geno Díaz por mi facilidad para la artesanía.",
+      "entidades_detectadas": [
+        "Geno Díaz"
+      ]
+    },
+    {
+      "frase": "¿No conocían a Geno Díaz?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era un humorista y dibujante que trabajó en \"Buena Tarde, Mucho Gusto\" hace años.",
+      "entidades_detectadas": [
+        "Mucho Gusto"
+      ]
+    },
+    {
+      "frase": "¿Se acuerdan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hacía artesanías, cartapistas, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con un trozo de papel del suelo, hice un nuevo billete.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál es el billete más grande que tenemos?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "El de San Martín de mil pesos, equivalente a cinco dólares.",
+      "entidades_detectadas": [
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Aquí se le puede poner la cara de Sarmiento, San Martín, Belgrano o cualquier prócer.",
+      "entidades_detectadas": [
+        "Sarmiento",
+        "Belgrano",
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Pero si no hay respaldo, sirve para limpiarse el trasero, con todo respeto a los próceres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto Fernández presentó el nuevo billete como una novedad para impulsar la economía, pero son simples panfletos.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Si yo pongo mi foto en este papel que corté, y digo que vale mil pesos, teniendo un respaldo económico, la gente lo aceptará.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque sabe que yo lo respaldo con mi firma y mi solvencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando un país no tiene respaldo, aunque le pongas la cara de Eva Perón, Juan Manuel de Rosas, Juana Azurduy, Macacha Güemes o Remedios del Valle (la heroína de Ayohuma), no vale nada.",
+      "entidades_detectadas": [
+        "Juan Manuel de Rosas",
+        "Remedios del Valle",
+        "Juana Azurduy",
+        "Eva Perón"
+      ]
+    },
+    {
+      "frase": "Buscan nombres nuevos porque se les acabaron los honestos, tanto para la política como para los billetes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Esos billetes no valen nada?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque no tienen respaldo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aunque le pongas la cara seria de San Martín, el billete es solo papel.",
+      "entidades_detectadas": [
+        "San Martín"
+      ]
+    },
+    {
+      "frase": "Sin respaldo, no vale nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto, ¿por qué no le explicó a la gente que está haciendo panfletos con otras caras?",
+      "entidades_detectadas": [
+        "Alberto",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Recuerdo la década del 70, un negocio en la Avenida Santa Fe vendía pósters de cine.",
+      "entidades_detectadas": [
+        "Avenida Santa Fe vendía pósters"
+      ]
+    },
+    {
+      "frase": "Cambiaban cada seis o siete meses: Alain Delon, Jean-Paul Belmondo, Steve McQueen...",
+      "entidades_detectadas": [
+        "Alain Delon",
+        "Steve McQueen",
+        "Jean-Paul Belmondo"
+      ]
+    },
+    {
+      "frase": "eran para decorar, no para otra cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con el tiempo, adquirieron valor histórico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, los billetes argentinos no valen ni como objetos de colección.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este papel que ven, está respaldado por mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si lo doy por mil pesos al bar de al lado, me lo aceptarán porque soy solvente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero si les doy mil pesos cuando debo mil doscientos, no me lo aceptarán.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es como los cambios constantes que vemos ahora, como la situación de Camilo Balá.",
+      "entidades_detectadas": [
+        "Camilo Balá"
+      ]
+    },
+    {
+      "frase": "Entiendan que cambiar la cara de los billetes es otra artimaña de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "No hay respaldo, no hay Banco Central, no hay solvencia.",
+      "entidades_detectadas": [
+        "Banco Central"
+      ]
+    },
+    {
+      "frase": "Nuestra moneda no tiene solvencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto puede poner la cara de Dylan, Einstein o el Papa, pero valdrá lo mismo: una mierda.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Einstein",
+        "Dylan",
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Estos papeles no tienen respaldo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aunque tengas una chequera, sin respaldo económico, tus cheques no valen nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un peso, una moneda, es un cheque del Estado con garantía estatal.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esto no lo explican ni Milagro Sala ni ningún economista.",
+      "entidades_detectadas": [
+        "Milagro Sala"
+      ]
+    },
+    {
+      "frase": "Van mucho más allá.",
+      "entidades_detectadas": [
+        "Van"
+      ]
+    },
+    {
+      "frase": "Tenemos billetes sin fondo, como cheques sin fondo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un billete sin fondo no vale nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto pone personajes para distraer.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Cuando se defrauda, se usan varias cuentas bancarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se hacen giros de dinero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos billetes son lo mismo: se cambian unos por otros, pero no tienen respaldo y no valen nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este momento, nada vale nada, salvo el dólar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un dólar que nadie se atreve a usar, pero que conserva su valor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿La cara de quién representa?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Del estanciero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy hicieron una gran parafernalia, un acto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras tanto, por una puerta chica se fue Afeletti.",
+      "entidades_detectadas": [
+        "Afeletti"
+      ]
+    },
+    {
+      "frase": "Ya lo sabíamos, lo dijimos el primer día: era un inútil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perdimos siete meses con un inútil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora tenemos un montón de billetes confusos, difíciles de distinguir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En países estables, como con el dólar, siempre se usa el mismo billete.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, mi primo llegó a Punta del Este y le cobraron el peaje en cuatro dólares uruguayos o dos mil pesos argentinos.",
+      "entidades_detectadas": [
+        "llegó",
+        "Punta del Este"
+      ]
+    },
+    {
+      "frase": "Porque el peso argentino no tiene confianza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Asistimos a otro engaño más al pueblo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al hambriento le darán bonos, pero sería más honesto darle pan, harina o polenta, algo sustancial que pueda usar durante años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero esto que dan hoy, mañana no vale nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gente debe aprender algo tan simple.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto, con tu cara, la de la primera dama, Dylan, Cristina, Parrilli...",
+      "entidades_detectadas": [
+        "Parrilli",
+        "Alberto",
+        "Cristina",
+        "Dylan"
+      ]
+    },
+    {
+      "frase": "¡no vale una mierda!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay respaldo, el país está vacío.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Inventa monedas, hace payasadas con monedas de chocolate.",
+      "entidades_detectadas": [
+        "Inventa"
+      ]
+    },
+    {
+      "frase": "Es lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No nos podemos apoyar en nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no sirve para viajar al mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Uruguay, lo rechazan.",
+      "entidades_detectadas": [
+        "Uruguay"
+      ]
+    },
+    {
+      "frase": "Alberto, deja de pensar en qué caritas poner en los billetes y piensa en qué mierda estás haciendo con el país.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Hablaste de lo que querías lograr en el año y medio que te queda, pero no has logrado nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que tu presidencia está perdida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aguantamos para no cambiar el sistema democrático, pero no te queremos nada, menos en un día como hoy, en que la justicia está de luto.",
+      "entidades_detectadas": [
+        "Aguantamos"
+      ]
+    },
+    {
+      "frase": "Te perdonaron el delito de haberte cagado en todos los argentinos en la fiesta de Olivos, a ti y a tu acompañante.",
+      "entidades_detectadas": [
+        "Olivos"
+      ]
+    },
+    {
+      "frase": "Un juez hizo malabares para que no nos diéramos cuenta de que te iban a sobreseer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un juez y un fiscal sin vergüenza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos siguen cagando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy arreglaste tu cagada con 1.600.000 pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa porquería no vale nada, y debes tener mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La noticia de hoy no son los billetes panfletos, sino que te cagaste en la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te hiciste perdonar el ilícito de haberte cagado en el pueblo en la Quinta Presidencial, con tres millones de pesos para ti y tu compañera.",
+      "entidades_detectadas": [
+        "Quinta Presidencial"
+      ]
+    },
+    {
+      "frase": "Tres millones de pesos por llamarnos boludos e idiotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a ir personalmente a buscarte, chorro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero repito, la payasada de los billetes \"albertruchos\" no tapa la cagada de esta mañana, cuando un juez sin vergüenza te perdonó el delito de haberte cagado en todos los argentinos.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Alberto Fernández",
+    "Hacía",
+    "Uruguay",
+    "Vengan",
+    "llegó",
+    "Olivos",
+    "Geno Díaz",
+    "San Martín",
+    "Estado",
+    "Alain Delon",
+    "Punta del Este",
+    "Remedios del Valle",
+    "Juan Manuel de Rosas",
+    "Alberto",
+    "Sarmiento",
+    "Quinta Presidencial",
+    "Steve McQueen",
+    "Inventa",
+    "¿Cuál",
+    "Dylan",
+    "Nuestra",
+    "Parrilli",
+    "Camilo Balá",
+    "Van",
+    "Jean-Paul Belmondo",
+    "¿Esos billetes",
+    "Einstein",
+    "Milagro Sala",
+    "Cristina",
+    "Entiendan",
+    "Hablaste",
+    "Mucho Gusto",
+    "Eva Perón",
+    "Aguantamos",
+    "Belgrano",
+    "Juana Azurduy",
+    "¿",
+    "Afeletti",
+    "Papa",
+    "Avenida Santa Fe vendía pósters",
+    "Juan Miguel de los Reyes"
+  ]
+}

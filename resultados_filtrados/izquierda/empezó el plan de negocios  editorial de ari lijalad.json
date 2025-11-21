@@ -1,0 +1,24 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "¿Quiénes pagarán el costo del plan anunciado ayer por Javier Milei?",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Además, ayer el ministro Sergio Massa (se corrigió el nombre del ministro) anunció la liberación de las importaciones.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    },
+    {
+      "frase": "Se destacaron los beneficios para Eduardo Elstein, uno de los principales propietarios de tierras en Argentina (Cresur), quien se beneficia directamente de estas medidas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

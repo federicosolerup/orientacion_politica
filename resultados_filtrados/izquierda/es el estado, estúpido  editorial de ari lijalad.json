@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto original presenta varios problemas de cohesión, coherencia y ortografía, además de la repetición excesiva de la frase \"el Estado estúpido\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Si bien Clinton la utilizó para destacar la importancia de la economía como prioridad política, hoy se observa una creciente percepción de que el rol del Estado es crucial en el funcionamiento del capitalismo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "En resumen, la experiencia argentina demuestra la falacia de una economía desregulada y sin la intervención del Estado en la regulación de los mercados y en la provisión de bienes y servicios esenciales.",
+      "entidades_detectadas": [
+        "argentina",
+        "estado"
+      ]
+    },
+    {
+      "frase": "La solución no es simple, pero requiere un rol activo del Estado en la regulación del mercado, la protección de los consumidores y la provisión de servicios públicos esenciales.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

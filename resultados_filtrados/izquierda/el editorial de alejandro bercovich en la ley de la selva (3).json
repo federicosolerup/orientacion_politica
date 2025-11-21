@@ -1,0 +1,71 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto presenta un análisis complejo de la situación económica argentina, con especial foco en las decisiones del ministro de Economía y la relación con el Fondo Monetario Internacional (FMI).",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Solo Suiza presenta un precio de Big Mac superior, con un 38% más caro que en Argentina (20.1% de sobrevaluación según el índice).",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Le siguen Uruguay y Noruega.",
+      "entidades_detectadas": [
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "Tras la elección de Trump, varias devaluaciones competitivas provocaron la depreciación de otras monedas, incluyendo la de Brasil (30% de diferencia con respecto al Big Mac estadounidense).",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "Egipto, tras recibir financiación del FMI a cambio de levantar controles cambiarios y devaluar, sirve como ejemplo contrapuesto a las políticas del ministro argentino.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "El FMI, según declaraciones de su portavoz Julie Coussaert,  si bien evita críticas públicas directas,  señala que el acuerdo está en marcha pero con desafíos pendientes.",
+      "entidades_detectadas": [
+        "evita"
+      ]
+    },
+    {
+      "frase": "Las diferencias se reflejan en la opinión de un columnista económico, Marcelo Bonelli, quien indica que el FMI no otorgaría el financiamiento adicional (USD 10.000 a 12.000 millones) esperado por el ministro.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "El FMI busca evitar un nuevo préstamo riesgoso que exponga al organismo a críticas, especialmente considerando la posibilidad de fuga de capitales por parte de la población adinerada.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Un informe de Infobae indica que, si bien el FMI no exige una devaluación explícita, sí demanda un plan para recuperar las reservas netas del Banco Central.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "La confianza en el ministro parece resquebrajada,  evidenciado por la publicación de una nota en La Nación que descarta una devaluación inminente.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "En resumen, la situación económica argentina presenta desafíos importantes, relacionados con la gestión de reservas, la política cambiaria y las relaciones con el FMI.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En contraste con otros países, la gestión de la vacunación en Argentina está marcada por la improvisación y la falta de planificación.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La incertidumbre se extiende a los servicios públicos (tarifas, transporte público, Aerolíneas Argentinas, YPF) y a la tensión entre el presidente y la vicepresidenta, lo que dificulta la generación de propuestas políticas alternativas.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La visita de Pitragala a Formosa, y la orden impartida por Alberto Fernández y Cristina Fernández de Kirchner, revelan una falta de claridad en la cadena de mando, generando mayor ruido y confusión.",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "En resumen, la Argentina se enfrenta a un panorama de profunda incertidumbre, agravada por la inestabilidad política y económica.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

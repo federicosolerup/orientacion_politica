@@ -1,0 +1,569 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Te conecto con él para que puedan conversar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perfecto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juan, ¿todo bien?",
+      "entidades_detectadas": [
+        "¿",
+        "Juan"
+      ]
+    },
+    {
+      "frase": "¿Dijiste \"radical\"?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, al contrario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le estoy pidiendo a los radicales que asuman responsabilidades hoy con el tema de los genocidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ah, no, no te escuché.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te pago tanto porque escuché tu voz en el discurso del partido democrático.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, claro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, acuérdate que Raúl Alfonsín tuvo el coraje de juzgar a los militares cuando tenían poder de fuego, Juan.",
+      "entidades_detectadas": [
+        "Bueno",
+        "tenían",
+        "Juan",
+        "Raúl Alfonsín"
+      ]
+    },
+    {
+      "frase": "No quiero entrar en una polémica histórica, pero hay que recordar que la mitad de los intendentes durante la dictadura eran radicales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ah, está bien.",
+      "entidades_detectadas": [
+        "Ah"
+      ]
+    },
+    {
+      "frase": "Sí, también había peronistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juan, no nos metamos en eso porque salimos todos perdiendo.",
+      "entidades_detectadas": [
+        "Juan"
+      ]
+    },
+    {
+      "frase": "Bueno.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Salimos todos perdiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que ir a la AAA y… (se entiende que hay una interrupción).",
+      "entidades_detectadas": [
+        "AAA"
+      ]
+    },
+    {
+      "frase": "Escúchame, Juan, cuéntame qué está pasando ahora ahí.",
+      "entidades_detectadas": [
+        "Escúchame",
+        "Juan"
+      ]
+    },
+    {
+      "frase": "Mira, esto es una movilización que lleva siete años.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "La primera vez que participé, lo hice como dirigente social a la cabeza; ahora estoy atrás como uno más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parecía una falta de respeto ponerme adelante, ya que fui candidato a presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta movilización es una interpelación al sistema político del que formo parte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde hace siete años, al menos desde que se inició esta marcha, ha habido un retroceso en la consigna que los movimientos populares forjaron junto al Papa Francisco: “Tierra, Techo y Trabajo”, “Reforma Agraria”, “Integración Urbana”, “Economía Popular”.",
+      "entidades_detectadas": [
+        "“Integración Urbana",
+        "Trabajo",
+        "Tierra",
+        "Papa",
+        "Economía Popular",
+        "Techo"
+      ]
+    },
+    {
+      "frase": "Era una perspectiva que, luchando día a día, avanzaba en algunos aspectos; hoy tenemos que retroceder a la consigna de quienes verdaderamente derrotaron la dictadura: el movimiento agrario argentino, que en 1982 salió desde San Cayetano con la consigna “Pampa y Trabajo”.",
+      "entidades_detectadas": [
+        "San Cayetano",
+        "Trabajo",
+        "Pampa"
+      ]
+    },
+    {
+      "frase": "Exacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esa consigna hoy se reduce incluso más, a la del PAN, porque este proyecto de sometimiento –un dogma explícito de injusticia social– se ha metido con lo más básico que tiene un pueblo: su derecho a comer.",
+      "entidades_detectadas": [
+        "PAN"
+      ]
+    },
+    {
+      "frase": "Hoy, las estadísticas reflejan que hay 9 millones de argentinos que no pueden cubrir la canasta básica de alimentos (lo que elegantemente se llama “indigencia”), y un 70% de niños en situación de pobreza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los genios del oficialismo, y algunos de los nuestros, piensan que persiguiendo penalmente a niños van a resolver problemas que son producto de estos niveles de desigualdad y de injusticia social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acabas de hablar de la oposición, ¿está a la altura de lo que sucede en el país, Juan?",
+      "entidades_detectadas": [
+        "¿",
+        "Juan"
+      ]
+    },
+    {
+      "frase": "Porque uno no la ve…\n\nA mí me parece todo lamentable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, para no ser parte de tanto ruido y sinsentido, llevo 20 días sin hablar ni opinar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creo que hay que reflexionar estratégicamente y preguntarse cada día: \"¿Para qué hago lo que hago?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué milito?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Para qué doy esta declaración?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Qué objetivo tiene este proyecto?\".",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "¿Cómo podemos hacer que el principio básico del peronismo y del movimiento nacional –la justicia social– sea una realidad efectiva en la Argentina?",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Desde la primera marcha de San Cayetano, que coincidió con el inicio del deterioro acelerado de las condiciones socioeconómicas del pueblo argentino, hasta hoy, estamos peor y, evidentemente, no hemos logrado coagular una alternativa que permita siquiera soñar con volver a la época del pleno empleo, donde no había pobreza y había derechos para todos.",
+      "entidades_detectadas": [
+        "San Cayetano"
+      ]
+    },
+    {
+      "frase": "En 2015, el 25% de pobreza ya era un escándalo; ahora tenemos el 55% de pobreza y el 20% de indigencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no logramos coagular un proyecto donde la lucha contra la pobreza y la justicia social esté en el centro –y no sea una estrategia de campaña–, nada de lo que hacemos en política tiene sentido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo único que tiene sentido es lo que hacen las organizaciones comunitarias que, a pesar de la precariedad de sus medios, luchan día a día, como a mí me tocó hacerlo durante muchos años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son quienes han logrado que la gente sea consecuente entre lo que dice y lo que hace.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Este silencio, esta reflexión, es una excepción causada por la política, Juan?",
+      "entidades_detectadas": [
+        "Juan"
+      ]
+    },
+    {
+      "frase": "No sé si es una excepción… Creo que es reafirmar la necesidad de romper definitivamente con algunas prácticas y algunos paradigmas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si este tiempo de tanto dolor social puede traer algo bueno a la Argentina… (disculpa la palabra, pero es necesaria): una purga en todos los niveles dirigenciales.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "No podemos tener corruptos, ni ineptos, ni amiguismos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No puede ser una meritocracia al revés, donde el más inescrupuloso es el que llega primero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las tres últimas elecciones fueron lo mismo, ¿por qué nos sorprende lo que aparece en las noticias?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Si elegiste a alguien inmoral, tendrás un resultado inmoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno termina como ministro, el otro como termina… y después nos indignamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo sabía que era un tipo que no era digno de la investidura presidencial argentina.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estás hablando de [nombre que se omite], ¿lo votaste?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Lo voté, y lo volvería a votar porque era la opción que nos daba la historia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mismo me pasó con [nombre que se omite], con la diferencia de que, peleando mucho, pudimos abrir una brecha y tener una opción (que perdió).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero nunca más aceptar gente indigna de la investidura presidencial, no porque lo diga yo, sino porque su historia de inmoralidad, de oportunismo y de cambiar de bando constantemente determinará su conducta futura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso implica tomar decisiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí también hay una crítica a Cristina Fernández de Kirchner, quien eligió personalmente a Alberto Fernández (a quien te has referido sin nombrar).",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Ella lo eligió, pero todos los demás lo aceptamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como siempre, hay que hacerse cargo de la parte que a cada uno le toca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo podría haber hecho una lista aparte en 2019, y no lo hice.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estuve con Cristina ese día, y le dije lo que pensaba; sí, lloré.",
+      "entidades_detectadas": [
+        "Estuve",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Militamos contra esa candidatura, y contra cualquier otra que se presentara, por la candidatura de la propia Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Perdimos esa disputa política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En 2023 tuvimos la fuerza e hicimos lo que debíamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no me hago el iluso de creer que de repente [nombres que se omiten] se convirtieron en algo distinto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos tenemos una responsabilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo tengo la mía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo voy a volver a hacer, ni con los que son corruptos, ineptos, ni con los que solo parecen serlo, pero tienen una historia que lo demuestra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su frivolidad con la cuestión de la pobreza y la injusticia social es inaceptable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si eso no está entre las prioridades, da igual si es de izquierda o peronista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solo conozco una realidad: la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es mejor decir la verdad que hacer algo cuando estás en el gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El apoyo a nuestros gobernadores e intendentes debe estar con aquellos que hayan transformado la vida de la gente, y que hayan dedicado más tiempo a los que sufren que a las peleas políticas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo critico a Cristina como electora, pero en su gobierno, objetivamente, las condiciones de vida del pueblo mejoraron porque enfrentó al poder.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Eso no se lo voy a negar a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no me callo cuando habla de sus elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, Alberto Fernández es el chivo expiatorio.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Me pasé cuatro años movilizándome, me imputaron sedición contra su gobierno, ridículo… Hay indignaciones oportunas que son directamente proporcionales a las complicidades oportunas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay que hacerlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para mí, esto muestra que hay que hacerse cargo, aunque no todos con el mismo nivel de responsabilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después de Alberto, la mayor parte de nuestro campo, que no es tan distinto, fue parte del gobierno durante un año.",
+      "entidades_detectadas": [
+        "Después de Alberto"
+      ]
+    },
+    {
+      "frase": "No hay mucha diferencia entre uno y el otro, al menos en su trayectoria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé si en dos o tres años va a pasar lo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que pensar en romper con algunas cosas…\n\n¿Cómo harías esa “purga”, como la denominaste?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy pensando en eso, tengo plan A, plan B, plan C… Pero no hablo de métodos cruentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Intentaron hacer un \"merrush\", como si fueran a fusilar a todos los que participaron… No, no, no hagamos una revolución cultural a lo Mao.",
+      "entidades_detectadas": [
+        "Mao"
+      ]
+    },
+    {
+      "frase": "China está un poco mejor que nosotros, pero no quiero llegar a eso.",
+      "entidades_detectadas": [
+        "China"
+      ]
+    },
+    {
+      "frase": "No quiero pasar por fusilamientos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy bromeando, pero ¿por qué te lo pregunto?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Tú bromeas, y luego te lo dicen en serio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me gusta el fusilamiento al estilo China maoísta.",
+      "entidades_detectadas": [
+        "China"
+      ]
+    },
+    {
+      "frase": "Creo en la resistencia no violenta, soy gandhiano, y para mí la PAC es un imperativo en la política, no una definición táctica.",
+      "entidades_detectadas": [
+        "PAC"
+      ]
+    },
+    {
+      "frase": "La purga podría ser… (reflexión personal sobre la autocrítica).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sentís que el peronismo está herido de muerte?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras exista el gorilismo, estará presente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las banderas históricas del peronismo (justicia social, soberanía política e independencia económica) siguen vigentes; lo que ha cambiado es la forma de ejecución, la organización, la doctrina, la formación de cuadros, la conducción estratégica y táctica… Quiero discutir esas cosas, no lo que alguien puso en Twitter.",
+      "entidades_detectadas": [
+        "Quiero"
+      ]
+    },
+    {
+      "frase": "O cambiamos todos, o el equivocado seré yo, y tendré que irme a hacer otra cosa con los que tengan ganas de estar conmigo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Perfecto, igual no me enganchaste para hablar así, porque no tenía ganas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero ahora mis compañeros se van a enojar… Bueno, quedate tranquilo.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Ya me están puteando… (risas).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Juan, te voy a decir una cosa más: nuestros gobernadores, empezando por [nombre que se omite], que reparte tierras… Si él reparte tierras, lo apoyo.",
+      "entidades_detectadas": [
+        "Juan"
+      ]
+    },
+    {
+      "frase": "Quiero ver resultados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El que asume una posición de gobierno tiene que cambiar la vida de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero ver cómo se reparte la tierra, que es un recurso que existe.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiero seguir viendo a nuestros compañeros asesinados cuando tenemos un gobernador que nos representa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo mismo te puedo decir en todas las provincias donde gobierna nuestro campo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no están en el tope de las prioridades de los descamisados, eso no es peronismo ni nada que se le parezca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Menos mal que pasó el Día del Amigo, porque nadie me iba a llamar… Mis compañeros que me ayudan con el tema de prensa se quedarán a mi lado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jorge, ya estamos llegando a la Primera Junta, vamos a ir a esta movilización a Plaza de Mayo custodiados por la policía de la Ciudad y con presencia de muchas fuerzas.",
+      "entidades_detectadas": [
+        "Ciudad",
+        "Plaza de Mayo",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Ciudad",
+    "“Integración Urbana",
+    "Alberto Fernández",
+    "Estoy",
+    "¿Qué",
+    "San Cayetano",
+    "Cristina Fernández de Kirchner",
+    "China",
+    "¿Sentís",
+    "Perfecto",
+    "Raúl Alfonsín",
+    "Estuve",
+    "Economía Popular",
+    "¿Dijiste",
+    "tenían",
+    "PAC",
+    "Pampa",
+    "Escúchame",
+    "Intentaron",
+    "Quiero",
+    "Mao",
+    "Cristina",
+    "Plaza de Mayo",
+    "PAN",
+    "Solo",
+    "Bueno",
+    "Después",
+    "Estás",
+    "la Argentina",
+    "¿",
+    "Mira",
+    "Trabajo",
+    "Militamos",
+    "Papa",
+    "Tierra",
+    "Jorge",
+    "AAA",
+    "Juan",
+    "Techo"
+  ]
+}

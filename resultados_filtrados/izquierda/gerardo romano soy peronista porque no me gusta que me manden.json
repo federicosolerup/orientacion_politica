@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Esto que hiciste en el programa, acá… En un tuteo con la cámara y después también hicieron escenas con cámara.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Porque me gusta usar el artículo 23 de la Constitución Nacional, que consagra el derecho de opinar sobre todo.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "A la Argentina vinieron nazis que trataron con Perón, con el Papa que había en ese momento.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "El presidente de la Corte, […], y Macri.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "¿Qué actriz protagonizó a Evita en la reconocida película “Eva Perón” de Juan Carlos Desanzo?",
+      "entidades_detectadas": [
+        "carlos",
+        "evita"
+      ]
+    },
+    {
+      "frase": "Por eso de tener una patria inclusiva fundamental.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 58,
+      "derecha": 41
+    },
+    "score_promedio": 0.428,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Saudicea, hay procesos en la historia que se registran o se despliegan en cámara lenta.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La semana pasada, el jueves pasado, hubo una noticia que pretendió llamar la atención sobre ese fenómeno en cámara lenta, sobre esa degradación que va contaminando no solamente a la sociedad, sino principalmente a sus instituciones, a la justicia, a los organismos de seguridad, al poder político, y el foco lo puso la Corte.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Corte Suprema de Justicia convocó a buena parte de la justicia federal a una ciudad que se está convirtiendo en sinónimo de esta instalación de mafias, que está asumiendo una especie de titularidad de este drama, probablemente injustamente, porque el mismo fenómeno lo vemos en otros lugares, en zonas de frontera o en el Conurbano bonaerense, pero el presidente de la Corte, que es Horacio Rosatti, junto con los otros tres miembros de la Corte: Juan Carlos Maqueda, Carlos Rosenkrantz y Ricardo Lorenzetti, tomaron la iniciativa de celebrar una especie de acto en Rosario para llamar la atención sobre ese fenómeno.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una capa de problemas, después vamos a hablar con Pablo Javkin, que es el intendente de Rosario, que explican este trauma que se está viviendo: contra el tráfico de drogas, delincuencia organizada, muertes y más muertes en la ciudad de Rosario.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este acto de la Corte en Rosario sucedió el jueves.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo denunciaron porque estos fiscales sostienen que le pidieron una cantidad de pruebas de acciones en una investigación y el juez Bailaque se negó a llevarlas adelante, a tomar esas pruebas, a considerar esas informaciones.",
+      "score": 0.32,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de una pelea por el territorio en el tráfico de drogas, un narcotraficante que, en el año 2012, es decir, hace diez años, y esto se sabe por boca de un testigo con identidad reservada, un arrepentido de la banda de Alvarado, que en el 2012 este narcotraficante se jactó de haber matado a 100 personas.",
+      "score": 0.606,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El juez Bailaque no quiso investigar lo que le pedían los fiscales Schiappapietra y Edery, por eso lo denunciaron en el Consejo de la Magistratura.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo curioso es que hay vacantes en la justicia federal, en la Cámara Federal de Rosario, y uno de los candidatos a cubrir esa vacante, una de las dos vacantes, es justamente el juez Bailaque que se negaba a investigar al narcotraficante.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El otro candidato que está en el Senado para ocupar una de las vacantes es el juez Daniel Alonso, a quien la Corte Suprema de Justicia sancionó y denunció ante el Consejo de la Magistratura por el tema de la composición del consejo, porque le había pedido al Congreso, hace poquitos días, que se levante en contra de la Corte desobedeciendo el fallo de la Corte sobre la composición del consejo y la declaración de inconstitucionalidad de la ley vigente en ese momento.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que para entender en parte, vamos a pedirle después al intendente Javkin que nos dé un panorama más complejo y más amplio de lo que pasa en Rosario, pero una punta para entender lo que pasa allí es ponerle atención a este déficit judicial que es más amplio y más complejo, porque hoy en Santa Fe, en la Justicia Federal de Santa Fe, hay aproximadamente un 30% de vacantes en los tribunales, y están estas vacantes en la Cámara que pretenden ser cubiertas con estos dos jueces, con ejemplos...",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto está reforzado en esta Corte porque está integrada por políticos, no solamente juristas, son juristas que han ejercido la función política concreta: en el caso, por ejemplo, de Maqueda, ha sido diputado, constituyente, senador, presidente del Senado; Rosatti fue intendente de la capital de la provincia de Santa Fe, fue constituyente, fue procurador del Tesoro, fue ministro de Justicia, quiere decir que es gente no ingenua políticamente, y nosotros tampoco debemos ser ingenuos al mirar sus movimientos.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, esto no ocurre en cualquier momento, ocurre en este momento de este año, cuando la Justicia va a tratar, seguramente en la segunda mitad del año, un caso muy importante: es el caso del comportamiento de la Dirección Nacional de Vialidad en la Obra Pública de Santa Cruz durante la presidencia de Néstor Kirchner y de Cristina Kirchner.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque técnicamente, si se demuestra que ahí hubo sobreprecios, se podría empezar a demostrar o a conectar mejor la masa de dinero que surge de esos sobreprecios con el pago de coimas que finalmente se blanqueaban en los hoteles de la familia Kirchner, donde, por una gran desaprensión, seguramente de Néstor Kirchner, figura o figuraba como directora Florencia Kirchner, que no tiene nada que ver con la política.",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El abogado de Cristina Kirchner, Carlos Beraldi, ha llenado a la Corte de expedientes pidiendo que se detenga este proceso, que no se siga el juicio oral y se revise toda la prueba, sobre todo las auditorías sobre obra pública en Santa Cruz, sosteniendo que esas auditorías han sido muy deficientes y que, si se hicieran de nuevo, se probaría que no existen los delitos que se le imputan a los funcionarios y, arriba de esos funcionarios, a la expresidenta y actual vicepresidenta.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En todo caso, las cámaras pueden revisar lo que hacen los tribunales de primera instancia; en segundo lugar, la Cámara de Casación puede revisar todo el proceso, inclusive de la Cámara Federal, y finalmente están los tribunales orales donde hay otra instancia de revisión.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que Cristina Kirchner tendría, en principio (no sabemos, porque la Corte puede cambiar de opinión), pero, si se sigue el caso Uribarri, tendría una mala noticia por parte de la Corte y se llegaría al juicio oral con estas consecuencias bastante traumáticas para su imagen pública.",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, porque ese pronunciamiento de la Corte podría tener, subliminalmente, tácitamente, un efecto sobre los tribunales inferiores en todas las demás causas donde está siendo investigada la vicepresidenta, expresidenta y los funcionarios que están ligados a ella o que estuvieron ligados a ella.",
+      "score": 0.671,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno se pusiera en la cabeza de Cristina Kirchner, si mirara todo esto que estamos mencionando desde sus creencias, desde sus criterios, uno llegaría a esta conclusión, que seguramente es la conclusión a la que llega ella: \"Como todo es política, como no hay ninguna dinámica, ninguna lógica en la vida pública que no sea susceptible de ser condicionada, enderezada, corregida por el poder del que manda, lo que estoy padeciendo yo, puede pensar ella, es algo que ocurrió en el terreno electoral y tiene que ver con la administración de Alberto Fernández.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no hay que olvidar que este diseño que adquiere el oficialismo es un diseño que proviene de una idea originaria de la vicepresidenta, es decir, que ella está involucrada en esta peripecia que, por momentos, tiende el kirchnerismo a atribuir solo a Alberto Fernández.",
+      "score": 0.805,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué mira Cristina Kirchner de este problema?",
+      "score": 0.784,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso ella está tan preocupada por el fenómeno de caída del salario real que viene afectando a la Argentina desde hace muchos meses, desde hace mucho tiempo.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Me diferencio, somos otra cosa\", pero si hasta ayer ¿cómo haces para diferenciarte de Alberto Fernández?",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, lanzo iniciativas desde el Congreso que sean distintas o que se adelanten a las que podría estar tomando el poder ejecutivo.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Idea de Máximo Kirchner, Martín Guzmán, el ministro de Economía, dice: \"Bueno, era obvio\", ¿cómo obvio?",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es que la intención de Máximo Kirchner y del kirchnerismo en el Congreso ignora...",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "no es que ignora, no le interesa ese tecnicismo.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acaba de haber otra iniciativa similar, que es la reducción, que es un aumento de salarios del mínimo no imponible del impuesto a las ganancias, que el diario El Cronista, muy ligado a Massa porque pertenece a Josué Lismanzano y Daniel Vila, publica de esta manera, fíjense qué lindo título: \"Como pidió Massa, se adelanta la suba del mínimo de ganancias\", porque Guzmán no se hubiera dado cuenta solo de que había que bajar el mínimo no imponible del impuesto a las ganancias y ahí aparece Massa con Guzmán, seguramente Massa es el que le da instrucciones a Guzmán o el que se adelanta.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, esta jugarreta de atribuirse desde el Congreso a medidas del poder ejecutivo, ya la hacía Massa durante el gobierno de Macri.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con inteligencia, Massa es sumamente sagaz y astuto, veía el proceso hacia dónde iba y decía \"estos tipos van a tener que hacer esto, lo adelanto yo\", o a veces se enteraba de lo que estaban por hacer y él tomaba la iniciativa de adelantar la noticia.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, lo curioso es que ya no se lo hace a Macri, se lo hace a Alberto Fernández, se lo hace al ministro Guzmán.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es el único tema en el cual el Congreso y el kirchnerismo, desde el Congreso, toman la iniciativa en contra o anticipándose al poder ejecutivo.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay en el Senado, en la presidencia del Senado, donde está Cristina Kirchner, una especie de ministerio de trabajo paralelo para festejar las paritarias que son iguales o superiores al 60% de aumento de salario.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de la construcción, ahí no se festejó, porque pareciera ser que Gerardo Martínez no pertenece al club de preferidos de Cristina Kirchner, pero sí en el caso de Sergio Palazzo, que es el secretario general de la bancaria, en el caso de los camioneros, donde también ha habido un aumento que es bendecido por el kirchnerismo, aunque eso genere inflación.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece ser definitiva la pelea entre Hugo y Pablo Moyano, y lo que se comenta en el mundo sindical es que fue desplazado Pablo Moyano de todos lados, sobre todo de las cuentas bancarias del sindicato de camioneros.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver cómo sigue esa pelea, que es complicada porque entraña problemas familiares de gran profundidad donde está involucrada, probablemente, la actual mujer de Moyano y los negocios en la obra social.",
+      "score": 0.824,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, la gran diferenciación del kirchnerismo respecto de Alberto Fernández y su gobierno tiene que ver con un tema muy delicado.",
+      "score": 0.628,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner está, como sabemos, enormemente preocupada por el tema de las tarifas, pero desde Edenor, volvemos a Vila y Manzano, le contestaron con este gráfico.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es raro encontrar una empresa que se le anima al poder ejecutivo publicando una opinión o reivindicando un interés públicamente con nombre y apellido.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo publica Edenor, fue rescatado en La Nación en una nota de Sofía Diamante.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le paga lo que compra a Cammesa.",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La empresa que le compra la electricidad, a su vez, a una empresa estatal que es Cammesa, no le paga esa electricidad y va acumulando una deuda extraordinaria.",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y cómo hace Cammesa para seguir comprándole energía a los generadores de energía de las usinas si los clientes no le pagan?",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos si Cristina Kirchner razona de esta manera y se da cuenta de que es la sociedad de cualquier manera la que está pagando este atraso, que paga algo tan abstracto como el Estado.",
+      "score": 0.559,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos no tienen mucha noción de que el Estado son ellos, pero acá el Estado, al hacerse cargo de ese costo de Edenor frente a Cammesa, le cobra esto a los contribuyentes, a todos nosotros.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Seguramente era un sobre con algo que Czerniazowski le mandó a este funcionario y él, sin darse cuenta, metió los dólares y dejó la tarjeta.",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sabrá Cristina Kirchner, cuando defiende encendidamente, igual que Massa, en el Congreso, el régimen de Tierra del Fuego, que está financiando este tipo de empresas.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque los precios de los hidrocarburos están por las nubes debido a la guerra en Ucrania y, en algún momento del año, va a haber que pagar una gran factura en dólares para importar el gas que permite la generación de esa energía.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los economistas tienen una gran discusión alrededor de este tema, pero es en el horizonte de la economía argentina un problema muy ligado al de la inflación, porque si hay esa devaluación empezamos a hablar de otras inflaciones, de otra escala.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto preocupa a Cristina Kirchner, preocupa al peronismo y preocupa a alguien que terminó en este barco, un poco llevado por las circunstancias, que es Sergio Massa.",
+      "score": 0.48,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque esta reunión de Massa con este grupo de economistas es el derivado de otra reunión de la que hablamos aquí en Odisea, y sobre la que publicó una nota, la primicia la dio Pancho Lodeiro en La Nación, una reunión entre Lavagna y Alberto Fernández.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en esa reunión entre Lavagna y Alberto Fernández, Lavagna le habría dicho a Alberto Fernández: \"Si querés cambiar a Guzmán (pregunta), ¿querés cambiar a Guzmán?\", \"si querés cambiar a Guzmán, tenés que pensar en Massa, que él tiene suficiente autoridad y un grupo de economistas como para resolver el problema, o por lo menos, encaminarlo o intentar encaminarlo\".",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto se produce este asado la semana pasada en la casa de Massa en Tigre.",
+      "score": 0.285,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa expuso ahí cuál es el pensamiento de Cristina Kirchner.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien le preguntó a Massa: \"¿Alguien que resuelva el problema de la caída del salario real o alguien que ella pueda manejar?\".",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa parece que el tema de la tendencia de Cristina Kirchner a controlar a los ministros de Economía lo tiene consciente.",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pido el Banco Central, pido el Ministerio de la Producción, donde está Matías Kulfas, un hombre del corazón de Alberto Fernández; pido la AFIP\", es decir, \"me hago con todos los resortes de poder, además del Ministerio de Economía\".",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto, por supuesto, deprimió un poco a Massa, a pesar de que otros en la mesa intentaron alentarlo diciendo: \"Bueno, pero con la guerra el precio de las commodities puede mejorar, podría ser que se llegara el gasoducto y haya más oferta de dólares, ¿por qué?",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque no vamos a necesitar esos dólares para comprar barcos en el exterior\".",
+      "score": 0.287,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y acá aparece el tema del gasoducto, que es muy interesante, porque, más allá de toda la retórica del gobierno, Macri había dejado todo para que el gasoducto se hiciera de inmediato, pasaron más de dos años y Alberto Fernández no lo pudo hacer, no lo pudo hacer tampoco Guzmán.",
+      "score": 0.057,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense lo que acaba de pasar, una pesadilla para Alberto Fernández, tuvo que recurrir al equipo de Julio De Vido, en la idea de que, por lo menos, saben hacer las cosas y las terminan, y hoy, al frente de la construcción del gasoducto Néstor Kirchner, del cual se encarga la ex Enarsa dirigida por Agustín Gerez, hay un señor Antonio Pronsato, mano derecha de De Vido en el tema del gas porque era el presidente de Enargas durante las gestiones del kirchnerismo anterior.",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, que detesta a De Vido, tuvo que caer en De Vido para poder encontrar una solución al problema de la oferta de gas.",
+      "score": 0.371,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este tema nos lleva al viaje de Alberto Fernández a Europa, que es un viaje insólito, fue un viaje sin agenda, tanto que no se firmó ningún documento, casi exclusivamente destinado a hacer prensa, carísimo, porque es hacer prensa a 10.000 kilómetros de distancia, sin que se entienda muy bien por qué allá, y generando un conflicto inquietante, porque muestra el zigzag del presidente en muchos temas, pero, sobre todo, en política exterior, que es donde menos hay que zigzaggear, porque tiene que ver con el anclaje de la Argentina y del país en la escena internacional.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Fernández le va a ofrecer a Alemania y al resto de los europeos poder emanciparse de Rusia.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gran herramienta de presión que tiene Rusia sobre la Unión Europea, inclusive para que países limítrofes con Rusia no se incorporen a la Unión Europea, como Ucrania, es el gas, que Fernández quiere reemplazar ofreciendo el gas argentino.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él, que se propuso ser la puerta de entrada de Rusia en América Latina, como si no hubiera embajadas rusas.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una nota de la agencia Sputnik, que es una agencia que pasa por la censura del Kremlin en cada línea, mucho más ahora que están en guerra, que dice que Fernández es un traidor a Putin.",
+      "score": 0.981,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que él, que recurrió a Rusia en un momento en que estaba textualmente colgado en el Fondo Monetario Internacional y necesitando vacunas, ahora le clava a Putin una puñalada por la espalda.",
+      "score": 0.988,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es importante porque esta nota de Sputnik la leen los amigos de Rusia, Venezuela, Nicaragua, Bolivia, Cuba, que son el sostén de Alberto Fernández como presidente de la CELAC.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es el único papelón que pasó la Cancillería, porque el responsable de toda esta desorientación sería Santiago Cafiero, que como canciller debería ser el asesor de Fernández en estos movimientos.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El propio Cafiero tuvo una gaffe que la contamos acá, quiero volver a contarla, con el Papa.",
+      "score": 0.798,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Santa Sede comunicó, mientras él estaba en vuelo, que el 22 de abril no lo podían recibir porque el Papa estaba mal de la rodilla, y le cancelaron la visita a Cafiero con el Papa.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá está el día en que al Papa le dolía la rodilla, la reunión de él con varios obispos, cardenales y los miembros de esta Misión Juvenil que tenían un congreso en Roma.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay chistosos que dicen que la noticia de no recibirlo a Cafiero le curó la rodilla.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo este panorama, cuya imagen más desalentadora es la política exterior del gobierno, produce una diferenciación, no solamente en Cristina Kirchner, sino en el resto del peronismo.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se distancian los gobernadores que empiezan a reunirse sistemáticamente en el Consejo Federal de Inversiones, y ahí tenemos a Jorge Capitanich, tenemos a Sergio Uñac, a Gerardo Zamora, a un amigo de Alberto Fernández como es Gustavo Bordet de Entre Ríos, a Juan Manzur que adelantó las elecciones.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Manzur gobernador se distancia del Manzur jefe de gabinete, y un gobernador que hasta ahora parecía mantener posiciones independientes, pero que quedó atrapado desde las últimas elecciones en el oficialismo, y después vamos a hablar con Javier Kichner, que es el Santa Fe sin Omar Perotti.",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos miran a Schiaretti, que termina ahora su gobierno en Córdoba y elecciones en mayo, quieren ver si Schiaretti finalmente se nacionaliza y constituye algún proyecto de alcance nacional.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner también se distancia y empieza a imaginar candidatos a presidente.",
+      "score": 0.796,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solo ella, imagina a Wado de Pedro, que va tan rápido hacia el centro que se pasa de largo y estuvo el viernes con Luis Barrionuevo en el Congreso de Gastronómicos.",
+      "score": 0.483,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay un emblema del anti-kirchnerismo, los últimos 20 años se llama Luis Barrionuevo, ahí estuvo Wado de Pedro celebrando con él un Congreso de los Empleados Gastronómicos, el Congreso número 56, y publicando fotos en su cuenta de redes sociales.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jorge Capitanich, que también fantasea con ser presidente de un Alberto al que Cristina no apoya para la reelección, y Uñac, el sanjuanino, que se anota en la misma lista.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el lado de Alberto Fernández también se busca a esos peronistas disidentes y tenemos una reunión de Agustín Rossi con Randazzo.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que en Madrid, hace poco tiempo, Wado de Pedro llamó a este gobierno, del que él formó parte (Randazzo sin Randazzo, de qué está hablando), de los que enfrentaron a Cristina Kirchner, con Alberto Fernández como jefe de campaña y Randazzo como primer candidato en 2017.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora sería Randazzo lo que intenta Agustín Rossi, Randazzismo con Randazzo, y dejaron trascender, para mortificar a La Cámpora, que, a lo mejor, Alberto Fernández está pensando en darle a Randazzo la P.F., que es un área apreciadísima por La Cámpora.",
+      "score": 0.551,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Monzó, desde Juntos por el Cambio, también mira ese peronismo y trata de ejercer un puente o tender entre radicales y el PRO y esos peronistas disidentes.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuche esto, alguien funcionario del gobierno como Fernando \"el Chino\" Navarro del movimiento Evita, muy ligado a Alberto Fernández, acaba de declarar en el portal La Política Online que el 50% de las fichas de afiliación del PJ bonaerense que preside Máximo Kirchner son truchas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El socio en el movimiento Evita de Navarro, que es Emilio Pérsico, acaba de hacer un movimiento inquietante para muchos dirigentes del PJ bonaerense.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empieza Alberto Fernández y el movimiento Evita a hacer una política en La Matanza en contra del PJ oficial que lo conduce Fernando Espinoza.",
+      "score": 0.775,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es una incógnita que está instalada desde esta semana en el PJ bonaerense.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gran pegamento de Juntos por el Cambio, desde que Elisa Carrió se asoció a Macri y después se asociaron los radicales en la convención de Gualeguaychú del año 2015.",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está desapareciendo hoy en la Argentina es ese peligro.",
+      "score": 0.51,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya lo dijimos 20 veces: Macri habla con Milei.",
+      "score": 0.493,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más, le está armando un partido político en el conurbano bonaerense a través de Joaquín de la Torre, líder de San Miguel.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Facundo Manes, que es ya candidato a presidente del radicalismo, entró en conversaciones con Schiaretti.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo visitó el otro día públicamente, y Gerardo Morales habla con Schiaretti, el presidente del radicalismo.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que impulse algún candidato a gobernador en las elecciones de mayo, posiblemente un intendente marginal, que le saque votos a Juez.",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Morales está dispuesto a eso, porque, si estuviera dispuesto a hacer esa jugada, son más sospechosas todavía sus negociaciones con el peronismo por el Consejo de la Magistratura en contra de Juez.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si creciera mucho Milei, Macri se quiere quedar, se quiere quedar en este Juntos por el Cambio con este radicalismo.",
+      "score": 0.363,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 99
+  },
+  "etiqueta_original": "neutral"
+}

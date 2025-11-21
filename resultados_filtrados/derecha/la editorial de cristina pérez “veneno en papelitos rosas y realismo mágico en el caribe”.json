@@ -1,0 +1,38 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La grave situación de inseguridad en Argentina se agrava con la crisis provocada por la cocaína envenenada.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La falta de coordinación entre los principales responsables de seguridad, Aníbal Fernández y Bernardo Grinspun, es evidente en sus declaraciones públicas, llenas de insultos y descalificaciones mutuas.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández, tras su visita a China y Barbados,  ha realizado declaraciones que suscitan controversia al elogiar al gobierno chino sin mencionar sus violaciones de derechos humanos.",
+      "entidades_detectadas": [
+        "alberto",
+        "china"
+      ]
+    },
+    {
+      "frase": "Esta postura es criticada por algunos, como el congresista republicano Matt Gaetz, quien advierte sobre la influencia de China en Argentina en temas de tecnología espacial y nuclear, como una amenaza a la seguridad de Estados Unidos.",
+      "entidades_detectadas": [
+        "argentina",
+        "china"
+      ]
+    },
+    {
+      "frase": "El gobernador Axel Kicillof, que acompañó a Fernández en su gira, se encuentra también alejado de la problemática del conurbano.",
+      "entidades_detectadas": [
+        "axel",
+        "fernández"
+      ]
+    }
+  ]
+}

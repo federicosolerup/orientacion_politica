@@ -1,0 +1,89 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Esto ocurre junto con otro evento del día relacionado con la Corte Suprema: el presidente de la Corte Suprema asistió a la AMCHAM (Cámara de Comercio Argentino-Estadounidense) en un evento por los 200 años de relaciones diplomáticas entre Argentina y Estados Unidos, tema que abordaremos en minutos con Nathalie Risso.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Las causas contra Cristina Fernández de Kirchner son la táctica, la estrategia final que se refleja en los balances de las empresas que estaban sentadas hoy aplaudiendo a Rosatti, mientras este les decía que la Constitución Argentina incluye un programa económico: el capitalismo.",
+      "entidades_detectadas": [
+        "constitución",
+        "argentina",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Rosatti no mencionó esto ante los empresarios, pero sí dijo estar en contra de la emisión monetaria, algo que nadie le preguntó, porque el ministro de Economía es Sergio Massa, no Horacio Rosatti.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Los dueños de la Corte Suprema son otros, como los que también estaban en Amcham: el embajador de Estados Unidos, Marc Stanley, quien dedicó su discurso a decir que Argentina debe proveer alimentos y combustible al mundo, y que lo importante de Argentina es el campo, el petróleo, el gas y los minerales, especialmente el litio.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Los dueños de la Argentina y de la Corte también son, por ejemplo, Facundo Gómez Minujín, el presidente de Amcham, quien dedicó su discurso a decir que el Estado ha crecido demasiado y que hay que achicarlo, reducir el gasto público y dejar que los empresarios hagan lo que quieran.",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Estos son los dueños de la Argentina, que manejan resortes importantes del Estado como la Corte Suprema.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Lo concreto es que este fin de semana no habrá elecciones en esas provincias y se discute si puede haber un nuevo mandato en el caso de Tucumán para Juan Manzur y en el caso de San Juan para Sergio Uñac.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Esa garantía se da a través de fallos que le permiten al Grupo Clarín cobrar lo que quiere por la tarifa del cable e internet, pero sobre todo a través de la cúspide de un poder judicial que persigue y proscribe a cualquiera que se quiera meter con los intereses económicos de los dueños de las grandes empresas de la Argentina que estaban sentados hoy aplaudiendo a Rosatti, quien después se fue a su despacho en la Corte Suprema y dejó a dos provincias sin elección.",
+      "entidades_detectadas": [
+        "argentina",
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Hoy Rosatti, mientras dejaba a dos provincias sin elección, fue y les dijo a los empresarios que la Constitución Argentina dice que tenemos que vivir sí o sí en el capitalismo, pero en un capitalismo sin derechos de los trabajadores, sin reparto de las ganancias, sin justicia social como sí menciona la Constitución.",
+      "entidades_detectadas": [
+        "constitución",
+        "argentina"
+      ]
+    },
+    {
+      "frase": "La Constitución no menciona la palabra \"capitalismo\", sino la palabra \"progreso económico con justicia social\".",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "El problema que están generando con estas decisiones de la Corte, como la de hoy (el mismo día que charla con los empresarios y deja a dos provincias sin elección), es que no hay Estado si la Corte Suprema se transforma en una empresa y su CEO hace lo que quieren los dueños de la Argentina.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos Corregidos:**\n    *   Mariano Veldik -> Mariano Valdéz (asumiendo error tipográfico o mala transcripción)\n    *   Nathalie Rizzo -> Nathalie Risso (asumiendo error tipográfico o mala transcripción)\n    *   Uniac -> Sergio Uñac (para mayor claridad y corrección del apellido)\n    * Cristina -> Cristina Fernández de Kirchner (para identificar más precisamente a quién se refiere).",
+      "entidades_detectadas": [
+        "sergio",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    }
+  ]
+}

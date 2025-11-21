@@ -1,0 +1,668 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Muy buenos días, jueves 3 de octubre y titulamos la apertura de hoy, día 297, \"La política está en marcha\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y vamos a tratar de explicar por qué ayer se vivió una jornada particular, signada por movilizaciones políticas en todo el país, más grandes incluso en el interior que en la ciudad de Buenos Aires.",
+      "entidades_detectadas": [
+        "qué ayer"
+      ]
+    },
+    {
+      "frase": "Y vamos a analizar los alcances y límites de esta marcha universitaria y la potencialidad de los movimientos masivos como métodos de acción política en general.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso decidimos iniciar esta columna de hoy con una canción de Bob Marley, \"Get Up, Stand Up\", interpretada, como decíamos, por el mismo Bob Marley.",
+      "entidades_detectadas": [
+        "Bob Marley"
+      ]
+    },
+    {
+      "frase": "Tenía razón Javier Milei, la marcha de ayer fue política; expresó no solo la preocupación de más de un millón de argentinos por la situación educativa, sino también sumó el descontento de muchos sectores de la sociedad con la gestión del gobierno.",
+      "entidades_detectadas": [
+        "Tenía",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Podríamos decir que no era solo en defensa de la universidad, sino en defensa de muchos sectores también del estado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La presencia de la CGT, de políticos de centro progresista como Horacio Rodríguez Larreta o de Lilita Carrió, junto con los partidos de izquierda, con el kirchnerismo, revela una suerte de dos tercios simbólicos de la representatividad política en las calles.",
+      "entidades_detectadas": [
+        "Horacio Rodríguez Larreta",
+        "Lilita Carrió",
+        "CGT"
+      ]
+    },
+    {
+      "frase": "Es un llamado de atención para el conjunto de la sociedad, pero también para la Casa Rosada.",
+      "entidades_detectadas": [
+        "Casa Rosada"
+      ]
+    },
+    {
+      "frase": "El veto que siguió a la manifestación también revela un estilo de gobernar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso debe analizarse qué sucede cuando una sociedad marcha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué significa que la sociedad se ponga en marcha, que la sociedad civil realice protestas?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "La política es un tipo de actividad humana singular.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiene todas las complejidades de ser un juego de representación que tiene sus propias reglas y que incluso van modificándose con el paso del tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La marcha, como acción política por excelencia, tiene una convocatoria, tiene consignas y siempre están dirigidas a alguien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las marchas buscan ganar representación de una mayoría para que esa autoridad a la que se dirigen escuche las demandas del sector movilizado y se vea forzada a satisfacer las demandas de quienes marcharon.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quienes organizan una marcha buscan ganar representación, sumar adhesiones, mostrar importantes cantidades de personas en la calle y producir un acontecimiento que ponga en primera plana el debate público y las demandas que se exigen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De alguna manera, los manifestantes intentan rodear al gobernante o a la autoridad contra la que se marcha para que esta se vea forzada a cambiar de parecer en tal o cual asunto, una suerte de jaque mate de ajedrez donde el Rey no tiene movimientos posibles.",
+      "entidades_detectadas": [
+        "Rey"
+      ]
+    },
+    {
+      "frase": "Vamos a ver cómo afectó la marcha de ayer a Javier Milei, si la movilización golpeó al gobierno o fue un hecho más y, antes de contestar esta pregunta, vamos a intentar hacer una genealogía de las marchas como instrumento de reclamo.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Vamos a analizar el impacto que distintas marchas tuvieron en la historia y luego nos volveremos al presente y a las consecuencias de esta importante marcha universitaria de ayer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El autor y periodista norteamericano Charles Tilly, en su libro *Contagious Performance*, señala que las primeras manifestaciones documentadas de manifestaciones que tuvieron impacto sucedieron en Inglaterra entre 1768 y 1769.",
+      "entidades_detectadas": [
+        "Charles Tilly",
+        "Inglaterra",
+        "Contagious Performance"
+      ]
+    },
+    {
+      "frase": "Los seguidores del parlamentario y periodista John Wilkes se movilizaron para exigir que se le permita postularse en las elecciones y luego volvieron a marchar para que no sea destituido del parlamento.",
+      "entidades_detectadas": [
+        "John Wilkes"
+      ]
+    },
+    {
+      "frase": "Wilkes era un defensor de los sectores populares y de la libertad de expresión.",
+      "entidades_detectadas": [
+        "Wilkes"
+      ]
+    },
+    {
+      "frase": "En su periódico semanal llamado *The North Briton*, el parlamentario había criticado al rey Jorge III y esto le valió la furia de la corona inglesa y el apoyo de buena parte de los trabajadores.",
+      "entidades_detectadas": [
+        "Jorge III"
+      ]
+    },
+    {
+      "frase": "Sus seguidores se movilizaron en reiteradas ocasiones para defenderlo y con esto, según el autor, inauguraron una política que marcó la historia de la humanidad.",
+      "entidades_detectadas": [
+        "marcó"
+      ]
+    },
+    {
+      "frase": "Antes no se juntaba la gente y caminaba toda hacia un mismo lugar con un sentido de acción colectiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comenzó recién ahí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, pero caminar juntos no se refería a una acción política en el pasado, sino que muchas veces este tipo de caminatas tenían un contenido religioso o militar festivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes de las primeras marchas, esta forma de moverse en grupo, todos juntos por un mismo lugar al mismo tiempo, era usada por los peregrinos, por ejemplo, para ir hacia un altar donde se encontraba una deidad religiosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La novedad que se produjo en Inglaterra con los seguidores de Wilkes es que a esa forma de moverse por el espacio se sumó una serie de consignas que le daban a esta acción un sentido nuevo.",
+      "entidades_detectadas": [
+        "Wilkes",
+        "Inglaterra"
+      ]
+    },
+    {
+      "frase": "Esta creación de una forma nueva de hacer política, probablemente sin que sea un invento consciente, cambió el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Grandes acontecimientos fueron precedidos por importantes movilizaciones y las marchas se transformaron en una manera de cambiar el curso de la historia en numerosas ocasiones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a compartir ahora fragmentos que ilustran estos momentos históricos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar la primer marcha de Mahatma Gandhi en India por la independencia de India del imperio británico, la famosa Marcha de la Sal en 1930.",
+      "entidades_detectadas": [
+        "Mahatma Gandhi",
+        "India"
+      ]
+    },
+    {
+      "frase": "La Marcha de la Sal fue un hito histórico en la lucha por la independencia de la India liderada por Mahatma Gandhi en 1930.",
+      "entidades_detectadas": [
+        "Mahatma Gandhi",
+        "la India"
+      ]
+    },
+    {
+      "frase": "En protesta contra el impuesto a la sal impuesto por los británicos, Gandhi lideró una caminata de 240 millas desde Sabarmati hasta Dandi, recogiendo sal a lo largo del camino.",
+      "entidades_detectadas": [
+        "Dandi",
+        "Sabarmati",
+        "Gandhi"
+      ]
+    },
+    {
+      "frase": "Esta acción simbólica desafió el monopolio británico sobre la sal y sirvió como un acto de desobediencia civil pacífica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La marcha atrajo la atención internacional y movilizó a la población india en la resistencia no violenta contra la opresión colonial y generó las condiciones para la independencia de la India del imperio británico.",
+      "entidades_detectadas": [
+        "generó",
+        "la India"
+      ]
+    },
+    {
+      "frase": "Ahora vamos a ir a otra marcha, hoy vamos a escuchar al famoso dirigente por la lucha de los afroamericanos en Estados Unidos, Martin Luther King y la célebre marcha de 1963 donde dijo aquella frase que quedó para la historia: \"I have a dream\".",
+      "entidades_detectadas": [
+        "Martin Luther King",
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Y ahora vamos 5 años para dirigirnos a otro de los grandes momentos históricos que surgieron de una movilización, el Mayo Francés, vamos aquí a escuchar un resumen de lo que fue aquel Mayo Francés de 1968.",
+      "entidades_detectadas": [
+        "Mayo Francés"
+      ]
+    },
+    {
+      "frase": "Los estudiantes parisinos, hijos de los que hicieron la guerra mundial, se manifestaban con espíritu libertario y antiautoritario contra el gobierno del general De Gaulle, héroe del conflicto que había desangrado a Europa.",
+      "entidades_detectadas": [
+        "general De Gaulle",
+        "Europa"
+      ]
+    },
+    {
+      "frase": "Los jóvenes pedían el fin del imperialismo del que Francia era gran exponente y la liberación de la moral y las costumbres conservadoras de la sociedad.",
+      "entidades_detectadas": [
+        "Francia"
+      ]
+    },
+    {
+      "frase": "Diez años de prosperidad, la edad de la quinta república, que eran contestados por esta nueva generación que descubría que estar en el paro era posible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Francia fue un lugar único para vivir la revolución, aunque en otros países como México o Checoslovaquia la represión fue más dura, el movimiento contestatario era global.",
+      "entidades_detectadas": [
+        "México",
+        "Checoslovaquia",
+        "Francia"
+      ]
+    },
+    {
+      "frase": "Desde mayo y junio de 1968 se produjeron 7 muertos, 2.000 heridos y centenares de detenciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más allá de los iniciadores, los estudiantes, fue clave la participación de los obreros de la poderosa industria francesa, al principio hostiles a la causa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La crisis del régimen gaullista se hace evidente con la huelga general del 13 de mayo de 1968, que detendrá al país en seco durante semanas, la mayor del siglo XX, superando la de 1936 convocada por el Frente Popular.",
+      "entidades_detectadas": [
+        "Frente Popular"
+      ]
+    },
+    {
+      "frase": "Para los obreros, las reivindicaciones culturales de los estudiantes están en un segundo plano, piden mejores condiciones materiales y salariales para el desempeño de su trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno terminará por ceder a sus demandas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El general De Gaulle todavía se apuntará a una victoria más, está fuera del campo de batalla.",
+      "entidades_detectadas": [
+        "general De Gaulle"
+      ]
+    },
+    {
+      "frase": "El 29 de mayo disuelve la asamblea y convoca elecciones para junio de ese mismo año, a propuesta de su primer ministro de entonces, Georges Pompidou.",
+      "entidades_detectadas": [
+        "Georges Pompidou"
+      ]
+    },
+    {
+      "frase": "Pompidou será precisamente uno de los grandes ganadores de esta apuesta, alcanzará la presidencia en el 69.",
+      "entidades_detectadas": [
+        "Pompidou"
+      ]
+    },
+    {
+      "frase": "Como vemos, hay una serie de manifestaciones que pueden funcionar como un síntoma de la situación que sobreviene.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Será en el caso de la Argentina algo parecido?",
+      "entidades_detectadas": [
+        "Será",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Vamos a repasar otros casos de estudiantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por ejemplo, los estudiantes chilenos, esas marchas que hablaban de la necesidad de un nuevo presupuesto educativo, que se desarrollaron con la presidencia de Sebastián Piñera en el poder, terminaron con un emergente: Gabriel Boric llegó a la presidencia de su país.",
+      "entidades_detectadas": [
+        "Gabriel Boric llegó",
+        "Sebastián Piñera"
+      ]
+    },
+    {
+      "frase": "Vamos a compartir un testimonio de cómo fueron los hechos de aquella época.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En ese momento Gabriel Boric, junto a los estudiantes, hacemos un esfuerzo por tener una educación gratuita y de calidad.",
+      "entidades_detectadas": [
+        "Gabriel Boric"
+      ]
+    },
+    {
+      "frase": "Ante un gobierno que pareciera doblegarse ante la voluntad de los empresarios, los empresarios que están robando, lucrando con los sueños de miles de familias chilenas, el movimiento estudiantil hoy día, en unidad, estudiantes universitarios, secundarios, de instituciones de carácter privado, instituciones de carácter estatal, hemos venido a hacer entrega de los horizontes del movimiento estudiantil y, además, una serie de medidas muy concretas bajo las cuales creemos que se puede avanzar en este horizonte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Queremos venir a demostrar que el movimiento estudiantil es propositivo y que, mientras el gobierno ningunea al parlamento, haciendo caso omiso de la Comisión Investigadora, mientras los empresarios ningunean al ministro, no entregando los balances financieros de la gran mayoría de las instituciones a los que fueron solicitados, nosotros, como estudiantes, estamos haciendo un esfuerzo por ser propositivos, por avanzar en mejorar la educación en nuestro país y, por el fondo, tener una educación pública, gratuita y de calidad, que sea para todos y que no diferencie entre cuánto dinero tenemos hoy día en el bolsillo para poder educarnos.",
+      "entidades_detectadas": [
+        "Comisión Investigadora"
+      ]
+    },
+    {
+      "frase": "Pasaron pocos años de este joven Boric, que parecía tener un look más similar al que hoy tendría en la Argentina Juan Grabois.",
+      "entidades_detectadas": [
+        "Juan Grabois",
+        "Argentina",
+        "Boric"
+      ]
+    },
+    {
+      "frase": "En la Argentina fuimos parte del movimiento global que produjo el Mayo Francés, nada más que llegó un año después y concentrado en el tema de los obreros, estamos hablando del famoso Cordobazo de 1969, 29 de mayo de 1969.",
+      "entidades_detectadas": [
+        "llegó",
+        "Mayo Francés",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Escuchemos este testimonio sobre aquella marcha llamada el Cordobazo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre los cordobeses dicen que Córdoba anticipa a la Argentina; de hecho, en la marcha de ayer en Córdoba fue más multitudinaria de lo que había sido la anterior, teniendo en cuenta, además, que Córdoba es uno de los lugares donde Milei sacó más cantidad de votos.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Milei sacó",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "No siempre es necesaria mucha cantidad de personas para que una marcha sea efectiva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay ocasiones en que el grado de simbolismo que condensa una movilización logra transmitir un mensaje a lo largo del tiempo con mucha fuerza, me viene la frase de Nietzsche de que \"lo pequeño que perdura se hace grande\" y esto se aplica a la ronda de las Madres de Plaza de Mayo, que no estaban acompañadas por mucha gente, pero ver a madres que buscaban a sus hijos desafiando a la dictadura militar tuvo una fuerza que logró acercar a los medios de todo el mundo y se volvió un mensaje poderosísimo.",
+      "entidades_detectadas": [
+        "Madres de Plaza de Mayo",
+        "Nietzsche"
+      ]
+    },
+    {
+      "frase": "Vamos a un fragmento de las abuelas y madres de Plaza de Mayo realizado por la televisión holandesa en 1978.",
+      "entidades_detectadas": [
+        "Plaza de Mayo"
+      ]
+    },
+    {
+      "frase": "Mi hija estaba embarazada de cinco meses cuando se la llevaron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi nieto tiene que haber nacido en agosto del año pasado, hasta ahora no he podido saber nada de él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo único que sabemos es que los chicos nacen, pero se los dejan en los establecimientos, así, casas cunas con NN y no podemos encontrarnos nunca con nuestros nietos.",
+      "entidades_detectadas": [
+        "NN"
+      ]
+    },
+    {
+      "frase": "Está todo comprobado, en el Palacio de Justicia están todos los testimonios, en el Ministerio de Hacienda el Ministerio de Hacienda tiene todos los testimonios y todas las denuncias, la Policía Federal tiene todas las denuncias, está todo, todo testimoniado.",
+      "entidades_detectadas": [
+        "Palacio de Justicia",
+        "Policía Federal",
+        "Ministerio de Hacienda el Ministerio de Hacienda"
+      ]
+    },
+    {
+      "frase": "Hay veces que dirigentes de agrupaciones estudiantiles, o que organizan marchas o movilizaciones, luego continúan ganando representación en diferentes cargos políticos, como mencionábamos recién, el caso por excelencia es el de Gabriel Boric en Chile.",
+      "entidades_detectadas": [
+        "Gabriel Boric",
+        "Chile"
+      ]
+    },
+    {
+      "frase": "La marcha de ayer podrá generar una nueva figura política a la que Milei deba tener en cuenta.",
+      "entidades_detectadas": [
+        "ayer podrá",
+        "Milei"
+      ]
+    },
+    {
+      "frase": "El gobierno volvió a quedar en minoría con un tema: el financiamiento de las universidades públicas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo decíamos en la columna de ayer: para nuestro país, la movilidad social ascendente que se genera gracias al acceso a la educación superior gratuita es parte del ADN como sociedad; es un valor de los que están a favor todos los argentinos, o la gran mayoría enorme mayoría de ellos, representados por la centro-derecha e inclusive la derecha y pasando por los peronistas hasta la extrema izquierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente, con el argumento de preservar el ajuste fiscal, continuó con la idea del veto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todo esto puede provocar que Milei deba enfrentar una derrota porque no tendría los números en el parlamento para sostener el veto del presidente, como sí sucedió con el de las jubilaciones.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Además, los que se movilizaron ayer no solo lo hicieron en defensa de la educación pública.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Es interesante señalar que, cuando se les ponía un micrófono enfrente a los asistentes, se evidenciaba que había reclamos de todo tipo: había jubilados que exigían un aumento de haberes, había personas preocupadas por los chicos que se van a dormir sin comer, había trabajadores informales que nunca se habían movilizado, angustiados por los precios del transporte, y la marcha universitaria sirvió como un catalizador social de muchas reivindicaciones postergadas de la sociedad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo se traduce políticamente la marcha de ayer?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pregunta que hay que responder mirando los números en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Si la oposición llegara a lograr los dos tercios necesarios para bloquear el veto del presidente, se seguirá afianzando un número completamente clave a la hora de pensar en el futuro a mediano plazo del gobierno de Milei.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Si el peronismo y el resto de los opositores son capaces de construir el mágico número de dos tercios frente al financiamiento universitario, es posible que lo puedan hacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si la imagen positiva de Milei se deteriora lo suficiente y, al mismo tiempo, el descontento social sigue en aumento con un juicio político, es decir, no es lo mismo el primer veto que el segundo veto.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Si, como cualquier herramienta, produce un desgaste en su utilización, esto es algo que habrá que seguir con especial atención.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar algunos testimonios del día de ayer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a empezar primero con el de Facundo Manes, que lo hizo exclusivamente para nuestra producción.",
+      "entidades_detectadas": [
+        "Facundo Manes"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo.",
+      "entidades_detectadas": [
+        "Escuchémoslo"
+      ]
+    },
+    {
+      "frase": "No es una discusión de cifras ni reclamos de un sector en particular, lo que está en juego es algo mucho más profundo: los valores que nos unen como nación, esos que están enraizados en nuestra historia y en nuestro ser, en nuestro ser argentino.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No fue la marcha de un partido, no fue la marcha de un líder en particular, es el grito de una sociedad que, más allá de las diferencias, se une por una causa que trasciende a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se marchó en todo el país y muchos no pudieron estar, pero estuvieron en las redes o adhiriendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy es el momento, justamente, de demostrar grandeza, de estar al lado de los que luchan por la educación pública, por la justicia social y por un país donde todos, todos tengamos un lugar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta marcha no fue una más, fue una marcha que reafirma lo que somos: un pueblo que, pese a todo, sigue creyendo en su futuro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora vamos a repasar distintas declaraciones que surgieron ayer en el momento de la marcha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, vamos a empezar con Cristina Kirchner, diciendo: \"Soy hija y tributaria de la universidad pública\".",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Te quería mostrar que tenemos acá una posta con médicos por cualquier cosa, compañeras médicas y gente bueno, que psicólogas, tenemos médicos, enfermeros, que están de posta por cualquier cosa, que es la posta sanitaria, que siempre está en el Patria, siempre, siempre, siempre, siempre.",
+      "entidades_detectadas": [
+        "Patria"
+      ]
+    },
+    {
+      "frase": "¿Qué significa un día con la gente fuera?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Y para toda la gente que como yo es hija y tributaria de la universidad pública, me salió gratuita, mi viejo era trabajador, después fue comerciante, pero era muy laborante, mi mamá también, y tuve una hija abogada, otra médica, bueno, esa universidad, el ascenso social ascendente que nos permitió ser una argentina diferente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A quienes además de escuchar las radios, los ven por televisión ven y pasa con la mano haciendo un gesto como si fueran una peluquería.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora escuchemos otra dirigente radical, pero en este caso una estudiante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a escuchar a la presidenta de la Federación Universitaria Argentina, Piera Fernández de Piccoli, leer el fragmento del documento acordado para este acto, y vamos a compartir nuevamente el discurso de ayer de Piera Fernández de Piccoli.",
+      "entidades_detectadas": [
+        "Federación Universitaria Argentina",
+        "Piera Fernández de Piccoli"
+      ]
+    },
+    {
+      "frase": "Soñamos un país en el que el futuro no esté condicionado por el lugar donde a cada quien le tocó nacer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La educación es un derecho humano que se alza contra el azar injusto de la desigualdad, con la misma fuerza y claridad que lo dijimos en abril: estudiantes de todo el sistema universitario reiteramos, no queremos que nos arrebaten nuestros sueños, nuestro futuro no les pertenece.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero, vale mencionar la importancia de la presencia femenina a lo largo de toda la manifestación de ayer y en el palco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me parece un acierto que esta vez no hayan sido los sindicalistas quienes hablaban, porque lo que estaba sucediendo allí trascendía claramente a un tema sindical, y como bien lo marcó Piera Fernández y es interesante su idea, se está hablando del futuro, algo que no estuvo naturalmente presente en la marcha, la defensa de la educación como defensa del derecho a tener un futuro próspero, un futuro de ascenso social.",
+      "entidades_detectadas": [
+        "Piera Fernández",
+        "allí trascendía"
+      ]
+    },
+    {
+      "frase": "Milei se decidió a combatir el pasado para tratar de explicar que todo el pasado estuvo mal, sin embargo, nunca se dedicó a pelear por una real, una real proyección de futuro y lo que tiene que ver a la educación, y hoy parte importante de la juventud, es decir, del sector que más lo votó, cree que con este tipo de políticas no hay futuro posible.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "La marcha ayer puede terminar de cristalizar una mayoría social a favor del financiamiento para las universidades populares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si eso sucede, es probable que los diputados de la oposición, en su mayoría, voten contra el veto del presidente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, contaba Mardones en el programa anterior, en este mismo programa, pero previamente que cuando se logró el tercio que bloqueaba a los dos tercios en el veto del presidente a los aumentos de los jubilados, luego, cuando se celebra el triste asado, no tuvo la misma cantidad, ya hubo ausentes que habrá que ver qué hacen hoy.",
+      "entidades_detectadas": [
+        "Mardones"
+      ]
+    },
+    {
+      "frase": "Esa posible mayoría circunstancial podría desembocar en una mayoría general con una agenda diferente a las del gobierno y que pueda realmente enfrentar a Milei.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "La pregunta que queda latente y tendrá que ver justamente con la marcha del resto de los frentes al gobierno, es decir, si a este tipo de malestar general que se tiene con este gobierno le sigue sumando otros por las tarifas de transporte, las tarifas en los servicios públicos, el alza de precios, los alimentos y esa mayoría social pueda oponerse y criticar al gobierno en el resto de sus políticas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como dijimos, en realidad lo que se puso en marcha con esta marcha fue política, así que nos vamos con esta canción de Bob Marley, que es...",
+      "entidades_detectadas": [
+        "Bob Marley"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "Gabriel Boric llegó",
+    "Comenzó",
+    "Frente Popular",
+    "Ministerio de Hacienda el Ministerio de Hacienda",
+    "Vamos",
+    "Piera Fernández de Piccoli",
+    "Pompidou",
+    "Lilita Carrió",
+    "Javier Milei",
+    "marcó",
+    "Charles Tilly",
+    "Martin Luther King",
+    "Inglaterra",
+    "general De Gaulle",
+    "llegó",
+    "Sebastián Piñera",
+    "Policía Federal",
+    "Antes",
+    "allí trascendía",
+    "Piera Fernández",
+    "Córdoba",
+    "Jorge III",
+    "¿Será",
+    "Además",
+    "Gandhi",
+    "qué ayer",
+    "Dandi",
+    "Más",
+    "Comisión Investigadora",
+    "Juan Grabois",
+    "Milei sacó",
+    "Palacio de Justicia",
+    "Contagious Performance",
+    "Cristina Kirchner",
+    "Pregunta",
+    "CGT",
+    "Patria",
+    "México",
+    "Europa",
+    "Argentina",
+    "Casa Rosada",
+    "Mayo Francés",
+    "Georges Pompidou",
+    "Facundo Manes",
+    "Checoslovaquia",
+    "Sabarmati",
+    "Escuchémoslo",
+    "Madres de Plaza de Mayo",
+    "Plaza de Mayo",
+    "Rey",
+    "Gabriel Boric",
+    "Primero",
+    "NN",
+    "Federación Universitaria Argentina",
+    "la India",
+    "la Argentina",
+    "John Wilkes",
+    "generó",
+    "Mahatma Gandhi",
+    "Francia",
+    "Nietzsche",
+    "India",
+    "Wilkes",
+    "Bob Marley",
+    "Horacio Rodríguez Larreta",
+    "Chile",
+    "en Estados Unidos",
+    "Milei",
+    "Mardones",
+    "Boric"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La cámara ardiente cerrará en breve.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Miles de fieles, peregrinos, turistas y ciudadanos de toda Italia y Europa vienen a rendirle homenaje.",
+      "entidades_detectadas": [
+        "europa",
+        "italia"
+      ]
+    },
+    {
+      "frase": "La cámara ardiente cerrará al finalizar la tarde; luego, el féretro permanecerá en la Basílica hasta mañana, a las 10:00, hora del funeral de Estado.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Se espera la llegada de Donald Trump en las próximas horas.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "He visto llegar a Trump; supongo que el Presidente [Nombre del presidente, falta en el texto original], considerando la hora de su salida de [lugar de origen], también habrá llegado.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Además, hay francotiradores, y la novedad de este año es la implementación de bazucas antidrones, una tecnología necesaria dada la amenaza de ataques con drones que hemos visto en la guerra entre Rusia y Ucrania.",
+      "entidades_detectadas": [
+        "rusia"
+      ]
+    },
+    {
+      "frase": "Trump se alojará en la embajada de Estados Unidos.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "También vendrán Biden y Obama.",
+      "entidades_detectadas": [
+        "biden"
+      ]
+    },
+    {
+      "frase": "¿Sabes dónde se alojará el Presidente [Nombre del presidente, falta en el texto original]?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Recuerdo que en su última visita a Roma, hubo un problema con el estado del edificio de la embajada de Argentina.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "No fue por un problema estructural, sino que la hermana del presidente dijo que había \"mala energía\", por lo que se alojaron en un hotel de lujo en Via Veneto, la calle de la Dolce Vita.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

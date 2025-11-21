@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El Congreso, el Presidente, los intendentes y el Poder Judicial están trabajando; los tres poderes del Estado están en funcionamiento.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, las cifras de las provincias muestran curvas mucho más planas que en la Ciudad de Buenos Aires, en parte porque las fronteras argentinas están cerradas, los vuelos de cabotaje cancelados y las provincias han cerrado sus fronteras como si estuviéramos antes de la Confederación Argentina de 1853.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Salta cierra de 22:00 a 7:00.",
+      "entidades_detectadas": [
+        "salta"
+      ]
+    },
+    {
+      "frase": "No sabemos qué sucede en los barrios de El Palomar, Villa Albertina, La Matanza, Villa La Angostura, San Martín, Carlos Gardel.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    }
+  ]
+}

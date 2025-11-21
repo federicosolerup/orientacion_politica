@@ -1,0 +1,55 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La división de poderes, concebida para evitar el poder absoluto del monarca y trasladarlo a un Estado republicano,  se dividió ese poder para evitar su concentración en una sola persona, estableciendo el poder ejecutivo, legislativo y judicial.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La verdadera división de poderes se da entre el poder del Estado y el poder de las grandes corporaciones, que, como demuestra el comunicado de la AMCHAM, se oponen al incumplimiento de un fallo judicial, considerado por ellos como incumplible.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "El presidente del Tribunal Fiscal de la Nación, Miguel Natanlich, ilustra este punto:  un juez no puede obligar a alguien a realizar una acción físicamente imposible.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "De forma similar, la Corte Suprema, con su historial de controversias, que incluye la convalidación del golpe de Estado de 1930, presiona al Ejecutivo a realizar una acción igualmente imposible.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La Corte Suprema coloca a Alberto Fernández en una situación compleja: o incumple el fallo judicial, o incumple leyes del Congreso (la Ley de Presupuesto y la ley del convenio con la Ciudad de Buenos Aires sobre el traspaso de la policía).",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Esta situación deja al Presidente ante la disyuntiva de violar un fallo judicial (algo sin precedentes en la historia argentina) o violar leyes del Congreso.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El fallo judicial, además, es absurdo al ordenar al Presidente que no cumpla con una ley vigente y constitucional.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "En resumen, la Corte Suprema obliga al Presidente a elegir entre dos \"delitos\": incumplir un fallo judicial o incumplir las leyes del Congreso.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

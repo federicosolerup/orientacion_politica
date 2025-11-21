@@ -1,0 +1,63 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Alberto Fernández la lleva a visitar.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Si quieres pasar un día y conocer los secretos del Gran Buenos Aires, habla con Alberto que te lleva a dar una vuelta.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Como este gobierno es un desastre, yo prefiero a Alberto así, distendido, charlando, que a Alberto con el dedo acusador.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Y mientras ella decía: “Yo pinto naturalezas muertas”, y Alberto decía: “No quieres pintar una viva”.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, Kicillof decía que se acaba el… ¿cómo era la palabra?",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Cristina con un abrigo de 2.000 y pico de dólares.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Y si haces un planteo del país de hoy, tienes 86.000 muertos por un lado, Alberto Fernández charlando, a ver si la invita a bailar.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Quisiera Logni hablaba de muy berretas, de la nación berreta.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "**Archivo de Log (Cambios realizados):**\n\n* **Nombres y Apellidos:**  Se corrigieron los nombres y se agregaron apellidos donde faltaban (ej: Alberto -> Alberto Fernández, Cristina -> Cristina Fernández de Kirchner, Ginés González García).",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    }
+  ]
+}

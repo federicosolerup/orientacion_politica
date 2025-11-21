@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Cuando el Estado intentó implementar sus propios aumentos (electricidad y gas), tuvo que postergarlos debido a la situación económica crítica del país.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "La pobreza aumentó 15 puntos en el primer trimestre del año, a lo que habría que sumar otros 4 o 5 puntos correspondientes a diciembre, responsabilidad del Ministro [Nombre del Ministro] y no del Presidente [Nombre del Presidente].",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "La factibilidad de que el Senado apruebe la ley bases [Nombre de la ley bases] no se debe a la supuesta pragmática de [Nombre de Senador/a] o a la influencia de [Nombre de persona/país], sino a la presión de los grandes empresarios que controlan el poder político.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Esta situación contrasta con las declaraciones del ministro de Economía, Sergio Massa, quien publicó un tuit —que considero violento—  afirmando: \"Excelente reunión ayer con productores de consumo masivo.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "La reunión a la que se refiere el ministro Massa incluyó a empresas como Molinos Río de la Plata, Molinos Cañuelas, Quickfood, Establecimiento Las Marías, Procter & Gamble, Johnson & Johnson, Arcor, Mondelez, Mastellone, L'Oréal, Danone, Unilever, Coca-Cola, Nestlé, Quilmes y Compañía Industrial Cervecera.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "El tuit de Massa también menciona la necesidad de reflejar el precio real por unidad para su correcta medición por el INDEC.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Massa incluso muestra un video con ejemplos de descuentos en productos farmacéuticos, sugiriendo que muchos de estos descuentos se deben a la proximidad de la fecha de vencimiento.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "El argumento del ministro es que, a pesar de que el INDEC no considera las promociones, los precios están bajando.",
+      "entidades_detectadas": [
+        "indec"
+      ]
+    },
+    {
+      "frase": "En conclusión, mientras el ministro Massa asegura que la inflación baja, los datos muestran una realidad muy diferente.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    }
+  ]
+}

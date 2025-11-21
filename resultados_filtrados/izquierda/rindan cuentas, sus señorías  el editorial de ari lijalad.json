@@ -1,0 +1,60 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Augusto Belluscio, varios ya fallecieron obviamente, Carlos Fayt, Enrique Petracchi, Jorge Bacqué, estos cuatro nombrados por Alfonsín.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Menem nombró a Eduardo Moliné O'Connor, a Julio Nazareno, a Mariano Cavagna Martínez, a Rodolfo Barra, a Antonio Boggiano, a Guillermo López, a Gustavo Bossert y a Adolfo Vázquez.",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "Juan Carlos Maqueda, que fue nombrado por Duhalde, el senador en ejercicio provisional de la presidencia en 2002 y que sigue en el cargo.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Eugenio Zaffaroni, Elena Highton de Nolasco, Carmen Argibay y Ricardo Lorenzetti, nombrados por Néstor Kirchner.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Horacio Rosatti y Carlos Rosenkrantz, nombrados por Mauricio Macri.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "No sé si les habrá llamado la atención que hubo dos presidentes en democracia que no nombraron jueces en la Corte: Fernando de la Rúa y Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Y digo esto porque esta semana hubo una editorial del diario La Nación que dijo que el procurador interino Eduardo Casal ha tenido una gestión brillante y que este interinato, que es una vergüenza institucional, y en eso coincido con La Nación, que lleva casi seis años, debería finalmente confirmarse y Casal ser designado procurador como corresponde con acuerdo del Senado, cosa que no tiene al día de hoy.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Y sobre esto, y lo van a ver en una nota que va a publicar Luis Villanueva en *El Etap*, si no está publicada ahora, serán minutos, han llamado la atención todos los organismos internacionales de los cuales Argentina forma parte.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "*   **Nombres y Apellidos:**\n    *   Agusto Veluzquio -> Augusto Belluscio\n    *   Eduardo Molinio Conor -> Eduardo Moliné O'Connor\n    *   Mariano Cavaña Martínez -> Mariano Cavagna Martínez\n    *   Rodolfo Barria -> Rodolfo Barra\n    *   Antonio Bociano -> Antonio Boggiano\n    *   Gustavo Bozert -> Gustavo Bossert\n    *   Carlos Rosengrad -> Carlos Rosenkrantz\n    *   Carlos Aljibay -> Carmen Argibay\n    *   (no entiendo este nombre) -> No pude reconocer el nombre que quiso decir, asi que lo dejé entre paréntesis.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    }
+  ]
+}

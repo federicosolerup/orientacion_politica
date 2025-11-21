@@ -1,0 +1,166 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 23,
+      "derecha": 7
+    },
+    "score_promedio": 0.264,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y los mosquitos molestos, muy molestos, esos mosquitos tipo avión que nos están rodeando la manzana a cada uno de los porteños a esta hora, y también en gran parte de la República Argentina.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, jugando con *La Libertad Avanza* y, paralelamente, va a avanzar la conflictividad y esto lo sabe Javier Milei, lo sabe el gobierno, por eso también una parte importante tiene que ver con Patricia Bullrich, con el Ministerio de Seguridad y tratar de controlar la calle.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei contra los gobernadores, son la casta, contra el nido de ratas, más conocido como el Congreso Nacional: \"Son todos una mierda\", dijo de los congresistas.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordamos lo que nos contaba Aguiar ayer: le ofrecieron 12% de aumento salarial, con una inflación que, solo en enero, fue del 20%, que suma más del 45% de inflación en dos meses.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La \"licuadora\" de Luis Caputo le ofrece 12% a los estatales, por eso la lista va a seguir, va a haber conflictividad social, va a avanzar la conflictividad a lo largo del año.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algo dijo también sobre esto Pablo Moyano, en cuanto a que ya se está pensando en qué va a ser la CGT a partir de marzo: puede haber nuevas movilizaciones, el llamado a un gran paro nacional, pero un paro de 24 horas, no el paro de enero, el paro que fue de 12 horas, casi más una movilización que un paro, lo que pasó el 24 de enero con ese paro de 12 horas y movilización, incluso pidiéndole a la UTA, a los gremios del transporte, que no paren hasta las 19 para que la gente pueda ir a la manifestación y después retirarse.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí habrá que ver qué hace el gobierno, qué hace Javier Milei, hasta ahora lo que mostró es redoblar la apuesta, redobló la apuesta con los diputados, redobló la apuesta también con los gobernadores y también con la CGT.",
+      "score": 0.132,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo: \"Bueno, esto a nosotros nos puede complicar, porque nos piden que parte de lo que recaudemos lo mandemos al fondo de las obras sociales para el fondo compensador, de donde sale la plata, por ejemplo, para cubrir algunos de los tratamientos especiales, para el tema de discapacidad\".",
+      "score": 0.113,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No nos ofrecieron nada\", así lo decía Omar Maturano concretamente.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no tuvimos con nadie, pues no hay nadie, están todos desaparecidos, o están todos, los cambian de un momento a otro, ¿viste?, parece el, no sé, el suplente que, en vez de poner tres, te ponen cinco ahora, y bueno, esto es lo mismo, un presidente que antes valoraba, decía: \"Yo si ya sumo, mañana ya tengo todo armado\", no tiene nada armado, que sigue con la casta empresaria, pues casta empresaria, esa no es casta política lo que tiene al lado, todo casta empresaria, y bueno, el problema es, el problema no es esto, y si está un poco honrado la cosa, bueno, se busque otro médico y empieza a tomar otro medicamento.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decíamos respuesta del gobierno, decíamos Manuel Adorni, el vocero presidencial, le hablaba sobre este paro, y casi un clásico de los gobiernos cuando hay algún tipo de paro, que es la victimización: \"No, ¿por qué nos hacen esto a nosotros?\".",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo decía así Manuel Adorni: \"Todavía no hay ninguna novedad o ninguna determinación con respecto a las cuestiones administrativas que puedan surgir para evitar el paro.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina sale adelante trabajando, y los problemas que tiene hoy la Argentina, en un 100%, son heredados de una política que ha destrozado a la Argentina.",
+      "score": 0.062,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que plantea el gobierno es exactamente lo opuesto que viene planteando la Asociación Bancaria, principalmente con, y hay muchas medidas que se vienen tomando desde hace varios, casi desde que asumió Milei, con respecto a la situación del Banco Nación y la posibilidad de una privatización del Banco Nación, a lo que se está oponiendo Sergio Palazzo, el líder justamente de La Bancaria.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Palazzo, vamos a escucharlo entonces lo que decía Sergio Palazzo, el titular del gremio de la bancaria.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"En la distinción de la sociedad y la política, importamos en el parlamento de Bogotá, pero no me lo… Cierto es que, si no hubiera estado el movimiento del gobierno en su conjunto unido delante de este reclamo, esta ley humilde seguramente se relame la sanción.\" La foto de lo que se veía en ese acto no es menor, es arropado por los tres líderes de la CGT: Héctor Daer, Pablo Moyano y Acuña, y también por Hugo Yasky de la CTA, prácticamente con los representantes de las principales centrales obreras de la Argentina, rodeando en este caso a Palazzo en esta lucha que está dando en contra de la privatización del Banco Nación.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por un lado, de financiar lo que es el Fondo de Incentivo Docente, la decisión de no mandar la plata a las provincias, por el otro lado, este retraso en el llamado a la paritaria nacional y las provincias preocupadas por cada una de sus paritarias, que tienen que tener en cada uno de los distritos para garantizar el comienzo de clases en los próximos días.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice: \"Bueno, la verdad que hoy todavía no te puedo garantizar 100% que van a empezar las clases, estamos hablando, estamos tratando de lo de garantizar, estamos diciendo que podemos aguantar sin el Fondo de Incentivo Docente un tiempo, pero no todo el año, no lo podemos pagar todo el año y vamos a ver cómo sigue esto, vamos a seguir hablando con el resto de los distritos para pedir\".",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya se presentó en su momento una carta pidiéndole al Ministerio de Educación Nacional que reimplante el Fondo de Incentivo Docente, pero está complicado, está realmente complicado lo que pasa con otro de los frentes abiertos por el gobierno, que tiene que ver con los docentes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es un fondo que la Nación envía para complementar lo que ya los gobiernos provinciales están poniendo.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De financiar, por un lado, a las provincias, Fondo de Incentivo Docente, no llamar a la paritaria nacional, y por el otro lado decir: \"Bueno, yo a las familias que mandan a los chicos a los colegios privados, le voy a dar un bono\".",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No lo llama bono, casi una mala palabra para este gobierno, le va a dar un voucher para que puedan seguir pagando los colegios privados.",
+      "score": 0.603,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y qué pasa con la CGT, de qué está hablando, qué está pensando la CGT a esta hora?",
+      "score": 0.552,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo Moyano escribió vía tweet, vía X, qué puede pasar con los camioneros en general, con la CGT.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo dijo cortito, pero claro: \"Vamos camino a un gran paro nacional\", fue lo que dijo Pablo Moyano, y de esto se está hablando la CGT.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un paro, gran paro nacional, hay que ver cuándo, hay que ver cómo, se van a ver los detalles, pero parece casi inevitable a esta hora que se venga un paro nacional de la CGT para el mes de mayo.",
+      "score": 0.33,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué decía Pablo Moyano?",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto sí hay que prestarle mucha atención, porque habla de esto termina mal, Pablo Moyano: \"Yo creí ingenuamente que este tipo se reunió con el Papa, ¿viste?, el tipo iba a venir un poco más sensibilizado, pero vino con todas las 'sonvergues' que nos caracterizan, y vamos a ver cómo termina.",
+      "score": 0.292,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie quiere que se vaya, nadie quiere un 2001, nadie quiere violencia, pero ya el solo hecho de poner una declaración pone sobre la agenda pública qué puede pasar en los próximos meses con el gobierno de Javier Milei.",
+      "score": 0.274,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que avanza, a *La Libertad Avanza*, ajuste avanza, y como contraposición al ajuste, como contraposición a la política que marca Javier Milei y Luis Caputo, licuadora, Caputo, también la conflictividad avanza.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 30
+  },
+  "etiqueta_original": "neutral"
+}

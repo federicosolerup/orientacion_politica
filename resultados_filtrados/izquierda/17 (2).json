@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Bueno, Jorge, tomamos contacto porque tenemos la posibilidad de hablar con el diputado Carlos Zapata, representante de Salta, del bloque \"Libertad Avanza\".",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Argentina necesita dar vuelta de página.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Pero Argentina no puede vivir del pasado.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Respeto la Constitución y la justicia.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, el presidente de la Nación visitó a Milagros Sala.",
+      "entidades_detectadas": [
+        "presidente",
+        "nación"
+      ]
+    },
+    {
+      "frase": "El diputado Beltrán Benedit menciona una reunión del 13 de marzo, donde visitó a un preso con Victoria Villarroel, Alberto Acevedo y otros, incluyendo usted.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    }
+  ]
+}

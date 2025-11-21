@@ -1,0 +1,50 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Pero si lo tienes dos años preso sin juzgarlo, es lo mismo que con la vicepresidenta Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Cuando Alberto Fernández se siente con [Nombre del individuo], debe estar tranquilo.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "¿Dónde está la Constitución Nacional?",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "El presidente de Francia también.",
+      "entidades_detectadas": [
+        "francia",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "No se puede moverle el culo a Trump y después apoyar a [Nombre del individuo].",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "El 41% que votó a Macri te va a hacer la vida imposible.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Ejemplo: \"Cristina Kiestner\" se corrigió a \"Cristina Fernández de Kirchner\".",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    }
+  ]
+}

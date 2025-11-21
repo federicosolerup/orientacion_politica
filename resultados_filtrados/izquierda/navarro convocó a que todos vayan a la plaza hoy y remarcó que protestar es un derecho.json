@@ -1,0 +1,19 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El gobierno actual mantiene estrechos vínculos con Trump y Bolsonaro, ambos implicados en intentos de golpe de Estado.",
+      "entidades_detectadas": [
+        "trump"
+      ]
+    },
+    {
+      "frase": "Bajo la atenta mirada del Papa Francisco, quien mantuvo dos reuniones de más de tres horas con Axel Kicillof en un solo día,  una parte significativa de la Iglesia Argentina defiende activamente la democracia, un apoyo que no se manifestó en otros momentos críticos.",
+      "entidades_detectadas": [
+        "argentina",
+        "axel",
+        "kicillof"
+      ]
+    }
+  ]
+}

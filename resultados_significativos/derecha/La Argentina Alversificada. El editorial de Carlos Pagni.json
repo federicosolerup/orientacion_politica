@@ -1,0 +1,431 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 36,
+      "derecha": 47
+    },
+    "score_promedio": 0.566,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy leía un informe que preparan **Martín Rapetti** y **Diego Bosisio** en la consultora de *Equilibra* que dicen que la inflación podría llegar a bajar en los próximos meses del 3%.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que ahí, insisto, Cristina tiene una mayor sensibilidad que los funcionarios y es la toma del municipio de Lomas de Zamora.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, es enormemente importante porque estamos hablando no solamente del segundo municipio del conurbano, estamos hablando de la sede de **Martín Insaurralde**, que es un aliado de Cristina Kirchner, de **Máximo Kirchner**.",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una tensión con el *Movimiento Evita* que hace que alrededor de Cristina muchos empiecen a mirar si hay algo del *Movimiento Evita* ahí.",
+      "score": 0.231,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Moreno hubo también movilizaciones.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El lunes pasado nosotros comentamos una frase que para mí es muy importante, muy importante, no sólo desde el punto de vista de estas internas, sino desde el punto de vista conceptual de **Andrés \"Cuervo\" Larroque**, del \"Cuervo\" Larroque, que es el ministro de Acción Social de la provincia, diciendo: \"Los planes se tienen que acabar en algún momento; el triunfo de una política social es que no haya planes y, además, es aberrante que los movimientos sociales sean los que asignan los planes, los que nos dicen a quién se le debe dar y a quién no\".",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que ahí hace falta, por lo menos, una conversación; hay una conversación pendiente entre **Emilio Pérsico** y \"el Chino\" Navarro, los dirigentes del *Movimiento Evita*, que son funcionarios de Alberto y Cristina y Máximo Kirchner o *La Cámpora*.",
+      "score": 0.968,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mérito de Taiana es haberse ido con Cristina cuando **Florencio Randazzo** levantó su candidatura contra Cristina en el 2017.",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Candidatura, que hay que recordar, tenía como jefe de campaña a Alberto Fernández.",
+      "score": 0.699,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no, Taiana se pasó con Cristina para no estar en esa lista.",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso Cristina quería que Taiana fuera el canciller de este gobierno.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto le da el cargo a Felipe Solá como canciller porque cree que tiene que premiar a aquel a quien él vino a reemplazar como candidato a presidente.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque, como vamos a ver ahora, y lo venimos diciendo desde hace tiempo, el Ministerio de Defensa es una membrana osmótica de la Argentina con el mundo en temas muy delicados.",
+      "score": 0.47,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segunda pregunta, ¿Alberto consultó con Cristina para designar a Taiana?",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que son homenajes que hace Alberto interpretando lo que le puede gustar a Cristina, entre otras cosas, porque al ir Taiana del Senado al Ministerio libera una banca en el Senado que ahora la va a ocupar **Juliana Di Tullio**, que es la primera suplente de esa lista, que era la lista del 2017.",
+      "score": 0.927,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto no iba Taiana con Randazzo que era el segundo de Cristina.",
+      "score": 0.937,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, está bien, es difícil entender que no hablen el presidente y la vicepresidenta, sobre todo en un tema tan sensible como este.",
+      "score": 0.532,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, yo creo que Cristina está mirando a ver qué hace Alberto y que hay una distancia que habrá que ver cuándo la resuelven.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sabemos si habló ahí, pero Sullivan viene de Brasil, de proponerle a Brasil una alianza con la OTAN a cambio de que Brasil, en una licitación que está en curso, no le dé el negocio del 5G, es decir, de la tecnología de quinta generación de telecomunicaciones a la China Huawei.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hay un comunicado durísimo de la Embajada China en Brasilia diciendo que hay una presión que no vamos a tolerar y sería lamentable que el gobierno brasileño no haga una licitación transparente.",
+      "score": 0.819,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se proyecta sobre la Argentina también.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le hace, no *Sinopharm*, no *Sputnik*.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Va a responder a las ideas de política exterior de Cristina o va a responder a las de Alberto?",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si Alberto no habló con Cristina...",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque me parece, me parece, es una interpretación que tanto en el Instituto Patria como en *La Cámpora* ha habido y hay, y es una de las razones de la distancia, me parece, un enorme malestar, enorme malestar por la salida de **Agustín Rossi** del gabinete.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces hay oferta a Cafiero para que fuera a la lista, sería eso, ¿no?",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, que Cafiero fuera a la lista.",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Inclusive te diría que no me hubiera sorprendido que Máximo Kirchner le ofreciera a Cafiero ser presidente de bloque con tal de que vaya a la lista.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A cambio de que Rossi fuera jefe de gabinete, y acá viene la interpretación, la pregunta, ¿a Rossi alguien lo embaló para que vaya a Santa Fe para sacarlo del medio sabiendo de que a Cristina y a Máximo Kirchner le hubiera gustado que sea jefe de gabinete?",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, la pregunta es, ¿fue Cafiero el que sabiendo que le venía un reemplazo lo alentó a irse a Santa Fe?",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Rossi va a Santa Fe con todo lo que eso significa de ruptura del peronismo en Santa Fe y la posibilidad de perder votos, por propia vocación o porque a lo mejor alguien le dijo: \"Tírate que hay agua\", y no había agua para sacarlo del gabinete?",
+      "score": 0.452,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, a lo mejor se está enterando ahora de esto o cuando le cuenten lo que estamos diciendo, si es que alguien se lo cuenta.",
+      "score": 0.643,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces vemos que hay una cantidad de tensiones, lo de Taiana es muy importante, yo creo que Cristina lo debe tomar como un reconocimiento, les debe gustar que Rossi sea reemplazado por alguien parecido a Rossi, que es Taiana, de esa línea, de ese palo, pero no sé si llega a suturar todas las diferencias que hay.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con un Alberto que se corta solo en muchos temas.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primer problema, ya es un servicio público, hay un decreto de necesidad de urgencia que firmó Alberto Fernández que establece que Internet es un servicio público.",
+      "score": 0.395,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y que cuando ha tenido la amenaza de ser desplazado, Moyano se puso muy nervioso.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, cuando Richmond, **Marcelo Figueira** sale a hacer un Fideicomiso para construir la planta que va a permitir la fabricación de la *Sputnik* en la Argentina en gran escala, el grueso de la planta vino a Depresviteris.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo llama Doman a Manzano y le dice: \"Esto es un escándalo\".",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Figueira le pasó un poco lo mismo con el Fideicomiso, ese del que va a...",
+      "score": 0.317,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, este es el capitalismo reformado de Alberto Fernández.",
+      "score": 0.578,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, desde que llegó Alberto hasta ahora, según ese estudio, el salario real cayó más de tres puntos.",
+      "score": 0.331,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde que llegó Alberto al poder, según ese cálculo para...",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un tema que lo viene siguiendo con nosotros, te acordás que mostramos varios gráficos, **Alfonso Prat-Gay**, con un salario mínimo, comprás hoy 51 kilos menos de carne de los que comprabas cuando Alberto llegó al poder.",
+      "score": 0.451,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "71 kilos menos de carne desde que Alberto ganó las primarias, las *PASO*, y prometió la vuelta del asado.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, lo que ellos le dicen a Sullivan en este viaje es que quieren tener un acuerdo con el Fondo inmediatamente después.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo te diría que más cerca de Cristina se piensa que hay más flexibilidad por parte del Fondo de la que Guzmán admite.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando nos sentamos con el Fondo, hay que recordarle al Fondo que el plan fracasó, y era el plan del Fondo.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, a ver, está bien, la Argentina fue excepcional y le pusieron 57.000 millones de dólares por su excepcionalidad.",
+      "score": 0.434,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué cree que Cristina es excepcional?",
+      "score": 0.242,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué cree Máximo Kirchner?",
+      "score": 0.814,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que al Fondo, los funcionarios del Fondo y la política del Fondo es más sensible a este argumento de lo que Guzmán está dispuesto a aceptar.",
+      "score": 0.186,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, Carlos, me quiero detener un segundo en el tema del Fondo.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina lo dijo en el último acto, creo que fue, en el cierre de listas.",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición te va a decir lo que le decía, no tanto el kirchnerismo, porque el kirchnerismo no tenía ninguna disponibilidad para pactar con Macri.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les dejamos claro esto de entrada a la gente de Macri al comienzo del gobierno.",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, por ejemplo, Massa, Piquet o, recuerdo nítidamente lo de Piquet o en el Senado.",
+      "score": 0.655,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que Cristina quiere un acuerdo de...",
+      "score": 0.678,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ¿por qué Cristina quiere el acuerdo después de la elección?",
+      "score": 0.283,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es solamente por no dar malas noticias antes, sino porque quiere ver con qué capital político cuenta para sentarse a negociar con el Fondo y a negociar qué tipo de ajuste.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo que vos estás diciendo, Cafiero no tiene la mejor confianza del lado de, sobre todo, del Instituto Patria.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No le debería quedar tampoco mucho tiempo?",
+      "score": 0.448,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto toma a Cafiero como el emblema de su autonomía frente a Cristina, frente a la Cámpora, frente al kirchnerismo.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pone Massa a Malena, pone La Cámpora a **Roberta de la Serna**, pone Axel Kicillof a Carlos Bianco.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el gobierno estoy hablando con Alberto Fernández.",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí en ese universo donde están de Pedro, Máximo Kirchner, la que manda es Cristina.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí influye Kicillof también, ¿no?",
+      "score": 0.388,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que Kicillof les da una letra técnica, pero que acá hay un problema político.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A nosotros nos interesa que a la Argentina le vaya bien\".",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi que lo trataron a Bolsonaro como si fuera Maduro.",
+      "score": 0.743,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es lo que divide Cristina de Alberto Fernández o La Cámpora de Guzmán.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, o han tenido conversaciones con el Fondo, algunos de ellos, porque el Fondo habló con La Cámpora también.",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Guzmán no querrá un plan de más ajuste, más severo, más amigable con el Fondo, que le daría a él un papel mucho más protagónico dentro del Gobierno?",
+      "score": 0.091,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Que lo convertiría en una especie de interventor del Fondo en el Gobierno?",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque la pregunta en el fondo es, ¿cuál es el proyecto político de Guzmán?",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que me decía el otro día alguien, un kirchnerista, no alguien de Macri, me dice: \"Mi nene que es chiquito, asiste a clases por Zoom\", y estaba en Zoom, y me dijo: \"Hoy papá, aquel chico lo conozco de la escuela\".",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que los chicos de segundo grado, pensá esto, no conocen a sus compañeros.",
+      "score": 0.582,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace tres años que la Argentina está en una crisis económica, 230 mil desempleados más.",
+      "score": 0.117,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, entonces, la respuesta de la clase política hasta ahora, y es una pena que uno esté obligado a hacer algo que parece antipolítico, no me gusta ese discurso, pero veo cosas rarísimas para este clima social, con el 70% de la gente que cree que el año pasado le fue mejor que este y que el año que viene le va a ir peor que este.",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vemos al gobernador Perotti de Santa Fe en una lista como suplente, Manzur suplente, Suárez radical de Mendoza suplente, tengo una lista para mostrarte si querés, a ver si la podemos ver, de Santiago del Estero, a ver, la tenemos, mirá, ¿a quién ves en la foto?",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque a Saa*llago* le están tratando de ser un ser o la izquierda en esa lista, si la foto es la de Zamora.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri es, Jorge Macri.",
+      "score": 0.49,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que Jorge Macri, que apareció en La Plata haciendo campaña al lado en el lanzamiento de Santilli, a quien Santilli le agradeció, en Vicente López también postula a Manes.",
+      "score": 0.252,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Jorge Macri quiere ser gobernador y no le gusta que le bajen como un paracaidista a Santilli desde la capital federal.",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 83
+  },
+  "etiqueta_original": "neutral"
+}

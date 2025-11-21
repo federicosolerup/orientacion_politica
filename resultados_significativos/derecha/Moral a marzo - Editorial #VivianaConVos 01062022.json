@@ -1,0 +1,331 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 9,
+      "derecha": 54
+    },
+    "score_promedio": 0.783,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Recién veíamos, vamos a conversar después, el tuit de **Cristina Fernández de Kirchner**, apenas terminó el partido.",
+      "score": 0.093,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, el presidente **Alberto Fernández** tuvo un hijo hace muy poco tiempo, **Francisco**, su segundo hijo.",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente **Alberto Fernández**, y pediría que por favor hagan silencio afuera que hay mucho ruido y me desconcentro, decía que el presidente **Alberto Fernández** estaba judicializando la política con lo de ladrones de guante blanco, con los parques eólicos y bla bla bla, siempre lo mismo a **Macri**.",
+      "score": 0.953,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y pensaba cuando lo escuchaba ayer y hoy que quiere quedar bien seguramente con **Cristina Fernández de Kirchner**, pero la verdad es que Cristina debe pensar que este es su peor alumno.",
+      "score": 0.661,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente elige enemigos externos para contener a **Cristina Kirchner**, pero expone debilidad y complica más la economía.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema es que sigue atado al juego del ex presidente y agrega tensión política en medio de la crisis.",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente **Alberto Fernández** no quiere entender que su única enemiga es **Cristina Fernández de Kirchner**, de Moral a Marzo.",
+      "score": 0.986,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se dedicaron específicamente a quedarse con las cosas que le pertenecen a los argentinos para ellos.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí le ilude el presidente.",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veintipico de años tratando de burlar la legislación para quedarse con lo que le pertenece a los argentinos.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá este fuego cruzado entre **Alberto Fernández** el presidente y el expresidente **Mauricio Macri**.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así yo digo estas cosas porque esos ladrones de guante blanco andan dando cátedra de moral y de ética por el medio.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy esperando que alguna vez la justicia condene a esos ladrones de guante blanco a rendir cuentas de lo que han hecho.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy esperando que alguna vez un juez llame a esos ladrones de guante blanco y les pida explicaciones por la deuda que tomaron en nombre de la Argentina.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y estoy esperando que llame a esos ladrones de guante blanco para que expliquen los parques eólicos, la estafa del correo, la estafa con los peajes.",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fondo entró a darnos una mano cuando se acabó el crédito para poder pagar las deudas que vencían, muchas que ya también eran de ellos, y la deuda no aumentó desde que entró el fondo.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina habla de la fortuna y **Néstor** casi parece un hombre que pide limosna.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le quiero decir al presidente, cuando habla de guante blanco, se habla, por ejemplo, de los delincuentes de la Rosadita.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordémoslo y se lo recordamos al presidente **Alberto Fernández**.",
+      "score": 0.846,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández**, que fue el tipo que más la criticó a **Cristina Fernández de Kirchner**.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme la foto, por favor, de **Alberto Fernández** con **Lázaro Báez** y con los hijos de **Lázaro Báez**.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el presidente dio un discurso en **Zárate**.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo que el Estado está para igualar.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado está para igualar.",
+      "score": 0.613,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿De qué igualdad habla el presidente **Alberto Fernández**?",
+      "score": 0.902,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además pensaba qué ganas tiene el presidente **Alberto Fernández** de perder el tiempo todos los días hablando durante horas en la televisión.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy además el presidente **Alberto Fernández** habló de una Argentina, de la Argentina, de mi hijo el doctor.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡La EP1 le tiene que dar!",
+      "score": 0.721,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo puede ser que se cienan la boca hablando de los pobres y se cagan en los pobres?",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ellos obviamente le pagan la educación a sus hijos con la tuya, con la mía, con la nuestra.",
+      "score": 0.384,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, si no hay gas en el colegio y las estufas no funcionan y no le dan calor a los chicos, a ellos no les importa.",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo recuerdo que fui muy crítica de esos viajes que le pagaban a los egresados porque pensaba, muchas veces yo no me pude ir de vacaciones.",
+      "score": 0.454,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y pensaba hoy, cuando veía este tweet de **Cristina Fernández de Kirchner**.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos Argentina todavía a las 6 y 17.",
+      "score": 0.692,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos Argentina todavía.",
+      "score": 0.807,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Google me recuerda a esas fotos de hace dos años en plena pandemia, donde los nenes no podían salir ni a la puerta de calle a tomar un poquito de sol y aire, les decía lo peor a todos los políticos.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el presidente se queda con el relato y no con la realidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Organización Mundial de la Salud dice que Argentina es uno de los países que mejor manejó la pandemia y aprovecha el presidente para decir que los medios, que los medios, o sea, **Cristina** saluda a la selección.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el presidente, mientras los chicos se están congelando y no van al colegio, dice que los medios le intoxicamos la cabeza a la gente.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero bueno, por una teta le pasó todo lo que le pasó.",
+      "score": 0.923,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se levantó a esa mina con la nuestra, le hizo hacer las tetas con la nuestra, el rebaño de pelotudos.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llegaban con sus terribles camionetas, se sentaban ahí a rosquear con el presidente **Alberto Fernández**, ahí lo vemos, los vemos a todos.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ninguno le importaba la mesa del hambre.",
+      "score": 0.859,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se puede escuchar un poquito lo que decía con respecto a la mesa del hambre?",
+      "score": 0.346,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El sindicalista **Marcelo Balcedo**, que está preso en Uruguay, le va a hacer juicio al Estado uruguayo.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Balcedo** pasa de imputado a demandante y le reclama 22 millones de dólares a Uruguay.",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está detenido en Uruguay por lavado de activos, contrabando y tráfico de armas.",
+      "score": 0.854,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y para eso las previsiones están, los dólares están para traer la totalidad del gasoil que haga falta para que la Argentina pueda seguir adelante con toda su capacidad operativa.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los K lo lograron.",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice que siempre dije que me da miedo Maduro, pero ahora viendo el Alberto la verdad que me da miedo los dos, no sé cual más.",
+      "score": 0.993,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se tienen que ir los K y no volver nunca más.",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en Argentina tenemos todos los días los mismos problemas.",
+      "score": 0.471,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de seis años la justicia le dio la razón a **Johnny Depp**.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lamentablemente hay guita en el medio de todas estas cosas y por eso esto no funciona.",
+      "score": 0.648,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viste como recién **Mayra Mendoza** que no le pone gas a los chicos en el colegio ni agua.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que le importa es que le digan Intendenta.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero si a esta mina con todo lo que le pasa, solo le importa que le digan Intendenta, es que está mal.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo siento que la Argentina está absolutamente rota.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La guita de los kilmeños está en Miami y no hay estufas.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente vive una realidad, la vice vive otra, estos viven otra.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me voy a la mesa con este tape del presidente **Alberto Fernández** porque mientras la avise te dice, vamos Argentina, todavía no hay una gran gran No le da vergüenza, yo soy la conductora de tele acá sentada, dejando la vida cada noche, exponiéndome a todo, a todo me expongo cada noche.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y eso es, vamos Argentina, sí genial, amo a me que le ganaron y que le rompieron el traste a los italianos, me encantó.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto los medios le intoxican la cabeza a la gente, pero por favor, con este tape me voy a la mesa, quiero escucharlo **Luis Juez**, a **Javier y Guacel**, a **Campolongo**, a **Spil",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 63
+  },
+  "etiqueta_original": "neutral"
+}

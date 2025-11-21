@@ -1,0 +1,151 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 16,
+      "derecha": 11
+    },
+    "score_promedio": 0.446,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Están escuchando la canción \"Prófugos\" de la banda argentina Soda Stereo, una canción de 1986, que aborda la relación de dos personas que son prófugas, una de la otra, y esto tiene relación con el prófugo más famoso de Argentina y Chile, detenido ayer, Facundo Jones Huala.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno podría encontrar lugares donde los indígenas son mayoría, como, por ejemplo, el caso de los maoríes en Nueva Zelanda.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mapuche cumplió un año prófugo de la justicia chilena, luego de que la Corte Suprema revirtió un fallo de la Corte de Apelaciones de Temuco que le entregó la libertad condicional en enero del año 2022.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Facundo Jones Huala fue detenido por la policía en la provincia de Río Negro, en estado de ebriedad, en una vivienda del barrio La Esperanza, del Bolsón, escondido en un quincho.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A primera hora de la mañana, la ministra de Seguridad, Betiana Minor, se comunicó con el ministro Aníbal Fernández para informarlo sobre esta situación y, además, porque ahora se hace la tramitación con Chile, son, digamos, prisiones que se hacen a nivel federal.",
+      "score": 0.425,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, la senadora de la República, Carmen Gloria Aravena, criticó las decisiones judiciales que entregaron la libertad a Jones Huala, y espera que termine de cumplir su pena sin ninguna posibilidad de que ninguna corte chilena le dé libertad condicional a este terrorista, que debe estar preso.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, vamos a compartir dos tramos de la entrevista que le hizo Jorge Danata el 27 de agosto de 2017 y luego un informe que se le hizo cuando lo liberaron en Chile.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo punto es el mejoramiento de la calidad de vida y la autonomía mediante el trabajo propio en esas tierras.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "yo les voy a hablar en la misma entrevista, siempre fuimos una nación sin Estado.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, ¿usted sería, en teoría, un estado religioso?",
+      "score": 0.445,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Irán es un estado religioso.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros siempre fuimos una nación sin Estado.",
+      "score": 0.511,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está bien, pero la nación es el Estado jurídicamente organizado.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros planteamos una situación intercultural, un mundo intercultural y un estado intercultural.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es el 21 de enero de 2022, cuando le dan la excarcelación en Chile y luego él se profuga.",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí, la violencia política del Estado tiene que seguir en el camino de la autodefensa a los peñis, a la Amiens y el sabotaje a las grandes empresas.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos son el enemigo.",
+      "score": 0.809,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y tenemos que seguir avanzando en ese camino hasta liberar la nación mapuche.",
+      "score": 0.33,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese es el camino, una sola línea, avanzar sin transar, y no estamos ni ahí con el proceso constituyente, ni con la elección de Boric, ninguno de esos vendidos a este sistema opresor capitalista.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, habían pasado cinco años que había estado en Chile y su tonada ya era chilena.",
+      "score": 0.838,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nueve días después de lo que vamos a escuchar de Jones Huala en Chile, que es en el momento en el que expone en el juicio que se le hace a Jones Huala, nuestro embajador allí en Chile, Rafael Bielsa.",
+      "score": 0.28,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La embajada argentina tiene la obligación, a pedido de un ciudadano argentino en conflicto con la ley, de prestarle asistencia.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos algunos representantes de Río Negro muy particulares, como Miguel Ángel Pichetto y la gobernadora Arabela Carreras.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que la jueza federal de Bariloche, que es Silvina Domínguez, que es Zapala, esta señora le entregó a los cerros mapuche casi 300 hectáreas de la escuela militar de montaña.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero ver ahora si lo van a detener por intrusión, por haber entrado en la propiedad privada, si le van a armar una causa a la justicia federal o nacional por los hechos que ocurrieron en este tiempo, o si lo van a extraditar.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Fiscalía de Chile ya comenzó el proceso de extradición.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con esta información, y teniendo en cuenta que el señor Jones Huala había sido condenado por su participación, en calidad de autor, de un delito de incendio y porte ilegal de arma de fabricación artesanal, es que se manifestó, a través de los canales correspondientes, la intención de las autoridades chilenas de extraditar a la mayor brevedad posible al señor Jones Huala para que, en Chile, cumpla la condena que le fue impuesta.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 27
+  },
+  "etiqueta_original": "neutral"
+}

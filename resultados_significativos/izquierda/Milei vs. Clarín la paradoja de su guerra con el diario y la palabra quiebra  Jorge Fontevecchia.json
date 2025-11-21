@@ -1,0 +1,146 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 23,
+      "derecha": 3
+    },
+    "score_promedio": 0.131,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Titulamos esta columna de hoy \"452: Milei y la ley de bienes culturales\".",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dentro de esa ley había una modificación a la Ley de Concursos y Quiebras, que establecía que los acreedores no podían avanzar sobre esos bienes.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se entra en un concurso de acreedores, y los acreedores no pueden avanzar sobre los bienes, ¿qué pasó con esos títulos de deuda?",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y a usted qué le parece?",
+      "score": 0.43,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un corte previo a esta parte del reportaje, conversación que citábamos que le hizo el periodista Luis Majul, el presidente también mencionaba que había habido esa reunión que citó en Banfield, y mencionaba a Clarín y a la Ley de Concursos y Quiebras, y la posibilidad de que Clarín terminara en esa situación.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero varias son las distorsiones con lo que realmente sucedió en 2002, comenzando porque en esa reunión que cuenta Milei, no estaba Mañeto, sino **Jorge Rendo**, originalmente director de Legales y Relaciones Institucionales del Grupo Clarín y luego presidente del grupo.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego su ministro de Economía, **Roberto Lavagna**, indicó, anunció lo contrario: la pesificación asimétrica.",
+      "score": 0.613,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay distintas historias, pero como lo contó Jorge Rendo en el libro de Martín Sivak, yo le envié entonces una carta al presidente Eduardo Duhalde diciendo, cosa que es cierto: Uno, que se tenía que elegir entre salvar a los bancos o a las empresas, elegir a las empresas, porque si quedaban empresas, podía luego haber bancos; pero si quedaban solo bancos, no iba a haber ni empresas, ni más tarde tampoco bancos.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dos, que a la peyorativamente bautizada por su crítica, su ley Iclarín, se le podría agregar también el nombre de Perfil, el nombre de cada uno de los medios de comunicación, porque abogábamos todos por ella, con idéntico apoyo de todas las empresas tradicionales de medios de comunicación.",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei confunde la salida de la convertibilidad y la pesificación, que devaluó el peso, 75% de un peso, un dólar a un peso 0.25 por dólar.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él mismo lo confunde con las consecuencias de ese terremoto que obligó a adaptaciones del orden jurídico para que siguiera existiendo el mercado, como las modificaciones de los contratos y, entre ellos, la relación acreedores-deudores, propias de toda situación de crisis extrema, ya que había sido el Estado quien primero rompió el primer contrato.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ley de bienes culturales le permitió a los medios de comunicación renegociar sus deudas en dólares, beneficiando a los accionistas nacionales frente a los acreedores financieros externos, para que los medios no pasasen a ser propiedad de fondos de inversión e instituciones financieras extranjeras.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo pasó con los principales medios gráficos; no solo Clarín, también tuvieron que renegociar judicialmente sus deudas con sus acreedores: La Nación y Perfil.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que Milei llama “quebrar” tampoco es cierto, como dice Milei, que los acreedores no tuvieran defensa, porque cada proceso tuvo que ser aprobado en dos instancias judiciales y el presidente debe recordar el resonado caso de la fiscal de la cámara de comercio que impugnó los acuerdos de varias empresas, entre ellas Clarín, obligando a mejorar la situación de los acreedores.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa fiscal se llamaba **Gilles Carbó**, que luego Cristina Kirchner ascendió a Procuradora General.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, por último, no significó ningún perjuicio para el Estado ni para los contribuyentes, ni un traspaso de recursos de un sector privilegiado frente a un sector menos privilegiado, sino un laudo entre dos privados, y otro mayoritariamente extranjero.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo interesante en este episodio de la historia económica argentina no es la crítica de Milei a la ley de bienes culturales, que como todo instrumento sujeto a opinión, merece opiniones críticas también, sino la recurrencia de la palabra “quiebra” y el goce con que pareciera pronunciarla el presidente, lo que para una persona jurídica, una empresa, es lo mismo que la desaparición para una persona física.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Milei hubiese sido presidente en los Estados Unidos en el momento de la crisis financiera en las hipotecas, entre 2007 y 2008, hubiese buscado despedir a **Ben Bernanke**, equivalente al presidente de nuestro Banco Central, para que no salvara de forma a la mayoría de los bancos comprometidos y hubiera repetido la dolorosa experiencia de la crisis de 2009, propiciando una mayor cantidad de quiebras (entre comillas, “purgas”, podríamos decir), generando el efecto en cadena que profundizó la crisis.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue justamente el economista más odiado por Milei, **John Maynard Keynes**, quien, después de la costosa experiencia de las quiebras de 1929, desarrolló el modelo económico contracíclico del Estado interviniendo en las recesiones, que es el canon de la economía moderna hace 100 años.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina se recuperó rápido de la mayor crisis de su historia, que no fue la que asumió Milei, sino fue el fin de la convertibilidad en el año 2002, y fue por eso que se realizaron las evaluaciones jurídicas que se realizaron en los contratos y a la obra, podríamos decir, del mejor ministro de Economía desde la democracia, el keynesiano, también Keynesiano, **Roberto Lavagna**, de la misma forma que Estados Unidos superó la crisis de las hipotecas gracias al keynesiano Ben Bernanke, que luego fue premio Nobel por sus estudios en la enseñanza que dejó la crisis de 1999 y los remedios para no repetirla nunca más.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En síntesis, Clarín no hizo que se pesificara la economía y el Banco Central perdiera decenas de millones de dólares con una pesificación asimétrica, como dice Milei.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero confundir el devenir normal, ascendente y descendente de los frutos económicos, que son habituales en cualquier momento de la historia de un país, la mayor crisis estructural de la historia argentina, como fue en este caso, el default de Argentina en el año 2002, solo explica el interés de torturar la evidencia para utilizarla como arma de agresión contra adversarios.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La recurrencia de Milei con las quiebras, presentes o pasadas de empresas que, por la causa que fuera, no se someten a su voluntad.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antes era Percila, ahora se agregó Clarín, recientemente se agregan las acusaciones a Techint por el tema del dólar, y a toda la uya tienen una raíz escatológica de goce que le produce el uso de los insultos, metáforas de orden sexual, o sea, quiebra tiene el mismo sentido tan ático que tienen sus insultos en el terreno epistémico.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, Milei repite el error de confundir consecuencias con causas, porque cada vez que el Banco Central tuvo enormes pérdidas, como los ejemplos citados por Milei, entre ellos rescato la nacionalización de la deuda privada y en los años 80 después de que la tablita de Martínez Dios no funcionase, o la pesificación asimétrica del año 2002, fueron ambas respuestas traumáticas, desembocaduras, podríamos decir, de un previo fracaso.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para tomar el tema con algo de humor, esta paradoja de los extremos ideológicos, el kirchnerismo y el libertarismo contra la prensa en general, y ahora contra Clarín en particular.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 26
+  },
+  "etiqueta_original": "neutral"
+}

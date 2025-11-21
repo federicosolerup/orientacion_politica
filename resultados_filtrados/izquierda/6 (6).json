@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "De toda esta historia que se ha vivido desde ayer por la tarde, cuando la Corte Suprema de Justicia de la Nación comunicó su resolución de suspender las elecciones de Tucumán y San Juan hasta que se resuelva la cuestión de fondo, vamos a hablar con Carlos Amaya, vocero de la Junta Electoral de Tucumán.",
+      "entidades_detectadas": [
+        "carlos",
+        "nación"
+      ]
+    },
+    {
+      "frase": "Recordemos que la cautelar de la Corte Suprema de Justicia de la Nación disponía la suspensión de las elecciones solamente para los cargos de gobernador y vicegobernador, porque el cargo cuestionado es precisamente el de vicegobernador.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Pero esto desató dos problemas muy serios en Tucumán: nuestra Constitución establece que las elecciones deben celebrarse en un solo día y no pueden dividirse; además, el régimen electoral tucumano dispone el sistema de acoples (las famosas colectoras), que en el caso del oficialismo son decenas.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Carlos Amaya, vocero de la Junta Electoral de Tucumán.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    }
+  ]
+}

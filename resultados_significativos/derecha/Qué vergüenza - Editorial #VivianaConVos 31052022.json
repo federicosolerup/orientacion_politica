@@ -1,0 +1,471 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 17,
+      "derecha": 74
+    },
+    "score_promedio": 0.751,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Y hablando de vergüenza, tenemos un presidente memé.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente sin vergüenza que nos da vergüenza a todos los argentinos, hasta a los que lo votaron.",
+      "score": 0.711,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente habló en Cañuelas, habló de Macri, lo acusó de ladrón de guantes blancos.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además dice que la Organización Mundial de la Salud puso a la Argentina como un ejemplo en la pandemia.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además les digo algo, el presidente Alberto Fernández dice, entre otras cosas, que vino a ofrecer su corazón.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así digo estas cosas, porque esos ladrones de guante blanco andan dando cátedra de moral y de ética por doquier.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy esperando que alguna vez la justicia obligue a esos ladrones de guante blanco a rendir cuentas de lo que han hecho.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy esperando que alguna vez un juez obligue a esos ladrones de guante blanco y les pida explicaciones por la deuda que tomaron en nombre de la Argentina.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y estoy esperando que llamen a esos ladrones de guante blanco para que expliquen los parques eólicos y la estafa al correo, la estafa con los peajes.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora resulta que la OMS dice cómo se comportó cada país y resulta que la Argentina es un ejemplo.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como diría Fito Páez, venimos a ofrecer nuestro corazón para que la Argentina se ponga de pie, para que la Argentina se levante, para que la Argentina trabaje, para que la Argentina camine.",
+      "score": 0.839,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su corazón no lo necesitamos y, además, dudo que usted tenga corazón.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le grita?",
+      "score": 0.773,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El estadista que tenemos como presidente, Alberto Fernández, un día te cita a Lito Nebbia, otro a Fito Páez, estamos a punto de que cite a Silvina Ocampo a decir, ¿qué pretende usted de mí?",
+      "score": 0.694,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice, además, que la Organización Mundial de la Salud puso a la Argentina como ejemplo en el manejo de la pandemia.",
+      "score": 0.787,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni los médicos le creen a la Organización Mundial de la Salud.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le pregunto al presidente si la Organización Mundial de la Salud le preguntó por la violación del DNU, presidente, las fiestas clandestinas en Olivos durante la pandemia.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted da vergüenza, presidente, discúlpeme con todo respeto.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras, vamos a tener que seguir escuchando durante mucho tiempo al presidente diciendo: “Ah, pero Macri”, ahora le dice ladrón de guantes blancos.",
+      "score": 0.779,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Está obsesionado Alberto Fernández con Mauricio Macri?",
+      "score": 0.919,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque acá estamos nosotros, el rebaño de pelotudos, esperando que algo le salga bien.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, además, el presidente está como en modo campaña, está confundido, qué vergüenza.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros vamos a trabajar para que Paraguay sea la nación que siempre debió ser.",
+      "score": 0.428,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros vamos a trabajar para que Paraguay sea la nación que siempre debió ser.",
+      "score": 0.428,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos nacido para ser una patria grande y ahí estamos ayudando a consolidarla.",
+      "score": 0.204,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente en el acto de entrega de títulos de propiedad de viviendas en Paraguay.",
+      "score": 0.677,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, presidente, usted no puede ni levantarse a la mañana y quiere levantar a Paraguay, levante a la Argentina.",
+      "score": 0.942,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo loco es que el presidente Alberto Fernández estuvo en Paraguay entregando viviendas.",
+      "score": 0.877,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, Alberto Fernández gobierna la Argentina, la gente la está pasando mal, la gente no come, la gente tiene hambre.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted da vergüenza.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice que va a trabajar para que Paraguay sea la nación que siempre debió ser.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que usted está confundido, presidente.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted gobierna la Argentina, no Paraguay.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escúchenlo ahora, dando vergüenza el presidente Alberto Fernández hablando de los dos jugadores de fútbol.",
+      "score": 0.329,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si me permiten una digresión, nos han dado a la Argentina grandes jugadores de fútbol.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros vamos a trabajar para que Paraguay sea la nación que siempre debió ser y que nosotros postergamos y vamos a crecer de la mano.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La nación que siempre ha sido completamente integrada, más allá de cualquier diferencia ideológica.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos nacido para ser una patria grande y esa patria grande, hoy Mario, estamos ayudando a consolidarla.",
+      "score": 0.652,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hemos dicho que entonces somos la patria grande.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que el presidente dice cualquier cosa.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente piensa que estamos de joda.",
+      "score": 0.945,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente no entiende lo que nos está pasando a los argentinos.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández da vergüenza.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández no sabe que los chicos en la provincia de Buenos Aires no van al colegio porque no tienen gas.",
+      "score": 0.969,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La embajada argentina en Israel dejó de ser un aguantadero, dejó de tener como cúpula al corrupto Uri Barnea.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo condenaron a 8 años de prisión, pero el presidente no lo entregaba hasta que finalmente un día se decidió.",
+      "score": 0.429,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue desvinculado de la embajada de Israel mediante un decreto presidencial.",
+      "score": 0.741,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le cuesta al presidente usar la pifia también para estas cosas?",
+      "score": 0.832,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué tristeza, Alberto Fernández.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siguiendo con el presidente Alberto Fernández y todas las vergüenzas internacionales, tenemos otra.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La relación con el mundo, cumbre de las Américas, inquietud en Washington por las idas y vueltas de Alberto Fernández.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me imagino la inquietud, diría Campolongo, la inquietud que generamos los argentinos con Alberto Fernández en los Estados Unidos.",
+      "score": 0.259,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Biden se muere por conversar con un estadista como Alberto Fernández.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se trata de Juan José Castro, quien, además de ser presidente del PJ local y congresal del PJ nacional, es socio de Máximo Kirchner en la región.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el día que se votaba la rendición de cuenta del intendente Jaime Méndez, Castro estaba en las playas de Cuba con cinco amigos.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo eso que ves ahí, los dolapes de vacaciones en las playas de Cuba con la nuestra, la del rebaño de pelotudos.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Educación le pidió a una panadería que donara más de 6.000 kilos de pan por mes para sectores vulnerables de las escuelas locales.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pedirían a la ministra Elizabeth Gómez Alcorta que fortalezca las políticas de prevención de violencia de género en los barrios más populares y de zonas rurales.",
+      "score": 0.748,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, ministra, porque usted no cuida a las mujeres.",
+      "score": 0.931,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted no las cuida.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A usted solamente le interesa a Gómez Alcorta lo ideológico.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan el año pasado cuando el Congreso se puso de rojo como homenaje por el día de la higiene menstrual?",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Congreso se iluminó de rojo por el día de la higiene menstrual.",
+      "score": 0.821,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo impulsaron diputadas K con el objetivo de resaltar la importancia de una política de acompañamiento mensual.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo el Congreso de rojo.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el Congreso deberían festejar el día del delincuente, por ejemplo.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y nosotros, con la nuestra, le damos de comer a la gente.",
+      "score": 0.543,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí que el Congreso esté así, de rojo pintado, me chupa un huevo, nos chupa un huevo.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablando de vergüenzas del Congreso y de género, hoy tuvimos, por suerte, una buena noticia.",
+      "score": 0.848,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Macri ya lo sabe.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri le pidió a la cúpula del PRO acelerar la construcción de un plan económico para 2023.",
+      "score": 0.23,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que no importa quién sea el presidente en el 2023, pero ya empiecen a laburar, porque Argentina...",
+      "score": 0.914,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tengo la sensación de que a este gobierno le importamos tanto, tres carajos, a este rebaño de pelotudos, que no lo puedo creer.",
+      "score": 0.983,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado te roba la educación, el Estado te roba la salud, el Estado te roba el trabajo, el Estado te roba todo.",
+      "score": 0.579,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Hay que resolver los problemas de fondo porque si no, no hay política social que alcance”.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Igual es como otro piedrazo para Alberto Fernández.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámpora, qué buen alumno de Cristina Fernández de Kirchner.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro piedrazo para Alberto Fernández de La Cámpora, Iván.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo mandó Cristina, le pega otro piedrazo al presidente y se lo pega.",
+      "score": 0.962,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Anhelan poder volver a tener una vida digna donde el Estado garantice la educación.",
+      "score": 0.412,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no podemos dejar que esos chicos en tercer grado no sepan leer.",
+      "score": 0.697,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque a nadie le importan los chicos, a nadie le importa la educación de esos chicos.",
+      "score": 0.872,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie le importan los pibes.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El cortisol es una hormona cíclica, por las noches se baja y a lo largo de la noche sube hasta las 8 de la mañana, que tiene su pico más alto y luego vuelve a bajar.",
+      "score": 0.365,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cuando yo vivo en miedo constante, en un estado de incertidumbre o de alerta o de amenaza constante, yo me intoxico de esta hormona.",
+      "score": 0.722,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hasta cuándo tenemos que tolerar, como la mamá de Chano Marina, que el otro día, cuando llamó al 911, se le burló la mina que la atendió?",
+      "score": 0.966,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La madre de Chano participó de una jornada en el Senado que ayer demostramos para impulsar un cambio en la Ley de Salud Mental y Adicciones.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado no ayuda a los familiares de adictos.",
+      "score": 0.639,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo a los políticos, a la gente del gobierno que sientan por lo menos un poco de empatía con esta mujer que habla con el corazón y con el alma a todos ustedes.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a la mesa con este que para mí es, no sé, el tape, el video, la declaración del día Alberto Fernández, ¿no?",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice que Macri es un ladrón de guantes blancos y que la Organización Mundial de la Salud puso a la Argentina como ejemplo de la pandemia y que él, como Fito Páez, dice que viene a ofrecer su corazón.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 91
+  },
+  "etiqueta_original": "neutral"
+}

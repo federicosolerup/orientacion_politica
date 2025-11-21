@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La principal tarea, en consecuencia, es derrotar en las urnas a quienes enterraron a la Argentina en este barril sin fondo del atraso.",
+      "entidades_detectadas": [
+        "argentina",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Deben ganar en organización, en representatividad con la elección de autoridades, en despliegue territorial con conducciones provinciales y en propuestas concretas y detalladas de un gabinete en la sombra.",
+      "entidades_detectadas": [
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "En definitiva, prepararse para ganar, pero sobre todo para gobernar y terminar con la decadencia de un peronismo que solo busca impunidad para Cristina y eternizarse en el poder con un \"pobrismo\" chavista.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "No es suficiente calentar una banca en el Congreso ni ser valiente y creativo en Twitter.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "**Juntos por el Cambio** es el artefacto político masivo más novedoso, que hace tres elecciones supera el 40% de los votos y que tuvo el primer presidente no peronista en 90 años en entregar el poder en tiempo y forma, y que le produjo, además, la peor derrota electoral de la historia al peronismo unido.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

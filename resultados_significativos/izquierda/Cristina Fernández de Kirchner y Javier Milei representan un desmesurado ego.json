@@ -1,0 +1,246 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 31,
+      "derecha": 15
+    },
+    "score_promedio": 0.371,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Porque antes de ayer hablaron el presidente Javier Milei y la ex presidenta Cristina Fernández de Kirchner, ambos, las principales figuras de la política argentina.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso comenzamos esta columna editorial de hoy con la canción \"Me Amo\" de Los Cuatro (Cuarteto) Nos, que pareciera hecha especialmente para esta columna y en relación a las declaraciones de Cristina Kirchner, que fueron en el marco del juicio por su intento de magnicidio, algo que obviamente esperamos que se esclarezca y que, de haber pruebas que vinculen a autores y talentos, se investigue hasta las últimas consecuencias.",
+      "score": 0.229,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso de Javier Milei, rodeado del llamado círculo rojo de aplaudidores, hizo un recorrido de su gestión con un autoelogio sin ningún tapujo.",
+      "score": 0.84,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un caso, y para los argentinos, se vive en el caso de Milei; en el caso de Cristina Kirchner, su palabra es \"el pueblo\", \"la mayoría popular\", \"los que la siguen\", salvo que los medios hegemónicos (en el caso de Cristina) o los periodistas \"ensobrados\" (en el caso de Milei) los engañan con sus mentiras.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora sí a entrar en el racconto de los discursos de Milei y Cristina, donde van a encontrar puntos en común.",
+      "score": 0.47,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a empezar primero con Javier Milei en el Consejo de las Américas, diciendo: \"Todo el mundo ve el milagro menos los argentinos.",
+      "score": 0.579,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El programa de reformas más grande de la historia argentina se hizo en la década de los 90 durante el gobierno de Carlos Menem.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reforma que nosotros llevamos a cabo con el DNU y la ley base es ocho veces más grande que lo que hizo Menem en todo su gobierno y eso lo hicimos en seis meses con 15% de la Cámara de Diputados y 10% de la Cámara de Senadores\".",
+      "score": 0.061,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora bien, es interesante lo que dice Javier Milei sobre el \"milagro\" en el que, según él, estamos viviendo.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a pasar ahora al siguiente fragmento donde Javier Milei dice: \"Los economistas van a quedar en evidencia, sus errores.",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que reconocer que la gestión de Milei y Caputo ha logrado, sin ninguna duda, igual una baja drástica de la inflación, no de ese 54% que fue autoproducida.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si pudiéramos decir que la inflación promedio que fue teniendo Sergio Massa era del orden de entre el 6 y el 7%, o sea, la bajó a la mitad de la que había.",
+      "score": 0.241,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es cierto que la mayoría de los economistas, y el Rey (sic) más y lo marcaba, pronosticaban una inflación para este año que no llegaba al 3%, o al 4% en esos meses, sino estaba en el 6% estos meses.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, lo que no se puede negar y que se toma triunfalista no guarda relación con la realidad es que, al mismo tiempo, la pobreza aumentó al 51% de los argentinos y la indigencia casi al 16% de los argentinos, es decir, 25 millones y medio de personas son pobres y 7 millones y medio aumentaron los pobres desde que asumió Javier Milei la presidencia.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei también nos dedicó una parte de su discurso a los periodistas, o sea, primero los economistas, ahora los periodistas.",
+      "score": 0.158,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, además ayer Javier Milei habló, y en el congreso de inversiones inmobiliarias volvió a cargar contra otro sector completo, ahora contra el feminismo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las acusaciones contra Alberto Fernández, \"el 'yo te creo, hermana'\" es una forma de perseguir opositores acusándolos de delitos aberrantes que después nos enteramos son los delitos aberrantes que cometen ellos\".",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, Javier Milei decía: \"Fui reivindicado, vio, porque una periodista militante dijo que el 'yo te creo, hermana' era una cuestión retórica y de acción política\", es decir, terminó de confesar que era una forma de perseguir a opositores cargándole a los opositores delitos aberrantes que después nos enteramos que son los delitos aberrantes que cometen estos acá.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Marcaba la producción, para que no se confundan ellos que, además de escucharnos por radio, nos están viendo por televisión, de que si bien el discurso en el Council of America fue el día anterior a este discurso que acabamos de mostrar ayer en el sector de inversores inmobiliarios, el presidente está vestido exactamente igual, con la misma ropa, el mismo saco, el mismo pulóver, genera cierto grado de sorpresa.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos ahora a algunos fragmentos de la intervención de Cristina Kirchner reciente de ayer.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también, \"el negocio de pegarle a Cristina hasta con un ojo negro, miren que contexto actual, hasta con un ojo negro me sacaron y una curita, el negocio...",
+      "score": 0.733,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Crisis del despoder, el negocio de pegarle a Cristina y tiene actualidad también, ¿no?",
+      "score": 0.813,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El principal caricaturista, un gran caricaturista argentino de Clarín, caricaturizó con un ojo negro, un ojo negro, 2008, me acuerdo que tuve una crítica por eso, porque coincide.",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente hay bastante distancia entre hacer una tapa y luego poner imágenes de las personas para que la gente vaya y los escupa.",
+      "score": 0.282,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se trata de violencia simbólica y un doble estándar en el discurso del kirchnerismo, una suerte de que su violencia y su agresión está justificada por representar al pueblo, una suerte de verdad histórica, y tal vez ese rasgo de ese movimiento que lo viera entrando en contradicción con diferentes hechos de la realidad, desde el escándalo de los bolsos de López hasta las recientes renuncias contra Alberto Fernández.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a otro fragmento de Cristina Kirchner: \"Dios me libre de ser jueza\", una observación con respecto al tema.",
+      "score": 0.289,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, usted tiene una amplia trayectoria como legisladora, después como presidente, cuando el corto le falta este juez, pero claro, este tampoco es tan grave, doctora, perdónes, tiene razón, no puedo generalizar, tiene razón, disculpe, me disculpe, pero convengamos que los que me han tocado, Dios mío, son un poquito más divertidos\".",
+      "score": 0.393,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, es sintomático cómo tanto el presidente Milei como la ex presidente confrontan con las profesiones: con los economistas, periodistas, con los jueces.",
+      "score": 0.251,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina tiene varios jueces que se encargaron de juzgar a los genocidas, por ejemplo, en tiempos donde los militares guardaban mucho poder, es decir, estos jueces pusieron en riesgo su integridad física y la de sus familiares, lo mismo que muchos periodistas.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No solo el hecho del tono y la repetición, y probablemente la alta cantidad de veces que se le ha escuchado y que se ha escuchado ahora al presidente, produce rechazo, más allá de lo que digas esas similitudes de estilo podríamos así decirlo de la búsqueda de un enemigo permanente que tienen tanto el actual presidente Milei como la expresidenta Cristina Kirchner, fue advertido por quien fue una de las fundadoras de La Libertad Avanza, Carolina Piparo, la candidata a gobernadora de la provincia de Buenos Aires en este año pasado en la fórmula de La Libertad Avanza y una de los fundadores, como decíamos, del espacio de Javier Milei.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me molesta que el presidente se enoje tanto, digo, con el Congreso, con el periodismo, con actores internacionales, que no es conveniente estar peleando casi, a mi gusto, buscando enemigos, porque es una forma de gobierno que ya la vimos justamente con Cristina Kirchner.",
+      "score": 0.522,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si podríamos decir que hay una resistencia humana o cierta cantidad de mensajes del otro, cuando esos mensajes son abrumadores, se repiten todo el tiempo, probablemente pasado cierta cantidad, el exceso solo y escuchar el tono de voy a producir rechazo independientemente del mensaje que sea el mensajero y no el mensaje, como decía MacLuhan.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina fue una constante en la historia del siglo XX.",
+      "score": 0.207,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hacer un repaso, y no tiene punto de comparación ni Cristina Kirchner ni Javier Milei con Hitler, pero simplemente vamos a pasar Hitler, Mussolini y Alejandro Magno con un poco de humor.",
+      "score": 0.841,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su padre era muy exigente con Adolf, ya que quería que también se convirtiera en funcionario de aduanas, sin embargo, a él le interesaba el arte.",
+      "score": 0.574,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se convirtió en un ferviente nacionalista pangermano, esto era un movimiento político que defiende la unidad cultural y política de los pueblos de origen germánico para establecer una gran nación alemana dominadora de la Europa central.",
+      "score": 0.409,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Alemania perdió la Primera Guerra Mundial, Hitler empezó a educar a las tropas del ejército, dedicándose a predicar el nacionalismo alemán.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso del fascismo italiano, vista a un líder despiadado de una nación expulsado dos veces de su país y arrestado en diversas ocasiones por ser un agitador socialista.",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora le llaman \"el Duce\".",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francia y Gran Bretaña le declaran la guerra a Alemania.",
+      "score": 0.64,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mussolini, indeciso, no toma parte hasta que Alemania conquista Francia, entonces Italia entra a la guerra del lado de los nazis.",
+      "score": 0.762,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora vamos a viajar más aún en el tiempo, vamos a ir a la antigua Grecia, donde Alejandro Magno, cuando tenía una edad que podría ser considerado casi un adolescente, había conquistado gran parte de Europa y de Medio Oriente.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de conquistar gran parte del mundo occidental, varias ciudades y grandes reinos, Alejandro se acercó a Diógenes y le dijo: \"Dicen que tú eres el hombre más sabio de toda Atenas, pídeme lo que quieres y te lo concederé\".",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A lo que Diógenes le respondió cínicamente: \"Por favor, córrete que me tapas el sol\".",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por otro lado, y ese narcisismo probablemente no podría haberse hecho ninguna transformación en la historia del mundo, pero también son necesarios los Diógenes que cada tanto le hacen acordar a los políticos que no son todopoderosos y deben correrse para que haya un poco de sol para los demás.",
+      "score": 0.83,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos vamos a despedir en esta columna de hoy con \"Me Amo\" de Los Cuarteto (sic) Nos, por el narcisismo que tomamos de ejemplo de Cristina Kirchner y de Javier Milei.",
+      "score": 0.893,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 46
+  },
+  "etiqueta_original": "neutral"
+}

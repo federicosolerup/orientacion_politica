@@ -1,0 +1,52 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Desde que asumió el gobierno de Javier Milei, se produjo una mega devaluación.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "El lunes comenzarán las audiencias para pedir la ampliación de la condena contra Cristina Fernández de Kirchner, quien recibió una condena de seis años de prisión por la firma de un decreto público, sin que aparentemente exista delito alguno.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Las audiencias en la Cámara de Casación estarán dirigidas por tres jueces vinculados a Mauricio Macri: Mariana Borinsky (16 encuentros con Macri en Olivos durante la formación de las causas), Gustavo Hornos (reuniones con Macri en Olivos y la Casa Rosada durante la formación de las causas), y Pablo Barro Tavenia (designado por Macri).",
+      "entidades_detectadas": [
+        "macri",
+        "olivos",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Ayer, como anticipé hace unos días, el gobierno de Javier Milei comenzó a armar causas contra exfuncionarios, luego de haberse dado la orden en todas las áreas del Estado.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    },
+    {
+      "frase": "La CGT evalúa un paro más contundente.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Ayer por la noche, el vocero presidencial, Manuel Adorni, tuiteó desde su cuenta que la Inspección General de Justicia (IGJ), junto con la Secretaría de Transformación del Estado, finalizaron un informe sobre la situación de cada repartición del Estado tras la asunción de Javier Milei.",
+      "entidades_detectadas": [
+        "javier",
+        "estado"
+      ]
+    },
+    {
+      "frase": "En línea con esto, fuentes extraoficiales, incluyendo a los periodistas de “Nación Más”, también informaron sobre una auditoría completa y secreta sobre el estado del Estado, separando los datos irregulares de aquellos que serán presentados a la justicia, a través de la Oficina Anticorrupción, cuyo titular es Alejandro Melinc.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

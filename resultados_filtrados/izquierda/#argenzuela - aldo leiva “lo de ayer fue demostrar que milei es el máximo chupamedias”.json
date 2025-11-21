@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Aldo Leiva, diputado nacional, combatiente de Malvinas y amigo de la casa, seguramente ha estado más expuesto a las acciones del gobierno que nosotros.",
+      "entidades_detectadas": [
+        "malvinas",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ahora sí, Aldo, dale, me estabas contando…\n\nDecía que uno podría creer que ya hemos llegado al máximo de… de… de [nombre de partido político 1], al máximo de [nombre de partido político 2], al máximo de [nombre de partido político 3], al máximo de manipulación mediática por parte del Presidente de la Nación, pero no, no deja de sorprender.",
+      "entidades_detectadas": [
+        "máximo",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Exactamente, se disfraza y se va, sin duda, a someterse a los intereses de los vecinos en general, que no tienen otra misión que condicionar al gobierno de Javier Milei, quien, la verdad, parece sentirse feliz con estas cuestiones.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Y yo digo: los oficiales que estuvieron en Malvinas y no tenían sus manos ni uniformes manchados con sangre de la represión no necesitan reconciliación.",
+      "entidades_detectadas": [
+        "malvinas"
+      ]
+    },
+    {
+      "frase": "A partir de ahí, en 2025 y 2027, podremos ser una alternativa clara para poner las cosas en su lugar y tener una Argentina con posibilidades para todos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

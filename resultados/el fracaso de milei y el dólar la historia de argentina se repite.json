@@ -1,0 +1,58 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Me sorprende que se interpreten los acontecimientos de forma totalmente opuesta a la realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se afirmó que la inyección de dólares y el respaldo político del secretario del Tesoro de Estados Unidos, durante su visita a Argentina, era una señal de triunfo del gobierno.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Tesoro de Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Sin embargo, la magnitud de este respaldo económico-político revela lo cerca que estuvo de colapsar, de un fracaso no solo de su esquema económico, sino de su caída total.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este punto adquiere una dimensión geopolítica para el FMI y Estados Unidos, ya que Argentina es un país importante para ambos por su alineación política.",
+      "entidades_detectadas": [
+        "FMI",
+        "Argentina",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "El discurso gubernamental insiste en la aplicación de un programa que cumple, incluso supera, las exigencias del Fondo Monetario Internacional.",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional"
+      ]
+    },
+    {
+      "frase": "Si esto fracasa, el escenario es incierto, considerando las experiencias ampliamente rechazadas de los gobiernos de Cambiemos (anteriormente PRO) y el Frente de Todos.",
+      "entidades_detectadas": [
+        "Cambiemos",
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Esto podría abrir rápidamente el camino a nuevas propuestas políticas que contrarresten la radicalidad de la ley, o incluso propongan una radicalidad opuesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Argentina",
+    "Frente de Todos",
+    "Fondo Monetario Internacional",
+    "Cambiemos",
+    "FMI",
+    "Estados Unidos",
+    "Tesoro de Estados Unidos"
+  ]
+}

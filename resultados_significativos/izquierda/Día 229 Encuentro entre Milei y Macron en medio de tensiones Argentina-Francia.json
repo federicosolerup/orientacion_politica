@@ -1,0 +1,276 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 35,
+      "derecha": 17
+    },
+    "score_promedio": 0.349,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y está pasando en París, en Francia; está el presidente Javier Milei en Francia y nos vamos a meter en toda la actualidad de lo que pasa allá y también de lo que pase aquí.",
+      "score": 0.363,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que viene linda para el día de hoy, por lo menos parece que va a estar bastante lindo durante la tarde de hoy, llegando a los 20 grados como decía Elie.",
+      "score": 0.573,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Terminó hace minutitos nada más la reunión bilateral que tuvo el presidente Javier Milei con su par, Emmanuel Macron.",
+      "score": 0.603,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei llegó ayer a París, un día antes de esta reunión.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y con un comunicado hasta ahora de Francia bastante lavado, hablando de un encuentro destinado a estrechar lazos entre los dos gobiernos en materia energética, en materia de ciencia, en materia de cultura.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero todavía no se ha pronunciado el gobierno argentino respecto de lo que dejó este primer encuentro cara a cara entre Javier Milei y Emmanuel Macron.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después de ahí, de esa bronca que dio después de la final del Mundial, bueno, lo que pasó en las últimas semanas incrementó justamente esto que hace que cada vez que ahora se presenta una delegación argentina en alguno de los deportes de los Juegos Olímpicos, la reciban con silbidos, la reciban muy mal a todas las delegaciones argentinas en Francia.",
+      "score": 0.16,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi como el enemigo de Francia en los Juegos Olímpicos pasó a ser la Argentina y es llamativo.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para definirlo de una manera, lo vimos en el debut de la selección argentina el último martes, miércoles.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francia le ganó a Argentina en Rugby y ahí también se vio cómo recibieron a los argentinos con los abucheos.",
+      "score": 0.474,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo decía él y no todo comenzó con este video.",
+      "score": 0.441,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El video de Enzo Fernández que rápidamente salió a pedir disculpas.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero en medio de esto, de los cantos racistas de la selección, de esa argentinidad de la que habla la vicepresidenta Villarruel, sucedió otra situación que complicó todavía más la relación entre Argentina y Francia.",
+      "score": 0.933,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto, por supuesto, que tuvo su impacto en Francia porque uno de los que fueron a visitar fue Alfredo Astiz.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto hizo que un grupo de franceses, de agrupaciones francesas que tienen relación con familiares de víctimas, de desaparecidos en Argentina y Chile, se pronunciara y sacara un comunicado muy fuerte repudiando esta actitud de los legisladores argentinos.",
+      "score": 0.115,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también con una advertencia al presidente Macron que justamente iba a recibir, como lo hizo, a Javier Milei.",
+      "score": 0.663,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, claramente, y esto también de alguna manera razonable, si uno piensa que se trató de un episodio que involucra a seis diputados de La Libertad Avanza, es decir, la fuerza política del presidente Javier Milei, que concurrieron o asistieron a la cárcel de Ezeiza, donde está justamente detenido cumpliendo condena Astiz y otros represores, en un vehículo oficial de la Cámara de Diputados y a la vista de la República.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto me parece que claramente se suma como un dato y un elemento clave en la agenda, seguramente, de la reunión de Milei con Macron hoy, sobre todo porque en Francia hay un reclamo muy insistente, justamente muy fuerte, por los derechos humanos.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y bueno, los casos de las monjas y otros ciudadanos franceses desaparecidos durante la dictadura militar en la Argentina conforman un planteo mantenido a lo largo del tiempo, ratificado siempre desde el gobierno francés, más allá del reclamo, por supuesto, de los organismos de derechos humanos franceses.",
+      "score": 0.116,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta reunión bilateral de Milei y Macron llega en ese marco, por un lado lo que contaba Elinor, la visita de los legisladores a Astiz, por el otro lado lo que venía sucediendo, que desencadenó esto que vamos a ver, este video de la polémica de un jugador de la selección, que si hubiera quedado ahí, si hubiera podido encapsularse dentro de lo futbolístico y que el jugador pida disculpas como las pidió, no hubiera acelerado.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí está, incluso alguien se da cuenta y le dice, cortá el vivo, ¿no?",
+      "score": 0.774,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cortá el vivo, le dicen en ese momento.",
+      "score": 0.645,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Exactamente, porque era un vivo en la cuenta de Enzo Fernández en Instagram, y decía muy bien, vos salís recién, que esto, con un pedido de disculpas de parte del jugador, incluso de parte de la AFA, algún pronunciamiento, me parece que hubiera tenido mucho menos repercusión, pero en esto se subió rápidamente la política.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por un lado recordamos que era el secretario de Deportes, Garro, reclamando públicamente una disculpa de la AFA y de Messi, del capitán del seleccionado argentino, pero después todo lo que se generó a partir de la reacción de Villarruel, el rol importante de Karina Milei, quien hoy también estuvo en la reunión bilateral del presidente Macron.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero es verdad, lo que decías, y lo vamos a escuchar, le vamos a pedir a nuestro compañero, Álvaro López Caucero, que lea la disculpa que hizo el jugador y decíamos, si hubiera terminado ahí, no crecía más, ¿no?",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias, Mateo Sola, gracias Mateo, por que le ponías a vos justamente a esta disculpa de Enzo Fernández después del video que veíamos.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría haber terminado ahí, pero se convirtió en una cuestión de Estado.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escala Victoria Villarruel con el famoso tuit que lleva a Karina Milei a pedir disculpas.",
+      "score": 0.627,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digamos, en una llamativa gestión porque Karina Milei sabemos no es, o no tiene un rol en principio diplomático y además el esfuerzo del gobierno por mostrar esta gestión, por evidenciar esta gestión, sobre todo teniendo en cuenta que unos días después el presidente ya tenía agendado el encuentro con Macron y la participación también.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veamos qué le pasa hoy a Milei, ¿no?",
+      "score": 0.849,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Milei va a asistir hoy a la tarde formalmente al acto de inauguración de los Juegos Olímpicos.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A días del viaje del presidente Javier Milei a Francia.",
+      "score": 0.479,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, en un contexto extraño, porque Karina Milei va a la Embajada Francesa a reunirse con el representante diplomático.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría decirse.",
+      "score": 0.395,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como una cancillería disca que hace Karina Milei y la particular forma de relacionarse internacionalmente también del presidente.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le preguntó a Manuel Adorni, al vocero presidencial, sobre esto, qué había pasado con esta visita de Karina Milei a la Embajada y la relación justamente con Victoria Villarruel.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como se lo ha escuchado decir a algunos periodistas que visitan los domingos por la noche la quinta de Olivos diciendo que la relación está rota.",
+      "score": 0.844,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que, si fuera por Javier Milei, incluso la sacaría del gobierno a la vicepresidenta, cosa que obviamente no puede hacer porque fue elegida igual que Milei y no está a tiro de decreto presidencial.",
+      "score": 0.659,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, que cuando participaron juntos del desfile en la ciudad de Buenos Aires por el día de la independencia y el día después de que Victoria Villarruel adujo una fuerte gripe y no participó en Tucumán de lo que fue la firma del pacto de mayo en julio del presidente junto a los gobernadores.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una cosa interesante que decía Adorni en esa conferencia con un empeño marcado en mostrar que o en diferenciar lo que es la cuestión diplomática de lo que es la cuestión deportiva.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Disparó por un lado la salida de Julio Garro de la Secretaría de Deportes y además reactivó, realimentó la disputa personal ya entre el presidente y su vicepresidente.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el medio de todo esto le costó el puesto a un secretario de Estado, además de todo este lío, voló Garro en medio de toda esta discusión y el propio Javier Milei en entrevista con Alejandro Fantino habló sobre este tuit famoso de Villarruel y marcó claramente las diferencias.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "por una cuestión deportiva generar un quilombo institucional en términos diplomáticos.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No fue un tuit feliz, decía Javier Milei hablando de lo que pasaba con Villarruel.",
+      "score": 0.712,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Había estado Victoria Villarruel visitando Catamarca, digo, ahí tiene una diferencia también con Javier Milei, que no visita mucho las provincias argentinas, viaja más al exterior.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en ese almuerzo, obviamente, fue abordada por los periodistas y bueno, dijo que era excelente su vínculo con Javier Milei, un poco para intentar descomprimir en esa estrategia que por ahí había iniciado en Catamarca.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella otra vez vuelve a meter y dice, aunque nos insulten y silben nuestro himno, Argentina está destinada a la grandeza.",
+      "score": 0.884,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí muestra claramente el juego político de hacerse fuerte en lo que es este nacionalismo de Villarruel, casi un representante de lo que en algún momento era el partido militar en la Argentina, en contraposición de lo que plantea Javier Milei, que es un narcocapitalista, que lo que plantea es, por el contrario, un mundo regido por las corporaciones, no por los estados, por la nación-estado, sino por las corporaciones, casi con la desaparición del estado.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esa diferencia ideológica de fondo sale en algunos momentos, como por ejemplo en este momento donde cada uno está haciendo su juego.",
+      "score": 0.14,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Miamigué, lo ponemos casi con un signo de pregunta, veremos qué coletazo tiene esta reunión breve que tuvo Milei con Macron y cómo va a ser la estadía.",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta breve estadía del presidente en Francia, juegos olímpicos incluidos, ¿Habrá servido para la Argentina esta tarde cuando se haga la inauguración oficial a las 3 de la tarde?",
+      "score": 0.453,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos:**\n    *   Milei (en lugar de Millet): Se corrigió consistentemente el nombre del presidente argentino.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 52
+  },
+  "etiqueta_original": "neutral"
+}

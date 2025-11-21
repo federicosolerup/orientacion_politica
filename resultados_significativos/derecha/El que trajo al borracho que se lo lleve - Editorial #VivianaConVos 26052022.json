@@ -1,0 +1,321 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 20,
+      "derecha": 41
+    },
+    "score_promedio": 0.638,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Sabe lo que están haciendo esos energúmenos.",
+      "score": 0.963,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le saqué la frase a Sergio Berni, eh.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando era chica, hace muchos años, se decía \"está en curda\", \"está en pedo\".",
+      "score": 0.772,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que se entienda bien, no le quiero faltar el respeto a nadie, y mucho menos a la figura del presidente, mucho menos.",
+      "score": 0.641,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por favor, Cristina Fernández de Kirchner, le digo humildemente, \"el que trajo al borracho que se lo lleve\".",
+      "score": 0.952,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández obtuvo un crédito del Banco Santander por tres millones de pesos.",
+      "score": 0.77,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mensaje del presidente a la sociedad es cada vez más claro: los poderosos y los ricos pueden cagarse en absolutamente todo, pero vos no.",
+      "score": 0.505,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández no está honrando el voto del pueblo.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente no puede honrar el voto del pueblo porque el presidente no es una persona honorable.",
+      "score": 0.795,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que se llevó la moral a marzo.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández tiene menos palabra que un mudo.",
+      "score": 0.982,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández dijo que a los compañeros que dudan les va a demostrar que están en el camino correcto.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo vas a estar, Alberto Fernández, en el camino correcto si en esa foto está Ginés González García?",
+      "score": 0.815,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, el pueblo no se olvida de Ginés González García.",
+      "score": 0.911,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo al violador del DNU, tu amigo Ginés es un traidor a la patria.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni el presidente pudo en ese momento bancarlo.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando el gran sanitarista fue despedido, pero él fue premiado yéndose en un viaje a España a tomarse unos vinos con la novia?",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vuelve a sacarse fotos con el presidente Alberto Fernández, como si no se hubiera mandado ninguna cagada.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá en qué buen estado está el exministro de salud.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá esta locura de La Cámpora, porque están todos en pedo en la Argentina y nosotros los seguimos soportando.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le mando un beso a todos los docentes de San Juan.",
+      "score": 0.126,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque yo ya no sé cómo, les juro, les juro, hoy Jorge, que le mando un beso.",
+      "score": 0.228,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En vez de comprar percheros y bancos rojos, ¿por qué no le pagan más a los docentes?",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo conozco, usted me cae bien, pero no pueden los docentes ser reprimidos y maltratados por la policía porque lo único que están pidiendo los docentes en San Juan es que les aumenten el sueldo.",
+      "score": 0.514,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se dan cuenta que a la gente no le alcanza la plata para vivir, que no pueden mantener con un sueldo de docentes su casa.",
+      "score": 0.941,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en la Argentina donde todo está absolutamente al revés.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El perro no puede pasar porque le faltan papeles, le falta la vacuna que estaba en cero por ocho días y le falta la autorización de un veterinario húngaro para poder pasar, que está sano.",
+      "score": 0.973,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que no entendieron acá en el SENASA es que yo vine de Hungría un poco porque se empezó a declarar el estado de alarma, ahora, empezó de vuelta y yo decidí venirme porque yo tengo...",
+      "score": 0.597,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pues salí un poco a las corridas por el estado de alarma.",
+      "score": 0.311,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y le traje a su perro, que es el perro de mi hija, para que esté con ellos también y no me dejan pasarlo.",
+      "score": 0.804,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo le van a decir a una persona que tiene que sacrificar a su perro?",
+      "score": 0.701,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego fuiste al supermercado y compraste solo por 30.000.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad con el Estado no sirve, ¿no?",
+      "score": 0.42,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre este rebaño de pelotudos es socio del Estado solo para las pérdidas.",
+      "score": 0.947,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado es como un socio vago, vago, que te roba y no te da nada.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá esta foto, poneme por favor el frasco de café.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos tan, pero tan mal que el billete de mayor valor en la Argentina no te alcanza ni para comprar un frasco de café instantáneo de 170 gramos.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El caso de Argentina no puede ser más dramático.",
+      "score": 0.24,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soñaban con ir a la Argentina y disfrutar de estos recursos.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa Argentina tiene algo que ver con la Argentina que se debate en la supervivencia, para la supervivencia, en pos de la supervivencia.",
+      "score": 0.127,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El caso de la Argentina es un caso verdaderamente dramático.",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina sigue tirando manteca al techo.",
+      "score": 0.958,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vez más, Cristina usó para un vuelo personal un avión de la flota presidencial para ir a descansar al Calafate, cuyo tramo nos costó 72.000 dólares.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El que trajo al borracho o la Cristina que se los lleve\".",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es uno de los países que más crece en la región\".",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina está en un segundo año de crecimiento, como pocas veces ha visto en su historia, y que esperamos que se acumule un ciclo de tres años de crecimiento en ese sentido.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina está siendo uno de los países que más crece, sin duda, en la región.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo único que crece en la Argentina es la indigencia, la miseria, los planes.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández opinó sobre el consumo de vino.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ahí dijo Alberto Fernández \"hay que producir vino sin alcohol\".",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández opinó sobre el consumo de vino.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ahí dice Alberto Fernández \"hay que producir vino sin alcohol\".",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente argentino se refirió al tema en su reciente viaje a Mendoza.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pegan a la Lin con un...",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con un rodillazo en la cara y le vuelan los anteojos.",
+      "score": 0.959,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Encontré este video hoy, cuando era presidente de Racing, y me hizo pensar en la Argentina, señores.",
+      "score": 0.378,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina fue la referencia de la educación en la República Argentina.",
+      "score": 0.162,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Racing y Argentina también fueron ricos y pobres, hasta estuvieron quebrados.",
+      "score": 0.365,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo le voló eso?",
+      "score": 0.54,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le mando un beso a papá que me dice \"ojo con el escote\".",
+      "score": 0.494,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le mando un beso, Diego, que te amo.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 61
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,69 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Archivan los expedientes durante un año y medio, dos años, cinco años…  Se lavan las manos, están peleando con Cristina y… ¿y qué?",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Esto es como el Congreso de la Nación.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Pero tenemos a Milagro Sala de un lado, a Cristina del otro, a Alberto del otro, a Máximo del otro…  En la oposición, Patricia Bullrich, Mauricio Macri, todos peleándose, Gerardo Morales traicionando a… ¿quién?",
+      "entidades_detectadas": [
+        "alberto",
+        "cristina",
+        "máximo",
+        "morales"
+      ]
+    },
+    {
+      "frase": "Cristina para toda la vida.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Hoy decían que Cristina presidenta… ¡cómo se puede sospechar!",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Feynman le ganó dos juicios a Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Javier está comiendo.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "[se interrumpe la conversación]  Primero tuvimos a Macri, con su gradualismo lento como una tortuga, y luego a Alberto Fernández con Martín Guzmán.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Guzmán fue a negociar con el FMI y estacionó en la cochera de la Presidenta del FMI.",
+      "entidades_detectadas": [
+        "fmi"
+      ]
+    },
+    {
+      "frase": "Si Claudio hubiera estado, podría ser candidato a presidente y sería un milagro.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Me preocupa la cantidad de tiempo que perdemos en la televisión argentina hablando de cosas sin importancia.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En la radio, hablamos de la cantidad de horas que dedicamos a Alberto y Cristina.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Basta con hablar de Cristina y Alberto, de Cuba, de los salarios bajos.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    }
+  ]
+}

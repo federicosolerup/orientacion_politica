@@ -1,0 +1,51 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 6,
+      "derecha": 1
+    },
+    "score_promedio": 0.323,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Cuánto temor siente Cristina Fernández de Kirchner ante el descalabro económico como para autorizar un ajuste de corte neoliberal?",
+      "score": 0.202,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa es, como señalan muchos analistas, un pragmático.",
+      "score": 0.209,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo sabremos pronto, ya que veremos por primera vez a un Massa que deberá comunicar malas noticias.",
+      "score": 0.426,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner también estará observando quién se hará cargo del ajuste.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al principio, cuando lo designó Alberto Fernández, pensó: \"Lo pongo por varias razones, pero una de ellas es que debe hacer cosas que yo no quiero hacer, porque no deseo perjudicar mi imagen ni mi legado histórico.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debe hacerlo antes de que la crisis económica golpee a las puertas de Cristina Fernández de Kirchner y deba ser ella quien se haga cargo del gobierno.",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para eso lo puso Alberto Fernández, para eso sostiene a Massa.",
+      "score": 0.47,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 7
+  },
+  "etiqueta_original": "neutral"
+}

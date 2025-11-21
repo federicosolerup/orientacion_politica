@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En esta entrevista, se analiza la propuesta del gobernador Axel Kicillof respecto a Aerolíneas Argentinas.",
+      "entidades_detectadas": [
+        "axel",
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Pablo:  El gobernador Kicillof manifestó la disposición del gobierno provincial a buscar una solución alternativa a la privatización o disolución de Aerolíneas Argentinas propuesta por el gobierno nacional.",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Kicillof ya tuvo experiencia al frente de la aerolínea.",
+      "entidades_detectadas": [
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Entrevistador: Andrés Lerner me comenta que algunas provincias y municipios están subsidiando vuelos de Aerolíneas Argentinas para garantizar la conectividad.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Entrevistador:  Esta iniciativa del gobernador bonaerense, ¿podría generar interés en otras provincias, considerando el estado de sus finanzas?",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

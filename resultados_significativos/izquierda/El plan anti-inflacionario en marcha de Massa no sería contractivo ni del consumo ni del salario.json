@@ -1,0 +1,81 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 2
+    },
+    "score_promedio": 0.18,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hay una parte de la oposición que preferiría que explote todo, o finalmente, una parte de la oposición más sensata dirá: \"No, lo que este gobierno trata de hacer es dejarnos, como se decía en 2015, la bomba a nosotros para diciembre del año próximo.\" Entonces, unos piensan que lo que está haciendo este gobierno al no llevar adelante un plan antiinflacionario es correr el problema para dejarle lo que supuestamente sería la bomba al próximo gobierno, y una parte de la oposición dice que le explote la bomba al actual.",
+      "score": 0.145,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En realidad, lo más sano, lo más sensato sería que no hubiese ni bomba para el próximo gobierno, ni explotase la bomba ahora, sino que hubiese un plan antiinflacionario que resolviese el problema, independientemente de que ese plan antiinflacionario le genere ventajas electorales al actual gobierno.",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sería bueno que contase también con el apoyo y la aprobación de la oposición, porque, finalmente, si termina asumiendo en diciembre del año próximo, va a ser mejor para quien asuma que no haya habido primero ni una explosión, ni le dejen la bomba para que le explote a él.",
+      "score": 0.913,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a hacer un repaso de audios, primero del propio Massa, que ha desmentido cualquier congelamiento, que sería implícito en un plan antiinflacionario, y luego vamos a escuchar parte del debate que este domingo publicamos en el diario Perfil, que hicieron dos presidentes del Banco Central: el actual presidente, Miguel Ángel Pesce, y quien lo precedió, Guido Sandleris.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos este segundo audio de Massa: \"El éxito, en realidad, es una sensación casi efímera, porque todos los días aparecen nuevos retos.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y nuestra tarea para el 2023 es tratar de sostener niveles de inversión pública y mejorar el ingreso como desafío más importante.\" Ese éxito efímero al que se refiere Massa está refiriendo a todas las medidas que toma todos los días.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar primero con el predecesor del actual presidente, que es Miguel Ángel Pesce, o sea, con Guido Sandleris, el último presidente del Banco Central de Macri.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo, cuando analizo por qué terminaron sin poder consolidar la baja de inflación en algunos de los planes de estabilización de Argentina, creo que la dificultad en mantener la inflación rápidamente y tener la caja del tesoro, lo fiscal bajo control, generó la necesidad de financiamiento monetario del déficit, y esa es la puerta de entrada que vuelve, volvía en esos planes la inflación.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es cierto que, una vez que uno tiene un mercado de crédito doméstico, una vez que estableció la confianza, la credibilidad de la central, que tenés una moneda sana, es necesario tener sistemáticamente líneas, pero me cuesta ver una situación clave en contexto argentino en donde sin corregir lo fiscal se logre bajar la inflación.\" Bueno, a lo que se estaba refiriendo Sandleris de Aridas se refiere al reportaje de Persio Arida, el creador, el economista brasileño, creador del Plan Real en Brasil, el plan de estabilización en Brasil, que había sido publicado por Arida la semana anterior, donde Arida decía que no era necesario para un plan de estabilización antiinflacionario la eliminación, o sea, la eliminación del déficit fiscal, o sea, tener equilibrio fiscal, sino que casualmente se hacía porque había desequilibrio fiscal, y que el objetivo era llegar al equilibrio fiscal al cabo de uno o dos años con una vez que haya tenido éxito el plan.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar ahora la respuesta del actual presidente del Banco Central, de Miguel Ángel Pesce.",
+      "score": 0.141,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, lo único que hay que preservar es los efectos positivos que estamos teniendo y hay que buscar, y lo vamos a conseguir, moderar el proceso inflacionario.\" Bueno, allí tenemos al presidente del Banco Central con su mirada más gradualista en el coloquio de IDEA este viernes, en realidad el jueves, el viernes fue el cierre, de Menem, de Vasco de Menem, una de las personas más cercanas al ministro de Economía, Sergio Massa, habló de que hay un plan antiinflacionario en marcha, que, a diferencia de otros planes antiinflacionarios, no es contractivo ni del consumo ni del salario.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si, bueno, la discusión aquí de fondo es cuándo: ¿lo hace este gobierno, lo hace el próximo, se ponen de acuerdo la oposición y el oficialismo para hacerlo ahora, o le queda al próximo gobierno?",
+      "score": 0.665,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos Corregidos:**\n    *   Ringo Star -> Ringo Starr\n    *   Pesé -> Pesce (Miguel Ángel)\n    *   Sando Leris -> Sandleris (Guido)\n    *   Percibari -> Persio Arida\n    *   Sando Leris de Aridas -> Sandleris, Arida\n    *   Masa -> Massa (Sergio)\n    *   Meniguren -> Menem (Vasco de)\n*   **Ortografía:**\n    *   Se corrigieron errores de acentuación, puntuación (comas, puntos, puntos y comas, signos de interrogación), y ortografía general (por ejemplo, \"a cuento de\" en lugar de \"a cuento\").",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 13
+  },
+  "etiqueta_original": "neutral"
+}

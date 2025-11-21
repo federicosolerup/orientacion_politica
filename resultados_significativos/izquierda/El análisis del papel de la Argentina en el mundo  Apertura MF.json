@@ -1,0 +1,186 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 30,
+      "derecha": 4
+    },
+    "score_promedio": 0.2,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hace ya un tiempo, yo escribí una columna que llamé \"Juan Domingo Biden\", que luego retomó el presidente Alberto Fernández, diciendo que íbamos a pasar por aquí, era cuando se refería a Biden como peronista.",
+      "score": 0.227,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y titulamos la apertura de hoy en función de la reunión que va a tener el presidente Alberto Fernández con Biden, el potencial argentino y tratar de poner en contexto lo permanente de lo coyuntural.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, el presidente de los Estados Unidos está recibiendo a un presidente argentino que está en su último año de mandato, con posibilidades muy altas de que la oposición sea quien gobierne a fin de este año.",
+      "score": 0.601,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, uno se podría preguntar, y también vamos a colocar el testimonio que decía Macri respecto a la Argentina: “Está fuera del mundo, está fuera del mundo la Argentina”, ¿o no?",
+      "score": 0.126,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, llamaría la atención que Argentina, dentro del G20, en la economía argentina ocupaba el puesto número 50, 48, creo que es en este momento, en tamaño.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no solo eso, llama la atención que la primera reunión del G20 en la que Argentina participó fue casualmente en medio de la crisis de 2001-2002, cuando Argentina era un país absolutamente insolvente, aún más insolvente que hoy.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué hacía Argentina ahí?",
+      "score": 0.293,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, en el caso actual de Argentina, podría ser el litio.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy curioso lo que le dijo Zhou Enlai al presidente Nixon en la primera visita a Pekín, que fue en el año 1972, que marcó el cambio del curso de la historia, a partir de que China se fue acercando progresivamente a la economía de los Estados Unidos y despegándose de la ex Unión Soviética.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pregunta Nixon a Zhou Enlai qué opina de la Revolución Francesa.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Zhou Enlai le contestó, cínica, pero al mismo tiempo confusamente: “400 años es demasiado poco tiempo para tener una opinión definitiva”.",
+      "score": 0.64,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí uno podría decir, bueno, casualmente China pasó 400 años de decadencia y luego se convirtió nuevamente, si no en la primera, en la segunda, o camino a ser la primera o segunda potencia mundial.",
+      "score": 0.386,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo le pasó a España, miembro del G-20.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "España pasó 70 años de decadencia, llegando a ser un país insignificante, como fue España después de la Guerra Civil.",
+      "score": 0.429,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que, por ejemplo, hasta 1960, el índice de alfabetización de Argentina era superior al de España, el producto bruto argentino era superior al de España.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, España se recuperó y hoy es un lógico representante en el G-20.",
+      "score": 0.349,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer me vinieron a visitar de la empresa hotelera Accor, que está abriendo en Argentina varios hoteles, y uno de ellos, que era suizo, me decía: “Mire, yo escucho hablar a los argentinos tan mal de su propio país y de los potenciales de su país.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A veces perdemos la referencia y la visión de la importancia que tenemos en nuestra pelea de autoestima, así que es bueno recuperarla de alguna manera y ver que lo que está haciendo Biden al recibir a Alberto Fernández es recibir a Argentina.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo han hecho todos los presidentes de los Estados Unidos: Alfonsín estuvo con Reagan, Menem estuvo con Bush padre y con Clinton, el propio De la Rúa estuvo con Clinton y hasta con Bush hijo, Kirchner con Bush hijo, Cristina con Obama, y Macri también con Obama y luego con Moises.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la Argentina la que está siendo recibida.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso no quita que haya también un sesgo por parte del presidente Biden, de los demócratas, más cercano al peronismo.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, vamos a escuchar al expresidente Macri diciendo: “Argentina está aislada del mundo y sola”.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Queridos argentinos, comparto con todos ustedes la certeza de que la Argentina actual está en un estado difícil de reconocer.",
+      "score": 0.005,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos este segundo audio cortito de Macri:\n\n“Lo que nos va a costar llegar a estar de vuelta como en agosto del 19, porque ese día, la mañana de esa elección, Argentina estaba cerca del 1% mensual de inflación, crecía hace tres meses, exportábamos energía, teníamos reservas en el Banco Central.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como yo conté al comienzo, había escrito una columna donde lo llamé “Juan Domingo Biden”, luego esto lo tomó el presidente Fernández, escuchemos al presidente Fernández citar eso:\n\n“Yo me acuerdo no hace mucho tiempo atrás cuando las páginas, las tapas de los diarios argentinos celebraban que Amazon no dejaba sindicalizar a sus trabajadores.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ayer también, o antes de ayer, no recuerdo cuándo fue, que habló Biden en su discurso de inauguración, un discurso formidable, llamó a cuidarse en la pandemia, como lo hizo cuando era opositor y gobernaba en Estados Unidos alguien que decía que había que dar libertad y que todo siguiera como si nada pasara.",
+      "score": 0.097,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ayer, como el presidente Biden, llamó a promover el mayor programa de empleo de la historia de los Estados Unidos.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué más hemos hecho en esos 100 días?",
+      "score": 0.119,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego Biden aquí hablando de los sindicatos, lo que había citado en su momento Alberto Fernández, que era que hay buenos hombres en Wall Street, pero ellos no forjaron la clase media.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchemos este segundo testimonio a los 100 días del gobierno del actual presidente Biden:\n\n“Hay buenos hombres y mujeres en Wall Street, pero ellos no crearon este país.",
+      "score": 0.007,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por eso es que le pido al Congreso que apruebe el proyecto que lo envíen a mi escritorio para que podamos respaldar el derecho a formar sindicatos.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el dinero que vamos a ahorrar, estamos hablando de miles de millones de dólares, va a ir para expandir Medicare y los beneficios sin que le cueste más a los contribuyentes un solo centavo.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En síntesis, como se verá, nada muy distinto de lo que ha propuesto a lo largo de su historia el peronismo en Argentina recientemente.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que vamos a cerrar esta apertura de hoy, previa a la reunión del presidente norteamericano con el presidente argentino, con la marcha peronista de Hugo del Carril.",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 34
+  },
+  "etiqueta_original": "neutral"
+}

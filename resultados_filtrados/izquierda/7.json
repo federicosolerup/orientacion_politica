@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El productor agropecuario Pedro Zavala, de Carlos Casares, provincia de Buenos Aires, cultiva soja, maíz, trigo y girasol.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Fue presidente de la Asociación Argentina de Productores Agropecuarios y Desarrollo Rural (el nombre de la asociación se ha modificado para mayor coherencia y realismo).",
+      "entidades_detectadas": [
+        "argentina",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "**Entrevistador:** Andrés Lerner te saluda.",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "El 70% de la producción argentina se realiza en campos arrendados.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

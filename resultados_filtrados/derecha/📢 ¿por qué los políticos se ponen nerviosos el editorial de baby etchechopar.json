@@ -1,0 +1,97 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Para quienes se lo pregunté a Alberto Fernández varias veces: ¿Nunca se dio cuenta de esto?",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Es necesario que Cristina explique.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Pero la pregunta que digo es, si defiende a la gente alguien que decía que la pobreza en Argentina había desaparecido.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Pero bueno, estaba mi condición de presidente para tomar mis decisiones.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Pues sí, que a mí Alberto Fernández me da una especie de ternura.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Y otro peronista de la banda, él me dijo, \"Si Alberto le da diez palos, la mina se calla la boca\".",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Entonces, no veamos a Alberto Fernández como el enemigo del pueblo, porque la verdadera enemiga del pueblo, en la que puso a Alberto Fernández, y lo ungió con la palabra, \"Alberto, acá tenés tu pueblo\", bueno, todo este quilombo que estamos viviendo, todo, los choreos, la falta de guita, la Argentina de subida, es culpa de Cristina Kirchner y de Néstor Kirchner.",
+      "entidades_detectadas": [
+        "argentina",
+        "alberto",
+        "néstor",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Alberto es un boludo, pato de la boda, egocéntrico, que llegó al final y creyó que iba a tener el bronce.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Bueno, entonces, porque yo me distraigo, se la tiene una editorial, entonces digo, Alberto es el pato de la boda, es el más boludo de la película.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Cuando Boudou le hablaba en francés a Cristina al oído, dicho por Heller, porque a mí todo lo de la mesa chica me es simpático, y tienen un problema los políticos, que cuando vas a comer con ellos se toman dos champañas y empiezan a contar todo.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Yo estaba en Miami este año, y escuchaba que decían, \"No, lo van a voltear\", y es como que salen con las banderas a la calle cada vez que voltean un gobierno.",
+      "entidades_detectadas": [
+        "miami"
+      ]
+    },
+    {
+      "frase": "Y déjese de bufonear y andar de, \"No, esto se va, el dólar se va a la mierda, esto se cae\", como hace un canal de televisión, colegas, donde todo lo que hace el presidente está pésimo.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Cuando hay que criticar, critiquémoslo, démosle con todo y dejemos el cholulismo, y dejemos a los actores amigos, y dejemos al periodista, me rompe los huevos, el actor amigo del presidente cualquiera que fuera, me rompe la bola, El Copani, el bufón, el cholulo, el sobón.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "**Archivo Log:**\n\n*   **Nombres y Apellidos Corregidos:**\n    *   Vodou -> Amado Boudou\n    *   Ferrande -> Alberto Fernández\n    *   Dalvón -> D'Elía\n    *   Váy -> Báez\n    *   Leerla -> Heller\n    *   Morroy -> Moria\n    *   Yese -> Yésica\n    *   Colapinto -> Colapinto\n    *   Buenafin -> De la Rúa\n\n*   **Ortografía Corregida:**\n    *   máculas -> máculas (mantiene, aunque podría discutirse \"manchas\")\n    *   indado -> indignado\n    *   Váy -> Báez\n    *   mañeto -> a callar (interpretación del significado)\n    *   ripa -> reemplazado por expresión \"dar la vuelta\" (interpretación del significado)\n    *   dospochoclo -> dos por dos\n    *   Aiga -> forma correcta \"haga\", pero se deja como \"Aiga\" para reflejar el barbarismo intencionado del hablante.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    }
+  ]
+}

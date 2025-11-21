@@ -1,0 +1,91 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 9,
+      "derecha": 6
+    },
+    "score_promedio": 0.394,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "\"Cán\" decía dos cosas que llenan mi ánimo de admiración y respeto, siempre crecientes: \"el cielo estrellado sobre mí y la razón\".",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y desde anoche, distintos llamados de distintos colegas periodistas me hicieron ver el último reportaje de Sergio Massa, que yo no había visto, y me hicieron reflexionar sobre el hecho de que Macri y \"Mi Ley\" solamente le dan reportajes a los medios adictos.",
+      "score": 0.215,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él decía que algunos artículos de este pensador francés eran un estilete, o sea, jugaba con la palabra estilo-estilete.",
+      "score": 0.422,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recientemente, y frente al aumento creciente de la polarización de los medios de comunicación, en la Academia de Periodismo, que tengo el honor de integrar, se le solicitó a un grupo de académicos que hiciesen un decálogo, los 20 principales decálogos.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo es el rol del periodismo en la democracia del siglo XXI: \"informar, opinar y hacer rendir cuentas a todos los poderes.",
+      "score": 0.528,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las personas públicas están sometidas a un mayor escrutinio, pero sus vidas privadas sólo serán de interés cuando ellas afecten al bien común, al uso de los recursos del Estado o a la vida de otras personas de manera directa o indirecta, o cuando ellas mismas se expongan\".",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "me llamaron varios colegas, a partir de un tuit que salió, creo, de este programa, diciendo que le decíamos a Macri que, por favor, nos diera un reportaje, que venimos pidiéndole de manera sostenida desde hace tiempo, para hacer algo parecido a aquello de \"queremos preguntar\", que se equivocó con el kirchnerismo, de que una serie de periodistas con cierto grado de relevancia juntos le pidieran tanto al candidato a presidente Javier Milei como a Mauricio Macri que se prestaran a reportajes en medios que no son afines.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "sigue insistiendo en su supuesta homosexualidad, le dice al entrevistado, perdón por la risa.",
+      "score": 0.852,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Bueno, es típico negarlo, hay muchos prejuicios que enfrentar, pero ¿qué tal si vos mirás a esa cámara y te animás a decir 'sí, soy homosexual y me gusta que una mano masculina acaricie mi nalga'?\".",
+      "score": 0.224,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá me cuenta que era un sketch que él hacía, creo que el programa era \"Los Lunes\", entonces cada tanto tenía distintos personajes, y Claudio Tepongo, cada tanto, le hacía reportajes a la misma persona que vamos a seguir viendo.",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pedimos disculpas a la audiencia por las groserías, de cualquier forma.",
+      "score": 0.526,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no mirás a esa cámara y le decís a la gente y repetís conmigo: \"Soy un merquero perdido, que solamente voy a Disney para ser sodomizado por Mickey Mouse\"?",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decíamos que nos inspiramos en el título de esta apertura de hoy, \"El estilete de Claudio Tepongo\", este personaje que repetimos de Capusotto, de Tomás Abraham, hablaba que el estilo de su principal, su mentor, Michel Foucault, es que en algunos artículos decía que el pensador francés tenía un estilo que era un estilete.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decía que escribía confuso a propósito para esforzar a los lectores.",
+      "score": 0.769,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Marshall McLuhan, que es el gran teórico de la comunicación, de su *vulgata*: \"el medio es el mensaje\", decía que cualquier forma de un medio se incrusta en cualquier mensaje, cuando se produce esa relación simbiótica entre el canal del mensaje y su contenido.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 15
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,420 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Pasaron muchos acontecimientos hoy.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comenzaré con un hecho ocurrido en la Casa de Gobierno.",
+      "entidades_detectadas": [
+        "Casa de Gobierno",
+        "Comenzaré"
+      ]
+    },
+    {
+      "frase": "Hoy, mi colega, la periodista Cecilia Camarano, le preguntó al vocero presidencial, Manuel Adorno, algo fundamental: ¿quién está pagando el hotel donde reside Javier Milei, quien aún no se ha mudado a la Quinta de Olivos debido a las reformas que, según él, está realizando?",
+      "entidades_detectadas": [
+        "Cecilia Camarano",
+        "Quinta de Olivos",
+        "¿",
+        "Javier Milei",
+        "Manuel Adorno"
+      ]
+    },
+    {
+      "frase": "El hotel pertenece a Eduardo Elstein, uno de los principales beneficiarios de las medidas gubernamentales de Milei, tanto de los anuncios del ministro de Economía, Luis Caputo, como de varios artículos del decreto de necesidad y urgencia (DNU) publicado esta semana.",
+      "entidades_detectadas": [
+        "Milei",
+        "ministro de Economía",
+        "Luis Caputo",
+        "Eduardo Elstein"
+      ]
+    },
+    {
+      "frase": "Adorno no respondió la pregunta sobre quién cubre los gastos de la habitación de hotel que Milei ocupa desde hace más de un mes.",
+      "entidades_detectadas": [
+        "Milei",
+        "Adorno"
+      ]
+    },
+    {
+      "frase": "Otro aspecto que hemos podido comprobar al revisar el DNU de esta semana es su falta de número de expediente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué significa esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El número de expediente indica el trámite de un documento público dentro del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "La ausencia de número de expediente significa que el Estado no intervino en su elaboración.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Es gravísimo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Saben qué otro documento careció de expediente?",
+      "entidades_detectadas": [
+        "Saben"
+      ]
+    },
+    {
+      "frase": "El acuerdo de préstamo con el FMI.",
+      "entidades_detectadas": [
+        "FMI"
+      ]
+    },
+    {
+      "frase": "Se comprobó que no hubo expediente para la solicitud de los 45 mil millones de dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De igual manera, este DNU se elaboró sin expediente, lo que indica que se realizó al margen del Estado.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esto es muy grave, ya que si bien un proyecto de ley puede elaborarse fuera del Estado, un DNU es un acto administrativo estatal que debe ser tramitado por funcionarios públicos.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Federico Sturzenegger, quien compiló (no escribió) los 366 artículos de este DNU, reunió los textos enviados por varias personas en estas ochenta y tantas páginas.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger"
+      ]
+    },
+    {
+      "frase": "Debido a esta falta de proceso, no solo se omitió el número de expediente, sino también la fecha de entrada en vigencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Repito: esto se debe a que el Estado no intervino en su elaboración.",
+      "entidades_detectadas": [
+        "Estado",
+        "Repito"
+      ]
+    },
+    {
+      "frase": "La pregunta clave es: ¿quién pagó todo esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nada se hace gratis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como reza el dicho, los derechos tienen un costo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Detrás de cada artículo de este DNU hay un negocio, y alguien invirtió en ello: alguien escribió el texto, lo envió, insistió en su publicación y espera obtener beneficios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién financió el DNU?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Algunos indicios son los festejos de Marco Alperín y Daniel Funes de Rioja.",
+      "entidades_detectadas": [
+        "Daniel Funes de Rioja",
+        "Marco Alperín"
+      ]
+    },
+    {
+      "frase": "A este último le realizaron una entrevista (la escucharemos más tarde).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Funes de Rioja, abogado laboralista empresarial (es decir, que representa los intereses de los empleadores), es presidente de la Unión Industrial Argentina (UIA) y de la Coordinadora de las Industrias de Productos Alimenticios (COPAL).",
+      "entidades_detectadas": [
+        "UIA",
+        "Funes de Rioja",
+        "Unión Industrial Argentina",
+        "COPAL"
+      ]
+    },
+    {
+      "frase": "Curiosamente, su industria es la del asesoramiento legal, no la producción industrial de alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Su estudio jurídico, Funes de Rioja & Brucho (recientemente fusionado con el estudio Brucho), cuenta con más de cien abogados.",
+      "entidades_detectadas": [
+        "Funes de Rioja & Brucho"
+      ]
+    },
+    {
+      "frase": "En la entrevista, se le preguntó sobre su participación en la redacción del DNU, el cual contiene las demandas empresariales que Funes de Rioja ha planteado durante años.",
+      "entidades_detectadas": [
+        "Funes de Rioja"
+      ]
+    },
+    {
+      "frase": "No supo qué responder.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otros que apoyaron el DNU son miembros de la Asociación Empresaria Argentina (AEA): Paolo Rocca, Carlos Miguens, Héctor Magnetto (Grupo Clarín), Sebastián Vagó (Laboratorios Vagó), Alfredo Coto, Martín Aráoz, Martín Migoya (Globant), Cristiano Ratazzi, Federico Braun (La Anónima), Luis y Hugo Pérez Companc, Eduardo Elstein (IRSA), Marcelo Alhué, Galperín, Pan American Energy (familia Bulgheroni), Adecoagro, Ledesma (familia Blaquier), Aceitera General Deheza, Pierpaolo Barbieri (Ualá), Grupo Enel (Edesur), OSDE, Accenture, Cencosud, Laboratorios Roemers, Grupo Roemmers, etc.",
+      "entidades_detectadas": [
+        "Clarín",
+        "Cristiano Ratazzi",
+        "Luis",
+        "Sebastián Vagó",
+        "Martín Migoya",
+        "La Anónima",
+        "Laboratorios Vagó",
+        "Eduardo Elstein",
+        "Galperín",
+        "Grupo Roemmers",
+        "Pierpaolo Barbieri",
+        "Accenture",
+        "Cencosud",
+        "Federico Braun",
+        "Héctor Magnetto",
+        "Laboratorios Roemers",
+        "Paolo Rocca",
+        "Martín Aráoz",
+        "Argentina",
+        "Bulgheroni",
+        "Marcelo Alhué",
+        "Hugo Pérez Companc",
+        "Ledesma",
+        "Alfredo Coto",
+        "Asociación Empresaria",
+        "Carlos Miguens",
+        "Grupo Enel",
+        "Globant",
+        "Blaquier",
+        "Edesur",
+        "Adecoagro"
+      ]
+    },
+    {
+      "frase": "Mi compañero Mariano Velaztigui me informó que la Cámara de Comercio Argentino-Estadounidense también celebró la aprobación del DNU.",
+      "entidades_detectadas": [
+        "Mariano Velaztigui",
+        "Cámara de Comercio Argentino-Estadounidense"
+      ]
+    },
+    {
+      "frase": "¿Quién pagó el DNU?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "A mi parecer, quienes festejaron ofrecen una pista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En cuanto a quién pagó otros gastos, hoy supimos que se sobreseyó a los jueces, fiscales y funcionarios porteños que viajaron en un vuelo privado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En este caso, sí sabemos quién pagó: el Grupo Clarín, también beneficiado por el DNU de Milei.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El sobreseimiento no se debió a la inexistencia del viaje, sino a que se alegó que fueron víctimas de espionaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Según supuestos chats (cuya autenticidad se desconoce, ya que muestran indicios de edición), la estrategia para evitar responsabilidades era alegar espionaje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos chats datan de diciembre de 2022.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un año después, eso es precisamente lo que ocurrió.",
+      "entidades_detectadas": [
+        "ocurrió"
+      ]
+    },
+    {
+      "frase": "En este caso, el Grupo Clarín pagó a los jueces que orquestaron la persecución judicial contra Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Finalmente, otro caso con novedades: Swiss Medical.",
+      "entidades_detectadas": [
+        "Swiss Medical"
+      ]
+    },
+    {
+      "frase": "La empresa envió un correo electrónico a sus afiliados anunciando un aumento del 40% en las cuotas, basándose en el DNU (que entrará en vigencia el 29 de diciembre).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Swiss Medical también colocó a Miguel Blanco como titular de la Sigen, organismo público que controla las cuentas del Estado.",
+      "entidades_detectadas": [
+        "Miguel Blanco",
+        "Swiss Medical",
+        "Estado",
+        "Sigen"
+      ]
+    },
+    {
+      "frase": "Claudio Belocopitt, dueño de Swiss Medical, ha implementado este aumento del 40% (que también aplicarán otras prepagas) y colocó a un funcionario público de alto rango en un puesto clave.",
+      "entidades_detectadas": [
+        "Swiss Medical",
+        "Claudio Belocopitt"
+      ]
+    },
+    {
+      "frase": "Los precios estaban retrasados, y el aumento del 50% no es exclusivamente culpa del decreto, ya que la fórmula vigente también llevaría a ese aumento, aunque con un retraso de 60 días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se iban a aumentar las cuotas con o sin el DNU?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Absolutamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿En un 50%?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entre un 40% y un 50%, siguiendo luego el ritmo de la inflación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las prepagas reflejan todos los precios de la economía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Belocopitt fugó 21 millones de dólares durante el gobierno de Macri (una de las diez mayores fugas individuales).",
+      "entidades_detectadas": [
+        "Macri",
+        "Belocopitt"
+      ]
+    },
+    {
+      "frase": "Durante la pandemia, sus empresas recibieron más de 2800 millones de pesos del Estado para pagar sueldos.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, Belocopitt adquirió parte del Grupo América, donde Javier Milei realizó sus primeras apariciones televisivas.",
+      "entidades_detectadas": [
+        "Belocopitt",
+        "Javier Milei",
+        "Grupo América"
+      ]
+    },
+    {
+      "frase": "Los otros propietarios son el Grupo Eurnekian y José Luis Manzano, ambos beneficiarios de las políticas de Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Grupo Eurnekian",
+        "José Luis Manzano"
+      ]
+    },
+    {
+      "frase": "¿Quién pagó todo esto?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "Quienes se beneficiarán de las decisiones de Milei como presidente.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Clarín",
+    "Cecilia Camarano",
+    "Absolutamente",
+    "Mariano Velaztigui",
+    "Casa de Gobierno",
+    "Cristiano Ratazzi",
+    "Luis",
+    "Curiosamente",
+    "Comenzaré",
+    "Javier Milei",
+    "Sebastián Vagó",
+    "Martín Migoya",
+    "Marco Alperín",
+    "Funes de Rioja",
+    "Federico Sturzenegger",
+    "Eduardo Elstein",
+    "Laboratorios Vagó",
+    "La Anónima",
+    "Galperín",
+    "Miguel Blanco",
+    "Grupo Roemmers",
+    "Daniel Funes de Rioja",
+    "Pierpaolo Barbieri",
+    "Cristina Fernández de Kirchner",
+    "Estado",
+    "Accenture",
+    "Cencosud",
+    "Federico Braun",
+    "Belocopitt",
+    "Héctor Magnetto",
+    "Laboratorios Roemers",
+    "UIA",
+    "Claudio Belocopitt",
+    "Grupo Eurnekian",
+    "Paolo Rocca",
+    "Martín Aráoz",
+    "Argentina",
+    "Bulgheroni",
+    "José Luis Manzano",
+    "Quinta de Olivos",
+    "Funes de Rioja & Brucho",
+    "Grupo América",
+    "¿Quién",
+    "Marcelo Alhué",
+    "Unión Industrial Argentina",
+    "Hugo Pérez Companc",
+    "Sigen",
+    "Luis Caputo",
+    "FMI",
+    "ministro de Economía",
+    "Adecoagro",
+    "Ledesma",
+    "Cámara de Comercio Argentino-Estadounidense",
+    "Asociación Empresaria",
+    "Alfredo Coto",
+    "ocurrió",
+    "Carlos Miguens",
+    "Grupo Enel",
+    "Swiss Medical",
+    "¿",
+    "Globant",
+    "Repito",
+    "Blaquier",
+    "Milei",
+    "Adorno",
+    "Manuel Adorno",
+    "Macri",
+    "Edesur",
+    "COPAL"
+  ]
+}

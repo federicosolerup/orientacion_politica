@@ -1,0 +1,76 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Aquí está el texto corregido:\n\nQuiero, para finalizar, reiterar algo que mencioné al principio, refiriéndome a lo sucedido en el Congreso el martes y el miércoles.",
+      "entidades_detectadas": [
+        "Aquí",
+        "Quiero",
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Se presentó un proyecto, y hubo un acuerdo unánime para modificar la ley del 2x1, un tema que requería ser enmendado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se votó por unanimidad tras la generación de acuerdos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Existían ocho proyectos distintos, no solo uno.",
+      "entidades_detectadas": [
+        "Existían"
+      ]
+    },
+    {
+      "frase": "Estos se discutieron, se modificaron y, aprovechando la diversidad, se votaron en dos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Retomando lo que mencionaba el señor/señora Cachoca (o Cachocas), ¿se imagina si esa misma energía se aplicara a otros asuntos?",
+      "entidades_detectadas": [
+        "Cachocas",
+        "¿",
+        "Cachoca"
+      ]
+    },
+    {
+      "frase": "No 80.000, sino 10 temas que Argentina necesita: educación, salud y seguridad social.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¿Se imagina lo que sería nuestro país si la dirigencia política actuara como lo hizo el martes y el miércoles?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sería el país del mañana, el que todos soñamos, queremos y necesitamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hasta la próxima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "Cachocas",
+    "Argentina",
+    "Cachoca",
+    "Aquí",
+    "¿",
+    "Quiero",
+    "Existían",
+    "Sería"
+  ]
+}

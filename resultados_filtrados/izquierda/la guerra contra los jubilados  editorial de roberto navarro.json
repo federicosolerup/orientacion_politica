@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El presidente presentará el domingo un presupuesto basado en el pago de la deuda, dejando para después la atención a otras necesidades.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "En el caso del gas envasado, el precio se ha duplicado o incluso triplicado, debido a la eliminación del precio máximo establecido.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Todo esto refleja un preocupante abandono del Estado que perjudica a toda la población, pero de manera especialmente dramática a los jubilados.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

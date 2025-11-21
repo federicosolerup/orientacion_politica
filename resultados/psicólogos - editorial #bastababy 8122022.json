@@ -1,0 +1,50 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El discurso, dirigido al pueblo de Buenos Aires, critica duramente a Cristina Fernández de Kirchner y Alberto Fernández.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Se cuestiona la falta de apoyo al pueblo, la corrupción y la manipulación política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El orador expresa su indignación ante la situación del país,  menciona casos específicos de corrupción y la falta de respuesta del gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se manifiesta un profundo hartazgo por la situación política y un deseo de cambio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se critica la inacción de los sindicatos y el peronismo ante la crisis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El orador niega la posibilidad de un golpe de Estado, afirmando que el rechazo al gobierno es orgánico y que el cambio vendrá a través del voto en las próximas elecciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se menciona la participación de Luis Brandoni en la defensa de Cristina Fernández de Kirchner,  y se critica a varios funcionarios del gobierno.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Luis Brandoni"
+      ]
+    },
+    {
+      "frase": "Finalmente, el orador enfatiza su deseo de un cambio político,  alejado de la corrupción y con un enfoque en el progreso económico del país.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Buenos Aires",
+    "Luis Brandoni",
+    "Cristina Fernández de Kirchner",
+    "Alberto Fernández"
+  ]
+}

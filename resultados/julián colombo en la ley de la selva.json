@@ -1,0 +1,489 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Criptomonedas importantes de la Argentina, gracias por venir, Julián.",
+      "entidades_detectadas": [
+        "Julián",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Buenas noches, Alejandro, muchas gracias.",
+      "entidades_detectadas": [
+        "Alejandro"
+      ]
+    },
+    {
+      "frase": "¿Cómo es el proceso para dar de alta una meme coin en su plataforma de venta?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Básicamente, tenemos un comité de *listing*, al que llamamos \"comité de cotización\", que es un consorcio de varias personas que trabajan en cumplimiento y prevención de fraudes, seguridad, y que conocen de criptomonedas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A este comité llegan proyectos de diferentes tokens que se lanzan al mercado y deben cumplir ciertos requisitos: contar con fondos suficientes, demostrar que el proyecto es serio, presentar un documento técnico (whitepaper) que describa el proyecto, quiénes son sus propietarios (si los tiene), dónde se creó, y cómo se custodia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si cumple con todos estos requisitos, se evalúa la viabilidad del negocio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si todo está en orden, se procede al *listing*.",
+      "entidades_detectadas": [
+        "listing"
+      ]
+    },
+    {
+      "frase": "¿Libra no cumplía estos requisitos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por eso ustedes no la vendieron?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se puede dar de alta en su plataforma, o en alguna otra, de manera automática?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se puede listar automáticamente la venta?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, existen métodos que permiten, básicamente, subir y conectar su billetera a mecanismos como Jupyter y Meteora, y así ofrecer a sus usuarios todos los tokens que estén listados allí.",
+      "entidades_detectadas": [
+        "Meteora",
+        "Jupyter"
+      ]
+    },
+    {
+      "frase": "Existen diferentes modelos de negocio: algunas billeteras utilizan uno, otras utilizan otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros preferimos aplicar un filtro más estricto, ya que estamos manejando los fondos de las personas y nos gusta brindar un nivel adicional de seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A veces, esto sacrifica velocidad en la incorporación de nuevos proyectos, pero nos permite tener mayor certeza de que los tokens que listamos son serios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La semana pasada, Darío Epstein, exasesor de Javier Milei, declaró que el proceso era muy complicado, solo para expertos, como \"neohackers\" o programadores.",
+      "entidades_detectadas": [
+        "Darío Epstein",
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "¿Es así?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para comprar criptomonedas en una billetera descentralizada, como la utilizada en el caso de Libra, se requiere al menos un conocimiento básico.",
+      "entidades_detectadas": [
+        "Libra"
+      ]
+    },
+    {
+      "frase": "En billeteras como Bitso o otras más sencillas, el proceso es más simple: se proporciona un CBU en pesos, se transfiere el dinero y se pueden comprar las criptomonedas listadas.",
+      "entidades_detectadas": [
+        "Bitso"
+      ]
+    },
+    {
+      "frase": "Al ser más sencillo en billeteras reguladas, intentamos aplicar este proceso de selección adicional, un control de calidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Exactamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Suponiendo que se cumplieran las normas y requisitos de cumplimiento (compliance), ¿ustedes habrían vendido Libra?",
+      "entidades_detectadas": [
+        "¿",
+        "Libra"
+      ]
+    },
+    {
+      "frase": "Mira, todo depende de la viabilidad del negocio y de los objetivos de cada proyecto.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Intentamos ser lo más neutrales posible en el mercado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Creemos que las personas tienen capacidad de decisión, siempre y cuando existan garantías de seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Existe una línea muy fina entre la necesidad de que las personas se informen sobre lo que compran y la necesidad de brindarles un extra de seguridad, ofreciendo una lista más cuidada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entonces, en un escenario contrafáctico, supongamos que el incidente de Libra no hubiera ocurrido, que hubiera sido un proyecto serio con un documento técnico que describiera los proyectos productivos que se financiarían con la moneda, las necesidades de financiación, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Habríamos tenido una historia diferente, y podríamos haberla considerado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Entienden que están controlados por la CNV y les parece bien?",
+      "entidades_detectadas": [
+        "¿Entienden",
+        "CNV"
+      ]
+    },
+    {
+      "frase": "Correcto.",
+      "entidades_detectadas": [
+        "Correcto"
+      ]
+    },
+    {
+      "frase": "La regulación actual de la CNV es un tema muy interesante.",
+      "entidades_detectadas": [
+        "CNV"
+      ]
+    },
+    {
+      "frase": "Se compone de dos partes: la primera, ya implementada, es el registro de empresas que pueden prestar servicios a usuarios argentinos bajo la regulación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ustedes están registrados?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ripio también?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, creo que son alrededor de 140 empresas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La CNV está trabajando en una regulación más estricta, que debería estar lista antes de mediados de año.",
+      "entidades_detectadas": [
+        "CNV"
+      ]
+    },
+    {
+      "frase": "Además de los requisitos iniciales para estar en el registro, se exigirán requisitos adicionales, como una dirección local en el país, un responsable de cumplimiento (Compliance Officer), y procedimientos claros para el *listing* de tokens.",
+      "entidades_detectadas": [
+        "Compliance Officer"
+      ]
+    },
+    {
+      "frase": "Esta regulación nos ha afectado en pleno proceso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con la regulación finalizada, debería ser más difícil que se repitan situaciones como la de Libra en plataformas reguladas.",
+      "entidades_detectadas": [
+        "Libra"
+      ]
+    },
+    {
+      "frase": "Todo dependerá del texto final de la regulación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me imagino que la gente que busca certidumbre para sus inversiones en criptomonedas está horrorizada con la asociación a estafas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, totalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lamentablemente, cada vez que se habla de criptomonedas en los medios masivos, es por una noticia negativa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El caso de San Pedro del año pasado y el de Libra son ejemplos de esto.",
+      "entidades_detectadas": [
+        "San Pedro",
+        "Libra"
+      ]
+    },
+    {
+      "frase": "Es importante destacar las ventajas del mundo cripto, como la posibilidad de un sistema de pagos internacional independiente de los bancos centrales (Bitcoin, por ejemplo), la compra de dólares tokenizados para transferencias internacionales rápidas, y la cancelación de obligaciones con proveedores.",
+      "entidades_detectadas": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "frase": "Hay muchos casos de uso positivos que, lamentablemente, suelen quedar eclipsados por las noticias negativas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ojalá la próxima vez que nos inviten sea por algo positivo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La próxima vez que te inviten, dices…\n\nMira, creo que no, fue muy corto.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Fueron pocas horas; si había algún proyecto en proceso de *listing*, no lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando la mayoría se enteró que era Libra, ya valía casi nada, había perdido todo su valor.",
+      "entidades_detectadas": [
+        "Libra"
+      ]
+    },
+    {
+      "frase": "¿Tuvo noticias de algún ataque a una billetera argentina o latinoamericana en las últimas horas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo escuché por primera vez cuando usted lo mencionó, así que no lo sé.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Quién renunció?",
+      "entidades_detectadas": [
+        "¿Quién"
+      ]
+    },
+    {
+      "frase": "¿El CEO de Jupyter?",
+      "entidades_detectadas": [
+        "Jupyter"
+      ]
+    },
+    {
+      "frase": "El CEO de Meteora.",
+      "entidades_detectadas": [
+        "Meteora"
+      ]
+    },
+    {
+      "frase": "¿Qué son Meteora y Jupyter?",
+      "entidades_detectadas": [
+        "Meteora",
+        "Jupyter",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Son mercados descentralizados, plataformas que permiten el intercambio de memes o cualquier criptomoneda sin estar reguladas, de manera global.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Funcionan en todo el mundo y proporcionan liquidez entre diferentes monedas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algunos exchanges utilizan estos mercados para su liquidez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estos mercados perdieron 20.000 millones de dólares en volumen la semana pasada debido a la retirada de liquidez.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta liquidez perdida se retira del mercado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aún no vemos un reemplazo para estas plataformas, pero el sistema cripto es bastante resiliente.",
+      "entidades_detectadas": [
+        "Aún"
+      ]
+    },
+    {
+      "frase": "¿Sabe por qué le pregunto insistentemente sobre esto, Julián?",
+      "entidades_detectadas": [
+        "¿Sabe",
+        "Julián"
+      ]
+    },
+    {
+      "frase": "Porque una fuente que me informa sobre el sector cripto desde el principio me contó que Ripio sufrió un ataque masivo y millonario el viernes pasado.",
+      "entidades_detectadas": [
+        "Ripio"
+      ]
+    },
+    {
+      "frase": "Intenté contactar a Ripio, su competidora, pero solo obtuve como respuesta que su dueño,  Serrano, está en Hong Kong, donde se realizó una gran conferencia cripto la semana pasada.",
+      "entidades_detectadas": [
+        "Hong Kong",
+        "Ripio",
+        "Serrano",
+        "Intenté"
+      ]
+    },
+    {
+      "frase": "Puede ser una coincidencia, pero también podría estar buscando fondos para cubrir las pérdidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero manejar esta información con cautela para evitar una corrida bancaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La conferencia más grande del año sobre criptomonedas se realiza esta semana en Hong Kong.",
+      "entidades_detectadas": [
+        "Hong Kong"
+      ]
+    },
+    {
+      "frase": "Ojalá pueda contactarlos para obtener información.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué noticias hay allá?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se habla de mi ley?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, se habla mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay varios frentes abiertos: las investigaciones de la Presidencia, la justicia argentina, y casos en Estados Unidos.",
+      "entidades_detectadas": [
+        "Presidencia",
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Estamos intentando visibilizar la industria regulada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me sorprendió ver a gurúes de criptomonedas de empresas poco conocidas, personas que nunca habíamos escuchado nombrar en la industria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos estamos en la Cámara Fintech, y de repente aparecen personas que se autoproclaman representantes del mundo cripto.",
+      "entidades_detectadas": [
+        "Cámara Fintech"
+      ]
+    },
+    {
+      "frase": "Por eso queremos visibilizar la parte regulada de la industria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Cámara Fintech y la Cámara de Blockchain solicitaron entrevistas a Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Cámara de Blockchain",
+        "Cámara Fintech"
+      ]
+    },
+    {
+      "frase": "Él eligió reunirse con Hayden Davis y su grupo.",
+      "entidades_detectadas": [
+        "Hayden Davis"
+      ]
+    },
+    {
+      "frase": "Sí, trabajamos con todos los reguladores, antes con el Banco Central y ahora con la CNV.",
+      "entidades_detectadas": [
+        "Banco Central",
+        "CNV"
+      ]
+    },
+    {
+      "frase": "Con Milei no hemos tenido esa oportunidad, pero esperamos que ocurra pronto.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "¿Está dispuesto a pagar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, para nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Gracias por venir, Julián.",
+      "entidades_detectadas": [
+        "Julián"
+      ]
+    },
+    {
+      "frase": "Muchas gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "¿Está",
+    "Banco Central",
+    "¿Qué",
+    "Darío Epstein",
+    "Javier Milei",
+    "Correcto",
+    "listing",
+    "¿Tuvo",
+    "Habríamos",
+    "Meteora",
+    "Además",
+    "¿Ripio",
+    "Presidencia",
+    "Hayden Davis",
+    "Alejandro",
+    "La Cámara Fintech",
+    "Hong Kong",
+    "Quiero",
+    "¿Quién",
+    "¿Entienden",
+    "Bitcoin",
+    "Bitso",
+    "Intenté",
+    "Funcionan",
+    "Ripio",
+    "Lamentablemente",
+    "Serrano",
+    "Aún",
+    "la Argentina",
+    "¿",
+    "Cámara de Blockchain",
+    "Mira",
+    "Compliance Officer",
+    "Libra",
+    "en Estados Unidos",
+    "CNV",
+    "Jupyter",
+    "Milei",
+    "Sí",
+    "Julián"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Es gravísimo el dictamen de Stornelli, primero porque lo emite un fiscal que continúa en su cargo después de haber estado involucrado en el caso de las \"escuchas ilegales\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ninguno de los 33 senadores de Unión por la Patria somos golpistas.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "Esta idea de Bullrich de un golpe de Estado moderno es un invento para justificar la represión.",
+      "entidades_detectadas": [
+        "bullrich",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Presenta como prueba un tuit que no proviene de un organismo oficial y que habla de golpe de Estado y terrorismo.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Es la senadora del gobernador más cercano al Milei dentro del peronismo.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    }
+  ]
+}

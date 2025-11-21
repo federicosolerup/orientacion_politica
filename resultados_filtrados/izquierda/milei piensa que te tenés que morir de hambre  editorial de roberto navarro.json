@@ -1,0 +1,61 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El hecho más trascendente de ayer, en mi opinión, fue el video en el que el presidente [Nombre del Presidente] se mostró displicente ante el hambre de la población, afirmando que \"ya se arreglarán\".",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Se cumple lo que el presidente predijo: gente muriéndose de hambre en las calles.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Cuando [Nombre del Presidente] reivindica nuestro pasado como primera potencia mundial (lo cual no es cierto, pero sí estuvimos entre las diez primeras en PBI), se implementó por primera vez en Argentina el servicio militar obligatorio.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En Duhalde no había intención de que la gente pasara hambre.",
+      "entidades_detectadas": [
+        "duhalde"
+      ]
+    },
+    {
+      "frase": "Macri aplicó un plan neoliberal que transfería ingresos de la población a la élite.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner había dejado entre 200.000 y 500.000 planes.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "No había intención de Macri de que la gente pasara hambre.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "La gente nos relata su desesperación, su hambre, y el presidente ratificó ayer su posición.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Si usted está en Jujuy esperando que [Nombre del Presidente] lo ayude, se equivocará.",
+      "entidades_detectadas": [
+        "jujuy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Por ejemplo, en Bolivia y Chile cobran por todo.",
+      "entidades_detectadas": [
+        "bolivia",
+        "chile"
+      ]
+    },
+    {
+      "frase": "Salta limita con Paraguay, Bolivia y Chile, y estos países utilizan nuestro sistema sanitario, que es muy bueno.",
+      "entidades_detectadas": [
+        "bolivia",
+        "salta"
+      ]
+    },
+    {
+      "frase": "Salta es la única provincia que el gobierno provincial pagó al Ministerio de Salud para la campaña contra el dengue, una decisión acertada del gobernador.",
+      "entidades_detectadas": [
+        "salta"
+      ]
+    },
+    {
+      "frase": "Mi gente me lo está pidiendo, y trabajamos en el marco legal, con la Constitución como guía.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Sobre el dengue:  En Salta tenemos 200 casos, el 30% autóctonos y el resto importados.",
+      "entidades_detectadas": [
+        "salta"
+      ]
+    },
+    {
+      "frase": "Hemos realizado una campaña con los intendentes, y trabajamos en la prevención con descacharrización y el uso de BTI (una sustancia creada en Salta para eliminar larvas de mosquitos en pozos de agua).",
+      "entidades_detectadas": [
+        "salta"
+      ]
+    }
+  ]
+}

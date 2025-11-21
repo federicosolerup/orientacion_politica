@@ -1,0 +1,884 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Del fracaso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si viene un verano de mucha temperatura, puede haber una demanda muy alta de electricidad y, lamentablemente, como usted sabe, no ha habido inversiones en estos últimos tiempos, con lo cual va a faltar generación y se van a tener que programar cortes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo quiero descartar todo tipo de cortes, porque he leído estos días que no va a haber cortes programados, que volvemos a los cortes rotatorios del 88.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nada de eso, nada de eso, ni se está pensando, ni creemos que eso vaya a ocurrir en absoluto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los cortes programados, además, suelen afectar a industrias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad es que es insólito que el gobierno se esté pegando estos martillazos en los dedos, autoinfligidos totalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sabe por qué no puede haber errores de comunicación tan graves como este?",
+      "entidades_detectadas": [
+        "¿Sabe"
+      ]
+    },
+    {
+      "frase": "Grave error, porque la sociedad argentina tiene recuerdos traumáticos de los cortes de luz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno se acuerda...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "póngame tapa de *Clarín* diciembre del 88...",
+      "entidades_detectadas": [
+        "Clarín"
+      ]
+    },
+    {
+      "frase": "extenderán los cortes de luz hasta...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿se acuerda de esto?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Estudian la reducción del horario de la tele, la iluminación de las avenidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Póngame otra: \"Nuevo asueto estatal el viernes y el lunes próximos para ahorrar energía\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mire esta: \"Asueto estatal hasta el martes para ahorrar luz\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso se vivía en Argentina, ocho horas sin luz por día, no había tele, al fin y al cabo no había ventilador, no había heladera, no había agua, no había nada.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Por eso el gobierno tiene que ser sumamente cuidadoso a la hora de comunicarse, porque el argentino, insisto, tiene estrés postraumático en estos temas.",
+      "entidades_detectadas": [
+        "insisto",
+        "estrés"
+      ]
+    },
+    {
+      "frase": "Ahora lo ridículo, lo grotesco, lo absurdo, es escuchar a quienes se dedican al alquilerismo, salir a hablar como si fueran ingenieros termonucleares, ignorando que dejaron la matriz energética totalmente destruida, mire.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Se nos cortó la luz hace tres días y queremos que nos instalen la luz, no tenemos agua, no tenemos luz, nuestros niños están sufriendo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No solo les cortaron la luz, sino que, además, no reciben respuestas por parte de la empresa correspondiente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es lo que está pasando ahora, entonces, ya lo saben, ténganlo en cuenta si tienen que pasar por este lugar.",
+      "entidades_detectadas": [
+        "ténganlo"
+      ]
+    },
+    {
+      "frase": "Hoy tuvimos una jornada difícil porque esta ola de calor...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "ya no sé qué más nos va a pasar en Argentina, pero, además, tenemos una ola de calor que no se repetía hace no sé cuántos años.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Tenemos que pedirle a muchos empresarios que, por favor, hoy moderen la producción, porque preferimos que los hogares se sustenten, aunque tengamos que parar un poquito la producción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Quiero la luz, nada más, mi amor.\" ¿Estás bien?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Nada más, sí, estoy bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te mojaste la cabeza, Iván.",
+      "entidades_detectadas": [
+        "Iván"
+      ]
+    },
+    {
+      "frase": "Te mojaste el pelito, me da agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero la luz, simplemente.\" Y acá le estamos demostrando que estamos al nivel de África, estamos viviendo la época de la prehistoria, sin luz, la gente se ilumina con velas, literalmente.",
+      "entidades_detectadas": [
+        "África"
+      ]
+    },
+    {
+      "frase": "\"2005 de *Bolilla* en Orlando, es terrible, no podemos más, hace quince días que estamos sin luz, el 1 de marzo nos cortaron la luz en Caballito\".",
+      "entidades_detectadas": [
+        "Bolilla",
+        "Caballito",
+        "Orlando"
+      ]
+    },
+    {
+      "frase": "Esto es de Villa Lugano, de Villa Lugano.",
+      "entidades_detectadas": [
+        "Villa Lugano"
+      ]
+    },
+    {
+      "frase": "¿Así desde cuándo están sin luz?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Así estamos hace quince días.\" ¿Quince días?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Sí, con ola de calor.\" ¿Cuál es la zona de la calle donde están sin luz?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "\"Todo, nosotros somos de Villa 20, todo lo que es Barrio Fiedrawena, Pirelli, Delipián, esto es sin daño, todo sin luz.\" ¿Te diste cuenta del lío que armó Milei?",
+      "entidades_detectadas": [
+        "Barrio Fiedrawena",
+        "Villa 20",
+        "Delipián",
+        "Pirelli",
+        "Milei"
+      ]
+    },
+    {
+      "frase": "En estos 20 años, destrozó, nos dejó sin luz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"20 años de Milei nos dejó...\" ¿Ah, no?",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "\"Bah, vos te das cuenta, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Que nos toman de pelotudos.\" Y sí, muchachos, ahora de golpe descubrieron que no hay luz en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Esto se llama populismo tarifario, o sea, congelar las tarifas de luz y gas mientras todo lo demás sube.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando pagás poco, la empresa no invierte nada, se corta la luz, perdés la comida, se te rompe la heladera, no te anda el aire y vivís peor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, lo barato, a la larga, sale caro, siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se llama populismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Ponemos aumento de precios 20-20-20-23\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mire, esto es el populismo en una sola placa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El azúcar, 2000%, la papa, 2000%, el arroz, 1700%, el tomate, 1700%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mire la tarifa acá abajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Ve?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "500%, ¿ve la diferencia?",
+      "entidades_detectadas": [
+        "¿",
+        "500%"
+      ]
+    },
+    {
+      "frase": "Bueno, esto genera cortes de luz.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Esto se llama populismo tarifario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vos crees que vivirás mejor porque sos un canchero que paga menos, pero después terminas sin luz, sin gas, sin agua, sin comida, sin heladera, sin ventilador, sin aire y sin nada.",
+      "entidades_detectadas": [
+        "Vos"
+      ]
+    },
+    {
+      "frase": "El populismo es vivir bien un mes a costa de sufrir los otros once.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El populismo es reventar las tarjetas de crédito que te dan, pero, en tiempo, después irá el momento de la verdad y sonaste.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, ¿qué está ocurriendo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es el primer error del gobierno en la última semana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Podés decir: \"Comuniquen bien, comuniquen bien\".",
+      "entidades_detectadas": [
+        "Comuniquen"
+      ]
+    },
+    {
+      "frase": "No es el primer tiro en el pie o martillazo en los dedos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hagamos un resumen rápido de lo que pasó estos días.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se vetó el aumento a los jubilados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ha estado en la Quinta de Olivos...",
+      "entidades_detectadas": [
+        "Quinta de Olivos"
+      ]
+    },
+    {
+      "frase": "inexplicable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Posible veto al financiamiento universitario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pelea con el PRO.",
+      "entidades_detectadas": [
+        "PRO"
+      ]
+    },
+    {
+      "frase": "El tema de los cortes de luz programados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los incendios en Córdoba, que mañana va Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Córdoba"
+      ]
+    },
+    {
+      "frase": "¿Qué está generando esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una baja considerable en las encuestas, que lo dice todo el mundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bien, aprovecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mire, podés terminar el verano que viene en 30, en 29 de imagen positiva, y eso no es joda para Milei, porque Milei es un gobierno muy débil, no tiene gobernadores, no tiene intendentes, no tiene legisladores.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Y hay mucha gente que lo apoya por el solo hecho de que piensa que mide mucho y que hay que apoyar al que mide mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Y qué pasa cuando ya no mide mucho?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Cuál es el riesgo de un gobierno como el de Milei cuando queda abajo de los 30 puntos?",
+      "entidades_detectadas": [
+        "Milei",
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "Bueno, el riesgo de caer.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "El riesgo de caer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El riesgo de caer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algo empieza a romperse en el vínculo entre la sociedad y el gobierno de Javier Milei.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "Un gobierno, reitero, que no escucha, que está encerrado en su soberbia, en su relato mentiroso cotidiano, y que empieza, por parte de la gente, ya no a que solo se escuche el rugido del león, sino que también se empieza, y con fuerza, a escuchar el rugir de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto está complicado, por eso la política tiene que ir adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el 2001 pusimos 40 muertos, ¿qué quieren que pongamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿50, 60 muertos para que saquen a este loco?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos, viejos, basta de clase magistral, háblennos a nosotros porque va a haber 50, 60 muertos para sacar a este loco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otra vez tiene que poner el pueblo, la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Basta, loco, basta, que la política vaya adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dígase, joder, que vaya adelante, que se adelante la situación porque a fin de año, o antes, va a haber 50, 60 muertos, 80 muertos, eso quiere la política.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Saquen a este loco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahí está el objetivo final, saquen a este loco porque si no va a haber 80 muertos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La triste, la sistemática extorsión peronista...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "a mí me duele en el alma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Hacé lo que yo quiero, te saco al gobierno con muertos en la calle\".",
+      "entidades_detectadas": [
+        "Hacé"
+      ]
+    },
+    {
+      "frase": "A ver, ¿qué ocurre con las encuestas?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Es cierto que bajó?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay ninguna duda de que el gobierno atraviesa su peor momento, se ve en todos lados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La aprobación del gobierno, según Poliarquía, bajó, estaba en 55, bajó a 53.",
+      "entidades_detectadas": [
+        "Poliarquía"
+      ]
+    },
+    {
+      "frase": "Póngame, si quiere, no sé, D'ELIA, Universidad D'ELIA, que es recontra serio, cayó un 14,8% solamente en septiembre.",
+      "entidades_detectadas": [
+        "Universidad D'ELIA"
+      ]
+    },
+    {
+      "frase": "Póngame Opina Argentina.",
+      "entidades_detectadas": [
+        "Póngame Opina Argentina"
+      ]
+    },
+    {
+      "frase": "¿Te gustan The Hamkins?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, está 50, 50.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "La novedad es que, por primera vez, el rechazo se encuentra al mismo nivel que la aprobación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Sí?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es grave?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es irrecuperable?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tampoco.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es lógico?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bastante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay ningún gobierno en el mundo que aguante ajuste, ajuste, ajuste nueve meses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es para preocuparse?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo le diría que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo le diría que sí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si yo fuera el gobierno, trataría de empatizar un poquito más con los sectores enojados, que son mujeres, jubilados y estudiantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y se viene la marcha de la UBA todavía.",
+      "entidades_detectadas": [
+        "UBA"
+      ]
+    },
+    {
+      "frase": "Pero el gobierno tiró esta parte, llamada oposición, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "¿Cómo definimos hoy la oposición en una sola palabra?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Póngame la palabra para definir a lo que...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Gracias, Dios\", diría Milei de esto, ¿no?",
+      "entidades_detectadas": [
+        "Milei",
+        "¿",
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Mire, cabaret.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay líder, no hay proyecto de país, no hay ideas, no hay orden, no hay nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo único que hay es esto: cabaret.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y resulta que ahora Cristina no tiene que hablar porque eclipsa a otras figuras.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "¿Vamos, muchachos?",
+      "entidades_detectadas": [
+        "¿Vamos"
+      ]
+    },
+    {
+      "frase": "¿Vamos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tranquilos, tranquilas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay que apresurarse, hay que ir paso a paso, como decíamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Taza.",
+      "entidades_detectadas": [
+        "Taza"
+      ]
+    },
+    {
+      "frase": "Hay que parar la oreja, escuchar a nuestra gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como dice Cristina, Cristina no te anuncia que vamos a hacer algo novedoso, hay que hacer esto nuevo.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Tienes ya tus hijos a esas bandas de rock que tocan los viejos grandes éxitos.",
+      "entidades_detectadas": [
+        "Tienes"
+      ]
+    },
+    {
+      "frase": "Y uno sabe, pero bueno, va a haber que componer, muchachos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Va a haber que componer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una nueva, no una que sepamos todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una nueva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos faltó esa visión productiva, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos un ministro de economía que no va a hablar con los empresarios, nosotros que estamos en otras cosas y más en la defensa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero eso no es muy actual esa crítica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, es un dato de la realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ah, y fue en 2015.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El ministro era Aquiles, sí lo...",
+      "entidades_detectadas": [
+        "Aquiles"
+      ]
+    },
+    {
+      "frase": "Pero en el 2015...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y dije que yo...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ah, está bien.",
+      "entidades_detectadas": [
+        "Ah"
+      ]
+    },
+    {
+      "frase": "¿Cómo se llama la obra?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cabaret.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No piensan ni en los jubilados, ni en la UBA, ni en los sueldos, ni en la inflación, ni en usted.",
+      "entidades_detectadas": [
+        "UBA"
+      ]
+    },
+    {
+      "frase": "Y no es que se hayan dedicado solamente a matarse entre ellos para liderar la oposición, que está huérfana de liderazgos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De un lado, Cristina, Máximo, Mayra, Wado, Lacampora.",
+      "entidades_detectadas": [
+        "Lacampora",
+        "Máximo",
+        "Cristina",
+        "Mayra"
+      ]
+    },
+    {
+      "frase": "Del otro lado, Kicillof, Larroque, Ferraresi, Grabois y Quintela.",
+      "entidades_detectadas": [
+        "Ferraresi",
+        "Grabois",
+        "Quintela"
+      ]
+    },
+    {
+      "frase": "Y Kicillof intentando jubilar a Cristina con miedo, con espanto, con pavor a la reacción de la jefa.",
+      "entidades_detectadas": [
+        "jefa",
+        "Cristina",
+        "Kicillof"
+      ]
+    },
+    {
+      "frase": "Está todo nervioso, Kicillof.",
+      "entidades_detectadas": [
+        "Kicillof"
+      ]
+    },
+    {
+      "frase": "Y es que hay uno de los dos bandos reconociendo que ha formado parte del peor gobierno de la democracia, el de Alberto, Cristina y Massa.",
+      "entidades_detectadas": [
+        "Alberto",
+        "Cristina",
+        "Massa"
+      ]
+    },
+    {
+      "frase": "Así que Milei también le tiene que prender una vela a esta oposición bochornosa e infantil que tenemos en Argentina.",
+      "entidades_detectadas": [
+        "Milei",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "De todas maneras, humilde recomendación y cierro con esto: en algún momento, en serio, se los digo, dejen de martillarse los dedos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Opiniones libres, hechos sagrados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ya viene Nico y felicitaciones.",
+      "entidades_detectadas": [
+        "Nico"
+      ]
+    },
+    {
+      "frase": "Ven en construyó desde la nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No te toques la teta izquierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es lo que hay que superar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, como yo cuando hablo de Kirchner, no me toco el huevo izquierdo.",
+      "entidades_detectadas": [
+        "Kirchner"
+      ]
+    },
+    {
+      "frase": "Entonces tenemos que superar esa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cada uno se toca donde quiera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo trato de hacer docencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Obvio que cada uno se toca donde quiera.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es la clase de *besties*.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No le vas a enseñar a un tipo que se crió en el potrero la libertad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Distinción Pinturas.",
+      "entidades_detectadas": [
+        "Distinción Pinturas"
+      ]
+    },
+    {
+      "frase": "Lleva color e innovación a tu hogar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Distinción Pinturas.",
+      "entidades_detectadas": [
+        "Distinción Pinturas"
+      ]
+    },
+    {
+      "frase": "Con acabados perfectos y duraderos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Distinción Pinturas.",
+      "entidades_detectadas": [
+        "Distinción Pinturas"
+      ]
+    },
+    {
+      "frase": "Transforma espacios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cría emociones.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Universidad D'ELIA",
+    "jefa",
+    "Clarín",
+    "Kicillof",
+    "Mire",
+    "Vamos",
+    "¿Qué",
+    "Massa",
+    "Comuniquen",
+    "Villa 20",
+    "Estudian",
+    "Delipián",
+    "Pirelli",
+    "Javier Milei",
+    "Kirchner",
+    "Ahí",
+    "¿Cómo",
+    "Ven",
+    "Pelea",
+    "ténganlo",
+    "Bolilla",
+    "Poliarquía",
+    "Mayra",
+    "estrés",
+    "Máximo",
+    "PRO",
+    "Grabois",
+    "Cuál",
+    "Póngame Opina Argentina",
+    "Vos",
+    "Alberto",
+    "África",
+    "¿Cuál",
+    "Argentina",
+    "Caballito",
+    "Aquiles",
+    "Saquen",
+    "Quiero",
+    "Hacé",
+    "Ferraresi",
+    "Cristina",
+    "Tienes",
+    "Bueno",
+    "Quintela",
+    "Barrio Fiedrawena",
+    "Lacampora",
+    "Orlando",
+    "¿Así",
+    "¿",
+    "Iván",
+    "Distinción Pinturas",
+    "insisto",
+    "Basta",
+    "Dios",
+    "¿Vamos",
+    "Milei",
+    "Así",
+    "UBA",
+    "Villa Lugano"
+  ]
+}

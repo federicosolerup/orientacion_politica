@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "No se enojen, pero voy a leer lo que dijo el Procurador General del Tesoro, Carlos Zannini, vacunado VIP junto a su esposa, Patricia Alsúa, el 22 de enero.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Anoche, en una entrevista, entiendo que con C5N, él dijo que no se arrepentía de lo que había hecho, en medio de una Argentina donde hay más de 68 mil muertos y, obviamente, todos están sufriendo la pandemia, cada uno a su manera.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Quizás lo peor de lo que dijo Zannini, según mi opinión personal, es lo que él cuenta que le dijo a Horacio Verbitsky, el presidente en uso de licencia del Centro de Estudios Legales y Sociales, porque una vez que se conoce que Verbitsky cuenta y confiesa que él se vacunó, el CELS le pide que se retire como presidente de su organismo porque había actuado de forma poco ética o sin ética.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Además de que las leyes y las normas digan lo contrario, hay una sola cosa que Zannini dice que está bien: se tendría que haber sacado esa foto vacunándose para que todos tengamos el registro de ese momento en el que una persona que toma decisiones muy importantes en la Argentina le robó la vacuna a otro.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

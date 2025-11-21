@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El precio del dólar aumentó un 118%, beneficiando a los acreedores de la deuda externa, especialmente al Fondo Monetario Internacional (FMI), ya que gran parte del plan se centra en pagar la deuda.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "La \"casta\" ya desapareció del discurso del presidente [Nombre del presidente] en su asunción, tanto en el Congreso como en la Casa Rosada.",
+      "entidades_detectadas": [
+        "presidente",
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Esta intervención estatal para salvar deudas privadas desmiente la idea de un Estado opresor que afectaba a todos por igual, con lo cual muchos trabajadores y clase media se sintieron inicialmente identificados.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Los primeros días del gobierno demuestran que no se lucha contra un Estado opresor, sino que se utiliza para beneficiar a un sector privilegiado.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Un analista político, hace un rato, me hacía esta reflexión: Así es el Estado, así está, este es el Estado de la política en la Argentina.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ella, como ustedes saben, es una de las mayores expertas que hay en la Argentina en campañas electorales, y nos va a explicar toda la trama técnica que hay detrás de un debate y qué puede haber significado lo de ayer.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Massa acumula en su vida, desde chico, desde los veintipico años, capas y capas de marketing, de coaching, de entrenamiento.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Este es un tuit de **Juan Manuel Karg** que dice: \"Por sí o por no Brasil, debate en la Globo, en la cadena Globo 2022, Lula versus Bolsonaro\".",
+      "entidades_detectadas": [
+        "lula"
+      ]
+    },
+    {
+      "frase": "Le está preguntando Lula a Bolsonaro, acorralándolo.",
+      "entidades_detectadas": [
+        "lula"
+      ]
+    },
+    {
+      "frase": "Muy conocedor Massa del terreno, muy conocedor, curiosamente, de la vida de Milei.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Se notó que Massa apelaba a quebrarlo en lo personal, en lo subjetivo.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, cuando le menciona que él no tiene propiedades afuera, pero que sí su familia, la familia de Milei, tiene propiedades en Miami, y aconseja Massa googlear eso.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Después vamos a hablar de los consejos de Massa para ir a Google.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Bueno, **Paz Rodríguez Niel**, del diario La Nación, siguió el consejo de Massa, fue a googlear, lo escribe hoy en los comentarios de los columnistas de La Nación sobre el debate de la noche, y encontró que, efectivamente, hay un departamento de la familia de Milei en Miami, que fue publicado en el portal RealPolitik, que, curiosamente, es el portal donde canalizaba su información, obtenida clandestinamente, el policía y **el zanqueta** ahora preso por sus tareas de espionaje clandestino, entre otros blancos, sobre la Corte y otros jueces.",
+      "entidades_detectadas": [
+        "nación",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Esto no quiere decir que Massa se sirvió de esos métodos, pero hay casi una superposición, vamos a decirlo de otra manera, un estilo.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Milei ratificó lo que se sabe también, que es alguien que no conoce muy bien el terreno en el que se metió, que carece del profesionalismo, que puede tener momentos de sinceridad o autenticidad suicida, como por ejemplo, seguir insistiendo en que él está fascinado con Margaret Thatcher.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Ahora, desde el punto de vista de la Argentina actual, tan rara, esos son vicios o virtudes.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Se hizo famoso en la Cámara de Diputados en un debate contra **Cavallo** por la situación de la deuda en la Argentina.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "El resultado, esa noche y la mañana siguiente, parecía que Baglini lo había arrasado con datos, con argumentos, con razonamientos a Bordón, que miraba a la cámara hablando de cosas de todos los días y tratando de capturar emocionalmente al que lo estaba mirando, sin demasiado alucimiento, sin pretender ser brillante.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Los picos negativos: curiosamente, la dolarización y el cierre del Banco Central, el pedido de disculpas al Papa, y la idea de \"yo no te agredí, soy enfático, pero no te agredí\", que él le dice Milei a Massa.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Ahora vamos a ver cuáles son los picos positivos y negativos de Sergio Massa.",
+      "entidades_detectadas": [
+        "sergio"
+      ]
+    },
+    {
+      "frase": "Los picos negativos: curiosamente, así como el pico positivo de Massa es la propuesta educativa, el pico negativo tiene que ver con educación, cuando dice que la educación en la Argentina es una, la educación pública constituye una plataforma para la, la movilidad social ascendente, como si estuviera hablando de otro planeta por el estado en el que está la educación pública en la Argentina, algo que fue muy comentado, después lo vamos a, vamos a volver sobre este tema.",
+      "entidades_detectadas": [
+        "argentina",
+        "massa",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Y hay un político que se caracterizó en los últimos 30 años en la Argentina por su relación extraordinariamente próxima y amigable con muchos empresarios.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Expertos en mercados regulados diría **Anthony Brufau**, el antiguo presidente de Repsol.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Milei representó, como viene representando, la voluntad drástica, radical de cambio, el hartazgo, el hartazgo frente a un oficialismo que se ha prolongado mucho al frente del poder y, con muy malos resultados, sobre todo en los últimos cuatro años.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Después se fue, dejó el cargo que le había dado como secretario de hábitat Vidal en la provincia de Buenos Aires.",
+      "entidades_detectadas": [
+        "vidal"
+      ]
+    },
+    {
+      "frase": "Seguramente Massa tendría que decirle a este intendente, Echarren, que baje un cambio, porque es ridículo.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Tiene que ver con cuando Massa intentaba desmentir, recusar la actitud agresiva de Milei, diciendo \"pero si nos conocemos, si vos eras del Frente Renovador, me venías a ver, etc.\".",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Miren: \"Pero esa buena relación parlamentaria, obviamente, serían por dos años, que son del 2019, básicamente desde el 2019 hasta ahora, donde Massa lo bancó a Milei, Massa lo bancó a Milei y a **Espert**, en la inteligencia de que, financiando a una fuerza liberal que le quitara a Juntos por el Cambio votos, bueno, el peronismo podía mantener el poder con el presidente.",
+      "entidades_detectadas": [
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Massa financió a Milei en la inteligencia de que, financiándolo, le quitaba votos a Juntos por el Cambio para poder llegar más a la presidencia.",
+      "entidades_detectadas": [
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "¿Está Massa detrás de Riquelme en Boca, probablemente?",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Hoy se lanzó formalmente Macri en Boca como candidato a vicepresidente de Andrés Ibarra.",
+      "entidades_detectadas": [
+        "macri",
+        "andrés"
+      ]
+    },
+    {
+      "frase": "¿Cómo es que Massa financiaba a Milei?",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Los dos deberían explicarlo, Milei y Massa.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Massa todo el tiempo decía \"vaya a Google, si quieres saber lo que dice Milei y Massa, y ponga lo que dice Milei\", y vas a Google como si fuera una verificación, un criterio de autoridad de chequeo.",
+      "entidades_detectadas": [
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, acá está la descalificación del Papa, cuando dice: \"Es la encarnación del maligno en la tierra\", que es de lo que después Milei se arrepiente, dice que le mandó un arrepentimiento privado al Papa a través de Eduardo Eurnekián y un arrepentimiento público que fue el de ayer.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Interesante también todo el tema del Papa, muy interesante, porque Massa hace hincapié permanentemente en ese tema y, además, bueno, esta es la página lo que dice Milei, donde están las declaraciones más polémicas de Milei, insisto, verdaderas, podría haber una página que se ve que no les interesa hacer de la Libertad Avanza, publicando las características principales de la política económica de Massa u otras características de la vida pública de Massa.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Massa le hizo una a Milei.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Ahora vuelvo a lo del Papa, hay un énfasis permanente de Massa en el conflicto entre Milei y un sector de la iglesia, el conflicto entre Milei y la figura del Papa, que llega a estos carteles, miren estos carteles, estos carteles los publicó Unión por la Patria.",
+      "entidades_detectadas": [
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "\"Argentina sí, no, Massa sí es Argentina, Massa es la Argentina, Milei es Milei, Milei no, caos y orden, armas y vida, venta de órganos, odia al Papa, ama al Papa\".",
+      "entidades_detectadas": [
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Es curioso que Milei no le haya preguntado, pero ni lo sabe, porque lo que demuestra Milei en este tipo de presentaciones, debates, etcétera, es que ignora casi todo de la política de los últimos 20 años, que es lo que probablemente hace que mucha gente lo vote.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Y, además, se hubiera estado en apuros, porque, como ha sido narrado muchas veces, el Papa está muy agraviado con Massa, porque, siendo jefe de gabinete de la presidencia de la Nación, hizo toda una conspiración junto con empresarios, que seguramente son solo conocidos, no amigos, y el obispo Sarlenga, que en aquel momento era obispo de Zárate-Campana, para sacarlo a Bergoglio, del arzobispado de Buenos Aires y jubilarlo, entregándole la cabeza de Bergoglio a Néstor Kirchner, que, en aquel momento, Kirchner pensaba que Bergoglio era la encarnación del maligno.",
+      "entidades_detectadas": [
+        "néstor",
+        "estado",
+        "kirchner",
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "Esa historia es la que hace que el Papa haya dado una entrevista advirtiendo sobre Milei antes de la primera vuelta, cuando también estaba **Patricia Bullrich** en carrera, para que no se interprete como se podría interpretar hoy, que el Papa favorece a Massa en contra de Milei, porque no se llevan bien.",
+      "entidades_detectadas": [
+        "massa",
+        "milei"
+      ]
+    },
+    {
+      "frase": "A **Martín Guzmán**, si hay alguien a quien Massa odia, Martín Guzmán, a quien le echa, como le echó anoche, la culpa de buena parte de los dramas económicos que tiene la Argentina por haber negociado mal el acuerdo con el Fondo y haber hecho una mala negociación de la deuda.",
+      "entidades_detectadas": [
+        "argentina",
+        "massa",
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Vamos a verla esta semana, acuérdese, bastante a **Victoria Villarruel**, porque en el equipo de campaña de Milei han decidido que, dado que hizo, según ellos, un buen papel delante de **Agustín Rossi** en el debate de los vicepresidentes, en TN la semana pasada, van a exponerla ahora a Villarruel en los medios en esta última semana de campaña.",
+      "entidades_detectadas": [
+        "tn",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Primer rasgo de la campaña de Milei de lo que viene.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Algo muy importante para ellos, que carecen de estructura política, garantizar la fiscalización, y dicen que está garantizada, lo cual voltea un argumento que habitualmente la derecha internacional ha tenido en Estados Unidos, en Brasil con Bolsonaro, que es echar una sombra de dudas sobre la calidad del proceso democrático planteando posibilidades de fraude.",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "De las mismas filas, desde las mismas filas de Milei se dice \"tenemos todo el aparato de fiscalización garantizado, inclusive con lo que ellos llaman redundancias, más de un fiscal por mesa en el caso de que se necesiten reemplazos\".",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Se van definiendo, además, posiciones dentro del entorno de Milei, de Javier Milei.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Se le reprochan a Kikuchi arreglos justamente con Massa, por los cuales muchos candidatos de las listas de Milei ahora desaparecieron, decenas, en lealtad con Massa, porque los manejaba Massa, que es algo que contó Maslatón también en el programa de Roberto García Noche.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Empieza a haber definiciones, por lo menos tentativas, nombres que quedan más establecidos para un futuro gabinete eventual, obviamente, de Milei si llegara a ganar las elecciones.",
+      "entidades_detectadas": [
+        "gabinete",
+        "milei"
+      ]
+    },
+    {
+      "frase": "**Federico Pinedo**, que iba a ser seguramente canciller de la Argentina si hubiera ganado Bullrich, ahora se perfila como eventual ministro de Defensa de un eventual gobierno de Milei, promovido, respaldado por Patricia Bullrich.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Probablemente a Milei le hubiera gustado tenerlo cerca a **Sturzenegger**.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Porque, aparentemente, Sturzenegger publicó en su momento un artículo muy crítico de la macroeconomía de Macri en Brookings Papers, que es una publicación de un think tank americano que lo habría herido a Macri.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Milei consultó a Sturzenegger aparentemente, consultó también a otros miembros del entonces equipo de Sturzenegger en el Banco Central, como **Demian Reidel**, que vive en Estados Unidos, es un financista físico de profesión, economista, próximo intelectualmente a Milei, pero Reidel le planteó, aparentemente, un límite, que es \"yo, dolarización no\", y necesitas a alguien que crea en la dolarización si quieres ir por ese camino.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Hubo un encuentro, también esto surge del entorno de economistas ligados no al PRO, sino a Milei, un encuentro en el cual **Luis \"Toto\" Caputo** le hizo una exposición, probablemente de parte de Macri, a Milei de un plan económico, no es el único Caputo que estuvo con Milei, también estuvo el primo de Toto Caputo, **Nicolás Caputo**, no creo que hablando de economía, o, por lo menos, hablando de algo muy específico de economía que es el régimen de Tierra del Fuego, del que él vive.",
+      "entidades_detectadas": [
+        "caputo",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Hubo por parte de Toto Caputo la idea de que se podría renegociar el acuerdo con el Fondo, consiguiendo más financiamiento, signo de interrogación.",
+      "entidades_detectadas": [
+        "caputo"
+      ]
+    },
+    {
+      "frase": "¿Quién va a ser, si llega Milei al gobierno, el presidente de la Cámara de Diputados?",
+      "entidades_detectadas": [
+        "presidente",
+        "cámara",
+        "milei"
+      ]
+    },
+    {
+      "frase": "¿Quién va a ser el encargado de pelear las leyes en un congreso endiablado para Milei?",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "A Macri le gustaría **Cristian Ritondo**, aparentemente Milei tiene un compromiso con **Martín Menem**, hijo del senador Menem, riojano, que está con Milei desde el comienzo.",
+      "entidades_detectadas": [
+        "macri",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Martes de la semana pasada, Restauran Roldán de **Daniel Vila**, uno de los amigos empresarios que Massa no tiene.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Convoca Vila a una comida, ese martes a la noche, es decir, hace menos de una semana, con representantes de medios de comunicación a los que el equipo de campaña de Massa considera más cercanos o más permeables a su visión de las cosas o más amigos.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Primero, en el primer tramo de la comida, **Guado de Pedro** y **Anthony Gutiérrez Rubí**, el catalán que asesora a Massa junto o en competencia con los brasileños y desde antes que los brasileños, y era el asesor de campaña de Guado de Pedro.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Esto debe explicar que hace a semejante presión como la que hay en estos días del gobierno de Massa sobre el sector farmacéutico para que no desaparezcan medicamentos de las farmacias.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "La otra mala noticia que confesó Gutiérrez Rubí para la campaña de Massa, el acercamiento de Macri a Milei.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Porque lo, vamos a usar una palabra fea, lo normaliza para aquellos que creen que Milei tiene determinados niveles de inestabilidad emocional incompatibles con la presidencia de la nación.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Macri funcionó como una especie de garante para un sector del electorado, obviamente macrista.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "¿Eso qué significó, según Gutiérrez Rubí, en términos aritméticos?, que una vez que se selló el acuerdo Macri-Milei, Milei subió seis puntos en las encuestas.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Llegó Massa, de Rosario venía, pero él estaba contento por otro viaje, Córdoba.",
+      "entidades_detectadas": [
+        "rosario"
+      ]
+    },
+    {
+      "frase": "Había estado en Córdoba y le dijo \"yo les prometo a ustedes que yo en Córdoba saco 35%\".",
+      "entidades_detectadas": [
+        "estado",
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Schiaretti se pronuncia en contra de Massa, pero Massa ha conseguido que haya una militancia tácita de gente de Martín Llaryora, el nuevo gobernador que va a ser gobernador de Córdoba, ex intendente de San Francisco, ex intendente de la ciudad de Córdoba, Massa considera que, si logra reforzar su presencia en San Francisco y en Córdoba, consigue dar vuelta a una mala situación en Córdoba.",
+      "entidades_detectadas": [
+        "massa",
+        "francisco"
+      ]
+    },
+    {
+      "frase": "Es decir, Córdoba es clave.",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "A Córdoba fue hoy **Estela de Carlotto**, estuvo en Córdoba con Schiaretti, dice que hablando solo de derechos humanos, pero la propia Carlotto, que, como saben, todo el mundo es una dirigente muy destacada de las Abuelas de Plaza de Mayo, la presidenta y de todo el área de derechos humanos, milita en el kirchnerismo, dijo \"yo no hablé de política, pero el que quiere entender, entiende a qué si a sacarme una foto con Schiaretti\".",
+      "entidades_detectadas": [
+        "córdoba"
+      ]
+    },
+    {
+      "frase": "Massa está pensando también en su equipo.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Él quiere ser canciller de Massa, después de su experiencia en Brasil y quiere ser canciller de Milei, a quien podría llegar a través de Guillermo Francos.",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "No se olvide de que Milei formó parte de una fundación que trabajaba para Scioli.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Massa está pensando, no sabemos qué piensa él, la persona que voy a nombrar ahora, pero entre las personas que se están evaluando en el comando de Massa para un cargo crucial, que es la Procuración de la Procuraduría General de la Nación, es decir, la jefatura del Ministerio Público, del cuerpo de fiscales, **Miguel Ángel Pichetto**, que ha adoptado ahora una actitud prescindente en la campaña.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Pichetto sería, si fuera puesto al frente, se necesitan dos tercios del Senado, si fuera puesto al frente de la Procuraduría General de la Nación, una garantía de profesionalismo y de no persecución política para unos y otros.",
+      "entidades_detectadas": [
+        "pichetto"
+      ]
+    },
+    {
+      "frase": "Habrá que ver si se consolida esta idea, no sabemos si Pichetto siquiera está al tanto de esto.",
+      "entidades_detectadas": [
+        "pichetto"
+      ]
+    },
+    {
+      "frase": "Dice, este Massa que tenemos ahora es el Massa mío, el del 2015, no el que se fue con Cristina, déle la oportunidad, bótenlo para que limpie a los ñoquis de La Cámpora.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Massa armó un equipo y mandó a investigar la situación real del Banco Central.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "Están trabajando con la gente de Massa en el Banco Central, como el Banco de San Pedro de **San Andro Cleri**.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "¿Esto no es una pregunta para Massa, es una pregunta para Massa y para Milei.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "¿Va a ver con Massa lo que promete Massa?",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "¿Por qué Massa va a adoptar reglas claras ahora cuando sea presidente y no las adoptó cuando asumió el ministerio de Economía?",
+      "entidades_detectadas": [
+        "massa",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Bueno, probablemente, lo que siga si gana Massa es eso.",
+      "entidades_detectadas": [
+        "massa"
+      ]
+    },
+    {
+      "frase": "¿Puede haber una suspensión de pagos al fondo total?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "¿Y volver a la relación con el fondo cuando lleguen los dólares de la soja?",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "El Fondo no aplaudirá eso, porque sea el subsecretario del Tesoro **John Bau** le pide al Fondo \"váyanse de la Argentina\".",
+      "entidades_detectadas": [
+        "fondo",
+        "tesoro"
+      ]
+    }
+  ]
+}

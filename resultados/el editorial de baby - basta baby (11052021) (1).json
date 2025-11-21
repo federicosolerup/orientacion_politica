@@ -1,0 +1,383 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¡Ay!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo les va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llegó el éxito de la noche: ¡el señor Micrófono!",
+      "entidades_detectadas": [
+        "Llegó",
+        "Micrófono"
+      ]
+    },
+    {
+      "frase": "Qué triste.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Cada día vemos un programa pésimo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin ensayo, todo sale mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los videos se publican tarde.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "[Nombre del colaborador] y [Nombre del otro colaborador] transpiran junto a nuestro productor, Alejandro.",
+      "entidades_detectadas": [
+        "Alejandro"
+      ]
+    },
+    {
+      "frase": "Los chicos de arriba, los grafistas, hacen lo que pueden.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero si el elenco falla, falla todo el programa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aun así, la gente lo ve, son masoquistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para vivir en Argentina hay que ser masoquista.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Hoy vieron al presidente de España dando una clase de derecho a nuestro presidente.",
+      "entidades_detectadas": [
+        "España"
+      ]
+    },
+    {
+      "frase": "Creo que esa fue la nota del día, aunque la hayamos ocultado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El papelón de Alberto Fernández, quien miraba al presidente de España mientras este hablaba de democracia y justicia… lo resume todo.",
+      "entidades_detectadas": [
+        "España",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Un presidente que hace una semana dijo: “Los fallos judiciales no me van a asustar”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el otro le respondió: “No es así, hermano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estás en España, necesitas bajar cambios si quieres que te prestemos dinero para llegar a fin de mes.",
+      "entidades_detectadas": [
+        "España"
+      ]
+    },
+    {
+      "frase": "Baja la soberbia.",
+      "entidades_detectadas": [
+        "Baja"
+      ]
+    },
+    {
+      "frase": "Estamos en una situación difícil”.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy una amiga me preguntó: \"¿Cómo se puede explicar por qué los argentinos somos tan dóciles?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué permitimos el aumento de la nafta, el robo de vacunas?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué somos tan sumisos?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se me ocurrió una explicación, más sencilla que un análisis político:  no se puede explicar simplemente con Perón en 1955, 1961 o 1972.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es algo más profundo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El pueblo argentino es como esa mujer que sale con un hombre; ella es bellísima, como nuestra patria –hoy es el Día del Himno–.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él la seduce y ella, por enamorada, se siente incapaz de exigirle a su pareja que sea el hombre que su patria necesita para ser conquistada plenamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A la mujer le gusta la belleza, sí, pero también la protección, no la sobreprotección; que la cuiden, pero no que la vigilen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un día, él le dice: \"No me gusta que muestres los dedos de los pies con esas sandalias\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ella, enamorada –como el pueblo argentino al inicio de un gobierno, ilusionado con promesas de matrimonio, de una casa al lado del mar–, accede.",
+      "entidades_detectadas": [
+        "mar–"
+      ]
+    },
+    {
+      "frase": "\"¿Te gustan estas chatitas, Jorge?\", pregunta.",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "\"El taco te hace parecer una payasa\", le responde él.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Luego la critica el largo de su falda, el escote...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Y cuando vamos a tomar algo, todos miran tus pechos\", le dice.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Sube un poco el vestido, ponte un prendedor...\" La va degradando, humillando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Si no fuera por mí, te quedarías sola como una perra\", le dice.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Gracias a mí te mantengo, salgo a trabajar...\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llega un punto en que la anula mentalmente, destruye su autoestima y la somete.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este es el \"machirulo\", el famoso amigo de Cristina.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "El \"machiruro\" que es ella misma.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nuestra patria, que pasó de ser la mejor del mundo en el Mundial 78 a lo que somos hoy con Alberto… qué vergüenza.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Nos han hecho poner zapatos cerrados, nos dicen: \"No salgan, yo los cuido\", \"quédense en casa\", \"no se quejen\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El tipo le dice a la mujer: \"Te lo hago por tu bien, para cuidarte, para que no te manosee otro, te manoseo yo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos usan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El \"machirulo\" la usa para tener sexo, pero después mira a otras.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la castra, la castra…  \"¿Qué quieres hacer negocios con Estados Unidos?",
+      "entidades_detectadas": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "¿Te gusta más Estados Unidos que Venezuela?",
+      "entidades_detectadas": [
+        "Venezuela",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "¿Qué, te quieres hacer el europeo?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos comieron la moral, la dignidad, nos sometieron al ultraje.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando mi amiga me preguntó por qué no tenemos coraje, por qué esa mujer no se levanta y le pega al tipo… es porque nos comieron la dignidad, la autoestima.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos hacen sentir basura, nos humillan, nos violan, nos acobardan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Así está el pueblo argentino.",
+      "entidades_detectadas": [
+        "Así"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández dio la vuelta al mundo en 80 horas, recorrió 100 barrios porteños… pero no llevó nada de ofrenda a sus encuentros con otros presidentes, como los Reyes Magos o los antiguos reyes que llevaban regalos a otros monarcas.",
+      "entidades_detectadas": [
+        "Magos",
+        "los Reyes",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Alberto fue a mostrar la miseria de la Argentina.",
+      "entidades_detectadas": [
+        "Alberto",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Pero la miseria no es del país, sino de quienes nos gobiernan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tienen un complejo de inferioridad y nos someten al ultraje para sentirse a nuestro nivel.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No pueden subir a nuestro nivel; deben bajarnos al suyo con humillaciones, para poder manipularnos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué están en la catacumba?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quien no es delincuente es inútil para la función que desempeña, o quizá no tiene capacidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como son inútiles, delincuentes o incapaces, nos tienen que bajar a su nivel de inutilidad, delincuencia e incapacidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta es la mejor forma de explicar por qué nos dejamos robar el país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué permitimos que nos comparen con Venezuela?",
+      "entidades_detectadas": [
+        "Venezuela"
+      ]
+    },
+    {
+      "frase": "Es como esa mujer a la que su pareja la trata como la \"puta de enfrente\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la verdad, no soy la \"puta de enfrente\", ni ninguna puta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si quiero mostrar los dedos, los muestro; si quiero mostrar el culo o las tetas, las muestro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la respuesta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero nosotros seguimos tapándonos los dedos de los pies con unas chatitas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que abrir los ojos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La parábola de la rana que se cuece lentamente ya no alcanza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es mejor la de la mujer humillada y abusada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Somos un pueblo violado, abusado, porque nos roban todo y crean una casta dirigente multimillonaria con el dinero robado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Humillados, denigrados, destratados...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "eso es lo que lograron Cristina Kirchner y Alberto Fernández.",
+      "entidades_detectadas": [
+        "Cristina Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Pero todo se hace y todo se paga.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El papelón del presidente argentino en el mundo quizás demostró que no tienen un complejo de inferioridad, sino que son simplemente inferiores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ellos, no nosotros.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "mar–",
+    "Alberto Fernández",
+    "Esa",
+    "Micrófono",
+    "Somos",
+    "los Reyes",
+    "Cristina Kirchner",
+    "Alberto",
+    "Estados Unidos",
+    "Alejandro",
+    "Argentina",
+    "Nuestra",
+    "Magos",
+    "Llegó",
+    "Cristina",
+    "Estás",
+    "España",
+    "la Argentina",
+    "¿",
+    "Venezuela",
+    "Jorge",
+    "Así",
+    "Baja"
+  ]
+}

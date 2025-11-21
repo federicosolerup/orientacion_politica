@@ -1,0 +1,43 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "María Teresa era una paciente oncológica a la que, desde diciembre, tras la asunción del gobierno de Javier Milei, se le interrumpió la entrega de medicamentos por parte de la ADACS (Dirección de Asistencia para Casos Especiales), perteneciente al ex Ministerio de Desarrollo Social.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "El Estado garantizaba este derecho hasta el 10 de diciembre, derechos tan básicos como el derecho a vivir.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Nos contaba sobre el estado de su esposa:  “Está muy débil… es por la medicación; desde el 10 de diciembre, no la recibe, la fecha prevista era el 12 de diciembre”.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "En medio de todo esto, el presidente Javier Milei afirmó que no se había interrumpido la entrega de medicamentos, que se habían cortado los “curros”.",
+      "entidades_detectadas": [
+        "javier",
+        "presidente",
+        "milei"
+      ]
+    },
+    {
+      "frase": "Consideraba que la solución no podía ser individual; no se sentiría satisfecho si juntaba dinero para salvar a su esposa, creía que la solución debía ser colectiva y que el reclamo debía ser colectivo para que el Estado garantizara ese derecho.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Les pido que insistamos en que la solución debe ser colectiva, que se conozca este caso, que se sepa que Javier Milei, Victoria Villarroel, Luis Caputo, Mario Russo, Sandra Petrolillo y Manuela Domi abandonaron a María Teresa Troiano y ayer falleció.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    }
+  ]
+}

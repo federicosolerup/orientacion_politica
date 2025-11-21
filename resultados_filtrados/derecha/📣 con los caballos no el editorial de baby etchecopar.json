@@ -1,0 +1,60 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Los cuatreros existen en la Argentina muchísimo.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En la época de Menem, que fue cuando creo que Lowenstein tenía el matadero de caballo, y que Lowenstein es el dueño de La Lenia, amigo de Menem, y Menem hizo un decreto para sacrificar 200 caballos por día.",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "Ya en la época de Menem había denunciado a los famosos turcos, una familia de los turcos, no me acuerdo cómo se llamaban, que vivían en Escobar, que robaron a Pérez Compán cuatro potrancas de polo, y que las fueron a buscar y estaban los cueros con la marca en un matadero clandestino.",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "Mano derecha de Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Que se sentó en la mesa de Alberto Fernández.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "En la mesa de consulta de Alberto Fernández estaba este estúpido pedófilo.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Con la anuencia de Gendarmería en esa época de Menem y de la Policía Caminera, llevaban a las guías en blanco.",
+      "entidades_detectadas": [
+        "menem"
+      ]
+    },
+    {
+      "frase": "Porque te repito, cuando vos ves una estatua y un caballo bajo del héroe, que es la continuación del héroe, con el caballo se hizo la patria y no con la mortadela.",
+      "entidades_detectadas": [
+        "patria"
+      ]
+    },
+    {
+      "frase": "*   Se reemplazo \"vaca muerta\" (se entiende que vaca muerta es aquella que está en mal estado o descompuesta) por \"carne de vaca que encuentran muertas de la faena\" para aclarar el concepto que quiere transmitir.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

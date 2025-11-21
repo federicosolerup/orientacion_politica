@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La situación actual en Argentina es bastante triste y preocupante.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Cuando el jefe de Gabinete Santiago Cafiero declaró en el Senado que una usurpación no era ilegal hasta una sentencia judicial, emitió una afirmación ilógica.",
+      "entidades_detectadas": [
+        "cafiero",
+        "senado",
+        "gabinete"
+      ]
+    },
+    {
+      "frase": "En Mascardi, la gente que atacó a la gobernadora, según ella con apoyo del Estado Nacional,  había ocupado terrenos de vecinos.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Argentina parece una perinola descontrolada.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

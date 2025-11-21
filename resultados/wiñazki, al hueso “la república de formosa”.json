@@ -1,0 +1,165 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La situación en Formosa con respecto a los ciudadanos varados es preocupante.",
+      "entidades_detectadas": [
+        "Formosa"
+      ]
+    },
+    {
+      "frase": "Hildiana, una voluntaria, se vacunó poniendo en riesgo su salud durante las fiestas clandestinas.",
+      "entidades_detectadas": [
+        "Hildiana"
+      ]
+    },
+    {
+      "frase": "La situación en la provincia se agrava cada día, y las declaraciones de la dirigencia peronista, antes consideradas pícaras, ya no resultan tolerables.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Amnistía Internacional, una organización de derechos humanos de prestigio internacional que colaboró con Argentina durante la dictadura, denuncia la situación de los varados a quienes se les impide el ingreso a Formosa.",
+      "entidades_detectadas": [
+        "Formosa",
+        "Amnistía Internacional",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Esta situación, según se argumenta, se debe a cuestiones sanitarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, la Corte Suprema intervino gracias a la denuncia del senador Luis Naidenoff y a la gestión de los dirigentes radicales Hernández.",
+      "entidades_detectadas": [
+        "Luis Naidenoff",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "Amnistía Internacional exige al gobernador Gildo Insfrán que permita el ingreso de estas personas.",
+      "entidades_detectadas": [
+        "Gildo Insfrán",
+        "Amnistía Internacional"
+      ]
+    },
+    {
+      "frase": "El juez Fernando Carvajal autorizó la entrada de 81 estudiantes universitarios varados en Chaco y Corrientes.",
+      "entidades_detectadas": [
+        "Fernando Carvajal",
+        "Corrientes",
+        "Chaco"
+      ]
+    },
+    {
+      "frase": "La fiscal de Estado, Estela Zavala, amenazó con iniciar acciones legales contra ellos si se producía un brote de coronavirus.",
+      "entidades_detectadas": [
+        "Estado",
+        "Estela Zavala"
+      ]
+    },
+    {
+      "frase": "Aproximadamente cuatro mil personas permanecen varadas, muchas en condiciones precarias, sin recibir explicaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Amnistía Internacional califica esta situación como una aberración a los derechos humanos.",
+      "entidades_detectadas": [
+        "Amnistía Internacional"
+      ]
+    },
+    {
+      "frase": "El diputado Rodolfo Tailhade, ex jefe de contrainteligencia de la AFI, publicó en Twitter su intención de impulsar un juicio político contra el juez Carvajal por permitir el ingreso de los estudiantes.",
+      "entidades_detectadas": [
+        "AFI",
+        "juez Carvajal",
+        "Rodolfo Tailhade"
+      ]
+    },
+    {
+      "frase": "El ministro González, a cargo de cuatro carteras (Trabajo, Seguridad, Justicia, entre otras), ofreció una explicación patética sobre la situación sanitaria, comparando la situación de Formosa con las restricciones de ingreso en otros países, como Inglaterra con Dinamarca,  justificando las medidas restrictivas en Formosa como una medida necesaria para proteger a sus ciudadanos.",
+      "entidades_detectadas": [
+        "Dinamarca",
+        "Trabajo",
+        "Seguridad",
+        "Formosa",
+        "Inglaterra",
+        "Justicia",
+        "González"
+      ]
+    },
+    {
+      "frase": "Esta respuesta fue considerada inaceptable por muchos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La muerte de un joven ahogado al intentar cruzar el río evidencia la gravedad de la situación.",
+      "entidades_detectadas": [
+        "río"
+      ]
+    },
+    {
+      "frase": "El gobierno de Formosa debe brindar explicaciones a la Corte Suprema y a Amnistía Internacional sobre las razones de estas medidas restrictivas y el protocolo de ingreso para los varados.",
+      "entidades_detectadas": [
+        "Formosa",
+        "Amnistía Internacional",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "La falta de trabajo de la administración pública desde marzo debido al COVID-19 ha contribuido al colapso del Estado y a la lentitud en la resolución del problema.",
+      "entidades_detectadas": [
+        "Estado",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "La muerte del joven ahogado desmiente la afirmación de que no han existido muertes por COVID-19 en Formosa.",
+      "entidades_detectadas": [
+        "Formosa",
+        "COVID-19"
+      ]
+    },
+    {
+      "frase": "Tailhade, según algunas opiniones,  ha actuado de manera conservadora al impulsar el juicio político contra el juez Carvajal.",
+      "entidades_detectadas": [
+        "juez Carvajal",
+        "Tailhade"
+      ]
+    },
+    {
+      "frase": "Amnistía Internacional, la Corte, la oposición y los manifestantes reclaman una solución a la situación de los varados.",
+      "entidades_detectadas": [
+        "Corte",
+        "Amnistía Internacional"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Fernando Carvajal",
+    "Hernández",
+    "COVID-19",
+    "Amnistía Internacional",
+    "juez Carvajal",
+    "Gildo Insfrán",
+    "Justicia",
+    "Inglaterra",
+    "río",
+    "AFI",
+    "Estado",
+    "Seguridad",
+    "Chaco",
+    "Estela Zavala",
+    "Argentina",
+    "Dinamarca",
+    "González",
+    "Hildiana",
+    "Corte",
+    "Corrientes",
+    "Corte Suprema",
+    "Luis Naidenoff",
+    "Trabajo",
+    "Formosa",
+    "Tailhade"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Hemos estado escuchando al Presidente de la República y, durante varias semanas, a legisladores, ministros, dirigentes e intendentes, hablar de la justicia con mucha fuerza e ímpetu.",
+      "entidades_detectadas": [
+        "presidente",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Cuando uno los escucha a Parrilli y a otros voceros de Cristina Kirchner hablar de un tribunal (como hablaba yo, también lo percibí) de arbitrariedades, están hablando de la Justicia Federal, que es donde se cometen los delitos contra la administración pública: corrupción, lavado de dinero, narcotráfico; y no de la justicia que tal vez tenga que ver más con lo que pasa en la calle: robos, asesinatos, gente que...",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Ayer el Presidente dijo que el Poder Judicial se manejaba en los márgenes de la República y a los narcotraficantes y los posibles terroristas se los está acusando desde la justicia casi como si fuera justamente una mafia.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Los mensajes llegaban desde la Presidencia para intentar anular la sesión que ayer expulsó al senador Cuéllar de la Cámara Alta.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "El motivo, la excusa, era que Villa-Ruel no debió presidirla porque debía estar a cargo del Poder Ejecutivo, ya que el presidente había viajado a Italia al mediodía.",
+      "entidades_detectadas": [
+        "presidente",
+        "italia"
+      ]
+    },
+    {
+      "frase": "Estaba cumpliendo la función propia del vicepresidente: presidir los debates en el Senado de la Nación.",
+      "entidades_detectadas": [
+        "senado"
+      ]
+    },
+    {
+      "frase": "Esto debe resolverse conforme a los tratados entre Argentina y Paraguay sobre colaboración en causas penales.",
+      "entidades_detectadas": [
+        "argentina",
+        "paraguay"
+      ]
+    },
+    {
+      "frase": "El país receptor puede considerar la gravedad del delito y ponerlo a disposición de la justicia argentina o, preservando el principio de territorialidad, esperar a que cumpla la pena en Paraguay.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

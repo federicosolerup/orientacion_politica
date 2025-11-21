@@ -1,0 +1,304 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Bueno, algunas provincias que ya realizaron sus elecciones primarias tendrán las elecciones generales el 10 de septiembre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Entre ellas, Santa Fe.",
+      "entidades_detectadas": [
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Marcelo Lewandowski, senador nacional y candidato a gobernador de Santa Fe, ganó su interna y ahora se enfoca en la gobernación.",
+      "entidades_detectadas": [
+        "Marcelo Lewandowski",
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Marcelo, buen día.",
+      "entidades_detectadas": [
+        "Marcelo"
+      ]
+    },
+    {
+      "frase": "**Marcelo:** Buen día Jorge, ¿cómo estás?",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Buen día Jorge"
+      ]
+    },
+    {
+      "frase": "Buen día a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:** Igualmente, Marcelo.",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Bueno, ya con la vista puesta en la gobernación, ¿no?",
+      "entidades_detectadas": [
+        "Bueno",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Marcelo:** Sí, sí, la tenemos cerquita.",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Sí"
+      ]
+    },
+    {
+      "frase": "La semana que viene, el 10 de septiembre, tenemos una definición electoral.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Presentaremos nuestras propuestas, especialmente nuestro plan de viviendas, tan necesario en un momento en que el alquiler es tan caro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Proponemos construir viviendas con cuotas accesibles, para que quienes pagan alquiler puedan acceder a la propiedad de su casa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta iniciativa ha sido bien recibida por la Cámara de la Construcción.",
+      "entidades_detectadas": [
+        "Cámara de la Construcción"
+      ]
+    },
+    {
+      "frase": "Además, contemplaremos la construcción de viviendas para alquiler,  inspirándonos en el modelo uruguayo.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Proponemos exenciones e  impuestos provinciales para que las empresas construyan viviendas y las destinen al alquiler durante los primeros cinco años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después, podrán venderlas o seguir alquilándolas.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Esta es una solución a una gran necesidad: hay más de 100.000 personas anotadas para una vivienda, y seguramente muchas más familias que necesitan una casa propia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:** Hay muchos departamentos ociosos también, Marcelo.",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "**Marcelo:**  Sí, pero según la Cámara de la Construcción, solo hay entre un 5% y un 6% de departamentos ociosos.",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Sí",
+        "Cámara de la Construcción"
+      ]
+    },
+    {
+      "frase": "Hay otro problema: en muchos barrios, familias que crecieron o por inseguridad quieren vender casas grandes y no pueden.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto no solo se debe a la inseguridad, sino también a un cambio de hábitos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con el mismo precio, se puede comprar un departamento con amenities.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es curioso: hay una explosión inmobiliaria en Rosario, pero faltan viviendas.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "**Jorge:** Totalmente.",
+      "entidades_detectadas": [
+        "Totalmente",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Sabemos que detrás de esto hay un importante negocio inmobiliario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Marcelo:** Claro.",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Claro"
+      ]
+    },
+    {
+      "frase": "Después de la pandemia, la gente busca construir en las afueras de las ciudades, buscando más espacios verdes y tranquilidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La demanda es grande, y nuestra propuesta es una apuesta importante para solucionar este problema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:** Marcelo, ¿qué opinas del nuevo plan económico, los aumentos y el pedido de colaboración a las provincias?",
+      "entidades_detectadas": [
+        "Marcelo",
+        "¿",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Santa Fe ya dijo que no, e incluso el gobernador criticó duramente el plan.",
+      "entidades_detectadas": [
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "**Marcelo:** Creo que hay que hacer todo lo posible para que la gente tenga un ingreso que supere la inflación.",
+      "entidades_detectadas": [
+        "Marcelo"
+      ]
+    },
+    {
+      "frase": "Si bien las provincias tienen mecanismos distintos de ajuste automático por inflación en las paritarias,  soy partidario de pagar el bono de 30.000 pesos en dos cuotas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay que ayudar a la gente, especialmente a los trabajadores, que son los que más lo necesitan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:** Mauro, ¿qué tal?",
+      "entidades_detectadas": [
+        "Jorge",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "¿Cómo estás?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Mauro:** Hola Jorge, bien, gracias.",
+      "entidades_detectadas": [
+        "Hola Jorge",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "**Jorge:**  Mauro, el desafío electoral no es sencillo.",
+      "entidades_detectadas": [
+        "Jorge",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Ganaste la interna, pero te enfrentas a candidatos de Juntos por el Cambio y a un conglomerado de oposición.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "¿Cuál es tu estrategia para la campaña final?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "**Mauro:** Estoy mostrando las incoherencias de mis contrincantes.",
+      "entidades_detectadas": [
+        "Estoy",
+        "Mauro"
+      ]
+    },
+    {
+      "frase": "Quieren mostrar un pasado tenebroso para Santa Fe,  ignorando los doce años de gobierno que nos trajeron a este escenario de violencia.",
+      "entidades_detectadas": [
+        "Santa Fe",
+        "Quieren"
+      ]
+    },
+    {
+      "frase": "Mi contrincante fue ministro de seguridad y dejó 1400 muertos en la provincia, y ahora se presenta como alguien que combatirá la inseguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, hay conversaciones telefónicas comprometedoras que involucran a su equipo.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "La gente debe decidir: ¿volver al pasado o buscar un futuro diferente?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la elección del domingo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge:**  Marcelo, seguiremos de cerca estas elecciones.",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "Un abrazo grande.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Marcelo:** Gracias Jorge, un abrazo.",
+      "entidades_detectadas": [
+        "Marcelo",
+        "Gracias Jorge"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estoy",
+    "Marcelo Lewandowski",
+    "Totalmente",
+    "Presentaremos",
+    "Buen día Jorge",
+    "Rosario",
+    "Mauro",
+    "Además",
+    "?  Buen",
+    "Marcelo.",
+    "Claro",
+    "¿Cuál",
+    "Quieren",
+    "Juntos",
+    "Santa Fe",
+    "Gracias Jorge",
+    "Bueno",
+    "Después",
+    "Cambio",
+    "Marcelo",
+    "¿",
+    "Hola Jorge",
+    "Jorge",
+    "Sí",
+    "Cámara de la Construcción"
+  ]
+}

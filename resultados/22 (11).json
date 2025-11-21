@@ -1,0 +1,386 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "A las cinco de la tarde, me demoré un rato mientras veíamos un fragmento del partido que había comenzado hacía apenas unos minutos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nos juntamos con algunos compañeros de producción a los pocos minutos del final para repasar algunos temas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me demoré; salí cerca de las cinco y media.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No había nadie en la calle; te imaginas, todos estaban mirando el partido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Al cruzar la puerta de C5N, vi a tres personas sentadas en la escalera.",
+      "entidades_detectadas": [
+        "C5N"
+      ]
+    },
+    {
+      "frase": "A veces miramos sin ver, pero no me preguntes por qué, sentí como un presentimiento, una intuición de que alguien necesitaba ayuda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes de terminar de bajar la escalera, sin que me vieran, escuché: \"¿Me puede dar una mano?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y así fue.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Daniel y María son un matrimonio que vive en Marcos Juárez, provincia de Córdoba.",
+      "entidades_detectadas": [
+        "provincia de Córdoba",
+        "Daniel",
+        "María",
+        "Marcos Juárez"
+      ]
+    },
+    {
+      "frase": "Estaban allí sentados con Nayara.",
+      "entidades_detectadas": [
+        "Nayara"
+      ]
+    },
+    {
+      "frase": "Nayara, automáticamente, llevaba puesto un barbijo.",
+      "entidades_detectadas": [
+        "Nayara"
+      ]
+    },
+    {
+      "frase": "El hombre me dijo: \"Ella es como Messi\".",
+      "entidades_detectadas": [
+        "Messi"
+      ]
+    },
+    {
+      "frase": "Lo miré y le pregunté: \"¿Cómo Messi?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Él respondió: \"Sí, tiene un déficit hormonal de crecimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiene 14 años, aunque parece de 9, porque es muy pequeña\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te quedas impactado al ver a una niña tan pequeña con un problema de hormona de crecimiento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No tiene problemas físicos, salvo eso que se nota, como le pasaba a Lionel Messi.",
+      "entidades_detectadas": [
+        "Lionel Messi"
+      ]
+    },
+    {
+      "frase": "Recuerda, Lionel tenía una edad que no coincidía con su apariencia física debido a ese déficit hormonal, que tiene tratamiento, pero muy costoso, lo que le impedía crecer con normalidad.",
+      "entidades_detectadas": [
+        "Lionel"
+      ]
+    },
+    {
+      "frase": "Me dijeron: \"Somos de Marcos Juárez y venimos porque necesitamos este medicamento\".",
+      "entidades_detectadas": [
+        "Marcos Juárez"
+      ]
+    },
+    {
+      "frase": "Inmediatamente me mostraron la cajita de un medicamento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Uno siente una gran responsabilidad como ciudadano, como ser humano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los miras y piensas: \"¿Qué puedo hacer por esta gente?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dijeron: \"¿Sabe cuánto cuesta esta cajita?",
+      "entidades_detectadas": [
+        "Sabe"
+      ]
+    },
+    {
+      "frase": "Un millón de pesos\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Automáticamente piensas: \"¿Por qué esta persona, que vive a 600 kilómetros de Buenos Aires, en Marcos Juárez, provincia de Córdoba, está sentada en la puerta de un canal?\".",
+      "entidades_detectadas": [
+        "provincia de Córdoba",
+        "Buenos Aires",
+        "Marcos Juárez"
+      ]
+    },
+    {
+      "frase": "Cuando les pregunté, me contaron: \"Fuimos al municipio a pedir ayuda, pero no nos dieron bola.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se nos ocurrió venir a C5N para contar nuestra historia y ver si podemos generar solidaridad, conseguir ayuda\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En C5N estaban ocupados con otra cosa; la gente veía el partido, y yo justo salía, así que me engancharon a mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En ese momento pensé: \"Qué mala suerte\", pero también me sentí bendecido.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Los periodistas tenemos la ventaja de contar con contactos en muchos lugares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llamé a una persona que conozco en el gobierno de Córdoba.",
+      "entidades_detectadas": [
+        "Córdoba"
+      ]
+    },
+    {
+      "frase": "Le conté la historia frente al padre, cuya cara me conmovió profundamente (si quieres, podemos mostrar la foto más tarde).",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pensé: \"No puede ser que esta cara esté frente a un intendente o un gobernador y no le transmita la misma emoción que a mí\".",
+      "entidades_detectadas": [
+        "Pensé"
+      ]
+    },
+    {
+      "frase": "Le dije: \"Banca, ¿puedes hacer algo?\".",
+      "entidades_detectadas": [
+        "¿",
+        "Banca"
+      ]
+    },
+    {
+      "frase": "Esa persona me conectó con alguien de Desarrollo Social de la provincia de Córdoba, quien me dijo que iban a llamarlos.",
+      "entidades_detectadas": [
+        "provincia de Córdoba",
+        "Desarrollo Social"
+      ]
+    },
+    {
+      "frase": "Sentí que iban a demorarse.",
+      "entidades_detectadas": [
+        "Sentí"
+      ]
+    },
+    {
+      "frase": "Tenía que irme a otro compromiso a las seis.",
+      "entidades_detectadas": [
+        "Tenía"
+      ]
+    },
+    {
+      "frase": "Le dije: \"Avisame si no te llaman, y nosotros haremos la gestión para acelerar el proceso\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A los quince minutos, me llamó: \"Me llamaron\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"¿Qué te dijeron?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Que van a resolverlo, porque no tenían dónde dormir\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La familia –Nayara, María y Daniel– no tenía dónde dormir ni dinero para el pasaje de vuelta.",
+      "entidades_detectadas": [
+        "María",
+        "Nayara"
+      ]
+    },
+    {
+      "frase": "Hablé con el funcionario; les dieron un voucher para un hotel en el Congreso.",
+      "entidades_detectadas": [
+        "Congreso",
+        "Hablé"
+      ]
+    },
+    {
+      "frase": "Se quedaron allí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta mañana, volví a hablar con ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me dijeron: \"Nos tenemos que ir del hotel; estamos esperando el pasaje de vuelta\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablé con un funcionario, Sebastián Serrano, subsecretario del área de Desarrollo Social del gobierno de Córdoba, quien me dijo: \"Quédate tranquilo, vamos a ayudar a esta gente.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Hablé",
+        "Sebastián Serrano",
+        "Desarrollo Social"
+      ]
+    },
+    {
+      "frase": "Una trabajadora social se contactará con ellos y les dará la asistencia que necesitan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé si se podrá conseguir ese medicamento, pero quédate tranquilo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No entiendo cómo la política no resuelve esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pensé lo mismo.",
+      "entidades_detectadas": [
+        "Pensé"
+      ]
+    },
+    {
+      "frase": "No importa si Nayara es \"como Messi\", si tiene o no el potencial de Lionel Messi.",
+      "entidades_detectadas": [
+        "Lionel Messi",
+        "Messi",
+        "Nayara"
+      ]
+    },
+    {
+      "frase": "Nayara tiene mucho más que Messi; tiene ganas de vivir y de luchar contra una vida difícil que impide a sus padres darle la contención necesaria.",
+      "entidades_detectadas": [
+        "Messi",
+        "Nayara"
+      ]
+    },
+    {
+      "frase": "Pensaba en la angustia de los padres, en su impotencia para ayudar a su hija.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, a través de un medio de comunicación, se contactaron con la autoridad política y empezaron a encontrar una salida del laberinto en el que los había metido la enfermedad de Nayara.",
+      "entidades_detectadas": [
+        "Ayer",
+        "Nayara"
+      ]
+    },
+    {
+      "frase": "Un sistema que exige que las personas se movilicen 600 kilómetros sin dinero para conseguir una respuesta que podrían haber obtenido mucho más cerca.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quizás la misma intendenta de Marcos Juárez, a quien pidieron ayuda hace tres meses sin éxito.",
+      "entidades_detectadas": [
+        "Marcos Juárez"
+      ]
+    },
+    {
+      "frase": "Terminó siendo el gobierno de Córdoba el que intervino.",
+      "entidades_detectadas": [
+        "Córdoba"
+      ]
+    },
+    {
+      "frase": "Fue una solución de rebote, porque cuando algo me angustia, la única manera de quitarme la angustia es actuar con decisión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso fue lo que hicimos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como me explicó alguna vez mi viejo, eso hace cualquier persona de bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pensemos en todas las Nayaras que hay en Argentina, atravesadas por el dolor y la bronca.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Nayaras"
+      ]
+    },
+    {
+      "frase": "¿Para qué sirve el Estado?",
+      "entidades_detectadas": [
+        "Estado?",
+        "¿"
+      ]
+    },
+    {
+      "frase": "Tiene que servir para esto, para ayudar a la gente que más lo necesita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Daniel, María, pero fundamentalmente Nayara, como alguna vez nos enseñaron, debería ser la única privilegiada.",
+      "entidades_detectadas": [
+        "Daniel",
+        "María",
+        "Nayara"
+      ]
+    },
+    {
+      "frase": "Son las 23:00, y estás escuchando a Sergio Muslera en Radio 10.",
+      "entidades_detectadas": [
+        "Sergio Muslera"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "Daniel",
+    "Automáticamente",
+    "Sentí",
+    "Desarrollo Social",
+    "Qué",
+    "Lionel",
+    "Lionel Messi",
+    "Córdoba",
+    "Pensemos",
+    "Hablé",
+    "Tenía",
+    "Llamé",
+    "provincia de Córdoba",
+    "Pensaba",
+    "Argentina",
+    "Pensé",
+    "Ayer",
+    "María",
+    "Estado?  Tiene",
+    "C5N",
+    "Buenos Aires",
+    "Nayaras",
+    "Terminó",
+    "¿",
+    "Messi",
+    "Nayara",
+    "Sergio Muslera",
+    "Sebastián Serrano",
+    "Banca",
+    "Marcos Juárez"
+  ]
+}

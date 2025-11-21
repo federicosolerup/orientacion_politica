@@ -1,0 +1,73 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Primero, hace un rato hubo actividad en el Congreso y, finalmente –es una formalidad, pero no tanto y ahora les voy a decir por qué–, se proclamó el resultado definitivo de las elecciones y quiénes van a ir al balotaje, cosa que todos ustedes saben, pero en tiempos en los cuales se está poniendo en cuestión la democracia, se pone en cuestión el sistema electoral, se siembran dudas sobre si hubo o no fraude, todas estas cuestiones que parecen meras formalidades institucionales son importantes y recobran su importancia.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "Mientras estaban en el Congreso proclamando las dos fórmulas que van al balotaje y se cantaba el himno, estaban los dos candidatos que van a ir al balotaje el 19 de noviembre.",
+      "entidades_detectadas": [
+        "congreso"
+      ]
+    },
+    {
+      "frase": "La Asociación Argentina de Profesores y Profesoras de Derecho Penal, diciendo, \"ojo que está en riesgo la democracia, no es joda lo que está pasando\", y por eso es importante lo que sucedió hoy en el Congreso, y es importante también esta gestualidad de **Milei** tirado contra la pared, como que eso no le importa.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Que lo más probable es que haya sido la misma mesa que el telegrama falló en el escrutinio provisorio, pero lo más interesante es que hace unos minutos nada más la Cámara Nacional Electoral envió el resultado del escrutinio definitivo, que ese es el que vale.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Eso desató un intento de golpe de estado en enero de este año en Brasil y que ahora trabaja para **Milei** y está haciendo el mismo trabajo, bajo la consigna de \"si ganamos, ganamos a pesar del fraude, y si perdemos, perdemos por culpa del fraude\".",
+      "entidades_detectadas": [
+        "estado",
+        "brasil"
+      ]
+    },
+    {
+      "frase": "Ustedes saben que la ley argentina establece que todas las encuestas publicadas tienen que especificar quién la pidió, cuánto pagó y cuál fue la metodología.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Voy a hacer una pequeña disculpa por un poquito de autobombo, pero hoy salió en la edición de *Le Monde* de Francia una nota sobre el peligro de **Milei** y cita las investigaciones que hicimos en El Destape donde mostramos dos cosas: primero, que en la ONG de **Victoria Villarruel** se reúnen los empresarios más importantes del país, sus abogados, los que los patrocinan y los defensores de genocidas en el mismo esquema que hubo en la dictadura empresario militar.",
+      "entidades_detectadas": [
+        "francia"
+      ]
+    },
+    {
+      "frase": "Y la otra nota que mostrábamos, las visitas de **Villarruel** a los genocidas que son los escribas de sus textos para reivindicar el terrorismo de estado para imponer un plan económico.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Entonces hay una mirada del mundo también que está preocupada de que en la Argentina vuelvan a asumir personajes que quieran imponer modelos económicos que generen pobreza, que generen miseria, que generen violencia, pero esa violencia va a ser ejercida para callar cualquier voz crítica sobre esos modelos económicos.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "*   **Nombres y Apellidos:** Se verificaron y corrigieron los siguientes nombres y apellidos:\n    *   Sergio Massa\n    *   Javier Milei (corregido de \"Millet\")\n    *   Patricia Bullrich\n    *   Facundo Cruz\n    *   Alfredo Serrano Mancilla\n    *   Fernando Cerimedo (corregido de \"Serimedo\")\n    *   Jair Bolsonaro\n    *   Victoria Villarruel\n    *   Cecilia Pando\n    *   Mauricio Macri\n    *   Horacio Rodríguez Larreta (corregido de \"Garreta\")\n\n*   **Cohesión y Coherencia:** Se mejoró la cohesión y coherencia del texto al reorganizar algunas frases y párrafos para que el flujo de ideas sea más lógico y claro.",
+      "entidades_detectadas": [
+        "javier",
+        "bullrich",
+        "sergio",
+        "larreta",
+        "massa",
+        "macri",
+        "bolsonaro",
+        "milei"
+      ]
+    }
+  ]
+}

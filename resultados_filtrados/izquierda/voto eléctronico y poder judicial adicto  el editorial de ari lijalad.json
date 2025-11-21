@@ -1,0 +1,42 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Se acerca un año electoral, y la forma de elegir a quienes gobernarán desde el Estado es a través del voto.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Ya les conté que la única empresa que provee este sistema, Magic Software Argentina (MSA), lo patentó como un sistema de voto electrónico.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Poco después, Mauricio Macri lo nombró embajador en Estados Unidos.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Es decir, votaremos con un sistema de voto electrónico que es manipulado diariamente por Horacio Rodríguez Larreta y la empresa Magic Software Argentina, y que no ha sido auditado para su uso el 13 de agosto.",
+      "entidades_detectadas": [
+        "larreta"
+      ]
+    },
+    {
+      "frase": "Venezuela tiene el peor sistema; Brasil también presenta fallas; y en la India, especialistas que denunciaron los errores fueron encarcelados.",
+      "entidades_detectadas": [
+        "venezuela",
+        "brasil"
+      ]
+    },
+    {
+      "frase": "En medio de todo esto, el Instituto de Gestión Electoral Porteño, la autoridad de aplicación, no tenía presidente designado.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

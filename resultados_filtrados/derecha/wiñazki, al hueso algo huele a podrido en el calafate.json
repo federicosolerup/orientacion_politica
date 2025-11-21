@@ -1,0 +1,33 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El 5 de julio de 2020, se encontró muerto a Fabián Gutiérrez, exsecretario privado de Cristina Fernández de Kirchner, en El Calafate.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Según el abogado de Facundo Saeta, uno de los acusados, el teléfono fue roto tras haber estado en poder del juez Narvarte.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Su abogado, Carlos Técheldín, admite que Saeta planeó el robo a Gutiérrez, pero niega su participación en el asesinato, alegando la participación de personas poderosas.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "La fiscal a cargo del caso, Natalia Mercado, es sobrina de Cristina Fernández de Kirchner, hija de Alicia Kirchner y prima de Máximo Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "máximo",
+        "fernández",
+        "kirchner"
+      ]
+    }
+  ]
+}

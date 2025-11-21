@@ -1,0 +1,35 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "En algunas provincias, se reportan precios aún mayores; en Salta y Jujuy, llega a los 1500 pesos.",
+      "entidades_detectadas": [
+        "salta"
+      ]
+    },
+    {
+      "frase": "Una solución más adecuada sería la reducción de impuestos, dado que Argentina sufre una alta carga impositiva.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "En cuanto a las reservas del Banco Central, según datos del 26 de junio de 2024, bajo la presidencia de Javier Milei, estas ascendían a 29.886 millones de dólares.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "La población votó a Milei confiando en su promesa de no intervención en la economía, promesa incumplida.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Esta situación es producto de una combinación de factores, entre ellos, la elección de un presidente y un ministro de economía cuestionados, y el apoyo de sectores empresariales, mediáticos y políticos.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    }
+  ]
+}

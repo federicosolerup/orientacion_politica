@@ -1,0 +1,416 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 43,
+      "derecha": 37
+    },
+    "score_promedio": 0.451,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, hubo de alguna manera como un cambio de atmósfera, por lo menos así lo estoy viendo yo después del atentado contra Cristina del jueves pasado y obviamente queremos saber cómo lo estás viendo vos, ¿no?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, me parece que lo que hay que observar, analizar, mirar sus consecuencias, sus derivaciones, es la potencia enorme que tiene esta inercia de polarización que tiene la sociedad argentina y sobre todo la clase política argentina.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque cuando uno toma contacto con analistas de opinión pública, a mí me tocó estar en contacto con gente que estuvo haciendo *focus groups* esta semana que pasó, antes del atentado, lo que te señalan es que daría la impresión de que, por lo menos en la Capital Federal, intuyo que en el interior del país, más todavía, la gran mayoría de la población va por otro camino, están sufriendo otros padecimientos, hay un estado emocional de angustia que hacía mucho tiempo no se registraba en la Argentina.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay argumentación, hay crítica, hay reproches y además hay modulaciones de esos discursos que bordean el odio, la agresión ya ilimitada al otro.",
+      "score": 0.29,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo recuerdo esa canción de Nacha Guevara satírica que hablaba justamente de \"al odio venceremos\", no recuerdo ahora el título, a lo mejor vos te acordás, Pancho.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pude leer un libro interesantísimo que se llama *El Tirano*, es un libro de un historiador de la literatura de Harvard, es *La política en Jekyll* y ahí habla del fanatismo y dice que el fanático ve tan claro lo que ve, duda tan poco de lo que ve, está tan aferrado a sus prejuicios o a sus convicciones que le parece que el que no lo ve necesariamente tiene que ser un perverso.",
+      "score": 0.099,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todavía no sabemos qué es este atentado, esto es muy importante decirlo, hay una especie de ansiedad por definir que viene por supuesto de la angustia que produce esto que sucedió, y muy pocos datos hasta ahora, por eso mismo uno quiere saber rápido qué es un poco para exorcizar ese mal y descartar o aliviar la perturbación que genera la vulnerabilidad de alguien a quien buena parte de la sociedad, los que la aman y los que la detestan, consideran invulnerable, que es Cristina Kirchner.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mucha gente la vulnerabilidad de Cristina Kirchner es un rasgo inconcebible, un poco la animadversión a Cristina Kirchner también infunde ese sentimiento.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es tan mala, tan maquiavélica, tan perversa, todo lo calcula que no la pueden matar, no le puede pasar lo que le pasó, no puede estar desesperada tampoco, no puede estar perdida, estos son supuestos de mucha gente que la mira es de ese ángulo.",
+      "score": 0.341,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Normalmente, esos fenómenos de radicalización que estudia la literatura tienen que ver con agravios que ha sentido esa gente.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando fue el atentado a Juan Pablo II, **Mehmet Ali Ağca**, no sé si vos recordás aquel turco que le dispara a Juan Pablo II y lo hiere, él no sabía, era un loco, pero no sabía que había un aparato de inteligencia que lo estaba manipulando y que tenía que ver con fuerzas de inteligencia comunistas que estaban obviamente muy enemistadas con el Papa, que estaba en una tarea sistemática de descomposición del comunismo proveniente de Bulgaria.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Fernando Sabag Montiel** tiene tatuajes de una organización que se llama Batallón Azov, es un grupo nazi, con operación en Rusia y operación en Ucrania.",
+      "score": 0.794,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una organización nazi **neo-arqueológica**, es decir, estamos hablando de que él le rinde homenaje a una organización nazi del tiempo del nazismo, a una organización nazi que operaría hace 30 años, no.",
+      "score": 0.34,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué pasó con la custodia de Cristina Kirchner?",
+      "score": 0.723,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando uno mira el atentado a **Reagan**, por ejemplo, ve cómo se le tiran encima a Reagan, y se le tiran encima después y lo reducen los de la custodia de Reagan al atacante.",
+      "score": 0.167,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo tengo una teoría absolutamente delirante, recetida de culpas, creo que le tienen tanto miedo que ni siquiera supieron protegerla.",
+      "score": 0.829,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijeron: \"No, cómo me voy a tirar encima, a lo mejor le quiebro una pierna y me echan\".",
+      "score": 0.536,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos software que sirven para acceder a la información de un teléfono están diseñados para que, si alguien se equivoca, pueda seguir cumpliendo su objetivo de obtener la información.",
+      "score": 0.168,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Interesa que se recuperen esos datos mediante la nube, que decían que había que hacer un pedido afuera?",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente llamó a la jueza para pedirle cuidado, protejan la vida del atacante.",
+      "score": 0.318,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, eso lo dijo en la cadena, Alberto Fernández.",
+      "score": 0.929,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un colaborador le dijo, aparentemente, tengo entendido yo, mira, llamala para que lo pongan a este hombre en un lugar cuidado, en la alcaidía, que no lo manden a una cárcel común donde puede pasar cualquier cosa.",
+      "score": 0.464,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, no se le ocurrió llamar al...",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto que es el presidente y que esa es una jueza, y que no hay que cruzar esa avenida, pero la cruzó.",
+      "score": 0.374,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se le ocurrió llamar a quien sí debía llamar.",
+      "score": 0.552,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, estamos por lo menos ante los misterios del Estado Argentino.",
+      "score": 0.393,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el gobierno, por ejemplo, sobre todo en el entorno de Cristina Kirchner, están muy interesados en Crónica TV.",
+      "score": 0.726,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Era él que buscaba la cámara o alguien lo contrataba como una especie de extra para que se hable en contra del gobierno frente a las cámaras de televisión o a los movileros del programa?",
+      "score": 0.792,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y dice una frase, algo así, cita a Milei y dice: \"Milei dice que a todos los corruptos hay que tratarlos por igual\".",
+      "score": 0.736,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei había dicho algo parecido, \"a los corruptos hay que tratarlos por igual como al común de los ciudadanos\".",
+      "score": 0.356,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿De dónde viene la palabra civil que atraviesa por la boca de esta chica?",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente porque si decimos que es un lobo solitario, le podemos imputar que es casi una víctima del clima de odio, como dijo el presidente, que genera la justicia.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde esa frase del presidente en el discurso del jueves a la noche, la madrugada del viernes, hay una línea recta hasta la barbaridad que dijo el senador **Mayans**: \"Si quieren paz social hay que suspender el juicio de Vialidad\".",
+      "score": 0.841,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Senador de la nación, presidente de bloque, representante de la provincia de Formosa, \"si quieren paz social hay que suspender ya el juicio de Vialidad\".",
+      "score": 0.954,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El secretario de Estado de Estados Unidos, **Antony Blinken**, hoy hubo una declaración conjunta de los presidentes de las dos comisiones de relaciones exteriores de Estados Unidos repudiando el atentado.",
+      "score": 0.128,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Carlos Menem sufre en el mes de octubre, calculo, fines de septiembre-octubre del 93, una obstrucción en la carótida.",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, 14 de octubre del 93 lo operan a Menem exactamente.",
+      "score": 0.504,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "14 de octubre, a los pocos días, 15, 16 de octubre, va Alfonsín a visitar.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El país estaba partido en dos por el intento del menemismo de avasallar la Constitución con un plebiscito.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reformar la Constitución con números que no eran los reglamentarios en el Congreso.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alfonsín pedía a gritos un acuerdo porque el menemismo arrasaba con las instituciones y arrasaba con el radicalismo, que efectivamente después se quebró.",
+      "score": 0.932,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfonsín utilizó, no digo que no haya sido sincera su visita, pero suspendió el nivel acérrimo de enemistad que tenía con Menem en ese momento, lo visitó y se inició una política de coordinación y de acuerdo.",
+      "score": 0.424,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el 2010, 27 de octubre, muere Néstor Kirchner.",
+      "score": 0.304,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner también aparece en una situación de vulnerabilidad como ahora, viuda.",
+      "score": 0.831,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La muerte de Kirchner no sirvió para que nadie fundara en ella un proceso de acuerdo, porque no hacía falta el acuerdo, porque el negocio político era la confrontación.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que hay la decisión de determinados núcleos, no estoy hablando de todos, quiero subrayar, es obvio que hubo comunicados que se firmaron en conjunto en el Senado, en la Cámara de Diputados, hubo un comunicado que quiso hacer firmar a todas las organizaciones religiosas el poder ejecutivo y no hacerlo firmar a todas, porque ya el comunicado presumía que no quería el consenso.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque la idea de la confrontación era previa, así como la del acuerdo era previa con el pacto de Olivos que decías recién, en este caso, vos estás diciendo, es previa la mala actitud hacia el otro, digamos.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, en España hemos visto centenares de manifestaciones de toda la clase política repudiando el terrorismo, pero cuando fue a Trichoja se mantuvo la polarización, porque había una elección al día siguiente o en esa semana.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que quiere desmarcarse de ese juego, por ejemplo **Facundo Manes**, diciendo: \"no me parece que por una declaración desafortunada haya que iniciar un juicio político al presidente de la nación, porque gastamos una herramienta delicada\", el que quiere escapar de ese juego es condenado.",
+      "score": 0.478,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sabemos qué va a pasar con la figura política de Cristina Kirchner, Pancho, después de estos hechos.",
+      "score": 0.752,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay quienes dicen: \"bueno, le puede pasar que la percepción de que es una víctima, porque hay que decir, no es que se victimiza, es una víctima, la quisieron matar, le mejore la imagen\".",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, le tira encima al juez, **Rodrigo Jiménez Uriburu**, que preside el tribunal que está juzgando a Cristina y a los demás imputados en esa causa, que su mujer es nieta de un coronel que produjo la masacre de Margarita Belén con desaparecidos, etcétera.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que Horacio se equivocó, y sí, se equivoca en un tema importante, porque es tirarle la represión ilegal a una familia encima después, porque el abuelo no era el abuelo, el verdadero abuelo de la mujer del juez es un coronel también del ejército, que era **Hornos** de apellido, **Gaspar Roberto Hornos**, no **Armando Hornos** como el que mencionaba, que se había retirado antes del año 63, sí, que en el 63 ya se ha retirado, era un militar democrático que formaba parte del directorio de YPF del gobierno de Illia.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Exactamente, bueno, lo importante de todo esto que terminó cometiendo el error, la vicepresidenta de la nación en un discurso que ella pretende que sea histórico, en un discurso histórico quedó contaminado por la bajeza de acusar a una familia de haber tenido antecedentes en la represión clandestina, y Verbitsky dice otra cosa que es exquisita, dice: \"nadie odia más el error que el que lo comete\", probablemente la familia Hornos odie más el error que él, dijimos hay un egocentrismo llamativo, pero bueno, demos vuelta la página porque eso ya está, Pancho.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y estábamos diciendo eso que es evidente que Cristina Kirchner se ha ratificado como la jefa del peronismo hoy, en alguna medida el peronismo necesita salir del tema corrupción, no solamente por la corrupción del gobierno kirchnerista, por la corrupción de muchos dirigentes peronistas, de muchos gobernantes de la Argentina, lo hemos dicho muchas veces, si aplicáramos el mismo patrón que se aplica en Santa Cruz a otras provincias no encontraríamos la dimensión de Santa Cruz, es cierto, delirante, todo hecho con una sola empresa, pero encontraríamos cosas parecidas, entonces mejor que sea una persecución entre comillas, no un juicio justo.",
+      "score": 0.26,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, eso le da a ella la posibilidad de ser la que organiza el partido, no sabemos si todavía va a ser la candidata, ella no lo sabe, pero ella puede decidir quién es el candidato, para eso depende de cómo esté la economía.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora es una pregunta que se tiene que hacer también la oposición, si yo fuera dirigente de la oposición, no estaría tan confiado en que la polarización extrema es una política saludable, conveniente, conveniente para mis intereses, porque si llevo a gobernar, ¿cómo hago para gobernar con esta Cristina fortalecida que maneja un 20, un 25, un 30% del electorado y controla una minoría muy homogénea, supermovilizada?",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Alguien pensó si las reformas que requiere la Argentina no exigen algún tipo de diálogo?",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, fuera de esto, también Cristina, para fortalecerse, necesita que la gestión de Massa sea relativamente exitosa.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está llegando a Washington, va a tener reuniones, **Jorge Argüello** le armó una agenda muy similar a la de Batakis.",
+      "score": 0.098,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argüello, que está demostrando ser un gran embajador, hoy mencionamos los dos comunicados que, en alguna medida, consiguió Argüello en relación con el atentado contra Cristina, le ha armado unas reuniones con las figuras más importantes del Tesoro, salvo, **Janet Yellen**, va a estar con **David Lipton**, que fue el encargado del programa que se celebró con la Argentina en el fondo en tiempos de Macri, y hoy es el principal asesor en materia de política internacional de Yellen y es el que le dice a Yellen qué pasa en la Argentina, y es importante porque Yellen, la secretaria del Tesoro, es determinante en el fondo.",
+      "score": 0.011,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Claver Carone, que es un enemigo de Alberto Fernández, un poco por herencia de **Beliz**, que tiene una gran competencia con Claver Carone por conducir el VIF, Massa llega ahí por sus amigos republicanos de ultraderecha, digamos, que son básicamente dos cubanos, **Mario Díaz-Balart**, demócrata, presidente de la comisión de relaciones exteriores de la Cámara de Representantes, y **Marco Rubio**, que es la figura más importante de lo que serían los republicanos, digamos, ligados a Trump en el estado de Florida.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos son amigos de Massa y a través de ellos llega a Claver Carone, que pertenece a la misma mesa cubana.",
+      "score": 0.676,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí la cuestión es si consigue unos 800 millones de dólares que tendría para desembolsar el VIF en la Argentina y que se viene resistiendo a hacerlo con la excusa de que todavía no está aprobada la revisión de septiembre del fondo.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo llega Massa a Washington?",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo bendicen a Massa desde la Cámara, no lo bendice Cristina, pero lo toleran, cosas que ni el 10% le iban a tolerar a Guzmán.",
+      "score": 0.978,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, de hecho, Máximo dijo que está arreglando el desastre de Guzmán, incluso.",
+      "score": 0.934,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, subió la tasa de interés como no la subió Guzmán, que está a la derecha ortodoxa Massa de Guzmán.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que conocen mucho el mercado de granos dicen hay euforia por liquidar en este mes, y se podría pasar de 3.500 millones del mes pasado a 5.000 este mes.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene que decir que este dólar de 200 pesos, que implica una gran masa de emisión, que implica endeudamiento del tesoro con el Banco Central, etcétera, tiene un efecto y le va a mejorar la situación de reservas.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que todo esto va a ser, y lo podría decir con bastante certeza, que la revisión de septiembre, Massa la pasa, la del fondo.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, que le van a garantizar el desembolso que tendría que haber en septiembre para que siga funcionando el programa.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene la revisión del fondo y tiene la revisión de Cristina.",
+      "score": 0.882,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En diciembre del 2020, Cristina suspendió una negociación con el fondo, se la prohibió a Guzmán porque se negó al aumento de tarifas.",
+      "score": 0.716,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que si Cristina puede durante esta campaña hacer lo que hizo en la campaña del 21, porque tiene muchísimos menos dólares, en aquel momento, cuando le dijo a Guzmán: \"No sigas con este programa de ajuste, no aumentes las tarifas\", tenía 7.000 millones de dólares en el Banco Central.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, vamos a ver hasta dónde llega Massa y hasta dónde llegan con Massa.",
+      "score": 0.308,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y probablemente sea más tolerante la gente del fondo que Cristina.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me cuesta pensar cuál sería el programa que lleva adelante Cristina Kirchner sin dólares, si se desprende del programa de parches, maniobras, medidas razonables y humo que lleva adelante Massa.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que, como me decía hoy una economista de la oposición, hace lo correcto pero en una dimensión incorrecta.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver si Cristina Kirchner tiene un programa alternativo.",
+      "score": 0.64,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 80
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,466 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 59,
+      "derecha": 31
+    },
+    "score_promedio": 0.387,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "En una de esas investigaciones, con una metodología común –focus group–, uno de estos investigadores le preguntó a los participantes qué pasaba con la política en la Argentina.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Percibió un marcado estado de pesadumbre y desasosiego.",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo de este problema está la cuestión de la representación: hasta dónde la clase política tiene la capacidad, el oído, la plasticidad para representar el momento que estamos viviendo.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin poder es imposible transformar, sin poder es imposible salir de ese estado de desasosiego.",
+      "score": 0.455,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que no siempre está claro es que la pelea por el poder está atada a esos intereses, a esa forma de representación, a los valores que la gente espera que encarne.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este panorama de disputa política, en el corazón de los partidos, hoy hubo una novedad relevante: los tres cambios que realizó Alberto Fernández en su gabinete.",
+      "score": 0.52,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al mismo tiempo, se va **Claudio Moroni**, el ministro de Trabajo, probablemente la persona, en lo personal, más cercana –o de las más cercanas– a Alberto Fernández, aunque sea por antigüedad en la relación (fue su compañero en la facultad).",
+      "score": 0.205,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También se va el ministro de Desarrollo Social, **Juan Zabaleta**, quien vuelve a Hurlingham, a su localidad, a su municipio, para tratar –subrayo tratar– de recuperar (no podemos asegurar que lo logre) el timón de Hurlingham, que dejó en manos de quien era el presidente del Consejo Deliberante, un militante de La Cámpora.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que mirar estos cambios porque indican mucho de lo que está pensando Alberto Fernández respecto del poder, de cómo son sus relaciones con otros actores relevantes dentro del oficialismo –centralmente, **Cristina Kirchner**– y de cómo Alberto Fernández ve su papel y el futuro, y a lo mejor nos sorprendemos cuando analizamos esa visión.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primer dato: Fernández recurre a gente cercana a él para cubrir estas vacantes.",
+      "score": 0.436,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso del Ministerio de Desarrollo Social, asume la diputada **Victoria Tolosa Paz**, esposa de uno de los mejores amigos de Alberto Fernández, **José Alíztur**.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo una broma, con cariño, que decía que uno de los antecedentes o créditos de **Victoria Tolosa Paz** es estar casada con alguien que es experto en solución de problemas habitacionales, porque, como todos sabemos, **Alíztur** le cede su departamento en Puerto Madero a Alberto Fernández desde hace mucho tiempo y, tal vez, por mucho tiempo más.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Puede haber una relación tensa entre el Movimiento Evita y **Victoria Tolosa Paz**, porque, cuando **Tolosa Paz** intentó ser intendenta de La Plata, que es donde ella vive, el Movimiento Evita no la acompañó.",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es uno de los problemas: Alberto Fernández eligió armar su gobierno de esta manera.",
+      "score": 0.463,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver si **Victoria Tolosa Paz** logra corregir esta propensión de su amigo y jefe, Alberto Fernández, en el control de este ministerio, que es importante, ¿por qué?",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el primer ministerio que cubre Alberto Fernández de esta manera, con alguien de su riñón.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que recordar que **Victoria Tolosa Paz** fue una apuesta nada menos que para encabezar la lista del oficialismo en la provincia de Buenos Aires –que es la sede central del kirchnerismo, sobre todo la base de poder de **Cristina Kirchner**–, en contra de la opinión de La Cámpora, en contra de la opinión de **Cristina Kirchner**, quien le dijo un día: \"Mirá, querida, yo con vos todo bien, pero no eras mi candidata\".",
+      "score": 0.213,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo cambio importante tiene que ver con el Ministerio de Mujeres, Géneros y Diversidad.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la agenda del Congreso, y es muy interesante para entender el clima político y cultural de todo un sector del gobierno que está muy abrazado –y del kirchnerismo– a la idea de lo que se llama, con una palabra no del todo feliz, el cambio comportamental: lo que tiene que ver con la cultura, con las costumbres, en el fondo con la moral media y, en este caso, con las distintas formas de discriminación que nos plantea el combate a esas formas de discriminación.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta agenda del Congreso, que plantea, además, una clasificación extraña, como aquella clasificación de la enciclopedia china que inventa Borges –que no es una clasificación que uno puede entender bien–.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tampoco termino de entender si podría haber un hombre transexual, por ejemplo, que no aparece acá.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver qué opina Massa de esto y todos los que van a vender Vaca Muerta, entre ellos el presidente, que estuvo ahora en Houston hablando a favor del fracking.",
+      "score": 0.715,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se va **Elizabeth Gómez Alcorta**, lo cual es una conquista, ¿no?, querida –seguramente, en este momento– de **Cristina Kirchner**, que ya le había pedido a Alberto Fernández que la saque.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alivio a saber, **Elisabeth Gómez Alcorta**, probablemente porque **Cristina Kirchner** quería ver ahí a **Vilma Ibarra**, que es toda una autoridad en materia de lucha contra la discriminación, y claro, Alberto Fernández, de alguien no se va a desprender al lado de la era de **Vilma Ibarra**, que es una persona que goza de la mayor confianza, sobre todo en un tema tan delicado como el cuidado de la firma del presidente.",
+      "score": 0.263,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el cambio en el Ministerio de Trabajo: ahí aparece una figura del PJ capital histórica, **Raquel Kismer de Olmos** (que es Olmos), antigua militante del PJ, originaria de Guardia de Hierro, casi miembro fundador de Guardia de Hierro.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acaba de publicar este libro, que les quiero mostrar acá, que es una biografía, un ensayo biográfico sobre Alfonsín, que se llama \"El Plan Invertido\", por una imagen que tenía Alfonsín en su escritorio, de un planifero invertido.",
+      "score": 0.939,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y está, bueno, ahí está Alfonsín, que le tocó gobernar el país desde el primer día con el problema de la inflación, y uno de los problemas que tuvo Alfonsín en su gobierno, a raíz del protagonismo de la inflación, es que, con el protagonismo de la inflación, aparece el protagonismo sindical.",
+      "score": 0.301,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, es muy importante que Alberto Fernández haya decidido –porque **Kelley Olmos** es una mujer de carácter–; le va a tocar lidiar con el problema gremial.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le va a tocar con algo que preocupa al gobierno, preocupa a **Cristina Kirchner**, preocupa a **Máximo Kirchner**: es el avance de la izquierda trotskista sobre las organizaciones sindicales.",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, en el entorno de **Cristian Ritondo**, que está en el PRO, es el presidente del bloque del PRO en el Congreso, pero es un viejo militante del PJ de la capital, recordaban una escena que se registró en el PJ, en la sede del peronismo de la capital, hace muchos años, época de **Grosso**, donde le habían puesto a **Kelley Olmos** en una lista, creo que de autoridades partidarias.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Ritondo** hoy, la sacaron de la lista, pusieron a otra dirigente clásica del PJ porteño que era **Loli Domínguez**, y la nueva ministra de Trabajo la fue a increpar y le pegó una trompada a **Loli Domínguez** por haber osado desplazarla de la lista.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta hace poco tiempo, era el jefe de asesores de Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella está cercana a la agrupación de Olmos, que es una figura importante del PJ capital.",
+      "score": 0.136,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El hijo de **Kelley Olmos** milita en la agrupación de **Juan Manuel Olmos**, que, además, fíjense el papel de este funcionario: es amigo de **Sanini**, dialoga con **Máximo Kirchner**, intenta –hasta ahora, infructuosamente– y probablemente, por mucho tiempo, infructuosamente, como vamos a ver esta noche, acercarlo de nuevo a **Máximo Kirchner** con el presidente Alberto Fernández.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene muy buena relación con **Massa**, pero acá viene lo más importante: es el que teje el acuerdo entre el gobierno y un sector de la CGT para consagrar a **Kelley Olmos** como ministra de Trabajo, y ese sector de la CGT está liderado por dos personas que suelen actuar en coordinación: **Gerardo Martínez** y el centauro **Andrés Rodríguez** –sindicato de la construcción UOCRA, UPCN, sindicato de los trabajadores públicos de los empleados públicos–, dos figuras aliadas del presidente, que ahora logran tener alguna influencia en el Ministerio de Trabajo, aunque no lograron –como pensaban otros sindicalistas– poner directamente a alguien de un gremio al frente del Ministerio de Trabajo.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En una escena parecida a esta, Alfonsín tuvo que hacer también un acuerdo con los sindicatos para poder controlar no solamente la conflictividad por la inflación, sino además la amenaza militar, en el intento de que no se junten el azul con el colorado y se produzca el cortocircuito, que era la CGT con los carapintadas.",
+      "score": 0.91,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente va a haber una interna y seguramente quieren las PASO en ese municipio, y empezamos a ver cómo se configura –porque seguramente Alberto Fernández tiene en Zabaleta un aliado– cómo se empieza a configurar lo que es una tensión, lo que es una pelea, lo que es un conflicto en dos bloques de poder, en dos organizaciones electorales para disputar una interna dentro del Frente de Todos.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En contra de lo que podía pensar el kirchnerismo, votó la Argentina, nada menos que por introducir a las Naciones Unidas en Moscú, para vigilar ya no las agresiones a los derechos humanos que puede cometer Putin y Rusia en Ucrania, sino las que comete dentro de la propia Rusia –persecuciones a la oposición, persecuciones al periodismo–.",
+      "score": 0.989,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina se abstuvo, y también se abstuvo en relación con la posibilidad de investigar –que se votó también en Naciones Unidas– a China por violación de los derechos humanos.",
+      "score": 0.302,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar de que la justificación de esa investigación por derechos humanos en China la firmó –como último acto de sugestión de Naciones Unidas– **Michelle Bachelet**, que es la estrella polar de Alberto Fernández en esta materia.",
+      "score": 0.955,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de la oposición, porque este conflicto de Alberto Fernández con Cristina Kirchner, con La Cámpora, se cristaliza de manera tan nítida en el gabinete, porque hay que aclarar lo siguiente, que no dijimos hasta ahora: todas estas designaciones no fueron habladas con Cristina Kirchner.",
+      "score": 0.787,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández las decidió absolutamente solo, con su equipo.",
+      "score": 0.744,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué piensa Alberto Fernández?",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El devaluado Alberto Fernández.",
+      "score": 0.471,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él piensa que él es cofundador del kirchnerismo, en alguna medida cree que Néstor Kirchner fue presidente gracias a él, que negoció la candidatura con **Eduardo Duhalde** y el fallecido **José Pampuro**, en contra de la opinión de otra gente del kirchnerismo que decía: \"No, no, Néstor está para el 2007, no para el 2003\".",
+      "score": 0.096,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cree que, como cofundador del kirchnerismo, tiene derecho a dar una pelea en representación de ese movimiento, y cree que esa pelea la tiene que dar él el año que viene, y empieza a armar una organización para enfrentar a Cristina Kirchner, una interna.",
+      "score": 0.548,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él piensa que, el año que viene, el kirchnerismo va a cumplir 20 años de existencia, y cree que él debe ser un factor de renovación, que no puede ser Cristina, que no puede ser Máximo Kirchner, que hay que abrir el kirchnerismo a otro electorado, a otras expresiones.",
+      "score": 0.493,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando uno mira el énfasis puesto en la cuestión de géneros, diversidad, igualdad, etcétera, cuando uno mira cómo vota en materia de derechos humanos, cuando uno mira todo lo que no tiene que ver con la economía, está mirando cómo Alberto Fernández le quiere disputar también el voto kirchnerista de izquierda a Cristina Kirchner.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver cómo Cristina Kirchner interpreta toda esta jugada, y qué estado de ánimo o qué reacciones emocionales le produce esta decisión de Alberto Fernández de decir: \"Yo soy el amigo de Néstor y quiero ser jefe del kirchnerismo, y voy a disputar eso con los kirchner\".",
+      "score": 0.707,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene una respuesta muy sutil, o no tan sutil, pero no tan conocida, por parte de Máximo Kirchner, que acaba de redactar una –un proyecto de resolución como diputado en la Cámara de Diputados– para que Alberto Fernández finalmente aporte los recursos que impiden que funcione a pleno el Hospital Néstor Kirchner en La Matanza, como si le dijera: \"Alberto, ya que sos tan amigo de Néstor, hacete cargo del hospital que inauguró mi madre con el nombre de mi padre en La Matanza, porque, por culpa del gobierno de Macri, pero también de tu gobierno, ese hospital no ha sido dotado de todos los recursos que tiene que tener para que funcione plenamente\".",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que vamos a ver de acá en adelante es una pelea entre el kirchnerismo de Cristina y la Casa Rosada por el control de las provincias, por la adhesión de los gobernadores, que daría la impresión no quieren estar en esta pelea y adelantan las elecciones para provincializarlas y estar lo más a salvo que se pueda estar de la disputa nacional y del gobierno nacional.",
+      "score": 0.529,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es probable que Kicillof no lo diga, pero crea que el gobierno nacional ya está agotado y es imposible sacarle una victoria del 2023, y que lo más seguro es ir por la reelección en la provincia de Buenos Aires, donde él tiene una virtud: retiene como nadie los votos de Cristina Kirchner, como se demostró en el año 2015.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después, con Daniel Bilotta, vamos a hablar de este tema, porque hay novedades de último momento sobre esta disputa por el control de la provincia, que es cada vez más importante, porque es el arca de Noé del kirchnerismo, así, donde ellos piensan salvarse cuando llegue el diluvio universal al resto del peronismo, por culpa –siempre– de otro, en este caso, de Alberto Fernández.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toda la CGT se mira en el espejo de Kelley Olmos, o solamente Gerardo Martínez y Andrés Rodríguez.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se prepara por un sector de la CGT que lidera **Luis Barrionuevo** un acto –lo van a hacer el 17 de octubre–.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Si Cristina o Alberto van a ir?",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Alberto Fernández a este acto, cómo les pide ir?",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso parece estar más claro, porque están mucho más alineados con Alberto Fernández.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algo lo vamos a llevar a este terreno, al historiador y biógrafo **Pablo Gerchunoff**, que es el terreno de la economía, porque una de las cosas que hay que preguntar –si probablemente la respuesta sea no– es si Alberto Fernández consultó con su ministro de Economía, **Sergio Massa**, nada menos que la designación del ministro de Trabajo, que tiene todo que ver con el problema inflacionario.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está agredido por dos fuegos: la indiferencia de Alberto para incorporarlo como socio en el gobierno, y un dulce, cariñoso, casi solidario, marcado de cancha por parte de Cristina Kirchner y de Máximo Kirchner, que no le mandan a decir las cosas por teléfono.",
+      "score": 0.992,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando le dicen que hay un problema con la indigencia, se lo dicen a través de un tuit; cuando le dicen que puso de rodillas al país delante del sector agropecuario por haber generado un dólar hecho a medida para ese sector, se lo dice en un acto público, porque, bueno, porque le están hablando al propio electorado.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, en este marco, Alberto Fernández llama a **Massa**, y seguramente le dice lo que está diciendo en todos lados: \"Viste que no era conmigo, viste que los kirchneristas son así con cualquiera, viste que los kirchneristas son incapaces de registrar un interés que no sea el propio\".",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí lo tenés, y Massa debe bajar la cabeza y decir que sí, dolido.",
+      "score": 0.728,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el Fondo Monetario Internacional lo está ayudando a Alberto Fernández casi tanto más de lo que lo ayudó –según la versión del kirchnerismo– a Macri para ganar las elecciones.",
+      "score": 0.823,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa acaba de conseguir una revisión del programa económico sumamente indulgente, sumamente misericordiosa, por parte del Fondo y, sobre todo, por parte del encargado del programa, **Ilan Goldfajn**, que ha mirado para otro lado en cantidad de detalles que tienen que ver con la economía argentina.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno pregunta por qué a Massa le creen más en el Fondo Monetario Internacional que a Guzmán, que tiene Massa que no tiene Guzmán, había dos respuestas.",
+      "score": 0.346,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todavía no sabemos qué modificaciones le va a hacer el kirchnerismo al presupuesto que mandó Massa al Congreso, y no me extrañaría que el almuerzo que tuvo Massa con Cristina Kirchner haya sido para prepararlo para modificaciones que pueda haber en el frente fiscal en ese presupuesto.",
+      "score": 0.586,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de esto, hay una ayuda que cualquier profesional de la economía consideraría vergonzosa por parte del Fondo a este gobierno.",
+      "score": 0.055,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, por primera vez, un informe del Fondo Monetario Internacional da la cantidad de reservas líquidas que tiene el Banco Central y le dice que las reservas líquidas están agotando.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, el propio Fondo habla de que la inflación llega al 100% y que va a estar en 100%.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Curioso este nuevo Fondo tampoco dice nada de la existencia de varios dólares que se han negado históricamente a admitir.",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque esto es así: ¿Por qué esta magnanimidad del Fondo Monetario Internacional con Massa y con Alberto Fernández?",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque probablemente se están preparando para exigirle ajustes al gobierno que viene, y el gobierno que viene –o líderes del gobierno que viene– se preparan para estar disponibles para esos ajustes.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En los estudios de opinión que le llegan al PRO, esa gente que opina de la que le hablaba al comienzo, cuando le preguntan por Macri, dice que quiere Macri, porque aparece, pero no dice lo que quiere.",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una incógnita Macri razonable, porque probablemente él esté buscando la presidencia, pero todavía no sabe si está en condiciones de postularse.",
+      "score": 0.497,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el Macri que, cuando **Horacio Rodríguez Larreta** ganó las elecciones aquella noche de triunfo en la capital, dijo: \"Yo mantengo la AUH, la Asignación Universal por Hijo, y no voy a privatizar Aerolíneas\".",
+      "score": 0.284,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era un Macri que entendía que había que ir hacia el centro, que había que hablarle al que tiene miedo de seguir sufriendo, de sufrir un ajuste.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver cómo hace Macri para conseguir votos con este discurso.",
+      "score": 0.707,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le habla Macri?",
+      "score": 0.751,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le habla a Horacio Rodríguez Larreta, a quien supone gradualista, a quien supone yendo al centro.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo Macri hace pocos días, poniéndose como todo expresidente por encima del resto: \"Yo voy a evaluar los candidatos disponibles\".",
+      "score": 0.129,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Probablemente esté pensando en Larreta y en **Patricia Bullrich**.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larreta, y a todas estas preguntas se las contestó en su cabeza, y entendió que Macri estaba diciendo: \"O juego yo, o apoyo a Bullrich, pero a Larreta no\".",
+      "score": 0.23,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De eso vamos a hablar también después con Gertrude, porque él viene de escribir un libro sobre Alfonsín y uno de cuyos temas fue la sucesión respecto del líder, a la sombra del cual prosperó en su –en el comienzo de su carrera política.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora estamos en presencia de un hecho nuevo, que es el desprendimiento de Larreta respecto de Macri.",
+      "score": 0.056,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larreta, que no es conflictivo, es una de las cosas que le reprocha Macri: que no se pelea con nadie.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri se pregunta con quién se pelea Larreta, y Larreta daría la impresión de contestar: \"Con vos\".",
+      "score": 0.292,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es la primera vez que le respondió y dijo: \"El cambio es lo que estamos haciendo en la gestión\".",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, vamos a escuchar dos interesantes informes: uno de Daniel Villota, que es la pelea por la caja, la pelea por las licitaciones en un triángulo bonaerense: Kicillof, Máximo Kirchner, los intendentes.",
+      "score": 0.693,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y **Juan Pablo Ledesma** nos va a traer un tema interesantísimo, que es tema en la nación y tema en la ciudad, que maneja nuestros datos, qué utilización se hace de los datos que damos cada vez que rozamos con el Estado, qué garantías hay del secreto de esa información, que es la pelea por la caja, la pelea por las licitaciones en",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 90
+  },
+  "etiqueta_original": "neutral"
+}

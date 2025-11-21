@@ -1,0 +1,106 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 14,
+      "derecha": 4
+    },
+    "score_promedio": 0.241,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Primero, el reencuentro entre Patricia Bullrich y Horacio Rodríguez Larreta; después, el reencuentro de Mauricio Macri como jefe de su espacio político; y luego, su visita a Uruguay ayer, donde hizo declaraciones llamativas.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habló de que \"lo políticamente correcto\" era, literalmente, una \"mierda\", y luego continuó con declaraciones en un programa televisivo por la noche.",
+      "score": 0.257,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri concibe el poder y la vida pública con las categorías con las que se desarrolló su vida privada, como le pasa a cualquier persona; esto no es una crítica a Macri, sino que cualquier persona actuaría en una actividad diferente con las mismas categorías con las que aprendió a llevar adelante sus tareas.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde esta perspectiva societaria, no sería incorrecto decir que Macri sintió que Horacio Rodríguez Larreta le amenazaba, siguiendo la terminología empresaria, con hacer lo que se llama un \"aggressive takeover\", o sea, tomarle agresivamente su sociedad, la que había creado Juntos por el Cambio.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, esta mirada de que Macri se coloca por encima de Juntos por el Cambio es algo que viene construyendo desde el comienzo del PRO.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Del PRO, él pasa a Juntos por el Cambio, con el PRO más radicales, y él, teniendo la mayoría, pasa a ser el controlador de una sociedad mucho mayor.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego de eso, sigue creciendo, suma a los peronistas republicanos, y se convierte en Juntos por el Cambio.",
+      "score": 0.163,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gran ganador de estas elecciones es Mauricio Macri, incluso por encima de Javier Milei.",
+      "score": 0.512,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar las declaraciones de ayer, realizadas en Uruguay, donde fue invitado a dar unas conferencias, y luego las que dio acá en Buenos Aires.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchas veces es no conveniente para uno en ese momento, porque significa decirle a la gente que no, porque con ese no surge una oportunidad mejor para el conjunto, que también incluye a esa persona.\"\n\n\"Alguien políticamente correcto es alguien que tiene en cuenta los valores de todos los grupos humanos, no solamente del propio, y evita cualquier posible discriminación u ofensa hacia ellos por motivos que fuesen: socioeconómicos, étnicos, de género, de ideología política, de religión.\"\n\nEso, para Mauricio Macri, es una \"mierda\" y marca la diferencia entre \"correcto\" y \"políticamente correcto\", como si \"lo políticamente correcto\" no incluyera \"lo correcto\".",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego dice: \"Los ríos de la Patagonia son bravos, no son para cualquier salame\".",
+      "score": 0.622,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esta es la relación que hoy tengo con Javier Milei, hasta de afecto que le he tomado y de respeto por lo que ha conseguido.",
+      "score": 0.203,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, lo que es lidiar con un estado lleno de talibanes de La Cámpora.",
+      "score": 0.904,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia echó a Moyano de Seiza, que quería apropiarse también de Seiza.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Puede estar en lo correcto sin la necesidad de cruzar a lo políticamente incorrecto.\"\n\nBueno, vamos ahora a lo que dijo acá en Buenos Aires, nuevamente, siempre trazando puentes entre Milei y Patricia Bullrich, y colocándose él como el vértice de la pirámide, teniendo de un lado a Patricia Bullrich y del otro lado a Javier Milei.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, de vuelta, creo que ya hoy, de vuelta, lo quiero ratificar, Javier Milei es parte del cambio que se viene en la Argentina.\"\n\nNuevamente, no todas las metáforas (la motosierra, el martillo, la tenaza, el bisturí, la lima) no hay ninguna, por ejemplo, que suture, que cosa, que una, que pegue, no todas rompen, rasgan, recortan.",
+      "score": 0.326,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y claramente en cada uno de los mensajes, conjuntamente con la dureza de las palabras, no solamente de las metáforas, continuamente Milei conjuntamente con Patricia Bullrich.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a cerrar, entonces, como siempre, con la misma canción que hablamos, con la banda uruguaya, las declaraciones de Macri fueron ayer en Uruguay, y la canción que se llama \"Reencuentro\".",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 18
+  },
+  "etiqueta_original": "neutral"
+}

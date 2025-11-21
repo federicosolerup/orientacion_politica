@@ -1,0 +1,451 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 26,
+      "derecha": 61
+    },
+    "score_promedio": 0.67,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Este señor lo maneja todo, todos le temen.",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren lo que le pasó a **Leandro Baño** por protestar contra el gobierno de Gildo Insfrán, el señor feudal.",
+      "score": 0.917,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso él decía su nombre, su apellido, que lo firmaran y lo firmaran en las redes sociales para sentirse protegido, cuidado.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos le tienen miedo al señor feudal porque él maneja todo y a todos.",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie le informaba a la familia dónde lo tenían.",
+      "score": 0.346,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me pregunto por qué Alberto Fernández no se va a vivir allá.",
+      "score": 0.928,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que lo matan, lo destruyen y le gritan \"¡Represor!",
+      "score": 0.569,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero decía que le dejé un mensaje a Gabriela Neme para solidarizarme con los hermanos formoseños, con Ismael, con su familia.",
+      "score": 0.527,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no sabía que el mensaje que yo le estaba dejando a ella, ella se lo iba a hacer escuchar a Ismael y a su familia.",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto nos decía Ismael.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le quiero dar las gracias a **Viviana Canosa** por habernos apoyado.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchísimas gracias, le doy mil gracias a todos.",
+      "score": 0.44,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le quiero dar las gracias a Viviana Canosa por habernos apoyado.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchísimas gracias, le doy mil gracias a todos.",
+      "score": 0.44,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además de que él es un muñeco, también le hicieron un muñeco.",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ningún fiscal le pareció importante investigar.",
+      "score": 0.714,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordame cómo él le pide al pueblo que se levante contra el periodismo.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le digo algo a Ishii.",
+      "score": 0.786,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su pueblo contra usted por la vida miserable que les hace llevar.",
+      "score": 0.957,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, Ishii, ¿se acuerdan que lanzó la reelección del presidente Alberto Fernández?",
+      "score": 0.625,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que si no sos impresentable, no podés ser amigo de Alberto Fernández.",
+      "score": 0.935,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Paz le hizo el muñeco.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, lo que nosotros queremos también, así como nosotros vemos TN, La Nación +, todos, digamos, con capitales, con intereses bien definidos y claramente definidos, donde no hay un periodismo independiente que informe, que informe y que la gente saque sus propias conclusiones, queremos ver, yo voy a plantear la necesidad de armar dentro del Norte Grande una red de comunicación que permita que todos los medios de comunicación tengan el propio en cada una de nuestras provincias.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él quiere que todos los riojanos y toda la Argentina piensen solo como él quiere, son los esclavos del poder.",
+      "score": 0.297,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo le jode?",
+      "score": 0.835,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos quieren un mensaje único, si no es imposible.",
+      "score": 0.27,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a él además le gustan los medios de su provincia porque pone pauta, pone guita y todos dicen lo que el señor quiere.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué van a hacer con todos esos datos que ya tienen nuestros?",
+      "score": 0.254,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina está muy pobre.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me pregunto si, por ejemplo, en provincias como Formosa, también estuvieron censando a los que cruzan la frontera para votar o esos no forman parte de Formosa.",
+      "score": 0.803,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en ese caso, ¿pusieron menos gente en CABA para que el presupuesto también sea menor y le den más guita o menos guita a Larreta?",
+      "score": 0.337,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si tienen suerte a la gente que duerme en la calle en una manta, ¿dónde le pegaron el sticker a la gente que vive en la calle?",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la miré y le dije, \"¿me ves cara de hombre?\".",
+      "score": 0.598,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están haciendo un quilombo terrible.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La hija de una amiga mía le puso \"crear lesbiana\".",
+      "score": 0.826,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sabía qué contestar, le puso \"crear lesbiana\".",
+      "score": 0.749,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le van a sacar carpetas, biromes, celulares, le van a robar todo.",
+      "score": 0.843,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mucha gente que conozco le preguntaba, no sé, a gente de 80 años, si eran travestis, cómo se autopercibían.",
+      "score": 0.444,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no fuera que este gobierno a situación de, me estoy acomodando el micrófono, pero decía que nos quieren rotos, confundidos, mareados, aturdidos, nos quieren esclavos del poder.",
+      "score": 0.901,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero como para ir sabiendo, no habrá un boca de urna o algo, si me pueden informar, gracias.",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es lo que más le preocupa al gobierno.",
+      "score": 0.79,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nadie se le ocurrió, no sé, incluir a las personas con discapacidad, a la gente de la cultura.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La censista, muy piola, se prestó a hacer esa historia anterior en donde queda muy claro el lugar que el Estado le da al arte y a la cultura.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, así, dado el estado de cosas, quienes trabajamos en estas actividades artísticas y culturales, además de remar todos los días con lo difícil que es, tenemos que remar con la ignorancia, el destrato y el no ser tenido en cuenta por el Estado.",
+      "score": 0.103,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pensaba que a este gobierno la única cultura que le importa es la cultura de la caja, ¿no?",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la única que le importa.",
+      "score": 0.847,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá no le pidamos al próximo gobierno que solucione en 4 años los 20 de **Cambiemos** y el **Kirchnerismo**.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina está rota y ellos y nosotros somos los esclavos del poder.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchen al presidente junto a Guzmán y a La Baña.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente habla del censo y habla de \"cada argentino\".",
+      "score": 0.63,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Contamos quiénes somos, contamos con quiénes vivimos, contamos qué hacemos, y de ese modo el INDEC pudo tomar una fotografía de la Argentina que nos va a servir muchísimo para poder ver cómo encarar el futuro.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la primera vez que el estado argentino pregunta sobre la identidad de género de cada argentino, de cada argentina, de cada argentinx, de cada argentinxs, de cada argentinxs.",
+      "score": 0.702,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digámoslo, tenemos un presidente que da vergüenza.",
+      "score": 0.694,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡La Presidente habla bien!",
+      "score": 0.787,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un país absolutamente incendiado y el presidente Alberto Fernández cree que habla en inclusivo argentino.",
+      "score": 0.889,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo les sugiero al presidente Alberto Fernández que se compre una isla, que arme un país trans y que hable como se le cante el culo, que se arme un país trans para él.",
+      "score": 0.984,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted nos ofende, usted nos falta el respeto.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina se habla castellano, presidente.",
+      "score": 0.648,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué manera de faltarnos el respeto del presidente Alberto Fernández.",
+      "score": 0.961,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted y la ideología de género de la Argentina me tienen lo que no tengo al plato.",
+      "score": 0.965,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández se resigna al desdoblamiento de las elecciones en las provincias, pero rechaza el plan en territorio bonaerense.",
+      "score": 0.422,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Presidente, lo lamento, pero a usted no lo apoya ni lo va a apoyar nadie.",
+      "score": 0.489,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A usted ahí adentro ya no lo quiere nadie.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted es una especie de salvavidas, presidente.",
+      "score": 0.924,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted tira todo para abajo.",
+      "score": 0.802,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes se imaginan, pensaba hoy, por eso busqué la foto, si **Mauricio Macri** y **Juliana Awada** hubieran hecho el Olivos Gate, los mataban mínimo, los rajaban a patadas en la quinta de Olivos, esclavos del poder.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto y Fabiola.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sea tan duro con el presidente como lo fue con el surfer.",
+      "score": 0.897,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy me contaba todas las cosas que le hicieron, además de pagar con dinero, las cosas que le hicieron pasar a un pibe que tenía unas tablas de surf, que venía de vacaciones de Brasil, pero que es electricista y así se gana la vida.",
+      "score": 0.828,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esperemos que la justicia sea igual para el presidente que para el surfer.",
+      "score": 0.943,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y me pregunto si en serio nos vamos a quedar callados por el despropósito del presidente y la primera dama que con tres palos lo van a solucionar todo.",
+      "score": 0.971,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo también quisiera vivir en el maravilloso mundo de Alberto Fernández donde no pasa nada.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no, lamentablemente vivo en este país que gobiernan.",
+      "score": 0.675,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, Cristina se corrió de la gestión, dijo hoy Aníbal Fernández y sigue la interna del frente de todos contra todos.",
+      "score": 0.912,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo a Aníbal no estaría tan segura de que Cristina Fernández de Kirchner se quiere correr de la gestión.",
+      "score": 0.916,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más, me parece que en cualquier momento lo saca del corazón Alberto Fernández, esclavos del poder.",
+      "score": 0.979,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y me alegré porque dije, bueno, qué suerte que en Argentina no todos quieran un plan, que la gente quiera trabajar.",
+      "score": 0.475,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es para la Argentina y el presidente.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El subsecretario de salud pública, **Cristóbal Cuadrado**, le queda perfecto.",
+      "score": 0.749,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mastercard le pagará el viaje a empleadas que tengan que abortar en otro estado.",
+      "score": 0.277,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente en joda decía que era trans porque son tan pocos serios que un tema que podríamos tomarnos en serio todos si no fuera que nos están taladrando y rompen todo.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero agradecerle a los hermanos de Formosa porque me acaba de escribir Gabriela Neme.",
+      "score": 0.761,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viste que es como, tienen un quilombo en la cabeza lo de este gobierno.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si necesitan, les pido a Gonzalo o Andrés en un rato salir al aire y contarnos cómo siguen las cosas, visibilizarlos.",
+      "score": 0.164,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios realizados:**\n\n*   **Corrección de nombres y apellidos:**\n    *   Gilles de Infran -> Gildo Insfrán\n    *   Leo Ibaño -> Leandro Baño\n    *   Ibaño -> Baño (en algunas partes, para mantener la coherencia)\n    *   Gavineme -> Gabriela Neme\n    *   Izy -> Ishii\n    *   La Baña -> Lavagna\n    *   Aguada -> Awada\n    *   Campolongo -> Santilli\n    *   Diego -> Nombre propio (se sobreentiende que es un nombre propio, no se modifica)\n    *   Juan José Campanela -> Juan José Campanella\n    *   Jillian Frank -> Javier Milei\n    *   Marco La Baña -> Marco Lavagna\n    *   Ismaela -> Ismael (error de transcripción)\n*   **Corrección ortográfica y gramatical:**\n    *   Se corrigieron errores de acentuación, puntuación y concordancia verbal y nominal.",
+      "score": 0.009,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunas palabras fueron corregidas y marcadas en cursiva, ya que el sistema podría no estar reconociéndolas correctamente.",
+      "score": 0.365,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios realizados:** Se corrigieron nombres y apellidos, errores de ortografía y gramática, y se mejoró la coherencia y cohesión del texto.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 87
+  },
+  "etiqueta_original": "neutral"
+}

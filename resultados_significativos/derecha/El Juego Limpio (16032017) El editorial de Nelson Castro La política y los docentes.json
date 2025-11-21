@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 3
+    },
+    "score_promedio": 0.51,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Es profundo, e insisto, defiendo su reclamo, pero creo que la realidad de los chicos y de la educación argentina merece otras conductas.",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha conocido en estos días un tuit, ayer o hoy, de la expresidenta Cristina Fernández de Kirchner defendiendo a los docentes, apoyando sus reclamos y, por supuesto, criticando duramente al gobierno por no satisfacer las demandas de los docentes.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese es el tuit de hoy de Cristina Fernández de Kirchner.",
+      "score": 0.887,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Impactante, si se lo compara con esto que decía la hoy expresidenta cuando estaba en el cenit de su poder, allá en 2012, recordemos.",
+      "score": 0.798,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto lo decía Cristina Fernández de Kirchner el 1º de marzo de 2012.",
+      "score": 0.639,
+      "etiqueta": "derecha"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

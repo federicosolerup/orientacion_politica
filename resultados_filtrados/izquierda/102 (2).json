@@ -1,0 +1,25 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "México tiene excelente comida, pero su pastelería deja mucho que desear.",
+      "entidades_detectadas": [
+        "méxico"
+      ]
+    },
+    {
+      "frase": "López Obrador es el presidente de América Latina con mayor imagen positiva.",
+      "entidades_detectadas": [
+        "américa",
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Vamos a hablar de dos datos alarmantes sobre la pobreza y el crecimiento económico récord en apenas 60 días desde que Javier Milei es presidente.",
+      "entidades_detectadas": [
+        "javier",
+        "milei"
+      ]
+    }
+  ]
+}

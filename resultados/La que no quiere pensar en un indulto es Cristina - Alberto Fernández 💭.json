@@ -1,0 +1,594 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Buenos días, jueves 25 de agosto.",
+      "entidades_detectadas": [
+        "Buenos"
+      ]
+    },
+    {
+      "frase": "Quienes nos están viendo y escuchando por radio, en la aplicación o en internet.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acaban de ver un video que se difundió ayer, generado por inteligencia artificial, en el que se ve a una supuesta **Cristina Fernández de Kirchner** cantando \"Music Session #51\" de Bizarrap y Villano Antillano.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Villano Antillano",
+        "Bizarrap"
+      ]
+    },
+    {
+      "frase": "Así que, bueno, abrimos este programa con este trap y lo titulamos \"Indulto, la única salida\".",
+      "entidades_detectadas": [
+        "Indulto"
+      ]
+    },
+    {
+      "frase": "Vamos a analizar una serie de audios, desde que **Alberto Fernández** era candidato hasta llegar a **Eugenio Zaffaroni**, quien coincide, al menos, con la perspectiva de que es probable que el indulto termine siendo la única salida, no necesariamente para el presidente Alberto Fernández antes de diciembre de 2023, pero sí, probablemente, para quien le toque ser presidente entre 2023 y 2027.",
+      "entidades_detectadas": [
+        "Eugenio Zaffaroni",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "El indulto es una causa de extinción de la responsabilidad penal que supone el perdón de la pena, una situación diferente a la amnistía, que implica el perdón del delito.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con el indulto, la persona sigue siendo culpable, pero se le perdona el cumplimiento de la pena.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dependiendo de las regulaciones, las diferentes estructuras de poder son las encargadas del indulto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En algunos países, como en Argentina, es el Poder Ejecutivo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "En otros, puede ser el Poder Judicial, y en aquellos países que aún tienen monarquía, como el Reino Unido o España, es el rey quien concede el indulto.",
+      "entidades_detectadas": [
+        "Reino Unido",
+        "Poder Judicial",
+        "España"
+      ]
+    },
+    {
+      "frase": "El indulto puede ser total o parcial, general o particular.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El indulto total comprende la remisión de todas las penas a las que hubiera sido condenada la persona, aunque no hubieran sido cumplidas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El indulto parcial supone la remisión de alguna de las penas impuestas o conmutaciones menos graves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Estados Unidos, el poder presidencial para perdonar y conmutar penas ha sido controvertido desde su fundación.",
+      "entidades_detectadas": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Ustedes recordarán el caso de la posibilidad de que se aplicase el autoindulto del presidente **Trump**, que fue bastante discutido, es decir, que el presidente se perdonara a sí mismo antes de dejar de ser presidente.",
+      "entidades_detectadas": [
+        "Trump"
+      ]
+    },
+    {
+      "frase": "Muchos antifederalistas recuerdan ejemplos de abuso por parte de los reyes europeos en el poder del perdón, y no querían darle al presidente de Estados Unidos, en su Constitución, tanto poder.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Hay un libro interesante llamado *Los Federalistas*, escrito por quienes fundamentaron la construcción del poder de la nación, que incluye el tema de la limitación en la defensa de perdonar.",
+      "entidades_detectadas": [
+        "Los Federalistas"
+      ]
+    },
+    {
+      "frase": "Vamos a escuchar determinados audios sobre este tema, y luego voy a analizar casos más destacados de indulto en la historia de Argentina y del mundo.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Comenzaremos en orden cronológico inverso, empezando con Alberto Fernández como candidato, donde se le pregunta si, finalmente, como presidente, indultaría a Cristina Fernández de Kirchner, y él dice que los indultos son una rémora de la monarquía (año 2019).",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Escuchémoslo:\n\n*   **Alberto Fernández (audio)**: \"Si me toca ser presidente, el primero que tenga un desliz se hace cargo de lo que haga.",
+      "entidades_detectadas": [
+        "Escuchémoslo",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Para atrás es un tema judicial, y espero que la justicia lo resuelva.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y si alguien estúpido está pensando que estoy llegando ahí para indultar a alguien, eso no es estúpido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No lo va a ser, mire que estoy agraviado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No es el indulto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, creo que los indultos son una rémora de las monarquías.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Los presidentes no están para perdonar a nadie.\"\n\nEsto fue en 2019, en plena campaña (no 2017, como se dijo), y ahora vamos a este año, donde, ya como presidente, se lo consulta por el indulto en otro caso, el de **Milagros Sala**, donde dice que el gobernador **Morales** podría indultarla, pero no dice que el indulto sea una herramienta que no se deba utilizar.",
+      "entidades_detectadas": [
+        "Morales",
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Alberto Fernández sobre el indulto de Milagros Sala:\n\n*   **Alberto Fernández (audio)**: \"Bueno, les pido a todos los compañeros y compañeras que me piden que indulten a Milagros Sala que lean la Constitución.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Bueno",
+        "Milagros Sala",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Yo no puedo indultar a Milagros Sala, porque Milagros Sala ha sido juzgada por tribunales provinciales y quien puede indultarla es el gobernador de la provincia.",
+      "entidades_detectadas": [
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "Yo no puedo hacerlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no me pidan que haga un gesto político y que el gesto político sea contravenir la Constitución, porque yo soy respetuoso de los derechos constitucionales y del Estado de Derecho.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Estado de Derecho"
+      ]
+    },
+    {
+      "frase": "No voy a hacer esa locura.\"\n\nPero, por lo que está diciendo, claramente podría **Gerardo Morales** indultarla ahora, sin estar la condena definitiva de Milagros Sala, porque todavía no llegó al acuerdo de la Suprema Corte de Justicia.",
+      "entidades_detectadas": [
+        "Suprema Corte de Justicia",
+        "llegó",
+        "Gerardo Morales",
+        "Milagros Sala"
+      ]
+    },
+    {
+      "frase": "Se infiere, por carácter transitivo, que él podría indultar a Cristina Fernández de Kirchner, aún sin esperar a que haya condena definitiva.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Ahora vamos a escucharlo de ayer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ayer, el presidente salió nuevamente a hablar con los medios.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Por primera vez habló en TN, después de la salida de **Guzmán**, **Batakis** y la llegada de **Sergio Massa**.",
+      "entidades_detectadas": [
+        "Batakis",
+        "TN",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "En este caso, él dice que no quiere pensar en un indulto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quien no quiere pensar en un indulto es Cristina Fernández de Kirchner, lo que no quiere decir que no sea la única solución que pueda enfrentar en algún futuro.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Alberto Fernández:\n\n*   **Alberto Fernández (audio)**: \"Primero creo que cuando venía para acá vi un tuit de **Oscar Parrilli** rechazando el indulto y la amnistía, que repitió Cristina, con lo cual debo entender que la que no quiere pensar en un indulto es Cristina.",
+      "entidades_detectadas": [
+        "repitió Cristina",
+        "Alberto Fernández",
+        "Oscar Parrilli",
+        "venía",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Yo particularmente siempre he dicho lo mismo y no voy a cambiar mi pensamiento, o sea, el indulto es una rémora que ha quedado en la Constitución Nacional, que ahora es una rémora de la monarquía, el perdón que los monarcas daban dentro de la sentencia.",
+      "entidades_detectadas": [
+        "Constitución Nacional"
+      ]
+    },
+    {
+      "frase": "Así fue pensado en su momento en la misma Constitución de los Estados Unidos, y así se lo tiene hasta el día de hoy.",
+      "entidades_detectadas": [
+        "Así",
+        "Constitución de los Estados Unidos"
+      ]
+    },
+    {
+      "frase": "La Constitución de los Estados Unidos también la tiene.\"\n\nAhora, también quiero hacer una reflexión, porque ese análisis crítico que toda mi vida tuve sobre el indulto supone que el funcionamiento de una justicia en un sistema republicano funcione a pleno.",
+      "entidades_detectadas": [
+        "Constitución de los Estados Unidos"
+      ]
+    },
+    {
+      "frase": "En verdad, nosotros tenemos una justicia que se parece mucho más a la justicia de una monarquía que a la justicia de una democracia, porque es una justicia selectiva, que se aplica en favor de poderosos, donde los poderes fácticos influyen y operan y todo el mundo lo sabe, no estoy diciendo algo que no se sepa, y que, por lo tanto, definitivamente maltrata el servicio de justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, ahí se refiere a Alberto Fernández, se refiere a que Parrilli, que se supone que es el alter ego de la vicepresidenta, no quiere, o dice que la vicepresidenta no quiere, el indulto.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Parrilli",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Escuchemos al propio Oscar Parrilli, que, a mi juicio, lo que está diciendo es \"por ahora no\":\n\n*   **Oscar Parrilli (audio)**: \"Yo quiero esperar un tiempo.",
+      "entidades_detectadas": [
+        "Oscar Parrilli"
+      ]
+    },
+    {
+      "frase": "A mí me parece que todavía falta mucho para que este juicio termine, hay muchos recursos procesales y legales, todavía falta que sigan hablando las defensas y me parece que están apareciendo cada vez más cosas para que se investiguen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo espero, o por lo menos lo que tenemos que propiciar y proponer es que haya realmente una acción de algunos funcionarios o magistrados que entiendan que esto no puede seguir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo no tengo expectativa en la Corte, esta es una Corte absolutamente amañada, es una Corte macrista, una Corte contraria a derecho que ha violado leyes, que ha violado la Constitución, que asumió, digamos, fueron contestes en asumir sin el acuerdo constitucional, simplemente con un decreto.",
+      "entidades_detectadas": [
+        "Constitución",
+        "Corte"
+      ]
+    },
+    {
+      "frase": "Se denuncian entre ellos, se eligen entre ellos, hay denuncias penales contra miembros de la Corte, se cae la boca, esta Corte no tengo ninguna esperanza y lo que yo debería hacer es irse a la casa, no renunciar porque es lamentable el papel que están haciendo.\"\n\nY yo tengo expectativa que en algún momento podamos sancionar este proyecto de los gobernadores y podamos tener una Corte de 25 miembros que nos garantice a todos, todos los ciudadanos, peronistas, no peronistas, kirchneristas, radicales, del PRO, independencia, imparcialidad y que cuando nos juzguen, si los condenan, sea con pruebas y no por presiones mediáticas y por presiones políticas de afuera.",
+      "entidades_detectadas": [
+        "Corte",
+        "PRO"
+      ]
+    },
+    {
+      "frase": "Yo no pretendo para Macri lo que ellos hicieron con nosotros, si lo condenan a Macri, que sea con pruebas, no con suposiciones o con declaraciones o porque nosotros decimos que está la cual cosa.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Yo creo que sí, me parece que falta mucho tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Falta mucho tiempo, yo coincido con Parrilli.",
+      "entidades_detectadas": [
+        "Parrilli"
+      ]
+    },
+    {
+      "frase": "Evidentemente, falta primero que **Cristina Fernández** llegue a una condena en la Corte Suprema de Justicia, algo que, de acuerdo a distintos análisis de expertos en Derecho Procesal, podría suceder recién entre 2024 y 2025.",
+      "entidades_detectadas": [
+        "Cristina Fernández",
+        "Corte Suprema de Justicia",
+        "Derecho Procesal"
+      ]
+    },
+    {
+      "frase": "Y probablemente allí sí, Parrilli diga que ahora es el momento, y no demasiado pronto.",
+      "entidades_detectadas": [
+        "Parrilli"
+      ]
+    },
+    {
+      "frase": "Quien realmente le pone el moño a este tema y lo ve con claridad, y trasciende la visión de Alberto Fernández, que probablemente comprenda que no es en su periodo presidencial que se tendría que producir el indulto, por lo tanto, tira la pelota afuera, es Eugenio Zaffaroni.",
+      "entidades_detectadas": [
+        "Eugenio Zaffaroni",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "No hay que decir que, si Cristina es condenada, el único recurso que cree que dará es el indulto presidencial.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Escuchemos a Eugenio Zaffaroni:\n\n*   **Eugenio Zaffaroni (audio)**: \"Si la vicepresidenta es condenada, si quienes deben anular este proceso viciado desde el inicio lo confirmasen o nada hiciesen, dado los tiempos del derecho internacional resultarían ineficaces los recursos ante los organismos internacionales, no quedaría otra alternativa que buscar una solución en el derecho interno para salvar el futuro de nuestra democracia ante la perspectiva de llegar a una elección con proscripciones, el único recurso que queda, por duro que sea, no puede ser otro que un indulto presidencial.",
+      "entidades_detectadas": [
+        "Eugenio Zaffaroni"
+      ]
+    },
+    {
+      "frase": "Es conveniente que lo vayamos pensando como último recurso para que la democracia preservada pueda intentar la restauración de la República.\"\n\nClarísimo Zaffaroni, que puede ser controversial en muchos aspectos, pero no cabe ninguna duda de que es uno de los juristas más prestigiosos que tiene Argentina a nivel internacional.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Clarísimo Zaffaroni"
+      ]
+    },
+    {
+      "frase": "Indulto, como tantas palabras de nuestro idioma, viene del latín *indultus*, que implica indulgencia, y viene del verbo *indulgere*, o sea, ser permitido.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuántas veces se aplicó en Argentina?",
+      "entidades_detectadas": [
+        "Argentina",
+        "¿Cuántas"
+      ]
+    },
+    {
+      "frase": "En Argentina hay ejemplos: la Ley 23.492 de Punto Final, promulgada por **Raúl Alfonsín** en 1983, que luego fue anulada en 2003 a los responsables de haber cometido delitos complejos de desaparición forzada de personas.",
+      "entidades_detectadas": [
+        "Punto Final",
+        "Argentina",
+        "la Ley",
+        "Raúl Alfonsín"
+      ]
+    },
+    {
+      "frase": "También, otro caso es el de **Carlos Menem** en 1989 y 90 a los miembros de las juntas condenadas por el juicio a la dictadura.",
+      "entidades_detectadas": [
+        "También",
+        "Carlos Menem"
+      ]
+    },
+    {
+      "frase": "Incluyó también el proceso del ministro de Economía de la dictadura, **Martínez de Hoz**, y también el caso de **Firmenich**.",
+      "entidades_detectadas": [
+        "Firmenich",
+        "Martínez de Hoz",
+        "ministro de Economía de la dictadura",
+        "Incluyó"
+      ]
+    },
+    {
+      "frase": "En Estados Unidos, quizás el perdón más famoso de la historia de Estados Unidos fue el concedido por el presidente **Gerald Ford** a su antecesor en el cargo, el presidente **Richard Nixon**.",
+      "entidades_detectadas": [
+        "Richard Nixon",
+        "Estados Unidos",
+        "Gerald Ford"
+      ]
+    },
+    {
+      "frase": "Ustedes recordarán el famoso caso Watergate, que, para el periodismo, ha sido, podríamos decir, la piedra basal del periodismo de investigación.",
+      "entidades_detectadas": [
+        "Watergate"
+      ]
+    },
+    {
+      "frase": "En Perú, en el año 2007, el presidente **Kuczynski** indultó a **Fujimori**, autor de numerosos crímenes contra la humanidad, para evitar la destitución en una moción impulsada por la hija de Fujimori, **Keiko Fujimori**.",
+      "entidades_detectadas": [
+        "Kuczynski",
+        "Fujimori",
+        "Perú",
+        "Keiko Fujimori"
+      ]
+    },
+    {
+      "frase": "Esto fue visto como traición por los partidos de izquierda, que, liderados por **Verónika Mendoza** en su momento, lo ayudaron a llegar al poder.",
+      "entidades_detectadas": [
+        "Verónika Mendoza"
+      ]
+    },
+    {
+      "frase": "También, en Perú, hay casos masivos de indultos: **Alan García** otorgó el indulto a 5.500 sentenciados por distintos casos de narcotráfico.",
+      "entidades_detectadas": [
+        "otorgó",
+        "También",
+        "Perú",
+        "Alan García"
+      ]
+    },
+    {
+      "frase": "En Estados Unidos, el primer indulto (y esto resulta paradójico) lo dio el presidente **George Washington** a varios líderes de la rebelión del whisky, la rebelión que se desarrolló entre 1791 y 1794, en protesta por los impuestos establecidos a determinadas bebidas alcohólicas.",
+      "entidades_detectadas": [
+        "George Washington",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Fíjense cómo había revueltas en Estados Unidos también por cuestiones tributarias.",
+      "entidades_detectadas": [
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "En España, el gobierno de **Felipe González** indultó en 1988 a un ex general, **Alfonso Armada**, uno de los dirigentes del intento golpista del famoso 23F.",
+      "entidades_detectadas": [
+        "Alfonso Armada",
+        "Felipe González",
+        "España"
+      ]
+    },
+    {
+      "frase": "Más tarde, en 1998, **José María Aznar** indultó a **José Barrionuevo** y **Rafael Vera**, políticos socialistas condenados por el caso GAL.",
+      "entidades_detectadas": [
+        "GAL",
+        "José María Aznar",
+        "José Barrionuevo",
+        "Rafael Vera"
+      ]
+    },
+    {
+      "frase": "Y en el 2000, hubo más de 1.300 condenados que salieron de prisión en virtud de un indulto masivo que, con motivo del fin del milenio, el jubileo, que en ese momento era el jefe del Estado, **José Luis Rodríguez Zapatero**, produjo ese indulto, y además indultó al banquero **Alfredo Sáenz Abad**, que era el número dos del Banco Santander.",
+      "entidades_detectadas": [
+        "Banco Santander",
+        "José Luis Rodríguez Zapatero",
+        "Estado",
+        "Alfredo Sáenz Abad"
+      ]
+    },
+    {
+      "frase": "Esto ocurrió durante el tiempo de traspaso de los poderes después de que el Partido Socialista perdiera las elecciones generales de 2011.",
+      "entidades_detectadas": [
+        "Partido Socialista"
+      ]
+    },
+    {
+      "frase": "O sea, es muy interesante ver que los indultos generalmente se producen cuando el presidente o el jefe de Estado se está yendo, como un regalo final antes del cambio que se está yendo y viene otro partido, antes del cambio en la conducción del partido, no solamente del presidente de un país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La mayoría de los beneficiarios del gobierno de **Mariano Rajoy**, que sucedió al de Zapatero, que comenzó a finales de 2011, fueron traficantes de drogas.",
+      "entidades_detectadas": [
+        "Zapatero",
+        "Mariano Rajoy"
+      ]
+    },
+    {
+      "frase": "Y así podríamos seguir hasta llegar al caso increíble de **Donald Trump** en Estados Unidos, que pensó en autoindultarse a él mismo.",
+      "entidades_detectadas": [
+        "Donald Trump",
+        "en Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Más tarde o más temprano, como bien dice Zaffaroni, este va a ser un tema para quien le toque presidir Argentina en el período 2023-2027.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Zaffaroni"
+      ]
+    },
+    {
+      "frase": "Y no va a ser un problema seguramente del presidente Alberto Fernández, porque no va a existir esa condena firme antes de que finalice su mandato presidencial.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Entonces, para cerrar esta apertura, vamos a usar al propio Alberto Fernández cantando \"Solo se trata de vivir\".",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Bueno, para quienes se quejen de la entonación del presidente, vamos a poner \"Solo se trata de vivir\" por su principal cantante politotécnico.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Zaffaroni",
+    "Indulto",
+    "Bizarrap",
+    "otorgó",
+    "Reino Unido",
+    "Derecho Procesal",
+    "Buenos",
+    "Punto Final",
+    "Incluyó",
+    "Además",
+    "Milagros Sala",
+    "Constitución",
+    "venía",
+    "Donald Trump",
+    "Felipe González",
+    "Estados Unidos",
+    "Perú",
+    "Suprema Corte de Justicia",
+    "Carlos Menem",
+    "Zapatero",
+    "Verónika Mendoza",
+    "Firmenich",
+    "Así",
+    "Los Federalistas",
+    "Batakis",
+    "Alan García",
+    "Alfredo Sáenz Abad",
+    "Alberto Fernández",
+    "Morales",
+    "llegó",
+    "Estado de Derecho",
+    "El indulto",
+    "Cristina Fernández de Kirchner",
+    "José María Aznar",
+    "José Barrionuevo",
+    "Argentina",
+    "Parrilli",
+    "Ayer",
+    "¿Cuántas",
+    "Cristina",
+    "Ustedes",
+    "Corte",
+    "España",
+    "Partido Socialista",
+    "Kuczynski",
+    "Alfonso Armada",
+    "Martínez de Hoz",
+    "José Luis Rodríguez Zapatero",
+    "Constitución de los Estados Unidos",
+    "GAL",
+    "TN",
+    "Gerardo Morales",
+    "Rafael Vera",
+    "Trump",
+    "Gerald Ford",
+    "Keiko Fujimori",
+    "Villano Antillano",
+    "George Washington",
+    "Poder Judicial",
+    "Constitución Nacional",
+    "Richard Nixon",
+    "ministro de Economía de la dictadura",
+    "Macri",
+    "También",
+    "la Ley",
+    "Clarísimo Zaffaroni",
+    "Eugenio Zaffaroni",
+    "Parrilli.",
+    "Estado",
+    "Oscar Parrilli",
+    "Corte Suprema de Justicia",
+    "Raúl Alfonsín",
+    "PRO",
+    "Cristina Fernández",
+    "Mariano Rajoy",
+    "repitió Cristina",
+    "Sergio Massa",
+    "Escuchémoslo",
+    "Bueno",
+    "Fujimori",
+    "Banco Santander",
+    "En Estados Unidos",
+    "en Estados Unidos",
+    "Watergate"
+  ]
+}

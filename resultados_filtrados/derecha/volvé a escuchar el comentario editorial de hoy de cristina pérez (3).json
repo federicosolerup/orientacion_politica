@@ -1,0 +1,57 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Ahora, además de las fotos de misiles, consignas antiisraelíes e imágenes en su celular que prueban la pertenencia del piloto al grupo Al-Quds, considerado terrorista por Estados Unidos, se suma un durísimo comunicado de Israel que afirma que en el avión que aterrizó en Argentina se encontraban iraníes involucrados directamente en el tráfico de armas a Siria y a la organización terrorista Hezbolá del Líbano.",
+      "entidades_detectadas": [
+        "argentina",
+        "israel"
+      ]
+    },
+    {
+      "frase": "Esta advertencia llegó a través de las sedes diplomáticas israelíes en Uruguay y Paraguay, donde también se abrió una causa penal.",
+      "entidades_detectadas": [
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "En estas horas, el canciller Santiago Cafiero desmintió la teoría de los instructores de vuelo en declaraciones realizadas en Estados Unidos.",
+      "entidades_detectadas": [
+        "cafiero"
+      ]
+    },
+    {
+      "frase": "El presidente tiene el descaro de decir que la economía vuela, pero no puede andar sobre ruedas, ¿no?",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Pensar que hace solo unos días, Cristina Fernández de Kirchner se sentaba en el plenario de la CTA a pontificar sobre economía y a culpar a Macri.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "En lo que no fallan es en criticar unísonamente a la Corte Suprema, a cualquier juez o tribunal que se atreva a pedir que la señora Fernández de Kirchner rinda cuentas ante la justicia.",
+      "entidades_detectadas": [
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Cuando falta un año y medio para que termine el mandato de Alberto Fernández, lo único que vuela, parafraseando al presidente, es la crisis.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "**Archivo de Log:**\n\n* **Corrección de nombres y apellidos:**  \"Aníbal Fernández\", \"Cristina Kirchner\" corregidos a \"Aníbal Fernández\", \"Cristina Fernández de Kirchner\"; \"Santiago Cafiero\" mantenido.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 3
+    },
+    "score_promedio": 0.602,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Y ahora estamos en comunicación con Ricardo Sáenz, el fiscal de la causa judicial que investiga el fallecimiento del fiscal Alberto Nisman y para musicalizar la entrevista con él, lo vamos a recibir con una canción para Nisman de Claudio Chazarreta.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La corte le tendió una trampa tan vil que con lanzas y espadas lo pudieron alcanzar.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La corte le tendió una trampa tan vil que con lanzas y espadas lo pudieron alcanzar.",
+      "score": 0.949,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los perros le caían como una luz, sin saber que la verdad saldrá a la luz.",
+      "score": 0.97,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, el Estado era el que tenía la prueba, comunicaciones, la prueba de ver qué se quemó aquel día en la Casa Rosada un día antes de la muerte de Nisman, registros de entrada.",
+      "score": 0.095,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 5
+  },
+  "etiqueta_original": "neutral"
+}

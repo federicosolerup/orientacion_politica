@@ -1,0 +1,51 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Velázquez, tras declarar en el programa \"La Nación +\",  retracto su testimonio.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "El tribunal, integrado por Néstor Costabel, Adriana Pailot y María López Iñíguez, junto al fiscal Isabel Córdoba, iba a emitir su veredicto sobre Lázaro Báez, socio de los Kirchner en diversos negocios.",
+      "entidades_detectadas": [
+        "néstor",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "La condena de Báez, socio del matrimonio Kirchner e incluso de Máximo Kirchner en algunos negocios, por lavado de dinero en Argentina, tendría un impacto significativo, considerando que Cristina Kirchner, la vicepresidenta, actualmente enfrenta otro juicio.",
+      "entidades_detectadas": [
+        "cristina",
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Esto es relevante porque se avecinan juicios con otros arrepentidos (como la causa de los cuadernos), donde existe presión política, como la sufrida por Fariña durante la gestión de Cristina Kirchner, para evitar la consideración de \"arrepentido\" y así obtener una condena.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "La condena de Báez eliminaría cualquier excusa sobre persecución judicial contra Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina"
+      ]
+    },
+    {
+      "frase": "Un amigo de los Kirchner, quien incluso construyó el mausoleo de Néstor Kirchner, condenado por lavado de dinero, representa una prueba contundente de falta de transparencia.",
+      "entidades_detectadas": [
+        "néstor"
+      ]
+    },
+    {
+      "frase": "Cristina Kirchner guarda silencio sobre Báez, a diferencia de otros casos.",
+      "entidades_detectadas": [
+        "cristina",
+        "kirchner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 49,
+      "derecha": 22
+    },
+    "score_promedio": 0.342,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Martes 13 recibe al presidente **Javier Milei** después de su intensa gira por Israel e Italia.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Retorna a la Argentina, una Argentina aún más convulsionada a raíz de lo que dejó la semana pasada, gracias a los coletazos de la caída de la ley Ómnibus y el inicio formal de una \"guerra\" con los gobernadores.",
+      "score": 0.554,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei trata a los gobernadores como monos, relacionándolo con un texto de un científico, un científico muy importante de la Universidad de Stanford.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría pensarse en Milei utilizando el refuerzo intermitente con **Macri**, por ejemplo, con la oposición dialoguista, con los gobernadores, por momentos con todos al mismo tiempo que estén dispuestos a negociar.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego, de la nada, los empieza a acusar con los peores epítetos por redes sociales, rompe la relación para luego reiniciar el ciclo.",
+      "score": 0.461,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Será una estrategia de Javier Milei?",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, ¿estamos ante un hábil manipulador o, en realidad, solo intentamos darle sentido a conductas espasmódicas y caóticas de un presidente que no encuentra el rumbo?",
+      "score": 0.492,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En minutos, el presidente Milei aterrizará en el aeropuerto de Ezeiza.",
+      "score": 0.599,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace exactamente una semana estaba en Israel y ayer estuvo en el Vaticano junto al Papa Francisco.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina con la que Milei se fue y la que encontrará en tres minutos es completamente distinta.",
+      "score": 0.459,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si nos remontamos a una semana atrás, Milei llegó a Israel el martes 6 de febrero.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras Milei visitaba el Muro de los Lamentos, eran las 16:45 en la Argentina.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente para Javier y el gobierno, el chiste se contaba solo.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras el presidente estaba en el Muro de los Lamentos, caía la ley ómnibus.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vida política de la Argentina y de Javier Milei es frenética.",
+      "score": 0.736,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos primero a recordar esto, que parece de hace un siglo, hace una semana: Javier Milei llorando en el Muro de los Lamentos.",
+      "score": 0.669,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está llorando Javier Milei, abraza, abraza, abraza a su rabino, a su líder espiritual con quien comenzó el camino de la Cábala, por el cual él informó que va a estar en un \"queriendo transporte\", queriendo, besa el Muro de los Lamentos.",
+      "score": 0.578,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esto sucedía, no el siglo pasado, sino hace una semana, cuando **Oscar Zago**, el jefe de la bancada de La Libertad Avanza, pide un cuarto intermedio y que la ley Ómnibus vuelva a comisión el mismo martes de la semana pasada, 6 de febrero, pocos minutos después de que vimos y compartimos estas imágenes y escuchamos allí al presidente Milei frente al Muro de los Lamentos.",
+      "score": 0.035,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras eso sucedía en Israel, en la Argentina sucedía esto.",
+      "score": 0.438,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver parte de lo que fue la justificación y el relato que construyó el gobierno luego de la derrota en el Congreso.",
+      "score": 0.123,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya pasamos al día siguiente, estamos en la cuenta regresiva de los siete días que cambiaron la historia del gobierno de Javier Milei.",
+      "score": 0.642,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente acusó a los diputados y a los gobernadores, a quienes llamó \"conjunto de delincuentes\" que quieren una Argentina peor.",
+      "score": 0.811,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Hacer en la sesión de la Cámara de Diputados, la casta política, como nosotros llamamos a ese conjunto de delincuentes que quieren una Argentina peor, porque no están dispuestos a ceder sus privilegios.",
+      "score": 0.782,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y los diputados empezaron a descuartizar nuestra Ley de Bases y Puntos de Partida para la Libertad de los Argentinos para poder sostener sus distintos mecanismos por los cuales le roban a los argentinos y, en ese sentido, dan la orden de levantar el proceso\".",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé, uno podría decir, desmembrar, podría decir licuar, reducir, atemperar, mejorar, podría entrar en calificativos incluso más constructivos.",
+      "score": 0.318,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Concretamente, dijo: \"Córdoba, Santa Fe y Salta se están equivocando\".",
+      "score": 0.343,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y bueno, lo hemos decidido volver a comisión para poder ver cuáles son los inconvenientes que tienen esos diputados, que sabemos que algunos responden a algunos sectores de los gobernadores y para ver si podemos acordar nuevamente y poder sacar la ley como, medianamente, nosotros pensábamos.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no quiero decir nombres, pero Córdoba se está equivocando, Santa Fe se está equivocando, creo que el gobierno está colaborando muchísimo con esas...",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "con las fronteras de Salta también, que estamos como que estamos colaborando enormemente y, hoy, en el proceso de seguridad nos votan en contra, parece que nos están cargando.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habían pasado solo 24 horas de que el presidente se despidiera de la Argentina, como se percibe en esta declaración del jefe de la bancada de La Libertad Avanza, todavía creía que si la ley volvía a comisión continuaba aprobada en general, lo que luego, finalmente, claramente se demostró equivocado, error en el que había caído también el ministro del Interior, **Guillermo Francos**.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchar a Patricia Bullrich era: \"Una ley tan débil que no te iba a convenir, un trabajo político al que te llevaban era un trabajo político en el que, cuando vos terminabas de mirar, no terminabas teniendo una ley tan flaca, con mucha expectativa popular y tan débil en los cambios que, finalmente, no te iba a convenir\".",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa discusión, respecto de si uno consigue la mitad del objetivo buscado, no le conviene, no es toda una posición frente a la vida.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "no piensan, perdón, desde el Ejecutivo, enviar ninguna ley al Congreso por este año.",
+      "score": 0.575,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Políticos, se empezó a circular la idea de una fusión entre el PRO y La Libertad Avanza, en la que dirigentes del macrismo ingresarían a cargos claves del gobierno.",
+      "score": 0.135,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los acercamientos son complejos porque se quiere desplazar, por ejemplo, a Zago, al frente de la bancada, a **Martín Menem**, al frente de la conducción de la presidencia de la Cámara de Diputados, a quienes se los culpa por la derrota en el Congreso, derrota que, por otro lado, Milei admite y que la propia Patricia Bullrich considera también que no hubo derrotas, sino que, finalmente, fue un triunfo, aseguran que fue todo una estrategia para desenmascarar a la casta.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras el PRO mantiene esta dura negociación con el gobierno de Javier Milei, las peleas en el frente interno no se hacen esperar: Patricia Bullrich y Macri están en una confrontación por el control del partido y las condiciones de esa eventual fusión.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich se encuentra más decidida y Macri quiere guardar alguna identidad, asegurar los puestos claves.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, el expresidente busca recuperar el control del PRO y fuentes de las altas esferas del macrismo ven con escepticismo esta decisión: \"Si no fusionamos y a Milei le va bien, logra estabilizar la inflación, se queda con todo, y si va mal, será repudiado por la sociedad y nosotros vamos a quedar pegados\".",
+      "score": 0.211,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según los trascendidos, para él sería el cargo de presidente de la Cámara Baja, o sea, de la Cámara de Diputados.",
+      "score": 0.86,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las tendencias de la caída en la imagen del presidente arrastrarán progresivamente al propio presidente al resto del gobierno.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros podemos hacer otras: ¿esta posible fusión entre La Libertad Avanza y el PRO es un giro al centro del gobierno?",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Dirigentes del PRO serían capaces de acompañar al gobierno en un giro autoritario?",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace cuatro días, Patricia Bullrich confirmó esta tentativa de fusión entre el PRO y La Libertad.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escucharla ahora, Patricia Bullrich, 9 de febrero: \"Lo que se viene es una coalición entre el PRO y La Libertad Avanza, no le haría falta un rediseño político donde incorporar a una nueva conformación política los sectores del PRO, La Libertad Avanza, para hacer algo mucho más homogéneo y fuerte.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el presidente está claro.",
+      "score": 0.666,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Planteó que Milei es un político con más coraje, por lo menos eso es lo que dice **Roberto Navarro** en el tape, que es el pensamiento de Cristina Kirchner.",
+      "score": 0.922,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina piensa que Milei es el político que más coraje tiene, piensa Cristina.",
+      "score": 0.921,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es tan pesimista en cómo le va a ir a Milei, cree que la inflación va bajando de a poco, que va a haber una segunda devaluación, pero que va a ser chica, en marzo-abril, y que no va a pasar a precios esa segunda devaluación.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina cree que Milei es hoy el político que mejor está haciendo las cosas en términos de técnica política, porque es el que más coraje tiene, porque es kirchnerista en su manera de obrar, es decir, siempre doble la apuesta, nunca va para atrás, nunca va para atrás.",
+      "score": 0.799,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cree Cristina que se encuentra con una dirigencia, incluyendo a todo el peronismo, con poco coraje para enfrentarlo.",
+      "score": 0.286,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Increíble, ¿no?, inimaginable ha sido este pensamiento, si tal fuera cierto que así es, de Cristina Kirchner sobre Milei.",
+      "score": 0.868,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todo el contó Navarro, se desprende que Milei sería una especie de Néstor Kirchner metodológico con respecto a los gobernadores, a quienes quieren disciplinar.",
+      "score": 0.125,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que, en ocasiones como el 2005, este método le funcionó a Néstor Kirchner, pero en otras, como la del 2009, los gobernadores se plegaron, como se sabe, a las dirigencias del campo y le salió muy mal.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Está alertando al peronismo, buscando bases de Milei para que la escuchen?",
+      "score": 0.078,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuesta creer que Cristina Kirchner regale elogios tan fácilmente a un rival como es Javier Milei, pero bueno, en la Argentina actual y en el día de carnaval, todavía nos podemos permitir todo tipo de interpretaciones.",
+      "score": 0.863,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tres días después de este breve aliento, Milei tuvo el encuentro con el Papa, algo que, a todas luces, le salió sin ninguna duda muy bien.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, en la despedida de algunos jóvenes argentinos en Italia, y Milei recibió también, en el vuelo de regreso...",
+      "score": 0.382,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ver y escuchar en el vuelo de regreso, creo que le gritaban \"Peluca a corazón\" o algo por el estilo: \"¡Javi!",
+      "score": 0.785,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Todo Argentina le finger...",
+      "score": 0.827,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Javi!\" En otro de los videos que también distribuyó la Presidencia, le gritaban \"Peluca corazón\".",
+      "score": 0.653,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y como dijimos, en su vuelta, el presidente se enfrenta a una Argentina difícil, desafiante, a un grupo de gobernadores que tienen recursos estratégicos, que fueron extorsionados para votar una ley y luego fueron ofendidos, así que se presupone una batalla larga y compleja.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei aún está a tiempo de ordenar sus relaciones políticas y avanzar en un gobierno de acuerdos.",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se debe a que Milei tiene rasgos mesiánicos, se ve como una especie de iluminado, de enviado de Dios.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También, en este programa, **Alejandro Cacetta**, ensayista, ayer, quien también lo entrevistamos en este programa, se refirió a los problemas que causa el pensamiento dogmático de Milei, un pensamiento inflexible e intransigente, que es lo que elogia Cristina Kirchner.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Milei lo elogia, según dice El Destape, veremos si lo dijo ella realmente, el tiempo nos dirá.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Milei no estuviese en condiciones, a través del refuerzo intermitente que mencionamos al principio, de disciplinar a los gobernadores, como el neuroendocrinólogo muestra que se disciplinan a los monos, es hora de enviar algún otro refuerzo.",
+      "score": 0.101,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el principio de sus mandatos fueron todos refuerzos negativos y promesas de estar mejor, sin embargo, y quienes lo esperan honestamente, no creemos que tengan algunas razones para ser optimistas, pero, como decía Chartil, el optimismo finalmente termina siendo útil, porque el pesimismo ya está y nos venció.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei es una persona profundamente sola, que no está obsesionada por el dinero, que podría decirse que es una persona que no tiene nada que perder si vuelve al llano.",
+      "score": 0.197,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay quienes conocieron a Milei y tuvieron trato, se dice que contaron que tenía cierto aspecto llamativamente desalineado, lo que es, en general, un signo de personalidad antisocial o con poco registro del otro.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta etapa que comienza y que le espera al presidente a partir de unas horas, cuando llegue de Ezeiza, serán decisivas para el gobierno, luego de su primera derrota y tal vez podamos ver realmente quién es Javier Milei.",
+      "score": 0.133,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei quiere tratar a los gobernadores como monos, en función de esa terapia que contábamos del neuroendocrinólogo de la Universidad de Stanford, Robert Sapolsky, denominada refuerzo intermitente.",
+      "score": 0.137,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 71
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,51 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 2,
+      "derecha": 5
+    },
+    "score_promedio": 0.552,
+    "etiqueta_final": "derecha"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros necesitamos que al gobierno le vaya bien.",
+      "score": 0.685,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina necesita que al gobierno le vaya bien, como necesita todo el tiempo el país que al gobierno que tiene le vaya bien.",
+      "score": 0.579,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo le ha dejado un campo minado, pero se ha presentado a hacer gobierno para eso, para enfrentar las soluciones.",
+      "score": 0.551,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gran oportunidad que espero que el presidente de la República no desaproveche.",
+      "score": 0.915,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guste o no guste el gobierno de Macri, que Cambiemos permanezca unido sería una tragedia política, ya no para el gobierno, para el país.",
+      "score": 0.397,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Espero que el presidente Macri esa lección la haya aprendido.",
+      "score": 0.706,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "*   **Corrección ortográfica:**\n    *   Se corrigieron errores de tildes y ortografía general (ej: \"dificilísimos\", \"jubilaciones\").",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 7
+  },
+  "etiqueta_original": "neutral"
+}

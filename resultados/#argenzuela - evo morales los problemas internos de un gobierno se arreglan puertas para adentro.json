@@ -1,0 +1,800 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Evo Morales Ayma, el expresidente del Estado Plurinacional de Bolivia, se encuentra actualmente en Argentina.",
+      "entidades_detectadas": [
+        "Evo Morales Ayma",
+        "Argentina",
+        "Estado Plurinacional de Bolivia"
+      ]
+    },
+    {
+      "frase": "Tuve una conversación en Rosario, una anécdota con Mauricio Macri, aunque, si me lo permiten, no la recuerdo con exactitud.",
+      "entidades_detectadas": [
+        "Mauricio Macri",
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Agradezco mucho a Jorge Rial de Radio 10, \"Buen Día\".",
+      "entidades_detectadas": [
+        "Jorge Rial de Radio 10"
+      ]
+    },
+    {
+      "frase": "Qué alegría conversar con usted, Jorge.",
+      "entidades_detectadas": [
+        "Jorge",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Gracias por este contacto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, por favor, el gusto es mío.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos muchas ganas de hablar con usted.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Primero,  estando en Argentina, ¿qué significado tiene este país para usted tras el golpe de Estado?",
+      "entidades_detectadas": [
+        "¿",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Es un momento de mucha emoción, honor y orgullo volver a Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Puebla, Bolivia, me cobijó durante casi un año.",
+      "entidades_detectadas": [
+        "Puebla",
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "El presidente Alberto Fernández, la vicepresidenta Cristina Fernández de Kirchner, junto a otros mandatarios como Nicolás Maduro, Miguel Díaz-Canel de Cuba y el presidente de México, me salvaron la vida, y Argentina me brindó refugio durante un año.",
+      "entidades_detectadas": [
+        "México",
+        "Argentina",
+        "Alberto Fernández",
+        "Cristina Fernández de Kirchner",
+        "Miguel Díaz-Canel de Cuba",
+        "Nicolás Maduro"
+      ]
+    },
+    {
+      "frase": "Desde aquí, luchamos juntos para recuperar la democracia y lo logramos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Guardo un gran recuerdo de esa época, y me produce gran satisfacción volver a compartir momentos con el pueblo argentino.",
+      "entidades_detectadas": [
+        "Guardo"
+      ]
+    },
+    {
+      "frase": "Ayer, durante la cena, sentí mucho cariño y respeto por el pueblo argentino y su gobierno.",
+      "entidades_detectadas": [
+        "Ayer"
+      ]
+    },
+    {
+      "frase": "Usted menciona, y lo reitera a menudo, que le \"salvaron la vida\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Es esto literal?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sabemos que corrió peligro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sus opositores incluso se han arrepentido de no haberlo asesinado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con el tiempo, la verdad siempre sale a la luz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 11 de noviembre de 2019, mi situación era extremadamente difícil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algunos ministros, dirigentes sindicales, de hecho, casi todos, decían: \"Si queremos salvar nuestra revolución democrática, debemos salvar la vida de Evo\".",
+      "entidades_detectadas": [
+        "Evo"
+      ]
+    },
+    {
+      "frase": "Para mí era una cuestión de vida o muerte; no quería renunciar, pero entendí sus mensajes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Salvar su vida era salvar la nuestra, la del proceso de cambio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, hice un gran esfuerzo denunciando los actos para evitar muertes, incendios en casas de ministros, alcaldes, militantes, dirigentes sociales y familiares, para evitar eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Afortunadamente, durante mi gestión como presidente, no hubo masacres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nosotros luchamos por la vida, trabajamos por la vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me preguntaban: \"¿Cómo es posible que en su gobierno haya masacres?\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Diez días antes del golpe de Estado, me reuní con el alto mando militar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por primera vez, me pidieron una reunión a solas, sin vicepresidente ni ministro de Defensa presentes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acepté la reunión y me dijeron que para detener la movilización de la derecha, necesitaban comprar más balas.",
+      "entidades_detectadas": [
+        "Acepté"
+      ]
+    },
+    {
+      "frase": "Yo respondí que no compraría balas contra mi pueblo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Somos una cultura de vida.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si se necesitan balas o armas, que sea para defender el territorio, no para atacar al pueblo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa era mi postura ante el mando militar, el cual ya tenía, seguramente, algunos compromisos con la derecha.",
+      "entidades_detectadas": [
+        "tenía"
+      ]
+    },
+    {
+      "frase": "Después, la prensa y los ministros afirmaron que estaban en contacto con un único mandante, la policía y las Fuerzas Armadas.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas",
+        "Después"
+      ]
+    },
+    {
+      "frase": "Pero en todo momento, nosotros estuvimos con la verdad y la razón.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después de un año, recuperamos la democracia y volvimos a Bolivia.",
+      "entidades_detectadas": [
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "El plan de la derecha era perpetrar numerosos crímenes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde Argentina, agradezco a mis compañeros y a las autoridades de la justicia boliviana.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Luchamos y salvaguardamos al Movimiento al Socialismo (MAS).",
+      "entidades_detectadas": [
+        "MAS",
+        "Movimiento al Socialismo"
+      ]
+    },
+    {
+      "frase": "Pero luego, ¿qué decían?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "\"El MAS sin Evo es nada\".",
+      "entidades_detectadas": [
+        "Evo"
+      ]
+    },
+    {
+      "frase": "Tampoco lo lograron.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pensaron que el MAS no volvería al gobierno de Bolivia.",
+      "entidades_detectadas": [
+        "MAS",
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "Ahora, el MAS sigue en movimiento, con mucha fuerza, y su vitalidad se mantiene.",
+      "entidades_detectadas": [
+        "MAS"
+      ]
+    },
+    {
+      "frase": "Es algo histórico, por eso nunca olvidaré al pueblo argentino, al presidente Alberto Fernández, a Cristina Fernández de Kirchner y a su gobierno.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Durante un año viví aquí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Volví a Bolivia con vida y ahora seguimos movilizando al pueblo, aportando y defendiendo a nuestros compañeros.",
+      "entidades_detectadas": [
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "Ahora, esas balas que usted se negó a comprar, las compraron los golpistas, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y creo que eso es una herida profunda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué diferencia hay con el gobierno del pueblo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobierno argentino de ese momento, el de Mauricio Macri, les terminó proporcionando armamento durante el golpe.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "En cambio, el presidente Alberto Fernández envió medicamentos durante la pandemia.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Eso también es histórico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasa con nuestras autoridades?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "El expresidente Mauricio Macri hablaba de un \"nuevo Plan Cóndor\", un \"Plan Cóndor II\", que involucraba a Ecuador, al expresidente de Brasil, Jair Bolsonaro, a la administración de Estados Unidos.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Jair Bolsonaro",
+        "Ecuador",
+        "Estados Unidos",
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Todo por los recursos naturales y especialmente por la gestión del golpe de Estado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un nuevo Plan Cóndor, un plan de exterminio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, totalmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando no pueden ganar democráticamente, Estados Unidos organiza golpes de Estado e intervenciones.",
+      "entidades_detectadas": [
+        "Estado",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Y cuando los países se liberan democráticamente, se enfrentan a castigos económicos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero a pesar de esa situación, la situación política en América Latina está cambiando.",
+      "entidades_detectadas": [
+        "América Latina"
+      ]
+    },
+    {
+      "frase": "Antes, ser calificado como comunista o socialista daba miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, es un honor serlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estados Unidos está perdiendo poder económico en América Latina y el Caribe, debido a la guerra en Ucrania y a su alta inflación (8.6%).",
+      "entidades_detectadas": [
+        "8.6%",
+        "Ucrania",
+        "América Latina y el Caribe",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Estados Unidos ya no es una potencia económica, aunque sigue siendo una potencia militar junto con China.",
+      "entidades_detectadas": [
+        "China",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "Hablando de recursos naturales, recuerdo una anécdota con Mauricio Macri.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Me preguntó cómo crecía la economía boliviana (4.5%), queriendo saber cómo lo hacíamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Por qué le interesaba esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por la importancia de los recursos naturales y el litio, específicamente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los planes económicos del Banco Mundial o del FMI buscan la privatización de los recursos naturales y la mercantilización de los servicios básicos.",
+      "entidades_detectadas": [
+        "FMI",
+        "Banco Mundial"
+      ]
+    },
+    {
+      "frase": "Mientras que las políticas sociales de Bolivia se basan en la nacionalización y la recuperación de los recursos naturales.",
+      "entidades_detectadas": [
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "Tenía un mandato claro: la nacionalización.",
+      "entidades_detectadas": [
+        "Tenía"
+      ]
+    },
+    {
+      "frase": "Bolivia no tenía poder político, solo sindical y comunal.",
+      "entidades_detectadas": [
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "Con ese poder, no podíamos nacionalizar ni cerrar bases militares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Necesitábamos un movimiento político.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y ese movimiento político es único en el mundo, porque los indígenas, marginados y amenazados de exterminio durante la colonia y la república,  decidimos tener derechos políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con el poder político, pudimos cerrar la base militar y nacionalizar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La nacionalización impulsó la economía del país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me sorprende, ya que no tengo formación académica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mi experiencia proviene de la lucha social y comunal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llegué a la presidencia gracias a la verdad y la honestidad, a pesar de las acusaciones de narcotráfico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La DEA me investigó, como a muchos otros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hubiera sido cierto, ¿cuánto tiempo habría durado en el poder?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No encontraron nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa batalla la ganamos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, esta política económica rechaza la colonización y la apropiación de la soberanía económica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La soberanía política debe ir acompañada de la soberanía económica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso es gracias a la lucha social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero todavía nos falta soberanía en ciencia y tecnología.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es la otra gran área de soberanía que debemos fortalecer en Sudamérica.",
+      "entidades_detectadas": [
+        "Sudamérica"
+      ]
+    },
+    {
+      "frase": "Usted mencionó las acusaciones de narcotráfico y la DEA.",
+      "entidades_detectadas": [
+        "DEA"
+      ]
+    },
+    {
+      "frase": "Ahora hay una nueva campaña contra el MAS, que lo vincula a un narcotraficante argentino llamado Farfán.",
+      "entidades_detectadas": [
+        "MAS"
+      ]
+    },
+    {
+      "frase": "Hizo alguna declaración al respecto en Twitter.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En nuestra gestión, hemos expulsado a quienes han pedido sobornos, sin importar si eran nuestros propios colaboradores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre ha habido traidores al servicio de la derecha.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el MAS hay diversidad e integración.",
+      "entidades_detectadas": [
+        "MAS"
+      ]
+    },
+    {
+      "frase": "Hay un proceso judicial en curso, pero no hubo ninguna evidencia de corrupción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se inventa esto para generar prejuicios y una mala imagen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quería tocar este tema, es secundario, pero en su momento se demostrará la verdad ante la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dicen que hay una carta que el vicepresidente del MAS escribió y abandonó.",
+      "entidades_detectadas": [
+        "MAS"
+      ]
+    },
+    {
+      "frase": "Es ridículo, es una invención para confundir a la población boliviana y al mundo entero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Volviendo a la nacionalización: en medio de la crisis energética mundial, ¿la nacionalización de los recursos naturales sería una solución?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Que esos recursos estén en manos del Estado y sean administrados por él.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Sí, esa es nuestra experiencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La energía estaba en manos de empresas inglesas e italianas, el agua se estaba privatizando, el gas en manos de españolas, francesas y brasileñas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Nacionalizamos con mucha garantía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solo quiero compartir mi experiencia en la gestión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando decidí nacionalizar, lamentablemente algunos ministros tenían mucho miedo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una autoridad municipal necesita fuerza, energía y garantías.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso empezamos a cambiar la situación con la gestión pública.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De 1825 a 2005, 180 años, nos dejaron con 9 mil millones de dólares de PIB.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En 13 años, llegamos a 42 mil millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Antes, en 2005, la inversión pública era de 600 millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En los últimos cuatro años de mi gestión, programamos una inversión pública de más de 8 mil millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El año pasado bajó a 4 mil millones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora, las reservas de gas son un activo de 5 mil millones de dólares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos a recuperar nuestra economía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué tan importante ha sido esta gestión económica para cambiar la situación social y económica?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Este giro a la centroizquierda y el progresismo en Latinoamérica, con Lula en Brasil y un presidente de izquierda en Colombia, ¿significa una nueva generación que reemplaza a Evo, Néstor Kirchner y Lula?",
+      "entidades_detectadas": [
+        "Brasil",
+        "Latinoamérica",
+        "Evo",
+        "¿",
+        "Néstor Kirchner",
+        "Colombia",
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Es una revolución democrática en América Latina.",
+      "entidades_detectadas": [
+        "América Latina"
+      ]
+    },
+    {
+      "frase": "Tras la integración regional con Hugo Chávez, Néstor Kirchner y Fidel Castro, hubo momentos de retroceso.",
+      "entidades_detectadas": [
+        "Hugo Chávez",
+        "Fidel Castro",
+        "Néstor Kirchner"
+      ]
+    },
+    {
+      "frase": "Se perdieron inversiones y dinamismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay nueva esperanza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se crearon alianzas como el Grupo de Lima para atacar a Venezuela.",
+      "entidades_detectadas": [
+        "Grupo de Lima",
+        "Venezuela"
+      ]
+    },
+    {
+      "frase": "Ahora, ¿dónde está el Grupo de Lima?",
+      "entidades_detectadas": [
+        "¿",
+        "Grupo de Lima"
+      ]
+    },
+    {
+      "frase": "¿Quiénes lo conformaron?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina, México, Perú, Chile y Colombia.",
+      "entidades_detectadas": [
+        "México",
+        "Argentina",
+        "Chile",
+        "Colombia",
+        "Perú"
+      ]
+    },
+    {
+      "frase": "Ya casi no existe.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Alianza del Pacífico también está en problemas.",
+      "entidades_detectadas": [
+        "Alianza del Pacífico"
+      ]
+    },
+    {
+      "frase": "Hay que fortalecer la CELAC y la UNASUR.",
+      "entidades_detectadas": [
+        "CELAC",
+        "UNASUR"
+      ]
+    },
+    {
+      "frase": "Sudamérica tiene mucho potencial, con sus recursos naturales, pero necesitamos darles valor agregado a través de la ciencia y la tecnología.",
+      "entidades_detectadas": [
+        "Sudamérica"
+      ]
+    },
+    {
+      "frase": "Hay temor al avance de la derecha, con un político como Javier Milei.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "¿Podría haber un efecto contagio desde Brasil hacia Argentina?",
+      "entidades_detectadas": [
+        "Brasil",
+        "Podría",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Tengo mucha información, tal vez no debería decirlo, pero sí, hay preocupación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Con errores y procesos, uno a veces cae, pero se levanta y sigue adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esa es nuestra experiencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando uno tiene convicciones, es posible liberar a nuestros países.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Participé en muchos foros internacionales, siempre promoviendo la autodeterminación de los pueblos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Demostramos que otra Bolivia, otra realidad, es posible cuando hay unidad, buena gestión pública y una estrategia política.",
+      "entidades_detectadas": [
+        "Bolivia"
+      ]
+    },
+    {
+      "frase": "(Aquí siguen las preguntas de Sofia Caram y Mauro, y las respuestas de Evo Morales)\n\n\n**",
+      "entidades_detectadas": [
+        "Mauro",
+        "Evo Morales",
+        "Sofia Caram"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Jair Bolsonaro",
+    "Alberto Fernández",
+    "Fuerzas Armadas",
+    "MAS",
+    "Vamos",
+    "¿Qué",
+    "Colombia",
+    "Estado Plurinacional de Bolivia",
+    "Somos",
+    "Pensaron",
+    "Javier Milei",
+    "Qué",
+    "América Latina",
+    "Lula",
+    "Guardo",
+    "tenía",
+    "Hugo Chávez",
+    "Rosario",
+    "Agradezco",
+    "Nacionalizamos",
+    "Puebla",
+    "Volví",
+    "Evo",
+    "Antes",
+    "Sofia Caram",
+    "Salvar",
+    "Cristina Fernández de Kirchner",
+    "China",
+    "Estado",
+    "Participé",
+    "Mauro",
+    "Evo Morales",
+    "Néstor Kirchner",
+    "Ucrania",
+    "Llegué",
+    "Tenía",
+    "Estados Unidos",
+    "Perú",
+    "Demostramos",
+    "México",
+    "Argentina",
+    "Sudamérica",
+    "Latinoamérica",
+    "Ayer",
+    "Usted",
+    "Miguel Díaz-Canel de Cuba",
+    "Banco Mundial",
+    "Diez",
+    "Después",
+    "FMI",
+    "Mauricio Macri",
+    "Acepté",
+    "Brasil",
+    "Grupo de Lima",
+    "Jorge Rial de Radio 10",
+    "8.6%",
+    "Evo Morales Ayma",
+    "¿",
+    "Ecuador",
+    "¿Podría",
+    "Bolivia",
+    "Nicolás Maduro",
+    "América Latina y el Caribe",
+    "Jorge",
+    "Movimiento al Socialismo",
+    "Fidel Castro",
+    "Venezuela",
+    "Chile",
+    "CELAC",
+    "UNASUR",
+    "Tenemos"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Estamos hablando de un guerrillero de pacotilla, provocador y violento, que fue condenado en Chile a nueve años de prisión por incendiar una casa y por portación ilegal de armas.",
+      "entidades_detectadas": [
+        "chile"
+      ]
+    },
+    {
+      "frase": "Se sospecha que será extraditado a Chile para que complete la condena, que interrumpió cuando se fugó mientras estaba en libertad condicional.",
+      "entidades_detectadas": [
+        "chile"
+      ]
+    },
+    {
+      "frase": "Ni el gobierno kirchnerista ni el ministro Aníbal Fernández hacen nada para desalojar esos cortes y miran para otro lado, y los abastecen con alimentos y logística a los mapuches que toman tierras privadas y del Estado nacional.",
+      "entidades_detectadas": [
+        "fernández",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Es grave porque promete más sabotaje, más fuego y más muerte, pero es mucho más grave porque, insisto, cuentan con la complicidad del gobierno de Alberto Fernández, de Sergio Massa y de Cristina Fernández de Kirchner.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "massa",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Carlos Zannini y Juan Cavandié retiraron al Estado nacional de los expedientes y entregaron las tierras que son de todos.",
+      "entidades_detectadas": [
+        "carlos",
+        "estado"
+      ]
+    },
+    {
+      "frase": "Un delirio absoluto que, en su momento, repudió Miguel Ángel Pichetto con un tuit.",
+      "entidades_detectadas": [
+        "pichetto"
+      ]
+    },
+    {
+      "frase": "Es una pretensión secesionista que el gobierno de Gabriel Boric está legitimando una nación pseudomapuche independiente.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    }
+  ]
+}

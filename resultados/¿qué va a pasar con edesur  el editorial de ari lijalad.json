@@ -1,0 +1,344 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Voy a arrancar, después vamos a desarrollar con Nathalie Rizzi.",
+      "entidades_detectadas": [
+        "Nathalie Rizzi"
+      ]
+    },
+    {
+      "frase": "También realizaremos alguna entrevista sobre un tema importante hoy: ¿Qué va a pasar con EDESUR?",
+      "entidades_detectadas": [
+        "También",
+        "EDESUR",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Seguramente muchos de los que están escuchando ahora –aunque algunos no pueden hacerlo porque se les cortó la luz y siguen sin suministro o sin posibilidad de conexión– habrán sufrido cortes de luz en estos días por parte de la empresa EDESUR.",
+      "entidades_detectadas": [
+        "EDESUR"
+      ]
+    },
+    {
+      "frase": "Ya hay un anuncio del gobierno sobre el inicio de los trámites y la investigación para determinar qué hacer con la concesión de EDESUR, que es la segunda empresa en importancia en materia de distribución de energía en Argentina.",
+      "entidades_detectadas": [
+        "Argentina",
+        "EDESUR"
+      ]
+    },
+    {
+      "frase": "Recuerden que la energía tiene tres etapas: la generación, el transporte hasta el lugar de consumo, y finalmente la distribución, que es llevar esa energía generada y transportada cerca de una ciudad, por ejemplo, Buenos Aires, y distribuirla directamente a los hogares.",
+      "entidades_detectadas": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Estas tres etapas (producción, transporte y distribución) teóricamente, y según la ley original, no podían estar en manos de la misma empresa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, eso no ocurrió, y finalmente quedaron dos empresas principales: EDENOR y EDESUR.",
+      "entidades_detectadas": [
+        "EDESUR"
+      ]
+    },
+    {
+      "frase": "La empresa dueña de EDESUR es ENEL, mientras que la de EDENOR era PAMPA ENERGÍA.",
+      "entidades_detectadas": [
+        "EDESUR"
+      ]
+    },
+    {
+      "frase": "Ambas tenían integración vertical de la cadena de generación, transporte y producción de energía, lo que complica la discusión, porque no se trata solo de qué pasa con la energía que llega a tu casa y si se corta, sino de discutir todo el proceso, que en la etapa de distribución y transporte es monopólico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No se puede elegir la empresa de luz, te toca según tu domicilio, y ese es uno de los grandes temas a discutir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En estos días, vi un video de Darío Nieto, el secretario privado de Macri, que prendió una vela durante el día, algo curioso, y comentaba que ahora tenemos cortes de luz todo el tiempo, mientras que durante el gobierno de Macri no los había.",
+      "entidades_detectadas": [
+        "Macri",
+        "Darío Nieto"
+      ]
+    },
+    {
+      "frase": "Esa es parte del discurso del macrismo, repetido por el propio Macri en las charlas que tenía con Luis Majul después de dejar el gobierno.",
+      "entidades_detectadas": [
+        "Luis Majul",
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Primero, escuchemos qué decía Macri sobre los cortes de luz en su gobierno:\n\n\"Algo insuficiente en lo económico, lejos de la expectativa que generamos, pero otra cultura del poder, donde se respetaba al periodista, al juez, al gobernador y el federalismo, que se modernizaba y transparentaba el Estado.",
+      "entidades_detectadas": [
+        "Estado",
+        "decía Macri"
+      ]
+    },
+    {
+      "frase": "La oficina anticorrupción se retira de las causas contra funcionarios, otro retroceso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se apostaba a la revolución tecnológica, se expandió Internet en todo el país, teníamos energía y no teníamos más cortes de luz\", decía Mauricio Macri a su...",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "iba a decir entrevistador de vuelta, pero bueno...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es falso que no había cortes de luz.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a citar, solo por esta vez, al portal Chequeado.com, financiado, entre otros, por la Embajada Norteamericana y por los propios medios, pero que hizo un trabajo sobre los cortes de luz durante el gobierno de Macri citando a Lendre y comparó el último invierno de Macri con el último invierno de Cristina, porque hay que comparar invierno con invierno.",
+      "entidades_detectadas": [
+        "Lendre",
+        "Cristina",
+        "Macri",
+        "Embajada Norteamericana"
+      ]
+    },
+    {
+      "frase": "El gobierno de Macri comparaba su invierno con el verano, y ahí los números eran distintos.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Invierno contra invierno, los cortes de Edesur empeoraron tanto en cantidad como en duración, mientras que los de Edenor, comparando el último invierno de Macri con el último invierno de Cristina, bajaron en cantidad, pero aumentaron en duración.",
+      "entidades_detectadas": [
+        "Invierno",
+        "Cristina",
+        "Edenor",
+        "Macri",
+        "Edesur"
+      ]
+    },
+    {
+      "frase": "Es decir, Edenor al final del gobierno de Cristina tenía menor cantidad de cortes y menor duración, mientras que al final del gobierno de Macri duraban más, y con Edesur todo empeoró.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Edenor",
+        "empeoró",
+        "Macri",
+        "Edesur"
+      ]
+    },
+    {
+      "frase": "Es interesante este dato de Edesur porque la propia familia Macri tenía intereses económicos allí.",
+      "entidades_detectadas": [
+        "Macri",
+        "Edesur"
+      ]
+    },
+    {
+      "frase": "Macri, al asumir, tuvo que vender su participación accionaria en la empresa Yacylek, una de las tantas empresas del grupo Enel, dueño de Edesur.",
+      "entidades_detectadas": [
+        "Macri",
+        "Edesur",
+        "Enel"
+      ]
+    },
+    {
+      "frase": "Además, hay que hablar de las tarifas.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Durante el gobierno de Mauricio Macri, la tarifa de luz aumentó entre un 3400 y un 5500 por ciento, según la categoría.",
+      "entidades_detectadas": [
+        "Mauricio Macri"
+      ]
+    },
+    {
+      "frase": "Durante este gobierno, la tarifa estuvo congelada durante la pandemia en 2020.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En 2021 aumentó cerca del 10% contra un 50% de inflación, y ahora están sucediendo aumentos segmentados de acuerdo a la categoría, con un máximo de alrededor del 40%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos comparando aumentos del 3400 al 5500% contra aumentos del 0, 10 o 40% en estos años del gobierno del Frente de Todos.",
+      "entidades_detectadas": [
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Ahora, quiero llamar la atención sobre otro problema, y vengo del futuro para advertir lo que va a pasar con el anuncio de la concesión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En Argentina hemos tenido tres momentos importantes con respecto a qué hacer con las empresas que invierten en el país y no cumplen con sus obligaciones.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El primero fue con José Alfredo Martínez de Hoz, que al inicio de la dictadura cambió el código procesal argentino y permitió a las empresas con juicios contra el Estado llevarlos a tribunales extranjeros.",
+      "entidades_detectadas": [
+        "José Alfredo Martínez de Hoz",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esto no estaba permitido antes de la dictadura empresarial y lo habilitó Martínez de Hoz.",
+      "entidades_detectadas": [
+        "Martínez de Hoz"
+      ]
+    },
+    {
+      "frase": "Luego vino Menem y completó el trabajo al firmar los tratados de protección de inversiones extranjeras, que protegen y otorgan beneficios a las empresas extranjeras que invierten en Argentina frente a un Estado que les exige cumplimiento.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Menem",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esto ha hecho que Argentina tenga un récord mundial en juicios de empresas contra el Estado ante el CIADI.",
+      "entidades_detectadas": [
+        "CIADI",
+        "Argentina",
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Esto se debe a la decisión de Martínez de Hoz de enviar los juicios al exterior y al complemento de Menem de firmar estos tratados.",
+      "entidades_detectadas": [
+        "Martínez de Hoz",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "¿Por qué ningún gobierno los derogó?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque esos tratados tienen cláusulas que establecen que, si un gobierno los da de baja, duran diez años más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso son dos periodos presidenciales y medio, y en ese tiempo se puede volver a levantarlos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por lo cual ningún gobierno les da de baja porque no tiene la certeza de que eso vaya a suceder, y si sucede, ocurre diez años después.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A todo esto se sumó Macri, sumando el CIADI de Martínez de Hoz y Menem.",
+      "entidades_detectadas": [
+        "Martínez de Hoz",
+        "sumó Macri",
+        "Menem"
+      ]
+    },
+    {
+      "frase": "Durante su gobierno, desarmó el equipo de abogados que defendía al Estado en esos juicios.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "En resumen, mandaron los juicios afuera, firmaron los tratados de protección de inversión y Macri desarmó el equipo que los defendía.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "¿Por qué les cuento todo esto?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque hoy, y en un rato lo vamos a desarrollar, desde ENRE han dicho que iniciaron el papeleo para la posibilidad de quitarle la concesión a EDESUR.",
+      "entidades_detectadas": [
+        "EDESUR"
+      ]
+    },
+    {
+      "frase": "Y yo tengo muchas preguntas: Primero, ¿por qué no se intervino la empresa antes del anuncio?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Segundo, ¿hay riesgo de un juicio en el exterior?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Tercero, ¿qué se está haciendo para evitar que se vacíe la empresa?",
+      "entidades_detectadas": [
+        "¿",
+        "Tercero"
+      ]
+    },
+    {
+      "frase": "Las quitas de concesiones no se avisan, se hacen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y la gran pregunta es: ¿para quién es el negocio de la energía en Argentina?",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "¿Es un negocio para unos pocos o volvemos a considerar la energía un derecho humano básico que debe quedar en manos del Estado?",
+      "entidades_detectadas": [
+        "Estado?",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "También",
+    "Martínez de Hoz",
+    "Esa",
+    "José Alfredo Martínez de Hoz",
+    "Qué",
+    "Luis Majul",
+    "Menem",
+    "Lendre",
+    "decía Macri",
+    "Estado",
+    "Además",
+    "Edenor",
+    "Tercero",
+    "Estado?",
+    "Argentina",
+    "Invierno",
+    "Cristina",
+    "Primero",
+    "empeoró",
+    "Mauricio Macri",
+    "Buenos Aires",
+    "CIADI",
+    "Nathalie Rizzi",
+    "Embajada Norteamericana",
+    "¿",
+    "sumó Macri",
+    "Enel",
+    "Frente de Todos.\n\n",
+    "Darío Nieto",
+    "EDESUR",
+    "Segundo",
+    "Macri",
+    "Edesur"
+  ]
+}

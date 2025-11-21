@@ -1,0 +1,232 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Primeros minutos de la mañana, 34 minutos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Arrancamos el programa de hoy hablando de la situación en Córdoba y Santa Fe, ciudades afectadas por un fuerte temporal.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Se observan árboles y techos caídos, una situación que, lamentablemente, se repite con frecuencia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo en línea al intendente de Casilda, una de las ciudades más afectadas, Guillermo Franchella.",
+      "entidades_detectadas": [
+        "Casilda",
+        "Guillermo Franchella"
+      ]
+    },
+    {
+      "frase": "**Locutor:** Buen día, Guillermo.",
+      "entidades_detectadas": [
+        "Locutor"
+      ]
+    },
+    {
+      "frase": "¿Cómo está la situación en este momento?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Guillermo Franchella:** Buen día, Jorge.",
+      "entidades_detectadas": [
+        "Buen",
+        "Jorge",
+        "Guillermo Franchella"
+      ]
+    },
+    {
+      "frase": "La situación está controlada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Inmediatamente después de la tormenta, comenzamos a trabajar con un comité de crisis.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El gobernador de Santa Fe, Maximiliano Pullaro (o el nombre correcto del gobernador), me llamó para ofrecer ayuda, enviando personal de Protección Civil de la provincia.",
+      "entidades_detectadas": [
+        "Maximiliano Pullaro",
+        "Protección Civil",
+        "Santa Fe"
+      ]
+    },
+    {
+      "frase": "Con Protección Civil de la ciudad, coordinamos esfuerzos en un centro de operaciones instalado en el cuartel de bomberos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajamos toda la noche dirigiendo las acciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Afortunadamente, no hay víctimas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Locutor:** Eso es lo más importante.",
+      "entidades_detectadas": [
+        "Locutor"
+      ]
+    },
+    {
+      "frase": "¿Contaron con las alertas del servicio meteorológico?",
+      "entidades_detectadas": [
+        "¿Contaron"
+      ]
+    },
+    {
+      "frase": "**Guillermo Franchella:** Las alertas eran las habituales para esta época del año.",
+      "entidades_detectadas": [
+        "Guillermo Franchella"
+      ]
+    },
+    {
+      "frase": "Nadie predijo vientos de 115 kilómetros por hora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Las alertas mencionaban viento fuerte, actividad eléctrica y posible caída de granizo, pero no la intensidad real del viento.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ciudad quedó devastada, pero los casildenses somos resilientes y superaremos esto.",
+      "entidades_detectadas": [
+        "La ciudad"
+      ]
+    },
+    {
+      "frase": "**Locutor:** Estoy viendo imágenes de casas sin techos…\n\n**Guillermo Franchella:** Sí, hemos habilitado un centro de evacuados.",
+      "entidades_detectadas": [
+        "Estoy",
+        "Sí",
+        "Locutor",
+        "Guillermo Franchella"
+      ]
+    },
+    {
+      "frase": "Estamos asistiendo a la población.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El daño material y ecológico es significativo; aproximadamente el 50% del arbolado urbano está dañado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos árboles, grandes y pequeños, fueron derribados por el viento con una fuerza impresionante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora comienza la tarea de reconstrucción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Locutor:** El gobernador se comunicó y está colaborando…\n\n**Guillermo Franchella:** Sí, nuestro sistema de trabajo local se coordinó con la provincia para responder a las necesidades primarias y complejas.",
+      "entidades_detectadas": [
+        "Sí",
+        "Locutor",
+        "Guillermo Franchella"
+      ]
+    },
+    {
+      "frase": "Estamos atendiendo a la población, intentando contenerlos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una buena parte de la ciudad aún está sin luz por motivos de seguridad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se están despejando las calles, pero pedimos a la población que evite circular innecesariamente para facilitar el trabajo de bomberos, policía y personal municipal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hemos estado trabajando sin descanso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A veces hay que pasar noches sin dormir, por motivos alegres u otros menos gratos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Locutor:** Guillermo, no te molestamos más.",
+      "entidades_detectadas": [
+        "Guillermo",
+        "Locutor:**"
+      ]
+    },
+    {
+      "frase": "Las imágenes son impactantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Guillermo Franchella:** Son terribles.",
+      "entidades_detectadas": [
+        "Guillermo Franchella"
+      ]
+    },
+    {
+      "frase": "La gente está triste, pero seguramente superaremos esto con fuerza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Locutor:** Como la gente de Casilda.",
+      "entidades_detectadas": [
+        "Casilda",
+        "Locutor"
+      ]
+    },
+    {
+      "frase": "Un abrazo grande, Guillermo, y a toda la gente de Casilda.",
+      "entidades_detectadas": [
+        "Guillermo",
+        "Casilda"
+      ]
+    },
+    {
+      "frase": "**Guillermo Franchella:** Gracias, Jorge.",
+      "entidades_detectadas": [
+        "Gracias",
+        "Jorge",
+        "Guillermo Franchella"
+      ]
+    },
+    {
+      "frase": "Igualmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me voy ahora a Funes.",
+      "entidades_detectadas": [
+        "Funes"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Buen",
+    "Gracias",
+    "Maximiliano Pullaro",
+    "Guillermo",
+    "Casilda",
+    "Locutor",
+    "Estoy",
+    "Córdoba",
+    "Protección Civil",
+    "Santa Fe",
+    "Funes",
+    "Jorge",
+    "Sí",
+    "¿Contaron",
+    "Guillermo Franchella"
+  ]
+}

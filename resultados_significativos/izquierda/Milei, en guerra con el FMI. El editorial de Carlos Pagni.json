@@ -1,0 +1,291 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 49,
+      "derecha": 6
+    },
+    "score_promedio": 0.194,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos hablando de un dato, el número de desempleo, que ilustra el momento actual y esta encrucijada, pero también nos habla de una configuración que ha ido adquiriendo Argentina a lo largo del tiempo, modificando su rostro en materia laboral.",
+      "score": 0.013,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El INDEC reporta un 7,7% de desempleo.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay tanta gente desempleada, ni buscando trabajo activamente, pero sí muchísima gente que ve degradado su salario o cae en la informalidad, lo que modifica las características que muchos de nosotros aún tenemos en mente cuando pensamos en el país y en una sociedad más integrada, de trabajadores, similar a la que modeló el peronismo en los años 50, que le dio a la Argentina un gran poder sindical.",
+      "score": 0.012,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué relación tiene, le preguntaremos a Oliveto, esta curva que se dispara en 2020 con la pandemia, con el mundo del cuentapropismo y la informalidad?",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué relación tiene todo esto con Milei y su discurso?",
+      "score": 0.086,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Detrás de un dato económico-social, hay una política o una novedad política potencial, porque Milei le habla a estos monotributistas o cuentapropistas.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si fuéramos historiadores del año 2080-2090, mirando hacia atrás, a la Argentina del último mandato de Cristina Kirchner, de Macri, de Alberto Fernández, quisiéramos identificar el problema central, probablemente sería la inflación.",
+      "score": 0.364,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí, Milei actúa con sabiduría política al priorizar el ataque a la inflación, porque el capital político actual reside en vencer a ese \"dragón\".",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Milei logra vencer la inflación, se asegura un enorme capital político, y se centra en eso, esperando que esto traiga la reactivación económica, lo cual es más polémico, porque el problema central hoy es la recesión.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay economistas que miran de cerca la caída de la actividad económica, el consumo, la producción y las ventas, que podrían prolongarse, según el propio Fondo Monetario Internacional, más de lo que prevé el gobierno.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, la \"magia\" de derrotar la inflación puede no ser tal, porque la gente podría estar más preocupada por la pobreza, el desempleo, la destrucción de capital y empresas, es decir, otro drama.",
+      "score": 0.094,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuánto valen esos pesos en relación con el dólar, la principal divisa del comercio internacional y de la vida doméstica de los argentinos?",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son preguntas principales que el gobierno no termina de resolver, lo que genera un debate entre el gobierno y el Fondo Monetario Internacional.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin resolver esto, es difícil pensar en la reactivación, y si no vemos la reactivación como algo probable y cercano, toda la ecuación política que sostiene a Milei podría tambalear.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El proceso lo definirán las propias autoridades argentinas, considerando la evolución de las variables económicas relevantes, y compartirán con el Fondo los parámetros que serán monitoreados, sin incluir compromisos de fechas o medidas específicas.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pocos días después, al día siguiente, se conoce el reporte del staff del Fondo sobre la octava revisión del programa con Argentina.",
+      "score": 0.033,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno, según el Fondo, va a un esquema de flotación administrada, es decir, libertad cambiaria con intervenciones del Banco Central, como Uruguay o Perú.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Fondo es más claro que el Banco Central.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si un actor tan importante como el Estado cobra solo en pesos, el Fondo refuerza la idea, con esa nota y otras afirmaciones, de que no habrá dolarización.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, este comunicado del Fondo Monetario, elaborado después de conversaciones con las autoridades argentinas, generó un tweet largo y desordenado de **Luis Caputo**, que primero se queja del periodismo.",
+      "score": 0.468,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo más importante es que dice que no hay ninguna devaluación prevista, que el 80-20 se mantiene (el blend), y que el Fondo no tiene problemas con esto.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El CROL (devaluación del 2% mensual) se mantiene, y aún no se han iniciado las negociaciones del próximo acuerdo, aunque Caputo dijo que comenzarían el jueves, cuando el Banco Central emitió el comunicado.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Foro de San Pablo es un club de partidos políticos de izquierda.",
+      "score": 0.139,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dice que hay un economista del Foro de San Pablo, un populista, filo kirchnerista o chavista, que es el que genera problemas, sin mencionar el nombre.",
+      "score": 0.354,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anticipamos esto el lunes, que era **Rodrigo Valdés**, con quien Milei tiene problemas y lo identifica como un populista del Foro de San Pablo, lo cual es difícil de entender.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei le ha declarado la guerra al director del departamento del hemisferio occidental del Fondo Monetario Internacional, responsable de la negociación entre Argentina y ese organismo.",
+      "score": 0.065,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la última reunión con **Kristalina Georgieva** en la reunión del G7 en Italia, Milei le pidió la cabeza de Valdés, que lo desplace en el tema argentino, según fuentes del gobierno.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una declaración como la de Milei a la mañana no la hizo ni Cristina Kirchner ni Máximo Kirchner, disidentes del acuerdo con el Fondo.",
+      "score": 0.977,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto abre una nueva etapa en la relación entre Argentina y el Fondo, y habrá que ver qué hace Georgieva y **Gita Gopinath**, la segunda del Fondo, las jefas de Valdés, que seguramente espera respaldo de las autoridades.",
+      "score": 0.206,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei profundizó la idea, preguntando cuál es el pecado de Valdés.",
+      "score": 0.339,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Tesoro vende un bono a los bancos, y el Banco Central lo paga al precio del bono, no al precio de mercado, lo que garantiza el precio del activo, porque el Banco Central asume la deuda, una perversidad del gobierno anterior de Massa y Alberto Fernández.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que empezó a tolerar esas garantías no fue Rodrigo Valdés, sino su antecesor, el brasileño **Ilan Goldfajn**, hoy presidente del BID.",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver cómo reacciona Goldfajn cuando le pidan plata, ya que el gobierno argentino espera un crédito del BID para un paquete de financiamiento que incluye al Fondo, el BID, la CAF y el Banco Mundial, y el gobierno lo acusa de ser cómplice de una perversidad.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que tiene que defender la postura de Milei y decir que el Fondo Monetario Internacional, Georgieva, Rodrigo Valdés, Goldfajn, que está en el BID, fueron cómplices de una perversidad de Massa, es **Leonardo Madcur**, representante de Argentina ante el Fondo y cerebro de Massa, que negoció esas perversidades con Goldfajn y después con Valdés en Washington.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Con qué cara va a defender Madcur la posición del presidente de que el gobierno del que él formaba parte generaba estas perversidades?",
+      "score": 0.447,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una enorme interrogante sobre la continuidad del gobierno de Milei con el gobierno de Alberto Fernández, y sobre todo de Massa.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Le habrá explicado Sturzenegger a Milei quién es Valdés, o a Valdés quién es Milei?",
+      "score": 0.425,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrá que ver cómo le cayó a Luis Caputo esta pelea que desata el presidente con el principal interlocutor de Argentina en el Fondo, el mismo Caputo que dijo que con el Fondo hay buena relación, en el tweet del viernes.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa ha mantenido muchos hombres en este gobierno.",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una tendencia en el gobierno de Milei de desdén por los problemas de calidad institucional, que se empieza a ver en el exterior.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei prometió destruir a la élite política corrupta, pero ahora enfrenta acusaciones de hipocresía por la nominación.",
+      "score": 0.628,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Alconada pregunta en la AFIP qué pasó, le responden que son cosas habituales, pero es evidente que hubo una sanción por haber investigado al dueño de Tabacalera Sarandí, a quien Milei había descalificado.",
+      "score": 0.301,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Hernán Cappiello** publica que **Santiago Caputo**, asesor del presidente, con un contrato de prestación de servicios en la Secretaría General de Presidencia, le pide la renuncia al segundo de la Secretaría General de Presidencia por haberse metido con **Inés Uralde** y haber convertido a la UIF, unidad de investigación financiera, en querellante en la causa de Inés Uralde, por enriquecimiento ilícito y lavado de dinero.",
+      "score": 0.233,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al segundo de la UIF, **Manuel Tecio**, experto en lavado de dinero, se lo reemplaza, porque, según voceros del gobierno, pasaba información a Massa, no se entiende cómo es la relación con Massa, si es aliado o enemigo.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que le informa a Bullrich es el jefe del servicio previsional, que le informa que Ventura Barreiro le pidió que ponga un abogado para cobrar coimas de 15 empresas.",
+      "score": 0.059,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich lo echó y lo anunció ante la Oficina Anticorrupción.",
+      "score": 0.042,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que acordarse que Ritondo era el candidato de Bullrich a la gobernación, pero hoy es un hombre de Macri.",
+      "score": 0.537,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Bullrich echa a Ventura Barreiro, le está pegando un tiro por elevación a Ritondo y a Macri.",
+      "score": 0.467,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno, La Libertad Avanza, lo ve como una pelea ajena, pero que le puede complicar la vida.",
+      "score": 0.426,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que el gobierno debería estar muy atento a lo que pasa en la Cámara de Diputados, no vaya a ser que Ritondo se enoje y el jueves se empiece a patinar la ley bases.",
+      "score": 0.853,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tres jueces de la Cámara de Casación, **Diego Barrueto Veña**, **Daniel Petrone** y **Carlos Mahiques**, admitieron una causa paralela que abrió **Cervini de Cubría** con el fiscal **Ramiro González** hace dos años, para que en la causa cuadernos, se investiguen los delitos de **Anselmo Calcaterra**, primo hermano de Mauricio Macri y de Jorge Macri.",
+      "score": 0.87,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro escándalo que tiene que ver con la calidad de la justicia en el que está involucrada nuevamente Servini de Cubría y el fiscal Ramiro González que el año pasado hizo un viaje extraño con dos colaboradores de Jaime Stiuso, **Lucas Nejamkis**, muy cercano al gobierno, a **Santiago Caputo** y **Guillermo Coppola**, junto con Ariel Lijo viajaron a España en un avión de Messi, Lijo como juez y Ramiro González como fiscal tienen la causa por lavado de dinero en la que está acusada la fundación de Messi y le usan el avión.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Manuel Belgrano lo descubre Mitre, pero hasta el día de hoy sigue siendo el favorito de Cristina y de Milei, por ejemplo.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El primer debate entre Trump y Biden, entre Biden y Trump.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*   **Corrección ortográfica**: Se corrigieron errores de ortografía en todo el texto.",
+      "score": 0.006,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 55
+  },
+  "etiqueta_original": "neutral"
+}

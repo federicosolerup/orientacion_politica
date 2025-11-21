@@ -1,0 +1,308 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El texto presenta problemas de transcripción de una entrevista radial, con repeticiones, muletillas y falta de puntuación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La corrección se centra en la comprensión y fluidez del mensaje, intentando mantener el estilo coloquial de la conversación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Texto Corregido:**\n\nEn algunas escuelas no hay aire acondicionado ni ventiladores, lo que complica mucho la situación.",
+      "entidades_detectadas": [
+        "Texto Corregido"
+      ]
+    },
+    {
+      "frase": "Buenos días, Alberto Ciullo, Ministro de Educación de la Provincia de Buenos Aires.",
+      "entidades_detectadas": [
+        "Alberto Ciullo",
+        "Provincia de Buenos Aires",
+        "Ministro de Educación",
+        "Buenos días"
+      ]
+    },
+    {
+      "frase": "**Alberto Ciullo:** Buenos días, Jorge Rial, de Radio Dios.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Buenos días",
+        "Radio Dios",
+        "Alberto Ciullo"
+      ]
+    },
+    {
+      "frase": "¿Qué tal, Jorge?",
+      "entidades_detectadas": [
+        "Jorge"
+      ]
+    },
+    {
+      "frase": "¿Cómo le va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo escucho un poco bajo… Ahí está, mejor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Perfecto.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Perfecto"
+      ]
+    },
+    {
+      "frase": "Hablamos de educación, pero también de cómo los chicos enfrentan esta ola de calor inesperada, que debe ser un problema grave.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Alberto Ciullo:** Es un problema extendido.",
+      "entidades_detectadas": [
+        "Alberto Ciullo"
+      ]
+    },
+    {
+      "frase": "Tenemos 21.000 escuelas en la provincia, el sistema educativo más grande de América junto con San Pablo.",
+      "entidades_detectadas": [
+        "América",
+        "San Pablo"
+      ]
+    },
+    {
+      "frase": "Esta ola de calor es excepcional; dicen que no hay registros similares desde 1906.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La situación varía según la región: La Plata, Bahía Blanca y Luján tienen temperaturas muy diferentes.",
+      "entidades_detectadas": [
+        "Bahía Blanca",
+        "Luján",
+        "La Plata"
+      ]
+    },
+    {
+      "frase": "En general, hay temperaturas muy altas en muchas escuelas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El reglamento general de escuelas establece que el directivo puede suspender clases si las condiciones no son adecuadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** ¿Dónde es más frecuente la suspensión?",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Alberto Ciullo:** En escuelas con alta matrícula (casi mil escuelas con más de 800 alumnos), y en el turno tarde, por problemas con el suministro de agua.",
+      "entidades_detectadas": [
+        "Alberto Ciullo"
+      ]
+    },
+    {
+      "frase": "Muchas escuelas no tienen agua de red, dependen de pozos con napas bajas, y algunas presentan problemas de electricidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No quiero exagerar, pero la situación es difícil.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Contamos con mecanismos de distribución de agua a través de los consejos escolares, que luego son reembolsados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La suspensión de clases es una decisión individual de cada director; no hay una orden oficial del Ministerio.",
+      "entidades_detectadas": [
+        "Ministerio"
+      ]
+    },
+    {
+      "frase": "En una provincia de 307.000 km², es imposible dictar una medida única.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La instrucción es suspender clases si las condiciones lo requieren.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchos colegios lo han hecho; la cifra fluctuó entre más de cien y doscientos establecimientos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En términos porcentuales, no es un número masivo considerando las 21.000 instituciones educativas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es doloroso, porque hay chicos que soportan 34 grados en la escuela, y llegan a casas con techos de chapa donde la temperatura llega a 42 grados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una situación compleja, y a veces, la mejor opción es suspender las clases, sobre todo si hay problemas con los sanitarios o el agua.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Distribuimos agua a través de los consejos escolares.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Algunas escuelas tienen aire acondicionado o ventiladores; hemos destinado 150 millones de pesos a la compra de ventiladores, aunque para muchos no es suficiente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Trabajamos con los consejos escolares de los 135 distritos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En total, son 21.000 escuelas y 5.200.000 estudiantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es el sistema educativo más grande de América, incluyendo todos los niveles y tipos de establecimientos.",
+      "entidades_detectadas": [
+        "América"
+      ]
+    },
+    {
+      "frase": "La educación obligatoria (inicial, primaria y secundaria) es la más afectada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se espera que el calor disminuya esta semana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es crucial comprender la excepcionalidad y la complejidad de una provincia con 135 distritos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Andrés Leal:**  Al margen de la excepcionalidad, en términos porcentuales, la suspensión de clases por calor no parece ser un fenómeno mayoritario.",
+      "entidades_detectadas": [
+        "Andrés Leal"
+      ]
+    },
+    {
+      "frase": "¿Qué se podría hacer para prevenirlo?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "**Alberto Ciullo:**  Si bien en Buenos Aires no es tan relevante, quizás en otras provincias sí lo sea.",
+      "entidades_detectadas": [
+        "Buenos Aires",
+        "Alberto Ciullo"
+      ]
+    },
+    {
+      "frase": "Hemos enviado comunicados recomendando aumentar el consumo de agua, realizar intervalos para el lavado de manos, suspender clases de educación física, utilizar patios sombreados, etc.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los docentes conocen estas situaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si un niño presenta fiebre, sueño o sudoración excesiva, es una señal de alerta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Como Estado, debemos reforzar la ventilación.",
+      "entidades_detectadas": [
+        "Estado"
+      ]
+    },
+    {
+      "frase": "Los cortes de luz también han afectado, especialmente en escuelas sin agua de red.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ciudad de Buenos Aires tiene todas las escuelas con agua de red, pero la provincia tiene muchas escuelas que dependen de pozos con napas bajas, lo que provoca fallas en las bombas.",
+      "entidades_detectadas": [
+        "ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "El conurbano, donde vive el 70% de la población en el 5% del territorio, tiene más problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero hay mecanismos para mitigar el daño; se respeta y compensa a los alumnos que no asisten por el calor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Insistimos en la importancia de la asistencia escolar, pero estas circunstancias son excepcionales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** La pandemia dejó muchos chicos fuera del colegio.",
+      "entidades_detectadas": [
+        "Jorge Rial"
+      ]
+    },
+    {
+      "frase": "¿Se recuperó la asistencia?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Alberto Ciullo:** La pandemia dejó aprendizajes perdidos y secuelas subjetivas.",
+      "entidades_detectadas": [
+        "Alberto Ciullo"
+      ]
+    },
+    {
+      "frase": "Sin embargo, la gran mayoría de los chicos han vuelto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La mayor dificultad se presenta con jóvenes de 16 a 18 años que son padres, madres o trabajan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jorge Rial:** Ministro, gracias por su tiempo.",
+      "entidades_detectadas": [
+        "Jorge Rial",
+        "Ministro"
+      ]
+    },
+    {
+      "frase": "**Alberto Ciullo:** Gracias a ustedes.",
+      "entidades_detectadas": [
+        "Alberto Ciullo"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Ministerio",
+    "¿Qué",
+    "Jorge Rial",
+    "Contamos",
+    "San Pablo",
+    "Andrés Leal",
+    "Perfecto",
+    "Como Estado",
+    "Texto Corregido",
+    "Ministro",
+    "Buenos días",
+    "Jorge?",
+    "América",
+    "Alberto Ciullo",
+    "Buenos Aires",
+    "Radio Dios",
+    "La Plata",
+    "¿",
+    "Provincia de Buenos Aires",
+    "Ministro de Educación",
+    "Bahía Blanca",
+    "Luján"
+  ]
+}

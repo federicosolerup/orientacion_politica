@@ -1,0 +1,170 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El próximo domingo se celebrará en Los Ángeles, Estados Unidos, la ceremonia de entrega de los Premios Óscar.",
+      "entidades_detectadas": [
+        "Los Ángeles",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "frase": "La película \"Argentina, 1985\", dirigida por Santiago Mitre, está nominada al premio a Mejor Película Internacional.",
+      "entidades_detectadas": [
+        "Argentina",
+        "Santiago Mitre"
+      ]
+    },
+    {
+      "frase": "La emoción por la posibilidad de una tercera victoria argentina en esta categoría —parafraseando la canción \"Muchachos\" que resonó durante el Mundial— es palpable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Argentina ya ganó el Óscar en dos ocasiones: en 1986 con \"La Historia Oficial\" de Luis Puenzo, y en 2010 con \"El secreto de sus ojos\" de Juan José Campanella.",
+      "entidades_detectadas": [
+        "Luis Puenzo",
+        "Argentina",
+        "Óscar",
+        "Juan José Campanella"
+      ]
+    },
+    {
+      "frase": "Más allá del mérito artístico de estas tres películas, no es casualidad que aborden un tema común: la dictadura cívico-militar argentina (1976-1983), la represión ilegal, el Juicio a las Juntas y las atrocidades del genocidio perpetrado por las Fuerzas Armadas.",
+      "entidades_detectadas": [
+        "Fuerzas Armadas",
+        "Juicio a las Juntas"
+      ]
+    },
+    {
+      "frase": "El impacto internacional de esta tragedia no se debe solo a su gravedad, sino también a la lucha incansable del pueblo argentino, especialmente de los organismos de derechos humanos, por la memoria, la verdad y la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta lucha contribuyó a la crisis del llamado \"partido militar\", limitando su intervención en la política y la represión interna.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Todos los gobiernos democráticos posteriores debieron respetar este límite, no siempre por convicción, sino por el equilibrio de fuerzas sociales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sin embargo, algunos sectores políticos, de ambos lados de la grieta, han intentado socavar este límite.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde las declaraciones de Sergio Massa en 2013, proponiendo la intervención del ejército para combatir la inseguridad, hasta las posturas pro militares de figuras como Patricia Bullrich, se han registrado intentos —con poco éxito— de militarizar la respuesta a problemas sociales.",
+      "entidades_detectadas": [
+        "Patricia Bullrich",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "La decisión del presidente Alberto Fernández de enviar gendarmes y fuerzas armadas a Rosario para combatir el narcotráfico, bajo el pretexto de tareas de urbanización, constituye un peligroso precedente.",
+      "entidades_detectadas": [
+        "Rosario",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "La participación del cuerpo de ingenieros del ejército en estas \"obras de urbanización\" genera preocupación, incluso figuras como Estela de Carlotto, de Abuelas de Plaza de Mayo, inicialmente manifestaron su aprobación, pero luego rectificaron su postura.",
+      "entidades_detectadas": [
+        "Estela de Carlotto",
+        "Abuelas de Plaza de Mayo"
+      ]
+    },
+    {
+      "frase": "La intervención militar, además de difusa en sus objetivos, es ineficaz, como demuestran experiencias internacionales en países como México y Colombia, donde la \"guerra contra el narco\" no ha logrado resultados significativos.",
+      "entidades_detectadas": [
+        "México",
+        "Colombia"
+      ]
+    },
+    {
+      "frase": "Los datos sobre la presencia de fuerzas federales en Rosario desde 2014 muestran que el aumento de efectivos no ha reducido los homicidios.",
+      "entidades_detectadas": [
+        "Rosario"
+      ]
+    },
+    {
+      "frase": "Entre 2014 y 2022, a pesar de los cambios en la cantidad de gendarmes desplegados (bajo los gobiernos de Cristina Fernández de Kirchner, Mauricio Macri y Alberto Fernández), la cifra de homicidios osciló entre 254 y 365, llegando a 288 en 2022.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner",
+        "Mauricio Macri",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Esto indica que las fuerzas de seguridad son parte del problema, no la solución.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, la corrupción policial en Rosario es un problema endémico, con frecuentes casos de vinculación entre oficiales y el narcotráfico, como evidencia el caso del ex jefe de policía Hugo Togni Doli.",
+      "entidades_detectadas": [
+        "Además",
+        "Rosario",
+        "Hugo Togni Doli"
+      ]
+    },
+    {
+      "frase": "Otro factor clave es el financiamiento del narcotráfico a través de empresarios que participan en el lavado de dinero, como el caso de Gustavo Janaham, ex titular del Puerto de Rosario, y Patricio Caray, un \"cuevero\" (cambista) detenido por su vinculación con el narcotráfico.",
+      "entidades_detectadas": [
+        "Puerto de Rosario",
+        "Patricio Caray",
+        "Gustavo Janaham"
+      ]
+    },
+    {
+      "frase": "El funcionamiento opaco de los puertos del río Paraná y las aerovías privatizadas permite el tráfico ilegal de mercancías y drogas.",
+      "entidades_detectadas": [
+        "río Paraná"
+      ]
+    },
+    {
+      "frase": "La situación socioeconómica agrava el problema.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La posibilidad de obtener ingresos rápidos trabajando para bandas narco atrae a jóvenes que carecen de oportunidades laborales dignas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La represión se centra en los eslabones más débiles de la cadena narcotraficante, dejando impune a los grandes empresarios, políticos y funcionarios corruptos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La nueva intervención militar solo sirve como estrategia distractiva, \"falopa para consumo electoral\" como la diputada Myriam Bregman lo expresó correctamente.",
+      "entidades_detectadas": [
+        "Myriam Bregman"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Estela de Carlotto",
+    "Alberto Fernández",
+    "Fuerzas Armadas",
+    "Gustavo Janaham",
+    "Óscar",
+    "Rosario",
+    "Patricia Bullrich",
+    "Cristina Fernández de Kirchner",
+    "Abuelas de Plaza de Mayo",
+    "Además",
+    "Santiago Mitre",
+    "Más",
+    "Puerto de Rosario",
+    "Estados Unidos",
+    "Hugo Togni Doli",
+    "México",
+    "Argentina",
+    "Sergio Massa",
+    "Los Ángeles",
+    "Patricio Caray",
+    "Juicio a las Juntas",
+    "Myriam Bregman",
+    "Mauricio Macri",
+    "río Paraná",
+    "Juan José Campanella",
+    "Colombia",
+    "Luis Puenzo"
+  ]
+}

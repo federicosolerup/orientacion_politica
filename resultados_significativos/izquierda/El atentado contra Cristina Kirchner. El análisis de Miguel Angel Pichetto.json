@@ -1,0 +1,221 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 35,
+      "derecha": 6
+    },
+    "score_promedio": 0.229,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Te quiero preguntar, obviamente, lo que te voy a preguntar es qué percepción tenés en general de la vida pública en la Argentina en los últimos meses, cómo se va complejizando y, además, coincido mucho con las expresiones que desarrollaste al comienzo de tu charla.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El arco democrático argentino, los que creen en el sistema, los que plantean que Argentina el año que viene tiene que ir a elecciones.",
+      "score": 0.253,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un primer hecho del que todavía no hay conclusiones de la investigación judicial: el ataque con piedras a la oficina del Senado de la señora vicepresidenta Cristina Fernández de Kirchner.",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un ataque premeditado, incluso le tiraron una bomba de pintura para identificar el piso donde tenían que tirar las piedras.",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese fue un grupo con logística de organización que se desprendió de una columna que estaba frente a la plaza, frente a un evento que iba a suceder en la Cámara de Diputados, en otro lugar, en otro lugar, en otro lugar.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy interesante este tema y acá también vemos las falencias del sistema judicial porque también en un hecho que vos mencionaste, que fue el ataque al diario Clarín, no sabemos cuáles son los motivos de fondo de ese ataque, no ha habido una explicación, no se han identificado los autores.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese ataque con piedras no tiene ninguna aclaración en el marco judicial de esos autores que tiraron las piedras, que además fueron grabados y filmados, Carlos, grabados y filmados.",
+      "score": 0.463,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, bueno, este país duda de la muerte de un empresario importante, duda de cómo murió Mariano Moreno en el barco, si lo envenenaron o no.",
+      "score": 0.816,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siguiendo la línea de pensamiento que estás desarrollando, uno debería pensar que, supongamos que esa bala salía y mataba a Cristina Kirchner, yo me imagino que el gobierno caía al otro día, no me imagino este gobierno sosteniéndose en medio de semejante tormenta.",
+      "score": 0.24,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo hace una justificación del atentado, que yo creo que hubiera sido grave, pero en el fondo castiga también al que herimos de la misma manera que castiga al gobierno de Macri y propone un plan.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un conjunto de datos de la carta de Firmenich que son realmente increíbles, plantea un modelo de salida revolucionario, plebiscitario y la destrucción del sistema capitalista, un aislamiento de la Argentina, una ruptura con todos los organismos internacionales, plantea cosas muy, muy fuertes y a mí me dicen –tengo versiones, por supuesto, no ratificadas seguramente– que viene bastante seguido a la Argentina o que entra digamos de manera bastante disimulada en la Argentina, que sigue gravitando al lado de dirigentes que han reconocido la existencia misma de la pertenencia a Montoneros.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y recién hablaste de ajuste y el Movimiento Evita va a recibir el 160% más, el plan \"Progresar Trabajo\" creo que se llama así.",
+      "score": 0.147,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que te quiero decir es que aquí, indudablemente, hay líneas de continuidades y creo que esos sectores que que vienen del pasado, en el fondo, creo que están resentidos, están resentidos, esta es una teoría mía personal, no, tal vez puedas no compartirla y seguramente nuestros televidentes pueden decir: \"Este tipo está\"...",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que el esquema montonero y Firmenich está resentido con la historia y también está resentido con la aparición del kirchnerismo que siente que le sustituyó banderas, que lo que...",
+      "score": 0.806,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, a ver, a ver, que le ocupó el espacio del centro izquierda popular.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero estás diciendo algo más, me parece, estás diciendo algo difícil de ser pensado por los términos en que se da la discusión en la Argentina, exactamente, pero yo creo que lo que estás diciendo es que, algo que para mucha gente –que lo voy a decir ahora– va a resultar muy insólito, que es que Cristina Kirchner para muchos sectores de la vida pública argentina es una muralla de contención de una radicalización, exactamente.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo lo que creo también que, así como Perón fue una muralla al comunismo, edificando la tercera posición, planteando digamos un capitalismo nacional sin empresas, no hay trabajadores, en el fondo creo que hay sectores más radicalizados que se han pegado al generismo, ahora que están queriendo otra cosa que no la van a tener con este, con esta propuesta, me parece.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nunca, nunca, nunca va a ocurrir esos hechos, no pueden implorar cosas que no van a ocurrir, no pueden...",
+      "score": 0.624,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el contexto de esa idea mucha gente dice acá falta comunicación, falta de la comunicación mínima y ponen como, como sujetos de esa falta de comunicación principal o como, como obstáculos para esa falta de comunicación, para esa comunicación, a Cristina y a Mauricio Macri.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, yo creo que es va a ser interesantísimo escucharte ahora vos porque no creo que haya en la Argentina ningún dirigente político que conoce perfectamente a los dos.",
+      "score": 0.151,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vos conocés muchísimo a Cristina, trabajaste con ella mucho tiempo en el Senado y fuiste, bueno, formas parte del círculo de Macri, fuiste candidato a vicepresidente con Macri, ¿por qué no nos contás qué son estas dos personas?",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué capacidad desde acercamiento, de imposible absoluta, de comunicación, que son Macri y Cristina hoy y la relación entre ellos cuál sería?",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "venía de leer un artículo realmente muy interesante, Sanguinetti y Mujica se juntaron para hacer un libro, doce presidentes de Uruguay y lo hacen de manera amigable y fueron dos visiones contrapuestas del sistema político en general.",
+      "score": 0.309,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, lo que digo es que sería hasta un acto de agregación de valor en el sistema democrático, viendo de que indudablemente hay complejidades y hay un escenario que puede abrir un camino de violencia en la Argentina y creo que frente a ese camino yo no veo negativo el diálogo.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso vos crees que consecuencia de que tienen una visión clasista, adhieren al esquema del pobre y de la cultura del pobre y de que la salida de la Argentina es mejor que la gentil hacia pobre, todas tonterías.",
+      "score": 0.46,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo estoy diciendo frontalmente frente a esas ideas y creo que son parte del problema argentino, que es fundamentalmente la necesidad de un cambio cultural profundo en la Argentina o vamos hacia una visión del capitalismo de comprensión de que salimos por el lado de trabajo, que hacemos petróleo, gas, minería, que cumplimos con la palabra.",
+      "score": 0.023,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que que presentaste recién del presidente del Banco Central, es letal.",
+      "score": 0.186,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Han ocurrido otros eventos en Argentina que también pasaron desapercibidos que no están en la superficie.",
+      "score": 0.208,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo te diría que hay un hecho que nadie registró, salvo vos que lo comentaste en una, en tu programa hace dos semanas atrás, que no se le prestó una debida atención, pero que configura un hecho extraordinario desde el punto de vista del acercamiento hacia Estados Unidos, que fue la autorización que presentó el doctor Mena, viceministro de Justicia, hombre clave en el funcionamiento de la AFI, de Cristina, frente al doctor Villena, juez del EMA, del SAMORA, para decirle: \"Señores del FBI, entren en la Argentina\", están autorizados a hacer la investigación, ¿dónde queda el relato este del imperialismo?",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "UU., se reunió con la jefa del Comando Sur, que también es cierto, le pidieron la...",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Disculpa que te corrija, fueron tres viajes, porque viajó Batakis, a ver a esta gente, una semana después con Batakis, fue más, o sea que yo rriega lo veía más y la había Batakis que había estado una semana antes.",
+      "score": 0.222,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es indudable que todo bastante desordenado, que la salida argentina puede ir por el lado del gas y del petróleo, que hay que sacarlo rápido, porque probablemente en el 2040, 2045 dejen de ser los combustibles fósiles, el gas puede durar un poco más y hay que hacer minería en la Argentina porque tenemos un montón de minas importantes de plata, de oro, de cobre, de litio que los muchachos también están parando, frenando.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo podría funcionar ese negocio si sigue habiendo inestabilidad en la seguridad pública por la cuestión más posible, el mapuche le agrega un nivel de conflictividad a un problema que ya estaba, que era la falta de consenso social?",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "del otro lado de la cordillera, Chile exporta 43 mil millones de dólares anuales, nosotros cuatro mil.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tenemos minas como Navidad, en Chubut, que es una de las más grandes del mundo, está inactiva, hay minas de oro en Río Negro, hay cobre, hay Mendoza mismo tiene un problema con el PBI, crecimiento de Mendoza está ahí en el límite.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Chubut le prendieron fuego a la Casa de Gobierno, error del gobernador.",
+      "score": 0.753,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chubut es una provincia que tiene una potencia minería extraordinaria, pero hace dos meses por ahí que no le pagan a los docentes, tienen problemas con los salarios, es una cosa increíble.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto también tiene que ver con una historia que se remonta a la Constitución del 94 donde la entrega de los recursos a las provincias provocó la pérdida del concepto de esta donación y de un proyecto minero, de un proyecto petrolero, de un proyecto gasífero que la nación encarne con la colaboración de los gobernadores, no con la decisión de cada uno de los gobernadores.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con la realidad, la realidad de un país trabado, de un país que está trabado, un país que está inmovilizado por, por políticas de minoría que no le sirven a nadie.",
+      "score": 0.524,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema es que en la Argentina hay cosas que se dicen también en los sartrios de la iglesia, la propiedad es un derecho secundario, interesante, derecho secundario de la propiedad.",
+      "score": 0.124,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Nombres y Apellidos:**\n    *   Se corrigieron los nombres y apellidos de las personas mencionadas:\n        *   Cristina Fernández de Kirchner (corregido de \"cristina fernández de quíznar\")\n        *   Vaca Narvaja (corregido de \"vaca narbaja\")\n        *   Cirio Pertossi (corregido de \"sirio perdida\")\n        *   Mario Firmenich (corregido de \"firmeniz\", \"firmeniz\")\n        *   Mauricio Macri (corregido de \"mauricio macri\")\n        *   Mariano Moreno\n        *   Sergio Massa (corregido de \"sergio maza\")\n        *   Mujica (corregido de \"mujica\")\n        *   Sanguinetti\n        *   Mena\n        *   Villena\n        *   Daniel Bilotta\n\n*   **Ortografía y Puntuación:**\n    *   Se corrigieron errores de ortografía como palabras mal escritas, omisión de tildes, y uso incorrecto de mayúsculas/minúsculas.",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 41
+  },
+  "etiqueta_original": "neutral"
+}

@@ -1,0 +1,45 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "La grave situación de inseguridad en Argentina se agrava con la irresponsabilidad de las autoridades.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Las acusaciones mutuas entre Aníbal Fernández y Bernardo Grinspun, principales responsables de la seguridad, revelan la falta de un plan efectivo contra el narcotráfico.",
+      "entidades_detectadas": [
+        "fernández"
+      ]
+    },
+    {
+      "frase": "El fin de semana se conoció el incumplimiento de un plan de la Procuración General de la Nación para dificultar el accionar de los narcos presos en las cárceles bonaerenses.",
+      "entidades_detectadas": [
+        "nación"
+      ]
+    },
+    {
+      "frase": "Mientras tanto, el presidente argentino, Alberto Fernández,  realizaba una gira por China y Barbados.",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "china"
+      ]
+    },
+    {
+      "frase": "El congresista estadounidense Matt Gaetz advirtió sobre la creciente influencia china en Argentina, especialmente en áreas como la tecnología espacial y la energía nuclear,  considerándolo una amenaza a la seguridad de Estados Unidos.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    },
+    {
+      "frase": "El gobernador Axel Kicillof también viajó a China y Barbados junto al presidente.",
+      "entidades_detectadas": [
+        "axel",
+        "china",
+        "kicillof"
+      ]
+    }
+  ]
+}

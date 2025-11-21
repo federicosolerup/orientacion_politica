@@ -1,0 +1,436 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 53,
+      "derecha": 31
+    },
+    "score_promedio": 0.397,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente que tenía una cierta tregua con la calle, las organizaciones opositoras, pero también las oficialistas salieron a tomar la calle en términos bien peronistas, dejándolo muy solo, Alberto.",
+      "score": 0.974,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La soledad de Alberto que está formada también por el temor de que Cristina hable.",
+      "score": 0.972,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que políticamente más importante, además por la falta de decisión de Alberto para intervenir como un político que es presidente, no como un presidente que le tocó...",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te digo, ¿tiene con qué, vos decís, Alberto tiene con qué decidir como presidente?",
+      "score": 0.713,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para decirlo, creo que vale la repetición de la palabra, se decide decidir, se decide tomar esa decisión, se decide pasar de un segundo plano que está como el cielo de hoy, que no sabés si en algún momento va a salir un poco de sol o si va a ser el cielo de Buenos Aires o si va a estar nublado como está estando nublado en este momento.",
+      "score": 0.255,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Efectivamente, vos conocés mi hipótesis, yo creo que Alberto fue una eficaz segunda línea y que hay políticos que son segunda línea y son perfectas segundas líneas, políticos y personas, disculpame que este ejemplo personal, yo creo que puedo ser una buena profesora de la Universidad de Buenos Aires, pero si alguien me dijera que tengo que ser rectora de la Universidad de Buenos Aires, me tomaría el primer helicóptero que me sacara de ese lugar de peligro, no tengo ninguno de los rasgos que son necesarios para dirigir una institución, yo te diría, ni para dirigirla ni más ni bien.",
+      "score": 0.112,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que Alberto es eso, fue un gran segunda línea de Néstor y no está demostrando la potencia que no es una potencia, es una combinación de potencias intelectuales, potencias discursivas, impulsos personales y no está demostrando tener eso.",
+      "score": 0.34,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuánto influye su contradicción, creo que es el político que más se contradice, así; es más, hay un colega mío que dice: \"No hagas archivo con Alberto Fernández porque es fácil, esmerate para hacer...\" Es verdad, ¿cuánto influye?",
+      "score": 0.364,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Tenés claro qué es Alberto Fernández políticamente?",
+      "score": 0.587,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que lo que es políticamente es lo que fue en un comienzo: él era alguien de pensamiento liberal democrático que luego se adhiere al peronismo por caminos que habrá que reconstruir.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que aprende mucho como jefe de gabinete de Néstor; si ahí vos querés un político decisionista, era Néstor Kirchner.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Fernández invocara en la noche una figura de la cual pudiera tomar rasgos decisionistas, no digo contenidos políticos, por favor que no se me confunda esto, rasgos de la decisión política, él las vio operando en ese gabinete.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kirchner era completamente independiente de lo que sucedía a su alrededor en ese gabinete y al mismo tiempo determinaba todo.",
+      "score": 0.74,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es pedirle mucho, me dirás, yo creo que sí, yo creo que Kirchner era un político, por otra parte, de gran experiencia, de gran experiencia, primero como gobernador de uno de los estados federales, pero después, de crear inteligencia política.",
+      "score": 0.087,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, los adiestramientos son útiles para cierto tipo de actividades, me da la impresión de que Alberto podría ser un gran segundo, que es un lugar fundamental, es un lugar fundamental en la política.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá todos los políticos tuvieran grandes líneas de segundos y no un conjunto de aficionados o recién graduados en alguna universidad del conurbano, del conurbano o de la UBA, no estoy pensando en eso porque, además, podría ser alguna universidad privada del conurbano, también podría decirlo.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que quiero decir es que los equipos se forman, pero luego esos equipos funcionan si tienen un dirigente que marque muy claramente un camino.",
+      "score": 0.066,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, uno podría decir que una cosa multiplica la otra o una cosa se multiplica exponencialmente a la otra.",
+      "score": 0.165,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se puede ser kirchnerista o anti kirchnerista, lo que no se puede dejar de hacer es reconocer que la muerte de un *pronóstico* como Kirchner, que gobernaba todo su espacio, o sea, había algo que no le pasaba a Kirchner, es lo que le pasa a Alberto.",
+      "score": 0.894,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podía llegar un representante del federalismo de una provincia alejada y pequeña a decirle sus protestas y que Alberto lo escuchara como si estuviera escuchando a diez representantes de otras provincias juntos.",
+      "score": 0.967,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kirchner era alguien que manejaba perfectamente los reclamos, bueno, eso desapareció.",
+      "score": 0.347,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son temperamentos políticos diferentes y Sartre decía una cosa muy importante: no hay que confundir psicología con temperamentos.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, fuimos invitados por Alberto Fernández a comer a la jefatura de gabinete.",
+      "score": 0.601,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto Fernández, naturalmente, la jefatura de gabinete del gobierno de Kirchner, la conversación venía en tono agradable e instructivo para nosotros.",
+      "score": 0.282,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, o sea, que estaba emocionado porque veía por primera vez esos muebles cuya historia él conocía.",
+      "score": 0.153,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo transcurría de manera amable hasta que llegó Cristina, que venía de la Cámara de Diputados en ese momento.",
+      "score": 0.366,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se sentó y le *zampó*, porque no encuentro otro verbo más adecuado, una clase de historia argentina a Alperín *Donghi*.",
+      "score": 0.862,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alperín me dijo: \"Eso muestra que hasta los más inteligentes, geniales, yo creo que Alperín *Donghi* era genial.\" Alperín *Donghi* me dijo: \"Yo acá no vuelvo más\", pero quizás para hablar con Alberto Fernández.",
+      "score": 0.496,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Qué vueltas toma la anécdota, porque fijate que era un tipo que estaba caracterizado por su discreción y, es un tipo inteligente, o sea, que esa discreción le permitía solamente poner las frases, no demasiado complejas ni floripondiosas como las de Cristina Kirchner, sino una conversación.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, le permitiría ser un buen conversador.",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿El temperamento de Cristina Kirchner se encuadra en qué temperamento?",
+      "score": 0.381,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debo decir, la Argentina siempre tuvo inclinaciones, en algunos presidentes, inclinaciones absolutistas, o sea, que no es Cristina la primera.",
+      "score": 0.857,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no es Cristina la primera.",
+      "score": 0.577,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alguna vez, no voy a poder citarte exactamente, te leí algo del estilo que vos decía que Cristina cree que su lenguaje es performativo en tanto y en cuanto crea realidad, que su alocución construye realidad.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina no tiene ese poder.",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando vos lo leés, eso es mediocre, es una prosa mediocre, pero cuando se inviste en su cuerpo, se inviste en sus ademanes, se inviste en el manejo de sus manos, etcétera, sube, digamos, como le sucedía a algunos oradores.",
+      "score": 0.296,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "a ella le gusta, en medio de una oratoria que a veces pretende ser más alta de lo que puede, porque ese es otro rasgo de Cristina, a veces pretende tener una oratoria más alta de lo que da su cultura, etcétera, pero, en general, responde bien a lo que quiere ella como oratoria, en medio de eso tiene, lo cual es bueno para un orador populista y popular, el uso de esos términos que podrían ser usados por nosotros o por nuestros vecinos del barrio.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si \"gobierno\" quiere decir: \"Yo voy a apoyar la constitución de este parlamento, de este congreso, las autoridades que este congreso vaya eligiendo, algunas me pueden gustar más que menos\", sería una frase casi innecesaria, la vicepresidenta en ejercicio de la presidencia, como dice Kronen *Castro*, la vicepresidenta en ejercicio de la presidencia, tiene que apoyar al gobierno, del cual forma parte.",
+      "score": 0.352,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Manda ella con alguien que quiere adivinar cuáles serían las líneas que este gobierno debe recorrer, que es Alberto Fernández?",
+      "score": 0.658,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández creo que se anticipa a sus deseos.",
+      "score": 0.47,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen los cronistas con muchas mejores fuentes que el que suscribe, que fea expresión \"el que suscribe\", ¡qué horrible!, \"el que habla\", es horrible, que estuvo al borde de renunciar Alberto Fernández, ¿te imaginás un escenario semejante?",
+      "score": 0.926,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, sí, claro, la Argentina es el \"por qué no\".",
+      "score": 0.629,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es eso, un escenario de inestabilidad que sería un escenario de inestabilidad, porque el cúmulo de reclamos que vendrían si Alberto Fernández renuncia sería tanto como si Alberto Fernández ejerciera la presidencia verdaderamente, o sea, que sería un clima de gran inestabilidad.",
+      "score": 0.682,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina se parece mucho a sí misma, en el sentido de que hemos tenido golpes de estado ininterrumpidos.",
+      "score": 0.193,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir de 1930, hemos tenido golpes de estado casi separados por 8 o 10 años cada uno de ellos, lo cual es una repetición alarmante.",
+      "score": 0.13,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina no ha podido constituir, después de 1950, grandes partidos que sean a la vez populares, democráticos y que tengan estabilidad política, eso es la Argentina, o sea, que somos un país...",
+      "score": 0.089,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa fecha del 15-15 que yo siempre cito, en 1915 la Argentina estaba entre los 15 países importantes y considerados en el mundo, y hoy está abajo de esa tabla, también entre 15.",
+      "score": 0.177,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por supuesto, nosotros, cuando nos comparamos con Chile o con Uruguay, tenemos modelos inalcanzables, pero no es tan inalcanzable la serie de gobiernos de diferente constitución ideológica y diferente relación con el populismo que hubo en Brasil.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que pasa es que Brasil es un país gigantesco y la Argentina no.",
+      "score": 0.668,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie se va a atrever a prescindir de Brasil en el panorama occidental y, yo diría, internacional completo.",
+      "score": 0.568,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es prescindible.",
+      "score": 0.143,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hacer batisismos políticos en la Argentina es...",
+      "score": 0.881,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imaginarte un escenario de Macri y Cristina otra vez enfrentándose en '23, '23, me parecía increíble.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, lo veo posible si no hubiera sido tan mediocre el gobierno de Macri y tan mediocre su figura política, lo vería más posible.",
+      "score": 0.239,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué una Patricia Bullrich tiene que decir: \"Ahora le voy a dar otro turno a Macri\"?",
+      "score": 0.739,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque yo que podría hacer una fórmula con Milei y hacer la fórmula que podría aumentar los votos porque le voy a dar otro turno a Macri.",
+      "score": 0.389,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En todo caso, el mayor aliento a que sea Macri es Cristina.",
+      "score": 0.925,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, Cristina es la mayor alentadora.",
+      "score": 0.646,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Efectivamente, a ella le conviene Macri.",
+      "score": 0.59,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella tiene una matriz, bueno, aparte de su matriz peronista, de ahora no vamos a contar la historia de Patricia Bullrich porque es como si contara mi historia, sería más larga que...",
+      "score": 0.359,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirando el espectro de Cambiemos, esta cosa de Patricia Alconada, Rodríguez Larreta moderado, ¿te cierra la categoría \"moderado\" para Rodríguez Larreta?",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así como uno dice: \"A este chico le enseñaron a patear bien un córner desde que tenía cinco años o agarrar bien un palo de hockey desde que tenía cinco años\", la herencia política pesa.",
+      "score": 0.633,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que va a los dos extremos, Javier Milei.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé qué podría hacer el gobierno.",
+      "score": 0.564,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, en el ínterin, entre que le sacaste el plan y se creó el trabajo, ¿que se murió?",
+      "score": 0.435,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede ser extremista como es Milei en términos sociales.",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Milei en términos sociales es extremista.",
+      "score": 0.239,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, Facundo Manes tiene un tono político, un discurso político, como para que lo pueda entender todo el mundo, lo cual está muy bien por una parte, pero tiene que tener ese discurso sobre la base de otro más complejo que se haga cargo de la complejidad de esos problemas.",
+      "score": 0.048,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los reclamos sociales que conocemos hoy son, y con todo mi respeto lo digo, son organizados por dirigentes de estructuras más pequeñas que las que pudo manejar Perón desde el Estado Nacional para organizar los propios reclamos a su propio gobierno, digamos.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y de esta indigencia que arranca también, y déjame por lo menos meter un bocadillo de esto, arranca también en la zona que la Argentina trató de conservar los estándares hasta los últimos años, que es la zona de la educación.",
+      "score": 0.623,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos tenés a la mitad de esos docentes de 15 años para arriba fuera de la escuela media.",
+      "score": 0.563,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No como esos inmigrantes que llegan de Italia y de España que son analfabetos.",
+      "score": 0.747,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aunque suceda esto, coma, siga haciéndolo hasta que...\" Bueno, eso que uno llamaría una frase compleja, sino son dos simples, pero, digamos, que es compleja, es complicado para esos adolescentes.",
+      "score": 0.152,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y frente a eso digo, si no tiene una perspectiva de futuro este colectivo adolescente, ¿volverá una perspectiva de futuro a la Argentina como nación?",
+      "score": 0.058,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le veo una perspectiva como nación porque hay otros países que van a seguir creciendo y van a ser superiores a la nación, aunque sean muy injustos en muchas cosas.",
+      "score": 0.063,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Chile es un país que tiene muy organizada su economía y su sociedad.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo podría decir: \"Sí, pero qué estratificado, qué es Chile.\" Podría poner cara a alguien que no me gusta la estratificación.",
+      "score": 0.495,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no le veo futuro.",
+      "score": 0.539,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no digamos que no le veo en Brasil, porque cuando vos estás asentado al lado de una gran potencia, esas grandes potencias no se van a pique.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya escribí sobre Milei y no volvería a escucharlo a Milei, no.",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, que si habla un dirigente peronista de la provincia de Buenos Aires, un *Sabaleta*, uno de esos dirigentes, yo lo escucho.",
+      "score": 0.603,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No tenés la impresión de que la discusión ideológica en la Argentina es Ada Smith o Karl Marx?",
+      "score": 0.051,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que se viste culturalmente una situación sin salida, una situación a la cual no se le pudo, los economistas no pudieron encontrar salida, o los políticos no le permitieron a los economistas encontrar salida, digamos, elegí a la que te guste.",
+      "score": 0.068,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo, yo escucho al presidente chileno, que el presidente tiene una muy buena formación.",
+      "score": 0.306,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 84
+  },
+  "etiqueta_original": "neutral"
+}

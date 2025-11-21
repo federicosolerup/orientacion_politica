@@ -1,0 +1,441 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 57,
+      "derecha": 28
+    },
+    "score_promedio": 0.349,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "La experiencia de Macri fracasó en el campo de la economía.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, en esa contradicción, que es obviamente una incoherencia, está atrapado, no solo \"Juntos por el Cambio\", no está atrapado solamente el relato histórico de lo que pasó durante esos cuatro años, sino que está atrapada la Argentina.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta contradicción que trabajó todo el gobierno de Macri está corroyendo al gobierno de Alberto Fernández, con independencia de la mayor o menor calidad de la gestión concreta de las políticas económicas concretas que se llevan adelante.",
+      "score": 0.175,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros citamos hace un tiempo un tuit muy simpático, más allá del drama, de Pablo Gertzunov, donde dice cómo se hace cuando, ante un desorden enorme fiscal y monetario, ese desorden convive con un colapso productivo.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta encrucijada tan complicada está el gobierno de Alberto Fernández.",
+      "score": 0.909,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ajusta, se mete más en la recesión, y hay que recordar, lo vamos a recordar especialmente al final de esta exposición, que el gobierno de Alberto Fernández fue votado para sacar al país de la recesión.",
+      "score": 0.071,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos sabemos que ellos no escribirían nada que Cristina no les permitiera, e inclusive que Cristina no les dictara.",
+      "score": 0.694,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En aquella carta, la primera carta de Cristina, Cristina dice: \"el dólar está por tocar 200 pesos\", aclaró que ella no está manejando este gobierno, no es parte de la conducción de la administración.",
+      "score": 0.471,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En todo caso, es la titular de una coalición política, pero el gobierno lo maneja Alberto Fernández, y si él dice que no puede hacer cosas porque yo no lo dejo, no le crean, se hace el títere.",
+      "score": 0.905,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese presupuesto que mandé al Congreso dice que va a haber un déficit de 4,5, yo prometo un déficit inferior a 4 puntos\".",
+      "score": 0.11,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Probablemente no es solo que lo prometo, es lo que me pide el Fondo Monetario Internacional.",
+      "score": 0.149,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ningún gobierno en el mundo quiere tocar al sector pasivo porque despierta, obviamente, ese sector, una enorme simpatía, porque hay gente que, cuando uno le quita un ingreso, no tiene cómo reponerlo, tan sencillo como eso.",
+      "score": 0.027,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hoy sale alguien públicamente a hablar, Claudio Lozano, fue diputado, es un economista muy ligado al sector, que es peronista de los sindicatos, concretamente a la CTA; es director en el Banco Nación de este gobierno, fue un impulsor clave de lo que terminó siendo la estatización de Vicentin, que dice: \"esta fórmula que están impulsando ahora es una fórmula que no tiene en cuenta la inflación, es decir, va a licuar los salarios de los jubilados respecto de la inflación\".",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a ponerlo en términos sarcásticos: el patrimonio de los abuelos, le gustaría decir al gobierno, ¿por qué?",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, este curso discursivo de Guzmán y estas medidas que Guzmán empieza a proponer, que seguramente el Fondo se las pide antes de firmar, porque le dicen: \"queremos ver\", porque aquí hay una incógnita enorme, y este es uno de los temas de esta noche respecto de quién manda, genera un malestar alrededor de Guzmán.",
+      "score": 0.076,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un malestar formulado por Cristina Fernández de Kirchner a través de gestos.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que decir algo: de las muchas características que tiene Cristina Fernández de Kirchner, hay una muy destacada.",
+      "score": 0.176,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy probable que sea, desde el 83 para acá, la dirigente política de gran dimensión que más importancia le da al ritual, a lo simbólico, a lo gestual, a la liturgia.",
+      "score": 0.131,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El primero, por razones seguramente objetivas, justificables, el presupuesto había llegado incompleto a la Cámara de Senadores, devolvió el presupuesto.",
+      "score": 0.109,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se lo devolvió a la Cámara de Diputados.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene que volver a la Cámara baja.",
+      "score": 0.758,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El miércoles, cuando ya se había tomado esta determinación, no hubo nadie, un alma piadosa, caritativa, que le diga a Guzmán: \"no vengas a festejar que se aprueba el presupuesto\", porque no se iba a aprobar.",
+      "score": 0.817,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, le hicieron pasar al ministro de Economía el papelón de ir al Senado a festejar o a participar de una fiesta que no le iban a hacer.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La misma semana, con las autoridades o la misión del Fondo ACA, mirando la escena en la ciudad de Buenos Aires, Cristina recibe a Martín Redrado.",
+      "score": 0.363,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vaya a saber cómo le cayó a Pesce y a Kicillof la reunión de Cristina con Redrado.",
+      "score": 0.845,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que, en el momento en que está el Fondo ACA mirando la escena argentina, Cristina recibe a alguien que podría ser la alternativa al ministro de Economía que está negociando con el Fondo ACA.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, Máximo Kirchner intenta tapar el ajuste con un dedo, que es mañana el tratamiento –vamos a hablar después con Alfredo Cornejo, que además de ser presidente del radicalismo y ex gobernador de Mendoza, es diputado–, el tratamiento del impuesto a la riqueza o el aporte que tienen que hacer las grandes fortunas.",
+      "score": 0.409,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También las relaciones de Máximo Kirchner con el oficialismo, con Alberto Fernández, con esa escena, parecen estar un poco enfriadas.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podría haber cierto fastidio.",
+      "score": 0.533,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una gente ligada a los movimientos sociales, y Alberto Fernández especialmente, para mañana está preparando una movilización por el Día de la Militancia, que es la conmemoración del regreso de Perón.",
+      "score": 0.064,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese día eligió Máximo Kirchner para pedir una sesión especial en la Cámara de Diputados, y tratar el impuesto que él elaboró con Carlos Heller.",
+      "score": 0.447,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este impuesto ha sido criticado y sigue habiendo críticas de muchos empresarios, inclusive a alguien tan ligado al empresariado como Ignacio de Mendiguren, presidente del BICE, es decir, de un banco oficial de este gobierno, dijo: \"bueno, sí, está bien el impuesto, pero hay que tener en cuenta también a la inversión\".",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, un señor que se dedica, por ejemplo, a prestar servicios en el campo con cosechadoras, tiene cuatro cosechadoras, se hace igual mínimo no imponible del impuesto, le cae el impuesto, y tendrá que vender media cosechadora o una cosechadora para ir a pagarlo.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay un tema con YPF, una especie de privilegio a seleccionar YPF en asociación con la empresa energética del Estado, para proyectos productivos ligados a este impuesto, eso es delicado, porque eso, al final, va a pegar en juicios que tiene YPF, y que tiene el Estado Nacional, de grandes acreedores de YPF, gente que está litigando sobre YPF, y que se basan en la idea de que si no paga YPF, que pague el Estado, porque son lo mismo.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están tratando de juntar votos en la Cámara de Diputados ahora.",
+      "score": 0.594,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Paga un costo Schiaretti en Córdoba por esta adhesión.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Concretamente, Jorge Brito tuvo dos reuniones con Máximo Kirchner y dos reuniones con Carlos Heller.",
+      "score": 0.621,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Massa está produciendo algún desencanto, justamente por este impuesto, en su círculo de amigos empresarios.",
+      "score": 0.049,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están mirando con un poco de recelo un episodio, también muy de detalle, pero importantísimo para el entorno de Cristina y para la propia Cristina.",
+      "score": 0.252,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se publicó la dirección de Cristina Fernández de Kirchner, el 12 de octubre, y ellos se quejan porque, publicando la dirección del departamento, movilizaban a la gente a hacer una escrache personal, todo el mundo alrededor del kirchnerismo tuiteó un repudio a esa publicación, menos Massa.",
+      "score": 0.261,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viaja a las provincias, viaja al interior con recursos políticos y económicos que le da el gobierno.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, en un momento recesivo le quita recursos a la economía privada para dárselos al Estado.",
+      "score": 0.018,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Raro en el caso de Máximo Kirchner y Carlos Heller.",
+      "score": 0.89,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una carta del bloque de senadores peronistas que, como decíamos, es una carta seguramente la segunda carta de Cristina, porque ellos no escriben, si no es bajo la vocación de Cristina Fernández de Kirchner y el permiso de Cristina Fernández de Kirchner, con una larga argumentación muy detallada, que en realidad obedece a una idea central que expuso reiteradamente Alberto Fernández durante la campaña electoral.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el Fondo hubiera trabajado para la reelección de Macri, estaría Macri.",
+      "score": 0.207,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Justamente, muchos dentro de Cambiemos se autoflagelan, porque dicen: \"el Fondo, pactamos con el Fondo, con ajuste, el gobierno no vio el peso electoral de la recesión, fuimos a castigar al que nos vota, justamente a la clase media, por eso perdimos\".",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una anécdota: noviembre del año 2018, en una reunión reservada que tuvo Alfonso Prat-Gay con Alejandro Werner, que era el y es el responsable de Argentina en el Fondo, a pesar de que Guzmán no quiere hablar con él.",
+      "score": 0.331,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prat-Gay le dijo: \"Miren, revisen –estamos hablando de fines del 2018–, revisen ya este programa, porque por esta vía ustedes van a ser los responsables del regreso de Cristina\".",
+      "score": 0.214,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, la carta se basa en una declaración centralmente de Mauricio Claver-Carone, que hoy es presidente del BID, y que en su momento era el delegado de Estados Unidos en el Fondo, diciendo: \"Nosotros le dimos la plata a Macri para que no vuelva el kirchnerismo\", y eso es cierto.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El argumento principal del gobierno de Macri frente a los Estados Unidos es: \"Nosotros estamos en un callejón sin salida, si no nos dan este dinero, que calme a los mercados, y que le indique a los mercados que no necesitamos más financiamiento, va a volver el\" –no se animaron a decir \"el populismo\" porque Trump es populista–, le dijeron directamente \"el comunismo\", y bueno, y los americanos pusieron la plata.",
+      "score": 0.014,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este ejemplo sostiene que entre 2003 y 2015 la Argentina creció al 5%, es verdad, promedio, porque crecía al 8 y 9% en los buenos años de Néstor Kirchner, y después, con Cristina Fernández de Kirchner, a partir del 2009 y 2010, empezó un estancamiento que dura hasta hoy, e inclusive recesión.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kicillof entregó el gobierno en medio de una recesión.",
+      "score": 0.503,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apagaban a Néstor Kirchner por haber sido el paladín del desendeudamiento que le pagó al Fondo, le llenó la cara de billetes al FMI, billetes que salían 4% de tasa de interés, para ir a endeudarnos con Chávez al 15%.",
+      "score": 0.161,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández hace suya esta carta, no tiene otro remedio, y dice la carta, recuerda algo muy importante: \"el daño que le ha hecho a la Argentina el endeudamiento\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, más allá de ese problema conceptual, hay que recordar otra cosa: desde que asumió hasta ahora, Alberto Fernández endeudó al país en 20.000 millones de dólares, 20.000 millones de dólares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este momento, para que le creamos que no va a devaluar, Martín Guzmán emite bonos atados al dólar, es decir, se inyecta el problema, y se endeuda en dólares, no se endeuda a todos nosotros, en dólares, para que le creamos en su convicción de decir: \"esta es la paridad cambiaria que voy a defender\".",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de que Macri le pidió plata al Fondo Monetario Internacional, ahora hay que devolver esa plata.",
+      "score": 0.138,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y el gobierno de Alberto Fernández qué está negociando?",
+      "score": 0.38,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está negociando lo siguiente –aquí hay que ser muy preciso para entender por qué la carta es suicida–: está negociando que a él le den un préstamo similar al de Macri, para devolver la plata con ese préstamo, eso es el rollover.",
+      "score": 0.077,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El rollover es que yo me presento de nuevo al Fondo, y le digo: \"necesito que, para pagarte a vos, me des de nuevo plata\", por lo tanto, tenés que cumplir con las condiciones para un crédito.",
+      "score": 0.189,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y eso es lo que le pide el Fondo?",
+      "score": 0.192,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Guzmán es lo que le pide el Fondo a Alberto Fernández.",
+      "score": 0.725,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, en la carta de Cristina, para simplificar, la carta de Cristina, que firman los senadores del bloque peronista, le recuerda al Fondo todas las cosas que no cumplía Macri, y que aún así le dieron la plata.",
+      "score": 0.836,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, Macri estaba en una espectacular fuga de capitales, no le podrían dar la.",
+      "score": 0.075,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen: \"El Fondo no le puede prestar\", y le prestaron a Macri, a un gobierno que no tiene acceso al crédito externo.",
+      "score": 0.025,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, lo que está diciendo Cristina es: \"Alberto tampoco le tendrían que prestar, si se cumplen aquellas reglas que pidió retroactivamente para Macri\".",
+      "score": 0.662,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, que el Fondo, si le toma la palabra, le va a decir: \"Bueno, terminemos acá la discusión\".",
+      "score": 0.406,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo importante, y aquello a lo que le estaban prestando atención, es el problema político.",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, vamos a olvidarnos de que la escribió Cristina o la dictó Cristina.",
+      "score": 0.778,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le están diciendo al gobierno: \"ajuste, no\".",
+      "score": 0.555,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente por la carta de los senadores, escrita por Cristina o dictada por Cristina, porque estamos empezando a ver que se ponen en tela de juicio las reglas de juego de la próxima elección.",
+      "score": 0.791,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién le sirve derogar las PASO?",
+      "score": 0.891,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre derogar las primarias le sirve al oficialismo, porque el oficialismo tiene el poder, tiene dinero, tiene cargos para disciplinar a su propia fuerza política.",
+      "score": 0.387,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si yo le quito la posibilidad de hacer primarias a la oposición, le creo un enorme problema interno.",
+      "score": 0.593,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, mucha gente votaría, podría votar, opciones alternativas a Juntos por el Cambio, vamos a ponerle nombre y apellido: Espert, López Murphy, Echevarría, los votan en la primaria.",
+      "score": 0.18,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con un gobierno flojo, con un presidente débil, el intendente empieza a tener en el conurbano bonaerense y en la Provincia de Buenos Aires un peso enorme.",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, obviamente, Jorge Macri, Néstor Grindetti, Diego Valenzuela, que son los intendentes de Juntos por el Cambio que quieren reelegirse, tampoco van a decir nada.",
+      "score": 0.783,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este contexto, hay que mirar la incorporación de Ferrari, de Jorge Ferrari, que es un viejo lobo de mar del PJ del conurbano bonaerense.",
+      "score": 0.111,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora le dan hábitat porque hay que pagarle a la mesa de los intendentes.",
+      "score": 0.684,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora Alberto Fernández me viene a proponer que, en este contexto, yo admita que el procurador, que es el que va a decir si soy inocente o culpable delante de la Corte, lo pactemos con Lilita Carrió y Mauricio Macri.",
+      "score": 0.837,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto debe ser lo que piensa, en alguno de sus pliegues de conciencia, Cristina Fernández de Kirchner, frente a esta oferta de un acuerdo con la oposición para designar al procurador.",
+      "score": 0.948,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es una pregunta central que se hace al Fondo y que se hace en los mercados.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cartas de Cristina que no avisó.",
+      "score": 0.822,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa que arma su propio presupuesto en el Congreso, con independencia del presupuesto que le mandó el ministro de Economía.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández da la impresión de que no puede alinearlos.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 85
+  },
+  "etiqueta_original": "neutral"
+}

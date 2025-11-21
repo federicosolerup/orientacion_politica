@@ -1,0 +1,757 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Si el debate es sobre la grieta, pero Macri, pero la grieta, pero los porteños, pero la Ciudad de Buenos Aires, pero Larreta, pero qué vergüenza esta gente.",
+      "entidades_detectadas": [
+        "Macri",
+        "Larreta",
+        "Ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Mira lo caliente que debe estar, que debe estar pensando en los bonaerenses, ya pensando en los porteños.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Qué nivel de odio extremo que tienen.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Te digo, salgamos a la calle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La gran ganadora de la noche, Patricia Bullrich, con nosotros hoy.",
+      "entidades_detectadas": [
+        "Patricia Bullrich"
+      ]
+    },
+    {
+      "frase": "¿Qué le decís a toda esa gente que está en su casa ahora mirándonos desde donde sea, que no puede más?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desde lo emocional, anímico, el bolsillo, no tiene para comer, que la vida se le complicó mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Que ayer hizo algo maravilloso, que votó por un país donde elige el progreso y no la pobreza, donde elige la seguridad y la mano firme y no el \"zafaronismo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué vergüenza, qué vergüenza la jefa de la asociación ilícita, corrupción, desaudación al Estado, todo eso.",
+      "entidades_detectadas": [
+        "Estado",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Ah, pero los jueces de la Corte, ah, pero los fiscales, por favor.",
+      "entidades_detectadas": [
+        "Ah",
+        "Corte"
+      ]
+    },
+    {
+      "frase": "Necesitamos un grupo de personas sensatas que se hagan cargo de este país, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo se siente siendo parte de un gobierno que destrozó a la clase media, barba?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Desaudadísimo, totalmente desanimado y triste, pero por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Le mandás un mensaje a alguien más?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, claro, por supuesto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Felicitándolo y que todos esperamos que retome el rumbo del país que necesita, que es el rumbo del crecimiento, el rumbo de la producción, el rumbo del trabajo.",
+      "entidades_detectadas": [
+        "Felicitándolo"
+      ]
+    },
+    {
+      "frase": "Mamita, otra que la Ayosonda, ¿a quién puede seducir Batakis en Estados Unidos?",
+      "entidades_detectadas": [
+        "¿",
+        "Ayosonda",
+        "Mamita",
+        "Estados Unidos",
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "¿A Biden, al Fondo Monetario Internacional?",
+      "entidades_detectadas": [
+        "Fondo Monetario Internacional?",
+        "¿A Biden"
+      ]
+    },
+    {
+      "frase": "Es una pinturita, Batakis, ¿no?",
+      "entidades_detectadas": [
+        "¿",
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Me pregunto, Batakis, te pregunto, ¿qué te reís?",
+      "entidades_detectadas": [
+        "Batakis"
+      ]
+    },
+    {
+      "frase": "Cuando lo escuchás, acordate, dale un poquito más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos un presidente que es el Camarillo, ¿tenés el estribillo?",
+      "entidades_detectadas": [
+        "Camarillo",
+        "¿"
+      ]
+    },
+    {
+      "frase": "El Camarillo, mamá, el Camarillo cambia de color en segunda ocasión.",
+      "entidades_detectadas": [
+        "el Camarillo",
+        "El Camarillo"
+      ]
+    },
+    {
+      "frase": "El Camarillo, mamá, tu coro impresionante.",
+      "entidades_detectadas": [
+        "El Camarillo"
+      ]
+    },
+    {
+      "frase": "¿Hace cuánto que no hubo un casamiento?",
+      "entidades_detectadas": [
+        "¿Hace"
+      ]
+    },
+    {
+      "frase": "Le gusta hacer los casamientos, tresitos, no, mamá, ¿no?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Qué antes hubiera, cómo le va a agarrar.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Qué vergüenza, le ponemos un poco de humo para que no nos dé, como, viste, taquicardia, un bobazo, algo de eso.",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Qué vergüenza, este presidente es el Camarillo.",
+      "entidades_detectadas": [
+        "Camarillo",
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Cambia de discurso según la ocasión.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy muy emocionada, estoy muy agradecida, que traje mi rosario y que te lo voy a dejar porque te quiero mucho, mucho, te quiero mucho.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estoy conmovida por ver a tu familia acá, tenés un hogar, una familia hermosos.",
+      "entidades_detectadas": [
+        "tenés"
+      ]
+    },
+    {
+      "frase": "Nosotros te bancamos y si nos hundimos, nos hundimos con vos, Alberto.",
+      "entidades_detectadas": [
+        "Alberto"
+      ]
+    },
+    {
+      "frase": "Ay, por favor, por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice, si nos hundimos, nos hundimos todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo te digo la verdad, esta mujer, pobrecita, tiene una cantidad de odio encima que no puede ser.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta mujer, señora, le digo algo, usted no tiene patria, usted no ama la Argentina, ¿cómo que si se hunde nos hundimos todos?",
+      "entidades_detectadas": [
+        "¿",
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Pero lo dice con...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Le juro que esto es muy difícil remontar esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, no, no.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sube todo, se va toda la mierda.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los 10 anuncios de Sergio Massa como ministro de Economía.",
+      "entidades_detectadas": [
+        "ministro de",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Poné un poquito más la música acá.",
+      "entidades_detectadas": [
+        "Poné"
+      ]
+    },
+    {
+      "frase": "¿Cómo les va?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué dicen?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Muy buenas noches.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La imagen que nos acompaña es tremenda, pero sí estamos...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, después de ver jurar a Marino, les digo la verdad, qué ganas de que me lleve una extraterrestre y nos vamos a cambiar.",
+      "entidades_detectadas": [
+        "Marino"
+      ]
+    },
+    {
+      "frase": "Después de ver que tiene un problema con las hormonas, la Presidenta de la Cámara de Diputados, la verdad les digo, está excitada como si en vez de la hija de Moró estuviera asumiendo ese cargo, no sé, la mujer maravilla, la verdad, estamos en pedo.",
+      "entidades_detectadas": [
+        "Después",
+        "Moró"
+      ]
+    },
+    {
+      "frase": "Ahí lo vemos a Sergio Massa y a un presidente, Alberto Fernández, ponéle presidente absolutamente abatido.",
+      "entidades_detectadas": [
+        "Alberto Fernández",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Me dio entre pena, lástima y...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¡Guau!",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A las pocas horas de haber jurado Sergio Massa, estaba dando los anuncios, el huracán Massa ya estaba soplando.",
+      "entidades_detectadas": [
+        "huracán Massa",
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Mirá, ¿lo llegaremos al mediodía?",
+      "entidades_detectadas": [
+        "¿",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "No voy a permitir, no voy a permitir, por mi público y por el pueblo, que le sigamos faltando el respeto a la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Te agradezco con todo respeto, no quiero que esto se torne en algo violento ni que la pasemos mal ninguno de nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No, de ningún, violento digo por el toro y por tu cinismo, tenés un nivel de cinismo que yo no lo voy a permitir, ni con el DIPI ni con nadie ni con el pueblo.",
+      "entidades_detectadas": [
+        "ningún"
+      ]
+    },
+    {
+      "frase": "Hay un sillón de Rivadavia, no hay 14, y aparecen de todos lados los radicales.",
+      "entidades_detectadas": [
+        "Rivadavia"
+      ]
+    },
+    {
+      "frase": "Y tampoco están graves, yo siempre les digo a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No digo graves, pero ¿no sentís que se está notando?, digo, parece 41% del que vos hablás, ¿no se está notando medio como que se están escuchando medio los gritos, el conventillo, la ventana, no se está haciendo de manera un poco desprolija, parece, eso es un poco desprolijo, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Eso sí, hace poco tuvimos una reunión de Juntos por el Cambio, creo que fue muy mala y que fue muy crítica y creo que todos hemos tomado conciencia que realmente lo que tenemos que lograr, y es lo que yo estoy comprometido, es ayudar a que transformemos.",
+      "entidades_detectadas": [
+        "Juntos",
+        "Cambio"
+      ]
+    },
+    {
+      "frase": "Todo este enojo cayó en la sociedad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo que está viendo es lo que decía Tom Bolín, no hay un carajo para festejar y estaban festejando.",
+      "entidades_detectadas": [
+        "Tom Bolín"
+      ]
+    },
+    {
+      "frase": "Uno no sabe bien qué celebran los políticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por un lado, los que dicen confíen con Esperanza en el 2023 y los otros que dicen borrón-bombón, borrón-bombón, somos el frente renovador.",
+      "entidades_detectadas": [
+        "Esperanza",
+        "borrón-bombón"
+      ]
+    },
+    {
+      "frase": "¿Qué festejan?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No sé qué festejan porque hace dos años y medio que son parte de este gobierno que fracasó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo siento que a la mayoría de los políticos solo les importa el cargo, la caja, el poder, no les importa la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La verdad tiene razón Tongolini, no hay nada para festejar.",
+      "entidades_detectadas": [
+        "Tongolini"
+      ]
+    },
+    {
+      "frase": "Queremos justicia, justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se la chorearon todas, se la chorearon todas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y desconfían de la justicia, justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se la jugaron todas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora es el año de víctimas y las únicas víctimas en todo esto somos nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El rebaño de pelotudos, justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Además, otra cosa, estos videitos que hace la vicepresidenta los hacen con la del rebaño de pelotudos, con la nuestra.",
+      "entidades_detectadas": [
+        "Además"
+      ]
+    },
+    {
+      "frase": "Tristán Bauer, escriben, escriben los guiones, ella graba, le pone tonos, actúa para Pol-ka.",
+      "entidades_detectadas": [
+        "Tristán Bauer",
+        "Pol-ka"
+      ]
+    },
+    {
+      "frase": "Esto lo pagamos nosotros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirá lo que dijo Hugo Moyano, la marcha de la CGT va a ser en apoyo al gobierno.",
+      "entidades_detectadas": [
+        "Hugo Moyano",
+        "CGT",
+        "Mirá"
+      ]
+    },
+    {
+      "frase": "No en contra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A toda la gente de la CGT, a los gordos, a la CTA, a todos hay que rajarlos a patadas en el culo.",
+      "entidades_detectadas": [
+        "CGT",
+        "CTA"
+      ]
+    },
+    {
+      "frase": "Son todos impunes, van a hacer una marcha la semana que viene para apoyar al gobierno de Alberto Fernández con más pobres.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "¿Cómo pueden salir a bancar a este gobierno?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por la caja, por la guita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánto les pusieron para que hagan una marcha a favor de la CTA?",
+      "entidades_detectadas": [
+        "¿Cuánto",
+        "CTA"
+      ]
+    },
+    {
+      "frase": "¿Cuánta impunidad?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablando de los kirchneristas, mirá este meme del papa que me pareció buenísimo.",
+      "entidades_detectadas": [
+        "mirá"
+      ]
+    },
+    {
+      "frase": "A mí que Dios me perdone, pero ya no me importa nada.",
+      "entidades_detectadas": [
+        "Dios"
+      ]
+    },
+    {
+      "frase": "El papa peronista, que está en deuda con los argentinos porque la Argentina está incendiada, no hay un mango.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Tenemos un ejército de planeros, piden el salario universal y el papa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y el papa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El papa tendría que venir a Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "A contener a los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es el papa, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Todavía el papa tiene, hice la cuenta, 495 días para venir antes de que se vayan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Igual, a nosotros en Argentina no nos salva ni el papa.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Mis vecinos y los tuyos se dicen buenas noches, ¿cómo le va?, ¿qué dice?, ¿cómo se siente?, ¿cómo está su hija, su hijo, su perro?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A ella le gritan chorra.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El día que este rebaño de pelotudos, que falta muy poco, se despierte, van a correr.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cafierito, no te olvides que Cristina no te traga, no te soporta, flaco.",
+      "entidades_detectadas": [
+        "Cristina",
+        "Cafierito"
+      ]
+    },
+    {
+      "frase": "Para ella vos sos un funcionario que no funciona.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice, entre otras cosas, que sos inútil, Cafiero.",
+      "entidades_detectadas": [
+        "Cafiero"
+      ]
+    },
+    {
+      "frase": "Vos sabés que Cristina pidió tu cabeza y vos la estás apoyando a ella cuando ella lo dejó sin poder a Alberto Fernández.",
+      "entidades_detectadas": [
+        "Vos",
+        "Cristina",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Eso se llama tradición en mi barrio, papu.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El peronismo y la tradición.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice que a Cristina la persiguen por peronista, a Cafiero la persiguuen por chorra.",
+      "entidades_detectadas": [
+        "Cafiero",
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Por ser la jefa de una asociación ilícita.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina Cafiero es millonaria con la nuestra, del rebaño de pelotudos.",
+      "entidades_detectadas": [
+        "Cristina Cafiero"
+      ]
+    },
+    {
+      "frase": "Dice que los medios de comunicación lo quieren echar a Alberto Fernández.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Se está echando solo, Víctor Hugo.",
+      "entidades_detectadas": [
+        "Víctor Hugo"
+      ]
+    },
+    {
+      "frase": "Se está echando solo, hace todo mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está para atrás, hace todo mal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora me pregunto, bueno, yo sé cuánto le pagan igual a Víctor Hugo Morales, en dólares además.",
+      "entidades_detectadas": [
+        "Víctor Hugo Morales"
+      ]
+    },
+    {
+      "frase": "Por eso no le importa incendiarse por televisión defendiendo lo indefendible.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué ven de patria son todos estos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras estoy en la tarasca, todos siguen mintiendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me da vergüenza, como si el rebaño de pelotudos no supiera que está de mal en peor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impunidad, cuanta impunidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Acá no dice absolutamente nada, le pagamos el viaje para que se anime a hablar afuera.",
+      "entidades_detectadas": [
+        "Acá"
+      ]
+    },
+    {
+      "frase": "Tenía tantas ganas de hablar que en España parecía una garganta profunda.",
+      "entidades_detectadas": [
+        "Tenía",
+        "España"
+      ]
+    },
+    {
+      "frase": "Escuchemos al número uno de los trastornados de los argentinos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero antes poneme la placa, el debate no me preocupa, me preocupa la obstrucción al gobierno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Presidente, más que obstrucción al gobierno, Cristina quiere que usted termine, no lo aguanta más, que usted se vaya.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Cristina no lo quiere ver ni en figurita, trastornado presidente.",
+      "entidades_detectadas": [
+        "Cristina"
+      ]
+    },
+    {
+      "frase": "Una democracia que destruye al trabajo y al trabajador.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una democracia que cada día tiene más pobres y más gente hambreada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una democracia donde existen estos medios, el no violinar para perseguir a los comunicadores sociales y a los medios.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es democracia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tengo para darte la buena noticia del día, José.",
+      "entidades_detectadas": [
+        "José"
+      ]
+    },
+    {
+      "frase": "Faltan exactamente 494 días para que se vayan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cafiero",
+    "Poné",
+    "Alberto Fernández",
+    "Estoy",
+    "mirá",
+    "Víctor Hugo Morales",
+    "¿Qué",
+    "Qué",
+    "¿A Biden",
+    "Patricia Bullrich",
+    "CTA?",
+    "Ahí",
+    "Víctor Hugo",
+    "Ciudad de Buenos Aires",
+    "Felicitándolo",
+    "Estado",
+    "Economía",
+    "Además",
+    "Mirá",
+    "borrón-bombón",
+    "Cristina Cafiero",
+    "Mamita",
+    "El Camarillo",
+    "José",
+    "Tongolini",
+    "Vos",
+    "Alberto",
+    "CGT",
+    "Estados Unidos",
+    "Acá",
+    "Tenía",
+    "tenés",
+    "Tom Bolín",
+    "Argentina",
+    "Sergio Massa",
+    "Cafierito",
+    "huracán Massa",
+    "Juntos",
+    "Esperanza",
+    "Marino",
+    "Larreta",
+    "CTA",
+    "Sube",
+    "Queremos",
+    "Cristina",
+    "Dice",
+    "Presidente",
+    "Después",
+    "Ayosonda",
+    "Desaudadísimo",
+    "Corte",
+    "Cambio",
+    "Tristán Bauer",
+    "España",
+    "la Argentina",
+    "¿Cuánto",
+    "¿",
+    "Hugo Moyano",
+    "Mira",
+    "Todavía",
+    "Rivadavia",
+    "Fondo Monetario Internacional?",
+    "Cambia",
+    "Moró",
+    "Camarillo",
+    "el Camarillo",
+    "Pol-ka",
+    "Macri",
+    "Batakis"
+  ]
+}

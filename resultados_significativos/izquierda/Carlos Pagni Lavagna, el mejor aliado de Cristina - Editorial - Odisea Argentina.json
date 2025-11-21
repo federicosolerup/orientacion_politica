@@ -1,0 +1,336 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 44,
+      "derecha": 20
+    },
+    "score_promedio": 0.377,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los principales encuestadores de la Argentina están angustiados porque confiesan que formulan los cuestionarios para indagar qué hay en la cabeza de la gente respecto de las elecciones, respecto de la política, y como la oferta política, sobre todo algunas candidaturas, parecen estar asentadas en arenas movedizas, hay que rehacer los formularios con las preguntas, volver a hacerlos.",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aparece Cristina Fernández de Kirchner que se pone como vicepresidenta en vez de postularse como candidata a presidenta.",
+      "score": 0.487,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digamos, las incógnitas son tan grandes que, al paso de las horas, esos cuestionarios se vuelven abstractos, inservibles.",
+      "score": 0.797,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Estamos cansados de perder plata en estos días\", dicen esos encuestadores.",
+      "score": 0.727,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Hugo Moyano piensa en un futuro gobierno que él desea sea del kirchnerismo, es decir, que ganen Alberto Fernández y Cristina Fernández de Kirchner, dice que él va a pedir una sola repartición: el ministerio de la venganza.",
+      "score": 0.985,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, el candidato elegido por Cristina Fernández de Kirchner para representar al kirchnerismo como candidato a presidente, que acaba de ser, dicho sea de paso, internado aparentemente por una dolencia menor, se adelantó a decir que quiere revisar sentencias judiciales.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Alberto Fernández ya anuncia que va a revisar las sentencias que tienen que ver con corrupción porque, a juicio de él, fueron sentencias mal escritas.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí hay toda una confusión porque se le ordenó a un juez, el juez Villena, que es un juez justamente el que tiene jurisdicción sobre Ezeiza.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Villena ordena escuchas sobre un narcotraficante, un presunto narcotraficante, Segovia, llamado \"el rey de la efedrina\", a quien también utilizaba Néstor Kirchner en el 2009 para manchar a Francisco de Narváez en aquel momento.",
+      "score": 0.842,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Segovia le habla por un teléfono público, que es el que usan todos los presos de ese pabellón.",
+      "score": 0.764,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esas escuchas las recoge la AFI, es decir, la antigua SIDE, y da la impresión de que, en vez de destruir todo lo que no debería ser escuchado, porque no hay ninguna orden judicial para escuchar a Baratta, a Vudú o a cualquier otro, a Lázaro Báez, que están ahí en ese penal, ese remanente, esos anexos de las escuchas de Segovia se usan para hacer política, inclusive de manera tan desagradable como publicar las conversaciones de un preso con su abogado.",
+      "score": 0.729,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta polarización le genera problemas a algunos candidatos, que tienen una indecisión superior a veces a la indecisión de los propios electores, de los propios votantes.",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pertenece hasta nuevo aviso a Alternativa Federal, que, según su líder más gravitante, que es Juan Schiaretti, no va a estar ni con Cristina Fernández de Kirchner ni con Mauricio Macri, porque explícitamente Schiaretti dijo: \"hay que superar la grieta\".",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más, él interpreta que lo que se votó en Córdoba al votarlo a él en una elección espectacular como gobernador es un mandato de una parte de la sociedad argentina, la cordobesa, de superar la grieta.",
+      "score": 0.56,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que Massa estaría en esa tercera posición, adhiriendo al frente o a la agrupación Alternativa Federal, que sería el peronismo no kirchnerista.",
+      "score": 0.367,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paralelamente, Massa está negociando con el kirchnerismo y al mismo tiempo hay conversaciones de Massa con dirigentes del oficialismo para ver si hay alguna combinación posible entre Alternativa Federal y María Eugenia Vidal a nivel provincial en la provincia de Buenos Aires.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa participó de un encuentro con estudiantes y dijo: \"Esto que estoy haciendo es porque hay que terminar con el cortoplacismo, con la política de corto plazo\".",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una declaración inesperada en Massa y acá es interesante la cuestión, porque no se deciden cuestiones marginales entre lo que sería la continuidad de este gobierno o el regreso del kirchnerismo, más allá de cualquier juicio de valor que cada uno pueda tener respecto de lo que significa o encarna Macri como idea de país y lo que encarna Cristina Fernández de Kirchner, son dos cosas demasiado distintas.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mendy Guren, Ignacio Mendy Guren, que es un dirigente empresarial muy cercano a Massa, forma parte de su bloque en la Cámara de Diputados, hizo declaraciones muy interesantes este fin de semana, interesantes por lo que permiten suponer sobre cuál es el juego de Massa, criticando durísimamente a Schiaretti y a Urtubey por haberse sacado fotos con Macri.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son interesantes las declaraciones de Mendy Guren sobre esas fotos, porque en las mismas declaraciones lo elogia a Massa por haberle pedido en una carta al presidente que se saque fotos con la oposición.",
+      "score": 0.472,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay quienes piensan, cerca de Massa, que uno de los argumentos de Massa para terminar de negociar con el kirchnerismo va a ser: \"No me gusta la aproximación que Alternativa Federal tuvo al gobierno\".",
+      "score": 0.107,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, Massa está convocando a una gran alianza opositora, dice una alianza arrolladora de oposición, se supone que contra Macri, salvo que nos diga después que era una oposición contra Cristina.",
+      "score": 0.717,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes de que hable de Mendy Guren, a quien muchos interpretan que no es un vocero de Massa sino del banquero Jorge Brito, que tiene con el gobierno diferencias insalvables y que está muy cerca de Massa, antes de eso, ya Daniel Vila, que con José Luis Manzano es uno de los dueños del grupo América de medios de comunicación, apareció, seguramente no ingenuamente, en la presentación del libro \"Sinceramente\" de Cristina Fernández de Kirchner.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, la estrategia planteada desde antes del 2015, de que en esta polarización de dos países, que es una polarización que tiene que ver con un conflicto ideológico que hay en la sociedad argentina, no la deciden Macri y Cristina, frente a esa polarización, suponía que iba a haber una tercera posición posible.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un problema que es una tensión muy difícil de resolver entre su estructura territorial, la burocracia de poder que él construyó y en la que está anclado, y los votos que recibe Massa en las encuestas o que recibiría según las encuestas, muchos de los cuales son votos más anti-kirchneristas que anti Macri.",
+      "score": 0.264,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, él está en un dilema complicado, porque si él le diera razón o siguiera lo que le indican las encuestas, posiblemente tendría que seguir en una posición independiente con Urtubey, con Pichetto, con Schiaretti en Alternativa Federal, pero se le iría la estructura, sobre todo a una herencia que construyó en estos años y algo importantísimo para él.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su último refugio, su último bastión, Tigre, el intendente de Tigre, Julio Zamora, ya está con Cristina Fernández de Kirchner.",
+      "score": 0.987,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces acá aparece una negociación de Massa incierta todavía.",
+      "score": 0.291,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él habla de la posibilidad de ir a una interna contra Alberto Fernández, muy difícil, sería casi suicida ir al kirchnerismo a una interna, no contra Alberto Fernández, contra Cristina Fernández de Kirchner, que sería la vicepresidenta o candidata a presidenta de Alberto Fernández.",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es difícil pensar a esta altura que Cristina Fernández de Kirchner desista también de la candidatura a vicepresidente.",
+      "score": 0.657,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le queda a Massa entonces?",
+      "score": 0.381,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Difícil que le habilite una interna contra Kicillof como gobernador.",
+      "score": 0.565,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ¿podría ser Massa primer candidato a diputado en las listas del kirchnerismo con una promesa a verificar después, incierta, para ser, si ganara el kirchnerismo, el presidente de la Cámara de Diputados por encabezar la lista bonaerense, que es la tradición histórica de la Argentina?, es una posibilidad.",
+      "score": 0.404,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que hoy Massa negocia cómo retener Tigre, cómo colocar gente en las listas de la legislatura bonaerense, que es un lugar muy opaco donde él ha tenido intereses muy marcados siempre.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las próximas horas, algunos suponen que mañana, Massa va a tener que develar este misterio.",
+      "score": 0.419,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es muy probable que si el resultado de sus deliberaciones interiores y de sus negociaciones es terminar una alianza con el kirchnerismo, incorporándose al kirchnerismo, se le quiebre el bloque de diputados del Frente Renovador.",
+      "score": 0.946,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Frente a este panorama, Macri tiene algunas ventajas a las que me quiero referir.",
+      "score": 0.084,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cae el peso, cae Macri, se estabiliza el peso, se estabiliza Macri y, eventualmente, rebota Macri.",
+      "score": 0.348,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no tiene que ver solamente con variables financieras; obviamente, hay una relación directa en la Argentina entre dólar e inflación.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una tendencia a la baja de la inflación que también beneficia a Macri, aunque esa tendencia da la impresión de ser mucho más lenta, mucho más tenue de la que había pensado el gobierno cuando pensó este programa económico acordado con el Fondo Monetario Internacional.",
+      "score": 0.034,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Schiaretti está en la misma posición, seguramente muy llevado por lo que le indican las encuestas cordobesas respecto del prestigio o el afecto que puede recoger ahí Cristina Fernández de Kirchner.",
+      "score": 0.148,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Macri hay lo mismo.",
+      "score": 0.673,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si fuera así, Macri tiene algo para entusiasmarse.",
+      "score": 0.592,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay también desventajas para Macri en esta escena.",
+      "score": 0.246,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Suele suceder que no, que el candidato a veces más agresivo es aquel que le saca votos, que le habla a la base electoral de ese otro protagonista que compite con él en las elecciones.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente que Lavagna tiene derecho a hacer lo que quiera, nadie le puede reprochar por las consecuencias de sus actos, pero habría que consignar que si la candidatura de Lavagna se mantiene en este nivel, que no es el de una marcha triunfal, hoy Lavagna es el principal aliado de Cristina Fernández de Kirchner objetivamente por los votos que le saca al oficialismo.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si yo fuera Cristina Fernández de Kirchner, alentaría la candidatura de Lavagna, no llego a la idiotez de decir que la financiaría, porque seguramente él no se dejaría financiar por el kirchnerismo.",
+      "score": 0.579,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El otro problema para Macri es la provincia de Buenos Aires.",
+      "score": 0.244,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie pensaba en el 2015 que Cambiemos o que una expresión no peronista podía ganar la provincia de Buenos Aires, que era el gran bastión del dualdismo y de su hijo, el kirchnerismo.",
+      "score": 0.858,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no Cambiemos la provincia de Buenos Aires con Vidal.",
+      "score": 0.465,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahí hay una diferencia importante entre los votos que puede sacar Cristina Fernández de Kirchner y los votos que puede sacar Macri.",
+      "score": 0.184,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, las encuestas más o menos coinciden en estos números: 40% Cristina Fernández de Kirchner, 33% Macri y 14% Massa.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O tal vez la postulación de Vidal en una elección desdoblada hacía que Cristina Fernández de Kirchner fuera candidata a gobernadora.",
+      "score": 0.449,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo cierto es que hoy, para Macri, debe ser una preocupación la provincia de Buenos Aires, donde Cristina Fernández de Kirchner, y este es un tema interesante que me gustaría tratar en otro programa, lleva a Kicillof como candidato a gobernador.",
+      "score": 0.105,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy vamos a hablar de Kicillof, vamos a contar algunas curiosidades de la historia de Kicillof en el whisky con Carola, que trae una cantidad de información muy divertida.",
+      "score": 0.236,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kicillof tiene un mérito que, para un kirchnerismo muy impugnado moralmente, muy relacionado con la corrupción, acusado de robar, no tiene ninguna conducta que sea reprochable desde ese punto de vista.",
+      "score": 0.866,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces Cristina le ofrece a los bonaerenses a un candidato que probablemente, en ese tema, imagino dos cuestiones, de penalización de la droga, de penalización del aborto.",
+      "score": 0.102,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kicillof debe tener posiciones muy marcadas a favor de ambas.",
+      "score": 0.267,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supongo, en un electorado que tiende a ser un electorado de centroderecha, va a ser un experimento a mi juicio muy interesante como Kicillof en el electorado bonaerense que tuvo como líderes en su momento y como figuras muy atractivas a Ruckauf, a Aldo Rico, a Eduardo Duhalde, al mismo Daniel Scioli, que si algo no tiene que ver es con un pensamiento de izquierda.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es un experimento muy audaz de Cristina Fernández de Kirchner que me parece todavía no está en la superficie y que va a dar que hablar durante la campaña.",
+      "score": 0.462,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es verdad que Macri tiene la ventaja –estoy hablando ahora de los problemas de Macri–, la provincia de Buenos Aires es uno, Lavagna es otro.",
+      "score": 0.029,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene el problema económico, es cierto, el mercado de cambios está tranquilo, el riesgo país sube, hay un problema con la deuda, hay cada vez más inquietud de los mercados por la posibilidad de la Argentina de pagar o no la deuda, hay un clima de desconfianza respecto de eso.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la recesión, donde el gobierno discretamente, sin hacer demasiada campaña, toma nota, precios esenciales, créditos del Banco Provincia, el crédito Argenta, ahora 12, unas paritarias que, a lo mejor, al gobierno le gustaría que se indexen más de lo que se están indexando, el freno al aumento de tarifas, el dólar, si pudiera quedar fijo, mejor.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez, en la polarización, Cristina Fernández de Kirchner y Mauricio Macri estén destinados, lo veremos en los próximos meses, a esa especie de simbiosis de la principal obra literaria de la literatura española.",
+      "score": 0.373,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 64
+  },
+  "etiqueta_original": "neutral"
+}

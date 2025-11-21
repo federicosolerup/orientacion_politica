@@ -1,0 +1,44 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La Asociación Empresaria Argentina (AEA) emitió un comunicado rápido.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Declara que la aprobación general del proyecto de ley de \"Bases y Punto de Partida de la Verdad\" en la Cámara de Diputados representa un paso muy importante.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Les mostraré a algunos miembros de su comisión directiva: Jaime Campos (un gerente de AEA, no el más importante), Luis Pagani (Grupo Arcor), Paolo Rocca (Techint), Héctor Magnetto (Grupo Clarín), Sebastián Bagó (Laboratorios Bagó), Carlos Miguens (Grupo Miguens), Alfredo Coto (supermercados Coto), Cristiano Rattazzi (Fiat), Federico Braun (supermercados La Anónima), Luis Pérez Companc (Grupo Pérez Companc, Molinos Río de la Plata), Alberto Grimoldi (Grimoldi), Eduardo Elstein (IRSA),  Zaida Garrido (La Nación),  Argüelles (Laboratorio Sidus), Alberto Ojman (BGH Electrodomésticos), Jorge O'Farrell (DIA), Norberto Morita (Saurdan Cross Group), Marcos Galperín (Mercado Libre), Bulgheroni (Pan American Energy), María Luz Sáenz Valiente (Roblería del Sud), Martín Migoya (Globant), Carlos Blaquier (familia Blaquier, Ledesma), y Mariano Boix (AIC).",
+      "entidades_detectadas": [
+        "alberto",
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Ayer, la Cámara Argentina de la Mediana Empresa (CAME) publicó un comunicado con datos sobre la venta minorista.",
+      "entidades_detectadas": [
+        "argentina",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Para reiterar, los dueños de Argentina que celebraron (AEA) tienen rentabilidades extraordinarias: Arcor (8,1%), Grupo Clarín (8,2%), IRSA (12,9%), Mercado Libre (18% en dólares), Pan American Energy (17%), Eduardo Constantini (40%), Pampa Energía (15,9%), Cencosud (15,9%), Banco Macro (9,6%), Banco Santander (11,4%), etc.",
+      "entidades_detectadas": [
+        "argentina",
+        "clarín"
+      ]
+    },
+    {
+      "frase": "Mañana, se sigue discutiendo la ley y el DNU en la Cámara de Diputados, un debate que el gobierno está bloqueando en el Senado.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    }
+  ]
+}

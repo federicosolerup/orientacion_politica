@@ -1,0 +1,171 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 30,
+      "derecha": 1
+    },
+    "score_promedio": 0.162,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Titulamos esta apertura del programa \"Entre procrastinación y decisionismo\", asumiendo que la procrastinación sería el atributo negativo que se le caracteriza a Alberto Fernández y que el decisionismo sería el atributo positivo que se le asigna a Sergio Massa, generando expectativas positivas.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto tiene que ver con la decisión de ayer de, finalmente, que saliera Claudio Lozano del Banco Nación y la que conocimos ayer, que saliera la cúpula de la Secretaría de Energía.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar primero un audio donde la vocera presidencial le pide a Lozano que renuncie, y Lozano no renunció.",
+      "score": 0.484,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**(Audio)**\n\n*Yo ahí tengo una posición que le he expresado siempre claramente.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él decía que era parte de un partido, un pequeño partido que él conduce, que era integrante del Frente de Todos.",
+      "score": 0.044,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, él estaba por encima del presidente del Banco Nación, incluso por encima del propio presidente, porque era parte, era un accionista de lo que resultaba ser el Frente de Todos.",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros hablamos con Cristina y esto estaba validado.",
+      "score": 0.344,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el entorno de Cristina dicen \"no, no lo hablaron, no me dijeron que iban a echar o no nos dijeron que iban a echar a Moreno\".",
+      "score": 0.345,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este sentido, me gustaría escuchar un audio de Alberto Fernández y otro de Sergio Massa, pero con una introducción que les quiero hacer previamente.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Procrastinar, que decíamos era el carácter que se le asigna al presidente Fernández, es una palabra que se usa poco en español, en realidad viene del inglés, pero proviene del latín originalmente.",
+      "score": 0.212,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un estudio que se hizo también allí en el año 2013, descubrieron que la procrastinación puede ser entendida como la primacía de la reparación del estado de ánimo a corto plazo por encima del objetivo de acciones planeadas a un plazo más largo.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría ser debido a que la tarea misma es inherente, la tarea misma es poco atractiva, por ejemplo, a lo que a la persona no le gusta hacer o que se duda de tener la capacidad para hacerla, tener baja autoestima, sentir ansiedad e inseguridad, por ejemplo, las primeras que es algo aburrido y que la gente pospone, no sé, limpiar un baño sucio, organizar una tarea aburrida.",
+      "score": 0.114,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El decisionismo de Schmitt no es, como se ha afirmado, simplemente un voluntarismo ético asociado a las filosofías morales existencialistas y positivistas.",
+      "score": 0.053,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El decisionismo, en cambio, es una particular doctrina política, que sostiene que el Estado es la parte y la fuente absoluta de toda adhesión legal y moral en la vida política.",
+      "score": 0.323,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La crítica de Schmitt al liberalismo podría resumirse en un único concepto que es decisionismo.",
+      "score": 0.038,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En su mención filosófica, el decisionismo de Schmitt, como decíamos, es una reacción contra los principios críticos heredados del iluminismo, que en su comienzo Schmitt compartió con Max Weber, pero finalmente, desilusionado por cómo el proceso de extrema racionalización del mundo occidental llevaba a Alemania a su destrucción, culminó creando esta idea de decisionismo.",
+      "score": 0.022,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Normalmente se le asigna a Napoleón esa actitud de decisionista, pero, simplificándolo, uno sería el defecto de Alberto Fernández, otro sería la virtud de Sergio Massa.",
+      "score": 0.262,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar un audio de ayer del presidente Alberto Fernández para que hiciera tomando una decisión y luego la opinión de Sergio Massa sobre la forma de decidir.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos primero con el audio de Alberto Fernández.",
+      "score": 0.199,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No todas las responsabilidades son iguales, pero todos tienen su cuota de responsabilidad.*\n\n**(Fin del audio)**\n\nBueno, y frente a este audio de ayer del presidente llamando a una concertación de precios y salarios, algo importante, parece raro que por sólo 60 días pueda ser importante.",
+      "score": 0.008,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar la definición de Massa sobre la decisión.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También estuvo el presidente del Banco Central, Miguel Ángel Pesce, en una situación curiosa porque él había pedido, en un reportaje, había recomendado en un reportaje que yo le hice hace un tiempo, que nosotros deberíamos premiar no solamente a las empresas que más crecieron, a las empresas que más invirtieron, sino a las empresas que más exportaron, dado que la exportación era algo fundamental para el proceso de la Argentina.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se hizo sentar en la fila 3, escondido casi en un costado, supongo que con cierto pudor para que los empresarios no se le vayan todos a pedirle permisos de importación.",
+      "score": 0.756,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y se tuvo que ir cinco minutos antes de la entrega del premio, de haber estado sentado allí por más de una hora por un llamado urgente del presidente.",
+      "score": 0.352,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algo similar pasó con Rubinstein, que Rubinstein hizo la presentación y, mientras se continuaban los demás premios, una vez que él ya no le tocó más hablar, literalmente se fue para tratar de huir de los periodistas que estaban todos esperando que terminara el evento para consultarlo.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que él lo podría ayudar mucho a Sergio Massa, pero no sé por qué no han pensado en él.",
+      "score": 0.085,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un reportaje que yo le hago a Nielsen dos meses antes de asumir Alberto Fernández, él dice en ese reportaje que Kicillof es marxista, y a partir de ahí se creó, digamos, entró en la misma lista negra que podría haber entrado Rubinstein diciendo las cosas que dijo de Cristina Kirchner.",
+      "score": 0.444,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veremos si Alberto Fernández acepta y Sergio Massa confirma a Rubinstein, como dice mi astronomía, lo que sería un apoyo para Sergio Massa muy fuerte y una señal al mercado.",
+      "score": 0.173,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí tenemos a Rubinstein en los mismos premios de Fortuna ayer, que apareció después de estar en el exterior durante más de 10 días, por primera vez, desde que está en el ojo del huracán como el personaje de la economía que todos miran.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, bueno, las mejores son las que tienen la mejor performance, se promedian con algún criterio previo, previamente establecido, qué porcentaje, digamos, qué peso se le va a dar a cada indicador, normalmente distintos indicadores de rentabilidad, de solvencia, de liquidez, y ahí se establecen los puntajes y salen, digamos, por mérito propio, quiénes son, digamos, la primera, segunda, tercera, etcétera, quiénes están en ese podio, y es eso que se en esencia a todo el trabajo que realizamos nosotros.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso es todo, entrego su premio, se fue, se sentó en su silla, espero que se apagaran las luces y siguieran los premios, y se fue, y nos quedamos todos con la duda de si va a ser el viceministro de Economía y el ortodoxo que venga a solucionar el problema macroeconómico de la Argentina o no, nuestros mejores deseos para Gabriel Rubinstein, y bueno, y la producción eligió aquí, en función del premio Fortuna, una canción de Peteco Carabajal, que se llama \"Fortuna, Fama y Poder\", como analogía a lo que fue ayer el premio Fortuna.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 31
+  },
+  "etiqueta_original": "neutral"
+}

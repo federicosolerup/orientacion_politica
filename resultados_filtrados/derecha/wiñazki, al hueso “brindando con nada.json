@@ -1,0 +1,44 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner, quien recibió una dosis de esta vacuna, celebró el resultado del estudio de fase 3.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Funcionarios como Daniel Gollán y Nicolás Kicillof no deberían ser considerados héroes por haber negociado la compra de la vacuna a Rusia por 200 millones de dólares; es su obligación como funcionarios públicos.",
+      "entidades_detectadas": [
+        "rusia",
+        "kicillof"
+      ]
+    },
+    {
+      "frase": "Es lamentable que el gobierno celebre con un discurso contra los \"odiadores\" cuando la Argentina enfrenta 1.943.548 casos confirmados de COVID-19 y 48.426 muertes.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Alberto Fernández trató el tema con Vladimir Putin, quien garantizó el envío de la vacuna rusa, pero en cantidades mucho menores a las prometidas.",
+      "entidades_detectadas": [
+        "alberto",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "También existen negociaciones con China para la adquisición de la vacuna Sinopharm.",
+      "entidades_detectadas": [
+        "china"
+      ]
+    },
+    {
+      "frase": "La vacunación masiva en Argentina no comenzará hasta marzo, abril o mayo, cuando lleguen las vacunas Oxford-AstraZeneca.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

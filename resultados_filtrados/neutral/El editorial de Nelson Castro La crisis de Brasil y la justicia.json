@@ -1,0 +1,31 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Aquí está el texto corregido:\n\nLo que ocurrió hoy en Brasil es lo siguiente: el juez que investiga los actos, y que a su vez es investigado por el presidente en ejercicio de sus funciones, allanó el Congreso con 40 policías y se dirigió al despacho del senador Aécio Neves.",
+      "entidades_detectadas": [
+        "presidente",
+        "congreso",
+        "brasil"
+      ]
+    },
+    {
+      "frase": "Si Brasil tiene alguna posibilidad de mejorar y avanzar hacia la decencia, es gracias a este accionar judicial.",
+      "entidades_detectadas": [
+        "brasil"
+      ]
+    },
+    {
+      "frase": "Imaginen ustedes, un juez en Argentina que hubiera allanado el despacho de algún senador en el Congreso.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "¿Usted cree que con una justicia así, Argentina puede combatir efectivamente la corrupción?",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

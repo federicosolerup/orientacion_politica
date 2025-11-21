@@ -1,0 +1,36 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "**Secretario General:** La CGT estaba mayoritariamente movilizada (90% según el consejo).",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Hoy, la única herramienta de los trabajadores es la unidad, y la CGT la ha mantenido desde el inicio de la discusión sobre la ley ómnibus.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "La falta de conducción del peronismo facilitó lo sucedido en el Senado; no se pudieron contener las acciones de algunos senadores (por ejemplo, de Corrientes y Entre Ríos).",
+      "entidades_detectadas": [
+        "corrientes"
+      ]
+    },
+    {
+      "frase": "Los trabajadores necesitan tranquilidad; la CGT no se dividirá y seguirá confrontando este gobierno, que ataca a trabajadores, jubilados, y barrios populares, impulsando privatizaciones.",
+      "entidades_detectadas": [
+        "cgt"
+      ]
+    },
+    {
+      "frase": "Incluso, me contaba Mauro que Sergio Massa quería hablar y lo frenaron.",
+      "entidades_detectadas": [
+        "sergio",
+        "massa"
+      ]
+    }
+  ]
+}

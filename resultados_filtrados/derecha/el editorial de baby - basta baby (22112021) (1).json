@@ -1,0 +1,49 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "¡Acérquenlo a la cámara para que todos nos vean, que nosotros también estamos cansados!",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Hoy me llamó alguien de Rosario y me dijo: \"Mami, soy experto en seguridad\".",
+      "entidades_detectadas": [
+        "rosario"
+      ]
+    },
+    {
+      "frase": "Hablé con varios políticos de Juntos por el Cambio, con Carlos Lozada y Patricia Bullrich.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "Por eso, nuestro querido Presidente Alberto Fernández dijo que \"el mérito no existe\".",
+      "entidades_detectadas": [
+        "alberto",
+        "presidente",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "Quedamos como idiotas con el Fondo Monetario, que solo nos da una prórroga.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Y lo más idiota es que… no me dejan entrar a Uruguay con la Sputnik, ni a Estados Unidos.",
+      "entidades_detectadas": [
+        "uruguay"
+      ]
+    },
+    {
+      "frase": "No puedo creer que todos los boludos de la Argentina estén ahí juntos, haciendo leyes idiotas y discutiendo idioteces.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

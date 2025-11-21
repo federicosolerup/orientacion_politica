@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "En julio del año pasado, la Cámara del Crimen había confirmado el procesamiento de *Espinoza*.",
+      "entidades_detectadas": [
+        "cámara"
+      ]
+    },
+    {
+      "frase": "Hemos visto en Argentina y en el mundo cómo las acusaciones, las cancelaciones, e incluso las condenas, se alientan o se agitan, de acuerdo o no a la verdad de los hechos, sino al color político del sospechado.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Ni releva al sistema de justicia, del máximo esfuerzo para su investigación y juzgamiento\".",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    }
+  ]
+}

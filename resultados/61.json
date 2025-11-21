@@ -1,0 +1,583 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "A siete minutos de la una, tenemos que estar en compañía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy nos acompaña Andrés Larroque, quien ha venido gentilmente a conversar con nosotros.",
+      "entidades_detectadas": [
+        "Andrés Larroque"
+      ]
+    },
+    {
+      "frase": "Bienvenido.",
+      "entidades_detectadas": [
+        "Bienvenido"
+      ]
+    },
+    {
+      "frase": "Gracias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Venimos postergando esta entrevista por temas logísticos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La provincia de Buenos Aires se ha convertido en un lugar muy sensible en el contexto de este gobierno, un lugar importante, porque se están haciendo cosas incluso a contramano de las políticas nacionales.",
+      "entidades_detectadas": [
+        "provincia de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Sí, parece otra realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy mismo, Axel Kicillof está cerrando el Congreso de Producción en Mar del Plata.",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "Mar del Plata"
+      ]
+    },
+    {
+      "frase": "\"Producción\", una palabra clave…  para este gobierno…  Tiene que ver con la decisión política de defender a los 17 millones de bonaerenses y sostener políticas que, para algunos, parecen vetustas, pero que son fundamentales para el futuro del país.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Se debe la situación particularmente a los recortes y la falta de fondos por parte del gobierno nacional (referencia a Sergio Massa)?",
+      "entidades_detectadas": [
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Es muy complejo, porque el gobierno nacional primero asfixia a la provincia, quitándole lo que le corresponde por ley, como denunció Axel Kicillof hace unos días: 5,8 billones de pesos en transferencias pendientes.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "A la vez, la política económica genera una caída de la recaudación, lo que impacta negativamente, y lógicamente, la desocupación y la caída de la producción social golpean duramente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El desempleo en el Conurbano en el primer trimestre ya está en 10 puntos.",
+      "entidades_detectadas": [
+        "Conurbano"
+      ]
+    },
+    {
+      "frase": "Ni quiero pensar cómo estará ahora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos rumbo a una catástrofe social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esperemos que el presidente Alberto Fernández revise y reflexione… Lo veo difícil.",
+      "entidades_detectadas": [
+        "Alberto Fernández revise"
+      ]
+    },
+    {
+      "frase": "Nuestra obligación es ponerle un freno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Hay algún tipo de diálogo con el Gobierno Nacional?",
+      "entidades_detectadas": [
+        "Gobierno Nacional?"
+      ]
+    },
+    {
+      "frase": "¿Con quién se habla?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy, Axel Kicillof no tiene contacto directo.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "En su momento hubo una reunión convocada en el marco del supuesto \"Pacto de Mayo\", a la que asistió un representante de la Provincia.",
+      "entidades_detectadas": [
+        "Provincia"
+      ]
+    },
+    {
+      "frase": "Creo que esa fue la última reunión de esas características.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Después hay un problema de áreas sin funcionarios designados, entonces se va tanteando.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "Personalmente, no conozco a [Nombre del funcionario censurado, debido a que no se pudo inferir por el texto].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hay contacto con [Nombre del funcionario censurado, debido a que no se pudo inferir por el texto].",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Recién la semana pasada, después de una crisis en este sector, se hizo la transferencia de la primera cuota del servicio alimentario escolar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos en julio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora estamos en conversaciones sobre los 5 millones de kilos, de los cuales a la provincia le correspondería el 40%, por la cantidad de población.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos pendientes de firmar un convenio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay contacto de segunda línea, no directo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "De hecho, la única reunión directa fue con [Nombre del funcionario censurado, debido a que no se pudo inferir por el texto], en abril.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero esa reunión estuvo marcada por problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La única foto que recuerdo con funcionarios nacionales fue en Bahía Blanca.",
+      "entidades_detectadas": [
+        "Bahía Blanca"
+      ]
+    },
+    {
+      "frase": "Después hubo una reunión de gobernadores, pero eso fue el año pasado, en diciembre.",
+      "entidades_detectadas": [
+        "Después"
+      ]
+    },
+    {
+      "frase": "La reunión de Bahía Blanca fue increíble:  la Nación les dijo a los gobernadores que se arreglaran solos.",
+      "entidades_detectadas": [
+        "Bahía Blanca",
+        "Nación"
+      ]
+    },
+    {
+      "frase": "La provincia invirtió 10 mil millones de pesos para la reconstrucción luego del temporal, que afectó a 70 distritos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los funcionarios nacionales prometieron aportar la mitad de la inversión, pero nunca llegó un peso.",
+      "entidades_detectadas": [
+        "llegó"
+      ]
+    },
+    {
+      "frase": "¿Dónde está el peronismo hoy?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siempre está en el pueblo, pero… hay que estar más al lado de la gente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El peronismo tiene que reencontrarse consigo mismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Está en una etapa de descomposición, atomización y desencuentro que hay que resolver rápidamente.",
+      "entidades_detectadas": [
+        "Está"
+      ]
+    },
+    {
+      "frase": "Metafóricamente, estamos como la Argentina de [Nombre Censurado] y tenemos que ir hacia una Argentina [Nombre Censurado].",
+      "entidades_detectadas": [
+        "Nombre Censurado",
+        "Argentina",
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "El futuro del peronismo viene por el lado de los emergentes, de los \"tapados\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para mí, el emergente natural es Axel Kicillof, quien, aunque a veces es negado por algunos sectores, se está consolidando en su segundo mandato.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "Él defiende a los bonaerenses y es solidario con otras provincias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El lunes en San Vicente hizo un discurso muy concreto, posicionado en el peronismo y en el nacionalismo.",
+      "entidades_detectadas": [
+        "San Vicente"
+      ]
+    },
+    {
+      "frase": "Necesitamos una política menos colonizada por los factores del poder económico internacional.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El RIVI expresa el acoso de estos factores.",
+      "entidades_detectadas": [
+        "RIVI"
+      ]
+    },
+    {
+      "frase": "¿Por qué se le hace una interna tan fuerte a Axel Kicillof?",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "Las derrotas del peronismo siempre sobrevienen a un proceso traumático.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mientras las cosas no estén totalmente consolidadas, hay gente que espera y otra que no colabora.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El 18 de mayo convocamos un plenario en Florencio Varela y La Plata, que fue una multitud.",
+      "entidades_detectadas": [
+        "Florencio Varela",
+        "La Plata"
+      ]
+    },
+    {
+      "frase": "Armamos 10 carpas de debate y el cierre, donde Axel Kicillof planteó 10 puntos como contracara al supuesto \"Pacto de Mayo\".",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "Nuestro pacto es con el pueblo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La sociedad está en shock, tratando de repararse de la crisis económica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hace un año, mi ley era un mal sueño, hoy es una dura realidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde se equivocó el peronismo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No coincido con la idea de progreso del progresismo, creo que es un espejismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El mundo progresa tecnológicamente, pero se degrada moralmente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me gusta hablar de peronismo y peronismo social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El problema de la derrota de Sergio Massa no fue un hecho puntual, sino una acumulación de errores y contradicciones que llevaron a un debilitamiento.",
+      "entidades_detectadas": [
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Aun así, estuvo a 2,6 puntos de ganar en primera vuelta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Había voluntad de ganar?",
+      "entidades_detectadas": [
+        "¿Había"
+      ]
+    },
+    {
+      "frase": "Sergio Massa dejó la piel.",
+      "entidades_detectadas": [
+        "Sergio Massa"
+      ]
+    },
+    {
+      "frase": "Cuando hay contradicciones, la gente se auto-excluye.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que ir a un peronismo donde todos se sientan parte.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Guillermo Moreno convocó a una reunión la semana pasada, donde se planteó la posibilidad de que la institucionalidad modifique el destino del país sin esperar una elección, un escenario similar a 2001.",
+      "entidades_detectadas": [
+        "Guillermo Moreno"
+      ]
+    },
+    {
+      "frase": "Moreno lo dice permanentemente.",
+      "entidades_detectadas": [
+        "Moreno"
+      ]
+    },
+    {
+      "frase": "La elección del año que viene está cerca, el presidente debe corregir el rumbo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los síntomas de la realidad son elocuentes: el presidente dijo ser experto en crecimiento con o sin dinero, pero eso no se verifica.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde están los éxitos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si vamos a consolidar una crisis, es imperante modificarlo ya.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La ley base se aprobó con siete senadores.",
+      "entidades_detectadas": [
+        "La ley"
+      ]
+    },
+    {
+      "frase": "Los grupos económicos y transnacionales están detrás, no creo que al presidente le interesara la ley en sí, sino otros intereses.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si se consolida este camino, habrá situaciones difíciles de revertir.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué nos queda?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La calle.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Axel Kicillof hizo presentaciones en la Corte Suprema, pero ¿y la calle?",
+      "entidades_detectadas": [
+        "Axel Kicillof",
+        "¿",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "frase": "La movilización será el corazón del peronismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Este año hubo varias movilizaciones importantes: la CGT en enero y marzo, la de los estudiantes el 24 de marzo…  Se necesita una acción más orgánica.",
+      "entidades_detectadas": [
+        "CGT"
+      ]
+    },
+    {
+      "frase": "La sesión del Congreso empezó muy temprano, lo que conspiró contra una movilización masiva.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Parece que no hay gobierno, el presidente parece estar más de paseo que gestionando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se observa una pelea interna,  ¿cuál es la alternativa?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "La vuelta de Cristina Fernández de Kirchner, ¿qué significa?",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner es una referencia importante en la política argentina.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Tiene su carácter.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Una nota reciente con Cristina Fernández de Kirchner mostró una faceta más reflexiva.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "El problema en la unidad del peronismo no fue la unidad en sí, sino la falta de un programa y un método de funcionamiento claros.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alberto Fernández llegó a la presidencia sin un proyecto concreto.",
+      "entidades_detectadas": [
+        "Alberto Fernández llegó"
+      ]
+    },
+    {
+      "frase": "La PASO de 2019 precipitó todo, la pandemia alteró el escenario.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una revisación interna de las peleas del pasado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La política tiene que ser una fábrica de soluciones, no de problemas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El voto a Javier Milei fue un voto de rechazo, no necesariamente antiperonismo.",
+      "entidades_detectadas": [
+        "Javier Milei"
+      ]
+    },
+    {
+      "frase": "No se ven masas mileístas, sino un rechazo a otra cosa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay una crisis de representación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué les pasó a los jóvenes del peronismo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué pasó con la capacidad de enamorar?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El fenómeno de Axel Kicillof, donde junta a muchos jóvenes, es positivo.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "La confusión de la última etapa del Frente de Todos llevó a un deshilachamiento.",
+      "entidades_detectadas": [
+        "Frente de Todos"
+      ]
+    },
+    {
+      "frase": "Se perdió capacidad de interlocutar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los jóvenes necesitan un discurso claro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Guillermo Moreno es un emergente de la crisis, un gran comunicador.",
+      "entidades_detectadas": [
+        "Guillermo Moreno"
+      ]
+    },
+    {
+      "frase": "Es una emergente de la crisis de representación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Axel Kicillof es ajeno a esa situación porque ganó la elección en la provincia.",
+      "entidades_detectadas": [
+        "Axel Kicillof"
+      ]
+    },
+    {
+      "frase": "La discusión es económica, pero no podemos discutir toda la vida el pasado, hay que mirar hacia adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Puede haber una amnistía con algunos peronistas que se fueron, pero no con todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que embarrarnos más, ir al barro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos que ganar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El peronismo tiene dos vertientes: la administración del poder y la justicia social.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un equilibrio, de otra manera seríamos solo un movimiento testimonial.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Guillermo Moreno",
+    "Alberto Fernández revise",
+    "Mar del Plata",
+    "San Vicente",
+    "Necesitamos",
+    "Frente de Todos",
+    "Venimos",
+    "Vamos",
+    "¿Qué",
+    "Javier Milei",
+    "llegó",
+    "La provincia de Buenos Aires",
+    "Nombre Censurado",
+    "Cristina Fernández de Kirchner",
+    "Nuestro",
+    "Está",
+    "Nación",
+    "CGT",
+    "Argentina",
+    "Nuestra",
+    "Sergio Massa",
+    "Alberto Fernández llegó",
+    "Recién",
+    "La ley",
+    "Andrés Larroque",
+    "Después",
+    "Provincia",
+    "Moreno",
+    "Axel Kicillof",
+    "La Plata",
+    "la Argentina",
+    "Corte Suprema",
+    "¿Dónde",
+    "¿",
+    "Personalmente",
+    "Florencio Varela",
+    "Bahía Blanca",
+    "Tenemos",
+    "Gobierno Nacional?  ¿Con"
+  ]
+}

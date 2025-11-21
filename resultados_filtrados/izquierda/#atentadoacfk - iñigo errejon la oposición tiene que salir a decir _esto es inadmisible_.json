@@ -1,0 +1,44 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Esto no solo pasa en América Latina; en una democracia supuestamente muy consolidada, el expresidente saliente llamó a sus partidarios a asaltar el Capitolio.",
+      "entidades_detectadas": [
+        "américa"
+      ]
+    },
+    {
+      "frase": "Bolsonaro en Brasil tampoco ha garantizado claramente que respetará el resultado electoral.",
+      "entidades_detectadas": [
+        "bolsonaro",
+        "brasil"
+      ]
+    },
+    {
+      "frase": "¿Qué tal, Íñigo Andrés Lerner?",
+      "entidades_detectadas": [
+        "andrés"
+      ]
+    },
+    {
+      "frase": "Efectivamente, en España hemos tenido algunos fenómenos de amenazas, aunque no tan graves como el de esta madrugada en Argentina.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    },
+    {
+      "frase": "He leído en Argentina declaraciones —luego rectificadas por su partido— de un diputado del PRO diciendo que había que aplicar a Cristina la pena de muerte.",
+      "entidades_detectadas": [
+        "argentina",
+        "cristina",
+        "pro"
+      ]
+    },
+    {
+      "frase": "Nuestros países, España y Argentina, a veces, se ensimisman en sus discusiones políticas.",
+      "entidades_detectadas": [
+        "españa"
+      ]
+    }
+  ]
+}

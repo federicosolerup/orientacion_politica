@@ -1,0 +1,51 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 6,
+      "derecha": 1
+    },
+    "score_promedio": 0.26,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Con el **puñal** al suelo, le presto su conquistar a la gran basura del pueblo, combatiendo el camino, pero **un peón** de la **Quijada**, y que no **puede ser**.",
+      "score": 0.975,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, que finalmente, más allá de lo que pueda parecer disparatado, algunas ideas del kirchnerismo, el peronismo en determinadas circunstancias se comporta corporativamente, se une todo, sea Sergio Massa, sea Cristina Fernández de Kirchner, sean los gobernadores supuestamente del peronismo republicano, que terminan votando en conjunto.",
+      "score": 0.082,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No tiene sentido el análisis de esas palabras que realmente no representan el fondo de la cuestión.",
+      "score": 0.271,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El fondo de la cuestión de este \"acting out\" es enviar un mensaje de que el peronismo se va a mantener unido.",
+      "score": 0.201,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pienso también que hoy el mundo académico del país ha mejorado, en casi todas las provincias de Argentina hay profesionales de alto nivel académico.",
+      "score": 0.052,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pienso que le haría muy bien a la Argentina ver en la Corte Suprema integrantes de la Patagonia, del NOA, del NEA, de Cuyo, y no todos del centro del país.",
+      "score": 0.21,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que se hizo ayer era un gesto del peronismo a todos los sectores de poder, no solamente a la Corte de Justicia, que más allá de lo que pase, van a estar unidos, y esa unión le da un poder como el que tiene la mayoría del Senado, porque se junta el peronismo no kirchnerista, el peronismo kirchnerista, el Frente Renovador, y finalmente hacen causa común.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 7
+  },
+  "etiqueta_original": "neutral"
+}

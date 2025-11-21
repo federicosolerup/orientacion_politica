@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ayer, el gobernador peronista Osvaldo Jaldo, quien organizó el cónclave, colocó un cartel gigante cerca del lugar de la reunión anunciando la presencia del presidente [Nombre del Presidente].",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Afortunadamente, no escribió \"querido presidente [Nombre del Presidente]\", pero quizás la próxima vez se anime.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "[Nombre del Presidente], en seis meses, ha reducido los salarios en un 20%, ha insultado a importantes líderes mundiales, ha suspendido la entrega de alimentos a comedores comunitarios, ha dejado sin medicinas a enfermos y ha emitido decretos y leyes que convierten al país en un estado fallido.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "El 18 de enero, comenzarán a aparecer numerosas notas y comentarios sobre la muerte del fiscal Alberto Nisman.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "Aquel enero de 2015, hace ya varios años, se repetirá la versión de que el fiscal Nisman fue asesinado, que hubo vínculos con servicios de inteligencia relacionados con el kirchnerismo, que hubo impunidad, etc.",
+      "entidades_detectadas": [
+        "nisman"
+      ]
+    },
+    {
+      "frase": "Sin entrar en detalles, simplemente quiero comentar que la muerte del fiscal Nisman sigue sin resolverse, entre otras cosas, porque la causa, que según las pericias del Cuerpo Médico Forense de la Corte Suprema indicaba un suicidio,  fue trasladada de la justicia ordinaria de la Ciudad de Buenos Aires a manos del juez Claudio Bonadio, a instancias de un conglomerado de intereses que incluían a Bonadio, Clarín y el macrismo.",
+      "entidades_detectadas": [
+        "nisman",
+        "clarín"
+      ]
+    },
+    {
+      "frase": "El juez Julián Ercolini y el fiscal Eduardo Taiano, a quienes la causa les tocó – no por sorteo original; cuando la causa llegó a Bonadio se realizó un sorteo, resultando favorecido el juez Casanelo; pero, como no cumplía con sus expectativas, se manipuló el sistema de sorteo para que la causa recayera en Ercolini y Taiano –  en siete años no han podido demostrar que el fiscal Nisman haya sido asesinado, al igual que no pudieron demostrar que el gobierno de Cristina Fernández de Kirchner pactara la impunidad para los acusados iraníes.",
+      "entidades_detectadas": [
+        "nisman",
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Segundo, porque apoya a un fiscal procesado por espionaje ilegal, Carlos Stornelli, quien está protegido por la influencia de Bonadio para evitar que avance su procesamiento.",
+      "entidades_detectadas": [
+        "carlos"
+      ]
+    },
+    {
+      "frase": "La amenaza se cierne sobre la República Argentina este enero.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    }
+  ]
+}

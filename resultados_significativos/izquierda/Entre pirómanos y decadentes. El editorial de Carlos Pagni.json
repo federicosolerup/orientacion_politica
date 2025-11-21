@@ -1,0 +1,291 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 45,
+      "derecha": 10
+    },
+    "score_promedio": 0.242,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos hablando de la calle Estado de Israel y Palestina.",
+      "score": 0.834,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en ese diálogo, en esa charla con **Galeano** vamos a poder ver las declaraciones, el mensaje del presidente de Israel, Isaac Herzog, afirmando que desde el holocausto no se constata una masacre de judíos como la que estamos, la que hemos visto y la que estamos viendo después del ataque feroz de Hamás al Estado de Israel el sábado.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la Argentina sigue su curso una campaña electoral que transcurre cada vez más en medio de un tembladeral, de una tormenta económica que se va acelerando, lo venimos registrando semana a semana y se registra, se acelera semana a semana.",
+      "score": 0.187,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otro debate que es el debate que se produjo hoy, no directo, indirecto, entre Javier Milei y Sergio Massa respecto de la situación económica.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, 282.991 menciones.",
+      "score": 0.867,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Participaron de la conversación sobre Milei en las redes más varones, 59% que mujeres.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las palabras claves asociadas a la figura de Milei en esta proyección que tiene sobre las redes son: debate televisivo, órganos, armas, mujeres, **Miriam Lewin**.",
+      "score": 0.031,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las listas que le señala Bullrich cuando le dice que están llenas de \"chorros\" de Massa.",
+      "score": 0.59,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y las palabras clave asociadas a Patricia Bullrich son: seguridad, armas, por la discusión con Milei, Insaurralde, papas y puré.",
+      "score": 0.118,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Probablemente la más llamativa es lo deslucido que estuvo Milei respecto del domingo anterior.",
+      "score": 0.171,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cómo se recuperó Bullrich en agresividad, en nitidez, en estrategia.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había estado muy borrosa en el primer debate.",
+      "score": 0.719,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en comparación también con el primer debate donde no es que tuvo un gran papel, le había ido muy bien, la había sacado muy barata.",
+      "score": 0.19,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este Massa sale castigado.",
+      "score": 0.861,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de todo, curiosamente, hay algunas curiosidades que me interesa destacar de Javier Milei.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tanto que cuando le preguntan por la seguridad, termina hablando de teoremas de Gary Becker, que es un economista de la Universidad de Chicago, ex Premio Nobel, pero muy poco conocido para el público en general y con ideas que conectan muy poco con los sentimientos que se vive respecto de la inseguridad.",
+      "score": 0.154,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hubo una denuncia de Sandra Rosso Salgado, que es la que le inicia una causa, una investigación sobre **Escalante**, fiscal federal de San Isidro, diciendo que había figuras ligadas a la política, concretamente a Cristian Ritondo.",
+      "score": 0.314,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, lo curioso de ayer es que Milei no habló de este caso, que es un caso que involucra muy de cerca a Sergio Massa, una relación muy estrecha con **Escalante**, tanto que la única legisladora que en el juicio político, en el jury que se le sigue a **Escalante** en la provincia de Buenos Aires, en la legislatura y en las organizaciones, en la institucionalidad bonaerense, la única legisladora que lo protege es una legisladora del Frente Renovador de Massa.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que tenía a Massa con **Escalante** y a Ritondo, primer candidato a diputado de la lista de Bullrich, y Milei no abre la boca.",
+      "score": 0.416,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo curioso es que ayer fue Bullrich la que le tiró encima el caso **Escalante** a Massa sin que Massa contestara.",
+      "score": 0.104,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pasó casi sin pena ni gloria el nombre de **Escalante** en el debate presidencial y Milei tal vez ni sabe de qué se estaba hablando cuando se hablaba de ese fiscal.",
+      "score": 0.944,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le quiso decir Patricia Bullrich a Massa cuando le habla de **Tombolini**?",
+      "score": 0.687,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto tiene tanta densidad, se ha vuelto tan consistente esta versión que en un debate presidencial Patricia Bullrich al hablar del secretario de comercio, **Tombolini** lo llama, nadie preguntó sobre el tema, nadie lo explicitó.",
+      "score": 0.183,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Será verdad que hay gente de la oposición del partido de Milei y también de Juntos por el Cambio que hacen negocios con **Tombolini**.",
+      "score": 0.906,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra novedad del debate de ayer, importante, relevante porque tiene que ver con el juego general de la política en relación con esta campaña y sobre todo de la campaña de Massa referida a Juntos por el Cambio.",
+      "score": 0.016,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la presencia de Macri en la organización de las posiciones de Patricia Bullrich en el debate de ayer a la noche.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri que visita a Patricia Bullrich en el hotel donde se estaba preparando toda la exposición de Bullrich, inclusive le aporta ideas y empieza a despejarse el rol de Macri en la campaña.",
+      "score": 0.054,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un rol confuso al comienzo, en parte por torpezas de Macri, pero empieza a quedar claro que Macri respalda a Bullrich y Bullrich empieza a decirlo y Macri empieza a explicarlo en su entorno con términos bastante contundentes.",
+      "score": 0.067,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice, al final, ¿quién puede creer que con todo el apoyo que yo le di a Bullrich, con todo lo que he hecho por la candidatura de Bullrich, no lo dice así abiertamente, pero lo que está diciendo con todo lo que dice para que Bullrich le gane a la reta, quién puede creer que a mí me conviene que Bullrich no gane y que se venga todo abajo.",
+      "score": 0.083,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esta idea de Macri desbarata todo un argumento de campaña inteligente de Massa que era plantear un duelo entre Bullrich y Macri para introducir ruido en Juntos por el Cambio en plena campaña.",
+      "score": 0.451,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue un problema que tuvo la campaña de Bullrich durante las dos primeras semanas posteriores a las PASO.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri, perdón, Massa tiene otra línea argumental, también muy inteligente, para dañar a Juntos por el Cambio.",
+      "score": 0.081,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Picardías de Massa frente a Juntos por el Cambio, donde como sabemos tiene infinidad de amigos.",
+      "score": 0.812,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Queda flotando siempre y quedó flotando en el debate de ayer, si existió o todavía existe un pacto, Milei Massa, es obvio que Massa pensó a Milei como un instrumento de su carrera hacia el poder, suponiendo que Milei era un factor de división del voto de Juntos por el Cambio, lo cual fue un consenso hasta las elecciones del 13 de agosto.",
+      "score": 0.017,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A partir del 13 de agosto se empieza a advertir que Milei no solamente le saca votos a Juntos por el Cambio, sino que alimentarlo y alimentar a alguien que también le sacaba votos al peronismo, es decir al propio Massa.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí la visión de Massa respecto de Milei empezó a modificarse, pero hoy daría la impresión de que hoy si es que existió algún acuerdo, ese acuerdo se rompió.",
+      "score": 0.074,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es un contexto donde hay una política muy desorientada, una política desastrosa de Massa como ministro de Economía, en parte derivado de que es ministro de Economía que tiene la cabeza puesta en su candidatura presidencial.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el factor Milei, la promesa de dolarización acelera la destrucción del peso y hace que los fondos se desprendan de esos títulos que solo compra el Banco Central, no sabemos qué pasaría si un día los deja de comprar, pero aquí hay algo importante, para comprar los emite y al emitir genera más inflación, más allá del plan platita de Massa que echó queroseno, echó combustible, en lo que ya era una hoguera.",
+      "score": 0.026,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este marco tan inquietante, esto supone una perspectiva de devaluación que obviamente afecta los ingresos de todos aquellos que tienen ingresos en pesos, es decir, este es un panorama muy negativo, muy triste, en medio de este panorama tan triste, Javier Milei hoy dijo, jamás hay que renovar un plazo fijo en pesos, y él pasa de la idea financiera a la idea política, que es la que está detrás de todo su concepto financiero.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo dijo el asesor de Milei en materia de dolarización, a quien él le promete ser el presidente del Banco Central, Emilio Ocampo, cuando en una conferencia de FIEL dijo, tenemos que dolarizar para evitar los malos gobiernos, es decir, le tenemos que quitar a la democracia la posibilidad de tener una política monetaria, porque el problema no es la moneda, el problema son los políticos, es decir, que hay un puente entre la idea de dolarización y el reproche o la denuncia de la existencia de una casta.",
+      "score": 0.039,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, obviamente que cuando Milei dice no hay que renovar plazos fijos en pesos, acelera la corrida, acelera el incendio, en parte porque él sabe que en las encuestas sus posibilidades van de la mano de la inflación y de la dolarización de la economía, es decir, del trayecto del dólar blue.",
+      "score": 0.072,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá hay una sociedad perversa entre Massa y Milei, una sociedad que perjudica a Massa, la mala política económica de Massa es el principal impulsor de Milei, y él acelera la crisis e irresponsablemente, podríamos decir cruelmente, pide el incendio cuanto antes por algo que él mismo Milei se encargó de aclarar en Mar del Plata, en la medida en que se destruya más el peso, que es la moneda en la que cobran el 99,9% de los argentinos, en la medida en que esa moneda se destruya va a ser más fácil para mí dolarizar.",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández, agosto del 19, recién electo presidente, el dólar de Macri es un dólar que está muy barato, y además no voy a pagar las Leliq, y además no vamos a reconocer la deuda con el Fondo Monetario Internacional, combustible, para llegar mejor, a costa de los tenedores de pesos, por supuesto.",
+      "score": 0.037,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Frente a esta situación tan delicada, que se vuelve más delicada por la acción de actores principales de la escena como Milei, el Banco Central que saca un comunicado que casi empeora la cosa, es un comunicado donde dice lo que uno ya sabe que no es, que es que el sistema financiero está sólido, digamos, hay una degradación del peso de la que el gobierno no se hace cargo, el comunicado se lo tendría que mandar Miguel Pesce a Sergio Massa, porque uno de los factores principales de esta situación es la pésima devaluación que llevó adelante Massa, y la pésima política fiscal que lleva adelante para comprar votos con emisión monetaria, este es el motor de esta crisis, que Milei acelera.",
+      "score": 0.015,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre estas fantasías de que se produzca el incendio, suponen que alguien va a poder frenar el incendio, y que el próximo gobierno va a tener la legitimidad suficiente como para hacerlo, lamentablemente la historia tiene a veces otras ideas.",
+      "score": 0.166,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Guido Di Tella dijo aquello del dólar recontraalto, Menem asumió en medio de un incendio, y el incendio siguió durando y casi se lo lleva puesto a Menem, esto es algo que en la memoria de los argentinos probablemente está desfigurado, pero Menem asumió el poder el 9 de julio del año 1989, y la convertibilidad, que es cuando podríamos decir empezó la estabilidad o se consagró la estabilidad, fue del 1 de abril de 1991, es decir dos años después, dos años de enorme incertidumbre de crisis y de costo político para el propio Menem, es una elección que tendría que estudiar Milei si es que él piensa que va a ser presidente y que le conviene producir un incendio que él cree que después va a poder frenar.",
+      "score": 0.032,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos números, ya hablamos varias veces de esta consultora, se llama Ex ante, que estudia, estudia los números del INDEC semestrales, los estudia de manera trimestral, es decir nos anticipa lo que va a decir el INDEC y nos muestra trimestralmente lo que el INDEC termina diciendo semestralmente, acerca de qué?",
+      "score": 0.024,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense, está hablando del segundo trimestre del 2023 y la pobreza pasa de 38,7 a 41,5 en un gobierno peronista en el cual el candidato a presidente es el ministro de Economía que está a cargo de este problema, de esta economía.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense, desde el cuarto trimestre del año pasado al segundo trimestre de este año, es decir, esta es la gestión de Massa, esta es la \"papa caliente\", que la tomó caliente y la hizo más caliente, es decir, recalienta la \"papa\", por no decir lo de Bullrich de que hace puré.",
+      "score": 0.346,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora vamos a ver el drama del kirchnerismo, que es la provincia de Buenos Aires, el conurbano bonaerense, que es el lugar de repliegue de Cristina Kirchner y su grupo.",
+      "score": 0.688,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "48,2 de pobreza, parte de 45,8 a 48,2 pobreza en el conurbano, estoy insistiendo, segundo trimestre de este año, y la indigencia que en el conurbano bonaerense pasa de 11,3 a casi 12, 11,9.",
+      "score": 0.232,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué hay que aplaudir de pie al que esté pensando, probablemente sea él mismo, la campaña de Massa que logra que no pague todo el costo discursivo político cotidiano de estos números?",
+      "score": 0.294,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy en Rosario se compraban dólares al final de la jornada, es decir, a primeras horas de la tarde ya a mil pesos el dólar blue, cerró formalmente en Buenos Aires a 945.",
+      "score": 0.218,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y algunas noticias son técnicas, pero le van a traer problemas penales o judiciales.",
+      "score": 0.41,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo están estudiando en el bloque de Juntos por el Cambio de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de la Cámara de Diputados de la Legislatura de",
+      "score": 0.185,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 55
+  },
+  "etiqueta_original": "neutral"
+}

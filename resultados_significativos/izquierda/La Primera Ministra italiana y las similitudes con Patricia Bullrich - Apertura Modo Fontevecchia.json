@@ -1,0 +1,96 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 12,
+      "derecha": 4
+    },
+    "score_promedio": 0.264,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Como se preveía, ayer triunfó en Italia la derecha, más a la derecha de todas: \"Fratelli d'Italia\" (Hermanos de Italia).",
+      "score": 0.046,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así como se dice que Córdoba en Argentina anticipa lo que sucederá más tarde en todo el país, se dice que Italia anticipa lo que sucederá en toda Europa y, más tarde, en todo Occidente.",
+      "score": 0.108,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El laboratorio político que es Italia es especialmente adaptable a la Argentina, donde siempre se recuerda que Perón se inspiró parcialmente en las ideas de Mussolini cuando fue agregado militar en Roma, y que Macri se inspiró en las de Berlusconi, primero presidiendo un club de fútbol y luego el país.",
+      "score": 0.036,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada una comenzó su carrera política en sectores populares: Patricia Bullrich en Montoneros y Giorgia Meloni en la resistencia a neonazis en barrios obreros.",
+      "score": 0.121,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar primero discursos de Giorgia Meloni y luego un pequeño repaso de Patricia Bullrich.",
+      "score": 0.073,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comencemos con Giorgia Meloni:\n\n*   **Primer audio:** “Sueño una nación en la cual las personas que han debido bajar la cabeza por tantos años, tal vez fingiendo que pensaban distinto porque, de lo contrario, los habrían echado a todos, puedan decir lo que piensan y no perder su puesto de trabajo.”\n\n*   **Segundo audio:** “Sueño una nación en la que las personas que han debido bajar la cabeza por tantos años, tal vez fingiendo que pensaban distinto porque, de lo contrario, los habrían echado a todos.” Y ahora un segundo audio de Giorgia Meloni en el que defiende directamente a Mussolini: \"Yo creo que Mussolini era un buen policía, es decir, todo lo que hizo fue por Italia.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una campaña electoral en la que los tonos han estado \"al di sopra\" de las ricas.",
+      "score": 0.808,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero creo que la situación en la que Italia se ha vuelto, la situación en la que se ha vuelto la Unión Europea, la situación con la cual, complexivamente, debemos confrontarnos, sea una situación particularmente compleja que requiere el contributo de todos.",
+      "score": 0.021,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche hemos llegado a una clara indicación: Italia quiere un gobierno de centro-derecha que lideren los Hermanos de Italia.",
+      "score": 0.043,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero pienso que la situación de Italia y de la Unión Europea, con la cual debemos enfrentarnos, es una situación particularmente compleja que necesita la contribución de todos.”\n\nEste fin de semana, en la Argentina, Patricia Bullrich fue especialmente protagonista.",
+      "score": 0.004,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Clarín tiene su principal nota de análisis planteando el dilema que tiene Horacio Rodríguez Larreta, de asociarse a Macri o competir con él; y, si se asocia con Macri, la espada de Damocles de Patricia Bullrich, que le va a decir que él es el Alberto Fernández de Macri.",
+      "score": 0.028,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le contesté con una frase de Churchill, a medias.",
+      "score": 0.908,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo mañana voy a estar cuardo, pero usted mañana va a seguir siendo fea, le dijo.",
+      "score": 0.964,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces yo le contesté, bien a la altura, le dije: Yo mañana puedo no tomar vino, usted mañana va a seguir siendo corrupta.",
+      "score": 0.907,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le dije: Conmigo, que Cristina no se me meta.” ¿Va a seguir siendo corrupta?",
+      "score": 0.146,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y luego, en el momento del brindis, ella, especialmente con su ironía y su desparpajo, dijo: “Brindemos por San Juan y Mendoza, las provincias productoras, principales productoras de vino, además de otras, claro.”\n\nY escuchemos ahora este segundo audio, donde yo creo que está la clave.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 16
+  },
+  "etiqueta_original": "neutral"
+}

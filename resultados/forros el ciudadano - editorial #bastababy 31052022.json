@@ -1,0 +1,503 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Me gusta hablar con franqueza.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No me ando con rodeos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Voy a aclarar algo porque la gente está esperando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy en Radio Rivadavia no hablo de un medio específico, pero sí de uno o de ambos.",
+      "entidades_detectadas": [
+        "Radio Rivadavia"
+      ]
+    },
+    {
+      "frase": "Fue una discusión tranquila, sin mayores consecuencias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Empezó con Cristina Pérez y conmigo, por una diferencia de estilos periodísticos.",
+      "entidades_detectadas": [
+        "Cristina Pérez",
+        "Empezó"
+      ]
+    },
+    {
+      "frase": "Un grupo de periodistas mujeres emitió un comunicado en mi contra, afirmando que a ellas no les interesa la cama, sino la noticia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo nunca mencioné la cama.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cristina Pérez sí lo hizo, y de ahí surgió el conflicto.",
+      "entidades_detectadas": [
+        "Cristina Pérez"
+      ]
+    },
+    {
+      "frase": "Nunca hablé de la vida privada de nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Entienden?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Espero que, si son periodistas profesionales, rectifiquen.",
+      "entidades_detectadas": [
+        "Espero"
+      ]
+    },
+    {
+      "frase": "Quizás estén acostumbradas a tergiversar la información y crear polémica donde no la hay.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Yo hablé de las \"preferidas\" de los políticos, de cómo esas mujeres colocadas en ciertos puestos nos cuestan 500 millones de dólares, 60 vacunas, 20 colegios, o fortunas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Quiero dejar claro que mi discusión con Cristina Pérez esta mañana se debió a que yo estaba hablando de un problema extendido por las mujeres de La Cámpora.",
+      "entidades_detectadas": [
+        "Cristina Pérez",
+        "Quiero",
+        "La Cámpora"
+      ]
+    },
+    {
+      "frase": "Aparecen miles de millones de dólares que desaparecen, y a mí me importa un comino si son hombres o mujeres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si son corruptos, son corruptos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo que no podemos hacer nosotros, los argentinos, es dejarlo pasar porque \"robó pero es una mujer elegante\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me importa poco que sean mujeres, las que mueren por falta de vacunas son mujeres, las jubiladas son mujeres, y los niños que mueren también.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Llevar los problemas de corrupción al terreno sexual me parece deleznable.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, si la Asociación de Periodistas Argentinas cree que nos van a intimidar porque se juntan cuatro y te destruyen...",
+      "entidades_detectadas": [
+        "Asociación de Periodistas Argentinas"
+      ]
+    },
+    {
+      "frase": "hagan lo que quieran, pero retiren ese comunicado porque es falso y tendencioso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Busquen el video; en ningún momento hablé de cama.",
+      "entidades_detectadas": [
+        "Busquen"
+      ]
+    },
+    {
+      "frase": "Más aún, cuando Cristina Pérez lo mencionó, dije que no estaba hablando de eso.",
+      "entidades_detectadas": [
+        "Cristina Pérez"
+      ]
+    },
+    {
+      "frase": "La gente escucha lo que quiere escuchar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Queda aclarado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo demás son interpretaciones.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ni espero que ella me dé la razón, ni yo le doy la razón a ella.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero yo lucho por la gente, sean hombres, mujeres o niños.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando un funcionario roba, nos roba a todos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La señora que se está congelando en la calle también es una mujer.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y no veo ningún comunicado de periodistas preocupados por los pobres, ni defendiendo a la sobrina de Alperovich.",
+      "entidades_detectadas": [
+        "Alperovich"
+      ]
+    },
+    {
+      "frase": "Por lo tanto, antes de enviar comunicados de repudio, verifiquen el contexto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si son periodistas, lean el texto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No pueden acusarme de algo que no dije.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Queda claro?",
+      "entidades_detectadas": [
+        "¿Queda"
+      ]
+    },
+    {
+      "frase": "Elaborén un nuevo comunicado, porque mi abogado está redactando una carta que espero que respondan, rectificando o ratificando.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿De acuerdo?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy vimos a Alberto Fernández hablar de \"ladrones de guante blanco\", y casualmente, esos ladrones son quienes lo rodean.",
+      "entidades_detectadas": [
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Este país ya no soporta más corrupción.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y cuando digo que estamos cansados, lo estamos, aunque nos cueste la profesión o el trabajo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hablo de un periodismo que me importa poco en sí mismo.",
+      "entidades_detectadas": [
+        "Hablo"
+      ]
+    },
+    {
+      "frase": "Lo único que importa es la gente, la Argentina, que no le roben más a la gente.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Si creen que estar en los medios es cuidar a la gente, se equivocan.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si no, no estaríamos defendiendo a los ladrones con esta información.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Defender a Cristina Fernández de Kirchner es defender a los corruptos.",
+      "entidades_detectadas": [
+        "Cristina Fernández de Kirchner"
+      ]
+    },
+    {
+      "frase": "Entonces, ¿qué pueden decir del periodismo puro cuando hay canales de televisión que defienden la impunidad de los corruptos?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cómo podría haber un periodismo puro?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si gracias al periodismo, Cristina Kirchner, Lázaro Báez y todos los corruptos que la rodean estuvieran presos.",
+      "entidades_detectadas": [
+        "Lázaro Báez",
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "Eso sí sería un orgullo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero no lo logran, porque un día critican a Cristina Kirchner y al otro día, casualmente, aparecen con ropa cara y autos nuevos, y te piden pruebas.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "No les importa la verdad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso odio la hipocresía.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si hay que jugarse, hay que jugarse.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un anuncio que me gusta: \"Si llegas al borde del trampolín, tírate.",
+      "entidades_detectadas": [
+        "tírate"
+      ]
+    },
+    {
+      "frase": "No seas cobarde\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso refleja la Argentina actual, donde el presidente es cobarde y todos lo son.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Aquí se puede robar impunemente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Somos un país de cobardes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y estoy sorprendido por esta discusión entre dos periodistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos acostumbrados a la unanimidad en los programas, o a atacar a figuras como Susana Giménez para ver cuánto dinero tienen y cómo lo hicieron.",
+      "entidades_detectadas": [
+        "Susana Giménez"
+      ]
+    },
+    {
+      "frase": "Atacar al que triunfa.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso, ratifiquen o rectifiquen lo que dijeron de mí.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Criticarme por lo que dije, no por lo que no dije.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Me peleé con Cristina Pérez por ponerme palabras en la boca que yo no había dicho.",
+      "entidades_detectadas": [
+        "Cristina Pérez"
+      ]
+    },
+    {
+      "frase": "Eso no habla bien del periodismo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Lo primero es verificar lo que te dice el otro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un ejemplo: alguien me dijo que hay una villa en otra esquina, y yo estoy hablando del compañero.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No hace falta.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se los explico claramente para que después no inventen historias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No fue una pelea feroz, ni estamos enemistadas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Fue una discusión entre compañeros que a veces tenemos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero como con Cristina Pérez no comparto pizza, la discusión se dio al aire, durante el pase.",
+      "entidades_detectadas": [
+        "Cristina Pérez"
+      ]
+    },
+    {
+      "frase": "Ella es una gran profesional, ganó un Martín Fierro.",
+      "entidades_detectadas": [
+        "Martín Fierro"
+      ]
+    },
+    {
+      "frase": "Es una buena persona.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuál es el problema?",
+      "entidades_detectadas": [
+        "¿Cuál"
+      ]
+    },
+    {
+      "frase": "Con respecto a los \"guantes blancos\", en vez de justificarse, deberían asumir su responsabilidad.",
+      "entidades_detectadas": [
+        "deberían"
+      ]
+    },
+    {
+      "frase": "O se llenaron los bolsillos con los nuevos dientes que pagó...¿cuánto fue?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "$600.000.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Los pagó con dinero robado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En lugar de decir \"guantes blancos\", deberían admitir que en los últimos 12 o 15 años este país fue saqueado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Macri tuvo que pedir préstamos internacionales, y es obvio que dejaron algo para ellos, porque nadie actúa sin motivos ocultos.",
+      "entidades_detectadas": [
+        "Macri"
+      ]
+    },
+    {
+      "frase": "Pero ustedes vinieron a llevarse lo que quedaba.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tenemos problemas en Quilmes, en La Pampa, con la justicia, la seguridad (mueren argentinos como moscas todos los días), el narcotráfico… La Argentina es un polvorín.",
+      "entidades_detectadas": [
+        "Quilmes",
+        "La Argentina",
+        "La Pampa"
+      ]
+    },
+    {
+      "frase": "El dinero no sirve de nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El mundo no nos cerró las puertas, hay que seguir adelante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y les digo a los políticos: No nos mientan más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y pregúntenle a su socia, Cristina Kirchner, dónde está el dinero robado.",
+      "entidades_detectadas": [
+        "Cristina Kirchner"
+      ]
+    },
+    {
+      "frase": "A medida que aparecen las pruebas, más gente desaparece.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sé que para Hebe de Bonafini y Nora Cortiñas, la palabra \"desaparecer\" es negativa, porque durante 20 años nos adoctrinaron con el miedo y los pañuelos verdes y la difamación.",
+      "entidades_detectadas": [
+        "Nora Cortiñas"
+      ]
+    },
+    {
+      "frase": "Y cuando pierden, vuelven las \"feminazis\" y los pañuelos verdes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando están bien, no pasa nada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuando están en caída libre, empiezan a callar periodistas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Solo quería decir esto.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Respeto a Cristina Pérez como periodista.",
+      "entidades_detectadas": [
+        "Cristina Pérez"
+      ]
+    },
+    {
+      "frase": "Y pido a la asociación de periodistas que rectifiquen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Escuchen el video.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Si yo hablé de cama, díganmelo, pero si no lo hice, pídanme disculpas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso son buenos periodistas.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Cristina Pérez",
+    "Empezó",
+    "Alberto Fernández",
+    "Quilmes",
+    "Aparecen",
+    "Atacar",
+    "Respeto",
+    "La Cámpora",
+    "Escuchen",
+    "Martín Fierro",
+    "Llevar",
+    "trampolín",
+    "Asociación de Periodistas Argentinas",
+    "Busquen",
+    "Lázaro Báez",
+    "Cristina Fernández de Kirchner",
+    "La Argentina",
+    "Alperovich",
+    "Cristina Kirchner",
+    "Hebe",
+    "Nora Cortiñas",
+    "Susana Giménez",
+    "¿Cuál",
+    "Bonafini",
+    "Defender",
+    "deberían",
+    "Quiero",
+    "Espero",
+    "Radio Rivadavia",
+    "Elaborén",
+    "tírate",
+    "la Argentina",
+    "Hablo",
+    "La Pampa",
+    "Macri",
+    "Tenemos"
+  ]
+}

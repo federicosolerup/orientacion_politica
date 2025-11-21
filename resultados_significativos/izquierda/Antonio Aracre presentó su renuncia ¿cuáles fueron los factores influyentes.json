@@ -1,0 +1,101 @@
+{
+  "perfil_global_del_texto": {
+    "conteo": {
+      "izquierda": 11,
+      "derecha": 6
+    },
+    "score_promedio": 0.333,
+    "etiqueta_final": "izquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos hablando de **Antonio Aracre**, jefe de asesores de ministros de Alberto Fernández hasta ayer a la tarde, cuando presentó la renuncia.",
+      "score": 0.793,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, exactamente, siguiendo estas primeras horas de lo que se conoció ayer, los 108 días, 110 días de Antonio Aracre como jefe de asesores y una trama que ya viene, al menos podríamos decir, desde el viaje que realizó el presidente Alberto Fernández a Washington, en donde empalmó con el ministro de Economía, **Sergio Massa**.",
+      "score": 0.069,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, todo comenzó con una reunión que tuvo el propio Aracre con Alberto Fernández el lunes al mediodía.",
+      "score": 0.188,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer al mediodía, cerca de Aracre, nos hablaban de encuestas, hablaban… Alberto Fernández se lo ve bien, se lo ve contento, está todo bien, está todo ok, y mientras tanto, mientras eso pasaba, había mucha bronca en el Ministerio de Economía porque decían: “Aquí lo que quieren es sacar a Sergio Massa y que Aracre sea el próximo ministro de Economía”, ¿no?",
+      "score": 0.019,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes se acuerdan cuando fue la última gira del presidente Alberto Fernández a Washington, que hubo dos agendas.",
+      "score": 0.888,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por una parte, los rumores de una comunicación, de una nueva comunicación que había surgido entre el exministro **Martín Guzmán** y el presidente Alberto Fernández.",
+      "score": 0.718,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Diferencias que vinieron respirándose desde el viaje a Washington y que ya en este momento entraron en otra fase, y en las últimas 24 horas ya entraron en su fase final y en su fase de declaraciones con algunos hechos políticos también.",
+      "score": 0.194,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué decía a modo de renuncia Antonio Aracre vía tweet?",
+      "score": 0.676,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A raíz de los rumores que circularon desde anoche y a los efectos de desactivar cualquier operación tendiente a intranquilizar los mercados, le he presentado al presidente mi renuncia indeclinable como jefe de asesores de manera inmediata, decía Antonio Aracre.",
+      "score": 0.106,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aprovecho este medio para agradecer al presidente por haberme honrado con el cargo y sabe que puede contar conmigo para lo que necesite, decía Aracre.",
+      "score": 0.092,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y luego, minutos más tarde, el propio presidente Alberto Fernández también vía tweet le agradecía al ahora exfuncionario: \"Gracias, querido amigo Antonio Aracre, por tu valiosa participación en nuestro gobierno.",
+      "score": 0.551,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un periodista, un colega prestigioso de Página/12, que se llama **Leandro Renu**, había escrito en un hilo de tweets donde decía justamente esto: que había “off the record” en el oficialismo, que se rumoreaba que Aracre podía ser el próximo ministro de Economía, que había mucho enojo y recogió el guante una voz oficial, la voz de **Gabriela Cerruti**, la portavoz oficial, que tomó el teléfono y le respondió también vía tweet para tratar de bajarle el tono a esta discusión.",
+      "score": 0.045,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y decía Gabriela Cerruti: \"Desconozco cuáles serían las altísimas fuentes porque no es ninguno de los altísimos funcionarios a los que consulté.",
+      "score": 0.769,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero en la Casa Rosada ni filtramos ni desmentimos inventos periodísticos, más allá de la novela que algunos medios crean\", decía Gabriela Cerruti.",
+      "score": 0.277,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue el periodista **Carlos Pagni** este lunes también que deslizó y planteó que le estaban buscando reemplazante al ministro de Economía, Sergio Massa.",
+      "score": 0.159,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un contexto en donde la discusión giraba en torno sobre el malestar del presidente Alberto Fernández respecto a la inflación del 7,7% que se registró el viernes pasado.",
+      "score": 0.079,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Massa se mostró bastante distante al respecto en una actividad de la cual también vamos a hablar y que fue difundir el almuerzo que mantuvo con el gobernador electo de Neuquén, **Rolando “Rolo” Figueroa**, y con su par electo de Río Negro, **Alberto Weretilneck**.",
+      "score": 0.041,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "detalles": {
+    "frases_analizadas": 17
+  },
+  "etiqueta_original": "neutral"
+}

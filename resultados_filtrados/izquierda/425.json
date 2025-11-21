@@ -1,0 +1,29 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "La semana que viene estaré en Paraguay y Bolivia; luego recorreré Sudamérica.",
+      "entidades_detectadas": [
+        "paraguay"
+      ]
+    },
+    {
+      "frase": "He estado en vuelos complicados donde todos los pasajeros buscan alivio, rezan, oran… Pero no veo a nadie que diga: \"No me importa\".",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Creo que Argentina tiene mucha esperanza, una resiliencia envidiable.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "**Dante:** Sí, la gira sigue, tenemos todavía algunas ciudades más de México y España, Europa… Dios mediante, termina en agosto para empezar con Radio 10 y el programa del 13.",
+      "entidades_detectadas": [
+        "méxico"
+      ]
+    }
+  ]
+}

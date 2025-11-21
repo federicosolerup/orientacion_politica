@@ -1,0 +1,65 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "¿Te parece?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el pase participa la Banda Militar del Ejército Argentino, compuesta por el Regimiento de Infantería 1 de Patricios, el Regimiento de Artillería 1 \"Brigadier General Tomás de Iriarte\" y el Regimiento de Granaderos a Caballo \"General San Martín\".",
+      "entidades_detectadas": [
+        "General San Martín",
+        "Infantería 1 de",
+        "Banda Militar del Ejército Argentino"
+      ]
+    },
+    {
+      "frase": "Los invitamos a todos ustedes, desde sus casas en toda la Argentina, a cantar el Himno Nacional Argentino en el Día de la Patria.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Un digno cierre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Muchas gracias a la Banda Militar del Ejército Argentino por su emotiva interpretación del Himno Nacional, que nos acompañó a todos en toda la Argentina.",
+      "entidades_detectadas": [
+        "la Argentina",
+        "Banda Militar del Ejército Argentino"
+      ]
+    },
+    {
+      "frase": "¿La Banda de San Lorenzo, maestro?",
+      "entidades_detectadas": [
+        "Banda de San Lorenzo"
+      ]
+    },
+    {
+      "frase": "Bueno, vamos.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "La Banda Militar del Ejército Argentino se despide con la Marcha de Malvinas.",
+      "entidades_detectadas": [
+        "Banda Militar del Ejército Argentino"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "General San Martín",
+    "la Argentina",
+    "Banda Militar del Ejército Argentino",
+    "¿",
+    "Banda de San Lorenzo",
+    "Infantería 1 de",
+    "Bueno"
+  ]
+}

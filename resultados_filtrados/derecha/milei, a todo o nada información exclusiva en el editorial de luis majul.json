@@ -1,0 +1,181 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El dato que prueba su intención de recuperar todo es el regreso de Sergio Massa, uno de los tres principales responsables, no el único, junto con Alberto Fernández y Cristina Fernández de Kirchner, del peor gobierno de la historia reciente de la Argentina.",
+      "entidades_detectadas": [
+        "sergio",
+        "alberto",
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "En casi absoluto silencio durante casi un año y medio, agazapado, a mi entender, detrás de un noticiero, Massa, el exsuperministro de Economía, presentó hace algunas horas en Parque Norte su plan —yo lo llamaré \"el Plan Massa\"—: presidente en 2027.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "El presidente de la Cámara de Diputados, Martín Menem, hablé con él ayer, intentará que se apruebe el DNU del acuerdo con el Fondo Monetario Internacional.",
+      "entidades_detectadas": [
+        "fondo",
+        "presidente",
+        "cámara"
+      ]
+    },
+    {
+      "frase": "A ver, hablaré en términos generales de la seguridad, de la provincia de Buenos Aires en particular, gobernada por este inútil, esférico, como yo digo, porque es inútil por donde se le mire: Axel Kicillof, que cree en una política de seguridad abolicionista.",
+      "entidades_detectadas": [
+        "axel"
+      ]
+    },
+    {
+      "frase": "Un ministro, con quien conversé, el mismo que caracterizó la movilización de la semana pasada como un intento de golpe de Estado no tradicional, me dijo prácticamente lo siguiente: \"La imagen que quedó no fue la del orden, sino la de la falta de control.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "No es la primera vez que justifican un crimen de Estado contra un peronista, contra un periodista, por ser peronista y periodista.",
+      "entidades_detectadas": [
+        "estado"
+      ]
+    },
+    {
+      "frase": "Viola la Constitución sistemáticamente.",
+      "entidades_detectadas": [
+        "constitución"
+      ]
+    },
+    {
+      "frase": "Un día le preocupa la fortuna de Máximo y Cristina Kirchner.",
+      "entidades_detectadas": [
+        "cristina",
+        "máximo"
+      ]
+    },
+    {
+      "frase": "Otro día les pide a Máximo y Cristina Kirchner todo.",
+      "entidades_detectadas": [
+        "cristina",
+        "máximo",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Le sacaron la caja a Grabois y por eso está tan loco, tan enojado.",
+      "entidades_detectadas": [
+        "grabois"
+      ]
+    },
+    {
+      "frase": "Sin embargo, ya está claro que, incluso antes del ataque a las fuerzas de seguridad del miércoles, se venía registrando una caída en la imagen de Javier Milei, de al menos seis puntos, dependiendo de cuándo se mida.",
+      "entidades_detectadas": [
+        "javier"
+      ]
+    },
+    {
+      "frase": "Se ve que la imagen positiva de Milei, que en enero llegó a su pico máximo —una locura, casi el 60%, 59,4%—; en febrero bajó al 55,7% y en marzo siguió cayendo hasta el 53%.",
+      "entidades_detectadas": [
+        "máximo"
+      ]
+    },
+    {
+      "frase": "¿O son oscilaciones como las que hubo durante la marcha a favor de la Universidad Pública, donde parecía que Milei caía y luego volvió a subir?",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "[…se omite una conversación repetitiva y poco significativa para el texto principal…]\n\n\nMilei es un hombre de suerte.",
+      "entidades_detectadas": [
+        "milei"
+      ]
+    },
+    {
+      "frase": "Esta semana, quizá una de las más difíciles desde que asumió, Mauricio Macri separó la paja del trigo y lo apoyó.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "[…se omite la larga cita de Macri que presenta mucha redundancia con el resto del texto…]  Macri podría haber dicho: \"Estoy mal con mi partido, me hago el distraído\".",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Esto puede hacer retroceder a la Argentina a la inflación y otras cosas.",
+      "entidades_detectadas": [
+        "argentina"
+      ]
+    },
+    {
+      "frase": "Ella sabe; durante el gobierno de Macri también sucedió.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    },
+    {
+      "frase": "Mi partido y el gobierno deberían agradecer, no solo porque la Argentina necesita el acuerdo con el Fondo, sino porque junto con la caída de la imagen de mi partido y de la gestión, se viene registrando una caída de la esperanza, de las expectativas económicas del país, una baja justificada no tanto en las decisiones del gobierno, sino en la incertidumbre que provocan los anuncios de Donald Trump y su impacto en países emergentes como la Argentina.",
+      "entidades_detectadas": [
+        "argentina",
+        "trump"
+      ]
+    },
+    {
+      "frase": "De otra manera, Grabois y Massa no habrían salido a la cancha, Massa, escondido tras algunos periodistas amigos.",
+      "entidades_detectadas": [
+        "massa",
+        "grabois"
+      ]
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, condenada en firme con doble conformidad —Silvina, ¿verdad?—, habla como si no estuviera condenada, habla de economía… […se omite la extensa cita de Cristina Fernández de Kirchner por su repetición y tono coloquial poco adecuado para un texto corregido…].",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández",
+        "kirchner"
+      ]
+    },
+    {
+      "frase": "Si crees que solucionarás este problema con un nuevo préstamo al FMI, recuerda a Macri; y si no te alcanza, recuerda a Alberto Fernández, a quien tú volviste loco, no porque sea una maravilla.",
+      "entidades_detectadas": [
+        "alberto"
+      ]
+    },
+    {
+      "frase": "A esta altura, ya parece claro que no fue la estrategia de Cristina Fernández de Kirchner, Massa, Kicillof, ni la oposición lo que perjudica a mi partido, sino los errores del oficialismo.",
+      "entidades_detectadas": [
+        "cristina",
+        "fernández"
+      ]
+    },
+    {
+      "frase": "La intervención de Santiago Caputo en una nota del presidente a TN, y la acción de Caputo sobre Facundo Manes.",
+      "entidades_detectadas": [
+        "presidente",
+        "caputo"
+      ]
+    },
+    {
+      "frase": "Parece que irán separados.",
+      "entidades_detectadas": [
+        "irán"
+      ]
+    },
+    {
+      "frase": "En la provincia de Buenos Aires, el peronismo y una eventual alianza de los libertarios con el PRO dan porcentajes muy parejos.",
+      "entidades_detectadas": [
+        "pro"
+      ]
+    },
+    {
+      "frase": "Macri le ha hecho saber a mi partido que será imposible acordar en la provincia si no sucede lo mismo en la ciudad.",
+      "entidades_detectadas": [
+        "macri"
+      ]
+    }
+  ]
+}

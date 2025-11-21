@@ -1,0 +1,557 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Ustedes saben que todo el negocio inmobiliario en general se denomina \"Real Estate\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, ese trabaja en \"Real Estate\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, nada, también tiene que ver con los negocios que están protegiendo a Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "De eso les contábamos el otro día: por ejemplo, eliminaron los controles para las sociedades que se crean en 24 horas, las cuales, entre otras cosas, se dedican a realizar actividades inmobiliarias sin que se sepa quién es el dueño de todo eso.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero me acordé del término porque Milei habló el otro día del Estado de la Nación.",
+      "entidades_detectadas": [
+        "Milei",
+        "Estado de la Nación"
+      ]
+    },
+    {
+      "frase": "Y quería hablar, no del \"Real Estate\", sino del real estado de la Nación que recibió Milei, que no fue un Estado de la Nación ideal.",
+      "entidades_detectadas": [
+        "Milei",
+        "Nación",
+        "Estado de la Nación"
+      ]
+    },
+    {
+      "frase": "No es que todo funcionaba bárbaro, pero es falso, no solo todo lo que dijo, sino todo lo que quiere hacer para mejorarlo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hay un hilo de tuits de Daniel Stengl que les quiero compartir.",
+      "entidades_detectadas": [
+        "Daniel Stengl"
+      ]
+    },
+    {
+      "frase": "Lo hizo cuando Milei decía lo mismo en el debate presidencial, que estábamos peor que en la crisis del 2001.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Pero quiero ir rápido mostrándolo, porque lo que muestra es que el país que recibió Milei no tiene nada que ver con el 2001.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Por ejemplo, dato uno: desocupación.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la crisis del 2001, la desocupación rozó el 20%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora está debajo del 7% y es una de las cifras más bajas en 30 años.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, 20% contra 7%, tres veces menos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El segundo dato que muestra Daniel Stengl es que la pobreza subió mucho desde 2017, cuando estaba cerca del 25%.",
+      "entidades_detectadas": [
+        "Daniel Stengl"
+      ]
+    },
+    {
+      "frase": "Hoy está en 40 puntos, pero nada que ver con los casi 70 que tuvimos en 2002, medido con la vara actual del INDEC.",
+      "entidades_detectadas": [
+        "INDEC"
+      ]
+    },
+    {
+      "frase": "En 2002 tuvimos esa cifra en, no, 57%.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, de vuelta, la pobreza tampoco está en los niveles del 2002.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sigue el hilo de tuits de Daniel Stengl.",
+      "entidades_detectadas": [
+        "Daniel Stengl"
+      ]
+    },
+    {
+      "frase": "Empleo.",
+      "entidades_detectadas": [
+        "Empleo"
+      ]
+    },
+    {
+      "frase": "La tasa de empleo (ocupados cada 100 habitantes) es 23% más alta que en 2001 o 2002.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No solo eso, sino que está en valores altos en términos históricos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Alguien me dirá, \"eh, pero falta...\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sí, sí, no es que está todo perfecto, pero es para que entendamos la mentira...",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque después, si te ponen en un contexto que no es real, las soluciones no son acordes al contexto efectivo que está sucediendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sigue el hilo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice: \"Hagamos un zoom en el empleo asalariado privado registrado, que es el que más queremos fomentar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy tenemos 14,6 puestos cada 100 habitantes y claramente está estancado desde 2011.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ese es el gran problema que tenemos en Argentina.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "Tenemos el empleo estancado hace 13 años, el privado registrado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero nada que ver, de vuelta, con la crisis de 2001, cuando esta cifra estaba cercana a 10.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, un tercio menos, casi.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "14,6 a 10\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sigue el hilo de tuits.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dice: \"Empresas cada 1000 habitantes.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro indicador que viene en deterioro desde 2011.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Efectivamente, miren el gráfico, va cayendo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les recomiendo que lo vean en YouTube.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Pero muy lejos de los valores de 2001 a 2002.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Hoy tenemos 11,1 empresas cada 1000 habitantes, cuando en ese entonces teníamos menos de 9.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "O sea, aún después de esta caída, después del 2011, no estamos en los niveles de 2001\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sigue el hilo y dice: \"Salario real mediano en el sector privado registrado.",
+      "entidades_detectadas": [
+        "Salario"
+      ]
+    },
+    {
+      "frase": "Cayó fuerte en 2018-2019 y luego no se recuperó.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero está muy por arriba, un 45% arriba del 2001 y un 75% arriba del 2002.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Salario real.",
+      "entidades_detectadas": [
+        "Salario"
+      ]
+    },
+    {
+      "frase": "Miren el gráfico.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Caída estrepitosa, subida durante los gobiernos peronistas, bajada durante el gobierno de Macri y el último gobierno de Alberto Fernández.",
+      "entidades_detectadas": [
+        "Macri",
+        "Caída",
+        "Alberto Fernández"
+      ]
+    },
+    {
+      "frase": "Y hoy estancamiento del salario real.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Incluso sigue cayendo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Ahora les voy a mostrar otros gráficos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pero lejísimos del 2001-2008.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Salario real.",
+      "entidades_detectadas": [
+        "Salario"
+      ]
+    },
+    {
+      "frase": "Esto es para que te alcance el sueldo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sigue el hilo de tuits.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "\"Consumo per cápita de carne.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es un dato interesante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Cuánta carne podemos comer?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, en 2023 estamos en 112 kilos per cápita, algo debajo de los picos de 2015-2017 (116).",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "En 2001 estábamos en 96 y en 2002 en 80.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Comíamos más de 30 kilos menos en 2002\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Sigue: \"Desigualdad de ingresos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es un dato importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es más técnico, pero es importante.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El coeficiente de Gini, que cuanto más alto, más desigualdad, cuanto más bajo, menos desigualdad, está un 23% por debajo del pico histórico, que fue, efectivamente, 2001-2002\".",
+      "entidades_detectadas": [
+        "Gini"
+      ]
+    },
+    {
+      "frase": "Les comparto esto porque, de vuelta, si a vos te cuentan que el Estado de la Nación es uno, las soluciones son unas.",
+      "entidades_detectadas": [
+        "Estado de la Nación"
+      ]
+    },
+    {
+      "frase": "Si te cuentan que el Estado de la Nación es otro, las soluciones son otras.",
+      "entidades_detectadas": [
+        "Estado de la Nación"
+      ]
+    },
+    {
+      "frase": "Y no hay ningún dato que muestre que es necesario hacer lo que está haciendo Milei de la forma en la que lo está haciendo, en función de los datos, de la realidad.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Ahora, ¿qué hace Milei?",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Se dice que recibió un país devastado, que la culpa es de lo que él denomina \"casta\", y que entonces lo que hay que hacer es destrozar esa casta y hacer una serie de medidas que no tienen nada que ver con mejorar esa situación, que, repito, no es la peor situación en la que hemos estado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Milei primero pateó la pelota tres meses, dijo \"el 25 de mayo\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Estamos a 4 de marzo, falta una eternidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y lo que ha sucedido desde que asumió, y les quiero mostrar los gráficos que también compartió esta semana Cifra, el Centro de Investigaciones de la CTA, es que, si bien venía cayendo el salario (venía cayendo el salario desde 2015), es un anuncio vaticinado: pasamos del salario real, que estaba en un 94,9% (tomando como base 100 noviembre de 2019), y ahora bajó 10 puntos, al 82,5%.",
+      "entidades_detectadas": [
+        "venía",
+        "Centro de Investigaciones de la CTA",
+        "Cifra",
+        "asumió"
+      ]
+    },
+    {
+      "frase": "Y el salario real en alimentos estaba en 84 y bajó a 70.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Casi 15 puntos cayó el salario real en alimentos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esto es el país real.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y esto es lo que generan las políticas de Milei, que no eran necesarias en el país que recibió.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "¿Qué más dijo Milei?",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Bueno, dijo que va a mandar una serie de proyectos de ley \"anticasta\".",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Entre ellos, dijo que quiere que sea un delito de lesa humanidad no ser monetarista.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dijo eso, eh.",
+      "entidades_detectadas": [
+        "eh"
+      ]
+    },
+    {
+      "frase": "Dijo que él quiere que sea un delito de lesa humanidad imprescriptible emitir pesos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un delito de lesa humanidad.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dijo que quiere controlar las elecciones en los sindicatos, pero obviamente no quiere controlar las elecciones dentro de las asociaciones empresarias.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Dijo que le va a descontar el día laboral a los empleados públicos que hagan un paro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, tenemos también otro gráfico de Cifra que muestra cómo cayó el salario de los trabajadores públicos desde que asumió Milei.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Cifra",
+        "asumió Milei"
+      ]
+    },
+    {
+      "frase": "Miren la caída: de 94,4% en términos de salario real a 79%, la línea verde.",
+      "entidades_detectadas": [
+        "94,4%"
+      ]
+    },
+    {
+      "frase": "Bueno, ya les cagó casi 16 puntos Milei a esos trabajadores que ahora amenaza.",
+      "entidades_detectadas": [
+        "Milei",
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Dijo que va a eliminar las jubilaciones de privilegio del presidente y vicepresidente, lo cual es para distraer de lo que efectivamente está sucediendo, y es que un informe de la Universidad General Sarmiento mostró que es falso lo que también dijo hace unos días, que los jubilados son los que menos pobres, el sector donde menos pobres hay.",
+      "entidades_detectadas": [
+        "Universidad General Sarmiento"
+      ]
+    },
+    {
+      "frase": "El 73% de los jubilados en la Argentina es pobre.",
+      "entidades_detectadas": [
+        "la Argentina"
+      ]
+    },
+    {
+      "frase": "Dijo Milei que quiere privatizar las elecciones, lo que dijo que va a eliminar el financiamiento público de los partidos políticos, lo que va a hacer que solo lo puedan financiar las empresas y los narcos.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Dijo que quiere una ley de ficha limpia, esto es parecido a lo que sucede en Brasil, de que si tenés una condena en segunda instancia no podés presentarte a elecciones, lo cual es básicamente proscribir, porque eso no es condena firme.",
+      "entidades_detectadas": [
+        "Brasil"
+      ]
+    },
+    {
+      "frase": "Y lo que pasó en Brasil es que proscribieron a Lula con la ley de ficha limpia, después se demostró que Lula era inocente muchos años después, y convulsionaron el medio.",
+      "entidades_detectadas": [
+        "Brasil",
+        "Lula"
+      ]
+    },
+    {
+      "frase": "Y habló también de que tiene que haber menos asesores para los legisladores, lo cual hace que tus legisladores tengan menos equipo de trabajo y los equipos de trabajo los tengan los grandes estudios de abogados, como el estudio Funes de Rioja, o los contratos de forma irregular, como Federico Sturzenegger, para armar los proyectos de ley.",
+      "entidades_detectadas": [
+        "Federico Sturzenegger"
+      ]
+    },
+    {
+      "frase": "O sea, es privatizar el Congreso también, eliminar los asesores a los legisladores.",
+      "entidades_detectadas": [
+        "Congreso"
+      ]
+    },
+    {
+      "frase": "Todo esto fue el Estado de la Nación que planteó Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Estado de la Nación"
+      ]
+    },
+    {
+      "frase": "Bueno, los datos indican que no es cierto que recibió la preherencia, que no es necesario hacer el recorte de la forma en la que lo está haciendo, que es cruel además, y es cruel de una manera planificada.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Como hemos visto, Milei y su ministra Sandra Pettovello niegan que estén \"rateando\" medicamentos oncológicos para personas que se están muriendo.",
+      "entidades_detectadas": [
+        "Milei",
+        "Sandra Pettovello"
+      ]
+    },
+    {
+      "frase": "Y te justifican todo esto con algún caso que vayan a encontrar (uno entre millones) que no se pueda justificar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En el medio, la gente se muere.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y todo esto, el mismo día, son muchos temas para hablar, que te cierran la Agencia de Noticias Pública para que todo esto no llegue.",
+      "entidades_detectadas": [
+        "Noticias Pública",
+        "Agencia"
+      ]
+    },
+    {
+      "frase": "Bueno, el real estado de la nación no es el que contó Milei.",
+      "entidades_detectadas": [
+        "Milei",
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "El peor estado de la nación lo va a recibir el que venga después, porque si esto sigue así, y si el DNU sigue vigente, y si las políticas económicas de Milei siguen vigentes, y si sigue haciendo todo lo que está haciendo, ahí sí vamos a terminar peor que en el 2001.",
+      "entidades_detectadas": [
+        "Milei"
+      ]
+    },
+    {
+      "frase": "Dale.",
+      "entidades_detectadas": [
+        "Dale"
+      ]
+    },
+    {
+      "frase": "**",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Congreso",
+    "Cifra",
+    "Alberto Fernández",
+    "Daniel Stengl",
+    "Otro",
+    "Lula",
+    "Federico Sturzenegger",
+    "Sigue",
+    "asumió",
+    "venía",
+    "Caída",
+    "Nación",
+    "Centro de Investigaciones de la CTA",
+    "INDEC",
+    "Argentina",
+    "Dijo Milei",
+    "Universidad General Sarmiento",
+    "Salario",
+    "Sandra Pettovello",
+    "Noticias Pública",
+    "asumió Milei",
+    "Bueno",
+    "94,4%",
+    "Brasil",
+    "la Argentina",
+    "Agencia",
+    "¿",
+    "Estado de la Nación",
+    "Dale",
+    "Milei",
+    "Macri"
+  ]
+}

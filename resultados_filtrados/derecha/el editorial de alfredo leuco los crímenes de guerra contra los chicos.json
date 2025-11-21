@@ -1,0 +1,23 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "El propio presidente Volodímir Zelenski hizo referencia al caso que sacudió el alma de Ucrania.",
+      "entidades_detectadas": [
+        "presidente"
+      ]
+    },
+    {
+      "frase": "Olena, la esposa de Zelenski, mediante una carta acusó a Putin de disfrazar como operación especial el asesinato de niños y nombró a Lisa, a Polina, a Arseni.",
+      "entidades_detectadas": [
+        "putin"
+      ]
+    },
+    {
+      "frase": "La sangre de niños por las calles de Ucrania nos debe escandalizar y movilizar.",
+      "entidades_detectadas": [
+        "ucrania"
+      ]
+    }
+  ]
+}

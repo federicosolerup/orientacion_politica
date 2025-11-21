@@ -1,0 +1,82 @@
+{
+  "etiqueta_original": "derecha",
+  "frases": [
+    {
+      "frase": "Tras el confinamiento y la vuelta a las restricciones en Argentina, la presencialidad en las clases sigue siendo un tema de debate.",
+      "entidades_detectadas": [
+        "Argentina"
+      ]
+    },
+    {
+      "frase": "El gobierno, luego de autorizar la Copa América con protocolos, revirtió su decisión debido al descontento social y a las movilizaciones de padres que presionaron a la selección nacional para que apoyara la vuelta a las aulas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El presidente, al primer día de flexibilización de las restricciones, emitió fuertes declaraciones contra los distritos que retomaron las clases presenciales, afirmando: \"Los distritos con clases presenciales están jugando con fuego, y el fuego va a quemar a la gente\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Esta crítica apuntó principalmente a Horacio Rodríguez Larreta, jefe de gobierno de la Ciudad de Buenos Aires, que reanudó las clases en nivel inicial, primaria y parte de la secundaria.",
+      "entidades_detectadas": [
+        "Horacio Rodríguez Larreta",
+        "Ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Sin embargo, otras provincias como Misiones, Corrientes, Jujuy y Salta también habían retomado la presencialidad.",
+      "entidades_detectadas": [
+        "Salta",
+        "Corrientes",
+        "Misiones",
+        "Jujuy"
+      ]
+    },
+    {
+      "frase": "La provincia de Córdoba, con una economía y población significativas, respondió a través de su ministro de Educación, miembro de la coalición de gobierno.",
+      "entidades_detectadas": [
+        "provincia de Córdoba",
+        "Educación"
+      ]
+    },
+    {
+      "frase": "El gobernador Juan Schiaretti (corrección de nombre) refutó las declaraciones presidenciales, asumiendo la responsabilidad de la decisión provincial.",
+      "entidades_detectadas": [
+        "Juan Schiaretti"
+      ]
+    },
+    {
+      "frase": "Si bien la Ciudad de Buenos Aires aún no respondió oficialmente, la postura de Córdoba cuestiona la afirmación presidencial de que la vuelta a clases es la causa del aumento de contagios, que ya han causado la muerte de cerca de 80.000 personas.",
+      "entidades_detectadas": [
+        "Córdoba",
+        "Ciudad de Buenos Aires"
+      ]
+    },
+    {
+      "frase": "Las declaraciones presidenciales parecen señalar a las clases presenciales como el nuevo responsable del aumento de contagios, después de haber culpado anteriormente a otros factores como los runners, los turistas, la Ciudad de Buenos Aires e incluso al tenista Novak Djokovic.",
+      "entidades_detectadas": [
+        "Ciudad de Buenos Aires",
+        "Novak Djokovic"
+      ]
+    },
+    {
+      "frase": "Esta narrativa preocupa a padres, alumnos y docentes, quienes perciben la frase \"el fuego va a quemar a la gente\" como una amenaza directa a la salud de sus hijos, a diferencia de la Sociedad Argentina de Pediatría, que mantiene una postura contraria.",
+      "entidades_detectadas": [
+        "Sociedad Argentina de Pediatría"
+      ]
+    }
+  ],
+  "entidades_mencionadas": [
+    "Corrientes",
+    "Argentina",
+    "Ciudad de Buenos Aires",
+    "Novak Djokovic",
+    "Córdoba",
+    "Misiones",
+    "Sociedad Argentina de Pediatría",
+    "Educación",
+    "Horacio Rodríguez Larreta",
+    "Salta",
+    "Jujuy",
+    "Juan Schiaretti"
+  ]
+}

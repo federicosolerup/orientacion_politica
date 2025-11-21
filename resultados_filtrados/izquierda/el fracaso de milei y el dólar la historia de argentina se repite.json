@@ -1,0 +1,30 @@
+{
+  "etiqueta_original": "izquierda",
+  "frases": [
+    {
+      "frase": "Se afirmó que la inyección de dólares y el respaldo político del secretario del Tesoro de Estados Unidos, durante su visita a Argentina, era una señal de triunfo del gobierno.",
+      "entidades_detectadas": [
+        "tesoro"
+      ]
+    },
+    {
+      "frase": "Este punto adquiere una dimensión geopolítica para el FMI y Estados Unidos, ya que Argentina es un país importante para ambos por su alineación política.",
+      "entidades_detectadas": [
+        "argentina",
+        "fmi"
+      ]
+    },
+    {
+      "frase": "El discurso gubernamental insiste en la aplicación de un programa que cumple, incluso supera, las exigencias del Fondo Monetario Internacional.",
+      "entidades_detectadas": [
+        "fondo"
+      ]
+    },
+    {
+      "frase": "Si esto fracasa, el escenario es incierto, considerando las experiencias ampliamente rechazadas de los gobiernos de Cambiemos (anteriormente PRO) y el Frente de Todos.",
+      "entidades_detectadas": [
+        "cambiemos"
+      ]
+    }
+  ]
+}

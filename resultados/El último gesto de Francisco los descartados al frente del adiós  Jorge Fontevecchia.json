@@ -1,0 +1,884 @@
+{
+  "etiqueta_original": "neutral",
+  "frases": [
+    {
+      "frase": "Bueno, y continuamos con nuestro adiós al Papa.",
+      "entidades_detectadas": [
+        "Bueno",
+        "Papa"
+      ]
+    },
+    {
+      "frase": "En este día 502 de mi ley, titulamos el último adiós al Papa de los últimos.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Porque mañana será el funeral del Papa Francisco en Roma y se han invitado a personas trans, diferentes integrantes de la comunidad LGBTQ+, presos, personas sin hogar y otros llamados \"descartables\" por este sistema, palabra que el Papa Francisco colocó en la agenda en su vocabulario, repitiéndola.",
+      "entidades_detectadas": [
+        "Francisco",
+        "Papa",
+        "Roma",
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Unas 40 personas de estos colectivos acompañarán el féretro hasta la Basílica de Santa María Mayor, cada una portando una rosa blanca en señal de despedida y agradecimiento.",
+      "entidades_detectadas": [
+        "Basílica de Santa María Mayor"
+      ]
+    },
+    {
+      "frase": "Este gesto fue organizado por el Vaticano para honrar el deseo del pontífice de dar un lugar central a los excluidos en su último adiós.",
+      "entidades_detectadas": [
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "Así, en su despedida, los \"descartables\", obviamente entre comillas, no solo están invitados, sino que ocupan un lugar privilegiado, como última expresión del mensaje, de su mensaje en el Reino de Dios, como dice Mateo 20:16: \"Los últimos serán los primeros, y los primeros, los últimos\".",
+      "entidades_detectadas": [
+        "Así",
+        "Mateo",
+        "Reino de Dios"
+      ]
+    },
+    {
+      "frase": "Esto implica un profundo cambio de enfoque en la Iglesia católica, y es, en realidad, ni más ni menos, que la vuelta al cristianismo más clásico, al corazón del mensaje de Jesús.",
+      "entidades_detectadas": [
+        "Jesús",
+        "Iglesia"
+      ]
+    },
+    {
+      "frase": "Gracias a Francisco, a su impronta de cercanía y sencillez, miles de millones de personas en todo el mundo nos reencontramos con el pensamiento fundante de la civilización occidental, que puede ser de gran valor a la hora de combatir la tendencia a la polarización, a la crisis de valores comunitarios que dan cohesión a una sociedad.",
+      "entidades_detectadas": [
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Hoy, la extrema derecha en auge en el mundo propone un capitalismo deshumanizante, un capitalismo de ganadores y perdedores solamente, pero eso no tiene por qué ser necesariamente el rumbo que tome el mundo, y Francisco nos propuso otro camino.",
+      "entidades_detectadas": [
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Vamos a servirnos de algunas películas que retrataron la vida de Jesús para rastrear esta cosmovisión al inicio mismo del cristianismo y vamos a compararla luego con las mismas actitudes del Papa Francisco.",
+      "entidades_detectadas": [
+        "Jesús",
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Primero, vamos a una película del año 2000 donde Jesús sana a un leproso.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "**(Transcripción de la escena de la película)**\n\n**Personaje:** Es un leproso, atrás.",
+      "entidades_detectadas": [
+        "Personaje",
+        "Transcripción"
+      ]
+    },
+    {
+      "frase": "Cubran sus bocas, no respiren.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "No aires.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Siga acercándose.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Juan:** Está bien Juan, está bien.",
+      "entidades_detectadas": [
+        "Juan:*",
+        "Está bien Juan"
+      ]
+    },
+    {
+      "frase": "**Rabino:** No se acerque, Rabino no.",
+      "entidades_detectadas": [
+        "Rabino"
+      ]
+    },
+    {
+      "frase": "Por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por favor.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jesús:** No te alejes de mí.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "**Jesús:** No lo haré.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Señor, si estás dispuesto, puedes limpiarme.",
+      "entidades_detectadas": [
+        "Señor"
+      ]
+    },
+    {
+      "frase": "**Jesús:** Solo si quieres, me entrego a ti.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "**Jesús:** Mi hermana era una sirvienta en la boda y me dijo lo que puedes hacer.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Sé que puedes curarme si quieres.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Jesús:** Estoy dispuesto.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Serás limpiado.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mirad mi mano.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Narrador:** El universo del 'otro'.",
+      "entidades_detectadas": [
+        "Narrador"
+      ]
+    },
+    {
+      "frase": "Mi Jesucristo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más allá del papel que puede cumplir el mito en la exageración o aquel que siente que lo cree absolutamente sincero, como representación de esta película que vimos, Jesús siempre hacía algo que era totalmente anti-intuitivo para sus fieles.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Los valores que representaban los líderes religiosos en ese momento eran el castigo y la justicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Jesús cambió el paradigma, puso el amor, el perdón, la empatía en el centro.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Otro clásico ejemplo es el de María Magdalena.",
+      "entidades_detectadas": [
+        "María Magdalena"
+      ]
+    },
+    {
+      "frase": "Vamos a ver aquí el ejemplo de la frase que perduró hasta nuestros días y resuena siempre: \"Quien esté libre de pecado, que arroje la primera piedra\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**(Transcripción de la escena de la película)**\n\n**Personaje:** Esta mujer está infectada y es injusta a causa de los pecados.",
+      "entidades_detectadas": [
+        "Personaje",
+        "Transcripción"
+      ]
+    },
+    {
+      "frase": "Esta infectada, esta infectada.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Personaje:** Maestro, esta mujer ha sido sorprendida hace poco en flagrante adulterio.",
+      "entidades_detectadas": [
+        "Personaje",
+        "Maestro"
+      ]
+    },
+    {
+      "frase": "Ahora bien, Moisés, bendito sea su nombre, nos ha ordenado que la apedreemos a las mujeres de esta clase, y tú ¿qué dices?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Personaje:** Maestro, aquí está el marido de esta mujer, hay testigos, estamos nosotros, que hemos sido llamados por el Eterno para juzgar, pero nosotros te proponemos aquí el caso, ¿cuál habría de ser nuestro juicio?",
+      "entidades_detectadas": [
+        "Eterno",
+        "¿",
+        "Personaje",
+        "Maestro"
+      ]
+    },
+    {
+      "frase": "**Jesús:** El que de vosotros se sienta sin pecado, que arroje la primera piedra.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "**Jesús:** ¿Dónde están tus acusadores?",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "¿Nadie te ha condenado?",
+      "entidades_detectadas": [
+        "¿Nadie"
+      ]
+    },
+    {
+      "frase": "**Personaje:** Nadie, señor.",
+      "entidades_detectadas": [
+        "Personaje"
+      ]
+    },
+    {
+      "frase": "**Jesús:** Pues yo tampoco te condeno.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Puedes ir, y de ahora en adelante mira de no pecar más.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde está el marido?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Dónde está el marido?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Pues yo tampoco te condeno.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Mira de no pecar más.",
+      "entidades_detectadas": [
+        "Mira"
+      ]
+    },
+    {
+      "frase": "Esta frase de Jesús, obviamente en el caso de María Magdalena, idealiza la prostitución.",
+      "entidades_detectadas": [
+        "Jesús",
+        "María Magdalena"
+      ]
+    },
+    {
+      "frase": "Esta frase de Jesús brinda un mensaje revolucionario desde el punto de vista religioso: si somos todos pecadores ante los ojos de Dios, la clave no pasa por detectar quién peca más y apedrearlo para limpiar las propias miserias, la clave pasa por ayudarnos unos a otros a ser mejores personas.",
+      "entidades_detectadas": [
+        "Jesús",
+        "Dios"
+      ]
+    },
+    {
+      "frase": "Y Jesús no solamente se acercaba a los excluidos, los que estaban abajo, también lo hacía con los publicanos.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Los publicanos eran probablemente la casta más odiada en aquella época, eran los cobradores de impuestos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Aquellos judíos que trabajaban para el Imperio romano eran vistos como traidores por el resto del pueblo.",
+      "entidades_detectadas": [
+        "Imperio romano"
+      ]
+    },
+    {
+      "frase": "Veamos la siguiente escena de la misma película donde Jesús se reúne con estos publicanos que eran supuestamente los máximos pecadores porque eran los cobradores de impuestos.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "**(Transcripción de la escena de la película)**\n\n**Personaje:** Es evidente que ignora las reglas más elementales, reglas que saben hasta los niños.",
+      "entidades_detectadas": [
+        "Personaje",
+        "Transcripción"
+      ]
+    },
+    {
+      "frase": "El suyo es un oficio infamante, un publicano ni siquiera puede testificar en un juicio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Un honrado padre de familia no daría nunca a su hija en matrimonio a uno de ellos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿El un profeta?",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "¿Qué va?",
+      "entidades_detectadas": [
+        "Qué"
+      ]
+    },
+    {
+      "frase": "Un profeta no se mezcla con la inmundicia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Personaje:** ¿Por qué comes y bebes con los publicanos, con los pecadores?",
+      "entidades_detectadas": [
+        "¿",
+        "Personaje"
+      ]
+    },
+    {
+      "frase": "**Jesús:** No son los sanos los que tienen necesidad del médico, sino los enfermos.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "No estoy aquí para llamar a penitencia a los justos sino a los pecadores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Personaje:** Si quieres que hagan penitencia, ¿por qué comes y bebes con ellos?",
+      "entidades_detectadas": [
+        "¿",
+        "Personaje"
+      ]
+    },
+    {
+      "frase": "**Jesús:** Es piedad lo que quiero, no sacrificios.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "**Personaje:** ¿Y por qué nosotros, fariseos, ayunamos?",
+      "entidades_detectadas": [
+        "¿",
+        "Personaje"
+      ]
+    },
+    {
+      "frase": "¿Por qué los discípulos de Juan ayunan?",
+      "entidades_detectadas": [
+        "Juan"
+      ]
+    },
+    {
+      "frase": "¿Y por qué no seguís su ejemplo?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "**Jesús:** ¿Acaso pueden ayunar los amigos del esposo cuando el esposo está con ellos?",
+      "entidades_detectadas": [
+        "¿Acaso",
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Vendrá un día en que el esposo ya no estará con ellos y entonces ayunarán.",
+      "entidades_detectadas": [
+        "Vendrá"
+      ]
+    },
+    {
+      "frase": "**Jesús:** Pero la religión no se hace con las ideas nuevas.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "Quien está acostumbrado a beber vino viejo no se adapta a lo nuevo, sino que dice: \"El vino viejo es mejor\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "La Iglesia católica fue expulsiva durante muchos años con los homosexuales, los divorciados.",
+      "entidades_detectadas": [
+        "Iglesia"
+      ]
+    },
+    {
+      "frase": "Trataba de preservar la moral impoluta, mientras tanto, reproducía lógicas que muchas veces amparaban sacerdotes que habían cometido delitos graves.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Era piadosa con las cúpulas e implacable con los últimos, mientras que Francisco, en una vuelta al origen, que no es una transgresión, sino un regreso al origen, tuvo que ser transgresor para ser un cristiano clásico.",
+      "entidades_detectadas": [
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Vamos a algunos ejemplos, ahora sí, dedicados a Cristo, y pasamos a Francisco.",
+      "entidades_detectadas": [
+        "Cristo",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Vamos primero al Papa Francisco, lo primero que hizo: la defensa de los inmigrantes y los refugiados.",
+      "entidades_detectadas": [
+        "Papa Francisco"
+      ]
+    },
+    {
+      "frase": "Al inicio de su pontificado en 2013, el Papa Francisco presionó al mundo para proteger y acoger a migrantes y refugiados.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Su primer viaje fuera de Roma, en 2013, fue a la isla siciliana de Lampedusa para reunirse con migrantes recién llegados.",
+      "entidades_detectadas": [
+        "Lampedusa",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "Pronto la guerra civil asoló Siria y provocó el éxodo de centenares de miles de personas a través del Mediterráneo.",
+      "entidades_detectadas": [
+        "Mediterráneo",
+        "Siria"
+      ]
+    },
+    {
+      "frase": "El Papa se destacó en acoger él mismo a 12 refugiados sirios en Roma, en su avión, tras visitar el campo de refugiados de Lesbos, en Grecia.",
+      "entidades_detectadas": [
+        "Grecia",
+        "Lesbos",
+        "Papa",
+        "Roma"
+      ]
+    },
+    {
+      "frase": "Denunció la criminalización de la migración y las políticas restrictivas de la Unión Europea.",
+      "entidades_detectadas": [
+        "Unión Europea"
+      ]
+    },
+    {
+      "frase": "\"Quien arriesga su vida en el mar, no invade, busca acogida\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "El fenómeno migratorio no es tanto una emergencia momentánea, siempre buena para la propaganda alarmista, sino un hecho de nuestro tiempo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tras visitar México en 2016 y rezar por los migrantes que fallecieron al cruzar, Francisco dijo del entonces candidato a la presidencia de Estados Unidos, Donald Trump, que cualquiera que construye un muro para mantener fuera a los migrantes no es cristiano.",
+      "entidades_detectadas": [
+        "Donald Trump",
+        "México",
+        "Estados Unidos",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "\"Una persona que quiere construir muros y no puentes no es cristiana.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Eso no está en el Evangelio\".",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Otro ejemplo que tenemos es el Papa Francisco lavando los pies de los reclusos en un Jueves Santo.",
+      "entidades_detectadas": [
+        "Jueves Santo",
+        "Papa",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Este fue el Jueves Santo de 2013, lavando los pies de los presos en una cárcel.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Les contamos que era la clásica imagen del Papa lavando los pies de los reclusos y después dando un beso a cada uno en los pies.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Esto recuerda la novela de Emmanuel Carrère llamada *El Reino*, en que el autor francés reconstruye la historia del cristianismo y cómo quienes escribieron aquellos textos que cambiaron el mundo.",
+      "entidades_detectadas": [
+        "Emmanuel Carrère",
+        "El Reino"
+      ]
+    },
+    {
+      "frase": "Hay una parte particular dedicada al lavado de los pies a los pecadores que vamos a citar.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A muchos no les curará que lo toquen y que lo laven, pero no hay nada más importante para él y para quien lo hace.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Para quien lo hace es el gran secreto del Evangelio.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "A principio queremos ser buenos, queremos hacer el bien a los pobres y poco a poco, lo cual puede llevarnos años, descubres que son ellos lo que nos hacen el bien.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Porque al estar cerca de su pobreza, de su debilidad, de su angustia, ponemos al descubierto también nuestra pobreza, nuestra debilidad y nuestra angustia, que son las mismas, las mismas para todos, y comenzamos a ser más humanos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En definitiva, este es el mensaje también de Jesús, de María Magdalena: \"Quien esté libre de pecado, que tire la primera piedra\".",
+      "entidades_detectadas": [
+        "tire",
+        "Jesús",
+        "María Magdalena"
+      ]
+    },
+    {
+      "frase": "Jesús no solamente salvó a la joven en este acto, también hizo que sus discípulos y quienes querían apedrearla se reencontraran con sus propios pecados, con ellos mismos.",
+      "entidades_detectadas": [
+        "Jesús"
+      ]
+    },
+    {
+      "frase": "El cristianismo clásico, por así decirlo, parece igualarnos a todos en la categoría de pecadores, de imperfectos, de impuros, pero no para que nos castiguemos permanentemente, como pueden pensar ciertas ramas de la religión, sino para que podamos tomar dimensión de todo lo que tenemos que mejorar y que dediquemos nuestro tiempo, en lugar de juzgar a los demás, a juzgarnos a nosotros mismos.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Vamos al siguiente fragmento en el que tenemos algo que pensamos que no íbamos a ver nunca: el Papa recibiendo mujeres trans en el mismísimo Vaticano.",
+      "entidades_detectadas": [
+        "Vaticano",
+        "Papa"
+      ]
+    },
+    {
+      "frase": "Esto sucedió también en el año 2023.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Francisco almuerza con mujeres trans en el Vaticano.",
+      "entidades_detectadas": [
+        "Vaticano",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "**(Transcripción de la noticia)**\n\n**Noticia:** Francisco recibe a mujeres trans en almuerzo especial.",
+      "entidades_detectadas": [
+        "Noticia",
+        "Transcripción",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "El Papa recibió a un grupo de mujeres trans en el sur de Italia, la mayoría inmigrantes latinoamericanas y trabajadoras sexuales, durante un almuerzo especial por la Jornada Mundial de los Pobres.",
+      "entidades_detectadas": [
+        "Italia",
+        "Papa",
+        "sur de"
+      ]
+    },
+    {
+      "frase": "Una de ellas incluso fue invitada a la mesa del Papa.",
+      "entidades_detectadas": [
+        "Papa"
+      ]
+    },
+    {
+      "frase": "En la pandemia, muchas pidieron refugio en la iglesia de Torvallianica, pues no tenían qué comer ni dónde vivir, y el Vaticano las ayudó a acceder a servicios de salud y vacunarse anticipadamente contra el COVID-19.",
+      "entidades_detectadas": [
+        "Torvallianica",
+        "Vaticano"
+      ]
+    },
+    {
+      "frase": "**Persona:** Gracias, tío, al UL por todo lo que nos ha ayudado en la pandemia, cuando hemos estado mal, incluso el argentino con MMS.",
+      "entidades_detectadas": [
+        "Gracias",
+        "MMS",
+        "Persona",
+        "UL"
+      ]
+    },
+    {
+      "frase": "**Persona no binaria:** Esto le respondió a una persona no binaria.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Francisco:** Sí.",
+      "entidades_detectadas": [
+        "Sí",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Sí, no me alejo.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Bueno, por si alguien no lo sabe.",
+      "entidades_detectadas": [
+        "Bueno"
+      ]
+    },
+    {
+      "frase": "Una persona no binaria es aquella que no es ni un hombre ni una mujer, o al menos no totalmente, y no todo el tiempo, hay personas que como fluyen.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Celia (Persona no binaria):** Yo soy Celia, yo soy una persona no binaria, y también soy cristiana.",
+      "entidades_detectadas": [
+        "Yo",
+        "Celia"
+      ]
+    },
+    {
+      "frase": "A veces como que me es muy difícil llevar como las dos cosas en la vida, y quería preguntarle si veo un espacio en la iglesia para las personas trans y las personas no binarias, o el colectivo LGTB en general.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Francisco:** Toda persona es hijo de Dios, toda persona.",
+      "entidades_detectadas": [
+        "Dios",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Dios no rechaza a nadie, Dios es Padre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Y yo no tengo derecho a echar a nadie de la iglesia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Más aún, debes recibir siempre.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "En la iglesia no puedes cerrarle la puerta a nadie, a nadie.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Persona no binaria:** ¿Qué piensas de aquellas personas de la iglesia, o sacerdotes, que promueven el odio y utilizan la Biblia para sustentar esos discursos de odio?",
+      "entidades_detectadas": [
+        "¿Qué"
+      ]
+    },
+    {
+      "frase": "Y te leen como el Evangelio para decir, yo no te estoy excluyendo, lo dice la Biblia.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "**Francisco:** Yo me harto y me canso de decir que ese no es el mensaje de Jesús.",
+      "entidades_detectadas": [
+        "Jesús",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Esa gente son infiltrados.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Son infiltrados que aprovechan la cultura de la iglesia para sus pasiones personales, para su estrechez personal.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Es una de las corrupciones de la iglesia, ¿no es cierto?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Esas ideologías cerradas, que en el fondo, toda esa gente tiene un drama interno, un drama de incoherencia interior muy grande, que viven para condenar a los demás porque no saben perdonar por sus propias faltas, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Y generar uno de estos tipos de condena es un incoherente.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Tiene algo adentro.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Impresionante, ¿no?",
+      "entidades_detectadas": [
+        "¿"
+      ]
+    },
+    {
+      "frase": "Esto que hizo Francisco fue un cambio de paradigma radical y, a la vez, como venimos diciendo, un regreso a Cristo.",
+      "entidades_detectadas": [
+        "Cristo",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Efectivamente, tenemos mucho para aprender, y puede ser un puntapié para tener un marco moral de resolución de los problemas sociales.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Cuánto más fácil serían las negociaciones en los conflictos bélicos, políticos, sociales, si pudiéramos reconocernos los unos a los otros, como nos enseñó Francisco, y cuánto más fácil sería ponernos de acuerdo si elimináramos la expulsión, la degradación del otro, la humillación como posibilidad en el contacto con el otro.",
+      "entidades_detectadas": [
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Mañana, en el último adiós a Francisco, los últimos serán los primeros, serán los que acompañen primero el féretro de Francisco en su descanso eterno.",
+      "entidades_detectadas": [
+        "Mañana",
+        "Francisco"
+      ]
+    },
+    {
+      "frase": "Luego, a todos nos queda la tarea de aprender de sus enseñanzas y cambiar la tristeza en alegría para ser mejores.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Por eso nos vamos con el \"Dale Alegría a mi Corazón\", interpretado por la Universidad de San José de San Juan de la Uribe.",
+      "entidades_detectadas": [
+        "Dale Alegría",
+        "San Juan de la Uribe",
+        "Universidad de San José"
+      ]
+    },
+    {
+      "frase": "**Cambios Realizados:**\n\n*   **Corrección de nombres y apellidos:** No se identificaron nombres o apellidos a corregir en el texto.",
+      "entidades_detectadas": [
+        "Cambios Realizados",
+        "Corrección"
+      ]
+    },
+    {
+      "frase": "*   **Corrección ortográfica:** Se corrigieron errores ortográficos como tildes faltantes, errores de concordancia verbal y nominal, y uso incorrecto de mayúsculas.",
+      "entidades_detectadas": [
+        "Corrección"
+      ]
+    },
+    {
+      "frase": "*   **Mejora de la cohesión y coherencia:** Se agregaron conectores y frases de transición para mejorar el flujo del texto.",
+      "entidades_detectadas": [
+        "Mejora"
+      ]
+    },
+    {
+      "frase": "Se dividió el texto en párrafos más cortos para facilitar la lectura.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "Se corrigieron repeticiones innecesarias y se clarificaron algunas ideas.",
+      "entidades_detectadas": []
+    },
+    {
+      "frase": "*   **Formato:** Se modificó el formato del texto original para facilitar la lectura, incluyendo negritas en los títulos, espaciado y separaciones entre las transcripciones de los diálogos.",
+      "entidades_detectadas": [
+        "Formato"
+      ]
+    },
+    {
+      "frase": "Se eliminaron algunas palabras repetitivas y redundantes.",
+      "entidades_detectadas": []
+    }
+  ],
+  "entidades_mencionadas": [
+    "Gracias",
+    "Juan:*",
+    "¿Nadie",
+    "Reino de Dios",
+    "El Reino",
+    "Vamos",
+    "¿Qué",
+    "Papa Francisco",
+    "Lesbos",
+    "San Juan de la Uribe",
+    "Señor",
+    "sur de",
+    "Cambios Realizados",
+    "Noticia",
+    "Rabino",
+    "Maestro",
+    "Donald Trump",
+    "Más",
+    "Italia",
+    "MMS",
+    "Universidad de San José",
+    "tire",
+    "Está bien Juan",
+    "Jesús",
+    "Vaticano",
+    "Estados Unidos",
+    "Narrador",
+    "Celia",
+    "Mejora",
+    "México",
+    "Transcripción",
+    "Persona",
+    "Grecia",
+    "Dale Alegría",
+    "Siga",
+    "Torvallianica",
+    "Roma",
+    "Corrección",
+    "Unión Europea",
+    "Mateo",
+    "el Vaticano",
+    "Bueno",
+    "Mirad",
+    "Primero",
+    "Eterno",
+    "María Magdalena",
+    "Lampedusa",
+    "Vendrá",
+    "Mediterráneo",
+    "Emmanuel Carrère",
+    "Mañana",
+    "UL",
+    "Basílica de Santa María Mayor",
+    "Iglesia",
+    "Francisco",
+    "Yo",
+    "¿Dónde",
+    "¿",
+    "Imperio romano",
+    "Mira",
+    "Cristo",
+    "La Iglesia",
+    "Dios",
+    "Papa",
+    "Así",
+    "¿Acaso",
+    "Personaje",
+    "Juan"
+  ]
+}
